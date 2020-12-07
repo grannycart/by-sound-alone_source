@@ -1,0 +1,167 @@
+writing/submarine-world/sub_world-story_1_pseudocode.wiki
+Last modified: Mon Dec 07, 2020  11:35AM
+
+# sub_world-story_1_pseudocode
+
+## rough narrative notes
+
+~10,000 words, I think.
+
+How to open this story? (I want to save the cold-open hiding-at-depth comparison-to-sister-ship open for a novel-length story.) Is there some other good way to open with hiding-at-depth in the middle of the chase? Or do we open with searching pings from the authority ships? Or with quiet smuggling running through the deep? Drop them right into the tension? Or slowly build up the awareness that they are in trouble? Also consider how fast you need to introduce the rules/settings of the world for a first story vs getting to the entertainment more quickly.
+
+Need to touch early on the fact that they are hauling magnetic mines, illegally, and so are making this run in full smuggling mode. This might be an argument for starting with the dispatcher talking about the load. Also allows you to get some of the rules/settings across more quickly. Maybe it starts at an underwater semi-clandestine depot, and the sub is being loaded through the giant nose port? That's when we get the first look at the boat?
+
+Need to figure out why the sub is chasing them: potentially because they are hauling magnetic mines for some other authority, and this authority ship knows that (how do they know that? Might want some kind of info/intelligence leak implied?) Maybe the authorities raided the semi-clandestine depot on some kind of tip about the magnetic warheads, and got the information they were shipped off on our sub from the trader? This would also require some kind of message transmitted from the depot to the sub. Maybe they rendezvous with a speed boat? Or the gnat leaves afterwards and meets them with info? -- that seems pretty strong. Allows you to introduce the gnat and her nephew a little deeper into the story. Though pacing-wise this is starting to feel longer than 10k words. Maybe it can be broken up into 10k sections? It would be good to be able to have not-exactly-cliffhangers, but stories that lead from one to the next sometimes.
+
+Make the meat of the story the chase/hiding. Try to capture the feeling of an O'Brian sea-chase (without the book-length build-up to it). How to capture the tension while the long hours are passing? Maybe it's that they keep getting detected and keep going deeper. Then eventually they are up against the limits of their batteries. Also consider using the mini-sub to make a lot of noise and try to distract the hunters... because this basic principle should be used in many stories, it would be nice to capture the contrast between the noisy fast sub and the quiet slow one in this first story. Certainly them running on no sleep and snorting cocaine helps.
+
+The climax of this story should be the magnetic mines hand inflated from the _Gnat_ and left in the path of the chasing sub. Maybe we need some last-second tension switch --- something that makes it seem like the mines are going to fail, until they don't.
+
+
+
+
+## pseudocode example (as used in filthy scum rising)
+-------------------------------------------------
+### Section description gets three ###s
+
+* {paragraph description}
+* [ ] A line that should be added to final --- whether as is, or needing to be re-written.
+	{thought or comment on above line}
+
+* {paragraphs separated by space, above, new graf below, description of what the graf covers in this line}
+* [ ] First line of second graf
+	> draft attempt at actual prose {especially good if you have a good idea for prose while putting together pseudocode}
+-------------------------------------------------
+* process note: you can use :GP for clean writing format, and then add :OP for indented line wraps which is nice for doing pseudocode/checklist setup
+
+
+## pseudocode draft 1
+-------------------------------------------------
+
+### opening dialog with trader in remote clandestine sub depot
+* {establish the use and possibilities of the magnetic warhead cargo}
+* {establish the reason to use smugglers; hint at role of authorities}
+* {describe depot: filthy and noisy, akin to the sub building location in red october maybe}
+
+### shortly later, _Prospect_ is being loaded
+* {description of the sub; that it has a cargo bay because it is a transport sub}
+* {describe how the boat is docked by the forward loading hatch mated to an underwater depot dock}
+* {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; lashed into the cargo bay}
+
+### on the boat for the first time
+* {introduce a new character in the loading bay; maybe one of the cons, leaning against the hull, (maybe asleep?) casually monitoring the loading of the boat.}
+* {fuel and supplies being loaded too; a long, worn and greasy fuel hose runs up the center of the cargo bay}
+* {Percy goes up to the con; introduce Freddie who is going over technical preparations of the boat}
+
+### they embark
+* {seal up boat and disconnect}
+	* {don't make too big a thing of the technical details, it will take away from the story and the tone}
+	* {remember to focus on _description_ of the grime, darkness, cold, hardness. Make it feel like Deadwood or Blood Meridian, though with good story. Do NOT make it feel like a sci-fi or naval/military story.}
+
+### underway
+* {describe basic operation of boat; maybe here is where you introduce how they need to run on the surface to recharge the batteries from the diesel engines}
+* {dialog about authorities?}
+* {dialog about concern about carrying magnetic mines? weapons are more likely to attract authority attention than any other cargo, even drugs or fuel}
+* {a first sighting of a possibly pursuing authority ship. off in the distance, black and foreboding}
+* {they decide to not take risks, and dive}
+
+### re-surfacing
+* {they run for 24 hours; and decide with the batteries down to 1/3 that they should surface and run the diesels}
+* {on the surface they fire up the engines, and it is not long before they see the black ship on the horizon again}
+	* {remember distance limitations of how far you can see from the surface of the ocean}
+* {this makes them more nervous, and they decide to dive again even with low batteries, start to employ some evasion tactics, running slow and deep}
+* {running slow will make them late for their rendezvous with the _Gnat_, but they think they need to}
+* {IT WOULD BE BETTER IF THEY WERE FIRED ON BEFORE THEY MEET THE GNAT --- CREATE A SENSE OF MYSTERY WHY THEY ARE BEING ATTACKED.}
+	* {again, like butch cassidy}
+	* {there could be some dialog, possibly funny, where they wonder why THEY are being persecuted, innocent smugglers that they are}
+
+### rendezvous with the _Gnat_
+* {they are scheduled to rendezvous with the _Gnat_ at depth --- via the mating collar}
+	* {might be more fun to hold off the underwater mating until later, when they have to get Freddie aboard. maybe they rendezvous on the surface only here.} 
+* {they worry the _Gnat_ might not be there, when they arrive, there is no sign of the _Gnat_}
+* {with the engines shut down they wait silently, figuring this will help them evade any possible pursuers.}
+* {they detect a boat on the surface, and worry for a bit, until they resolve it into something small --- must be the _Gnat_.}
+	* {Or maybe it's that since Schemey knows about their pursuers, he ran the _Gnat_ noisily on the surface far away, and then dove and ran very slowly back to the rendezvous point.}
+* {the _Gnat_ dives and mates with them.}
+
+### Schemey on the deck
+* {introduce Schemey in an in-character way, snorting stimulants or something.}
+* {Schemey tells them the depot was attacked and taken by one of the authorities soon after the _Prospect_ left.}
+* {doesn't have specific details, but it's a good bet the authorities are on their tail}
+
+### planning what to do
+* {batteries are low on both the _Prospect_ and the _Gnat_. They need to run on the surface.}
+* {they decide to send the _Gnat_ up to run on the surface noisily and fast. The _Prospect_ will follow, and run at full steam to try and get out of range while charging batteries.}
+
+### on the surface
+* {maybe this is when they come up in a blessed fog?}
+	* {remember that to use the inflating magnetic mines on their pursuers (in a cool way, mid-water column) the pursuer needs to be a sub. So either re-work the beginning so they are being pursued by a sub (detected via sonar?) or the Authority switches their main pursuer to a sub.} 
+* {they run on the surface through the darkness/fog keeping the _Prospect_ darkened; maybe engines at half-speed to keep the noise down}
+* {the _Gnat_ runs hot and loud to attract the attention of anyone following. stacks blowing flame}
+* {the _Gnat_ heads off in a different direction}
+* {the _Prospect_ and the _Gnat_ keep in touch via (CB) radio}
+
+### the enemy surfaces
+* {the _Gnat_ gets warning shots fired at it (tracer rounds or something)}
+* {Schemey reports in to the _Prospect_ and then dives and goes into evasive maneuvers -- fast and loud, though running on electric}
+	* > "Sorry yos, I gotta make myself scarce now, or I won't be around much longer to help." 
+* {Do we hear a transmission from the enemy? Or do they just shoot to kill? In some ways it might be more fun to keep them dark and silent, like butch cassidy and the sundance kid}
+* {the enemy chases the _Gnat_ for a way, but doesn't take the bait, and heads back on a path towards the _Prospect_}
+* {Schemey warns the _Prospect_ they are coming back.}
+
+### staring at dials
+* {enemy sights the _Prospect_ running slow and dark, and fires a non-warning shot hitting the deck}
+* {the _Prospect_ crash-dives and the real sea-chase begins. The _Prospect_ runs not too deep, trying to maintain some balance of speed and quiet.}
+* {but the enemy has good high-tech equipment, they can hear the _Prospect_ (or maybe there is a loud noise on the _Prospect_ for some reason that alerts the enemy to where they are? Something louder than the electric motors?)}
+* {the enemy fires a torpedo at the _Prospect_.}
+* {torpedo incoming, homing with active sonar}
+	* {avoid 'sonar', maybe say something like} > the loud pinging of the homing device in the torpedo guidance system.
+* {the _Prospect_ hard-crash deep dives, to get under the torpedo (how deep can torps go?); or, the _Gnat intervenes and guides the torp away; or, the _Prospect_ releases some kind of counter-measure? shredded tin cans?}
+* {the torpedo misses, the but the _Prospect_ is heading down with less-than full battery}
+* {they go scarily staring-at-dials deep}
+* {maybe close to the bottom, so they can't be seen on active sonar}
+
+### hiding deep
+* {when it seems TOO deep they level off, with the boat's structural elements groaning.}
+	* {below the deep scattering layer? bring that in here? or save for another story?}
+* {Maybe they DO pop a rivet? It gives away their position?}
+* {then it's all silence, dampness, darkness, quiet, and fear.}
+* {no idea what the _Gnat_ is up to. Do they try to radio Schemey?}
+
+### the plan
+* {they know they have to get out of this situation, they run the engines very slowly and try to move off}
+* {Freddie comes up with the plan to use the magnetic mines}
+	* {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
+* {they realize they have to risk going shallow to mate with the _Gnat_}
+* {Freddie goes off to work on his project.}
+* {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
+
+### mate with the _Gnat_
+* {they fearfully and quietly come shallow, listening carefully for the enemy}
+* {they get the _gnat connected, ok}
+* {but as they are loading parts onto the _Gnat_ (no time to explain the plan to Schemey) the enemy comes into range. maybe fires again?}
+* {Freddie jumps into the _Gnat_ and orders it off the mating collar (the _Prospect_ is a little unwieldy with the _Gnat_ on her deck)}
+
+### in the _Gnat_
+* {Freddie starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Schemey as he does.}
+* {the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat is there just to run interference -- so they have to use the _Prospect_ itself as the bait.}
+* {Percy will run the _Prospect_ at 100 meters, full-engine like they are trying to get away.}
+* {the enemy sub will run at the same depth, trying to line up an underwater torpedo shot.}
+* {The _Gnat has to run _between_ them, and release their homemade magnetic mines. And hope Freddie got the calculations right.}
+
+### executing the plan
+* {the _Prospect_ gets into position}
+* {the enemy sub lines up for it}
+* {the _Gnat_ makes it's first pass, releases mines}
+* {enemy sub fires, but the _Gnat_ has passed at just the time to pick up the torpedo}
+* {the _Gnat_ blows her tanks and shoots up, escapes the torpedo}
+* {the _Gnat_ runs full blast on the surface, circling around for another pass. fast-dives as it comes around between the two big subs}
+* {_Gnat_ releases new set of magnetic mines. a beat passes. the enemy sub runs into them, they explode, and it goes down with dramatic and terrifyingly awesome sounds (describe) heard on board the _Prospect_ sonar.}
+
+### In port
+* {they arrive at their destination port and dock and unload}
+* {Percy decides the mines are useful enough she buys a few crates from the traders}
+* {some kind of minor twist to the ending? something dark? or comic?}
+
+
+
