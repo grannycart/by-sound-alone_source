@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Mon Dec 07, 2020  11:35AM
+Last modified: Tue Dec 08, 2020  12:08PM
 
 # sub_world-story_1_pseudocode
 
@@ -35,7 +35,7 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 * process note: you can use :GP for clean writing format, and then add :OP for indented line wraps which is nice for doing pseudocode/checklist setup
 
 
-## pseudocode draft 1
+## pseudocode draft 1.1 (see git commits for earliest draft)
 -------------------------------------------------
 
 ### opening dialog with trader in remote clandestine sub depot
@@ -62,32 +62,51 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 * {describe basic operation of boat; maybe here is where you introduce how they need to run on the surface to recharge the batteries from the diesel engines}
 * {dialog about authorities?}
 * {dialog about concern about carrying magnetic mines? weapons are more likely to attract authority attention than any other cargo, even drugs or fuel}
-* {a first sighting of a possibly pursuing authority ship. off in the distance, black and foreboding}
-* {they decide to not take risks, and dive}
 
 ### re-surfacing
 * {they run for 24 hours; and decide with the batteries down to 1/3 that they should surface and run the diesels}
-* {on the surface they fire up the engines, and it is not long before they see the black ship on the horizon again}
-	* {remember distance limitations of how far you can see from the surface of the ocean}
-* {this makes them more nervous, and they decide to dive again even with low batteries, start to employ some evasion tactics, running slow and deep}
-* {running slow will make them late for their rendezvous with the _Gnat_, but they think they need to}
+* {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
+* hours go by, boredom sets in
+
+### they are fired on
+* {they are all half-asleep on the midnight watch} 
+	* {bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat}
+* {nobody is on sonar because it's not military ship, and because you can't hear anything above the sound of the engine anyway}	
 * {IT WOULD BE BETTER IF THEY WERE FIRED ON BEFORE THEY MEET THE GNAT --- CREATE A SENSE OF MYSTERY WHY THEY ARE BEING ATTACKED.}
 	* {again, like butch cassidy}
 	* {there could be some dialog, possibly funny, where they wonder why THEY are being persecuted, innocent smugglers that they are}
+* a torpedo passes extremely close by
+	* > In the darkened con, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the con and they all jumped alert.
+	* > "torpedo." Percy said. "Close one." Freddie replied cooly but with simmering nerves. "Some fuck is shooting at us? Some fuck is trying to rape my boat?" Percy was pissed. This was not the way the game was played. "Like the scorched landscape of hell. Shut down the diesels." She yelled to Chips through the comms tube. "Take us down to scope depth. We can't stay a heavy target on the surface with a maniac out there firing at us."
+	* The vibration of the diesel engine trailed away.
+	* > "Diesel is off, green lights across the board. Diving to scope depth" {this might be too naval} The con man spun a wheel here and there, and turned the bigger wheel that adjusted the down plane. His eyes locked on the depth gauge.
+	* > "Now that the diesel is off, someone get on sonar" Said Percy. "I'll do it." {Donovan} volunteered. "No.. Sorry {Donovon} I need someone with better ears. Go wake up {Johnson}
+* {Percy puts the scope up and swings it around, scanning the horizon.}
+	* {She sees nothing}
+	* {remember distance limitations of how far you can see from the surface of the ocean}
+
+### they dive again
+* {{Johnson} can hear the enemy sub out there. gives some details on it: maybe its nuclear?}
+* {they decide to dive again even with low batteries, start to employ some evasion tactics, running slow and deep}
+* {running slow will make them late for their rendezvous with the _Gnat_, but they think they need to}
 
 ### rendezvous with the _Gnat_
 * {they are scheduled to rendezvous with the _Gnat_ at depth --- via the mating collar}
 	* {might be more fun to hold off the underwater mating until later, when they have to get Freddie aboard. maybe they rendezvous on the surface only here.} 
+	* {but doing it here can be a way to explain the dull technicalities that it has to happen above the _Gnat's_ test depth. If you explain that here you don't have to slow down the action later when they are forced to come back up to get Freddie on board the _Gnat_.}
 * {they worry the _Gnat_ might not be there, when they arrive, there is no sign of the _Gnat_}
 * {with the engines shut down they wait silently, figuring this will help them evade any possible pursuers.}
 * {they detect a boat on the surface, and worry for a bit, until they resolve it into something small --- must be the _Gnat_.}
 	* {Or maybe it's that since Schemey knows about their pursuers, he ran the _Gnat_ noisily on the surface far away, and then dove and ran very slowly back to the rendezvous point.}
+		* {this tactic needs to be used later, so maybe skip it now}
 * {the _Gnat_ dives and mates with them.}
 
 ### Schemey on the deck
 * {introduce Schemey in an in-character way, snorting stimulants or something.}
 * {Schemey tells them the depot was attacked and taken by one of the authorities soon after the _Prospect_ left.}
-* {doesn't have specific details, but it's a good bet the authorities are on their tail}
+	* > some young go-getter officer from one of the authorities. seemed to be making a lot of noise over pretty small potatoes -- one shipment of weapons _parts_ not even whole weapons. Everyone at the depot felt like they were over-stepping the unwritten rules of undersea commerce. It was bad for business that this guy was so aggressive in the depot. he must be trying to impress upper level folks or something.}
+	* > thing is: he feels like since we're moving weapons parts, he has the right to shoot on sight.
+	* > that's bullshit, most transport subs are legit and deserve at least a warning before they are fired on. he's going to get innocent people killed. not to mention us
 
 ### planning what to do
 * {batteries are low on both the _Prospect_ and the _Gnat_. They need to run on the surface.}
@@ -111,6 +130,7 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 
 ### staring at dials
 * {enemy sights the _Prospect_ running slow and dark, and fires a non-warning shot hitting the deck}
+	* > The speeding chunks of shrapnel, smacked against the hull, and echoed through the whole boat.
 * {the _Prospect_ crash-dives and the real sea-chase begins. The _Prospect_ runs not too deep, trying to maintain some balance of speed and quiet.}
 * {but the enemy has good high-tech equipment, they can hear the _Prospect_ (or maybe there is a loud noise on the _Prospect_ for some reason that alerts the enemy to where they are? Something louder than the electric motors?)}
 * {the enemy fires a torpedo at the _Prospect_.}
