@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Wed Dec 09, 2020  11:15AM
+Last modified: Wed Dec 09, 2020  12:34PM
 
 # sub_world-story_1_pseudocode
 
@@ -40,6 +40,8 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 
 ### opening dialog with trader in remote clandestine sub depot
 * {establish the use and possibilities of the magnetic warhead cargo}
+	* {see notes in style experimentation} 
+* {consider not revealing that Percy is female until the depot guy floats some kind of flirty line at her, and she rejects him smartly: 'married to my boat' -- no reason to put this off till later, might as well jump on this piece of character development right now.}
 * {establish the reason to use smugglers; hint at role of authorities}
 * {describe depot: filthy and noisy, akin to the sub building location in red october maybe}
 
@@ -55,8 +57,8 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 
 ### they embark
 * {seal up boat and disconnect}
+	* this might not be a place for a lot of description, just enough to get the technical ideas across
 	* {don't make too big a thing of the technical details, it will take away from the story and the tone}
-	* {remember to focus on _description_ of the grime, darkness, cold, hardness. Make it feel like Deadwood or Blood Meridian, though with good story. Do NOT make it feel like a sci-fi or naval/military story.}
 
 ### underway
 * {describe basic operation of boat; maybe here is where you introduce how they need to run on the surface to recharge the batteries from the diesel engines}
@@ -76,11 +78,11 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 	* {again, like butch cassidy}
 	* {there could be some dialog, possibly funny, where they wonder why THEY are being persecuted, innocent smugglers that they are}
 * a torpedo passes extremely close by
-	* > In the darkened con, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the con and they all jumped alert.
+	* > In the darkened con, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. Before she knew what it was, her fingers gripped the browning steel armrests of the captain's chair. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the con and they all jumped alert.
 	* > "torpedo." Percy said. "Close one." Freddie replied cooly but with simmering nerves. "Some fuck is shooting at us? Some fuck is trying to rape my boat?" Percy was pissed. This was not the way the game was played. "Like the scorched landscape of hell. Shut down the diesels." She yelled to Chips through the comms tube. "Take us down to scope depth. We can't stay a heavy target on the surface with a maniac out there firing at us."
 	* The vibration of the diesel engine trailed away.
-	* > "Diesel is off, green lights across the board. Diving to scope depth" {this might be too naval} The con man spun a wheel here and there, and turned the bigger wheel that adjusted the down plane. His eyes locked on the depth gauge.
-	* > "Now that the diesel is off, someone get on sonar" Said Percy. "I'll do it." {Donovan} volunteered. "No.. Sorry {Donovon} I need someone with better ears. Go wake up {Johnson}
+	* > "Diesel is off, green lights across the board. Diving to scope depth" {this might be too naval} The con man spun a wheel here and there, and turned the bigger wheel, steel polished to a gleam from decades of use, that adjusted the down plane. His eyes locked on the depth gauge.
+	* > "Now that the diesel is off, someone get on sonar" Said Percy. "I'll do it." {Donovan} volunteered. "No.. Sorry {Donovon} I need our best ears. Go wake up {Johnson}
 * {Percy puts the scope up and swings it around, scanning the horizon.}
 	* {She sees nothing}
 	* {remember distance limitations of how far you can see from the surface of the ocean}
@@ -107,6 +109,7 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 	* > some young go-getter officer from one of the authorities. seemed to be making a lot of noise over pretty small potatoes -- one shipment of weapons _parts_ not even whole weapons. Everyone at the depot felt like they were over-stepping the unwritten rules of undersea commerce. It was bad for business that this guy was so aggressive in the depot. he must be trying to impress upper level folks or something.}
 	* > thing is: he feels like since we're moving weapons parts, he has the right to shoot on sight.
 	* > that's bullshit, most transport subs are legit and deserve at least a warning before they are fired on. he's going to get innocent people killed. not to mention us
+	* {Is this where you drop some hints about how the Authorities have less control over the 3D medium of the undersea than the 2D surface? This could be saved for a later story}
 
 ### planning what to do
 * {batteries are low on both the _Prospect_ and the _Gnat_. They need to run on the surface.}
@@ -114,9 +117,9 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 
 ### on the surface
 * {maybe this is when they come up in a blessed fog?}
-	* {remember that to use the inflating magnetic mines on their pursuers (in a cool way, mid-water column) the pursuer needs to be a sub. So either re-work the beginning so they are being pursued by a sub (detected via sonar?) or the Authority switches their main pursuer to a sub.} 
 * {they run on the surface through the darkness/fog keeping the _Prospect_ darkened; maybe engines at half-speed to keep the noise down}
 * {the _Gnat_ runs hot and loud to attract the attention of anyone following. stacks blowing flame}
+	* {this might be where you have Shemey make some cool adjustement to the diesels so they run _louder_, try to drown out the _Prospect's_ engine noise}
 * {the _Gnat_ heads off in a different direction}
 * {the _Prospect_ and the _Gnat_ keep in touch via (CB) radio}
 
@@ -145,7 +148,7 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 * {when it seems TOO deep they level off, with the boat's structural elements groaning.}
 	* {below the deep scattering layer? bring that in here? or save for another story?}
 * {Maybe they DO pop a rivet? It gives away their position?}
-* {then it's all silence, dampness, darkness, quiet, and fear.}
+* {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
 * {no idea what the _Gnat_ is up to. Do they try to radio Schemey?}
 
 ### the plan
@@ -164,7 +167,7 @@ The climax of this story should be the magnetic mines hand inflated from the _Gn
 
 ### in the _Gnat_
 * {Freddie starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Schemey as he does.}
-* {the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat is there just to run interference -- so they have to use the _Prospect_ itself as the bait.}
+* {the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they gave off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait.}
 * {Percy will run the _Prospect_ at 100 meters, full-engine like they are trying to get away.}
 * {the enemy sub will run at the same depth, trying to line up an underwater torpedo shot.}
 * {The _Gnat has to run _between_ them, and release their homemade magnetic mines. And hope Freddie got the calculations right.}

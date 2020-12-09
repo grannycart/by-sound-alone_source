@@ -1,12 +1,16 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Dec 08, 2020  01:59PM
+Last modified: Wed Dec 09, 2020  12:24PM
 
 # Subworld Story 1 --- notes and todos
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. build a map in their head for them.
 	* See notes on memory house in writing
 * maybe with the engine running full blast, it SOUNDS heavy and grimey, like dopesmoker.
 	* try to think about what a listener to dopesmoker would want to read. 
-
+* think carefully about where you dive into description:
+	* character's clothing, for example, should just be mentioned in casual passing: "she placed the pencil into the front pocket of her cracking leather overalls."
+	* but you might want to go all-in with description when they are staring at dials until pressure.
+* remember to focus on _description_ of the grime, darkness, cold, hardness. Make it feel like Deadwood or Blood Meridian, though with good story. Do NOT make it feel like a sci-fi or naval/military story.
+* consider NOT having any exterior shots. it may help the sense of isolation and being in a can if all action takes place _inside_ (the depot, the _Prospect_, the _Gnat_) 
 
 
 
