@@ -1,13 +1,13 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Wed Dec 09, 2020  12:34PM
+Last modified: Thu Dec 10, 2020  10:57AM
 
 # sub_world-story_1_pseudocode
 
 ## rough narrative notes
-
-~10,000 words, I think.
-
-How to open this story? (I want to save the cold-open hiding-at-depth comparison-to-sister-ship open for a novel-length story.) Is there some other good way to open with hiding-at-depth in the middle of the chase? Or do we open with searching pings from the authority ships? Or with quiet smuggling running through the deep? Drop them right into the tension? Or slowly build up the awareness that they are in trouble? Also consider how fast you need to introduce the rules/settings of the world for a first story vs getting to the entertainment more quickly.
+* ~10,000 words, I think.
+* How to open this story? 
+	* (I want to save the cold-open hiding-at-depth comparison-to-sister-ship open for a novel-length story.) 
+	* Is there some other good way to open with hiding-at-depth in the middle of the chase? Or do we open with searching pings from the authority ships? Or with quiet smuggling running through the deep? Drop them right into the tension? Or slowly build up the awareness that they are in trouble? Also consider how fast you need to introduce the rules/settings of the world for a first story vs getting to the entertainment more quickly.
 
 Need to touch early on the fact that they are hauling magnetic mines, illegally, and so are making this run in full smuggling mode. This might be an argument for starting with the dispatcher talking about the load. Also allows you to get some of the rules/settings across more quickly. Maybe it starts at an underwater semi-clandestine depot, and the sub is being loaded through the giant nose port? That's when we get the first look at the boat?
 
