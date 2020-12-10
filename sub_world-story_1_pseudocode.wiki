@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Thu Dec 10, 2020  12:06PM
+Last modified: Thu Dec 10, 2020  06:03PM
 
 # sub_world-story_1_pseudocode
 
@@ -135,6 +135,7 @@ Last modified: Thu Dec 10, 2020  12:06PM
 * [ ] {enemy sights the _Prospect_ running slow and dark, and fires a non-warning shot hitting the deck}
 	* [ ] > The speeding chunks of shrapnel, smacked against the hull, and echoed through the whole boat.
 * [ ] {the _Prospect_ crash-dives and the real sea-chase begins. The _Prospect_ runs not too deep, trying to maintain some balance of speed and quiet.}
+	* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 * [ ] {but the enemy has good high-tech equipment, they can hear the _Prospect_ (or maybe there is a loud noise on the _Prospect_ for some reason that alerts the enemy to where they are? Something louder than the electric motors?)}
 * [ ] {the enemy fires a torpedo at the _Prospect_.}
 * [ ] {torpedo incoming, homing with active sonar}
