@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Sat Dec 12, 2020  11:10AM
+Last modified: Sat Dec 12, 2020  02:03PM
 
 # sub_world-story_1_pseudocode
 
@@ -29,13 +29,66 @@ Last modified: Sat Dec 12, 2020  11:10AM
 * [ ] "Sure. If you send your loaders down to the dock you should find someone in the boat who will tell you where to stash the cargo.  I'll radio ahead that I OK'd it.
 * [ ] "I expect my loaders will be there within the hour."
 
-* {Percy walks through the depot}
+* {Percy walks through the main hall of the depot}
 * [ ] Captain Percy hummed to herself as she left the depot office and walked through the main hall of the noisy depot, and she realized that her humming was resonating in her skull with the ever-present background hum of the machinery that kept the place functioning.
 * [ ] Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the steel that formed all the structures of Percy's world.
 * [ ] She stepped around the oil pools on the concrete floor as she made her way.
-* [ ]  
+* [ ] Everywhere was the smell of tobacco smoke, oil, and sharp ozone, mixed with the occasional clink of chains rolling through a block, straining to lift some mass of a metal object. 
+* [ ] There was also the inevitable and unintelligible shout of panic or correction as some other massive metal object did not do what it was supposed to do.
 
+* {describe the sides of the depot, not-main-hall}
+* [ ] All this noise and work happened in the main hall of the depot because that was where the space was to do it.
+* [ ] Along the walls of the hall, back in the less well-lit shadows, were stacked an uncountable number of crates, mostly of wood, in some places 20 feet high.
+* [ ] Mixed among these crates, an here and there in an alcove set back from the wall, were tables set up by traders who negotiated the value of the crates and where they would be moving from or to.
+* [ ] This whole part of the depot was hollowed out of stone underground. At one end of the main hall was a large elevator that connected up to the surface, where there was an outdoor storage yard of dirt and pebble, surrounded by layered fences of rusting barbed wire.
+* [ ] At the other end of the hall was a string of bays where the boats were docked. 
 
+* {Percy steps into a shop}
+* [ ] Captain Percy had a list of some hardware she needed for her boat, so she veered off into one of the alcoves where the proprietor had cracked open a number of crates and they stood open on their tops or sides, batting and hay used as packing material spilling out onto the cold concrete ground.
+* [ ] She selects some things and purchases them.
+	* {It would be best if these were things that somehow related to the story later on} 
+
+* {maybe she stops for a drink at the canteen too}
+* [ ] She steps up to the bar that is nearly at the height of her chest. It is broad and made of dark wood from which decades of drinkers had worn away the original shellac coating, and a universe of spilled drinks had stained to a mottled gray color.
+
+* {Percy walks down the tunnel to the sub mating docks}
+* [ ] With a couple of drinks sloshing in her empty belly, Percy heads back out and down the main hall.
+* [ ] It's quieter now, apparently while in the bar alcove she had crossed the threshold of time by which the people creating most of the noise in the main hall judged their day's labors to be done.
+* [ ] There were only a few people left, closing up safes with an echoing clang, and hammering shut crates they did not want to leave open over night before heading up to the hall to the elevator to the surface.
+* [ ] The heels of Percy's boots echo back at her from the curving stone walls.
+* [ ] The tunnel has a gentle downward slope so any natural water seeping in drains down to the bottom.
+* [ ] But along with that water goes any garbage, oils, chemicals, metal shavings, and dropped coffee.
+* [ ] The grit of the floor grinds under her boot.
+* [ ] A quarter mile down the tunnel, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
+* [ ] In front of dock 4L, there are stacked a few dozen wooden crates, her cargo being prepped for loading onto her boat.
+* [ ] Each of the crates is branded with "XL industries" and "CAUTION!"
+* [ ] XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.
+
+* {Percy steps onto the Prospect}
+* [ ] Percy stepped over the short rams the cargo loaders had placed over the ledge of mating collar of the dock and stepped into her boat: the merchant transport submarine _Prospect_.
+* [ ] Like most merchant subs, the _Prospect_ had a single enormous cargo hold.
+* [ ] From where Percy stood now, a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot.
+* [ ] The gang of men doing the loading, huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds, were swarming around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay.
+* [ ] A shorter man occasionally broke in with direction on how best to move the crates. 
+* [ ] He was talking to a short woman in leather overalls and a thick braid of black hair.
+* [ ] Percy walked up to them. "How did you get stuck on loading duty Chips?"
+* [ ] "The sour prospects of fortune are determined by the whims of hell, Cap."
+* [ ] "Indeed, especially when your cargo is explosive. I need you prepping the diesel, I want to get out of here tonight. Go get {Sanchez} and have him watch these guys."
+* [ ] "That's well. I'd much rather tend my tiny controlled explosions than watch these packages chaos demons loaded aboard."
+* [ ] "We can finish up down here if you ladies have work to do." Interjected the short man. He seemed nervous, as one might well be when maneuvering materials inside a steel tube under 50 meters of water. It wasn't _likely_, but if anything should happen, there was no escape for any of them.
+* [ ] "Yeah, no offence, but we always have a crew member monitor loading, even when it isn't as buttery as this cargo."
+* [ ] "Suit yourself, it's your boat."
+* [ ] "Yes, it is."
+* [ ] Chips headed off into the depths of the ship to relate with her diesel engine and see if she could dig up {Sanchez}.
+
+* {Describe the _Prospect_}
+* [ ] The cargo bay of the _Prospect_ was maybe 60 meters long.
+* [ ] The front three quarters or so were generally kept empty, or filled with cargo for a specific job.
+* [ ] The part furthest from her was filled with the boat's working supplies: spare parts, canned foods they never intended to open, a slapped-together workbench they had a constant need for and nowhere else to stash.
+* [ ] Behind that was a hatch that led to the lower decks where the engine room and the mechanical rooms were located.
+* [ ] Next to the hatch to the lower-decks was a short steel stair that led to the upper decks which ran the length of the boat, all the way forward above the cargo bay.
+* [ ] They contained all the crew cabins of the boat: galley, crew quarters, captain's quarters, and a large room they referred to as "stowage" --- and which was where Percy really thought the workbench belonged, if there had been room for it.
+* [ ] Above that was the con and the sail
 
 
 
@@ -73,9 +126,9 @@ Last modified: Sat Dec 12, 2020  11:10AM
 * [X] {describe depot: filthy and noisy, akin to the sub building location in red october maybe}
 
 ### shortly later, _Prospect_ is being loaded
-* [ ] {description of the sub; that it has a cargo bay because it is a transport sub}
-* [ ] {describe how the boat is docked by the forward loading hatch mated to an underwater depot dock}
-* [ ] {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; lashed into the cargo bay}
+* [X] {description of the sub; that it has a cargo bay because it is a transport sub}
+* [X] {describe how the boat is docked by the forward loading hatch mated to an underwater depot dock}
+* [X] {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; lashed into the cargo bay}
 
 ### on the boat for the first time
 * [ ] {introduce a new character in the loading bay; maybe one of the cons, leaning against the hull, (maybe asleep?) casually monitoring the loading of the boat.}
@@ -94,6 +147,7 @@ Last modified: Sat Dec 12, 2020  11:10AM
 
 ### re-surfacing
 * [ ] {they run for 24 hours; and decide with the batteries down to 1/3 that they should surface and run the diesels}
+	* {This needs to be at least 24 hours if they left the depot after hours, since you want the depot raid to be about 12 hours later, when it's busy, and the Gnat still needs enough time to catch up}
 * [ ] {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
 * [ ] hours go by, boredom sets in
 
