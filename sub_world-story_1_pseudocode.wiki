@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Fri Dec 11, 2020  12:16PM
+Last modified: Sat Dec 12, 2020  11:10AM
 
 # sub_world-story_1_pseudocode
 
@@ -16,9 +16,8 @@ Last modified: Fri Dec 11, 2020  12:16PM
 * [ ] "So why us? Why not just ship them with conventional transport, stamped and sealed by whichever Authority you are shipping them under? Or...  should I not ask?"
 * [ ] "Ah, yes. Well, as I mentioned, there is quite a demand for these...  tools. Many entities could put them to use, and many other entities would sooner they didn't. Shipping under one Authority would only attract the ire of some other Authority. Conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to, shall we say, interference from another protagonist. The most reliable way is to use a unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
 * [ ] "Certainly if we were any less reliable, I wouldn't be standing here talking to you right now.
-* [ ] "Ah hmm. Reliable for sure. And might I say quite handsome as well. Perhaps you would like to move to the depot lounge and quench your thirst?"
-* [ ] "{Flintock,}If you are suggesting what I think you are suggesting, then
-      I need to remind you of the old cliche about captains that says: I'm married to my boat. You can't compete with her."
+* [ ] "Ah hmm. Reliable for sure. And might I say quite handsome as well. Perhaps you would like to move to the depot canteen and quench your thirst?"
+* [ ] "{Flintock,}If you are suggesting what I think you are suggesting, then I need to remind you of the old cliche about captains that says: I'm married to my boat. You can't compete with her."
 * [ ] "Well. Regardless, are you at least willing to take this delicate cargo off my worn and tired hands?"
 * [ ] "Can you promise me there won't be trouble with any of the Authorities if I take this job?
 * [ ] "You know an honest trader cannot make a promise like that these days. However, out of a surfeit of respect for your, ah, reliability, I am willing to offer 20 percent above the standard hull-load fee. Provided the cargo arrives at the destination."
@@ -32,8 +31,9 @@ Last modified: Fri Dec 11, 2020  12:16PM
 
 * {Percy walks through the depot}
 * [ ] Captain Percy hummed to herself as she left the depot office and walked through the main hall of the noisy depot, and she realized that her humming was resonating in her skull with the ever-present background hum of the machinery that kept the place functioning.
-* [ ] Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the very metal that formed all the structures of Percy's world.
+* [ ] Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the steel that formed all the structures of Percy's world.
 * [ ] She stepped around the oil pools on the concrete floor as she made her way.
+* [ ]  
 
 
 
@@ -70,7 +70,7 @@ Last modified: Fri Dec 11, 2020  12:16PM
 	* [X] {see notes in style experimentation} 
 * [X] {establish the reason to use smugglers; hint at role of authorities}
 * [X] {consider not revealing that Percy is female until the depot guy floats some kind of flirty line at her, and she rejects him smartly: 'married to my boat' -- no reason to put this off till later, might as well jump on this piece of character development right now.}
-* [ ] {describe depot: filthy and noisy, akin to the sub building location in red october maybe}
+* [X] {describe depot: filthy and noisy, akin to the sub building location in red october maybe}
 
 ### shortly later, _Prospect_ is being loaded
 * [ ] {description of the sub; that it has a cargo bay because it is a transport sub}
