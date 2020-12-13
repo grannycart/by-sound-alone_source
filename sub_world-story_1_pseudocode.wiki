@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Sat Dec 12, 2020  02:03PM
+Last modified: Sun Dec 13, 2020  10:32AM
 
 # sub_world-story_1_pseudocode
 
@@ -39,7 +39,7 @@ Last modified: Sat Dec 12, 2020  02:03PM
 * {describe the sides of the depot, not-main-hall}
 * [ ] All this noise and work happened in the main hall of the depot because that was where the space was to do it.
 * [ ] Along the walls of the hall, back in the less well-lit shadows, were stacked an uncountable number of crates, mostly of wood, in some places 20 feet high.
-* [ ] Mixed among these crates, an here and there in an alcove set back from the wall, were tables set up by traders who negotiated the value of the crates and where they would be moving from or to.
+* [ ] Mixed among these crates, here and there in an alcove set back from the wall, were tables set up by traders who negotiated the value of the crates and where they would be moving from or to.
 * [ ] This whole part of the depot was hollowed out of stone underground. At one end of the main hall was a large elevator that connected up to the surface, where there was an outdoor storage yard of dirt and pebble, surrounded by layered fences of rusting barbed wire.
 * [ ] At the other end of the hall was a string of bays where the boats were docked. 
 
@@ -59,7 +59,7 @@ Last modified: Sat Dec 12, 2020  02:03PM
 * [ ] The tunnel has a gentle downward slope so any natural water seeping in drains down to the bottom.
 * [ ] But along with that water goes any garbage, oils, chemicals, metal shavings, and dropped coffee.
 * [ ] The grit of the floor grinds under her boot.
-* [ ] A quarter mile down the tunnel, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
+* [ ] A quarter mile down, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
 * [ ] In front of dock 4L, there are stacked a few dozen wooden crates, her cargo being prepped for loading onto her boat.
 * [ ] Each of the crates is branded with "XL industries" and "CAUTION!"
 * [ ] XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.

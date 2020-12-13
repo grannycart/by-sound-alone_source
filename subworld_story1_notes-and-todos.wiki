@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Dec 11, 2020  12:16PM
+Last modified: Sun Dec 13, 2020  11:58AM
 
 # Subworld Story 1 --- notes and todos
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
@@ -16,7 +16,7 @@ Last modified: Fri Dec 11, 2020  12:16PM
 
 
 ----------------------------------------
-### magnetic mines trading opening draft experiments
+## magnetic mines trading opening draft experiments
 
 "Magnetic mines? What for?"
 
@@ -76,6 +76,62 @@ matter of reliability, you know. Nothing more."
 talking to you right now.
 ----------------------------------------
 
+
+----------------------------------------
+## 'staring at dials' draft section
+* {See style experiments in sub world shuttle bay for draft experiments of generalized scenes of going deep, staring at dials, listening. This section is for experimenting within the pseudocode 1.1 structure you already laid out.}
+
+The _Prospect_ cruised on the uncanny oil-slick surface of the ocean, partially submerged, with just the sail slicing through the glassy surface and leaving a low wake behind them to mark their passage across this curved globe. They left the sail above so they could get the lookout mast as high as possible from the surface. In the lookout ring, Gregory clung, the hum of the diesels transmitted up the mast and crossed into the soles of his feet through the rusted metal grating he stood upon. With a pair of binoculars he scanned slowly around the horizon, but there was nothing to be seen but a flat circle of dark infinity, bisected with pure blackness on the lower half and almost-blackness on the upper half, like peeping into a viewport that looked into a frozen and unlit hell. 
+
+Five meters below Gregory, Percy stood on the deck of the sail dressed in a black waxed overcoat with the collar turned up. The unvarying resonance of her boat mixed with the unvarying ripple of the wake they left behind and left her feeling numb, though the night was not very cold. The hatch at her feet stood open, and a faint red glow rose up through the open hole from the con.
+
+"Anything Gregory?" She asked, more to break up the sensory deprivation than because she expected any kind of affirmative answer.
+
+"No. If they are out there, they are dark as we are."
+
+"And we're not going to hear them until we can turn off the diesels."
+
+"How much longer, do you think, before we can submerge and go back on batteries?"
+
+"Well, the longer we can run the diesels the better, obviously. And while it would charge them much faster, we can't run them hot and loud. It's all a game of how much charge we can put on the battery before being found out on the surface here. We need at least a few hours at this rate."
+
+Through the open hatch they heard Schemey's voice coming statically over the mono speaker of the radio: "_Prospect_, _Prospect_, do you copy?" 
+
+"I've got you Schemey. Over." 
+
+"Yeah, you know, I managed to get them to chase me for an hour or so by running the _Gnat's_ engines hot and noisy, but they must have realized that I wasn't a transport sub because a few minutes ago they broke off and headed back in your direction. I assume to try to listen for you in a quieter place. Over."
+
+"Hmm" Freddie said, "someone on their boat must have very good ears."
+
+Percy came down the ladder and took the mic from Freddie.
+
+"Schemey, this is Percy. I want you to keep running as you are. If they hear you continuing to move off, maybe they will doubt they made the right move by not following you. Over."
+
+"That will give me a chance to charge up my batts too. Over."
+
+"OK. I'll have Freddie figure out some reasonable rendezvous point and get back to you. Over out."
+
+Percy hung the mic back up on the radio mounted above her and eased into her captain's chair trying to think of what to do next.
+
+"What do you think Freddie?"
+
+Freddie took a hanging rag and wiped the lenses of his pince-nez before placing them on the bridge of his nose and leaning over to look at the row of dials that showed the engine RPMs and battery charge.
+
+"It is, of course, a matter of the chance of them finding us on the open ocean versus our ability to get our batteries charged. If they _do_ find us, we will need all the charge we can get. I think we need to assume they will fire on us again, and we will likely not get the warnings and negotiations we usually get from Authority ships."
+
+"Goddamn violent motherfuckers. Someone needs to tell them the wars are over."
+
+"Are they really?" Freddie asked.
+
+"Let's not get into that again." Said Percy tiredly. "OK, lets start shutting the diesels down every half hour or so and do a careful listen. Maybe we'll manage to hear them before they get into any kind of firing range."
+
+"Hard on the engines all that stopping and starting. Chips isn't going to like it."
+
+"Chips won't like getting hit with a torpedo either. We can't just run deaf for hours on end, it's too risky."
+
+"I'll go have a chat with her." Freddie said, and lowered his huge body down the ladder to the deck below.
+
+Deep in the lower levels of the _Prospect_ the diesel engines fired their syncopated and timed explosions by the thousand. The pulses blended together and spun the dynamos that generated their searing force of electricity that was partially dumped straight into the giant motors that spun the greasy drive shafts, and partially flowed into the heavy leaded chemical concoctions that would store power for later. This cycle drove through the hole boat, in a slow ruminating bass rhythm that in one instance might lull a person almost to sleep, and in another distract them totally from what they were doing. In many cases it was a consoling drone of progress and maybe profit. In this case it was a cutting drone of fear.
 
 
 
