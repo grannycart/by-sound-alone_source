@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Sun Dec 13, 2020  10:32AM
+Last modified: Sun Dec 13, 2020  11:58AM
 
 # sub_world-story_1_pseudocode
 
@@ -8,7 +8,7 @@ Last modified: Sun Dec 13, 2020  10:32AM
 -------------------------------------------------
 ## pseudocode draft 2 -- full pseudocode draft
 
-
+### Opening dialog about magnetic mines with depot trader
 * {opening dialog: about magnetic mines}
 * [ ] "So they're magnetic mines?" Captain Percy asked, running a finger down the oil-stained page attached to a metal clipboard with chipping black paint.
 * [ ] "Magnetic warheads, to be precise. The units are agnostic about what weapon they are installed in. Doesn't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks, grinding their way back and forth across, and under, the surface of the sea, leaving their sillage of oil and carbon and noise trailing behind them. And all of them are made of heavy, thick steel. There's more than enough call for these weapons. Just deliver them to within a meter or two of the sides of any of the beasts and _chunk_, _bam_, down goes your target."
@@ -16,8 +16,12 @@ Last modified: Sun Dec 13, 2020  10:32AM
 * [ ] "So why us? Why not just ship them with conventional transport, stamped and sealed by whichever Authority you are shipping them under? Or...  should I not ask?"
 * [ ] "Ah, yes. Well, as I mentioned, there is quite a demand for these...  tools. Many entities could put them to use, and many other entities would sooner they didn't. Shipping under one Authority would only attract the ire of some other Authority. Conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to, shall we say, interference from another protagonist. The most reliable way is to use a unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
 * [ ] "Certainly if we were any less reliable, I wouldn't be standing here talking to you right now.
+
+* {depot trader flirts with Percy}
 * [ ] "Ah hmm. Reliable for sure. And might I say quite handsome as well. Perhaps you would like to move to the depot canteen and quench your thirst?"
 * [ ] "{Flintock,}If you are suggesting what I think you are suggesting, then I need to remind you of the old cliche about captains that says: I'm married to my boat. You can't compete with her."
+
+* {wrap up negotiation for cargo haul}
 * [ ] "Well. Regardless, are you at least willing to take this delicate cargo off my worn and tired hands?"
 * [ ] "Can you promise me there won't be trouble with any of the Authorities if I take this job?
 * [ ] "You know an honest trader cannot make a promise like that these days. However, out of a surfeit of respect for your, ah, reliability, I am willing to offer 20 percent above the standard hull-load fee. Provided the cargo arrives at the destination."
@@ -29,6 +33,7 @@ Last modified: Sun Dec 13, 2020  10:32AM
 * [ ] "Sure. If you send your loaders down to the dock you should find someone in the boat who will tell you where to stash the cargo.  I'll radio ahead that I OK'd it.
 * [ ] "I expect my loaders will be there within the hour."
 
+### Interim: depot description, a little time passes before Percy gets back to her boat
 * {Percy walks through the main hall of the depot}
 * [ ] Captain Percy hummed to herself as she left the depot office and walked through the main hall of the noisy depot, and she realized that her humming was resonating in her skull with the ever-present background hum of the machinery that kept the place functioning.
 * [ ] Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the steel that formed all the structures of Percy's world.
@@ -64,6 +69,7 @@ Last modified: Sun Dec 13, 2020  10:32AM
 * [ ] Each of the crates is branded with "XL industries" and "CAUTION!"
 * [ ] XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.
 
+### first time on the Prospect
 * {Percy steps onto the Prospect}
 * [ ] Percy stepped over the short rams the cargo loaders had placed over the ledge of mating collar of the dock and stepped into her boat: the merchant transport submarine _Prospect_.
 * [ ] Like most merchant subs, the _Prospect_ had a single enormous cargo hold.
@@ -100,7 +106,7 @@ Last modified: Sun Dec 13, 2020  10:32AM
 
 -------------------------------------------------
 ## pseudocode example (as used in filthy scum rising)
-### Section description gets three ###s
+### Section/scene description gets three ###s
 
 * {paragraph description}
 * [ ] A line that should be added to final --- whether as is, or needing to be re-written.
