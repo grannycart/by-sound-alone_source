@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Dec 14, 2020  04:29PM
+Last modified: Tue Dec 15, 2020  12:20PM
 
 # Subworld Story 1 --- notes and todos
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
@@ -206,9 +206,72 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 
 Hours passed like this, the droning, the monotony, the only thing changing being the slowly, slowly climbing needles on the battery charge indicators.
 
-* {During the third hour, they hear something}
-* {They go back up to sail depth, the lookout goes up, and suddenly the enemy is on them}
-* {hard-fire hits the sail and echoes through the hull}
+Four hours of this. It was on the eighth time that they had the engines shut down, and that sat silent in the water that {Johnson} heard something. She was slowly swinging the mics around their rear starboard side at about 160 degrees that there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second off the pin, like some prairie rodent checking for raptors. {Johnson} spun the mic direction wheel back across the spot, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
+
+"Pers!" {Johnson} yelled up to the con. "Pers, I've got something."
+
+Percy slid down the ladder from the con and stepped up behind {Johnson}, her eyes on the signal-indicator needle as {Johnson} continued to scan back and forth across the range that triggered it.
+
+"Something, but not much. Any ideas?"
+
+"It's mechanical, for sure. But they are either a good distance off, or closer and very quiet."
+
+"Keep the mics pegged to that spot for the moment. See if you can hear anything that might help us figure out how far they are."
+
+"You don't want me to ping them with active and get a certified distance?"
+
+"It's too risky. They'll know exactly where we are if we do that. Keep listening, and maybe we'll get lucky and they'll give themselves away."
+
+Percy climbed back up the ladder to the con, and as her head came through the hatch she gave orders. 
+
+"Bring the sail back above the water. Get Gregory back up on the mast with the binoculars and scanning rear, starboard. Let me know if he sees anything. And do it very quietly."
+
+At her listening station, {Johnson} could hear the hissing of compressed air slowly pushing water out of the ballast tanks of the _Prospect_ and could feel the boat slowly rising. The hissing air was loud enough to make her uncomfortable, but she knew that they were letting the air in as slowly as they could get away with. Hopefully the other sub was too far off to make much of it.
+
+In a few minutes they lay absolutely still in the water, with the sail up above the surface. Through the mics {Johnson} could hear the sail hatch gently opened, and Gregory's soft steps on the steel ladder up to the lookout ring.
+
+She focused on the sound behind that. She had the mics locked in on the source of the mechanical sound in the water. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium they worked in, gently tickled the sensitive membranes of the ship's mics, and then ran at lightspeed through the ships wiring, pass the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was nothing but a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling just a few hertz, but in a evenly repetitive way that was unmistakable.
+
+And then {Johnson} heard a clink. Some kind of metal touched something, somewhere out in that black expanse. A sharp, high sound, unrepeated. The needle on the signal-strength meter made a distinct point about it before returning to it's spot just above the pin. It took {Johnson} a few beats to process it, but her brain came back with the answer: cutlery. A steel fork perhaps, stabbed too forcefully through a small hunk of blooded meat.
+
+"Percy!" {Johnson} yelled up to the con, "they're right on us!"
+
+Gregory, in the lookout ring, had been scanning the black-on-black horizon, back and forth across the range {Johnson} had given him. Now a vertical black line moved steadily up across the field of his binoculars. He lowered them down instinctively, and there before him rose a shadowy leviathan, breaking through the surface of the flat sea. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell.
+
+The shadows of people briefly caused the eyes to blink, and Gregory knew they were on the deck of the sub that followed them merely hundreds of meters away.
+
+"The beast!" cried Gregory, and dropped down the ladder to the deck of the _Prospect's_ sail. A burst of heavy machine gun fire split the silence and echoed out in concentric rings across the water. Sprigs of flame lit up the deck of the sub following them, and lead smacked heavily against the steel of the sail and echoed through the hull of the _Prospect_.
+
+"Take us down!" Percy yelled to her entire crew. She looked up through the hatch at Gregory, still on the deck of the sail.
+
+"Gregory! Get down here, and seal that hatch. We're diving."
+
+Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the following sub so that all enunciation blended together into one long echoing drone of command, like the voice of a dog's possessing demons that drive the vulnerable ones to murder.
+
+"Do not submerge. Disengage your motors and prepared to be boarded."
+
+This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed it's unshakeable and inviolable authority to issue such a command. But this ever-expanding description of pyramidal powers was cut off by Gregory closing the sail hatch.
+
+More shrapnel smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily, there was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
+
+{Donovan} and {Gregory} looked at her in fear. Freddie looked back at them steadily through his pince-nez and told them to get the boat underwater.
+
+"We're safe from bullets underwater."
+
+"Yeah, but not from torpedoes. Why didn't they just torpedo us already? It doesn't seem like they have much compunction about sending us to the bottom."
+
+"They were too close. And they also thought there was a chance they could capture our boat if we had been scared enough to just roll over."
+
+"So we're not that scared?" {Donovan} asked as he spun open the flood valves.
+
+Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them. 
+
+"Set the downplanes steep." Said Freddie. "Full power to the electric motors, drive us down as fast as possible."
+
+
+
+
+* {why didn't they hit us with a torpedo? Too close! and they probably thought they had a chance to capture the boat in tact.}
 * {they crash-dive}
 
 
