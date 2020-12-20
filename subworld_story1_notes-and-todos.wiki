@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Dec 16, 2020  12:23PM
+Last modified: Sun Dec 20, 2020  12:32PM
 
 # Subworld Story 1 --- notes and todos
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
@@ -260,7 +260,7 @@ More shrapnel smacked against the sail and along the hull of the _Prospect_ just
 
 "Yeah, but not from torpedoes. Why didn't they just torpedo us already?" {Donovan} asked. "It doesn't seem like they have much compunction about sending us to the bottom."
 
-"They were too close. And they also thought there was a chance they could capture our boat if we had been scared enough to just roll over."
+"They were too close, they need to be at a minimum safe distance to fire without risking blowing themselves up. And they also thought there was a chance they could capture our boat if we had been scared enough to just roll over."
 
 "So we're not that scared?" {Donovan} asked, spinning open the flood valves.
 
@@ -270,29 +270,62 @@ Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes of wate
 
 The _Prospect's_ bow tilted towards the depths, and everyone in the con found a seat or grabbed a hanging leather strap counter-angling against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent. 
 
-"I don't think I could ever get used to going down fast like this, controlled or no." said {Donovan}, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. Along with some input from the nav station and the listening station on the deck immediately below the con, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. And what {Donovan} was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities. The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. The depth indicator was the one that {Donovan's} eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weigh of his stomach: the _Prospect_ was a many-thousand ton steel stone dropping through the water column. It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed out of existence like distant matter pulled into a singularity.
+"Tell me what they are doing {Johnson}!" Percy yelled through the open hatch.
 
-{Donovan} was starting to panic, his eyes were wide and unblinkingly scanning the wall of dials, and sweat was running in threads down his temples. Percy stepped forward, her feet angled against the incline of the deck, and put her hand on his shoulder. She watched the dials more calmly, at their current depth, she was not worried about her boat, even going through stressing maneuvers like this. She was worried about the one following them. She looked down through the hatch to the nav and comms room below. "{Johnson} can you hear what they are doing?"
-
-"Ya Perc. I can hear their tanks flooding too. They are following us down."
+{Johnson} pushed her straight blonde strands of hair behind her ears and put her headphones on again."Ya Pers. I can hear their tanks flooding too. They are following us down."
 
 "Alright." Percy considered for a moment and turned to Freddie. "We're actually safe for the moment because we're _too_ close to them. They have nothing they can hit us with underwater at close range. Assuming they will continue to be as murder-minded as they have been, they'll want to get some distance between us so they can put a torpedo in the water."
 
-"That is sound reasoning." Freddie replied. "Should we take this moment to try talking them into _not_ shooting at us? Someone over there must reasonably know we are an unarmed cargo sub."
+"That is sound reasoning." Freddie replied. "Should we take this moment to try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
 
-"The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection, right? We aren't going to pass any inspections today, and I'm willing to bet these guys are unbribeable."
+"The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection, right? We aren't going to pass any inspections with weapons parts aboard, and I'm willing to bet these guys are unbribeable."
 
 "That was my conclusion too, but I wanted to make sure we were considering the pragmatic way of staying alive."
 
 "No, we have a chance right now to disappear while they try to get some distance between us. We're going to take it."
 
-The depth gauge swung past 300 meters. "OK {Donovan} disengage the motors and level us off." {Donovan} with a clear look of relief, eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat. The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 323 meters.
+"Percy," {Johnson} called up from the listening station, "they've revved up their motors and are turning."
+
+"They are going for distance. They want to fire on us." Freddie said.
+
+Percy looked at the depth gauge: 100 meters. "{Johnson} how far away are they?"
+
+{Johnson} pushed a button on some range-finding equipment next to her and a moment later yelled up to Percy, "340 meters."
+
+"OK, let me know immediate if they start a turn."
+
+Percy looked at Freddie, and said out loud what he was thinking, "If they have rear tubes for launching torpedoes, we'll have no warning. But if they only have forward tubes, we'll know they are about to fire when they come back around."
+
+Freddie wiped his fingers on a hanging rag. "They are so close it will only be a matter of moments from when then launch the torpedo though."
+
+"Push her down {Donovan}."
+
+"I don't think I could ever get used to going down fast like this, controlled or no." said {Donovan}, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. Along with some input from the nav station and the listening station on the deck immediately below the con, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. And what {Donovan} was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities. The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. The depth indicator was the one that {Donovan's} eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column. It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity.
+
+Depth gauge check: between 175 and 180 meters. Everyone silently gripped their stations.
+
+"They're turning Percy!" {Johnson} called. And a minute later, "torpedo!"
+
+In a few moments they could hear the ringing ping of the torpedo's homing sonar echoing through the _Prospect_, the frequency of the pulses steadily getting quicker.
+
+"Down, we have to get deeper." Percy whispered to herself.
+
+Where a moment before {Donovan} was fearing some unknown depth at which the _Prospect_ would cease to exist, now he found himself squeezed in the jaws of a closing vise, between an explosive torpedo that could end the _Prospect_ and the crushing pressure of water that could also end them.
+
+Percy looked up. They were passing 200 meters. The pinging was fast enough that they all knew the torpedo was almost on them. And then there was a creeping silence where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
+
+"The torpedo imploded Percy!" cried {Johnson}.
+
+{Donovan} looked at Percy, hoping for an explanation.
+
+"Most of the torpedoes on these Authority subs are older ones they manufactured huge numbers of. They can't go below 200 meters. It's possible that they are loading a more modern ones into their tubes right now that can reach us, and all we've done is delayed the inevitable. Keep diving {Donovan}."
+
+
+{Donovan} was starting to panic, his eyes were wide and unblinkingly scanning the wall of dials, and sweat was running in threads down his temples. The tips of his fingers were wrapped around the dive plane controls, ready for the instant he could level off the boat, not wanting to risk a stray meter downward he didn't have to. Percy stepped forward, her feet angled against the incline of the deck, and put her hand on his shoulder. She watched the dials more calmly. At their current depth she was not worried about her boat, even going through stressing maneuvers like this. She was worried about the one following them. 
+
+The depth gauge swung past 300 meters. "OK {Donovan} disengage the motors and level us off." {Donovan} with a clear look of relief, eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat. The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 312 meters.
 
 "{Johnson}, stay on them. Let me know exactly what they are doing." Percy called down to the listening station.
-
-A loud ping passed through the length of the hull of the _Prospect_.
-
-"Woop!" {Johnson} yelled up through the hatch to the con. "Well, they know where we are now. But we know where they are too, hang on..." At her listening station, {Johnson} read numbers off of readout that had locked in when they detected the overwhelming signal of the ping. She punch numbers from those readouts into a little calculating machine that was screwed to the wall next to her, and twisted some dials. "Pers, they are under at 120 meters, 560 meters from us at 172 degrees." {Johnson} stepped over to the chart table at the nav station and looking to over to re-read the numbers again from the computing machine, marked their position and the position of the Authority sub on the chart.
 
 "So what do we do Freddie?"
 
@@ -303,3 +336,14 @@ A loud ping passed through the length of the hull of the _Prospect_.
 "It's a big risk, because they'll almost certainly find us in moments if we are close by."
 
 
+
+
+
+
+
+
+{
+A loud ping passed through the length of the hull of the _Prospect_.
+
+"Woop!" {Johnson} yelled up through the hatch to the con. "Well, they know where we are now. But we know where they are too, hang on..." At her listening station, {Johnson} read numbers off of readout that had locked in when they detected the overwhelming signal of the ping. She punched numbers from those readouts into a little calculating machine that was screwed to the wall next to her, and twisted some dials. {this might actually be automatic from the sonar rig} "Pers, they are under at 120 meters, 560 meters from us at 172 degrees." {Johnson} stepped over to the chart table at the nav station and looking to over to re-read the numbers again from the computing machine, marked their position and the position of the Authority sub on the chart.
+}

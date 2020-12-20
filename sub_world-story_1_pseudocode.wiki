@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Sun Dec 13, 2020  11:58AM
+Last modified: Sun Dec 20, 2020  12:40PM
 
 # sub_world-story_1_pseudocode
 
@@ -223,15 +223,20 @@ Last modified: Sun Dec 13, 2020  11:58AM
 	* [ ] > The speeding chunks of shrapnel, smacked against the hull, and echoed through the whole boat.
 * [ ] {the _Prospect_ crash-dives and the real sea-chase begins. The _Prospect_ runs not too deep, trying to maintain some balance of speed and quiet.}
 	* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
-* [ ] {but the enemy has good high-tech equipment, they can hear the _Prospect_ (or maybe there is a loud noise on the _Prospect_ for some reason that alerts the enemy to where they are? Something louder than the electric motors?)}
 * [ ] {the enemy fires a torpedo at the _Prospect_.}
 * [ ] {torpedo incoming, homing with active sonar}
-	* [ ] {avoid 'sonar', maybe say something like} > the loud pinging of the homing device in the torpedo guidance system.
-* [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo (how deep can torps go?); or, the _Gnat intervenes and guides the torp away; or, the _Prospect_ releases some kind of counter-measure? shredded tin cans?}
-* [ ] {the torpedo misses, the but the _Prospect_ is heading down with less-than full battery}
+* [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo (how deep can torps go?)
+* [ ] {the torpedo implodes, the but the _Prospect_ is heading down with less-than full battery}
 * [ ] {they go scarily staring-at-dials deep}
-* [ ] {maybe close to the bottom, so they can't be seen on active sonar}
-
+	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish.}
+	* {They pass through the deep scattering layer, and get away from the enemy who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
+* {things to stash in story ideas for later:} 
+	* {maybe close to the bottom, so they can't be seen on active sonar}
+	* {maybe there is a loud noise on the _Prospect_ for some reason that alerts the enemy to where they are? Something louder than the electric motors?}
+	* {avoid 'sonar', maybe say something like} 
+		> the loud pinging of the homing device in the torpedo guidance system.
+	* the _Gnat intervenes and guides the torp away; 
+	* {the _Prospect_ releases some kind of counter-measure? shredded tin cans?}
 ### hiding deep
 * [ ] {when it seems TOO deep they level off, with the boat's structural elements groaning.}
 	* [ ] {below the deep scattering layer? bring that in here? or save for another story?}
