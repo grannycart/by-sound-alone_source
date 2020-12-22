@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Sun Dec 20, 2020  12:40PM
+Last modified: Mon Dec 21, 2020  09:02PM
 
 # sub_world-story_1_pseudocode
 
@@ -225,23 +225,25 @@ Last modified: Sun Dec 20, 2020  12:40PM
 	* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 * [ ] {the enemy fires a torpedo at the _Prospect_.}
 * [ ] {torpedo incoming, homing with active sonar}
-* [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo (how deep can torps go?)
+* [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo's max depth (how deep can torps go? --- let's say 400; like the ones at the end of WWII)
 * [ ] {the torpedo implodes, the but the _Prospect_ is heading down with less-than full battery}
-* [ ] {they go scarily staring-at-dials deep}
-	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish.}
-	* {They pass through the deep scattering layer, and get away from the enemy who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
+* [ ] {they level off to figure out what to do --- the enemy decides to wait them out, guessing that they are low on battery}
+* [ ] {either they are pinged, or a wrench is dropped or something that gives away their location}
+* [ ] {they dive again, explaining that going deep the temperature changes of the water sometimes screws up sonar (maybe don't use the term thermocline)}
+* [ ] {they go scarily staring-at-dials deep, and hide at depth}
 * {things to stash in story ideas for later:} 
 	* {maybe close to the bottom, so they can't be seen on active sonar}
 	* {maybe there is a loud noise on the _Prospect_ for some reason that alerts the enemy to where they are? Something louder than the electric motors?}
 	* {avoid 'sonar', maybe say something like} 
 		> the loud pinging of the homing device in the torpedo guidance system.
-	* the _Gnat intervenes and guides the torp away; 
+	* the _Gnat_ intervenes and guides the torp away; 
 	* {the _Prospect_ releases some kind of counter-measure? shredded tin cans?}
 ### hiding deep
 * [ ] {when it seems TOO deep they level off, with the boat's structural elements groaning.}
 	* [ ] {below the deep scattering layer? bring that in here? or save for another story?}
 * [ ] {Maybe they DO pop a rivet? It gives away their position?}
 * [ ] {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
+* [ ] {detailed description of {Johnson} listening on the sonar: describe what she is hearing, her facial expression (big eyes closed), etc}
 * [ ] {no idea what the _Gnat_ is up to. Do they try to radio Schemey?}
 
 ### the plan
