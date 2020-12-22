@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Dec 20, 2020  12:32PM
+Last modified: Mon Dec 21, 2020  07:11PM
 
 # Subworld Story 1 --- notes and todos
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
@@ -318,12 +318,28 @@ Percy looked up. They were passing 200 meters. The pinging was fast enough that 
 
 {Donovan} looked at Percy, hoping for an explanation.
 
-"Most of the torpedoes on these Authority subs are older ones they manufactured huge numbers of. They can't go below 200 meters. It's possible that they are loading a more modern ones into their tubes right now that can reach us, and all we've done is delayed the inevitable. Keep diving {Donovan}."
+"Most of the torpedoes on these Authority subs are older ones they manufactured huge numbers of. They can't go below 200 meters or so. It's possible that they are loading a more modern ones into their tubes right now that can reach us, and all we've done is delayed the inevitable. Keep diving {Donovan}."
+
+"212 meters down." Said {Donovan}. {perhaps something about every 10 meters being another atmosphere goes here -- see other style experiments writings}
+
+"What are they doing {Johnson}?" Percy asked loudly.
+
+A silent moment passed, and then {Johnson} called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
+
+"They are going to wait us out." Percy said to Freddie.
+
+"They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Freddie, glancing over the battery charge dials.
+
+"OK {Donovan}, level us out. Hold us at this depth for the moment."
+
+{Donovan} eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat. The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 232 meters.
 
 
+
+--------------------
+
+{
 {Donovan} was starting to panic, his eyes were wide and unblinkingly scanning the wall of dials, and sweat was running in threads down his temples. The tips of his fingers were wrapped around the dive plane controls, ready for the instant he could level off the boat, not wanting to risk a stray meter downward he didn't have to. Percy stepped forward, her feet angled against the incline of the deck, and put her hand on his shoulder. She watched the dials more calmly. At their current depth she was not worried about her boat, even going through stressing maneuvers like this. She was worried about the one following them. 
-
-The depth gauge swung past 300 meters. "OK {Donovan} disengage the motors and level us off." {Donovan} with a clear look of relief, eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat. The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 312 meters.
 
 "{Johnson}, stay on them. Let me know exactly what they are doing." Percy called down to the listening station.
 
@@ -334,13 +350,9 @@ The depth gauge swung past 300 meters. "OK {Donovan} disengage the motors and le
 "I'm sure they will expect us to try to slink off, so that at least has the element of surprise. It might give us a chance to figure something out. Maybe we can find the _Gnat_ and Schemey can run interference."
 
 "It's a big risk, because they'll almost certainly find us in moments if we are close by."
+}
 
-
-
-
-
-
-
+--------------------
 
 {
 A loud ping passed through the length of the hull of the _Prospect_.
