@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Dec 21, 2020  07:11PM
+Last modified: Tue Dec 22, 2020  12:22PM
 
 # Subworld Story 1 --- notes and todos
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
@@ -334,7 +334,7 @@ A silent moment passed, and then {Johnson} called back, "they've leveled off aro
 
 {Donovan} eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat. The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 232 meters.
 
-
+{from here, trying to adjust style of Percy's character to be more aggressive, commanding, yet falable -- see character notes}
 
 --------------------
 

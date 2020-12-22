@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Mon Dec 21, 2020  09:02PM
+Last modified: Tue Dec 22, 2020  12:22PM
 
 # sub_world-story_1_pseudocode
 
@@ -225,13 +225,15 @@ Last modified: Mon Dec 21, 2020  09:02PM
 	* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 * [ ] {the enemy fires a torpedo at the _Prospect_.}
 * [ ] {torpedo incoming, homing with active sonar}
-* [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo's max depth (how deep can torps go? --- let's say 400; like the ones at the end of WWII)
+* [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo's max depth (how deep can torps go? --- let's say 200 meters; based on the ones at the end of WWII that maxed out at 400')
 * [ ] {the torpedo implodes, the but the _Prospect_ is heading down with less-than full battery}
 * [ ] {they level off to figure out what to do --- the enemy decides to wait them out, guessing that they are low on battery}
 * [ ] {either they are pinged, or a wrench is dropped or something that gives away their location}
 * [ ] {they dive again, explaining that going deep the temperature changes of the water sometimes screws up sonar (maybe don't use the term thermocline)}
 * [ ] {they go scarily staring-at-dials deep, and hide at depth}
+* [ ] {Something goes wrong because of an order Percy gave? She gets them into trouble with her aggressive move? Freddie tries to stop her ("this isn't working Percy!"), but is overruled. Or should this be saved for a different story?}
 * {things to stash in story ideas for later:} 
+	* {below the deep scattering layer? bring that in here? or save for another story? --- final conclusion: save for another story}
 	* {maybe close to the bottom, so they can't be seen on active sonar}
 	* {maybe there is a loud noise on the _Prospect_ for some reason that alerts the enemy to where they are? Something louder than the electric motors?}
 	* {avoid 'sonar', maybe say something like} 
@@ -240,7 +242,9 @@ Last modified: Mon Dec 21, 2020  09:02PM
 	* {the _Prospect_ releases some kind of counter-measure? shredded tin cans?}
 ### hiding deep
 * [ ] {when it seems TOO deep they level off, with the boat's structural elements groaning.}
-	* [ ] {below the deep scattering layer? bring that in here? or save for another story?}
+* [ ] panic dialog:
+	* > "You've killed us!" Donovan said in a panic, realizing the hopelessness of their situation.
+	* > "Stifle it Donovan! I'll figure something out." Said Percy
 * [ ] {Maybe they DO pop a rivet? It gives away their position?}
 * [ ] {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
 * [ ] {detailed description of {Johnson} listening on the sonar: describe what she is hearing, her facial expression (big eyes closed), etc}
