@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Wed Dec 23, 2020  06:09PM
+Last modified: Wed Dec 23, 2020  06:58PM
 
 # sub_world-story_1_pseudocode
 * [pseudocode draft 2](#draft2) 
@@ -307,6 +307,11 @@ Last modified: Wed Dec 23, 2020  06:09PM
 	* [ ] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
 * [ ] {they realize they have to risk going shallow to mate with the _Gnat_}
 * [ ] {Freddie goes off to work on his project.}
+* [ ] {They send {Johnson} down to help out chips, but {Johnson} just fucks things up}
+	* [ ] > "Fuck you doing?" Chips yelled?
+	* [ ] > "I'm sorry!" {Johnson} said.
+	* [ ] > "God, that kid is fucking useless around tools. Said Percy."
+	* [ ] > "yeah, but those ears..." Said Freddie.
 * [ ] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
 
 ### mate with the _Gnat_
