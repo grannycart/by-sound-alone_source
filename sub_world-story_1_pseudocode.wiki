@@ -1,5 +1,5 @@
 writing/submarine-world/sub_world-story_1_pseudocode.wiki
-Last modified: Wed Dec 23, 2020  06:58PM
+Last modified: Sun Dec 27, 2020  12:42PM
 
 # sub_world-story_1_pseudocode
 * [pseudocode draft 2](#draft2) 
@@ -277,11 +277,15 @@ Last modified: Wed Dec 23, 2020  06:58PM
 * [ ] {torpedo incoming, homing with active sonar}
 * [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo's max depth (how deep can torps go? --- let's say 200 meters; based on the ones at the end of WWII that maxed out at 400')
 * [ ] {the torpedo implodes, the but the _Prospect_ is heading down with less-than full battery}
-* [ ] {they level off to figure out what to do --- the enemy decides to wait them out, guessing that they are low on battery}
-* [ ] {either they are pinged, or a wrench is dropped or something that gives away their location}
-* [ ] {they dive again, explaining that going deep the temperature changes of the water sometimes screws up sonar (maybe don't use the term thermocline)}
+* [ ] {they slow the engines to a nearly silent crawl. they level off to figure out what to do --- the enemy decides to wait them out, guessing that they are low on battery}
+* [ ] {they are pinged, and that gives away their location}
+* [ ] johnson listens intently when they get pinged she snaps her headpones off but is left with ringing ears.
+* [ ] {they dive again, percy explains that going deep the temperature changes of the water sometimes screws up sonar (maybe don't use the term thermocline)}
 * [ ] {they go scarily staring-at-dials deep, and hide at depth}
 * [ ] {Something goes wrong because of an order Percy gave? She gets them into trouble with her aggressive move? Freddie tries to stop her ("this isn't working Percy!"), but is overruled. Or should this be saved for a different story?}
+* [ ] {maybe something breaks because its deeper than percys instinct tells her is ok}
+* [ ] another ping -- johnson confirms the signal is strong enoug that they know where they are
+* [ ] they know they need to figure out how to contact the gnat
 * {things to stash in story ideas for later:} 
 	* {below the deep scattering layer? bring that in here? or save for another story? --- final conclusion: save for another story}
 	* {maybe close to the bottom, so they can't be seen on active sonar}
