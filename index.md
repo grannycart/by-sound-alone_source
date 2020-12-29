@@ -1,9 +1,10 @@
 index.md
-Last modified: Tue Dec 08, 2020  10:57AM
+Last modified: Tue Dec 29, 2020  12:14PM
 
 # file index for submarine world story 1
-* [subworld_story1_notes-and-todos](subworld_story1_notes-and-todos.wiki)
-* [sub_world-story_1_pseudocode](sub_world-story_1_pseudocode.wiki)
-
-
+* [README.md](README.md)
+	* general README for github repo
+* [notes_and_todos-subworld_story1](notes_and_todos-subworld_story1.wiki)
+* [draft_pseudocode-subworld_story1](draft_pseudocode-subworld_story1.wiki)
+* [pseudocode-subworld_story1](pseudocode-subworld_story1.wiki)
 

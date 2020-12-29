@@ -1,7 +1,8 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Dec 22, 2020  12:22PM
+Last modified: Tue Dec 29, 2020  12:15PM
 
 # Subworld Story 1 --- notes and todos
+* [ ] Next up: make sure to incoporate drafts from below and from style experiments into the pseudocode
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
 	* See notes on memory house in writing
@@ -13,6 +14,7 @@ Last modified: Tue Dec 22, 2020  12:22PM
 * remember to focus on _description_ of the grime, darkness, cold, hardness. Make it feel like Deadwood or Blood Meridian, though with good story. Do NOT make it feel like a sci-fi or naval/military story.
 * consider NOT having any exterior shots. 
 	* it may help the sense of isolation and being in a can if all action takes place _inside_ (the depot, the _Prospect_, the _Gnat_) 
+* [ ] See if any of the above notes should be copied over to shuttlebay
 
 
 ----------------------------------------
