@@ -1,5 +1,5 @@
 pseudocode-subworld_story1.wiki
-Last modified: Sat Jan 02, 2021  05:45PM
+Last modified: Sat Jan 02, 2021  10:46PM
 
 # Full pseudocode (draft 2) of subworld story 1
 -------------------------------------------------
@@ -22,7 +22,10 @@ Last modified: Sat Jan 02, 2021  05:45PM
 
 
 -------------------------------------------------
+
+
 ### opening dialog with trader in remote clandestine sub depot
+
 * {establish the use and possibilities of the magnetic warhead cargo}
 * [ ] So they are magnetic mines? percy asks
 	> "So they're magnetic mines?" Captain Percy asked, running a finger down the oil-stained page attached to a metal clipboard with chipping black paint.
@@ -62,7 +65,7 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	> "Sure. If you send your loaders down to the dock you should find someone in the boat who will tell you where to stash the cargo.  I'll radio ahead that I OK'd it."
 	> "I expect my loaders will be there within the hour."
 
-* {Percy needs a crew member}
+* {Percy questions the trader about the possibility of hiring a sonar operator}
 * [ ] {When do you reveal her boat is a sub? sonar is going to give it away to most people --- who don't know a ship is likely to have sonar as well}
 * [ ] Percy asks the trader if he knows someone she could hire for sonar
 	{This could also be the bartender slightly further down; or another character in the supply store or something.}
@@ -88,22 +91,22 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	> "Good. I need that little shadow out of my life. I'll tell her to meet you over at the canteen."
 * [ ] The trader would want to get something for the service though; need to figure that out.
 
-### Interim: depot description, a little time passes before Percy gets back to her boat
-* {Percy walks through the main hall of the depot}
-* [ ] describe depot: filthy and noisy, akin to the sub building location in red october maybe
-	> Captain Percy hummed to herself as she left the depot office and walked through the main hall of the noisy depot, and she realized that her humming was resonating in her skull with the ever-present background hum of the machinery that kept the place functioning.
-	> Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the steel that formed all the structures of Percy's world.
-	> She stepped around the oil pools on the concrete floor as she made her way.
-	> Everywhere was the smell of tobacco smoke, oil, and sharp ozone, mixed with the occasional clink of chains rolling through a block, straining to lift some mass of a metal object. 
-	> There was also the inevitable and unintelligible shout of panic or correction as some other massive metal object did not do what it was supposed to do.
 
-* {describe the sides of the depot, not-main-hall}
-* [ ] describe how there are shops and workstations set back along the walls between stored crates of supplies and goods
-	> All this noise and work happened in the main hall of the depot because that was where the space was to do it.
-	> Along the walls of the hall, back in the less well-lit shadows, were stacked an uncountable number of crates, mostly of wood, in some places 20 feet high.
-	> Mixed among these crates, here and there in an alcove set back from the wall, were tables set up by traders who negotiated the value of the crates and where they would be moving from or to.
-	> This whole part of the depot was hollowed out of stone underground. At one end of the main hall was a large elevator that connected up to the surface, where there was an outdoor storage yard of dirt and pebble, surrounded by layered fences of rusting barbed wire.
-	> At the other end of the hall was a string of bays where the boats were docked. 
+### Interim: depot description, a little time passes before Percy gets back to her boat
+
+* {Percy walks through the main hall of the depot; describe depot: filthy and noisy, akin to the sub building location in red october maybe}
+* [ ] > Captain Percy hummed to herself as she left the depot office and walked through the main hall of the noisy depot, and she realized that her humming was resonating in her skull with the ever-present background hum of the machinery that kept the place functioning.
+* [ ] > Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the steel that formed all the structures of Percy's world.
+* [ ] > She stepped around the oil pools on the concrete floor as she made her way.
+* [ ] > Everywhere was the smell of tobacco smoke, oil, and sharp ozone, mixed with the occasional clink of chains rolling through a block, straining to lift some mass of a metal object. 
+* [ ] > There was also the inevitable and unintelligible shout of panic or correction as some other massive metal object did not do what it was supposed to do.
+
+* {describe the sides of the depot, not-main-hall; describe how there are shops and workstations set back along the walls between stored crates of supplies and goods}
+* [ ] > All this noise and work happened in the main hall of the depot because that was where the space was to do it.
+* [ ] > Along the walls of the hall, back in the less well-lit shadows, were stacked an uncountable number of crates, mostly of wood, in some places 20 feet high.
+* [ ] > Mixed among these crates, here and there in an alcove set back from the wall, were tables set up by traders who negotiated the value of the crates and where they would be moving from or to.
+* [ ] > This whole part of the depot was hollowed out of stone underground. At one end of the main hall was a large elevator that connected up to the surface, where there was an outdoor storage yard of dirt and pebble, surrounded by layered fences of rusting barbed wire.
+* [ ] > At the other end of the hall was a string of bays where the boats were docked. 
 
 * {Percy steps into a shop}
 	* {might want to delete this graf in favor of introducing Cass section}
@@ -112,66 +115,90 @@ Last modified: Sat Jan 02, 2021  05:45PM
 * [ ] She selects some things and purchases them.
 	* {It would be best if these were things that somehow related to the story later on} 
 
+
 ### Percy talks to Cass about hiring her as a sonar operator
+
+* {Percy heads down towards the bar/canteen}
 * [ ] Percy walks down the main hall a little further and then steps into a bar/canteen
 * [ ] describe bar/canteen
 * [ ] Percy steps up to the bar; describe bar itself
 	> She steps up to the bar that is nearly at the height of her chest. It is broad and made of dark wood from which decades of drinkers had worn away the original shellac coating, and a universe of spilled drinks had stained to a mottled gray color.
+
+* {Percy meets Cass}
 * [ ] At one end of the bar sits Cass; describe Cass
 	> At one end sits a tiny girl, with enormous brown eyes.
-	> Percy walked up to her. "God with eyes like that can you see in the dark?"
-	> "I wish," she said, staring into her drink.
-	> "You're like some kind of small prey animal. Do you always keep alert for predators out there in the dark?"
-	> "Do you just hang around bars making fun of people who want to be left alone?"
-	> "Easy, I'm not trying to fuck you. I think you're the kid I'm looking for, Cassandra?"
-	> "Oh, are you the person {Flintock} said I should talk to? I go by Cass."
-	> "Ya. Look, I've got a boat, I'm leaving here tonight. You ever work on a boat before? Or anything technical? Maybe, god-willing, sonar or something sonics related?"
-	> "God no. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
-	> "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to ambient noise on the sonar. Think you could do that."
-	> Cass looked up at her, her huge eyes widening a bit. "I'd like to try..."
-	> "Fine. You got the job. We'll train you on board. Come down to bay 7 {be sure to correlate this with where Percy goes later...} with your stuff in an hour or two and be ready to leave. Oh, and don't expect to be paid any time soon or very much. For a new share, passage out of here is part of your payment, and when and if we arrive and unload our cargo, you will get paid something out of the job-completion portion of the money. I don't know how much, Hemi handles the math, talk to him when you get on board if you want to know."
-	> "I'm OK with that."
-	> "You better be. Other than when you're on sonar, you keep your mouth shut and stay out of the way. The last thing any of the rest of the crew or me need is some new kid slowing down our work."
-	> Cass had the good sense to not say anything. Percy laid a heavy hand on her shoulder, stood, threw some coins clinking onto the bar and walked away.
+
+* {A shaky intro between Cass and Percy}
+* [ ] > Percy walked up to her. "God with eyes like that can you see in the dark?"
+* [ ] > "I wish," she said, staring into her drink.
+* [ ] > "You're like some kind of small prey animal. Do you always keep alert for predators out there in the dark?"
+* [ ] > "Do you just hang around bars making fun of people who want to be left alone?"
+* [ ] > "Easy, I'm not trying to fuck you. I think you're the kid I'm looking for, Cassandra?"
+* [ ] > "Oh, are you the person {Flintock} said I should talk to? I go by Cass."
+
+* {Percy tries to suss out Cass' potential skills on sonar}
+* [ ] > "Ya. Look, I've got a boat, I'm leaving here tonight. You ever work on a boat before? Or anything technical? Maybe, god-willing, sonar or something sonics related?"
+* [ ] > "God no. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
+* [ ] > "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to ambient noise on the sonar. Think you could do that."
+
+* {Cass expresses interest}
+* [ ] > Cass looked up at her. "I'd give it a try..."
+
+* {Percy offers her the job}
+* [ ] > "Fine. You got the job. We'll train you on board. Come down to bay 7 {be sure to correlate this with where Percy goes later...} with your stuff in an hour or two and be ready to leave. Oh, and don't expect to be paid any time soon or very much. For a new share, passage out of here is part of your payment, and when and if we arrive and unload our cargo, you will get paid something out of the job-completion portion of the money. I don't know how much, Hemi handles the math, talk to him when you get on board if you want to know."
+* [ ] > "I'm OK with that."
+* [ ] > "You better be. Other than when you're on sonar, you keep your mouth shut and stay out of the way. The last thing any of the rest of the crew or me need is some new kid slowing down our work."
+* [ ] > Cass had the good sense to not say anything. Percy laid a heavy hand on her shoulder, stood, threw some coins clinking onto the bar and walked away.
 
 
-### Percy heads down the tunnel towards the docks
+### Percy heads down the tunnel towards the docks and up to the _Prospect_
+
 * {Percy walks down the tunnel to the sub mating docks}
 * [ ] > With a couple of drinks sloshing in her empty belly, Percy heads back out and down the main hall.
 * [ ] > It's quieter now, apparently while in the bar alcove she had crossed the threshold of time by which the people creating most of the noise in the main hall judged their day's labors to be done.
 * [ ] > There were only a few people left, closing up safes with an echoing clang, and hammering shut crates they did not want to leave open over night before heading up to the hall to the elevator to the surface.
 * [ ] > The heels of Percy's boots echo back at her from the curving stone walls.
+
+* {the water and grime runs downhill}
 * [ ] > The tunnel has a gentle downward slope so any natural water seeping in drains down to the bottom.
 * [ ] > But along with that water goes any garbage, oils, chemicals, metal shavings, and dropped coffee.
 * [ ] > The grit of the floor grinds under her boot.
+
+* {into the docking area where the magnetic mines are stacked, ready to load}
 * [ ] > A quarter mile down, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
 * [ ] > In front of dock 4L, there are stacked a few dozen wooden crates, her cargo being prepped for loading onto her boat.
 * [ ] > Each of the crates is branded with "XL industries" and "CAUTION!"
 * [ ] > XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.
 
+
 ### shortly later, _Prospect_ is being loaded 
-* {Percy steps onto the Prospect}
-* [ ] {description of the sub; that it has a cargo bay because it is a transport sub}
-	* [ ] > Percy stepped over the short ramps the cargo loaders had placed over the ledge of mating collar of the dock and stepped into her boat: the merchant transport submarine _Prospect_.
-* [ ] {describe how the boat is docked by the forward loading hatch mated to an underwater depot dock}
-	* [ ] > Like most merchant subs, the _Prospect_ had a single enormous cargo hold.
-	* [ ] > From where Percy stood now, a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot.
-* [X] {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; lashed into the cargo bay}
-	* [ ] > The gang of men doing the loading, huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds, were swarming around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay.
-	* [ ] > A shorter man occasionally broke in with direction on how best to move the crates. 
-* [ ] {introduce a new character in the loading bay; maybe one of the cons, leaning against the hull, (maybe asleep?) casually monitoring the loading of the boat.}
-	* [ ] > He was talking to a short woman in leather overalls and a thick braid of black hair.
-	* [ ] > Percy walked up to them. "How did you get stuck on loading duty Chips?"
-	* [ ] > "The sour prospects of fortune are determined by the whims of hell, Cap."
-	* [ ] > "Indeed, especially when your cargo is explosive. I need you prepping the diesel, I want to get out of here tonight. Go get {Sanchez} and have him watch these guys."
-	* [ ] > "That's well. I'd much rather tend my tiny controlled explosions than watch these packages chaos demons loaded aboard."
-	* [ ] > "We can finish up down here if you ladies have work to do." Interjected the short man. He seemed nervous, as one might well be when maneuvering materials inside a steel tube under 50 meters of water. It wasn't _likely_, but if anything should happen, there was no escape for any of them.
-	* [ ] > "Yeah, no offence, but we always have a crew member monitor loading, even when it isn't as buttery as this cargo."
-	* [ ] > "Suit yourself, it's your boat."
-	* [ ] > "Yes, it is."
-	* [ ] > Chips headed off into the depths of the ship to relate with her diesel engine and see if she could dig up {Sanchez}.
+
+* {Percy steps onto the Prospect; description of the sub; that it has a cargo bay because it is a transport sub}
+* [ ] > Percy stepped over the short ramps the cargo loaders had placed over the ledge of mating collar of the dock and stepped into her boat: the merchant transport submarine _Prospect_.
+
+* {describe how the boat is docked by the forward loading hatch mated to an underwater depot dock}
+* [ ] > Like most merchant subs, the _Prospect_ had a single enormous cargo hold.
+* [ ] > From where Percy stood now, a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot.
+
+* {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; lashed into the cargo bay}
+* [ ] > The gang of men doing the loading, huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds, were swarming around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay.
+* [ ] > A shorter man occasionally broke in with direction on how best to move the crates. 
+
+* {introduce a new character in the loading bay; maybe one of the cons, leaning against the hull, (maybe asleep?) casually monitoring the loading of the boat.}
+* [ ] > He was talking to a short woman in leather overalls and a thick braid of black hair.
+* [ ] > Percy walked up to them. "How did you get stuck on loading duty Chips?"
+* [ ] > "The sour prospects of fortune are determined by the whims of hell, Cap."
+* [ ] > "Indeed, especially when your cargo is explosive. I need you prepping the diesel, I want to get out of here tonight. Go get {Sanchez} and have him watch these guys."
+* [ ] > "That's well. I'd much rather tend my tiny controlled explosions than watch these packages chaos demons loaded aboard."
+* [ ] > "We can finish up down here if you ladies have work to do." Interjected the short man. He seemed nervous, as one might well be when maneuvering materials inside a steel tube under 50 meters of water. It wasn't _likely_, but if anything should happen, there was no escape for any of them.
+* [ ] > "Yeah, no offence, but we always have a crew member monitor loading, even when it isn't as buttery as this cargo."
+* [ ] > "Suit yourself, it's your boat."
+* [ ] > "Yes, it is."
+* [ ] > Chips headed off into the depths of the ship to relate with her diesel engine and see if she could dig up {Sanchez}.
+
 
 ### on the boat for the first time --- description of the _Prospect_
+
 * {Describe the _Prospect_}
 * [ ] {fuel and supplies being loaded too; a long, worn and greasy fuel hose runs up the center of the cargo bay}
 * [ ] > The cargo bay of the _Prospect_ was maybe 60 meters long.
@@ -182,20 +209,28 @@ Last modified: Sat Jan 02, 2021  05:45PM
 * [ ] > They contained all the crew cabins of the boat: galley, crew quarters, captain's quarters, and a large room they referred to as "stowage" --- and which was where Percy really thought the workbench belonged, if there had been room for it.
 * [ ] > Above that was the conn and the sail
 
-### Percy goes up to the con, meets Hemi
-* [ ] {Percy goes up to the con; introduce Hemi who is going over technical preparations of the boat}
+
+### Percy goes up to the conn, meets Hemi
+
+* [ ] {Percy goes up to the conn; introduce Hemi who is going over technical preparations of the boat}
+
 
 ### they embark
+
 * [ ] {seal up boat and disconnect}
 	* [ ] this might not be a place for a lot of description, just enough to get the technical ideas across
 	* [ ] {don't make too big a thing of the technical details, it will take away from the story and the tone}
 
+
 ### underway
+
 * [ ] {describe basic operation of boat; maybe here is where you introduce how they need to run on the surface to recharge the batteries from the diesel engines}
 * [ ] {dialog about authorities?}
 * [ ] {dialog about concern about carrying magnetic mines? weapons are more likely to attract authority attention than any other cargo, even drugs or fuel}
 
+
 ### training Cass scene
+
 * [ ] > Hemi handed Cass a set of headphones and she pushed her thin hair back behind her ears and put them on. Hemi picked up a second set and plugged them into the sonar unit.
 * [ ] > "OK" said Hemi "this is the 'passive' sonar unit. It's nothing more than microphones to listen underwater. There's 'active' sonar too -- that's a lot more complicated, and you don't have to worry about it for now. There are some filters and transducers and stuff the passive sonar that you'll learn later, but for now the main thing you need to know is that you can turn the microphones around using this big wheel." Hemi turn the wheel a half turn. "See that dial there? That shows you which way the microphones are pointed, it goes around 360 degrees. At some point someone will ask you to listen in a specific direction. They will give you the degrees and you just turn the wheel until the needle on that dial shows you are aiming the mics in the direction they are asking about. Got it?"
 * [ ] > "Seems simple enough."
@@ -213,13 +248,17 @@ Last modified: Sat Jan 02, 2021  05:45PM
 * [ ] > Hemi left her there listening to the dolphins and climbed up next to Percy. "We might have a pair of ears yet."
 * [ ] > "That would be nice. The rest of these fuckers are useless on sonar."
 
+
 ### re-surfacing
+
 * [ ] {they run for 24 hours; and decide with the batteries down to 1/3 that they should surface and run the diesels}
 	* {This needs to be at least 24 hours if they left the depot after hours, since you want the depot raid to be about 12 hours later, when it's busy, and the Gnat still needs enough time to catch up}
 * [ ] {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
 * [ ] hours go by, boredom sets in
 
+
 ### they are fired on
+
 * [ ] {they are all half-asleep on the midnight watch} 
 	* [ ] {bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat}
 * [ ] {nobody is on sonar because it's not military ship, and because you can't hear anything above the sound of the engine anyway}	
@@ -227,7 +266,7 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	* [ ] {again, like butch cassidy}
 	* [ ] {there could be some dialog, possibly funny, where they wonder why THEY are being persecuted, innocent smugglers that they are}
 * [ ] a torpedo passes extremely close by
-	* [ ] > In the darkened con, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. Before she knew what it was, her fingers gripped the browning steel armrests of the captain's chair. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the conn and they all jumped alert.
+	* [ ] > In the darkened conn, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. Before she knew what it was, her fingers gripped the browning steel armrests of the captain's chair. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the conn and they all jumped alert.
 	* [ ] > "torpedo." Percy said. "Close one." Hemi replied cooly but with simmering nerves. "Some fuck is shooting at us? Some fuck is trying to rape my boat?" Percy was pissed. This was not the way the game was played. "Like the scorched landscape of hell. Shut down the diesels." She yelled to Chips through the comms tube. "Take us down to scope depth. We can't stay a heavy target on the surface with a maniac out there firing at us."
 	* [ ] The vibration of the diesel engine trailed away.
 	* [ ] > "Diesel is off, green lights across the board. Diving to scope depth" {this might be too naval} The conn man spun a wheel here and there, and turned the bigger wheel, steel polished to a gleam from decades of use, that adjusted the down plane. His eyes locked on the depth gauge.
@@ -237,12 +276,16 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	* [ ] {remember distance limitations of how far you can see from the surface of the ocean}
 	* [ ] {Also remember that mostly scopes aren't used on modern subs --- is it really useful for her to do this?}
 
+
 ### they dive again
+
 * [ ] {Cass can hear the enemy sub out there. gives some details on it: maybe its nuclear?}
 * [ ] {they decide to dive again even with low batteries, start to employ some evasion tactics, running slow and deep}
 * [ ] {running slow will make them late for their rendezvous with the _Gnat_, but they think they need to}
 
+
 ### rendezvous with the _Gnat_
+
 * [ ] {they are scheduled to rendezvous with the _Gnat_ at depth --- via the mating collar}
 	* [ ] {might be more fun to hold off the underwater mating until later, when they have to get Hemi aboard. maybe they rendezvous on the surface only here.} 
 	* [ ] {but doing it here can be a way to explain the dull technicalities that it has to happen above the _Gnat's_ test depth. If you explain that here you don't have to slow down the action later when they are forced to come back up to get Hemi on board the _Gnat_.}
@@ -253,7 +296,9 @@ Last modified: Sat Jan 02, 2021  05:45PM
 		* [ ] {this tactic needs to be used later, so maybe skip it now}
 * [ ] {the _Gnat_ dives and mates with them.}
 
+
 ### Shakes on the deck
+
 * [ ] {introduce Shakes in an in-character way, snorting stimulants or something.}
 * [ ] {Shakes tells them the depot was attacked and taken by one of the authorities soon after the _Prospect_ left.}
 	* [ ] > some young go-getter officer from one of the authorities. seemed to be making a lot of noise over pretty small potatoes -- one shipment of weapons _parts_ not even whole weapons. Everyone at the depot felt like they were over-stepping the unwritten rules of undersea commerce. It was bad for business that this guy was so aggressive in the depot. he must be trying to impress upper level folks or something.}
@@ -261,11 +306,15 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	* [ ] > that's bullshit, most transport subs are legit and deserve at least a warning before they are fired on. he's going to get innocent people killed. not to mention us
 	* [ ] {Is this where you drop some hints about how the Authorities have less control over the 3D medium of the undersea than the 2D surface? This could be saved for a later story}
 
+
 ### planning what to do
+
 * [X] {batteries are low on both the _Prospect_ and the _Gnat_. They need to run on the surface.}
 * [X] {they decide to send the _Gnat_ up to run on the surface noisily and fast. The _Prospect_ will follow, and run at full steam to try and get out of range while charging batteries.}
 
+
 ### on the surface
+
 * [ ] {maybe this is when they come up in a blessed fog?}
 * [ ] {they run on the surface through the darkness/fog keeping the _Prospect_ darkened; maybe engines at half-speed to keep the noise down}
 * [ ] {the _Gnat_ runs hot and loud to attract the attention of anyone following. stacks blowing flame}
@@ -274,7 +323,9 @@ Last modified: Sat Jan 02, 2021  05:45PM
 * [ ] {the _Prospect_ and the _Gnat_ keep in touch via ship-to-ship (CB-style) telephone}
 	* {remember the distance restrictions on sonar telephone --- 1500 feet or so}
 
+
 ### the enemy surfaces
+
 * [ ] {the _Gnat_ gets warning shots fired at it (tracer rounds or something)}
 * [ ] {Shakes reports in to the _Prospect_ and then dives and goes into evasive maneuvers -- fast and loud, though running on electric}
 	* [ ] > "Sorry yos, I gotta make myself scarce now, or I won't be around much longer to help." 
@@ -282,7 +333,9 @@ Last modified: Sat Jan 02, 2021  05:45PM
 * [ ] {the enemy chases the _Gnat_ for a way, but doesn't take the bait, and heads back on a path towards the _Prospect_}
 * [ ] {Shakes warns the _Prospect_ they are coming back.}
 
+
 ### staring at dials
+
 * [ ] {enemy sights the _Prospect_ running slow and dark, and fires a non-warning shot hitting the deck}
 	* [ ] > The speeding chunks of shrapnel, smacked against the hull, and echoed through the whole boat.
 * [ ] {the _Prospect_ crash-dives and the real sea-chase begins. The _Prospect_ runs not too deep, trying to maintain some balance of speed and quiet.}
@@ -309,7 +362,9 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	* the _Gnat_ intervenes and guides the torp away; 
 	* {the _Prospect_ releases some kind of counter-measure? shredded tin cans?}
 
+
 ### hiding deep
+
 * [ ] {when it seems TOO deep they level off, with the boat's structural elements groaning.}
 * [ ] panic dialog:
 	* > "You've killed us!" Donovan said in a panic, realizing the hopelessness of their situation.
@@ -320,7 +375,9 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	* [ ] She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
 * [ ] {no idea what the _Gnat_ is up to. Do they try to radio Shakes?}
 
+
 ### the plan
+
 * [ ] {they know they have to get out of this situation, they run the engines very slowly and try to move off}
 * [ ] {Hemi comes up with the plan to use the magnetic mines}
 	* [ ] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
@@ -333,25 +390,33 @@ Last modified: Sat Jan 02, 2021  05:45PM
 	* [ ] > "yeah, but those ears..." Said Hemi.
 * [ ] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
 
+
 ### mate with the _Gnat_
+
 * [ ] {they fearfully and quietly come shallow, listening carefully for the enemy}
 * [ ] {they get the _gnat connected, ok}
 * [ ] {but as they are loading parts onto the _Gnat_ (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?}
 * [ ] {Hemi jumps into the _Gnat_ and orders it off the mating collar (the _Prospect_ is a little unwieldy with the _Gnat_ on her deck)}
 
+
 ### in the _Gnat_
+
 * [ ] {Hemi starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Shakes as he does.}
 * [ ] {the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they gave off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait.}
 * [ ] {Percy will run the _Prospect_ at 100 meters, full-engine like they are trying to get away.}
 * [ ] {the enemy sub will run at the same depth, trying to line up an underwater torpedo shot.}
 * [ ] {The _Gnat has to run _between_ them, and release their homemade magnetic mines. And hope Hemi got the calculations right.}
 
+
 ### In port
+
 * [ ] {they arrive at their destination port and dock and unload}
 * [ ] {Percy decides the mines are useful enough she buys a few crates from the traders}
 * [ ] {some kind of minor twist to the ending? something dark? or comic?}
 
+
 ### {Alternate, more novel-like: they escape from the pursuers by some other means; get to port and drop off their cargo, but Hemi buys a crate of explosive mines; back in the empty sub cruising away feeling rich and safe, they have a cargo-deck bicycle race (see notes in shuttlebay); then they are picked up by the pursuing sub again, and are very bitter about it because they are empty now; and THEN they use the floating magnetic mine trick.}
+
 
 
 
