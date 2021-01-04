@@ -1,5 +1,5 @@
 pseudocode-subworld_story1.wiki
-Last modified: Sun Jan 03, 2021  05:58PM
+Last modified: Mon Jan 04, 2021  09:55AM
 
 # Full pseudocode (draft 2) of subworld story 1
 -------------------------------------------------
@@ -275,11 +275,18 @@ Last modified: Sun Jan 03, 2021  05:58PM
 
 ### re-surfacing
 
-* [ ] {they run for 24 hours; and when night comes decide with the batteries down to 1/3 that they should surface and run the diesels}
+* {they run for 24 hours; and when night comes decide with the batteries down to 1/3 that they should surface and run the diesels}
 	* {This needs to be at least 24 hours if they left the depot after hours, since you want the depot raid to be about 12 hours later, when it's busy, and the Gnat still needs enough time to catch up}
 	* {Remember: generally the run on the surface at night, underwater or at least snorkeled during the day}
-* [ ] {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
-* [ ] hours go by, boredom sets in
+
+* {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
+
+* {then engines sound like dopesmoker}
+	> With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
+	> And running on the surface meant the boat was also moved by the ocean swell. 
+	> The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
+
+* hours go by, boredom sets in
 
 
 ### they are fired on
