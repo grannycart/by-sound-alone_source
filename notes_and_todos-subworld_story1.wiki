@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Jan 03, 2021  05:32PM
+Last modified: Fri Jan 08, 2021  11:33AM
 
 # Subworld Story 1 --- notes and todos
 * [ ] Next up: make sure to incorporate drafts from below and from style experiments into the pseudocode
@@ -86,575 +86,258 @@ talking to you right now.
 ## 'staring at dials' draft section
 * {See style experiments in sub world shuttle bay for draft experiments of generalized scenes of going deep, staring at dials, listening. This section is for experimenting within the pseudocode 1.1 structure you already laid out.}
 
-The _Prospect_ cruised on the uncanny oil-slick surface of the ocean,
-partially submerged, with just the sail {fin} slicing through the glassy
-surface and leaving a low wake behind them to mark their passage across
-this curved globe. They left the sail above the waterline so they could
-get the lookout mast as high as possible. In the lookout ring Gregory
-clung, the hum of the diesels transmitted up the mast and crossed
-into the soles of his feet through the rusted metal grating he stood
-upon. With a pair of binoculars he scanned slowly around the horizon,
-but there was nothing to be seen but a flat circle of dark infinity,
-bisected with pure blackness on the lower half and almost-blackness on
-the upper half, like peeping into a viewport that looked into a frozen
-and unlit hell.
+The _Prospect_ cruised on the uncanny oil-slick surface of the ocean, partially submerged, with just the sail {fin} slicing through the glassy surface and leaving a low wake behind them to mark their passage across this curved globe. They left the sail above the waterline so they could get the lookout mast as high as possible. In the lookout ring Gregory clung, the hum of the diesels transmitted up the mast and crossed into the soles of his feet through the rusted metal grating he stood upon. With a pair of binoculars he scanned slowly around the horizon, but there was nothing to be seen but a flat circle of dark infinity, bisected with pure blackness on the lower half and almost-blackness on the upper half, like peeping into a viewport that looked into a frozen and unlit hell.
 
-Five meters below Gregory, Percy stood on the deck of the sail dressed
-in a black waxed overcoat with the collar turned up. The unvarying
-resonance of her boat mixed with the unvarying ripple of the wake they
-left behind and left her feeling numb, though the night was not very
-cold. The hatch at her feet stood open, and a faint red glow rose up
-through the open hole from the con.
+Five meters below Gregory, Percy stood on the deck of the sail dressed in a black waxed overcoat with the collar turned up. The unvarying resonance of her boat mixed with the unvarying ripple of the wake they left behind and left her feeling numb, though the night was not very cold. The hatch at her feet stood open, and a faint red glow rose up through the open hole from the con.
 
-"Anything Gregory?" She asked, more to break up the sensory deprivation
-than because she expected any kind of affirmative answer.
+"Anything Gregory?" She asked, more to break up the sensory deprivation than because she expected any kind of affirmative answer.
 
 "No. If they are out there, they are dark as we are."
 
 "And we're not going to hear them until we can turn off the diesels."
 
-"How much longer, do you think, before we can submerge and go back on
-batteries?"
+"How much longer, do you think, before we can submerge and go back on batteries?"
 
-"The longer we can run the diesels the better, obviously. And while
-it would charge them much faster, we can't run them too hot and loud.
-It's all a game of how much charge we can put on the battery before
-being found out on the surface here. We need at least a few hours at our
-current charge rate."
+"The longer we can run the diesels the better, obviously. And while it would charge them much faster, we can't run them too hot and loud.  It's all a game of how much charge we can put on the battery before being found out on the surface here. We need at least a few hours at our current charge rate."
 
-Through the open hatch they heard Schemey's voice coming statically over
-the mono speaker of the radio: "_Prospect_, _Prospect_, do you copy?"
+Through the open hatch they heard Schemey's voice coming statically over the mono speaker of the radio: "_Prospect_, _Prospect_, do you copy?"
 
-"I've got you Schemey. Over." They heard Freddie's voice respond.
-Schemey launched into his report.
+"I've got you Schemey. Over." They heard Freddie's voice respond.  Schemey launched into his report.
 
-"Yeah, you know, I managed to get those fuckers to chase me for an hour
-or so by running the _Gnat's_ engines hot and noisy, but they must have
-realized that I wasn't a transport sub because a few minutes ago they
-broke off and headed back in your direction. I assume to try to listen
-for you in a quieter place. Over."
+"Yeah, you know, I managed to get those fuckers to chase me for an hour or so by running the _Gnat's_ engines hot and noisy, but they must have realized that I wasn't a transport sub because a few minutes ago they broke off and headed back in your direction. I assume to try to listen for you in a quieter place. Over."
 
-"Hmm" Freddie said to himself. "Someone on their boat must have very
-good ears."
+"Hmm" Freddie said to himself. "Someone on their boat must have very good ears."
 
 Percy came down the ladder and took the mic from Freddie.
 
-"Schemey, this is Percy. I want you to keep running as you are. If they
-hear you continuing to move off, maybe they will doubt they made the
-right move by not following you. Over."
+"Schemey, this is Percy. I want you to keep running as you are. If they hear you continuing to move off, maybe they will doubt they made the right move by not following you. Over."
 
 "That will give me a chance to charge up my batts too. Over."
 
-"OK. I'll have Freddie figure out some reasonable rendezvous point and
-get back to you. Over out."
+"OK. I'll have Freddie figure out some reasonable rendezvous point and get back to you. Over out."
 
-Percy hung the mic back up on the radio mounted above her and eased into
-her captain's chair trying to think of what to do next.
+Percy hung the mic back up on the radio mounted above her and eased into her captain's chair trying to think of what to do next.
 
 "What do you think Freddie?"
 
-Freddie took a hanging rag and wiped the lenses of his pince-nez before
-placing them on the bridge of his nose and leaning over to look at the
-row of dials that showed the engine RPMs and battery charge.
+Freddie took a hanging rag and wiped the lenses of his pince-nez before placing them on the bridge of his nose and leaning over to look at the row of dials that showed the engine RPMs and battery charge.
 
-"It is, of course, a matter of the chance of them finding us on the open
-ocean versus our ability to get our batteries charged. If they _do_ find
-us, we will need all the charge we can get. I think we need to assume
-they will fire on us again, and we will likely not get the warnings and
-negotiations we usually get from Authority ships."
+"It is, of course, a matter of the chance of them finding us on the open ocean versus our ability to get our batteries charged. If they _do_ find us, we will need all the charge we can get. I think we need to assume they will fire on us again, and we will likely not get the warnings and negotiations we usually get from Authority ships."
 
-"Goddamn violent motherfuckers. Someone needs to tell them the wars are
-over."
+"Goddamn violent motherfuckers. Someone needs to tell them the wars are over."
 
 "Are they really?" Freddie asked.
 
-"Let's not get into that again." Said Percy tiredly. "OK, lets start
-shutting the diesels down every half hour or so and do a careful listen.
-Maybe we'll manage to hear them before they get into any kind of firing
-range."
+"Let's not get into that again." Said Percy tiredly. "OK, lets start shutting the diesels down every half hour or so and do a careful listen.  Maybe we'll manage to hear them before they get into any kind of firing range."
 
-"Hard on the engines all that stopping and starting. Chips isn't going
-to like it."
+"Hard on the engines all that stopping and starting. Chips isn't going to like it."
 
-"Chips won't like getting hit with a torpedo either. We can't just run
-deaf for hours on end, it's too risky."
+"Chips won't like getting hit with a torpedo either. We can't just run deaf for hours on end, it's too risky."
 
-"I'll go have a chat with her." Freddie said, and lowered his huge body
-down the ladder to the deck below.
+"I'll go have a chat with her." Freddie said, and lowered his huge body down the ladder to the deck below.
 
-Deep in the lower levels of the _Prospect_ the diesel engines fired
-their syncopated and timed explosions by the thousand every minute. The
-pulses blended together and spun the dynamos that generated the searing
-force of electricity that was partially dumped straight into the giant
-motors that spun the greasy drive shafts, and partially flowed into the
-heavy leaded chemical concoctions that would store power for later. This
-cycle of vibration drove through the whole boat, in a slow ruminating
-bass rhythm that in one instance might lull a person almost to sleep,
-and in another distract them totally from what they were doing. In many
-cases it was a consoling drone of progress and maybe profit. In this
-case it was a cutting drone of deaf and blind fear.
+Deep in the lower levels of the _Prospect_ the diesel engines fired their syncopated and timed explosions by the thousand every minute. The pulses blended together and spun the dynamos that generated the searing force of electricity that was partially dumped straight into the giant motors that spun the greasy drive shafts, and partially flowed into the heavy leaded chemical concoctions that would store power for later. This cycle of vibration drove through the whole boat, in a slow ruminating bass rhythm that in one instance might lull a person almost to sleep, and in another distract them totally from what they were doing. In many cases it was a consoling drone of progress and maybe profit. In this case it was a cutting drone of deaf and blind fear.
 
 
-At 23 minutes after the hour, a randomly selected mark on the clock
-dial, Percy lit the comms light to the engine room. A minute later she
-heard Chips' voice echoing up the comms tube.
+At 23 minutes after the hour, a randomly selected mark on the clock dial, Percy lit the comms light to the engine room. A minute later she heard Chips' voice echoing up the comms tube.
 
 "Captain?"
 
 "Shut down the diesels Chips. We're going to have a listen."
 
-Chips didn't reply, but a minute later the loud throb of the diesels
-that hadn't let up for hours died slowly away replaced with the only the
-very soft hum of the electric motors still driving the boat along, like
-they had reached a bridge in some epic piece of experimental music.
+Chips didn't reply, but a minute later the loud throb of the diesels that hadn't let up for hours died slowly away replaced with the only the very soft hum of the electric motors still driving the boat along, like they had reached a bridge in some epic piece of experimental music.
 
-"Disengage the electric drive motors too {Donovan}. We need to get
-as good a listen as possible. Someone wake up {Johnson} and get her
-listening."
+"Disengage the electric drive motors too {Donovan}. We need to get as good a listen as possible. Someone wake up {Johnson} and get her listening."
 
-{Donovan} reached up and flipped a few large metal switches and the soft
-hum of the electric motors died away just as the noise of the diesels
-had. Freddie slipped down the ladder and passed through the hatch at the
-read of nav to go find {Johnson's} rack in the crew quarters. Freddie
-returned in a matter of a minute or so to the nav room with {Johnson}
-following sleepily behind him. {Johnson} looked up as she passed under
-to catch Percy's eye through the hatch down to nav.
+{Donovan} reached up and flipped a few large metal switches and the soft hum of the electric motors died away just as the noise of the diesels had. Freddie slipped down the ladder and passed through the hatch at the read of nav to go find {Johnson's} rack in the crew quarters. Freddie returned in a matter of a minute or so to the nav room with {Johnson} following sleepily behind him. {Johnson} looked up as she passed under to catch Percy's eye through the hatch down to nav.
 
 "I'll have my headgear on in a second Pers."
 
-Percy waited for Freddie to come up through the hatch and then slid down
-the ladder herself. {Johnson} was already at the sonar station with one
-of the bakelite speakers of the headset pressed against her right ear,
-and the left speaker slightly off her ear so she could converse with
-Percy.
+Percy waited for Freddie to come up through the hatch and then slid down the ladder herself. {Johnson} was already at the sonar station with one of the bakelite speakers of the headset pressed against her right ear, and the left speaker slightly off her ear so she could converse with Percy.
 
-{Johnson} was adjusting various knobs and switches, disengaging filters
-used when the engine was running and boosting the gain on the mics.
-Above the rows of knobs and switches was a set of rectangular meters
-with needles wavering along graduated backgrounds and along with a
-series of green, red, and amber lights showing the status of the various
-listening filters. Above those was a large round dial indicating which
-direction the underwater mics were oriented, and a large square meter
-indicating the strength of any signals the mics received.
+{Johnson} was adjusting various knobs and switches, disengaging filters used when the engine was running and boosting the gain on the mics.  Above the rows of knobs and switches was a set of rectangular meters with needles wavering along graduated backgrounds and along with a series of green, red, and amber lights showing the status of the various listening filters. Above those was a large round dial indicating which direction the underwater mics were oriented, and a large square meter indicating the strength of any signals the mics received.
 
-Percy stood behind {Johnson} with one hand on her shoulder, staring at
-the meter indicating signal strength. {Johnson's} flipped a couple of
-more filter switched and then her fingers gingerly wrapped around the
-stainless steel wheel that controlled the direction of the underwater
-mics.
+Percy stood behind {Johnson} with one hand on her shoulder, staring at the meter indicating signal strength. {Johnson's} flipped a couple of more filter switched and then her fingers gingerly wrapped around the stainless steel wheel that controlled the direction of the underwater mics.
 
-"I'll do a quick 360 scan, and then go back over the rear 180 more
-carefully, see if we can hear anyone following us." {Johnson} said.
-Percy patted her shoulder gently, not wanting to distract her too much.
+"I'll do a quick 360 scan, and then go back over the rear 180 more carefully, see if we can hear anyone following us." {Johnson} said.  Percy patted her shoulder gently, not wanting to distract her too much.
 
-{Johnson} slipped the other speaker over her left ear, and her large
-eyes went out of focus, resolved on some far-off point in space and
-vaguely conscious of the direction and strength dials responding to the
-movements of her fingers as most of her mental processing power focused
-on the information coming oh so softly to her ears.
+{Johnson} slipped the other speaker over her left ear, and her large eyes went out of focus, resolved on some far-off point in space and vaguely conscious of the direction and strength dials responding to the movements of her fingers as most of her mental processing power focused on the information coming oh so softly to her ears.
 
-Percy watched the directional indicator dial waver around the 180 mark
-and then slowly and steadily travel around the dial. The signal strength
-meter barely came up off the pin. Percy grabbed a hanging rag and wiped
-some small droplets of condensation from the indicator meter.
+Percy watched the directional indicator dial waver around the 180 mark and then slowly and steadily travel around the dial. The signal strength meter barely came up off the pin. Percy grabbed a hanging rag and wiped some small droplets of condensation from the indicator meter.
 
 "Nothing." {Johnson} said. "Nothing at all."
 
-"Not even the _Gnat_?" Asked Percy, "Schemey said he was running hot and
-loud."
+"Not even the _Gnat_?" Asked Percy, "Schemey said he was running hot and loud."
 
-"Nope, he must be far off out of range of our mics. And if our friends
-following us are anywhere nearby, they are completely shutdown at the
-moment. No other surface traffic that I can hear either."
+"Nope, he must be far off out of range of our mics. And if our friends following us are anywhere nearby, they are completely shutdown at the moment. No other surface traffic that I can hear either."
 
 "Well, that's good then. We'll run the diesels back up."
 
-"Let me do a quick scan of the areas behind us again, but my feeling is
-you are good to go, for the moment."
+"Let me do a quick scan of the areas behind us again, but my feeling is you are good to go, for the moment."
 
-Percy patted {Johnson} on the shoulder again, and climbed back up the
-ladder to the cramped con. Freddie offered her the captain's chair he
-was sitting in, but she gestured him to remain there. She lit the comms
-light to engineering again and Chips came back on through the comms
-tube.
+Percy patted {Johnson} on the shoulder again, and climbed back up the ladder to the cramped con. Freddie offered her the captain's chair he was sitting in, but she gestured him to remain there. She lit the comms light to engineering again and Chips came back on through the comms tube.
 
 "Cap?"
 
-"Get ready to fire up the diesels again Chips. We're all clear on the
-mics."
+"Get ready to fire up the diesels again Chips. We're all clear on the mics."
 
-"Ach. The chain of demons that powers these machines do not like this
-holy wavering of heat and cool. They're libel to rebel, and split their
-prisons of metal twain. If we crack a block, it is only a matter of time
-before we are dead in the water." Chips complained, her voice thinned
-and elongated by passing through the comms tube, as if she were speaking
-from the underworld prisons of her metaphorical demons herself.
+"Ach. The chain of demons that powers these machines do not like this holy wavering of heat and cool. They're libel to rebel, and split their prisons of metal twain. If we crack a block, it is only a matter of time before we are dead in the water." Chips complained, her voice thinned and elongated by passing through the comms tube, as if she were speaking from the underworld prisons of her metaphorical demons herself.
 
-"I know it as well as anyone Chips. But it's one risk among many, and
-we don't have the luxury of choosing which we take at the moment."
-Percy let the lid of the comms tube close, not really caring what other
-complaints Chips had at the moment.
+"I know it as well as anyone Chips. But it's one risk among many, and we don't have the luxury of choosing which we take at the moment." Percy let the lid of the comms tube close, not really caring what other complaints Chips had at the moment.
 
-A few moments later the high-pitch whine of the electric starters
-resonated through the submarine, followed by the sputtering and rolling
-of diesel cylinders firing up. Soon the familiar droning hum was
-vibrating their toes again, and power driving to the electric motors
-pushing them ahead through the water.
+A few moments later the high-pitch whine of the electric starters resonated through the submarine, followed by the sputtering and rolling of diesel cylinders firing up. Soon the familiar droning hum was vibrating their toes again, and power driving to the electric motors pushing them ahead through the water.
 
 Freddie touched Percy's arm.
 
-"With the all-clear on the mics, I think we can assume those following
-us are probably a good way off. It seems like we might want to run the
-diesels low and at snorkel depth. We'll minimize the distance we could
-be detected by that way." Freddie offered.
+"With the all-clear on the mics, I think we can assume those following us are probably a good way off. It seems like we might want to run the diesels low and at snorkel depth. We'll minimize the distance we could be detected by that way." Freddie offered.
 
 "We also lose our ability to have a lookout on the mast."
 
-Freddie adjusted his slide-rule, and penciled a few numbers onto the
-clipboard in his lap.
+Freddie adjusted his slide-rule, and penciled a few numbers onto the clipboard in his lap.
 
-"My calculations suggest that if we didn't hear them on the mics, and
-assuming they weren't laying still and silent close by, they must be
-well beyond the range a lookout even high on the mast could see. I do
-not anticipate that they could get within that range without us hearing
-them first with our current plan to check the mics every half hour."
-Freddie wiped his fingers on a rag and removed the pince-nez from his
-nose to let them dangle on a chain.
+"My calculations suggest that if we didn't hear them on the mics, and assuming they weren't laying still and silent close by, they must be well beyond the range a lookout even high on the mast could see. I do not anticipate that they could get within that range without us hearing them first with our current plan to check the mics every half hour." Freddie wiped his fingers on a rag and removed the pince-nez from his nose to let them dangle on a chain.
 
 Percy considered.
 
-"You're probably right. And putting the rational argument aside, I
-feel the natural instinct of any good sub like my baby here is to be
-underwater as much as possible. Have Chips bring the diesels down to 1/4
-power. {Donovan}: raise the snorkel and take us down to snorkel depth.
-Freddie, since it's your idea to run at snorkel depth, you can take
-first watch on the scope."
+"You're probably right. And putting the rational argument aside, I feel the natural instinct of any good sub like my baby here is to be underwater as much as possible. Have Chips bring the diesels down to 1/4 power. {Donovan}: raise the snorkel and take us down to snorkel depth.  Freddie, since it's your idea to run at snorkel depth, you can take first watch on the scope."
 
 "Right" said Freddie, before getting on the comms tube with Chips.
 
-The hum of the engine became a little less all-prevailing, and they all
-settled in for a potentially long run of monotony. {Donovan}, with the
-speed, course, and depth set found himself with little to do. He smoked
-through one cigarette after another punctuated with the occasional cup
-of coffee and regular glances up at his bank of dials that indicated
-nothing had changed. Freddie hung his huge form on the control bars
-of the periscope and swung it slowly back and forth, mostly watching
-behind, but not neglecting to do a full circle every so often. Like
-Gregory before him, there was nothing to see through the scope except
-two shades of blackness, one belying the blackness of the other. It was
-the kind of never-ending nothingness that seemed to Freddie to be the
-true herald of death.
+The hum of the engine became a little less all-prevailing, and they all settled in for a potentially long run of monotony. {Donovan}, with the speed, course, and depth set found himself with little to do. He smoked through one cigarette after another punctuated with the occasional cup of coffee and regular glances up at his bank of dials that indicated nothing had changed. Freddie hung his huge form on the control bars of the periscope and swung it slowly back and forth, mostly watching behind, but not neglecting to do a full circle every so often. Like Gregory before him, there was nothing to see through the scope except two shades of blackness, one belying the blackness of the other. It was the kind of never-ending nothingness that seemed to Freddie to be the true herald of death.
 
-Percy found she could not long drag herself away from the bank of meters
-that showed the charge on the batteries, which with the diesels running
-at 1/4 were only climbing at a rate that felt like it would never get
-into a zone where she might feel comfortable doing any kind of evasive
-maneuvering with her boat.
+Percy found she could not long drag herself away from the bank of meters that showed the charge on the batteries, which with the diesels running at 1/4 were only climbing at a rate that felt like it would never get into a zone where she might feel comfortable doing any kind of evasive maneuvering with her boat.
 
-At 53 minutes after the hour, she had Chips shut down the engines again,
-and put {Johnson} through a roundabout with the mics again. And again
-there was nothing out there but silence. Percy returned to the weary
-hole of the con, and took over the scope from Freddie, who went off to
-find some coffee.
+At 53 minutes after the hour, she had Chips shut down the engines again, and put {Johnson} through a roundabout with the mics again. And again there was nothing out there but silence. Percy returned to the weary hole of the con, and took over the scope from Freddie, who went off to find some coffee.
 
-Hours passed like this, the droning, the monotony, the only thing
-changing being the slowly, slowly climbing needles on the battery charge
-indicators.
+Hours passed like this, the droning, the monotony, the only thing changing being the slowly, slowly climbing needles on the battery charge indicators.
 
-Four hours of this. It was on the eighth time that they had the engines
-shut down, and that sat silent in the water that {Johnson} heard
-something. She was slowly swinging the mics around their rear starboard
-side at about 160 degrees that there was a slight, but very real,
-wavering of the signal strength indicator. It just popped its head up
-for a second off the pin, like some prairie rodent checking for raptors.
-{Johnson} spun the mic direction wheel back across the spot, and the
-needle went up and down again. Back and forth she scanned, and each
-time the needle moved and she was sure now that she could hear a faint
-mechanical hum in hear earpiece when it did so.
+Four hours of this. It was on the eighth time that they had the engines shut down, and that sat silent in the water that {Johnson} heard something. She was slowly swinging the mics around their rear starboard side at about 160 degrees that there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second off the pin, like some prairie rodent checking for raptors.  {Johnson} spun the mic direction wheel back across the spot, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
 
 "Pers!" {Johnson} yelled up to the con. "Pers, I've got something."
 
-Percy slid down the ladder from the con and stepped up behind {Johnson},
-her eyes on the signal-indicator needle as {Johnson} continued to scan
-back and forth across the range that triggered it.
+Percy slid down the ladder from the con and stepped up behind {Johnson}, her eyes on the signal-indicator needle as {Johnson} continued to scan back and forth across the range that triggered it.
 
 "Something, but not much. Any ideas?"
 
-"It's mechanical, for sure. But they are either a good distance off, or
-closer and very quiet."
+"It's mechanical, for sure. But they are either a good distance off, or closer and very quiet."
 
-"Keep the mics pegged to that spot for the moment. See if you can hear
-anything that might help us figure out how far they are."
+"Keep the mics pegged to that spot for the moment. See if you can hear anything that might help us figure out how far they are."
 
-"You don't want me to ping them with active and get a certified
-distance?"
+"You don't want me to ping them with active and get a certified distance?"
 
-"It's too risky. They'll know exactly where we are if we do that. Keep
-listening, and maybe we'll get lucky and they'll give themselves away."
+"It's too risky. They'll know exactly where we are if we do that. Keep listening, and maybe we'll get lucky and they'll give themselves away."
 
-Percy climbed back up the ladder to the con, and as her head came
-through the hatch she gave orders.
+Percy climbed back up the ladder to the con, and as her head came through the hatch she gave orders.
 
-"Bring the sail back above the water. Get Gregory back up on the mast
-with the binoculars and scanning rear, starboard. Let me know if he sees
-anything. And do it very quietly."
+"Bring the sail back above the water. Get Gregory back up on the mast with the binoculars and scanning rear, starboard. Let me know if he sees anything. And do it very quietly."
 
-At her listening station, {Johnson} could hear the hissing of compressed
-air slowly pushing water out of the ballast tanks of the _Prospect_ and
-could feel the boat slowly rising. The hissing air was loud enough to
-make her uncomfortable, but she knew that they were letting the air in
-as slowly as they could get away with. Hopefully the other sub was too
-far off to make much of it.
+At her listening station, {Johnson} could hear the hissing of compressed air slowly pushing water out of the ballast tanks of the _Prospect_ and could feel the boat slowly rising. The hissing air was loud enough to make her uncomfortable, but she knew that they were letting the air in as slowly as they could get away with. Hopefully the other sub was too far off to make much of it.
 
-In a few minutes they lay absolutely still in the water, with the sail
-up above the surface. Through the mics {Johnson} could hear the sail
-hatch gently opened, and Gregory's soft steps on the steel ladder up to
-the lookout ring.
+In a few minutes they lay absolutely still in the water, with the sail up above the surface. Through the mics {Johnson} could hear the sail hatch gently opened, and Gregory's soft steps on the steel ladder up to the lookout ring.
 
-She focused on the sound behind that. She had the mics locked in on the
-source of the mechanical sound in the water. It was nothing more than
-a soft hum that had diffused itself across some unknown amount of the
-dense medium they worked in, gently tickled the sensitive membranes of
-the ship's mics, and then ran at lightspeed through the ships wiring,
-pass the condensers and filters of her equipment, up the fading braided
-wires of the headset and into her ears. For all that, it was nothing
-but a pulpy mush of a signal, barely discernible as mechanical save for
-the slow cycle of rising and falling just a few hertz, but in a evenly
-repetitive way that was unmistakable.
+She focused on the sound behind that. She had the mics locked in on the source of the mechanical sound in the water. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium they worked in, gently tickled the sensitive membranes of the ship's mics, and then ran at lightspeed through the ships wiring, pass the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was nothing but a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling just a few hertz, but in a evenly repetitive way that was unmistakable.
 
-And then {Johnson} heard a clink. Some kind of metal touched something,
-somewhere out in that black expanse. A sharp, high sound, unrepeated.
-The needle on the signal-strength meter made a distinct point about it
-before returning to it's spot just above the pin. It took {Johnson}
-a few beats to process it, but her brain came back with the answer:
-cutlery. A steel fork perhaps, stabbed too forcefully through a small
-hunk of blooded meat.
+And then {Johnson} heard a clink. Some kind of metal touched something, somewhere out in that black expanse. A sharp, high sound, unrepeated.  The needle on the signal-strength meter made a distinct point about it before returning to it's spot just above the pin. It took {Johnson} a few beats to process it, but her brain came back with the answer: cutlery. A steel fork perhaps, stabbed too forcefully through a small hunk of blooded meat.
 
 "Percy!" {Johnson} yelled up to the con, "they're right on us!"
 
-Gregory, in the lookout ring, had been scanning the black-on-black
-horizon, back and forth across the range {Johnson} had given him.
-Now a vertical black line moved steadily up across the field of his
-binoculars. He lowered them down instinctively, and there before him
-rose a shadowy leviathan, breaking through the surface of the flat
-sea. It was so dark that Gregory would have thought it was literally a
-leviathan: a whale or a giant squid or something, except as soon as it's
-huge dorsal area split the surface, two holes appeared in it's back,
-from which poured out red light, like the eyes of some corrupted pet of
-hell.
+Gregory, in the lookout ring, had been scanning the black-on-black horizon, back and forth across the range {Johnson} had given him.  Now a vertical black line moved steadily up across the field of his binoculars. He lowered them down instinctively, and there before him rose a shadowy leviathan, breaking through the surface of the flat sea. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell.
 
-The shadows of people briefly caused the eyes to blink, and Gregory knew
-they were on the deck of the sub that followed them merely hundreds of
-meters away.
+The shadows of people briefly caused the eyes to blink, and Gregory knew they were on the deck of the sub that followed them merely hundreds of meters away.
 
-"The beast!" cried Gregory, and dropped down the ladder to the deck
-of the _Prospect's_ sail. A burst of heavy machine gun fire split the
-silence and echoed out in concentric rings across the water. Sprigs
-of flame lit up the deck of the sub following them, and lead smacked
-heavily against the steel of the sail and echoed through the hull of the
-_Prospect_.
+"The beast!" cried Gregory, and dropped down the ladder to the deck of the _Prospect's_ sail. A burst of heavy machine gun fire split the silence and echoed out in concentric rings across the water. Sprigs of flame lit up the deck of the sub following them, and lead smacked heavily against the steel of the sail and echoed through the hull of the _Prospect_.
 
-"Take us down!" Percy yelled to her entire crew. She looked up through
-the hatch at Gregory, still on the deck of the sail.
+"Take us down!" Percy yelled to her entire crew. She looked up through the hatch at Gregory, still on the deck of the sail.
 
 "Gregory! Get down here, and seal that hatch. We're diving."
 
-Through the hatch they could hear a loud, low voice, enlarged by
-loudspeakers mounted to the sail of the following sub so that all
-enunciation blended together into one long echoing drone of command,
-like the voice of a dog's possessing demons that drive the vulnerable
-ones to murder.
+Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the following sub so that all enunciation blended together into one long echoing drone of command, like the voice of a dog's possessing demons that drive the vulnerable ones to murder.
 
 "Do not submerge. Disengage your motors and prepared to be boarded."
 
-This was followed by a long string of regional control organizations,
-treaty clauses, and naval ranks by which the following sub conveyed it's
-unshakeable and inviolable authority to issue such a command. But this
-ever-expanding description of pyramidal powers was cut off by Gregory
-closing the sail hatch.
+This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed it's unshakeable and inviolable authority to issue such a command. But this ever-expanding description of pyramidal powers was cut off by Gregory closing the sail hatch.
 
-More shrapnel smacked against the sail and along the hull of the
-_Prospect_ just below the waterline. Percy winced involuntarily, there
-was no telling what kind of damage they could be doing. It might be
-nothing, or it might wound the _Prospect_ in just a particular way that
-under exactly the right pressure of water, at some unknowable depth, the
-whole boat would collapse on itself.
+More shrapnel smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily, there was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
 
-{Donovan} and {Gregory} looked at her in fear. Freddie looked back
-at them steadily through his pince-nez and told them to get the boat
-underwater.
+{Donovan} and {Gregory} looked at her in fear. Freddie looked back at them steadily through his pince-nez and told them to get the boat underwater.
 
 "We're safe from bullets underwater."
 
-"Yeah, but not from torpedoes. Why didn't they just torpedo us already?"
-{Donovan} asked. "It doesn't seem like they have much compunction about
-sending us to the bottom."
+"Yeah, but not from torpedoes. Why didn't they just torpedo us already?" {Donovan} asked. "It doesn't seem like they have much compunction about sending us to the bottom."
 
-"They were too close, they need to be at a minimum safe distance to fire
-without risking blowing themselves up. And they also thought there was a
-chance they could capture our boat if we had been scared enough to just
-roll over."
+"They were too close, they need to be at a minimum safe distance to fire without risking blowing themselves up. And they also thought there was a chance they could capture our boat if we had been scared enough to just roll over."
 
-"So we're not that scared?" {Donovan} asked, spinning open the flood
-valves.
+"So we're not that scared?" {Donovan} asked, spinning open the flood valves.
 
-Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes
-of water poured into the ballast tanks as air was displaced up pipes and
-vented out above them in streams of bubbles.
+Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them in streams of bubbles.
 
-"Set the planes down steep." Said Freddie. "Full power to the electric
-motors, drive us down as fast as possible." {Gregory} pushed the main
-throttles all the way forward, and the hum of the powerful electric
-motors rose up around them mixing with the terrifying sound of water
-rushing in to fill the boat. The rows of smaller dials showing the
-tank-fill status, with their pitted chrome casings, and one with a
-cracked glass face, all rose evenly and quickly.
+"Set the planes down steep." Said Freddie. "Full power to the electric motors, drive us down as fast as possible." {Gregory} pushed the main throttles all the way forward, and the hum of the powerful electric motors rose up around them mixing with the terrifying sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill status, with their pitted chrome casings, and one with a cracked glass face, all rose evenly and quickly.
 
-The _Prospect's_ bow tilted towards the depths, and everyone in the con
-found a seat or grabbed a hanging leather strap counter-angling against
-the incline. They were going down fast enough that they could feel their
-stomachs rise slightly against the descent.
+The _Prospect's_ bow tilted towards the depths, and everyone in the con found a seat or grabbed a hanging leather strap counter-angling against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent.
 
-"Tell me what they are doing {Johnson}!" Percy yelled through the open
-hatch.
+"Tell me what they are doing {Johnson}!" Percy yelled through the open hatch.
 
-{Johnson} pushed her straight blonde strands of hair behind her ears and
-put her headphones on again."Ya Pers. I can hear their tanks flooding
-too. They are following us down."
+{Johnson} pushed her straight blonde strands of hair behind her ears and put her headphones on again."Ya Pers. I can hear their tanks flooding too. They are following us down."
 
-"Alright." Percy considered for a moment and turned to Freddie. "We're
-actually safe for the moment because we're _too_ close to them. They
-have nothing they can hit us with underwater at close range. Assuming
-they will continue to be as murder-minded as they have been, they'll
-want to get some distance between us so they can put a torpedo in the
-water."
+"Alright." Percy considered for a moment and turned to Freddie. "We're actually safe for the moment because we're _too_ close to them. They have nothing they can hit us with underwater at close range. Assuming they will continue to be as murder-minded as they have been, they'll want to get some distance between us so they can put a torpedo in the water."
 
-"That is sound reasoning." Freddie replied. "Should we take this moment
-to try talking them into _not_ shooting at us? Someone over there must
-be a reasonable person and realise we are an unarmed cargo sub."
+"That is sound reasoning." Freddie replied. "Should we take this moment to try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
 
-"The best-case scenario if we can convince them not to shoot is we have
-to let them aboard for an inspection, right? We aren't going to pass any
-inspections with weapons parts aboard, and I'm willing to bet these guys
-are unbribeable."
+"The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection, right? We aren't going to pass any inspections with weapons parts aboard, and I'm willing to bet these guys are unbribeable."
 
-"That was my conclusion too, but I wanted to make sure we were
-considering the pragmatic way of staying alive."
+"That was my conclusion too, but I wanted to make sure we were considering the pragmatic way of staying alive."
 
-"No, we have a chance right now to disappear while they try to get some
-distance between us. We're going to take it."
+"No, we have a chance right now to disappear while they try to get some distance between us. We're going to take it."
 
-"Percy," {Johnson} called up from the listening station, "they've revved
-up their motors and are turning."
+"Percy," {Johnson} called up from the listening station, "they've revved up their motors and are turning."
 
 "They are going for distance. They want to fire on us." Freddie said.
 
-Percy looked at the depth gauge: 100 meters. "{Johnson} how far away are
-they?"
+Percy looked at the depth gauge: 100 meters. "{Johnson} how far away are they?"
 
-{Johnson} pushed a button on some range-finding equipment next to her
-and a moment later yelled up to Percy, "340 meters."
+{Johnson} pushed a button on some range-finding equipment next to her and a moment later yelled up to Percy, "340 meters."
 
 "OK, let me know immediate if they start a turn."
 
-Percy looked at Freddie, and said out loud what he was thinking, "If
-they have rear tubes for launching torpedoes, we'll have no warning. But
-if they only have forward tubes, we'll know they are about to fire when
-they come back around."
+Percy looked at Freddie, and said out loud what he was thinking, "If they have rear tubes for launching torpedoes, we'll have no warning. But if they only have forward tubes, we'll know they are about to fire when they come back around."
 
-Freddie wiped his fingers on a hanging rag. "They are so close it will
-only be a matter of moments from when then launch the torpedo though."
+Freddie wiped his fingers on a hanging rag. "They are so close it will only be a matter of moments from when then launch the torpedo though."
 
 "Push her down {Donovan}."
 
-"I don't think I could ever get used to going down fast like this,
-controlled or no." said {Donovan}, as if voicing his fear might let some
-of it out from his guts and disperse it around the room a little. His
-eyes were focused on the larger depth gauge that stood next to their
-speed gauge at the top of the stacks of dozens and dozens of dials and
-readouts on the front wall of the con. Along with some input from the
-nav station and the listening station on the deck immediately below the
-con, below periscope depth, this wall of dials was the only source of
-information about what was happening to the boat, and what was going on
-outside the boat. The depth, speed, health, status, mechanical settings,
-the whole picture of how the boat was doing could be read from this wall
-of dials. And what {Donovan} was reading at the moment was that the sub
-was being put through the very limits of it's endurable capabilities.
-The rising and falling needles on the dials, most of which moved most
-of the time with a deliberate and controlled slowness, were all rapidly
-chasing new positions. The RPM indicators for the electric motors were
-near red-line, the battery indicators were showing the batteries being
-drained so fast that he could see the needles falling on the dials. The
-plane angle indicators were pinned at their steepest angle, and the
-ballast tank status indicators were rapidly pushing towards a completely
-flooded boat. The depth indicator was the one that {Donovan's} eyes kept
-coming back to though. He had never seen it move so fast, showing him
-quantitatively what he knew from the lightened weight of his stomach:
-the _Prospect_ was a many-thousand-ton steel stone dropping through
-the water column. It was hard to imagine what would stop the boat from
-simply winking out of existence in the never-ending blackness of the
-deepest parts of the ocean, crushed like distant matter pulled into a
-singularity.
+"I don't think I could ever get used to going down fast like this, controlled or no." said {Donovan}, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. Along with some input from the nav station and the listening station on the deck immediately below the con, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. And what {Donovan} was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities.  The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. The depth indicator was the one that {Donovan's} eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column. It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity.
 
-Depth gauge check: between 175 and 180 meters. Everyone silently gripped
-their stations.
+Depth gauge check: between 175 and 180 meters. Everyone silently gripped their stations.
 
-"They're turning Percy!" {Johnson} called. And a minute later,
-"torpedo!"
+"They're turning Percy!" {Johnson} called. And a minute later, "torpedo!"
 
-In a few moments they could hear the ringing ping of the torpedo's
-homing sonar echoing through the _Prospect_, the frequency of the pulses
-steadily getting quicker.
+In a few moments they could hear the ringing ping of the torpedo's homing sonar echoing through the _Prospect_, the frequency of the pulses steadily getting quicker.
 
 "Down, we have to get deeper." Percy whispered to herself.
 
-Where a moment before {Donovan} was fearing some unknown depth at which
-the _Prospect_ would cease to exist, now he found himself squeezed in
-the jaws of a closing vise, between an explosive torpedo that could end
-the _Prospect_ and the crushing pressure of water that could also end
-them.
+Where a moment before {Donovan} was fearing some unknown depth at which the _Prospect_ would cease to exist, now he found himself squeezed in the jaws of a closing vise, between an explosive torpedo that could end the _Prospect_ and the crushing pressure of water that could also end them.
 
-Percy looked up. They were passing 200 meters. The pinging was fast
-enough that they all knew the torpedo was almost on them. And then there
-was a creeping silence where they had all expected the next sound to be
-their eardrums pressed in by the shock wave of an explosion.
+Percy looked up. They were passing 200 meters. The pinging was fast enough that they all knew the torpedo was almost on them. And then there was a creeping silence where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
 
 "The torpedo imploded Percy!" cried {Johnson}.
 
 {Donovan} looked at Percy, hoping for an explanation.
 
-"Most of the torpedoes on these Authority subs are older ones they
-manufactured huge numbers of. They can't go below 200 meters or so. It's
-possible that they are loading a more modern ones into their tubes right
-now that can reach us, and all we've done is delayed the inevitable.
-Keep diving {Donovan}."
+"Most of the torpedoes on these Authority subs are older ones they manufactured huge numbers of. They can't go below 200 meters or so. It's possible that they are loading a more modern ones into their tubes right now that can reach us, and all we've done is delayed the inevitable.  Keep diving {Donovan}."
 
-"212 meters down." Said {Donovan}. {perhaps something about every 10
-meters being another atmosphere goes here -- see other style experiments
-writings}
+"212 meters down." Said {Donovan}. {perhaps something about every 10 meters being another atmosphere goes here -- see other style experiments writings}
 
 "What are they doing {Johnson}?" Percy asked loudly.
 
-A silent moment passed, and then {Johnson} called back, "they've leveled
-off around 200 meters down. Seems like they aren't willing to follow us
-deep."
+A silent moment passed, and then {Johnson} called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
 
 "They are going to wait us out." Percy said to Freddie.
 
-"They probably figure we don't have a full battery charge and they won't
-have to wait very long, and they are right: we're at about 40%." Said
-Freddie, glancing over the battery charge dials.
+"They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Freddie, glancing over the battery charge dials.
 
 "OK {Donovan}, level us out. Hold us at this depth for the moment."
 
-{Donovan} eased up the wheel on the dive plane, pulled the throttle back
-to the zero mark, and flipped some switches. The electric hum died away
-as the deck of the boat came up under their feet to something like level
-ground. {Gregory} eased open some of the valves controlling airflow
-to the ballast tanks, and a soft hissing whispered through the boat.
-The ballast tank fill needles worked their way slowly back toward the
-middle marks on their dials. The depth gauge slowed and slowed, and then
-finally locked in at 232 meters.
+{Donovan} eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 232 meters.
 
 {from here, trying to adjust style of Percy's character to be more
 aggressive, commanding, yet fallible -- see character notes}
