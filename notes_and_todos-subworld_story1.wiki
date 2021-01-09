@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Jan 08, 2021  11:33AM
+Last modified: Fri Jan 08, 2021  04:09PM
 
 # Subworld Story 1 --- notes and todos
 * [ ] Next up: make sure to incorporate drafts from below and from style experiments into the pseudocode
@@ -14,6 +14,8 @@ Last modified: Fri Jan 08, 2021  11:33AM
 * remember to focus on _description_ of the grime, darkness, cold, hardness. Make it feel like Deadwood or Blood Meridian, though with good story. Do NOT make it feel like a sci-fi or naval/military story.
 * consider NOT having any exterior shots. 
 	* it may help the sense of isolation and being in a can if all action takes place _inside_ (the depot, the _Prospect_, the _Gnat_) 
+* [ ] add something explaining that the Prospect has no torpedo tubes:
+	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [ ] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
 	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
 * [ ] See if any of the above notes should be copied over to shuttlebay
@@ -86,76 +88,9 @@ talking to you right now.
 ## 'staring at dials' draft section
 * {See style experiments in sub world shuttle bay for draft experiments of generalized scenes of going deep, staring at dials, listening. This section is for experimenting within the pseudocode 1.1 structure you already laid out.}
 
-The _Prospect_ cruised on the uncanny oil-slick surface of the ocean, partially submerged, with just the sail {fin} slicing through the glassy surface and leaving a low wake behind them to mark their passage across this curved globe. They left the sail above the waterline so they could get the lookout mast as high as possible. In the lookout ring Gregory clung, the hum of the diesels transmitted up the mast and crossed into the soles of his feet through the rusted metal grating he stood upon. With a pair of binoculars he scanned slowly around the horizon, but there was nothing to be seen but a flat circle of dark infinity, bisected with pure blackness on the lower half and almost-blackness on the upper half, like peeping into a viewport that looked into a frozen and unlit hell.
-
-Five meters below Gregory, Percy stood on the deck of the sail dressed in a black waxed overcoat with the collar turned up. The unvarying resonance of her boat mixed with the unvarying ripple of the wake they left behind and left her feeling numb, though the night was not very cold. The hatch at her feet stood open, and a faint red glow rose up through the open hole from the con.
-
-"Anything Gregory?" She asked, more to break up the sensory deprivation than because she expected any kind of affirmative answer.
-
-"No. If they are out there, they are dark as we are."
-
-"And we're not going to hear them until we can turn off the diesels."
-
-"How much longer, do you think, before we can submerge and go back on batteries?"
-
-"The longer we can run the diesels the better, obviously. And while it would charge them much faster, we can't run them too hot and loud.  It's all a game of how much charge we can put on the battery before being found out on the surface here. We need at least a few hours at our current charge rate."
-
-Through the open hatch they heard Schemey's voice coming statically over the mono speaker of the radio: "_Prospect_, _Prospect_, do you copy?"
-
-"I've got you Schemey. Over." They heard Freddie's voice respond.  Schemey launched into his report.
-
-"Yeah, you know, I managed to get those fuckers to chase me for an hour or so by running the _Gnat's_ engines hot and noisy, but they must have realized that I wasn't a transport sub because a few minutes ago they broke off and headed back in your direction. I assume to try to listen for you in a quieter place. Over."
-
-"Hmm" Freddie said to himself. "Someone on their boat must have very good ears."
-
-Percy came down the ladder and took the mic from Freddie.
-
-"Schemey, this is Percy. I want you to keep running as you are. If they hear you continuing to move off, maybe they will doubt they made the right move by not following you. Over."
-
-"That will give me a chance to charge up my batts too. Over."
-
-"OK. I'll have Freddie figure out some reasonable rendezvous point and get back to you. Over out."
-
-Percy hung the mic back up on the radio mounted above her and eased into her captain's chair trying to think of what to do next.
-
-"What do you think Freddie?"
-
-Freddie took a hanging rag and wiped the lenses of his pince-nez before placing them on the bridge of his nose and leaning over to look at the row of dials that showed the engine RPMs and battery charge.
-
-"It is, of course, a matter of the chance of them finding us on the open ocean versus our ability to get our batteries charged. If they _do_ find us, we will need all the charge we can get. I think we need to assume they will fire on us again, and we will likely not get the warnings and negotiations we usually get from Authority ships."
-
-"Goddamn violent motherfuckers. Someone needs to tell them the wars are over."
-
-"Are they really?" Freddie asked.
-
-"Let's not get into that again." Said Percy tiredly. "OK, lets start shutting the diesels down every half hour or so and do a careful listen.  Maybe we'll manage to hear them before they get into any kind of firing range."
-
-"Hard on the engines all that stopping and starting. Chips isn't going to like it."
-
-"Chips won't like getting hit with a torpedo either. We can't just run deaf for hours on end, it's too risky."
-
-"I'll go have a chat with her." Freddie said, and lowered his huge body down the ladder to the deck below.
-
-Deep in the lower levels of the _Prospect_ the diesel engines fired their syncopated and timed explosions by the thousand every minute. The pulses blended together and spun the dynamos that generated the searing force of electricity that was partially dumped straight into the giant motors that spun the greasy drive shafts, and partially flowed into the heavy leaded chemical concoctions that would store power for later. This cycle of vibration drove through the whole boat, in a slow ruminating bass rhythm that in one instance might lull a person almost to sleep, and in another distract them totally from what they were doing. In many cases it was a consoling drone of progress and maybe profit. In this case it was a cutting drone of deaf and blind fear.
 
 
-At 23 minutes after the hour, a randomly selected mark on the clock dial, Percy lit the comms light to the engine room. A minute later she heard Chips' voice echoing up the comms tube.
 
-"Captain?"
-
-"Shut down the diesels Chips. We're going to have a listen."
-
-Chips didn't reply, but a minute later the loud throb of the diesels that hadn't let up for hours died slowly away replaced with the only the very soft hum of the electric motors still driving the boat along, like they had reached a bridge in some epic piece of experimental music.
-
-"Disengage the electric drive motors too {Donovan}. We need to get as good a listen as possible. Someone wake up {Johnson} and get her listening."
-
-{Donovan} reached up and flipped a few large metal switches and the soft hum of the electric motors died away just as the noise of the diesels had. Freddie slipped down the ladder and passed through the hatch at the read of nav to go find {Johnson's} rack in the crew quarters. Freddie returned in a matter of a minute or so to the nav room with {Johnson} following sleepily behind him. {Johnson} looked up as she passed under to catch Percy's eye through the hatch down to nav.
-
-"I'll have my headgear on in a second Pers."
-
-Percy waited for Freddie to come up through the hatch and then slid down the ladder herself. {Johnson} was already at the sonar station with one of the bakelite speakers of the headset pressed against her right ear, and the left speaker slightly off her ear so she could converse with Percy.
-
-{Johnson} was adjusting various knobs and switches, disengaging filters used when the engine was running and boosting the gain on the mics.  Above the rows of knobs and switches was a set of rectangular meters with needles wavering along graduated backgrounds and along with a series of green, red, and amber lights showing the status of the various listening filters. Above those was a large round dial indicating which direction the underwater mics were oriented, and a large square meter indicating the strength of any signals the mics received.
 
 Percy stood behind {Johnson} with one hand on her shoulder, staring at the meter indicating signal strength. {Johnson's} flipped a couple of more filter switched and then her fingers gingerly wrapped around the stainless steel wheel that controlled the direction of the underwater mics.
 
