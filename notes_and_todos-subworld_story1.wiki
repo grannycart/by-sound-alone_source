@@ -1,7 +1,13 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Jan 08, 2021  04:09PM
+Last modified: Wed Jan 13, 2021  03:25PM
 
 # Subworld Story 1 --- notes and todos
+* [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
+	* It's not the right subject for those people, so you have to overcome that
+	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
+	* See notes from rising grime story about style
+		* (Thinking about Ministry or Motorhead: accessibility + distinctive aesthetic is the key <- This is _everything_ that I want from my art!)
+	* Take the time to KEEP practicing style to get it aesthetically just the way you want it AND functionally just the way you want it before you build out the whole story.
 * [ ] Next up: make sure to incorporate drafts from below and from style experiments into the pseudocode
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
