@@ -1,5 +1,5 @@
 pseudocode-subworld_story1.wiki
-Last modified: Fri Jan 08, 2021  12:57PM
+Last modified: Sun Jan 24, 2021  12:09PM
 
 # Full pseudocode (draft 2) of subworld story 1
 -------------------------------------------------
@@ -142,6 +142,7 @@ Last modified: Fri Jan 08, 2021  12:57PM
 * [ ] > "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to ambient noise on the sonar. Think you could do that."
 
 * {Cass expresses interest}
+* [ ] Add something here about Cass wondering about how dangerous it is. Submarining is always incredibly dangerous, but can also be very rewarding.
 * [ ] > Cass looked up at her. "I'd give it a try..."
 
 * {Percy offers her the job}
