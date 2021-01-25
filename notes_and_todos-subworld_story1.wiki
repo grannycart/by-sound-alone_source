@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Jan 13, 2021  03:25PM
+Last modified: Mon Jan 25, 2021  12:37PM
 
 # Subworld Story 1 --- notes and todos
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
@@ -8,6 +8,10 @@ Last modified: Wed Jan 13, 2021  03:25PM
 	* See notes from rising grime story about style
 		* (Thinking about Ministry or Motorhead: accessibility + distinctive aesthetic is the key <- This is _everything_ that I want from my art!)
 	* Take the time to KEEP practicing style to get it aesthetically just the way you want it AND functionally just the way you want it before you build out the whole story.
+	* I know exactly what I want it to _feel_ like... but I don't know how to make that thing yet.
+	* You can't just _discover_ an aesthetic style; you have to _internalize_ it, and I suspect that can only come from practice. 
+		* once internalized, you can probably apply other things to it: like making it accessible.
+	* The _aesthetic_ of it -- and the ability to drive a certain cathartic response -- is the key to the MacArthur category; and to what you personally want from your writing as well.
 * [ ] Next up: make sure to incorporate drafts from below and from style experiments into the pseudocode
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
@@ -28,87 +32,28 @@ Last modified: Wed Jan 13, 2021  03:25PM
 * For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 
 
-----------------------------------------
-## magnetic mines trading opening draft experiments
-
-"Magnetic mines? What for?"
-
-"Well, they're not actually magnetic mines. They are magnetic warheads
-that can be fitted to a number of different delivery mechanisms like
-torpedoes, placement arms, and yes mines."
-
-"Why do you want to use our specialty shipping services? Why not just
-ship them with a conventional authority transport?"
-
-The dispatcher looked down at his clipboard before answering her
-question.
-
-"They aren't exactly destined for an authority stockpile, per se. They
-need to be moved a little more under-the-radar, if you know what I
-mean."
-
-"Forget it. The less we know about their destination, the better."
-
----
-
-"So you're asking us to move magnetic mines?" Captain Percy asked,
-running a finger {let's avoid immediately revealing Percy is a woman}
-down the oil-stained page attached to the black metal clipboard with
-paint chipping off it.
-
-"Magnetic warheads, to be precise. The units are agnostic about what
-weapon they are installed in. Doesn't have to be a mine: could be a
-torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans these
-days are teeming with rusting hulks that grind their way back and forth
-across, and under, the surface of the Earth, leaving their silage [not
-silage, what is that word?] of oil and carbon and noise trailing behind
-them. And all of them are made of heavy, thick steel. There's more than
-enough call for these things. Just deliver them to within a meter or two
-of the sides of any of the beasts and _chunk_, _bam_, down goes your
-target."
-
-The verbosity on this guy disturbed Percy.
-
-"So why us? Why not just ship them with conventional transport, stamped
-and sealed by whichever Authority you are shipping them under? Or...
-should I not ask?"
-
-"Ah, yes. Well, as I mentioned, there is quite a demand for these...
-tools. Many entities could put them to use, and many other entities
-would sooner they didn't. Shipping under one Authority would only
-attract the ire of some other Authority. Conventional shipping ends
-up being an unwinnable game of tic-tac-toe with a high chance that
-no matter how well stamped, sealed, and authorized a shipment like
-this might be, it will simply never arrive at its destination due to,
-shall we say, interference from another protagonist. The most reliable
-way is to use a unit like yours, with your professional expertise at
-clandestine maneuvering and your discreet interests. It's simply a
-matter of reliability, you know. Nothing more."
-
-"If we were any less reliable, I certainly wouldn't be standing here
-talking to you right now.
-----------------------------------------
 
 
 ----------------------------------------
+----------------------------------------
+
 ## 'staring at dials' draft section
 * {See style experiments in sub world shuttle bay for draft experiments of generalized scenes of going deep, staring at dials, listening. This section is for experimenting within the pseudocode 1.1 structure you already laid out.}
 
 
 
 
+Percy stood behind Cass with one hand on her shoulder, staring at the meter indicating signal strength. Cass flipped a couple of more filter switched and then her fingers gingerly wrapped around the stainless steel wheel that controlled the direction of the underwater mics.
 
-Percy stood behind {Johnson} with one hand on her shoulder, staring at the meter indicating signal strength. {Johnson's} flipped a couple of more filter switched and then her fingers gingerly wrapped around the stainless steel wheel that controlled the direction of the underwater mics.
+"I'll do a quick 360 scan, and then go back over the rear 180 more carefully, see if we can hear anyone following us." Cass said.  Percy patted her shoulder gently, not wanting to distract her too much.
 
-"I'll do a quick 360 scan, and then go back over the rear 180 more carefully, see if we can hear anyone following us." {Johnson} said.  Percy patted her shoulder gently, not wanting to distract her too much.
-
-{Johnson} slipped the other speaker over her left ear, and her large eyes went out of focus, resolved on some far-off point in space and vaguely conscious of the direction and strength dials responding to the movements of her fingers as most of her mental processing power focused on the information coming oh so softly to her ears.
+Cass slipped the other speaker over her left ear, and her large eyes went out of focus, resolved on some far-off point in space and vaguely conscious of the direction and strength dials responding to the movements of her fingers as most of her mental processing power focused on the information coming oh so softly to her ears.
 
 Percy watched the directional indicator dial waver around the 180 mark and then slowly and steadily travel around the dial. The signal strength meter barely came up off the pin. Percy grabbed a hanging rag and wiped some small droplets of condensation from the indicator meter.
 
-"Nothing." {Johnson} said. "Nothing at all."
+"Nothing." Cass said. "Nothing at all."
 
-"Not even the _Gnat_?" Asked Percy, "Schemey said he was running hot and loud."
+"Not even the _Gnat_?" Asked Percy, "Shakes said he was running hot and loud."
 
 "Nope, he must be far off out of range of our mics. And if our friends following us are anywhere nearby, they are completely shutdown at the moment. No other surface traffic that I can hear either."
 
@@ -116,7 +61,7 @@ Percy watched the directional indicator dial waver around the 180 mark and then 
 
 "Let me do a quick scan of the areas behind us again, but my feeling is you are good to go, for the moment."
 
-Percy patted {Johnson} on the shoulder again, and climbed back up the ladder to the cramped con. Freddie offered her the captain's chair he was sitting in, but she gestured him to remain there. She lit the comms light to engineering again and Chips came back on through the comms tube.
+Percy patted Cass on the shoulder again, and climbed back up the ladder to the cramped con. Freddie offered her the captain's chair he was sitting in, but she gestured him to remain there. She lit the comms light to engineering again and Chips came back on through the comms tube.
 
 "Cap?"
 
@@ -148,15 +93,15 @@ The hum of the engine became a little less all-prevailing, and they all settled 
 
 Percy found she could not long drag herself away from the bank of meters that showed the charge on the batteries, which with the diesels running at 1/4 were only climbing at a rate that felt like it would never get into a zone where she might feel comfortable doing any kind of evasive maneuvering with her boat.
 
-At 53 minutes after the hour, she had Chips shut down the engines again, and put {Johnson} through a roundabout with the mics again. And again there was nothing out there but silence. Percy returned to the weary hole of the con, and took over the scope from Freddie, who went off to find some coffee.
+At 53 minutes after the hour, she had Chips shut down the engines again, and put Cass through a roundabout with the mics again. And again there was nothing out there but silence. Percy returned to the weary hole of the con, and took over the scope from Freddie, who went off to find some coffee.
 
 Hours passed like this, the droning, the monotony, the only thing changing being the slowly, slowly climbing needles on the battery charge indicators.
 
-Four hours of this. It was on the eighth time that they had the engines shut down, and that sat silent in the water that {Johnson} heard something. She was slowly swinging the mics around their rear starboard side at about 160 degrees that there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second off the pin, like some prairie rodent checking for raptors.  {Johnson} spun the mic direction wheel back across the spot, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
+Four hours of this. It was on the eighth time that they had the engines shut down, and that sat silent in the water that Cass heard something. She was slowly swinging the mics around their rear starboard side at about 160 degrees that there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second off the pin, like some prairie rodent checking for raptors.  Cass spun the mic direction wheel back across the spot, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
 
-"Pers!" {Johnson} yelled up to the con. "Pers, I've got something."
+"Pers!" Cass yelled up to the con. "Pers, I've got something."
 
-Percy slid down the ladder from the con and stepped up behind {Johnson}, her eyes on the signal-indicator needle as {Johnson} continued to scan back and forth across the range that triggered it.
+Percy slid down the ladder from the con and stepped up behind Cass, her eyes on the signal-indicator needle as Cass continued to scan back and forth across the range that triggered it.
 
 "Something, but not much. Any ideas?"
 
@@ -172,17 +117,17 @@ Percy climbed back up the ladder to the con, and as her head came through the ha
 
 "Bring the sail back above the water. Get Gregory back up on the mast with the binoculars and scanning rear, starboard. Let me know if he sees anything. And do it very quietly."
 
-At her listening station, {Johnson} could hear the hissing of compressed air slowly pushing water out of the ballast tanks of the _Prospect_ and could feel the boat slowly rising. The hissing air was loud enough to make her uncomfortable, but she knew that they were letting the air in as slowly as they could get away with. Hopefully the other sub was too far off to make much of it.
+At her listening station, Cass could hear the hissing of compressed air slowly pushing water out of the ballast tanks of the _Prospect_ and could feel the boat slowly rising. The hissing air was loud enough to make her uncomfortable, but she knew that they were letting the air in as slowly as they could get away with. Hopefully the other sub was too far off to make much of it.
 
-In a few minutes they lay absolutely still in the water, with the sail up above the surface. Through the mics {Johnson} could hear the sail hatch gently opened, and Gregory's soft steps on the steel ladder up to the lookout ring.
+In a few minutes they lay absolutely still in the water, with the sail up above the surface. Through the mics Cass could hear the sail hatch gently opened, and Gregory's soft steps on the steel ladder up to the lookout ring.
 
 She focused on the sound behind that. She had the mics locked in on the source of the mechanical sound in the water. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium they worked in, gently tickled the sensitive membranes of the ship's mics, and then ran at lightspeed through the ships wiring, pass the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was nothing but a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling just a few hertz, but in a evenly repetitive way that was unmistakable.
 
-And then {Johnson} heard a clink. Some kind of metal touched something, somewhere out in that black expanse. A sharp, high sound, unrepeated.  The needle on the signal-strength meter made a distinct point about it before returning to it's spot just above the pin. It took {Johnson} a few beats to process it, but her brain came back with the answer: cutlery. A steel fork perhaps, stabbed too forcefully through a small hunk of blooded meat.
+And then Cass heard a clink. Some kind of metal touched something, somewhere out in that black expanse. A sharp, high sound, unrepeated.  The needle on the signal-strength meter made a distinct point about it before returning to it's spot just above the pin. It took Cass a few beats to process it, but her brain came back with the answer: cutlery. A steel fork perhaps, stabbed too forcefully through a small hunk of blooded meat.
 
-"Percy!" {Johnson} yelled up to the con, "they're right on us!"
+"Percy!" Cass yelled up to the con, "they're right on us!"
 
-Gregory, in the lookout ring, had been scanning the black-on-black horizon, back and forth across the range {Johnson} had given him.  Now a vertical black line moved steadily up across the field of his binoculars. He lowered them down instinctively, and there before him rose a shadowy leviathan, breaking through the surface of the flat sea. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell.
+Gregory, in the lookout ring, had been scanning the black-on-black horizon, back and forth across the range Cass had given him.  Now a vertical black line moved steadily up across the field of his binoculars. He lowered them down instinctively, and there before him rose a shadowy leviathan, breaking through the surface of the flat sea. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell.
 
 The shadows of people briefly caused the eyes to blink, and Gregory knew they were on the deck of the sub that followed them merely hundreds of meters away.
 
@@ -216,9 +161,9 @@ Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes of wate
 
 The _Prospect's_ bow tilted towards the depths, and everyone in the con found a seat or grabbed a hanging leather strap counter-angling against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent.
 
-"Tell me what they are doing {Johnson}!" Percy yelled through the open hatch.
+"Tell me what they are doing Cass!" Percy yelled through the open hatch.
 
-{Johnson} pushed her straight blonde strands of hair behind her ears and put her headphones on again."Ya Pers. I can hear their tanks flooding too. They are following us down."
+Cass pushed her straight blonde strands of hair behind her ears and put her headphones on again."Ya Pers. I can hear their tanks flooding too. They are following us down."
 
 "Alright." Percy considered for a moment and turned to Freddie. "We're actually safe for the moment because we're _too_ close to them. They have nothing they can hit us with underwater at close range. Assuming they will continue to be as murder-minded as they have been, they'll want to get some distance between us so they can put a torpedo in the water."
 
@@ -230,13 +175,13 @@ The _Prospect's_ bow tilted towards the depths, and everyone in the con found a 
 
 "No, we have a chance right now to disappear while they try to get some distance between us. We're going to take it."
 
-"Percy," {Johnson} called up from the listening station, "they've revved up their motors and are turning."
+"Percy," Cass called up from the listening station, "they've revved up their motors and are turning."
 
 "They are going for distance. They want to fire on us." Freddie said.
 
-Percy looked at the depth gauge: 100 meters. "{Johnson} how far away are they?"
+Percy looked at the depth gauge: 100 meters. "Cass how far away are they?"
 
-{Johnson} pushed a button on some range-finding equipment next to her and a moment later yelled up to Percy, "340 meters."
+Cass pushed a button on some range-finding equipment next to her and a moment later yelled up to Percy, "340 meters."
 
 "OK, let me know immediate if they start a turn."
 
@@ -250,7 +195,7 @@ Freddie wiped his fingers on a hanging rag. "They are so close it will only be a
 
 Depth gauge check: between 175 and 180 meters. Everyone silently gripped their stations.
 
-"They're turning Percy!" {Johnson} called. And a minute later, "torpedo!"
+"They're turning Percy!" Cass called. And a minute later, "torpedo!"
 
 In a few moments they could hear the ringing ping of the torpedo's homing sonar echoing through the _Prospect_, the frequency of the pulses steadily getting quicker.
 
@@ -260,7 +205,7 @@ Where a moment before {Donovan} was fearing some unknown depth at which the _Pro
 
 Percy looked up. They were passing 200 meters. The pinging was fast enough that they all knew the torpedo was almost on them. And then there was a creeping silence where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
 
-"The torpedo imploded Percy!" cried {Johnson}.
+"The torpedo imploded Percy!" cried Cass.
 
 {Donovan} looked at Percy, hoping for an explanation.
 
@@ -268,9 +213,9 @@ Percy looked up. They were passing 200 meters. The pinging was fast enough that 
 
 "212 meters down." Said {Donovan}. {perhaps something about every 10 meters being another atmosphere goes here -- see other style experiments writings}
 
-"What are they doing {Johnson}?" Percy asked loudly.
+"What are they doing Cass?" Percy asked loudly.
 
-A silent moment passed, and then {Johnson} called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
+A silent moment passed, and then Cass called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
 
 "They are going to wait us out." Percy said to Freddie.
 
@@ -279,9 +224,6 @@ A silent moment passed, and then {Johnson} called back, "they've leveled off aro
 "OK {Donovan}, level us out. Hold us at this depth for the moment."
 
 {Donovan} eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 232 meters.
-
-{from here, trying to adjust style of Percy's character to be more
-aggressive, commanding, yet fallible -- see character notes}
 
 --------------------
 
@@ -296,7 +238,7 @@ shoulder. She watched the dials more calmly. At their current depth she
 was not worried about her boat, even going through stressing maneuvers
 like this. She was worried about the one following them.
 
-"{Johnson}, stay on them. Let me know exactly what they are doing."
+"Cass, stay on them. Let me know exactly what they are doing."
 Percy called down to the listening station.
 
 "So what do we do Freddie?"
@@ -309,7 +251,7 @@ else."
 
 "I'm sure they will expect us to try to slink off, so that at least has
 the element of surprise. It might give us a chance to figure something
-out. Maybe we can find the _Gnat_ and Schemey can run interference."
+out. Maybe we can find the _Gnat_ and Shakes can run interference."
 
 "It's a big risk, because they'll almost certainly find us in moments if
 we are close by."
@@ -320,14 +262,14 @@ we are close by."
 {
 A loud ping passed through the length of the hull of the _Prospect_.
 
-"Woop!" {Johnson} yelled up through the hatch to the con. "Well, they
+"Woop!" Cass yelled up through the hatch to the con. "Well, they
 know where we are now. But we know where they are too, hang on..." At
-her listening station, {Johnson} read numbers off of readout that had
+her listening station, Cass read numbers off of readout that had
 locked in when they detected the overwhelming signal of the ping. She
 punched numbers from those readouts into a little calculating machine
 that was screwed to the wall next to her, and twisted some dials. {this
 might actually be automatic from the sonar rig} "Pers, they are under at
-120 meters, 560 meters from us at 172 degrees." {Johnson} stepped over
+120 meters, 560 meters from us at 172 degrees." Cass stepped over
 to the chart table at the nav station and looking to over to re-read the
 numbers again from the computing machine, marked their position and the
 position of the Authority sub on the chart.

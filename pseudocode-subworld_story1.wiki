@@ -1,5 +1,5 @@
 pseudocode-subworld_story1.wiki
-Last modified: Sun Jan 24, 2021  12:09PM
+Last modified: Mon Jan 25, 2021  12:37PM
 
 # Full pseudocode (draft 2) of subworld story 1
 -------------------------------------------------
@@ -277,7 +277,7 @@ Last modified: Sun Jan 24, 2021  12:09PM
 
 ### re-surfacing
 
-* {they run for 24 hours; and when night comes decide with the batteries down to 1/3 that they should surface and run the diesels}
+* {they run for 24 hours; and when night comes they decide with the batteries down to 1/3 that they should surface and run the diesels}
 	* {This needs to be at least 24 hours if they left the depot after hours, since you want the depot raid to be about 12 hours later, when it's busy, and the Gnat still needs enough time to catch up}
 	* {Remember: generally the run on the surface at night, underwater or at least snorkeled during the day}
 
@@ -295,13 +295,15 @@ Last modified: Sun Jan 24, 2021  12:09PM
 
 * {they are all half-asleep on the midnight watch: bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat}
 	* {nobody is on sonar because it's not military ship, and because you can't hear anything above the sound of the engine anyway}	
-	* {it would be better if they were fired on before they meet the gnat --- create a sense of mystery why they are being attacked.}
-		* {again, like butch cassidy}
+	* {it would be better if they were fired on before they meet the Gnat --- create a sense of mystery why they are being attacked.}
+		* {again pursued by faceless evil, like butch cassidy}
 		* {there could be some dialog, possibly funny, where they wonder why THEY are being persecuted, innocent smugglers that they are}
 
 * {a torpedo passes extremely close by}
 * [ ] > In the darkened conn, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. Before she knew what it was, her fingers gripped the browning steel armrests of the captain's chair. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the conn and they all jumped alert.
-* [ ] > "torpedo." Percy said. "Close one." Hemi replied cooly but with simmering nerves. "Some fuck is shooting at us? Some fuck is trying to rape my boat?" 
+* [ ] > "torpedo." Percy said. 
+* [ ] > "Close one." Hemi replied cooly but with simmering nerves. 
+* [ ] > "Some fuck is shooting at us? Some fuck is trying to rape my boat?" 
 
 * {They shut down the diesels and submerge to periscope depth}
 * [ ] > Percy was pissed. This was not the way the game was played. "Like the scorched landscape of hell. Shut down the diesels." She yelled to Chips through the comms tube. "Take us down to scope depth. We can't stay a heavy target on the surface with a maniac out there firing at us."
@@ -318,7 +320,7 @@ Last modified: Sun Jan 24, 2021  12:09PM
 
 ### they dive again
 
-* {Cass can hear the enemy sub out there. gives some details on it: maybe its nuclear?}
+* {Cass can hear the enemy sub out there. gives some details on it: maybe it's nuclear?}
 
 * {they decide to dive again even with low batteries, start to employ some evasion tactics, running slow and deep}
 
@@ -348,9 +350,9 @@ Last modified: Sun Jan 24, 2021  12:09PM
 * {introduce Shakes in an in-character way, snorting stimulants or something.}
 
 * {Shakes tells them the depot was attacked and taken by one of the authorities soon after the _Prospect_ left.}
-* [ ] > some young go-getter officer from one of the authorities. seemed to be making a lot of noise over pretty small potatoes -- one shipment of weapons _parts_ not even whole weapons. Everyone at the depot felt like they were over-stepping the unwritten rules of undersea commerce. It was bad for business that this guy was so aggressive in the depot. he must be trying to impress upper level folks or something.}
+* [ ] > some young go-getter officer from one of the authorities. seemed to be making a lot of noise over pretty small potatoes --- one shipment of weapons _parts_ not even whole weapons. Everyone at the depot felt like they were over-stepping the unwritten rules of undersea commerce. It was bad for business that this guy was so aggressive in the depot. he must be trying to impress upper level folks or something.}
 * [ ] > thing is: he feels like since we're moving weapons parts, he has the right to shoot on sight.
-* [ ] > that's bullshit, most transport subs are legit and deserve at least a warning before they are fired on. he's going to get innocent people killed. not to mention us
+* [ ] > "that's bullshit, most transport subs are legit and deserve at least a warning before they are fired on. he's going to get innocent people killed. not to mention us"
 * [ ] {Is this where you drop some hints about how the Authorities have less control over the 3D medium of the undersea than the 2D surface? This could be saved for a later story}
 
 
@@ -379,10 +381,10 @@ Last modified: Sun Jan 24, 2021  12:09PM
 
 * {the _Gnat_ gets warning shots fired at it (tracer rounds or something)}
 
-* {Shakes reports in to the _Prospect_ and then dives and goes into evasive maneuvers -- fast and loud, though running on electric}
+* {Shakes reports in to the _Prospect_ and then dives and goes into evasive maneuvers --- fast and loud, though running on electric}
 * [ ] > "Sorry yos, I gotta make myself scarce now, or I won't be around much longer to help." 
 
-* {Do we hear a transmission from the enemy? Or do they just shoot to kill? In some ways it might be more fun to keep them dark and silent, like butch cassidy and the sundance kid}
+* {Do we hear a transmission from the enemy? Or do they just shoot to kill? In some ways it might be more fun to keep them dark and silent --- like butch cassidy and the sundance kid}
 
 * {the enemy chases the _Gnat_ for a way, but doesn't take the bait, and heads back on a path towards the _Prospect_}
 
@@ -394,6 +396,7 @@ Last modified: Sun Jan 24, 2021  12:09PM
 
 * {The prospect cruises sail-up to get the lookout up high. Nothing is seen.}
 	* {Does it make sense for them to run sail-up if they have a snorkel? Not sure a snorkel-able sub would do that; though being a non-war sub it might be the thing they do} 
+	* {see notes in sub specs about how you might want them to not have a snorkel for this first story; they get one after the upgrade}
 * [ ] > The _Prospect_ cruised on the uncanny oil-slick surface of the ocean, partially submerged, with just the sail {fin} slicing through the glassy surface and leaving a low wake behind them to mark their passage across this curved globe. 
 * [ ] > They left the sail above the waterline so they could get the lookout mast as high as possible. 
 * [ ] > In the lookout ring Gregory clung, the hum of the diesels transmitted up the mast and crossed into the soles of his feet through the rusted metal grating he stood upon. 
@@ -454,17 +457,20 @@ Last modified: Sun Jan 24, 2021  12:09PM
 * [ ] > "Disengage the electric drive motors too {Donovan}. We need to get as good a listen as possible. Someone wake up Cass and get her listening."
 * [ ] > {Donovan} reached up and flipped a few large metal switches and the soft hum of the electric motors died away just as the noise of the diesels had.
 
-* {Hemi goes off and brings Cass back to sonar. description of sonar station (which might be unnecessary if it was done during Hemi/Cass training session.}
+* {Hemi goes off and brings Cass back to sonar. description of sonar station 
+	* (might not be necessary if it was done during Hemi/Cass training session.}
 * [ ] > Hemi slipped down the ladder and passed through the hatch at the rear of nav to go find Cass's rack in the crew quarters. 
 * [ ] > Hemi returned in a matter of a minute or so to the nav room with Cass following sleepily behind him. 
 * [ ] Cass looked up as she passed under to catch Percy's eye through the hatch down to nav.
 * [ ] > "I'll have my headgear on in a second Pers."
 * [ ] > Percy waited for Freddie to come up through the hatch and then slid down the ladder herself. 
-* [ ] > {Johnson} was already at the sonar station with one of the bakelite speakers of the headset pressed against her right ear, and the left speaker slightly off her ear so she could converse with Percy.
-* [ ] > {Johnson} was adjusting various knobs and switches, disengaging filters used when the engine was running and boosting the gain on the mics.  
+* [ ] > Cass was already at the sonar station with one of the bakelite speakers of the headset pressed against her right ear, and the left speaker slightly off her ear so she could converse with Percy.
+* [ ] > Cass was adjusting various knobs and switches, disengaging filters used when the engine was running and boosting the gain on the mics.  
 * [ ] > Above the rows of knobs and switches was a set of rectangular meters with needles wavering along graduated backgrounds and along with a series of green, red, and amber lights showing the status of the various listening filters. 
 * [ ] > Above those was a large round dial indicating which direction the underwater mics were oriented, and a large square meter indicating the strength of any signals the mics received.
 
+----------------------------------------
+----------------------------------------
 
 
 
