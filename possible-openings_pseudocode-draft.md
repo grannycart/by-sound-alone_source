@@ -1,5 +1,5 @@
 /home/dynohub/github-repos/mortrye/subworld-story_1/possible-openings_pseudocode-draft.md
-Last modified: Mon Jan 25, 2021  03:35PM
+Last modified: Mon Jan 25, 2021  03:45PM
 
 # possible openings pseudocode drafts
 
@@ -22,6 +22,7 @@ Last modified: Mon Jan 25, 2021  03:35PM
 * {the warning shot that hit them cracked a seal on their main cargo hatch. a crew member tells her that the cargo hold --- the enormous cargo hold --- is filling with water}
 
 * {She orders the tanks blown. Warning sirens go off and two giant levers overhead are pulled. There's a rush of air and water... but the boat keeps sinking}
+	* {maybe it's more exciting if the tanks are blown from the engine room --- then the distinction between the regular ballast tanks and the fuel ballast wrench is more exciting and coherent.} 
 
 * {Panic.}
 
