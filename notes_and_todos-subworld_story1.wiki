@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Jan 25, 2021  12:37PM
+Last modified: Tue Jan 26, 2021  12:26PM
 
 # Subworld Story 1 --- notes and todos
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
@@ -43,57 +43,13 @@ Last modified: Mon Jan 25, 2021  12:37PM
 
 
 
-Percy stood behind Cass with one hand on her shoulder, staring at the meter indicating signal strength. Cass flipped a couple of more filter switched and then her fingers gingerly wrapped around the stainless steel wheel that controlled the direction of the underwater mics.
+"Right" said Hemi, before getting on the comms tube with Chips.
 
-"I'll do a quick 360 scan, and then go back over the rear 180 more carefully, see if we can hear anyone following us." Cass said.  Percy patted her shoulder gently, not wanting to distract her too much.
-
-Cass slipped the other speaker over her left ear, and her large eyes went out of focus, resolved on some far-off point in space and vaguely conscious of the direction and strength dials responding to the movements of her fingers as most of her mental processing power focused on the information coming oh so softly to her ears.
-
-Percy watched the directional indicator dial waver around the 180 mark and then slowly and steadily travel around the dial. The signal strength meter barely came up off the pin. Percy grabbed a hanging rag and wiped some small droplets of condensation from the indicator meter.
-
-"Nothing." Cass said. "Nothing at all."
-
-"Not even the _Gnat_?" Asked Percy, "Shakes said he was running hot and loud."
-
-"Nope, he must be far off out of range of our mics. And if our friends following us are anywhere nearby, they are completely shutdown at the moment. No other surface traffic that I can hear either."
-
-"Well, that's good then. We'll run the diesels back up."
-
-"Let me do a quick scan of the areas behind us again, but my feeling is you are good to go, for the moment."
-
-Percy patted Cass on the shoulder again, and climbed back up the ladder to the cramped con. Freddie offered her the captain's chair he was sitting in, but she gestured him to remain there. She lit the comms light to engineering again and Chips came back on through the comms tube.
-
-"Cap?"
-
-"Get ready to fire up the diesels again Chips. We're all clear on the mics."
-
-"Ach. The chain of demons that powers these machines do not like this holy wavering of heat and cool. They're libel to rebel, and split their prisons of metal twain. If we crack a block, it is only a matter of time before we are dead in the water." Chips complained, her voice thinned and elongated by passing through the comms tube, as if she were speaking from the underworld prisons of her metaphorical demons herself.
-
-"I know it as well as anyone Chips. But it's one risk among many, and we don't have the luxury of choosing which we take at the moment." Percy let the lid of the comms tube close, not really caring what other complaints Chips had at the moment.
-
-A few moments later the high-pitch whine of the electric starters resonated through the submarine, followed by the sputtering and rolling of diesel cylinders firing up. Soon the familiar droning hum was vibrating their toes again, and power driving to the electric motors pushing them ahead through the water.
-
-Freddie touched Percy's arm.
-
-"With the all-clear on the mics, I think we can assume those following us are probably a good way off. It seems like we might want to run the diesels low and at snorkel depth. We'll minimize the distance we could be detected by that way." Freddie offered.
-
-"We also lose our ability to have a lookout on the mast."
-
-Freddie adjusted his slide-rule, and penciled a few numbers onto the clipboard in his lap.
-
-"My calculations suggest that if we didn't hear them on the mics, and assuming they weren't laying still and silent close by, they must be well beyond the range a lookout even high on the mast could see. I do not anticipate that they could get within that range without us hearing them first with our current plan to check the mics every half hour." Freddie wiped his fingers on a rag and removed the pince-nez from his nose to let them dangle on a chain.
-
-Percy considered.
-
-"You're probably right. And putting the rational argument aside, I feel the natural instinct of any good sub like my baby here is to be underwater as much as possible. Have Chips bring the diesels down to 1/4 power. {Donovan}: raise the snorkel and take us down to snorkel depth.  Freddie, since it's your idea to run at snorkel depth, you can take first watch on the scope."
-
-"Right" said Freddie, before getting on the comms tube with Chips.
-
-The hum of the engine became a little less all-prevailing, and they all settled in for a potentially long run of monotony. {Donovan}, with the speed, course, and depth set found himself with little to do. He smoked through one cigarette after another punctuated with the occasional cup of coffee and regular glances up at his bank of dials that indicated nothing had changed. Freddie hung his huge form on the control bars of the periscope and swung it slowly back and forth, mostly watching behind, but not neglecting to do a full circle every so often. Like Gregory before him, there was nothing to see through the scope except two shades of blackness, one belying the blackness of the other. It was the kind of never-ending nothingness that seemed to Freddie to be the true herald of death.
+The hum of the engine became a little less all-prevailing, and they all settled in for a potentially long run of monotony. {Donovan}, with the speed, course, and depth set found himself with little to do. He smoked through one cigarette after another punctuated with the occasional cup of coffee and regular glances up at his bank of dials that indicated nothing had changed. Hemi hung his huge form on the control bars of the periscope and swung it slowly back and forth, mostly watching behind, but not neglecting to do a full circle every so often. Like Gregory before him, there was nothing to see through the scope except two shades of blackness, one belying the blackness of the other. It was the kind of never-ending nothingness that seemed to Hemi to be the true herald of death.
 
 Percy found she could not long drag herself away from the bank of meters that showed the charge on the batteries, which with the diesels running at 1/4 were only climbing at a rate that felt like it would never get into a zone where she might feel comfortable doing any kind of evasive maneuvering with her boat.
 
-At 53 minutes after the hour, she had Chips shut down the engines again, and put Cass through a roundabout with the mics again. And again there was nothing out there but silence. Percy returned to the weary hole of the con, and took over the scope from Freddie, who went off to find some coffee.
+At 53 minutes after the hour, she had Chips shut down the engines again, and put Cass through a roundabout with the mics again. And again there was nothing out there but silence. Percy returned to the weary hole of the con, and took over the scope from Hemi, who went off to find some coffee.
 
 Hours passed like this, the droning, the monotony, the only thing changing being the slowly, slowly climbing needles on the battery charge indicators.
 
@@ -145,7 +101,7 @@ This was followed by a long string of regional control organizations, treaty cla
 
 More shrapnel smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily, there was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
 
-{Donovan} and {Gregory} looked at her in fear. Freddie looked back at them steadily through his pince-nez and told them to get the boat underwater.
+{Donovan} and {Gregory} looked at her in fear. Hemi looked back at them steadily through his pince-nez and told them to get the boat underwater.
 
 "We're safe from bullets underwater."
 
@@ -157,7 +113,7 @@ More shrapnel smacked against the sail and along the hull of the _Prospect_ just
 
 Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them in streams of bubbles.
 
-"Set the planes down steep." Said Freddie. "Full power to the electric motors, drive us down as fast as possible." {Gregory} pushed the main throttles all the way forward, and the hum of the powerful electric motors rose up around them mixing with the terrifying sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill status, with their pitted chrome casings, and one with a cracked glass face, all rose evenly and quickly.
+"Set the planes down steep." Said Hemi. "Full power to the electric motors, drive us down as fast as possible." {Gregory} pushed the main throttles all the way forward, and the hum of the powerful electric motors rose up around them mixing with the terrifying sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill status, with their pitted chrome casings, and one with a cracked glass face, all rose evenly and quickly.
 
 The _Prospect's_ bow tilted towards the depths, and everyone in the con found a seat or grabbed a hanging leather strap counter-angling against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent.
 
@@ -165,9 +121,9 @@ The _Prospect's_ bow tilted towards the depths, and everyone in the con found a 
 
 Cass pushed her straight blonde strands of hair behind her ears and put her headphones on again."Ya Pers. I can hear their tanks flooding too. They are following us down."
 
-"Alright." Percy considered for a moment and turned to Freddie. "We're actually safe for the moment because we're _too_ close to them. They have nothing they can hit us with underwater at close range. Assuming they will continue to be as murder-minded as they have been, they'll want to get some distance between us so they can put a torpedo in the water."
+"Alright." Percy considered for a moment and turned to Hemi. "We're actually safe for the moment because we're _too_ close to them. They have nothing they can hit us with underwater at close range. Assuming they will continue to be as murder-minded as they have been, they'll want to get some distance between us so they can put a torpedo in the water."
 
-"That is sound reasoning." Freddie replied. "Should we take this moment to try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
+"That is sound reasoning." Hemi replied. "Should we take this moment to try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
 
 "The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection, right? We aren't going to pass any inspections with weapons parts aboard, and I'm willing to bet these guys are unbribeable."
 
@@ -177,7 +133,7 @@ Cass pushed her straight blonde strands of hair behind her ears and put her head
 
 "Percy," Cass called up from the listening station, "they've revved up their motors and are turning."
 
-"They are going for distance. They want to fire on us." Freddie said.
+"They are going for distance. They want to fire on us." Hemi said.
 
 Percy looked at the depth gauge: 100 meters. "Cass how far away are they?"
 
@@ -185,9 +141,9 @@ Cass pushed a button on some range-finding equipment next to her and a moment la
 
 "OK, let me know immediate if they start a turn."
 
-Percy looked at Freddie, and said out loud what he was thinking, "If they have rear tubes for launching torpedoes, we'll have no warning. But if they only have forward tubes, we'll know they are about to fire when they come back around."
+Percy looked at Hemi, and said out loud what he was thinking, "If they have rear tubes for launching torpedoes, we'll have no warning. But if they only have forward tubes, we'll know they are about to fire when they come back around."
 
-Freddie wiped his fingers on a hanging rag. "They are so close it will only be a matter of moments from when then launch the torpedo though."
+Hemi wiped his fingers on a hanging rag. "They are so close it will only be a matter of moments from when then launch the torpedo though."
 
 "Push her down {Donovan}."
 
@@ -217,9 +173,9 @@ Percy looked up. They were passing 200 meters. The pinging was fast enough that 
 
 A silent moment passed, and then Cass called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
 
-"They are going to wait us out." Percy said to Freddie.
+"They are going to wait us out." Percy said to Hemi.
 
-"They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Freddie, glancing over the battery charge dials.
+"They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Hemi, glancing over the battery charge dials.
 
 "OK {Donovan}, level us out. Hold us at this depth for the moment."
 
@@ -241,7 +197,7 @@ like this. She was worried about the one following them.
 "Cass, stay on them. Let me know exactly what they are doing."
 Percy called down to the listening station.
 
-"So what do we do Freddie?"
+"So what do we do Hemi?"
 
 "I've been thinking about it. We can assume they are moving away from
 us. They'll probably move pretty fast, enough that we can hear their
