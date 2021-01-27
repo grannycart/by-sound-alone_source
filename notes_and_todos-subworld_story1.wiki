@@ -1,7 +1,9 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Jan 26, 2021  08:55PM
+Last modified: Wed Jan 27, 2021  10:51AM
 
-# Subworld Story 1 --- notes and todos
+# Subworld Story 1 --- general notes and todos
+
+## Notes and To dos:
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
@@ -31,6 +33,31 @@ Last modified: Tue Jan 26, 2021  08:55PM
 * [ ] See if any of the above notes should be copied over to shuttlebay
 * For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 
+
+## Story elements specific to this story
+* [ ] They visit depots that have staging areas above ground on the coast, and underwater sub connections for loading and unloading goods.
+* [ ] they do deadliest catch style shifts of more than 24 hours with everyone exhausted (mine from that 33 minute episode of battlestar gallactica)
+	* no sleep
+	* lots of crew doing cocaine or unnamed but clearly doing stimulants
+	* bloodshot eyes, mistakes from tiredness
+	* the captain struggles to get the crew into the rack reasonably often
+* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below)
+	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use. 
+* [ ] Deck boss/nerd character figures out to use magnetic mines and some kind of float to put the mines in the path of the chasing authority sub. 
+	* the nerd character calculates by hand how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the floats by hand and launch them out the airlock into the path of the chasing sub.
+	* in later stories, the floating mines become a standard tool. they have a machine calculator that calculates the psi of the floats for them, but still have to fill them by hand.
+* [ ] the nerd character might be able to listen to the water mics and determine size and types of ships by screw rpms or something?
+* [ ] The mini sub in some situation wants to create even more noise, so they make some kind of adjustment to the engines to run clackily or something.
+* [ ] they smuggle a hold full of expensive watches. the watches get wound up with the movement of the boat. while running silent under the authority ship the sonar realizes they can hear the watches. down in the silence of the hold with no engine running, the ticking is clearly audible, like the telltale heart. possibly audible to the authority ship.
+	* the watches are a shipment from one of the authority govts to field troops to use for artillery 
+* [ ] at some point have one of the characters dip a comb in engine grease and run it through their hair
+* [ ] they have a pile of crappy old (pre-war) bicycles, when the cargo bay is clear, they have donut races like the Seven xmas party:
+	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
+	* someone builds a ramp, and maybe someone else has some kind of fancy aluminum bicycle frame, that cracks in half like a wishbone after going over the jump
+		* "that's why submarines are made of steel not aluminum. steel fails gracefully, bending before it breaks. aluminum just cracks and collapses on you"
+		* "Is a steel hull slowly crushing around you a blessing under 100 atmospheres of pressure? or a curse though?"
+* [ ] someone says sub-marine like it's two words. maybe a trader in a depot or something.
+	* (because submarine is such a strange mush of a word to say) 
 
 
 
