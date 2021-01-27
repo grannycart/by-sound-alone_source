@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Jan 27, 2021  10:51AM
+Last modified: Wed Jan 27, 2021  03:42PM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -61,95 +61,4 @@ Last modified: Wed Jan 27, 2021  10:51AM
 
 
 
-----------------------------------------
-----------------------------------------
 
-## 'staring at dials' draft section
-* {See style experiments in sub world shuttle bay for draft experiments of generalized scenes of going deep, staring at dials, listening. This section is for experimenting within the pseudocode 1.1 structure you already laid out.}
-
-
-
-
-"I don't think I could ever get used to going down fast like this, controlled or no." said {Donovan}, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. Along with some input from the nav station and the listening station on the deck immediately below the con, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. And what {Donovan} was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities.  The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. The depth indicator was the one that {Donovan's} eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column. It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity.
-
-Depth gauge check: between 175 and 180 meters. Everyone silently gripped their stations.
-
-"They're turning Percy!" Cass called. And a minute later, "torpedo!"
-
-In a few moments they could hear the ringing ping of the torpedo's homing sonar echoing through the _Prospect_, the frequency of the pulses steadily getting quicker.
-
-"Down, we have to get deeper." Percy whispered to herself.
-
-Where a moment before {Donovan} was fearing some unknown depth at which the _Prospect_ would cease to exist, now he found himself squeezed in the jaws of a closing vise, between an explosive torpedo that could end the _Prospect_ and the crushing pressure of water that could also end them.
-
-Percy looked up. They were passing 200 meters. The pinging was fast enough that they all knew the torpedo was almost on them. And then there was a creeping silence where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
-
-"The torpedo imploded Percy!" cried Cass.
-
-{Donovan} looked at Percy, hoping for an explanation.
-
-"Most of the torpedoes on these Authority subs are older ones they manufactured huge numbers of. They can't go below 200 meters or so. It's possible that they are loading a more modern ones into their tubes right now that can reach us, and all we've done is delayed the inevitable.  Keep diving {Donovan}."
-
-"212 meters down." Said {Donovan}. {perhaps something about every 10 meters being another atmosphere goes here -- see other style experiments writings}
-
-"What are they doing Cass?" Percy asked loudly.
-
-A silent moment passed, and then Cass called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
-
-"They are going to wait us out." Percy said to Hemi.
-
-"They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Hemi, glancing over the battery charge dials.
-
-"OK {Donovan}, level us out. Hold us at this depth for the moment."
-
-{Donovan} eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground. {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally locked in at 232 meters.
-
---------------------
-
-{
-{Donovan} was starting to panic, his eyes were wide and unblinkingly
-scanning the wall of dials, and sweat was running in threads down his
-temples. The tips of his fingers were wrapped around the dive plane
-controls, ready for the instant he could level off the boat, not wanting
-to risk a stray meter downward he didn't have to. Percy stepped forward,
-her feet angled against the incline of the deck, and put her hand on his
-shoulder. She watched the dials more calmly. At their current depth she
-was not worried about her boat, even going through stressing maneuvers
-like this. She was worried about the one following them.
-
-"Cass, stay on them. Let me know exactly what they are doing."
-Percy called down to the listening station.
-
-"So what do we do Hemi?"
-
-"I've been thinking about it. We can assume they are moving away from
-us. They'll probably move pretty fast, enough that we can hear their
-electric motors. What if we follow them? Try to stay close enough that
-they can't shoot at us? At least until we can figure out something
-else."
-
-"I'm sure they will expect us to try to slink off, so that at least has
-the element of surprise. It might give us a chance to figure something
-out. Maybe we can find the _Gnat_ and Shakes can run interference."
-
-"It's a big risk, because they'll almost certainly find us in moments if
-we are close by."
-}
-
---------------------
-
-{
-A loud ping passed through the length of the hull of the _Prospect_.
-
-"Woop!" Cass yelled up through the hatch to the con. "Well, they
-know where we are now. But we know where they are too, hang on..." At
-her listening station, Cass read numbers off of readout that had
-locked in when they detected the overwhelming signal of the ping. She
-punched numbers from those readouts into a little calculating machine
-that was screwed to the wall next to her, and twisted some dials. {this
-might actually be automatic from the sonar rig} "Pers, they are under at
-120 meters, 560 meters from us at 172 degrees." Cass stepped over
-to the chart table at the nav station and looking to over to re-read the
-numbers again from the computing machine, marked their position and the
-position of the Authority sub on the chart.
-}

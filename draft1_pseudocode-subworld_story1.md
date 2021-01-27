@@ -1,5 +1,5 @@
-draft_pseudocode-subworld_story1.wiki
-Last modified: Tue Dec 29, 2020  12:12PM
+draft1_pseudocode-subworld_story1.wiki
+Last modified: Wed Jan 27, 2021  03:45PM
 
 # Draft pseudocode (draft 1) of subworld story 1
 * [pseudocode draft 1.1](#draft1)

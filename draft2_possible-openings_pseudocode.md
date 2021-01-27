@@ -1,5 +1,5 @@
-/home/dynohub/github-repos/mortrye/subworld-story_1/possible-openings_pseudocode-draft.md
-Last modified: Tue Jan 26, 2021  11:05AM
+draft2_possible-openings_pseudocode.md
+Last modified: Wed Jan 27, 2021  03:46PM
 
 # possible openings pseudocode drafts
 * See experimental draft opening in style experiments, darkness

@@ -1,5 +1,7 @@
-pseudocode-subworld_story1.wiki
-Last modified: Tue Jan 26, 2021  08:55PM
+draft2_pseudocode-subworld_story1.md
+Last modified: Wed Jan 27, 2021  03:45PM
+
+
 
 # Full pseudocode (draft 2) of subworld story 1
 -------------------------------------------------
@@ -586,32 +588,48 @@ Four hours of this. It was on the eighth time that they had the engines shut dow
 * [ ] > Hemi wiped his fingers on a hanging rag. "They are so close it will only be a matter of moments from when then launch the torpedo though."
 * [ ] > "Push her down {Donovan}."
 
+* {Crewman fearfully watches the dials and the boat descends}
+* [ ] > "I don't think I could ever get used to going down fast like this, controlled or no" said {Donovan}, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. 
+* [ ] > His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. 
+* [ ] > Along with some input from the nav station and the listening station on the deck immediately below the con, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. 
+* [ ] > The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. 
+* [ ] > And what {Donovan} was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities.  
+* [ ] > The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. 
+* [ ] > The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. 
+* [ ] > The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. 
+* [ ] > The depth indicator was the one that {Donovan's} eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column. 
+* [ ] > It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity.
+* [ ] > Depth gauge check: between 175 and 180 meters. Everyone silently gripped their stations.
 
+* {The enemy sub turns and fires. Percy wills the boat down.}
+	* {the _Prospect_ hard-crash deep dives, to get under the torpedo's max depth (how deep can torps go? --- let's say 200 meters; based on the ones at the end of WWII that maxed out at 400')
+* [ ] > "They're turning Percy!" Cass called. And a minute later, "torpedo!"
+* [ ] > In a few moments they could hear the ringing ping of the torpedo's homing sonar echoing through the _Prospect_, the frequency of the pulses steadily getting quicker.
+* [ ] > "Down, we have to get deeper." Percy whispered to herself.
+* [ ] > Where a moment before {Donovan} was fearing some unknown depth at which the _Prospect_ would cease to exist, now he found himself squeezed in the jaws of a closing vise, between an explosive torpedo that could end the _Prospect_ and the crushing pressure of water that could also end them.
 
+* {The torp implodes before hitting them, Percy explains what happened}
+* [ ] > Percy looked up. They were passing 200 meters. The pinging was fast enough that they all knew the torpedo was almost on them. And then there was a creeping silence where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
+* [ ] > "The torpedo imploded Percy!" cried Cass.
+* [ ] > {Donovan} looked at Percy, hoping for an explanation.
+* [ ] > "Most of the torpedoes on these Authority subs are older ones they manufactured huge numbers of. They can't go below 200 meters or so. It's possible that they are loading a more modern ones into their tubes right now that can reach us, and all we've done is delayed the inevitable.  Keep diving {Donovan}."
 
+* {They wait to see what the enemy sub does next}
+* [ ] > "212 meters down." Said {Donovan}. {perhaps something about every 10 meters being another atmosphere goes here -- see other style experiments writings}
+* [ ] > "What are they doing Cass?" Percy asked loudly.
+* [ ] > A silent moment passed, and then Cass called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
+* [ ] > "They are going to wait us out." Percy said to Hemi.
+* [ ] > "They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Hemi, glancing over the battery charge dials.
 
+* {Description of crewman trimming the tanks} 
+* [ ] > "OK {Donovan}, level us out. Hold us at this depth for the moment."
+* [ ] > {Donovan} eased up the wheel on the dive plane, pulled the throttle back to the zero mark, and flipped some switches. 
+* [ ] > The electric hum died away as the deck of the boat came up under their feet to something like level ground. 
+* [ ] > {Gregory} eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  
+* [ ] > The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. 
+* [ ] > The depth gauge slowed and slowed, and then finally locked in at 232 meters.
 
-----------------------------------------
-----------------------------------------
-
-
-
-
-* [ ] {enemy sights the _Prospect_ running slow and dark, and fires a non-warning shot hitting the deck}
-	* [ ] > The speeding chunks of shrapnel, smacked against the hull, and echoed through the whole boat.
-
-* [ ] {the _Prospect_ crash-dives and the real sea-chase begins. The _Prospect_ runs not too deep, trying to maintain some balance of speed and quiet.}
-	* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
-
-* [ ] {the enemy fires a torpedo at the _Prospect_.}
-
-* [ ] {torpedo incoming, homing with active sonar}
-
-* [ ] {the _Prospect_ hard-crash deep dives, to get under the torpedo's max depth (how deep can torps go? --- let's say 200 meters; based on the ones at the end of WWII that maxed out at 400')
-
-* [ ] {the torpedo implodes, the but the _Prospect_ is heading down with less-than full battery}
-
-* [ ] {they slow the engines to a nearly silent crawl. they level off to figure out what to do --- the enemy decides to wait them out, guessing that they are low on battery}
+* {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 
 * [ ] {they are pinged, and that gives away their location}
 
