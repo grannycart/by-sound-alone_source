@@ -1,9 +1,10 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Jan 27, 2021  03:42PM
+Last modified: Thu Jan 28, 2021  12:47PM
 
 # Subworld Story 1 --- general notes and todos
 
 ## Notes and To dos:
+* [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
@@ -35,6 +36,15 @@ Last modified: Wed Jan 27, 2021  03:42PM
 
 
 ## Story elements specific to this story
+* overall theme: being chased by a dark force of evil (black sub) from place to place to place
+	* on a dead calm sea
+	* rammed and sunk on the top of a seamount (like Moses on Ararat) 
+	* a depot (for repairs and pick up cargo)
+	* on the surface in a storm (wave porn -- the sub sneaks up on them because they can't hear them over the crashers)
+	* hiding in the depths, escape under the deep scattering layer
+	* Into an exotic remote city with junks everywhere; homes built on stilts; the metal machine tooling through rickety wood structures; unload cargo at port
+	* bicycle race in the hangar
+	* into the pacific garbage patch; the final battle
 * [ ] They visit depots that have staging areas above ground on the coast, and underwater sub connections for loading and unloading goods.
 * [ ] they do deadliest catch style shifts of more than 24 hours with everyone exhausted (mine from that 33 minute episode of battlestar gallactica)
 	* no sleep

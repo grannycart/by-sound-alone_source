@@ -1,5 +1,5 @@
 draft2_possible-openings_pseudocode.md
-Last modified: Wed Jan 27, 2021  03:46PM
+Last modified: Thu Jan 28, 2021  11:36AM
 
 # possible openings pseudocode drafts
 * See experimental draft opening in style experiments, darkness
@@ -8,9 +8,7 @@ Last modified: Wed Jan 27, 2021  03:46PM
 
 ## possible opening pseudocode draft1
 
-* {Open on a completely empty dome of black sky over a perfectly still pitch black ocean}
 
-* {A submarine breaks the surface, it's sail rising up slowly. A hatch opens and a woman steps out on top of the sail.}
 
 * {But suddenly there's a gunship on them, it fires and hits them. The sub crash dives.}
 
