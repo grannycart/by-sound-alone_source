@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Wed Jan 27, 2021  03:45PM
+Last modified: Thu Jan 28, 2021  10:33PM
 
 
 
@@ -85,6 +85,7 @@ Last modified: Wed Jan 27, 2021  03:45PM
 	> "What?"
 * [ ] She's just too skinny and sad to be a good whore
 	> "She's got just the saddest of faces, and she's too shy. Even I can't bring myself to be comfortable pimping her out. A pimp has got to have a heart you know."
+* [ ] > "Besides none of the clients want her because she's not white enough. You know what the inability to market an off-color whore tells me Percy? It tells me there's a bunch of racist fuckers under these waters, that's what"
 * [ ] Can she do sonar work?
 	> "You're the great heart of the world, I'm sure, {Flintock}. Does she have good ears?"
 * [ ] She's young and into music, so maybe
@@ -643,7 +644,7 @@ Four hours of this. It was on the eighth time that they had the engines shut dow
 
 * [ ] {maybe something breaks because its deeper than percys instinct tells her is ok}
 
-* [ ] another ping -- johnson confirms the signal is strong enoug that they know where they are
+* [ ] another ping -- Cass confirms the signal is strong enoug that they know where they are
 
 * [ ] they know they need to figure out how to contact the gnat
 
