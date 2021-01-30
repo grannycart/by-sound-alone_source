@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Jan 28, 2021  10:55PM
+Last modified: Fri Jan 29, 2021  08:37PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -13,68 +13,82 @@ Last modified: Thu Jan 28, 2021  10:55PM
 
 ### Opening scene: a calm black sea, broken by a sub --- (on a dead calm sea)
 
-* [ ] _Open on a completely empty dome of black sky over a perfectly still pitch black ocean_
+* [X] _Open on a completely empty dome of black sky over a perfectly still pitch black ocean_
 	* {pull from draft opening already written}
 
 
-* [ ] _A submarine breaks the surface, its sail rising up slowly. A hatch opens and a woman steps out on top of the sail --- Captain Sylvia Percy_
-	* [ ] She lights a cigarillo, the light of the match piercing the darkness
-	* [ ] The engines run hot and noisy, spewing up into the air above the calm sea.
+* [X] _A submarine breaks the surface, its sail rising up slowly. A hatch opens and a woman steps out on top of the sail --- Captain Sylvia Percy_
+	* [X] She lights a cigarillo, the light of the match piercing the darkness
+	* [X] The engines run hot and noisy, spewing up into the air above the calm sea.
 	* {They are running on the surface to charge batteries, but don't make this explicit}
 
-* [ ] _Hemi joins her on the bridge. They run for a while, enjoying the strange still blackness of the night._
+* [X] _Hemi joins her on the bridge. They run for a while, enjoying the strange still blackness of the night._
+	* [ ] Add something about the leather clothes they are wearing?
+
+* [X] _Percy stays on the bridge, smoking, until they get out from under the clouds. They get the batteries partially charged up_
 
 
 ### They are rammed by another sub
 
-* [ ] _Then the whole sub shudders, a look of panic crosses Hemi's face, and anger crosses Percy's. The whole ship lists over. They try to figure out what happened. A black monster of another sub rises up to the surface, on it's bow is mounted a medieval-looking ram,  and then descends under the waves. They figure out they had been rammed._
+* [X] _Then the whole sub shudders, a look of panic crosses Hemi's face, and anger crosses Percy's. The whole ship lists over. They try to figure out what happened. A black monster of another sub rises up to the surface, on it's bow is mounted a medieval-looking ram,  and then descends under the waves. They figure out they had been rammed._
 
-* [ ] _Percy orders the Prospect down fast. They seal up and crash dive._
+* [X] _Percy orders the Prospect down fast. They seal up and crash dive._
 
-* [ ] _They receive a call over ship-to-ship and are informed that they are violating the territory of some complicated sounding authority._
+* [X] _They receive a call over ship-to-ship and are informed that they are violating the territory of some complicated sounding authority._
 	* {Or something to this effect? Keep the enemy sub mysterious, but also start to hint at the ridiculous power structure of the surface -- the story reveals the surface structure when the Prospect is on the LITERAL surface}
 
 
 ### Staring at dials as they sink
 
-* [ ] _They go down, staring at dials (maybe steal some from earlier staring-at-dials-during-dives drafts)_
+* [X] _They go down, staring at dials (maybe steal some from earlier staring-at-dials-during-dives drafts)_
 
-* [ ] _But when they go to level off, the boat's sluggish. (take from draft of captain not able to read what her ship is doing from the dials --- it doesn't make sense)_
+* [X] _But when they go to level off, the boat's sluggish. (take from draft of captain not able to read what her ship is doing from the dials --- it doesn't make sense)_
 
-* [ ] _A crew member comes up to the control deck to tell them the cargo hold --- the enormous cargo hold with MOST of the boat's buoyant chamber --- is leaking fast._
+* [X] _Percy goes down to try to figure out what's wrong_
+	* {chance to describe ship}
 
-* [ ] _The crew go into the cargo hold to try and patch the leaks in the flooded water. The ship is sinking._
+* _Percy finds the flooding in the main cargo bay_
+
+* [X] _Back in the control room, Hemi deals with sonar pings and the pursuing sub_
+
+* [X] _Percy recruits Chips to stop the flooding_
+	* [X] Percy tells Chips she needs her to help stop the flooding.
+	* [X] Chips panics: "the _main_ cargo bay? Our primary buoyancy reserve? There's no way to close that off with bulkheads!
+	* [X] > "We're so fucked! So so fucked. The motherfucking main cargo hold is flooding!"
+	* [X] > "For fuck's sake Chips, give me an actual report, not the panicked screaming of a goddamn child." 
+
+* [X] _The crew go into the cargo hold to try and patch the leaks in the flooded water. The ship is sinking._
 
 
 ### They blow the tanks
 
-* [ ] _Percy orders the tanks blow. Warning sirens go off and two giant levers overhead are pulled. There's a rush of air and water... but the boat keeps sinking._
+* [X] _Percy orders the tanks blow. Warning sirens go off and two giant levers overhead are pulled. There's a rush of air and water... but the boat keeps sinking._
 	* {maybe it's more exciting if the tanks are blown from the engine room --- then the distinction between the regular ballast tanks and the fuel ballast wrench is more exciting and coherent.} 
 	* {The tank blow wrenches rest in specially padded toolboxes that are easily accessible
 
-
-* [ ] _But the fuel blow doesn't work either._
+* [X] _But the fuel blow doesn't work either._
 
 * [ ] {Consider: Connect what happens here to critical moments later in the story --- something wrong with the fuel tanks because of the emergency blow? the fuel gauge got fucked, and they end up with not nearly as much fuel as they thought or something?}
 
 
 ### They head for a seamount
 
-* [ ] _They realize they are going to sink past the crush depth. The consult charts (or the sonar listens) to discover there's a seamount nearby._
+* [X] _They realize they are going to sink past the crush depth. The consult charts (or the sonar listens) to discover there's a seamount nearby._
 	* {It's probably more interesting stylistically to NOT reveal what they are doing, Maybe just have Percy give orders, (she and Hemi know what's happening, but not the reader?) and they take actions, but it's a surprise when they hit the bottom on top of the seamount?)}
 
-* [ ] _They are going down slowly, but irrevocably._
+* [X] _They are going down slowly, but irrevocably._
 
 
-* [ ] _Percy asks Hemi to figure out what's the slowest they can go to avoid detetction (in their very silet electric boat) vs the fastst they can go to to get to safety_
+* [X] _Percy asks Hemi to figure out what's the slowest they can go to avoid detetction (in their very silet electric boat) vs the fastst they can go to to get to safety_
 
-* [ ] _Percy goes down to engineering and finds the specially-fitted wrench and blows the fuel ballast tanks. This slows their downward progress, but they HAVE to make it to the Guyot on the batteries now._
+* [X] _Percy goes down to engineering and finds the specially-fitted wrench and blows the fuel ballast tanks. This slows their downward progress, but they HAVE to make it to the Guyot on the batteries now._
 	* {the fuel ballast blow wrenches are in separate padded toolboxes (with worn velveteen maybe) that are padlocked. Percy has the key} 
 
 
 ### They bottom on the peak of a seamount --- (rammed and sunk on the top of a seamount (like Moses on Ararat))
 
 * [ ] _They drive the boat hard to get over the seamount, and bottom it on the peak. Like Moses on Ararat._
+	* {NOW use your staring-dials-fear... they don't know where the bottom is, or if they will be crushed before they hit it.}
 	* {Be careful that this doesn't seem too much like Das Boot. Avoid this by shaping it as a slow-motion sinking and deliberately seeking out the seamount, rather than the way the boat goes down out of control in Das Boot to be saved by a 'shovelful of sand'}
 
 * [ ] _Bottoming it means the enemy sub can't find them with sonar. They repair their sub, pump out the water, and lift off the guyot/tablemount._
