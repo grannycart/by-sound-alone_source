@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Jan 29, 2021  08:37PM
+Last modified: Sat Jan 30, 2021  08:31PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -79,31 +79,50 @@ Last modified: Fri Jan 29, 2021  08:37PM
 * [X] _They are going down slowly, but irrevocably._
 
 
-* [X] _Percy asks Hemi to figure out what's the slowest they can go to avoid detetction (in their very silet electric boat) vs the fastst they can go to to get to safety_
+* [X] _Percy asks Hemi to figure out what's the slowest they can go to avoid detetction (in their very silent electric boat) vs the fastst they can go to to get to safety_
 
 * [X] _Percy goes down to engineering and finds the specially-fitted wrench and blows the fuel ballast tanks. This slows their downward progress, but they HAVE to make it to the Guyot on the batteries now._
 	* {the fuel ballast blow wrenches are in separate padded toolboxes (with worn velveteen maybe) that are padlocked. Percy has the key} 
 
 
-### They bottom on the peak of a seamount --- (rammed and sunk on the top of a seamount (like Moses on Ararat))
+### They bottom on the peak of a seamount --- (sunk on the top of a seamount (like Moses on Ararat))
 
-* [ ] _They drive the boat hard to get over the seamount, and bottom it on the peak. Like Moses on Ararat._
+* [X] _They drive the boat hard to get over the seamount, and bottom it on the peak. Like Moses on Ararat._
 	* {NOW use your staring-dials-fear... they don't know where the bottom is, or if they will be crushed before they hit it.}
 	* {Be careful that this doesn't seem too much like Das Boot. Avoid this by shaping it as a slow-motion sinking and deliberately seeking out the seamount, rather than the way the boat goes down out of control in Das Boot to be saved by a 'shovelful of sand'}
 
-* [ ] _Bottoming it means the enemy sub can't find them with sonar. They repair their sub, pump out the water, and lift off the guyot/tablemount._
+* [X] _Bottoming it means the enemy sub can't find them with sonar. They repair their sub, pump out the water, and lift off the guyot/tablemount._
 	* {'Tablemount' is probably better because you don't have to explain what it means.}
+	* [X] The repair is a foul mix of steel plates and bracing and globulous welds.
+		* {Chips spends the rest of the story repairing freshly sprung leaks from the patches --- make note of this in a couple of places}
 
 
 ### Back on the surface
 
-* [ ] _Back on the surface: They call the Gnat_
+* [X] _On the surface, they realize they are stranded, with batteries drained and no fuel._
+	* [X] The weather is gray, and thiere's a mist
+	* [X] They ask who controls this part of the surface. "Uh, the Western Federated Socialists I think." Says Hemi. "At least last time I looked at a Territorial Authorities map --- but that was more than a year ago."
+	* [X] Those assholes are bad news. We should get out of here.
 
-* [ ] _The Gnat arrives, they set up for towing._
+* [ ] _They get on an encrypted smugglers channel on the radio, and raise a narco sub that's not too far off. Its Shakes._
 
-* [ ] _The Gnat tows them towards an island not too far away. The goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
+* [ ] _Shakes motors up and introduces himself_
+	* [ ] He runs a comb through engine grese and runs it through his spikey blonde hair
+	* [ ] His hand is shaking
+	* [ ] "We smugglers need to stick together eh?" Percy looked dead at him while she said "We're not smugglers, we're Independent Logistics Operators."
+	* [ ] He tells them he's headed for a remote depot on an isolated ocean island a hundred nautical miles or so away
 
-* [ ] _The Prospect buttons up and sinks down, then uses remaining battery to dock (from the underside) with an underwater dock_
+* [ ] _They figure out that they can get a bit of a charge on the Prospects batteries by jumping from the Gnat and running the engines for 10 hours or so_
+	* [ ] They rig up heavy cables between the two boats
+	* [ ] Hemi is not impressed with the state of Shakes' boat. There's a conversation about how Shakes always got away with running _just_ under the surface, all that diving seemed excessively dangerous to him. Make it clear his boat can only dive 30 meters or so.
+	* [ ] a big radar contact running loud on the surface will look like a ship, and slightly ess likely to attract attention of any authorities (maybe)
+	* [ ] while waiting for the batteries to charge, they eat a meal. Shakes brought nothing but cold canned foods with him. The Prospect has submarine food: spoiling kim chi, stale rice, dessicated citrus.
+		* [ ] "If you can heat it, you can eat it."	
+
+* [ ] _They decide to creep for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so. Shakes says he'll see them there and motors off_
+	* [ ] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
+
+* [ ] _The Prospect buttons up and sinks down to periscope, then uses remaining battery to dock (from the underside) with an underwater dock_
 
 
 ### --- (a depot (for repairs and pick up cargo))
@@ -116,6 +135,9 @@ Last modified: Fri Jan 29, 2021  08:37PM
 	* {skip the trader flirting with Percy}
 
 * [ ] _Percy asks depot trader about hiring a sonar operator. He offers his unmarketable whore Cassandra._
+
+* [ ] _Percy tracks down Shakes at the dock, and hires him to run interference for them with the mines cargo_
+	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time.
 
 * [ ] _Conversation with Cassandra about hiring her as a sonar operator_
 
@@ -163,18 +185,23 @@ Last modified: Fri Jan 29, 2021  08:37PM
 * [ ] _The torpedo implodes at 200 meters, it can't swim deeper than that._
 
 
+### Chase scene
+
+* [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
+
+
 ### --- (hiding in the depths, escape under the deep scattering layer)
 
 * [ ] _The dive below the deep scattering layer_
 	* {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
+		* Now they pop a rivet or something, they are TOO deep, scarily deep.
 	* Cassandra thinks they will crash into the bottom, Percy knows they will go right through it because it's just fish.
 	* {Where's the Gnat? I think it goes and gets lost in the storm}
-
-* [ ] _Now they pop a rivet or something, they are TOO deep, scarily deep._
 
 * [ ] _And motor quietly away._
 
 * [ ] _They make the run into port on the surface._
+	* {Is this where they come up in a blessed fog?}
 
 
 ### --- (Into an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port)
@@ -228,6 +255,7 @@ Last modified: Fri Jan 29, 2021  08:37PM
 ### Ending
 
 * {They are all fishing on the deck?}
+	* {Perhaps this is the one time in the novel where the weather on the surface is good? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
 
 * {Or, possibly we just follow Cassandra (make her the main character) to her next thing}
 

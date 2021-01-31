@@ -1,11 +1,14 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Jan 28, 2021  05:41PM
+Last modified: Sat Jan 30, 2021  07:27PM
 
 # Subworld Story 1 --- general notes and todos
 
 ## Notes and To dos:
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
+* [ ] Sort out the accent for Chips
+	* like feckin instead of fuckin
+	* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
@@ -16,7 +19,6 @@ Last modified: Thu Jan 28, 2021  05:41PM
 	* You can't just _discover_ an aesthetic style; you have to _internalize_ it, and I suspect that can only come from practice. 
 		* once internalized, you can probably apply other things to it: like making it accessible.
 	* The _aesthetic_ of it -- and the ability to drive a certain cathartic response -- is the key to the MacArthur category; and to what you personally want from your writing as well.
-* [ ] Next up: make sure to incorporate drafts from below and from style experiments into the pseudocode
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
 	* See notes on memory house in writing
@@ -28,11 +30,12 @@ Last modified: Thu Jan 28, 2021  05:41PM
 * remember to focus on _description_ of the grime, darkness, cold, hardness. Make it feel like Deadwood or Blood Meridian, though with good story. Do NOT make it feel like a sci-fi or naval/military story.
 * consider NOT having any exterior shots. 
 	* it may help the sense of isolation and being in a can if all action takes place _inside_ (the depot, the _Prospect_, the _Gnat_) 
-* [ ] add something explaining that the Prospect has no torpedo tubes:
+* [X] add something explaining that the Prospect has no torpedo tubes:
 	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
 	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
 * For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+* "They were only 100 meters under water, some people could kick a ball that distance"
 
 
 ## Story elements specific to this story
@@ -71,6 +74,8 @@ Last modified: Thu Jan 28, 2021  05:41PM
 		* "Is a steel hull slowly crushing around you a blessing under 100 atmospheres of pressure? or a curse though?"
 * [ ] someone says sub-marine like it's two words. maybe a trader in a depot or something.
 	* (because submarine is such a strange mush of a word to say) 
+* Writig this novel, alone in a 600sf 3-room apartment in January. It's too cold to go outside, and the outside is contaminated by disease. The apartment is a 100 year old building with steam heat: water and air pushing and banging through rusty pipes, the power-flush of the toilet that you can hear even from other apartments... this place FEELS like a submarine.
+* God, you are constrained so much more than you could ever know or articulate by the conventions of what is considered "good" writing.
 
 
 
