@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Jan 30, 2021  08:31PM
+Last modified: Sun Jan 31, 2021  12:37AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -188,6 +188,9 @@ Last modified: Sat Jan 30, 2021  08:31PM
 ### Chase scene
 
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
+	* [ ] A scene where they are eating in the galley
+	* [ ] something breaks that needs fixing --- possible the original wound from the ramming breaks open again
+	* [ ] Watching the battery gauges --- how long can they go before they are forced to the surface?
 
 
 ### --- (hiding in the depths, escape under the deep scattering layer)

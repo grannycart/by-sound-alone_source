@@ -1,14 +1,18 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Jan 30, 2021  07:27PM
+Last modified: Sun Jan 31, 2021  12:34AM
 
 # Subworld Story 1 --- general notes and todos
 
 ## Notes and To dos:
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
-* [ ] Sort out the accent for Chips
-	* like feckin instead of fuckin
-	* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
+* post-full-draft revs to make sure to hit:
+	* [ ] Give Hemi a beard, like he's captain Nemo. 
+		* The idea is that someone who didn't know better might mistake him for the captain
+	* [ ] Sort out the accent for Chips
+		* like feckin instead of fuckin
+		* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
+	* [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
@@ -35,7 +39,6 @@ Last modified: Sat Jan 30, 2021  07:27PM
 * [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
 	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
 * For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
-* "They were only 100 meters under water, some people could kick a ball that distance"
 
 
 ## Story elements specific to this story
