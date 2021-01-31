@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Jan 31, 2021  12:37AM
+Last modified: Sun Jan 31, 2021  01:11PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -104,7 +104,7 @@ Last modified: Sun Jan 31, 2021  12:37AM
 	* [X] They ask who controls this part of the surface. "Uh, the Western Federated Socialists I think." Says Hemi. "At least last time I looked at a Territorial Authorities map --- but that was more than a year ago."
 	* [X] Those assholes are bad news. We should get out of here.
 
-* [ ] _They get on an encrypted smugglers channel on the radio, and raise a narco sub that's not too far off. Its Shakes._
+* [X] _They get on an encrypted smugglers channel on the radio, and raise a narco sub that's not too far off. Its Shakes._
 
 * [ ] _Shakes motors up and introduces himself_
 	* [ ] He runs a comb through engine grese and runs it through his spikey blonde hair

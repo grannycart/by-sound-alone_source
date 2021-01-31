@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Jan 31, 2021  12:34AM
+Last modified: Sun Jan 31, 2021  09:51AM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -13,6 +13,7 @@ Last modified: Sun Jan 31, 2021  12:34AM
 		* like feckin instead of fuckin
 		* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
 	* [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
+	* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
