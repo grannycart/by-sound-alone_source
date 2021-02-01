@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Jan 31, 2021  09:51AM
+Last modified: Mon Feb 01, 2021  01:22PM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -9,11 +9,19 @@ Last modified: Sun Jan 31, 2021  09:51AM
 * post-full-draft revs to make sure to hit:
 	* [ ] Give Hemi a beard, like he's captain Nemo. 
 		* The idea is that someone who didn't know better might mistake him for the captain
+		* or viking braids?
+	* [ ] Change Owen to Owens?
 	* [ ] Sort out the accent for Chips
 		* like feckin instead of fuckin
 		* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
 	* [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 	* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
+	* [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
+	* [ ] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
+	* [ ] fix creeping towards the seamount:
+		* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
+	* [ ] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
+		* Or cocaine? or coca leaves? (He did come from a coffee farm)
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?

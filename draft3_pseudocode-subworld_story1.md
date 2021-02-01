@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Jan 31, 2021  01:11PM
+Last modified: Mon Feb 01, 2021  12:29PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -106,11 +106,11 @@ Last modified: Sun Jan 31, 2021  01:11PM
 
 * [X] _They get on an encrypted smugglers channel on the radio, and raise a narco sub that's not too far off. Its Shakes._
 
-* [ ] _Shakes motors up and introduces himself_
-	* [ ] He runs a comb through engine grese and runs it through his spikey blonde hair
-	* [ ] His hand is shaking
-	* [ ] "We smugglers need to stick together eh?" Percy looked dead at him while she said "We're not smugglers, we're Independent Logistics Operators."
-	* [ ] He tells them he's headed for a remote depot on an isolated ocean island a hundred nautical miles or so away
+* [X] _Shakes motors up and introduces himself_
+	* [X] He runs a comb through engine grese and runs it through his spikey blonde hair
+	* [X] His hand is shaking
+	* [X] "We smugglers need to stick together eh?" Percy looked dead at him while she said "We're not smugglers, we're Independent Logistics Operators."
+	* [X] He tells them he's headed for a remote depot on an isolated ocean island a hundred nautical miles or so away
 
 * [ ] _They figure out that they can get a bit of a charge on the Prospects batteries by jumping from the Gnat and running the engines for 10 hours or so_
 	* [ ] They rig up heavy cables between the two boats
@@ -128,16 +128,21 @@ Last modified: Sun Jan 31, 2021  01:11PM
 ### --- (a depot (for repairs and pick up cargo))
 
 * [ ] _While at the depot, they arrange for repairs to be made, and to get the boat refueled_
+	* [ ] Explain that while this depot is constantly harassed by Authorities, it's also a critical supply line for them, so allowed to continued existing.
+	* {Maybe? Or maybe you have to edit the text so far so the Authorities here aren't SO brutal --- oh wait it's over the Authority line, remember? That's why the Authorities here are so aggressive.}
 
 * [ ] _They get an offer for a clandestine cargo --- magnetic mines_
 	* [ ] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
 	* {skip the bits establishing the authority methods -- that should have happened earlier}
 	* {skip the trader flirting with Percy}
 
+* [ ] _Chips overseas the work on some poorly done and over-priced repairs, saying she was doing a better job when she was under water._
+
 * [ ] _Percy asks depot trader about hiring a sonar operator. He offers his unmarketable whore Cassandra._
 
 * [ ] _Percy tracks down Shakes at the dock, and hires him to run interference for them with the mines cargo_
-	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time.
+	* [ ] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
+	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
 
 * [ ] _Conversation with Cassandra about hiring her as a sonar operator_
 
@@ -154,6 +159,7 @@ Last modified: Sun Jan 31, 2021  01:11PM
 * [ ] _They run underwater for 24 hours, but at the next nightfall, they decide to surface to recharge the batteries_
 
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
+	* [ ] Shakes tells them he cut a hole in the bottom of his boat for just such occasions, and even with the hole in the bottom, she didn't sink.
 
 
 ### --- (on the surface in a storm; wave porn)
