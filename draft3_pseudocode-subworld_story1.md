@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Feb 01, 2021  08:07PM
+Last modified: Tue Feb 02, 2021  06:10PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -124,7 +124,6 @@ Last modified: Mon Feb 01, 2021  08:07PM
 * [X] They make a plan
 	* [X] Mate the Gnat to the Prospect's underside, run electrical and fuel up into the Prospect, and power the Prospect that way
 	* [X] Requires creating a mating collar for the Gnat
-
 
 * [ ] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so. 
 	* [ ] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
