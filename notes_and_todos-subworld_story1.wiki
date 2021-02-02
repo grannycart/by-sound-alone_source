@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Feb 01, 2021  01:22PM
+Last modified: Mon Feb 01, 2021  08:07PM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -22,6 +22,7 @@ Last modified: Mon Feb 01, 2021  01:22PM
 		* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
 	* [ ] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
 		* Or cocaine? or coca leaves? (He did come from a coffee farm)
+	* [ ] Would they waste electricity on cooking if they were very low on power?
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
@@ -32,6 +33,9 @@ Last modified: Mon Feb 01, 2021  01:22PM
 	* You can't just _discover_ an aesthetic style; you have to _internalize_ it, and I suspect that can only come from practice. 
 		* once internalized, you can probably apply other things to it: like making it accessible.
 	* The _aesthetic_ of it -- and the ability to drive a certain cathartic response -- is the key to the MacArthur category; and to what you personally want from your writing as well.
+* [ ] Possible story (though not series) name:
+	* The Salted wound
+	* (referring to the never-healing damage from the ramming at the beginning)
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
 	* See notes on memory house in writing

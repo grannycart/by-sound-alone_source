@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Feb 01, 2021  12:29PM
+Last modified: Mon Feb 01, 2021  08:07PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -106,20 +106,27 @@ Last modified: Mon Feb 01, 2021  12:29PM
 
 * [X] _They get on an encrypted smugglers channel on the radio, and raise a narco sub that's not too far off. Its Shakes._
 
-* [X] _Shakes motors up and introduces himself_
-	* [X] He runs a comb through engine grese and runs it through his spikey blonde hair
+* [o] _Shakes motors up and introduces himself_
 	* [X] His hand is shaking
 	* [X] "We smugglers need to stick together eh?" Percy looked dead at him while she said "We're not smugglers, we're Independent Logistics Operators."
 	* [X] He tells them he's headed for a remote depot on an isolated ocean island a hundred nautical miles or so away
 
-* [ ] _They figure out that they can get a bit of a charge on the Prospects batteries by jumping from the Gnat and running the engines for 10 hours or so_
-	* [ ] They rig up heavy cables between the two boats
-	* [ ] Hemi is not impressed with the state of Shakes' boat. There's a conversation about how Shakes always got away with running _just_ under the surface, all that diving seemed excessively dangerous to him. Make it clear his boat can only dive 30 meters or so.
-	* [ ] a big radar contact running loud on the surface will look like a ship, and slightly ess likely to attract attention of any authorities (maybe)
-	* [ ] while waiting for the batteries to charge, they eat a meal. Shakes brought nothing but cold canned foods with him. The Prospect has submarine food: spoiling kim chi, stale rice, dessicated citrus.
-		* [ ] "If you can heat it, you can eat it."	
+* [X] _Hemi inspects Shake's boat_
+	* [X] The Gnat has a window built into the sail
+	* [X] He runs a comb through engine grese and runs it through his spikey blonde hair
+	* [X] Hemi is not impressed with the state of Shakes' boat. There's a conversation about how Shakes always got away with running _just_ under the surface, all that diving seemed excessively dangerous to him. Make it clear his boat can only dive 30 meters or so.
 
-* [ ] _They decide to creep for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so. Shakes says he'll see them there and motors off_
+* [o] _they eat a meal_ 
+	* [X] Shakes brought nothing but cold canned foods with him. The Prospect has submarine food: spoiling kim chi, stale rice, 
+	* [ ] dessicated citrus.
+	* [X] "If you can heat it, you can eat it."	
+
+* [X] They make a plan
+	* [X] Mate the Gnat to the Prospect's underside, run electrical and fuel up into the Prospect, and power the Prospect that way
+	* [X] Requires creating a mating collar for the Gnat
+
+
+* [ ] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so. 
 	* [ ] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
 
 * [ ] _The Prospect buttons up and sinks down to periscope, then uses remaining battery to dock (from the underside) with an underwater dock_
@@ -140,7 +147,7 @@ Last modified: Mon Feb 01, 2021  12:29PM
 
 * [ ] _Percy asks depot trader about hiring a sonar operator. He offers his unmarketable whore Cassandra._
 
-* [ ] _Percy tracks down Shakes at the dock, and hires him to run interference for them with the mines cargo_
+* [ ] _Percy buys Shakes dinner at the one crappy diner in the depot to pay him back, and hires him to run interference for them with the mines cargo_
 	* [ ] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
 	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
 
@@ -159,7 +166,7 @@ Last modified: Mon Feb 01, 2021  12:29PM
 * [ ] _They run underwater for 24 hours, but at the next nightfall, they decide to surface to recharge the batteries_
 
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
-	* [ ] Shakes tells them he cut a hole in the bottom of his boat for just such occasions, and even with the hole in the bottom, she didn't sink.
+	* Remember: the Gnat has to mate with the _Prospect_ from underneath.
 
 
 ### --- (on the surface in a storm; wave porn)
