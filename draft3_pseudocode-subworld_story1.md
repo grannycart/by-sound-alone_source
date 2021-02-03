@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Tue Feb 02, 2021  06:10PM
+Last modified: Wed Feb 03, 2021  10:16AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -125,7 +125,9 @@ Last modified: Tue Feb 02, 2021  06:10PM
 	* [X] Mate the Gnat to the Prospect's underside, run electrical and fuel up into the Prospect, and power the Prospect that way
 	* [X] Requires creating a mating collar for the Gnat
 
-* [ ] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so. 
+* [ ] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
+	* [ ] They pick up a radar contact (and have to shut the radar down fast --- or actually it should be the black sub again, so maybe it's sonar first, under the radar)
+	* [ ] At some point Hemi and Percy need to have a conversation about why the black sub rammed them.
 	* [ ] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
 
 * [ ] _The Prospect buttons up and sinks down to periscope, then uses remaining battery to dock (from the underside) with an underwater dock_
@@ -257,6 +259,7 @@ Last modified: Tue Feb 02, 2021  06:10PM
 ### in the _Gnat_
 
 * [ ] _Hemi starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Shakes as he does._
+	* When Hemi comes aboard, he is impressed by and comments on the Gnat's airplane style controls.
 
 * [ ] _the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they gave off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait._
 

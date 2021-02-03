@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Feb 02, 2021  05:02PM
+Last modified: Wed Feb 03, 2021  09:33AM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -7,6 +7,9 @@ Last modified: Tue Feb 02, 2021  05:02PM
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
 * post-full-draft revs to make sure to hit:
+	* [ ] while the name _Gnat_ works, I keep having my doubt about _Prospect_.
+		* P felt right when I first started using it, but feels less right as I go along
+		* This might be a thing to ask test-reader's feedback on
 	* [ ] Give Hemi a beard, like he's captain Nemo. 
 		* The idea is that someone who didn't know better might mistake him for the captain
 		* or viking braids?
@@ -14,6 +17,8 @@ Last modified: Tue Feb 02, 2021  05:02PM
 	* [ ] Sort out the accent for Chips
 		* like feckin instead of fuckin
 		* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
+		* maybe it's too star treky cliche to have an engineer with an accent?
+		* The name Chips doesn't feel like it's working
 	* [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 	* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 	* [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
@@ -30,6 +35,10 @@ Last modified: Tue Feb 02, 2021  05:02PM
 		* And a lot more cursing might actually be a simple way to make it grittier.
 		* Also they're a bunch of fuckin sailors!
 		* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
+			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
+	* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
+		* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
+			* (Maybe be sure to always refer to it as "the tank control panel")
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
