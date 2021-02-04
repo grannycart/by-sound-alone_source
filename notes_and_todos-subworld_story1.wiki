@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Feb 03, 2021  09:33AM
+Last modified: Thu Feb 04, 2021  12:16PM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -39,6 +39,8 @@ Last modified: Wed Feb 03, 2021  09:33AM
 	* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 		* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 			* (Maybe be sure to always refer to it as "the tank control panel")
+	* [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
+	* [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?

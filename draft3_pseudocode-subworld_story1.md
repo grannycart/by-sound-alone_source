@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Feb 03, 2021  10:16AM
+Last modified: Thu Feb 04, 2021  11:45AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -145,6 +145,7 @@ Last modified: Wed Feb 03, 2021  10:16AM
 	* {skip the trader flirting with Percy}
 
 * [ ] _Chips overseas the work on some poorly done and over-priced repairs, saying she was doing a better job when she was under water._
+	* Don't forget that while they were at the surface, the leak probably only seeped a bit, but with some pressure on at the underwater dock, it's more steadily pouring in.
 
 * [ ] _Percy asks depot trader about hiring a sonar operator. He offers his unmarketable whore Cassandra._
 
