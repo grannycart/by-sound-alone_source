@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Feb 05, 2021  04:50PM
+Last modified: Sat Feb 06, 2021  03:02PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -125,11 +125,11 @@ Last modified: Fri Feb 05, 2021  04:50PM
 	* [X] Mate the Gnat to the Prospect's underside, run electrical and fuel up into the Prospect, and power the Prospect that way
 	* [X] Requires creating a mating collar for the Gnat
 
-* [.] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
+* [o] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
 	* [X] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
-	* [ ] It's night on the surface, but bright with a big moon, fairly reasonable sized waves that hide the sail of the _Prospect_ a little.
-	* [ ] They pick up a faint radar contact, and decide they need to risk submerging to periscope depth and running on what little batteries they have
-	* [ ] Through the periscope Percy sees the same black sub with the ram on the surface, and then it dives.
+	* [X] It's night on the surface, but bright with a big moon, fairly reasonable sized waves that hide the sail of the _Prospect_ a little.
+	* [X] They pick up a faint radar contact, and decide they need to risk submerging to periscope depth and running on what little batteries they have
+	* [X] Through the periscope Percy sees the same black sub with the ram on the surface, and then it dives.
 	* [ ] They think it might be chasing them, (though their hope is it lost them when they went to periscope) but as they cross the Authority line it disappears, apparently missing them.
 	* [ ] At some point Hemi, Percy, (and Shakes?) need to have a conversation about why the black sub rammed them.
 		* Ideally, there is some secret/personal reason the sub is after them. Perhaps hinted at but not revealed right here.

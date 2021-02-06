@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Feb 05, 2021  04:46PM
+Last modified: Sat Feb 06, 2021  06:24PM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -43,6 +43,23 @@ Last modified: Fri Feb 05, 2021  04:46PM
 * For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 
 ### Editing notes (be sure to hit these in post-production editing):
+* General style stuff to address throughout:
+	* [ ] It isn't capturing the grittiness enough, build that up
+	* [ ] watch the pacing, it's a little off in places:
+		* [ ] it should be a slow build up to a big singular event like the ballast blow
+		* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
+		* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
+			* don't just montage over them, it makes it feel like things are moving too fast.
+	* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
+		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
+		* And a lot more cursing might actually be a simple way to make it grittier.
+		* Also they're a bunch of fuckin sailors!
+		* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
+			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
+	* [ ] Consider pulling back or deleting the metaphors
+* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
+	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
+		* (Maybe be sure to always refer to it as "the tank control panel")
 * [ ] while the name _Gnat_ works, I keep having my doubt about _Prospect_.
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
@@ -64,23 +81,14 @@ Last modified: Fri Feb 05, 2021  04:46PM
 * [ ] fix creeping towards the seamount:
 	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
 * [ ] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
-	* Or cocaine? or coca leaves? (He did come from a coffee farm)
+	* Or cocaine? 
+	* coca leaves? (He did come from a coffee farm)
 * [ ] Would they waste electricity on cooking if they were very low on power?
-* [ ] Is it a 'mating collar' or a 'docking collar'?
 * [ ] Check what type of welding is used for underwater welding
-* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
-	* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
-	* And a lot more cursing might actually be a simple way to make it grittier.
-	* Also they're a bunch of fuckin sailors!
-	* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
-		* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
-* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
-	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
-		* (Maybe be sure to always refer to it as "the tank control panel")
+* [ ] Is it a 'mating collar' or a 'docking collar'?
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 * [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 * [ ] find to remove 'inches' and 'feet' references
-* [ ] Consider pulling back or deleting the metaphors
 * [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
 
 

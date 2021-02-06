@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Fri Feb 05, 2021  04:20PM
+Last modified: Sat Feb 06, 2021  06:43PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -68,9 +68,9 @@ Captain Percy stood on the metal rungs of the ladder just under the topside hatc
 
 "Down." She gave the one-word order as she pushed the button on the wall that activated the dive alarm. 
 
-"Give me full speed forward." Said Hemi as he put one large hand on each of the shoulders of the two men who sat at the controls of the sub and gave them orders to dive the boat. One of these men was a stick-figure of a man who went by moniker Bastian. The other, Gregory had a meaty square forehead that echoed his meaty square body. Of the two of them, only Gregory looked like he belonged on a submarine.
+"Give me full speed forward." Said Hemi as he put one large hand on each of the shoulders of the two men who sat at the controls of the sub and gave them orders to dive the boat. One of these men was a stick-figure of a man who went by moniker Bastian. The other, Gregory, had a meaty square forehead that echoed his meaty square body. Of the two of them, only Gregory looked like he belonged on a submarine.
 
-Diving the sub required delicacy under the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements, their eyes scanning continually over the wall of dials and gauges in front of them, reflected in the red glow of the night lighting. Gregory and Bastian made adjustments according to Hemi's instructions by opening and closing various of the dozens of valves in front of them, or flipping on or off switches. The submarine let out a long exhale of breath, the air that had held it aloft being pressed out by an onrush of water into the flooding tanks.
+Diving the sub required delicacy under the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements, their eyes scanning continually over the wall of dials and gauges in front of them, reflected in the red glow of the night lighting. Gregory and Bastian made adjustments according to Hemi's instructions by opening and closing various of the dozens of valves in front of them, or flipping on or off switches. The submarine let out a long exhale of breath, the air that had held it aloft being pressed out by an onrush of water from below into the flooding tanks.
 
 "Flood the express dive tank." Ordered Hemi. Bastian reached up and opened a valve and water thrust through thick pipes deep into the deepest parts of the bow of the boat. The bow pitched steeply downwards and Captain Percy reached to grab old leather loops that hung overhead. She angled her feet against the incline and watched the depth gauge. 
 
@@ -140,9 +140,9 @@ She climbed up a deck, and went back into the engine room, where the only sound 
 
 "Chips! Chips, come over here."
 
-The clanking sound stopped and the face of the _Prospect's_ engineer peer up at her. Chips wore leather overalls stained with grease, and had her hair tied back in a thick black braid. Her hands were black with grease and were holding the body of a small deconstructed piece of machinery, as if she had been butchering some small game animal for dinner.
+The clanking sound stopped and the face of the _Prospect's_ engineer peered up at her. Chips wore leather overalls stained with grease, and had her hair tied back in a thick black braid. Her hands were black with grease and were holding the body of a small deconstructed piece of machinery, as if she had been butchering some small game animal for dinner.
 
-"Fuck's up?"
+"Feck's up?"
 
 "There's a leak." These were words no submariner ever wanted to hear. But Chips had fixed leaks before. It was the answer to the next question that Captain Percy didn't want to have to give.
 
@@ -150,23 +150,23 @@ The clanking sound stopped and the face of the _Prospect's_ engineer peer up at 
 
 "...In the cargo bay."
 
-"And's bad, ah?"
+"And it's bad, ah?"
 
 "Pretty fucking bad."
 
-"So we're fuckin fucked then, ah? Fuckin fucked, cuz the cargo bay's too big, and the boat won't fuckin float if's flooded. ah Capt' Percy? Fuckin fucked!" She threw her piece of machinery at the wall where it clanged and sent small part flying into far dirty corners of the lower engine room.
+"So we're feckin fecked then, ah? Feckin fecked, cuz the cargo bay's too big, and the boat won't feckin float if's flooded. ah Capt' Percy? Feckin fecked!" She threw her piece of machinery at the wall where it clanged and sent small part flying into far dirty corners of the lower engine room.
 
-"For fuck's sake Chips, yes we're fucked, but we're not _fuckin'_ fucked yet... I need you to take one of the guys, go in there, and see if you can stop it at patch it so we don't get to the point where we _are_ fuckin' fucked. Move!"
+"For fuck's sake Chips, yes we're fucked, but we're not _fuckin'_ fucked yet... I need you to take one of the guys, go in there, and see if you can stop it and patch it so we don't get to the point where we _are_ fuckin' fucked. Move!"
 
-"Ah, fuck ya Capt." Chips started climbing up the ladder.
+"Ah, feck ya Capt." Chips started climbing up the ladder.
 
 "Good or bad, I want regular reports Chips. Get Owen up and get him helping you."
 
-"ah fuckin kay."
+"ah feckin kay."
 
 A loud ringing ping echoed through the steel hull of the boat. It hit them broadside, and passed through them. It rang off the opposite side of the hull and echoed back through the air to their ears. 
 
-"Ah, and someone's fuckin' hunting us too!" Cursed Chips.
+"Ah, and someone's feckin' hunting us too!" Cursed Chips.
 
 "Go!" Said Captain Percy. She left Chips digging out patch kits and her welding rig and went back up to the control room.
 
@@ -210,11 +210,13 @@ Captain Percy knew it was more than not OK. The delay before the sharp lean was 
 
 Captain Percy stood on the grating above her watching her latest attempt at welding shut the leak under the water. When she raised her head again Captain Percy asked her to report.
 
-"Ah fuck ya, ya goddamn dominating twat. This is delicate work here, and it needs time. It's a'hundreds of tiny cracks, the hull splitted open the way ya might break off a piece of cheese --- with tiny cracks. If'n were one big crack t'would be much simpler."
+"Ah feck ya, ya goddamn dominating twat. This is delicate work here, and it needs time. It's a'hundreds of tiny cracks, the hull splitted open the way ya might break off a piece of cheese --- with tiny cracks. If'n were one big crack t'would be much simpler."
 
-Captain Percy spat, and her spit tasted oily and gritty to her, like the bilge water filling her boat. "Keep trying. I'm going to blow the tanks and bring us up though."
+Captain Percy spat, and her spit tasted oily and gritty to her, like the bilge water filling her boat. "Keep trying. I'm going to blow the tanks and bring us up to the surface."
 
-"Ah, fuckin smartest thing ya said yet this day, ya fucker. This course we're pursuin' right now is'na trackway to the gates 'a hell."
+"Ah, feckin smartest thing ya said yet this day, ya fucker. This course we're pursuin' right now is'na trackway to the gates 'a hell."
+
+Blowing the tanks was an emergency maneuver. It meant opening the valves that would allow air to flow through the rusty old pipes of the ship and push into the tops of the main ballast tanks. The air forced in the top of the tanks would push water out the bottom. When enough water was forced out, the huge bubbles of air, stale and foul as it might be, would lift the rickety old up to the surface. Blowing out the tanks was only ever done in emergencies and drills, and drills were few and far between on a transport sub like the _Prospect_. It would be a risky move.
 
 
 ### Percy blows the tanks
@@ -231,7 +233,7 @@ In the control room, she knelt down and opening a long thin toolbox bolted to th
 
 "We're not going up at all." Said Bastian. "Fuck me."
 
-Percy went over each instrument, and the setting of each wheel in her head. "Hemi! She called down to him. "Hemi! We're not rising! The forward ballast didn't blow! They must have crushed the high pressure pipes when they rammed us."
+Percy went over each instrument, and the took the setting of each wheel into her head. "Hemi! She called down to him. "Hemi! We're not rising! The forward ballast didn't blow! They must have crushed the high pressure pipes when they rammed us."
 
 Hemi looked up at her through his small glasses frames, his face only a few fingers widths from the hatch opening because he was so large. "Captain Percy," he said, "I think we need to start thinking about more drastic measures to get us back on the surface."
 
@@ -242,9 +244,15 @@ Hemi looked up at her through his small glasses frames, his face only a few fing
 
 "Yes, I think we should dump the diesel at this point. Even if we get to the surface, we could lose the boat if the cargo bay keeps flooding and we can't figure out how to empty it. That's a bigger risk than not having enough fuel to get to port if we can manage to stay on the surface."
 
-Captain Percy considered. But sometimes considerations are meaningless. They had passed the point of strategizing on how to evade their pursuers. For a submarine captain, the situation she now faced was the single biggest nightmare: get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel in the ocean --- was not even one that had to be made.
+Captain Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. For a submarine captain, the situation she now faced was the single biggest nightmare: get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel in the ocean --- was not even one that had to be made.
 
-There were in fact two long thin toolboxes bolted to the wall. One had the tank blow wrench. The other was padlocked and contained the fuel ballast blow wrench. Captain Percy was the only person who carried the key to this second toolbox. She unlocked it and withdrew another wrapped wrench the same length as the tank blow wrench. But this one had a special 5-sided socket that would only fit the nut to open the air line into the fuel ballast tanks. As before, she fitted the wrench onto one air pipe, then the second, and another rush of high pressure air pushed through the ship. And their precious diesel fuel --- the only way to shore, was pushed out into the deep waters of the ocean.
+There were in fact two long thin toolboxes bolted to the wall. One had the main ballast tank blow wrench, which she had already used. The boat was also provisioned with another toolbox that was padlocked. It contained the fuel ballast blow wrench. Just like the main ballast, the fuel tanks could be blown out with high pressure air too. The difference was that blowing the fuel out of the boat might give them an emergency pocket of air to lift them to the surface, but it left them without fuel.
+
+Captain Percy was the only person who carried the key to this second toolbox. She unlocked it and withdrew another wrapped wrench the same length as the tank blow wrench. But this one had a special 5-sided socket that would only fit the nut to open the air line into the fuel ballast tanks. As before, she fitted the wrench onto one air pipe, then the second. Percy was pretty sure these valves had never been turned before, not even in a drill. They had been painted over many times over the years. She had to put all of her weight onto the end of the lever, and then reach for a spare length of pipe kept in the main ballast wrench toolbox to get some more leverage on the wrench.
+
+It slowly and sqeakingly turned under all her weight as she let out a straining groan.
+
+And another rush of high pressure air pushed through the ship. And their precious diesel fuel --- the only way to shore, was pushed out into the deep waters of the ocean.
 
 "Now... now are we fucking rising?" Percy asked after a few minutes. But she was looking at the same gauges as everyone else. She could read them as well as anyone else.
 
@@ -271,7 +279,7 @@ She slipped down to the navigation and sonar compartment, where Hemi was still l
 
 "1000 meters, give or take. Essentially bottomless."
 
-"Hmm." She went to the charts. The navigation station sat on top of a stack of flat files. Behind rolls of charts that were more commonly used were stacked between upright stakes. When they had the white lights on, the charts showed their age, yellowed and flaking at the edges. Hemi had their current position marked with a grease pencil on a glass sheet laying over the chart showing their position. The black smudges trailed up away from the shore they had left days before. They were in the goddamned middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. She pulled down a magnifier that hung from the ceiling by a retractable string. She looked closely at the grease markings on the chart, and the depth markings around them. "Hemi... come here." He put down the headphones, through which he was hearing nothing anyway and came over. She pointed to a spot on the map. "Figure out how to get us here. I'll be trying to eek out every ounce of buoyancy from my boat, and see how long we can last."
+"Hmm." She went to the charts. The navigation station sat on top of a stack of flat files. Behind, rolls of charts that were more commonly used were stacked between upright stakes. When they had the white lights on, the charts showed their age, yellowed and flaking at the edges. Hemi had their current position marked with a grease pencil on a glass sheet laying over the chart showing their position. The black smudges trailed up away from the shore they had left days before. They were in the goddamned middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. She pulled down a magnifier that hung from the ceiling by a retractable string. She looked closely at the grease markings on the chart, and the depth markings around them. "Hemi... come here." He put down the headphones, through which he was hearing nothing anyway and came over. She pointed to a spot on the map. "Figure out how to get us here. I'll be trying to eek out every ounce of buoyancy from my boat, and see how long we can last."
 
 Hemi peered through the magnifier, and then pulled his slide rule from his pocket. He made some adjustments, some marks with the grease pencil on the glass, he touched his fingertips with the point of the pencil while muttering some numbers out loud. "I don't know if we can do it. Keep me informed of our exact depth, speed, and most importantly the rate we are sinking at."
 
@@ -309,7 +317,7 @@ Percy couldn't wait for Hemi. She started muttering her own equations to herself
 
 ### staring at dials: depth vs the tablemount
 
-Now it was nothing but staring at the dials. The wall of dials and gauges in front of them with their spindly little finger, all inching slowly one way or another depending on what they were tasked with. The individual parts the dials had to play all came together in a symphony that marked time towards their doom.
+Now it was nothing but staring at the dials. The wall of dials and gauges in front of them with their spindly little black fingers, all inching slowly one way or another depending on what they were tasked with. The individual parts the dials had to play all came together in a symphony that marked time towards their doom.
 
 Nearly every gauge mattered to Captain Percy right now. Nearly every one represented  a variable in the equation that controlled whether they lived or died: speed, battery charge, battery drain rate, the status of the trim tanks, course, rudder, ship angle, dive plane angle... everything mattered. But as in every equation some variables weighed more than others. The two that mattered most to Captain Percy right now were the depth of ship gauge (which mattered in every submarine maneuver of course) and depth under keel (which told them how far the ocean bottom was under them, and rarely mattered in a submarine maneuver).
 
@@ -1232,11 +1240,11 @@ Percy flipped through a few filters, and the quality of the silence changed, fro
 Percy scaled the ladder up to the control room, and raised the periscope, twisting it around as it rose to the heading of the contact, on their rear starboard quarter. She didn't expect to see anything, and didn't. The distance was still too far, but a visual check was the practical and right thing to do first. She lowered the periscope.
 
 
-### They submerge to periscope depths
+### They submerge to periscope depth
 
 "Hemi," Percy hesitated, "I think we gotta fucking submerge to periscope depth --- get the sail underwater --- and run on the _Gnat's_ remaining fucking batteries. How long can we fucking last?"
 
-"Well, putting aside that we would need to again open the main ballast valves to bring us lower in the water, the _Gnat_ has maybe an hour of battery we could use at this super slow creep rate we're going at. And I should also point out that when that's gone, we have no other way to hide, if we don't lose this contact or come across another."
+"Well, putting aside the risk of again opening the main ballast valves to bring us lower in the water, the _Gnat_ has maybe an hour of battery we could use at this super slow creep rate we're going at. And I should also point out that when that's gone, we have no other way to hide if we don't lose this contact, or if we do come across another."
 
 "I know. I'm going on instinct here, and fuck me I could fucking be wrong. Especially considering I haven't slept in days and my head is fucking killing me from eight cups of coffee a day. But I got a sense we don't want to fucking see that fucker coming towards us up there."
 
@@ -1246,20 +1254,91 @@ Percy scaled the ladder up to the control room, and raised the periscope, twisti
 
 Hemi nodded. "Alright. I'll open the main ballast valves." He reached up and pushed the dive alarm.
 
-"Ah feck ye all," said Chips, pulling one earpiece of the headset off her ear when she heard the dive alarm, "yer feckin' going down to periscope dep', ain't ye? We can't run the diesels at periscope, there's no way to feed 'em oxygen. So how the feck are ya planning to get back on the surface if the batteries die, eh? We'll have no way to steer th' boat to the surface, and we got no feckin' way to pump the water out! We'll jes' be feckin' sitting there with one fucking pipe's-eyed view above the surface. 'fectively fecking drowned."
+"Ah feck ye all," Chips yelled up to them, pulling one earpiece of the headset off her ear when she heard the dive alarm, "yer feckin' taking us down to periscope dep', ain't ya? We can't run the diesels at periscope, there's no way to feed 'em oxygen. So how the feck are ya planning to get back on the surface if the batteries die, eh? We'll have no way to steer th' boat to the surface, and we got no feckin' way to pump the water out! We'll jes' be feckin' sitting there with one fucking eyeball view above the surface, 'fectively fecking drowned."
 
-"Thank you for aprising us of the risks Chips. Hemi, take us down to periscope."
+"Thank you for aprising us of the risks Chips." Percy yelled back. "Hemi, take us down to periscope."
 
-Hemi flipped up the main ballast valve switches and there was again a rush of air as more of it was released the ballast tanks, and water eased in from the vents open to the sea on the bottom. Hemi watched the glowing depth gauge until the needle got into the range marked 'periscope,' and then flipped the ballast valve switches down again. There was a clink and the rush of air and water stopped.
+Hemi flipped up the main ballast valve switches and there was again a rush of air as more of it was released from the top of the ballast tanks, and water eased in from the vents open to the sea on the bottom. Hemi watched the glowing depth gauge until the needle got into the range marked 'periscope,' and then flipped the ballast valve switches down again. There was a clink and the rush of air and water stopped.
 
-"See Chips, the fucking valves are still working as they are supposed to, which we knew because of your inspection before. We aren't fucking sunk yet."
+"See Chips, the fucking valves are still working as they are supposed to, which we knew because of your inspection earlier. We aren't fucking sunk yet."
 
 "'Pends on what ye feckin' mean by 'sunk'." Said Chips quietly.
 
-"Well Hemi, we can't afford to take an evasive route to the depot, we gotta go straight at 'em. So we'll just have to hope our contact up there wasn't able to track us long enough to figure out our course. Put us back on the electric motor --- they won't be able to hear us unless they get right on top of us, and we won't let that happen." Said Percy. "Um... also keep what Chips said in mind --- make sure we have a little something left in the batteries to get us back to the surface."
+"We can't afford to take an evasive route to the depot Hemi, we gotta go straight at 'em. So we'll just have to hope our fucking contact up there wasn't able to track us long enough to figure out our course. Put us back on the electric motor --- they won't be able to hear us unless they get right on top of us." Said Percy. "Um... also keep what Chips said in mind --- make sure we have a little something left in the batteries to get us back to the surface."
 
 "These battery gauges are hardly very precise Percy. I would not push it beyond ten minutes remaining on the battery." Said Hemi.
 
-"Noted." Said Percy.
+"Make sure I know when we're about 20 minutes from empty batteries." Said Percy. She raised the periscope and aimed it again in the direction of the contact they had heard on sonar.
 
 
+### Tracking the contact moving towards them
+
+Sometimes new crew members thought it must be something of a mental relief to be able to look through the periscope after days or weeks inside a submarine, to have even a brief glimpse of the surface world. Captain Percy remembered believing this herself when she first started working on submarines. And honestly, she would give her crew shifts on the periscope if she believed it would actually help keep them mentally steady. But the control room was already cramped, and more than that, she knew from years of experience sighting through periscopes that it didn't help. Sometimes it made the claustrophobia of the sub worse. At periscope depth, the viewport end of the device couldn't be more than a meter or two above the surface. There was rarely anything to see except a world entirely made up of an undifferentiated horizon of lighter gray against dark gray. It was almost always like that, and right now was no exception.
+
+On the surface, it was night. A reasonable moon above the cloud layer meant there was enough light to see the ocean swells. The swells were moderately significant, which was good --- they would be harder to hear on sonar and almost impossible to spot visually. Through the scope Percy watched the black swells rise and fall around her, pushing up and letting down the lighter gray field of the sky with a tuned cadence. It was a little dizzying and almost nauseating. Every so often the swell would pass over the top of the periscope and she would have a few seconds of blackness as a relief.
+
+"Chips!" Percy gave her command a little more emphasis because she didn't remove her face from the periscope frame. "Make sure you stay on that fucking sonar contact. Track the direction and range. Let me know if they get within something like visual range."
+
+"Ay, I'ma feckin' trackin' their fecking course a'ready. Feckin surprise! They're fecking coming towards us. Still out ten miles or so."
+
+"Fuck." Whispered Percy into the steel column of the periscope in front of her. She swung the scope slowly back and forth across the bearing.
+
+Minutes passed in silence, except for the faint hum of the one electric motor pushing them forward slowly through the water, and Chips occasionally calling out ranges. It was quickly marching towards them.
+
+"Feckers are moving fast and loud Capt." Called up Chips. "Like they ain't 'fraid of no feckin' shit."
+
+"That's how armed ships behave." Said Hemi from the control seat. "Probably caught a whiff of us at a distance, and they are charging fast into a range where they can quiet down and take a listen, try to aqcuire the sound of our electric motor on sonar."
+
+Deep within Captain Percy she pushed down an atavistic animal instinct that was urging her to run. A fresh young sub driver might crank on as much throttle as possible to move away from a threat. But evolution had moved submarines into a different escape tactic: slink away silently. They were in a very, very slow-speed race: get out of range of the pursuers sonar, as slowly and quietly as possible.
+
+After a few more minutes of staring at black empty sea, seeing nothing and at the same time knowing they were out there, Percy could no longer stand just relying on Chips' range estimates. She lowered the periscope and slipped down the ladder and stepped over to the navigation table. Chips immediately understood what she was doing, and without saying anything handed Percy a piece of scrap paper on which she had written a list of ranges and bearings for the contact in pencil. 
+
+Captain Percy leaned over the navigation table, holding her flashlight pointed at their location on the chart with one hand while reading the markings on Chips' paper and laying down the contact's course and times on the chart with a grease pencil in her other hand. She them marked out their own progress since they picked up the contact on sonar, but it was so short it almost didn't merit marking on the map.
+
+"Fuck they're moving fast." Said Percy to herself. "Fuck, they could be in visual range already."
+
+"Feckin' possible, ya." Agreed Chips.
+
+Percy scaled the ladder up to the control room quickly, and raised the periscope, spinning it to look out over their rear quarter as it rose. She scanned for just a moment, and then there was a long, low black shadow running across the black surface of the water. It kicked up whitecaps where it plowed through the swells, and left a string of white wake behind it. A large black fin rose from the body of the black shadow and from that fin a soft red glow followed by a long black stream of soot marking it's passage through the air in parallel to its wake marking its passage through the water. Even as Percy watched the red glow faded, and the white wake died away. They were shutting down their diesels so they could hear better.
+
+The black submarine was two or three miles off, and running across the path the _Prospect_ had traveled along so from where Percy was she could see the whole length of the boat. And mounted to it's bow was the same medieval ramming contraption she had seen before. The same that had ripped a wound in her boat.
+
+"Fuck. It's that same fucking sub that rammed us. Shut down the motor Hemi. We're going silent, and hopefully they'll miss us."
+
+The hum of the electric motor died away. Captain Percy watched the back sub through the periscope. They had switched to electric motors and were moving forward again. The bow disappeared under the black swells of the ocean, and the rest of the deck followed a few moments later. Streams of misted water were shooting up from its deck as Percy watched the sail sinking into the black line where the surface met the sky.
+
+"They're diving." Percy told Hemi. "Chips! They went down. With our motors off, you should still be able to hear them on sonar. Track 'em, and let me know what the fuck they're doing."
+
+"Ay Capt." Chips called back up from sonar.
+
+Percy let the periscope sink down to its recess.
+
+"Should we get moving?" Hemi asked.
+
+"No. Let's see if we can figure out what they're doing first. We'll hide silently and cower for the moment." Percy lit a cigarillo and pulled at it between her lips. "We'll fuckin' wait."
+
+They waited. It took maybe twenty minutes for Chips to give a report. She called Percy down to the navigation table.
+
+"Feckin' look 'ere," said Chips "I tracked the feckers down from where we first feckin' heard 'em. They shot right to the last location we were runnin' the feckin' diesels. A' few feckin' miles behind us now. But, aft'r they submerged, they didn't turn to feckin' foller us, they turned the other fecking way, and then kept turnin'." Chips marked out their path in a circle away from them on the chart.
+
+"Fucking search pattern eh?" Said Percy.
+
+"Feck ye, if'n I ever seen one. They lookin' for us, but don't know where we feckin' is, is my feckin' thinkin'."
+
+"Fuckin' good. This is our chance. We gotta get out of range before they complete their search circle and start a new circle in our direction." Percy called up to Hemi. "Get us moving again Hem'. Back to a creep, same heading --- toward the depot."
+
+The hum of the electric motors came back up, and the _Prospect_ steadily moved on. Percy sat with Chips at the sonar station and listened to the sound of the black subs screws off in the distance. It was a very weak signal as they got off to the far end of their search circle, but grew stronger as they returned to the starting point. Percy continually marked their track according the range finding calculations on the navigation chart.
+
+"We're not out of this yet." Percy said to Chips. "They're moving fast. Makes it easy to fucking track 'em, but their next search circle will almost certainly be figure-eight directly the opposite direction of their first --- and directly towards us." Chips nodded. "We gotta be out of range of their search circle before the go past."
+
+"They could feckin' ping us with active sonar and feckin' find us in a second." Pointed out Chips.
+
+"And they fucking might yet. But they might be not want to risk us being an armed enemy ship. Trying to get a soft sense of their target first, if they can."
+
+"We're feckin screwed if they ping us then."
+
+"Hopefully they fucking won't. Give me a new batch of ranges to them." Chips read out the ranges, and Percy marked them down. The black sub had completed their circle, passed through the point they had started at, and were moving in the opposite direction now. "They're coming towards us." Said Percy.
+
+Captain Percy did some quick math. She knew the black sub's speed, and in a few minutes of ranges from Chips, she knew the arc of their second search circle. The _Prospect_ was cutting almost directly across the circle, but so slowly compared to the speed of the black sub that there was no way they were going to get out of range in time. She stood back from the navigation table, holding her flashlight on the chart with one hand and sucking at her cigarillo with the other. She leaned over and put a small x at the _Prospect's_ current location --- almost exactly in the middle of the black sub's search circle, if they didn't change course.
+
+"Hemi," she called up to the control room, "shut her down again. Let's make a hole in the water."
