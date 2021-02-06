@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Feb 04, 2021  11:45AM
+Last modified: Fri Feb 05, 2021  04:50PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -125,12 +125,19 @@ Last modified: Thu Feb 04, 2021  11:45AM
 	* [X] Mate the Gnat to the Prospect's underside, run electrical and fuel up into the Prospect, and power the Prospect that way
 	* [X] Requires creating a mating collar for the Gnat
 
-* [ ] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
-	* [ ] They pick up a radar contact (and have to shut the radar down fast --- or actually it should be the black sub again, so maybe it's sonar first, under the radar)
-	* [ ] At some point Hemi and Percy need to have a conversation about why the black sub rammed them.
-	* [ ] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
+* [.] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
+	* [X] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
+	* [ ] It's night on the surface, but bright with a big moon, fairly reasonable sized waves that hide the sail of the _Prospect_ a little.
+	* [ ] They pick up a faint radar contact, and decide they need to risk submerging to periscope depth and running on what little batteries they have
+	* [ ] Through the periscope Percy sees the same black sub with the ram on the surface, and then it dives.
+	* [ ] They think it might be chasing them, (though their hope is it lost them when they went to periscope) but as they cross the Authority line it disappears, apparently missing them.
+	* [ ] At some point Hemi, Percy, (and Shakes?) need to have a conversation about why the black sub rammed them.
+		* Ideally, there is some secret/personal reason the sub is after them. Perhaps hinted at but not revealed right here.
+		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
+	* [ ] They come up with batteries completely drained and run on diesel the rest of the way to the depot
 
-* [ ] _The Prospect buttons up and sinks down to periscope, then uses remaining battery to dock (from the underside) with an underwater dock_
+* [ ] _They use remaining battery to dock (from the underside) with an underwater dock_
+	* (Or maybe they need to have someone run them out some fuel to do this or something. That... might be really boring, so maybe they just have enough power left to hit the underwater dock)
 
 
 ### --- (a depot (for repairs and pick up cargo))
@@ -152,6 +159,7 @@ Last modified: Thu Feb 04, 2021  11:45AM
 * [ ] _Percy buys Shakes dinner at the one crappy diner in the depot to pay him back, and hires him to run interference for them with the mines cargo_
 	* [ ] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
 	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
+	* [ ] Shakes makes modifications to the Gnat for the job, to run louder on diesel (see pigeon notes)
 
 * [ ] _Conversation with Cassandra about hiring her as a sonar operator_
 
@@ -161,7 +169,7 @@ Last modified: Thu Feb 04, 2021  11:45AM
 
 * [ ] _They seal up the boat and embark_
 
-### Interstitial traveling from depot
+### Interstitial traveling from depot; rendezvous with the Gnat
 
 * [ ] _Training Cassandra scene_
 

@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Feb 04, 2021  12:18PM
+Last modified: Fri Feb 05, 2021  04:20PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -233,7 +233,7 @@ In the control room, she knelt down and opening a long thin toolbox bolted to th
 
 Percy went over each instrument, and the setting of each wheel in her head. "Hemi! She called down to him. "Hemi! We're not rising! The forward ballast didn't blow! They must have crushed the high pressure pipes when they rammed us."
 
-Hemi looked up at her through his small glasses frames, his face only a few inches from the hatch opening because he was so large. "Captain Percy," he said, "I think we need to start thinking about more drastic measures to get us back on the surface."
+Hemi looked up at her through his small glasses frames, his face only a few fingers widths from the hatch opening because he was so large. "Captain Percy," he said, "I think we need to start thinking about more drastic measures to get us back on the surface."
 
 
 ### Percy blows the fuel ballast
@@ -1107,7 +1107,7 @@ It felt right. Shakes gave the tiniest squeese on the main ballast blow so that 
 
 He picked up the ship-to-ship. "Hemi, I think I'm on."
 
-"Ya, we can see the drag up here. We're going to shut down our engines, or we'll be dead in the water here in a matter of a few more minutes. Give a bang on that hatch and let's try opening it up."
+"Ya, we can see the drag up here. We're going to trim our tanks to adjust for the _Gnat_ hanging on, and then shut down our engines. Otherwise we'll be dead in the water here in a matter of a few more minutes. Give a bang on that hatch and let's try opening it up."
 
 
 ### The hatch needs to be repaired
@@ -1130,7 +1130,7 @@ Gregory nodded.
 
 They could feel the shuddering vibrations of the _Gnat's_ motor through the hull of the _Prospect_ for a few minutes, and then that died away as Shake's shut it down. A few moments later the _Prospect's_ motors shut down too. They heard Shakes bang out shave-and-a-haircut on the top hatch of the _Gnat_ with one of his wrenches, and then it was quite silent til Hemi came crackling over the ship PA. "OK Chips, open it up."
 
-Chips nodded to Gregory, and he reached down into the hatch well, and cranked open the sealing wheel. He pulled up the hatch and water rapidly flooded up around their feet. Gregory jumped up, as if bitten. But Chips lay out flat on the grating, and reached her hand down and felt along the welds until she could feel water pushing in. As she had predicted, the water rose, but stopped a few inches above the hatch level.
+Chips nodded to Gregory, and he reached down into the hatch well, and cranked open the sealing wheel. He pulled up the hatch and water rapidly flooded up around their feet. Gregory jumped up, as if bitten. But Chips lay out flat on the grating, and reached her hand down and felt along the welds until she could feel water pushing in. As she had predicted, the water rose, but stopped a few fingers above the hatch level.
 
 "It's definit'ly feckin leaking, shitty motherfeckin welds. Get the feckin' pump hooked up Gregory, and let's get as much of this feckin' water out of 'ere as fecking possible. Then I'll see if I can weld it decent feckin like."
 
@@ -1138,8 +1138,128 @@ While Gregory got the hoses for the bilge pump organized, she got on the PA with
 
 It was cold, frustrating, cramped work. But such had been all of Chips work on this trip, maybe her whole life. She let out a never-slowing stream of curses, attempting to damn down to a permanent watery hell not just all materials and work processes, but all the societal systems and turns of fate that had consipired against her to bring her to this particular misery. 
 
-The welds were horrifically ugly, and stopping the leaks had required hammering metal sheet patches into place, and welding them down tight. Chips felt luck that she hadn't cut through the mating ring of the hull of the _Gnat_ and made the situation even worse.
+The welds were horrifically ugly, like patch work on Frankenstein's monster. Stopping the leaks had required hammering metal sheet patches into place, and welding them down tight. Chips felt lucky that she hadn't cut through the mating ring of the hull of the _Gnat_ and made the situation even worse.
 
-Eventually, the bilge pumped out the water, and no more seeped in though, the mess was holding, though Chips thought she would never want to test it at any depth deeper than they already were.
-* [ ] Wiring the batteries is easy: just up to terminals in the battery rooms. But the fuel: do they pump it into the fuel tanks of the Prospect? Does that mean they need to trim the Prospect? Or is the bouyancy the same because it came out of the attached Gnat?
+Eventually no more water seeped in though, and the pump sucked the water out the well, leaving them looking at the recessed domed top hatch of the _Gnat_. The whole mess was holding, though Chips thought she would never want to test it at any depth deeper than they already were.
+
+Chips banged on the hatch with the end of the welding torch. "Eh Shakes ya fecker. You can open this fecker up now." She yelled into the empty metal well, her voice bouncing the curses back at her. There was the sound of the rusty sealing gears squeaking open and the hatch lifted up. 
+
+Shakes was grinning up at them as water dripped down on him. "Who's a fuckin' anglerfish now, eh motherfuckers?"
+
+"Don't touch them welds when ya come through, the feckers are still feckin' hot."
+
+Shakes put his arms up through the hatch hole, found a place to grab that wasn't warm from welding, lifted his foot to some footing in the sail of the _Gnat_, and stepped up into the _Prospect_. Gregory pushed the ship intercom button and told Hemi they had Shakes aboard. 
+
+"Fucking right. Now the hard part." Said Hemi over the intercom. Then got on the ship PA, and asked everyone to meet him down at the hatch to the _Gnat_.
+
+
+### Rigging up power to the Prospect
+
+"So basically we're going to suck the life out of the _Gnat_ to keep the _Prospect_ going." Hemi told them all when they were all crammed in, assembled on both sides of the open hatch to the _Gnat_ below. Shakes squirmed. "I'm going to set up some heavy jumpers between the _Gnat's_ battery banks and the battery rooms of the _Prospect_ that y'all are standing in right now. That should be pretty straightforward, and give us access to the _Gnat's_ remaining battery power. Not much, in terms of the _Prospect_.
+
+"Chips, I need you to do the harder part and figure out how to get the fuel left in the _Gnat_ into the _Prospect's_ engines. I'm not sure if it's better to try to pump it up into the _Prospect's_ fuels tanks, or run it straight from the _Gnat's_ fuel tanks to the _Prospect's_ diesels."
+
+"Be feckin easier to just run a long hose up to th' feckin _Prospect's_ feckin' fuel pumps. Won't have to feck around with the trim as much." Put in Chips.
+
+"If you think that'll fucking work, it sounds fucking OK to me." Said Hemi. "Cap, you want to weigh in with anything?"
+
+"This fuckin project is all you, Hem." Said Captain Percy.
+
+"From this moment on, we need to shut down absolutely everything we aren't using. We should have been doing this already, but we need every bit of power we can suck out of the _Gnat_ to get across the Authority line into vaguely friendlier waters. The good news is, if we get the diesels going, you can all take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
+
+"Chips, you take Owen and Gregory, Bastian we'll go dig up those jumpers. Try to stay out of each other's way everyone." Finished up Hemi. He grabbed Bastian's skinny arm and led him away to stowage where he hoped he could find the long heavy jumpers he remembered seeing there sometime in the last year.
+
+Chips took Owen and Gregory off to the engine rooms to get the long fuel hoses they normally used for refueling down off their racks on the wall.
+
+Captain Percy looked down at the mess of patches and foul blackened welds that lined the passageway down through the hole in the bottom of her boat, and for a moment couldn't believe they were still afloat. "Shakes," she said to the only person left with her, "let me buy you a cup of coffee."
+
+
+### Rigged up and running
+
+In a matter of a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had: power wired into the _Prospect's_ battery bays so that the _Gnat's_ batteries were now no more than an extra battery bay for the _Prospect_ --- conveniently with a nearly-full charge, and the thick fuel lines ran up to the engine room, where the fuel pumps were engaged and trimmed to gently suck the fuel up from the _Gnat's_ fuel ballast tanks.
+
+To conserve fuel they only ran one of the _Prospect's_ multiply redundant diesel engines, and likewise only one of the electric motors, driving only one of the propellers, and compensating with some angle on the rudder. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. It was a filthy inelegant mess, but they were making headway.
+
+Captain Percy insisted everyone who wasn't doing something actively should be in the rack, and Chips, Shakes, and Hemi didn't argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. She put Owen on radar, and they shut down the sonar figuring with the diesel running they wouldn't be able to hear anything until it was too close to do anything about it anyway, considering they couldn't dive or really do any other escape maneuver. But Percy wanted the radar on. It would be just stupid to run into a fleet of Authority surface enforcement ships. So Owen sat in the dark with his eye on the glowing radar screen, going a little insane watching it circle around endlessly.
+
+Percy made them all drink two cups of coffee, which she fixed for them in the dark by the light of a penlight because Hemi insisted they couldn't afford to run lighting.
+
+After a few hours of running like this --- the ship humming and vibrating under them, the superstructure groaning with the stress of dragging along the _Gnat_ and being thrust in one direction by her one turning propeller, and the other direction by her rudder --- Percy decided she needed to see how far they'd gone. At the navigation table, she measured with the calipers and laid down a string of hashed marks from the x marking the spot where they had mated the _Gnat_. 
+
+It was terrifyingly slow going. With the calipers, she spun out the remaining distance to the line Shakes had drawn marking where they would be under a different, hopefully safer,  Authority. She estimated they still had something like eight hours to go. And that was assuming Shakes' line was at all accurate. In addition to just being a rough mark Shakes had laid down from memory, the Authorities might have battled or treatied the line into a totally different part of the ocean for all she knew. They wouldn't be really safe until they were docked at the depot, and even then who knew what the depot folks would be like. Somewhat friendlier to commerce was about all you could hope for with any confidence.
+
+After six hours of non-stop droning darkness, Percy made another pot of coffee, and brought it down to the crew quarters with a few of tin cups tied together with a small bit of wire. She used her flashlight to hunt her relief crew out of their respective racks, and forced coffee into them. Chips strung curses at her, but as red as Chips' eyes were they weren't even close to the bloodshot droop that Percy was dragging around in her eyeballs now.
+
+"Chips, go up and relieve Owen at radar. Hemi you're with me at the controls." Shakes had pulled the blackout curtain aside and was peering blearly down at them and their coffee from a top rack. "Shakes, you can go back to sleep man."
+
+"No fucking way. My boat's on the line here too. I can help y'all drive this fucking tub of yers."
+
+"I won't insist otherwise. Have a cup of coffee, we'll put you on the throttle/rudder. Shouldn't be much to do."
+
+
+### Radar contact with the pursuing sub
+
+With Hemi and Shakes at the controls, and Gregory, Owen, and Bastian stumbling off wearily following the arcs of their flashlights to their racks, Percy lit up a cigarillo, and sat down next to Chips at the radar station. Neither of them said anything, they were both too tired for conversation. It looked like it was taking all of Chips' remaining aggressive energy to keep her eyes following the rotating line of the radar around the scope.
+
+Captain Percy jumped to her feet. Sitting was not going to work, she realized she was falling asleep despite the discomforts of the chair designed to keep you upright and alert. She flicked on her flashlight and leaned over to the navigation table, and again measured the distance to Shakes' imaginary line in the ocean. Their progress was hobbling along.
+
+"Cap'" Chips broke the numbing silence. "Feckin' got somethin'."
+
+Percy stepped back to the radar/sonar station and leaned over the scope. A small and distant blip was appearing and fading away with each pass of the _Prospect's_ radar. "Fuck. Well, it was probably too fucking much to hope the ocean would remain empty for us. OK, shut down the radar, switch to sonar."
+
+"T'won't be able t' hear feckin much with the diesel runnin'.
+
+"That's why you're going to have to really fucking focus, try to pick out any change in mechanical sound above the diesel. If you think you hear something, we'll shut it down and have a quiet listen. Otherwise we'll stop every half hour or so and see if we hear anyone coming towards us."
+
+Chips groaned. "Better fill my fecking coffee back up." Percy nodded and pointed her flashlight towards the galley after watching to make sure Chips shut down the radar completely. It was possible for a surface ship to see that radar while it was running and not only discover they were there, but calculate exactly where they were. Passive sonar was just microphones in the water --- it didn't send anything out by which they could be tracked. Of course their noisy diesel engine was sending out plenty of sound at the moment, if anyone got close enough to listen for it.
+
+Coming back with a full tin cup of burnt black coffee and sugar solution, Captain Percy called up to Hemi through the hatch up to the control room. When his face appeared squinting into the beam of her light, she told him they had a distant contact and had shut down the radar and switched to sonar, and that he should be ready to shut down the diesel on notice. He nodded and headed back to the dive plane and tank controls.
+
+She put the coffee cup down in front of Chips and sat down next to her. Percy put on the second sonar headset and listened with Chips. The headset was full of the heavy droning hum of the diesel engine, moderated by some swish of water running along the hull and grinding against the sail of the _Prospect_ where it split through the surface.
+
+Captain Percy flipped some switches to engage filters, and the texture of the sound in her ears changed. She blocked out some of the lower frequencies of the engine, and tried to imagine if she hear the higher pitch of a ship screw spinning in the water. But the sound was relentlessly unchanging.
+
+After half an hour or so, she called up to Hemi to shut down the diesels so they could have a listen, and a minute later a blessed silence came into the headset. A unsupressable feeling of relief flowed through her as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly ate away at her soul. On top of that, there was no apparent sound of any other ships in sonar range.
+
+Percy flipped through a few filters, and the quality of the silence changed, from a deadening whoosh to a soft hiss. And then she heard a pulse. A distant, faint heartbeat in the ocean, accompanied by the slushing flow of circulation. She touched Chips arm, pointed to the softly fluttering signal-strenth gauge.
+
+"Ay." Confirmed Chips. "That's the right direction for our feckin' contact. They jes feckin moved int' feckin sonar range."
+
+"Fuck. We're gonna have to do something. Stay on it Chips."
+
+"Feckin' ay."
+
+Percy scaled the ladder up to the control room, and raised the periscope, twisting it around as it rose to the heading of the contact, on their rear starboard quarter. She didn't expect to see anything, and didn't. The distance was still too far, but a visual check was the practical and right thing to do first. She lowered the periscope.
+
+
+### They submerge to periscope depths
+
+"Hemi," Percy hesitated, "I think we gotta fucking submerge to periscope depth --- get the sail underwater --- and run on the _Gnat's_ remaining fucking batteries. How long can we fucking last?"
+
+"Well, putting aside that we would need to again open the main ballast valves to bring us lower in the water, the _Gnat_ has maybe an hour of battery we could use at this super slow creep rate we're going at. And I should also point out that when that's gone, we have no other way to hide, if we don't lose this contact or come across another."
+
+"I know. I'm going on instinct here, and fuck me I could fucking be wrong. Especially considering I haven't slept in days and my head is fucking killing me from eight cups of coffee a day. But I got a sense we don't want to fucking see that fucker coming towards us up there."
+
+"Or, we don't want that fucker to see us, you mean."
+
+"Fuck right."
+
+Hemi nodded. "Alright. I'll open the main ballast valves." He reached up and pushed the dive alarm.
+
+"Ah feck ye all," said Chips, pulling one earpiece of the headset off her ear when she heard the dive alarm, "yer feckin' going down to periscope dep', ain't ye? We can't run the diesels at periscope, there's no way to feed 'em oxygen. So how the feck are ya planning to get back on the surface if the batteries die, eh? We'll have no way to steer th' boat to the surface, and we got no feckin' way to pump the water out! We'll jes' be feckin' sitting there with one fucking pipe's-eyed view above the surface. 'fectively fecking drowned."
+
+"Thank you for aprising us of the risks Chips. Hemi, take us down to periscope."
+
+Hemi flipped up the main ballast valve switches and there was again a rush of air as more of it was released the ballast tanks, and water eased in from the vents open to the sea on the bottom. Hemi watched the glowing depth gauge until the needle got into the range marked 'periscope,' and then flipped the ballast valve switches down again. There was a clink and the rush of air and water stopped.
+
+"See Chips, the fucking valves are still working as they are supposed to, which we knew because of your inspection before. We aren't fucking sunk yet."
+
+"'Pends on what ye feckin' mean by 'sunk'." Said Chips quietly.
+
+"Well Hemi, we can't afford to take an evasive route to the depot, we gotta go straight at 'em. So we'll just have to hope our contact up there wasn't able to track us long enough to figure out our course. Put us back on the electric motor --- they won't be able to hear us unless they get right on top of us, and we won't let that happen." Said Percy. "Um... also keep what Chips said in mind --- make sure we have a little something left in the batteries to get us back to the surface."
+
+"These battery gauges are hardly very precise Percy. I would not push it beyond ten minutes remaining on the battery." Said Hemi.
+
+"Noted." Said Percy.
+
 

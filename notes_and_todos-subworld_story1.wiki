@@ -1,46 +1,15 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Feb 04, 2021  12:16PM
+Last modified: Fri Feb 05, 2021  04:46PM
 
 # Subworld Story 1 --- general notes and todos
 
 ## Notes and To dos:
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
-* post-full-draft revs to make sure to hit:
-	* [ ] while the name _Gnat_ works, I keep having my doubt about _Prospect_.
-		* P felt right when I first started using it, but feels less right as I go along
-		* This might be a thing to ask test-reader's feedback on
-	* [ ] Give Hemi a beard, like he's captain Nemo. 
-		* The idea is that someone who didn't know better might mistake him for the captain
-		* or viking braids?
-	* [ ] Change Owen to Owens?
-	* [ ] Sort out the accent for Chips
-		* like feckin instead of fuckin
-		* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
-		* maybe it's too star treky cliche to have an engineer with an accent?
-		* The name Chips doesn't feel like it's working
-	* [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
-	* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
-	* [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
-	* [ ] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
-	* [ ] fix creeping towards the seamount:
-		* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
-	* [ ] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
-		* Or cocaine? or coca leaves? (He did come from a coffee farm)
-	* [ ] Would they waste electricity on cooking if they were very low on power?
-	* [ ] Is it a 'mating collar' or a 'docking collar'?
-	* [ ] Check what type of welding is used for underwater welding
-	* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
-		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
-		* And a lot more cursing might actually be a simple way to make it grittier.
-		* Also they're a bunch of fuckin sailors!
-		* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
-			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
-	* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
-		* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
-			* (Maybe be sure to always refer to it as "the tank control panel")
-	* [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
-	* [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
+* [ ] Go for character-driven (fear) excitement through staring at dials
+* [ ] Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights
+	* Do you even want to? It might be better just to shoot for a book that is _fun_ to read. (though not boring through cliche either.)
+	* But making sound something special to the world, (in all ways, not just sonar) could be a defining feature
 * [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
 	* It's not the right subject for those people, so you have to overcome that
 	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
@@ -54,6 +23,8 @@ Last modified: Thu Feb 04, 2021  12:16PM
 * [ ] Possible story (though not series) name:
 	* The Salted wound
 	* (referring to the never-healing damage from the ramming at the beginning)
+* Making the call: the pursuing sub is advanced diesel-electric, not nuclear. They occasionally run on the surface to recharge as well.
+	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
 	* See notes on memory house in writing
@@ -70,6 +41,48 @@ Last modified: Thu Feb 04, 2021  12:16PM
 * [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
 	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
 * For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+
+### Editing notes (be sure to hit these in post-production editing):
+* [ ] while the name _Gnat_ works, I keep having my doubt about _Prospect_.
+	* P felt right when I first started using it, but feels less right as I go along
+	* This might be a thing to ask test-reader's feedback on
+* [ ] Give Hemi a beard, like he's captain Nemo. 
+	* The idea is that someone who didn't know better might mistake him for the captain
+	* or viking braids?
+* [ ] Change Owen to Owens?
+* [ ] 'crew quarters' or 'crew's quarters'?
+* [ ] 'navigation station'? 'navigation table'?
+* [ ] Sort out the accent for Chips
+	* like feckin instead of fuckin
+	* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
+	* maybe it's too star treky cliche to have an engineer with an accent?
+	* The name Chips doesn't feel like it's working
+* [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
+* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
+* [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
+* [ ] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
+* [ ] fix creeping towards the seamount:
+	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
+* [ ] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
+	* Or cocaine? or coca leaves? (He did come from a coffee farm)
+* [ ] Would they waste electricity on cooking if they were very low on power?
+* [ ] Is it a 'mating collar' or a 'docking collar'?
+* [ ] Check what type of welding is used for underwater welding
+* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
+	* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
+	* And a lot more cursing might actually be a simple way to make it grittier.
+	* Also they're a bunch of fuckin sailors!
+	* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
+		* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
+* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
+	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
+		* (Maybe be sure to always refer to it as "the tank control panel")
+* [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
+* [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
+* [ ] find to remove 'inches' and 'feet' references
+* [ ] Consider pulling back or deleting the metaphors
+* [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
+
 
 
 ## Story elements specific to this story
