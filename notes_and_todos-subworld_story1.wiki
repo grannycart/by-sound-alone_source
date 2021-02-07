@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Feb 06, 2021  06:24PM
+Last modified: Sun Feb 07, 2021  03:46PM
 
 # Subworld Story 1 --- general notes and todos
 
@@ -44,6 +44,7 @@ Last modified: Sat Feb 06, 2021  06:24PM
 
 ### Editing notes (be sure to hit these in post-production editing):
 * General style stuff to address throughout:
+	* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
 	* [ ] It isn't capturing the grittiness enough, build that up
 	* [ ] watch the pacing, it's a little off in places:
 		* [ ] it should be a slow build up to a big singular event like the ballast blow
@@ -68,10 +69,18 @@ Last modified: Sat Feb 06, 2021  06:24PM
 	* or viking braids?
 * [ ] Change Owen to Owens?
 * [ ] 'crew quarters' or 'crew's quarters'?
+* [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 * [ ] 'navigation station'? 'navigation table'?
+* [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
+* [ ] Consider removing parts where Percy second-guesses herself.
+	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
+	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
+		* Might make for more interesting dialog
+		* and Percy is NOT always right, just most of the time.
 * [ ] Sort out the accent for Chips
 	* like feckin instead of fuckin
-	* Maybe it's just something simple and non-specific, using compounds, or dropped hs or something
+	* make it more lady-like: imagine an Irish farmer's wife with a foul tongue.
+	* Maybe it's just something simple and non-specific, using compounds, or dropped h's or something
 	* maybe it's too star treky cliche to have an engineer with an accent?
 	* The name Chips doesn't feel like it's working
 * [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
@@ -86,10 +95,12 @@ Last modified: Sat Feb 06, 2021  06:24PM
 * [ ] Would they waste electricity on cooking if they were very low on power?
 * [ ] Check what type of welding is used for underwater welding
 * [ ] Is it a 'mating collar' or a 'docking collar'?
+* [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 * [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 * [ ] find to remove 'inches' and 'feet' references
 * [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
+	* Maybe the deck gun is inside the Gnat, Shakes can mount it if he needs to.
 
 
 

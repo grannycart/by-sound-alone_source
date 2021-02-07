@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Feb 06, 2021  03:02PM
+Last modified: Sun Feb 07, 2021  03:46PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -137,6 +137,7 @@ Last modified: Sat Feb 06, 2021  03:02PM
 	* [ ] They come up with batteries completely drained and run on diesel the rest of the way to the depot
 
 * [ ] _They use remaining battery to dock (from the underside) with an underwater dock_
+	* Through the scope they see an empty island, and report that to Shakes. He informs them it's an underwater dock.
 	* (Or maybe they need to have someone run them out some fuel to do this or something. That... might be really boring, so maybe they just have enough power left to hit the underwater dock)
 
 
@@ -213,6 +214,7 @@ Last modified: Sat Feb 06, 2021  03:02PM
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* [ ] A scene where they are eating in the galley
 	* [ ] something breaks that needs fixing --- possible the original wound from the ramming breaks open again
+	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 	* [ ] Watching the battery gauges --- how long can they go before they are forced to the surface?
 
 
