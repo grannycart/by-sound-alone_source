@@ -1,29 +1,36 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Feb 07, 2021  03:46PM
+Last modified: Mon Feb 08, 2021  02:38PM
 
 # Subworld Story 1 --- general notes and todos
+* [notes and todos](#notes)
+* [post-production editing notes](#post-prod)
+* [story 1 elements](#elements)
+
 
 ## Notes and To dos:
+:notes:
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
 * [ ] Go for character-driven (fear) excitement through staring at dials
 * [ ] Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights
-	* Do you even want to? It might be better just to shoot for a book that is _fun_ to read. (though not boring through cliche either.)
-	* But making sound something special to the world, (in all ways, not just sonar) could be a defining feature
-* [ ] How do you leverage this good start up to something that might be MacArthur-noticeable?
-	* It's not the right subject for those people, so you have to overcome that
-	* Can you keep it accessible and entertaining and ALSO bump it into MacArthur territory?
-	* See notes from rising grime story about style
-		* (Thinking about Ministry or Motorhead: accessibility + distinctive aesthetic is the key <- This is _everything_ that I want from my art!)
-	* Take the time to KEEP practicing style to get it aesthetically just the way you want it AND functionally just the way you want it before you build out the whole story.
-	* I know exactly what I want it to _feel_ like... but I don't know how to make that thing yet.
-	* You can't just _discover_ an aesthetic style; you have to _internalize_ it, and I suspect that can only come from practice. 
-		* once internalized, you can probably apply other things to it: like making it accessible.
-	* The _aesthetic_ of it -- and the ability to drive a certain cathartic response -- is the key to the MacArthur category; and to what you personally want from your writing as well.
+* [ ] Just make the submarine novel GO
+	* This first book should be the pop novel: readable, accessible, character-driven
+		* an accessible novel is more likely to be something you could sell/build a fanbase
+	* maybe keep the style experiments for reference when you later go back to write filthy scum
+		* and the submarine novel is just accessible and readable, with occasional elements of that style?
+		* a more stylized one is more likely to push you in the macarthur direction, but that can come later.
+	* do both?!
+	* I'm not sure the sub novel can be all the things you want it to be
+	* also, different sub books/stories/chapters could have different styles as you go
+	* better to produce than to get stuck trying to get the perfect style
+	* accessibility is more important than style:
+		* do NOT fall into the trap of keeping things abstract for the sake of style. those books are often (and often rightfully) unpopular.
+		* on the other hand layering style on top of accessibility is the dream: like Batman
 * [ ] Possible story (though not series) name:
 	* The Salted wound
 	* (referring to the never-healing damage from the ramming at the beginning)
-* Making the call: the pursuing sub is advanced diesel-electric, not nuclear. They occasionally run on the surface to recharge as well.
+* Making the call: the pursuing sub is advanced diesel-electric, not nuclear. 
+	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
@@ -43,21 +50,8 @@ Last modified: Sun Feb 07, 2021  03:46PM
 * For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 
 ### Editing notes (be sure to hit these in post-production editing):
-* General style stuff to address throughout:
-	* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
-	* [ ] It isn't capturing the grittiness enough, build that up
-	* [ ] watch the pacing, it's a little off in places:
-		* [ ] it should be a slow build up to a big singular event like the ballast blow
-		* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
-		* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
-			* don't just montage over them, it makes it feel like things are moving too fast.
-	* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
-		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
-		* And a lot more cursing might actually be a simple way to make it grittier.
-		* Also they're a bunch of fuckin sailors!
-		* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
-			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
-	* [ ] Consider pulling back or deleting the metaphors
+:post-prod:
+* [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 		* (Maybe be sure to always refer to it as "the tank control panel")
@@ -83,6 +77,7 @@ Last modified: Sun Feb 07, 2021  03:46PM
 	* Maybe it's just something simple and non-specific, using compounds, or dropped h's or something
 	* maybe it's too star treky cliche to have an engineer with an accent?
 	* The name Chips doesn't feel like it's working
+* [ ] Maybe Hemi is the one character who doesn't (normally/ever) curse?
 * [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 * [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
@@ -101,10 +96,29 @@ Last modified: Sun Feb 07, 2021  03:46PM
 * [ ] find to remove 'inches' and 'feet' references
 * [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
 	* Maybe the deck gun is inside the Gnat, Shakes can mount it if he needs to.
-
+* General style stuff to address throughout:
+	* [ ] consider thinking about making the story non-linear:
+		* that each section could actually come at any point in the story.
+		* It could be read out of order, if you wanted to.
+		* Or maybe this is a guiding principle for the second heart-of-darkness story
+	* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
+	* [ ] It isn't capturing the grittiness enough, build that up
+	* [ ] watch the pacing, it's a little off in places:
+		* [ ] it should be a slow build up to a big singular event like the ballast blow
+		* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
+		* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
+			* don't just montage over them, it makes it feel like things are moving too fast.
+	* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
+		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
+		* And a lot more cursing might actually be a simple way to make it grittier.
+		* Also they're a bunch of fuckin sailors!
+		* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
+			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
+	* [ ] Consider pulling back or deleting the metaphors
 
 
 ## Story elements specific to this story
+:elements:
 * overall theme: being chased by a dark force of evil (black sub) from place to place to place
 	* on a dead calm sea
 	* rammed and sunk on the top of a seamount (like Moses on Ararat) 
@@ -117,8 +131,8 @@ Last modified: Sun Feb 07, 2021  03:46PM
 * bottomed on a seamount
 	* A 'guyot' or tablemount
 	* https://en.wikipedia.org/wiki/Guyot
-* [ ] They visit depots that have staging areas above ground on the coast, and underwater sub connections for loading and unloading goods.
-* [ ] they do deadliest catch style shifts of more than 24 hours with everyone exhausted (mine from that 33 minute episode of battlestar gallactica)
+* [X] They visit depots that have staging areas above ground on the coast, and underwater sub connections for loading and unloading goods.
+* [X] they do deadliest catch style shifts of more than 24 hours with everyone exhausted (mine from that 33 minute episode of battlestar gallactica)
 	* no sleep
 	* lots of crew doing cocaine or unnamed but clearly doing stimulants
 	* bloodshot eyes, mistakes from tiredness
@@ -130,9 +144,7 @@ Last modified: Sun Feb 07, 2021  03:46PM
 	* in later stories, the floating mines become a standard tool. they have a machine calculator that calculates the psi of the floats for them, but still have to fill them by hand.
 * [ ] the nerd character might be able to listen to the water mics and determine size and types of ships by screw rpms or something?
 * [ ] The mini sub in some situation wants to create even more noise, so they make some kind of adjustment to the engines to run clackily or something.
-* [ ] they smuggle a hold full of expensive watches. the watches get wound up with the movement of the boat. while running silent under the authority ship the sonar realizes they can hear the watches. down in the silence of the hold with no engine running, the ticking is clearly audible, like the telltale heart. possibly audible to the authority ship.
-	* the watches are a shipment from one of the authority govts to field troops to use for artillery 
-* [ ] at some point have one of the characters dip a comb in engine grease and run it through their hair
+* [X] at some point have one of the characters dip a comb in engine grease and run it through their hair
 * [ ] they have a pile of crappy old (pre-war) bicycles, when the cargo bay is clear, they have donut races like the Seven xmas party:
 	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
 	* someone builds a ramp, and maybe someone else has some kind of fancy aluminum bicycle frame, that cracks in half like a wishbone after going over the jump
@@ -140,7 +152,8 @@ Last modified: Sun Feb 07, 2021  03:46PM
 		* "Is a steel hull slowly crushing around you a blessing under 100 atmospheres of pressure? or a curse though?"
 * [ ] someone says sub-marine like it's two words. maybe a trader in a depot or something.
 	* (because submarine is such a strange mush of a word to say) 
-* Writig this novel, alone in a 600sf 3-room apartment in January. It's too cold to go outside, and the outside is contaminated by disease. The apartment is a 100 year old building with steam heat: water and air pushing and banging through rusty pipes, the power-flush of the toilet that you can hear even from other apartments... this place FEELS like a submarine.
+* Writing this novel, alone in a 600sf 3-room apartment in January. It's too cold to go outside, and the outside is contaminated by disease. The apartment is a 100 year old building with steam heat: water and air pushing and banging through rusty pipes, the power-flush of the toilet that you can hear even from other apartments... this place FEELS like a submarine.
+	* At one point, writing about starting up diesel engines, I smell diesel exhaust in my apartment, as if I conjured it. though presumably it was from some truck idling outside.
 * God, you are constrained so much more than you could ever know or articulate by the conventions of what is considered "good" writing.
 
 

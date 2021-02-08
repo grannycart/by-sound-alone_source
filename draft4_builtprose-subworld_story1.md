@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sun Feb 07, 2021  03:46PM
+Last modified: Mon Feb 08, 2021  03:28PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -1418,3 +1418,77 @@ They cruised easily with the sail up and the diesels running for the next few ho
 No matter how parsimonious they were with the power usage and the fuel consumption though, the _Prospect_ was so much bigger that it was eating through the remaining fuel in the _Gnat_ at an insatiable rate. Back in the control room of the _Prospect_ Hemi calculated their fuel consumption rate by hand, and measured it against how far they had to go. It was super tight, and he could not promise Percy that they would not be rowing the _Prospect_ the last few miles.
 
 
+### They talk about why the black sub is pursuing them
+
+By this time Hemi, Shakes, and Percy were exhaustedly staring at the wall of gauges in front of them, most of them completely unmoving as they were not varying speed, direction, or depth, and the fuel gauge simply read zero, since it didn't reflect the fuel they were sucking up from the _Gnat_. Other than Hemi's occasional trips down to the _Gnat_ to check, they were simply hoping they had enough to make it to the depot and not get left stranded once again over empty and deep seas.
+
+Hemi finally broke the bleary, grinding, smoke-filled silence. "Something bothers me Captain."
+
+"We've scraped our way on our bellies under the razor-wire fencing of hell's fucking border for the last few days, and _now_ something bothers you Hem?" Percy chuckled lightly at him.
+
+"I think that's exactly it, we've been so on edge and so burned out that I haven't had a chance to step back and consider things."
+
+"Well, what is it that's fucking eatin' ya big guy?"
+
+"The black sub. You said the one fucking hunting for us back there was the same that fucking rammed us, right? You're sure about that?"
+
+"Abso-fucking-certain. Lotta subs look the same through the scope, sure, but that ram is unique. Some kinda custom fucking job, without the sleekness ya see for military machines usually. Looks like it was fucking worked up as some ancient siege engine, for storming a stone fortress or something, and some crazy motherfucker bought it as scrap and welded the whole damn heavy water-dragging thing onto the front of their submarine."
+
+Hemi nodded. "So if it's the same sub, which seems likely, it seems very _unlikely_ to me that they just happened on us twice. This is what's bothering me: do ya think the fuckers are specifically pursuing _us_?"
+
+"I had the same thought." Said Shakes. "But I didn't want to put my fucking nose into your business, just as I wouldn't want you askin' about mine. But since yer asking Hemi..."
+
+"It does seem odd. We're just a transport." Percy said, looking steadily at Shakes. "We're always being harassed by various Authorities. But who among them has the inclination to pursue a transport sub? They have wars to fight and borders to defend up there."
+
+"The spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, fucking business."
+
+"And we are the commerce." Said Shakes.
+
+"Well, if that black sub was pursuing us particularly, seems most likely they won't follow us across Authority lines and they'll lay off the pursuit at this point. We'll just avoid coming back this way any time soon."
+
+"Leaves ya with a big fuckin mystery as to fuckin _why_ though, don't ya think?" Asked Shakes.
+
+"Indeed." Said Hemi. "Though sometimes the pragmatic course of action is to leave the questions aside, and move in a different direction."
+
+"And the direction we're moving in right now is towards that depot, and away from the mystery of the black sub." Said Percy.
+
+The silence settled back in on them. Captain Percy lit up yet another cigarillo and filled up the small space of the control room with smoke. Hemi slid back down to the navigation chart with his flashlight, and a few minutes later called up to Percy. "Hey Capt, the island with the depot on it should be coming in sight with the periscope soon."
+
+
+### They approach the depot island, are inspected
+
+"'bout fuckin' time." Said Percy as she raised the periscope. The bearing was obviously straight ahead, so she swung the barrel of the periscope around while looking through the viewfinder. The cigarillo hung from her lips, with smoke rising up to her nostrils. "Ay. Fuckin' dawn's cracking up there, I see a blot of an island ahead of us." She watched it for a while slowly, slowly coming towards her and details coming into view. It was a rocky, slightly cliffed shore with some sparse vegetation on top.
+
+"Uh, Shakes," she said with a sinking somewhat terrified feeling, "there ain't nothing on that island."
+
+"Naw!" Said Shakes. "Course not. The depot is for, uh, discreet operations. It's entirely underwater, built into the side of the seamount."
+
+"Ah." Said Percy. It was totally normal to build part of a depot that handled sensitive cargo underwater to keep Authority eyes off comings and goings. But usually there was a small surface component too for handling completely licensed and permitted cargo, and for the convenience of being able operate without the complexity and care required to work underwater fittings when it was possible to do so. But she could see how if a depot were located close to the border between two very aggressive Authorities, as this one was, it was clearly logical to keep the whole operation off the surface. On the other hand, it also meant these might be rougher and less agreeable characters than the typical scum they dealt with in the submarine transport industry.
+
+"So, how do we..." Percy started to ask.
+
+The ship-to-ship radio lit up over her head. _"To approaching submarine: stop your motors and prepare to be boarded."_
+
+"That's how." Said Shakes.
+
+They shut the _Prospect's_ motors down, and Percy climbed up and opened the top hatch of the sail. A mini-sub, maybe 15 meters long had surfaced off their starboard side, and a couple of large men, almost as big as Hemi, were climbing into an inflatable boat. They motored across the gap between the two subs, and climbed up the steel rungs on the outside of the _Prospect's_ sail.
+
+"Transport sub?" Were the first words from their mouth. They wore old moth-eaten wool clothes: tightly worsted slacks, and cable-knit sweaters, like old North Atlantic fishermen.
+
+"Ya." Said Percy. "We're unarmed: no tubes."
+
+"Right." said the other of the two and spat on her deck. "We just gotta do a quick check if ya want to come any closer to the fuckin' island. Otherwise, ya gotta go back the way ya came."
+
+"Well, we got no fucking fuel left, so get your check over with."
+
+They climbed down the hatch. They spent the next 20 minutes crawling through the _Prospect_ with Shakes and Hemi. When they got back to the control room, they were a little less gruff. "Eh, fuck. Sorry, but being fucking careful in these waters is how we stay in fucking business. Y'all seem harmless enough, though weird fucking coming in hauling another sub under ya. Get on the ship-to-ship and contact the docking control office. They'll give you a docking assignment, and turn the sonar beacon on for ya."
+
+"Alrighty. Thanks." Said Percy.
+
+They climbed off the sail without a word and headed back to their small patrol sub.
+
+"Don't worry." Said Shakes. "Maybe not the friendliest people, but we should be able to get everything yer boat needs here."
+
+Percy picked up the ship-to-ship mic and raised the docking control office, now within range of the ship-to-ship radio. They got their docking port, and sealing up the _Prospect_ they used the last remaining few minutes of their batteries to dive the ship. The docking bay stuck out of the side of the seamount 20 meters underwater. They followed the sonar beacon to docking slip four, and carefully eased the _Prospect_ up under it until the big hatch to the cargo bay, on the deck, came up under the docking slip and mated to it. Hemi went down to the cargo bay, and out across the catwalk hanging from the ceiling of the cargo bay to the big cargo hatch. From there he could unseal, and wind open the big cargo hatch with a winch, and extend up a steel ladder, much like a fire escape ladder on a big apartment building in city, up into the docking bay so a person could climb up and down from the _Prospect_.
+
+The depot used a pressurized air system, so each docking slip was just a hole in the floor of the docking bay. There were 12 slips, about half of which had subs docked at them.
