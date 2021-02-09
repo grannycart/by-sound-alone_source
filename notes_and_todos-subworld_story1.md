@@ -1,40 +1,53 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Feb 08, 2021  02:38PM
+Last modified: Tue Feb 09, 2021  12:04PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
+* [style](#style)
 * [post-production editing notes](#post-prod)
 * [story 1 elements](#elements)
 
 
 ## Notes and To dos:
 :notes:
+* [ ] Draw diagrams of the Prospect and Gnat. Include with story.
+	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
+	* (No copyright problems, those are federal gov't drawings)
+	* (People like me eat that ship up --- it lets you visualize where in the boat the people are at any time.)
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
-* [ ] Go for character-driven (fear) excitement through staring at dials
-* [ ] Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights
-* [ ] Just make the submarine novel GO
-	* This first book should be the pop novel: readable, accessible, character-driven
-		* an accessible novel is more likely to be something you could sell/build a fanbase
-	* maybe keep the style experiments for reference when you later go back to write filthy scum
-		* and the submarine novel is just accessible and readable, with occasional elements of that style?
-		* a more stylized one is more likely to push you in the macarthur direction, but that can come later.
-	* do both?!
-	* I'm not sure the sub novel can be all the things you want it to be
-	* also, different sub books/stories/chapters could have different styles as you go
-	* better to produce than to get stuck trying to get the perfect style
-	* accessibility is more important than style:
-		* do NOT fall into the trap of keeping things abstract for the sake of style. those books are often (and often rightfully) unpopular.
-		* on the other hand layering style on top of accessibility is the dream: like Batman
 * [ ] Possible story (though not series) name:
 	* The Salted wound
 	* (referring to the never-healing damage from the ramming at the beginning)
 * Making the call: the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
+* [X] add something explaining that the Prospect has no torpedo tubes:
+	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
+* [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
+	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
+* For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+
+### style
+:style:
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
 	* build a map in their head for them.
 	* See notes on memory house in writing
+* Just make the first submarine novel GO:
+	* Go for character-driven (fear) excitement through staring at dials
+	* This first book should be the pop novel: readable, accessible, character-driven
+		* an accessible novel is more likely to be something you could sell/build a fanbase
+	* maybe keep the style experiments for reference when you later go back to write filthy scum
+		* and the submarine novel is just accessible and readable, with occasional elements of that style?
+		* a more stylized one is more likely to push you in the macarthur direction, but that can come later.
+	* do both?!
+	* Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights
+	* I'm not sure the sub novel can be all the things you want it to be
+	* also, different sub books/stories/chapters could have different styles as you go
+	* better to produce than to get stuck trying to get the perfect style
+	* accessibility is more important than style:
+		* do NOT fall into the trap of keeping things abstract for the sake of style. those books are often (and often rightfully) unpopular.
+		* on the other hand layering style on top of accessibility is the dream: like Batman
 * maybe with the engine running full blast, it SOUNDS heavy and grimey, like dopesmoker.
 	* try to think about what a listener to dopesmoker would want to read. 
 * think carefully about where you "dive" into description:
@@ -43,11 +56,8 @@ Last modified: Mon Feb 08, 2021  02:38PM
 * remember to focus on _description_ of the grime, darkness, cold, hardness. Make it feel like Deadwood or Blood Meridian, though with good story. Do NOT make it feel like a sci-fi or naval/military story.
 * consider NOT having any exterior shots. 
 	* it may help the sense of isolation and being in a can if all action takes place _inside_ (the depot, the _Prospect_, the _Gnat_) 
-* [X] add something explaining that the Prospect has no torpedo tubes:
-	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
-* [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
-	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
-* For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+	* having considered this, where I do have exterior shots so far I really like them. I'm not getting rid of them.
+	* Though perhaps they end up being the exception that proves the rule.
 
 ### Editing notes (be sure to hit these in post-production editing):
 :post-prod:
@@ -55,14 +65,14 @@ Last modified: Mon Feb 08, 2021  02:38PM
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 		* (Maybe be sure to always refer to it as "the tank control panel")
-* [ ] while the name _Gnat_ works, I keep having my doubt about _Prospect_.
+* [ ] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
 * [ ] Give Hemi a beard, like he's captain Nemo. 
 	* The idea is that someone who didn't know better might mistake him for the captain
 	* or viking braids?
 * [ ] Change Owen to Owens?
-* [ ] 'crew quarters' or 'crew's quarters'?
+* [ ] 'crew quarters' not 'crew's quarters' (just because I like it better, not because I looked it up_
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 * [ ] 'navigation station'? 'navigation table'?
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.

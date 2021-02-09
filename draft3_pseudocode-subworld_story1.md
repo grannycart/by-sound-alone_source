@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Feb 07, 2021  03:46PM
+Last modified: Tue Feb 09, 2021  10:24AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -125,18 +125,18 @@ Last modified: Sun Feb 07, 2021  03:46PM
 	* [X] Mate the Gnat to the Prospect's underside, run electrical and fuel up into the Prospect, and power the Prospect that way
 	* [X] Requires creating a mating collar for the Gnat
 
-* [o] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
+* [X] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
 	* [X] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
 	* [X] It's night on the surface, but bright with a big moon, fairly reasonable sized waves that hide the sail of the _Prospect_ a little.
 	* [X] They pick up a faint radar contact, and decide they need to risk submerging to periscope depth and running on what little batteries they have
 	* [X] Through the periscope Percy sees the same black sub with the ram on the surface, and then it dives.
-	* [ ] They think it might be chasing them, (though their hope is it lost them when they went to periscope) but as they cross the Authority line it disappears, apparently missing them.
-	* [ ] At some point Hemi, Percy, (and Shakes?) need to have a conversation about why the black sub rammed them.
+	* [X] They think it might be chasing them, (though their hope is it lost them when they went to periscope) but as they cross the Authority line it disappears, apparently missing them.
+	* [X] At some point Hemi, Percy, (and Shakes?) need to have a conversation about why the black sub rammed them.
 		* Ideally, there is some secret/personal reason the sub is after them. Perhaps hinted at but not revealed right here.
 		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
-	* [ ] They come up with batteries completely drained and run on diesel the rest of the way to the depot
+	* [X] They come up with batteries completely drained and run on diesel the rest of the way to the depot
 
-* [ ] _They use remaining battery to dock (from the underside) with an underwater dock_
+* [X] _They use remaining battery to dock (from the underside) with an underwater dock_
 	* Through the scope they see an empty island, and report that to Shakes. He informs them it's an underwater dock.
 	* (Or maybe they need to have someone run them out some fuel to do this or something. That... might be really boring, so maybe they just have enough power left to hit the underwater dock)
 
