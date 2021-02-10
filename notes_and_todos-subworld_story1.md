@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Feb 09, 2021  06:52PM
+Last modified: Tue Feb 09, 2021  10:00PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -22,6 +22,16 @@ Last modified: Tue Feb 09, 2021  06:52PM
 * Making the call: the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
+* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+	* Maybe with shakes over ship-to-ship, just to keep it interesting
+	* Maybe Shakes wonders if it's moral to run weapons
+	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
+	* Though that rebel group might be the oppressors in 6 months
+	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
+	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
+* [ ] Add pigeon communication scene:
+	* "Goddamn it! Get Shakes on the...pigeon." "His name is Guillaume" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
+	* later "ok, get the pigeon" "guiaullme" "guiaullme, and tell Shakes...."
 * [X] add something explaining that the Prospect has no torpedo tubes:
 	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
