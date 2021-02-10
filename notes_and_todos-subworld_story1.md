@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Feb 09, 2021  12:04PM
+Last modified: Tue Feb 09, 2021  06:52PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -61,6 +61,7 @@ Last modified: Tue Feb 09, 2021  12:04PM
 
 ### Editing notes (be sure to hit these in post-production editing):
 :post-prod:
+* [ ] hatch in sail is at top of _control room_ not sail
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
