@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Feb 09, 2021  10:00PM
+Last modified: Wed Feb 10, 2021  06:57PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -72,6 +72,7 @@ Last modified: Tue Feb 09, 2021  10:00PM
 ### Editing notes (be sure to hit these in post-production editing):
 :post-prod:
 * [ ] hatch in sail is at top of _control room_ not sail
+* [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
@@ -109,15 +110,24 @@ Last modified: Tue Feb 09, 2021  10:00PM
 	* Or cocaine? 
 	* coca leaves? (He did come from a coffee farm)
 * [ ] Would they waste electricity on cooking if they were very low on power?
-* [ ] Check what type of welding is used for underwater welding
+* [ ] make sure welding doesn't refer to 'tanks'
+	* arc welding is used for underwater welding
+	* which means that like the stove, they have to be careful about fuel/power consumption
+	* the welding rig needs to run a generator or from boat power, I think
 * [ ] Is it a 'mating collar' or a 'docking collar'?
 * [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 * [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 * [ ] find to remove 'inches' and 'feet' references
+* [ ] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
+* [ ] Have Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
+	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
+	* I like that this will play in later when they decide what to do if they find out that Owen slept with the black sub's captain's wife.
 * [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
 	* Maybe the deck gun is inside the Gnat, Shakes can mount it if he needs to.
 * General style stuff to address throughout:
+	* [ ] keep an eye out for military terms --- avoid
+		* [ ] like generally, you want to remove the word 'orders'
 	* [ ] consider thinking about making the story non-linear:
 		* that each section could actually come at any point in the story.
 		* It could be read out of order, if you wanted to.
@@ -136,6 +146,10 @@ Last modified: Tue Feb 09, 2021  10:00PM
 		* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
 			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
 	* [ ] Consider pulling back or deleting the metaphors
+	* [ ] Keep in mind that in this world, like the opening set piece, nature is deliberately cruel and evil, tormenting
+		* So at some point, it should be _pulling_ them to the depths
+		* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
+		* The only way they survive in nature's cruelty is through their grimey machine, the submarine
 
 
 ## Story elements specific to this story

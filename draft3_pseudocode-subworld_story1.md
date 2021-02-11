@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Tue Feb 09, 2021  10:24AM
+Last modified: Wed Feb 10, 2021  05:02PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -134,6 +134,7 @@ Last modified: Tue Feb 09, 2021  10:24AM
 	* [X] At some point Hemi, Percy, (and Shakes?) need to have a conversation about why the black sub rammed them.
 		* Ideally, there is some secret/personal reason the sub is after them. Perhaps hinted at but not revealed right here.
 		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
+		* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer beligerance of it.
 	* [X] They come up with batteries completely drained and run on diesel the rest of the way to the depot
 
 * [X] _They use remaining battery to dock (from the underside) with an underwater dock_
@@ -179,6 +180,10 @@ Last modified: Tue Feb 09, 2021  10:24AM
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
 	* Remember: the Gnat has to mate with the _Prospect_ from underneath.
 
+* [ ] Shakes tells them about the modifications he made to the Gnat to make it much louder.
+	* that is unique for a submarine
+	* [ ] he tells them he also got a pigeon for communicating with the Gnat
+		* (See pigeon conversation notes in todos)
 
 ### --- (on the surface in a storm; wave porn)
 
@@ -198,7 +203,7 @@ Last modified: Tue Feb 09, 2021  10:24AM
 	* {Don't forget to capture the idea of Cassandra putting her mind out into the water --- some of the sonar-only idea you've had for telling sub stories}
 	* {maybe it's not going to try ramming them again because of the storm? they know it's the same sub because of the unique ram on the bow}
 
-* [ ] _The lookout crewman is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
+* [ ] _Gregory is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
 
 * [ ] _The enemy sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah_
 
@@ -217,6 +222,7 @@ Last modified: Tue Feb 09, 2021  10:24AM
 	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 	* [ ] Watching the battery gauges --- how long can they go before they are forced to the surface?
 
+* [ ] This is where they should implement the Gnat being noisy technique to try to distract their pusuers
 
 ### --- (hiding in the depths, escape under the deep scattering layer)
 
