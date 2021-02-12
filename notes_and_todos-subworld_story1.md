@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Feb 10, 2021  06:57PM
+Last modified: Thu Feb 11, 2021  02:14PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -16,6 +16,7 @@ Last modified: Wed Feb 10, 2021  06:57PM
 	* (People like me eat that ship up --- it lets you visualize where in the boat the people are at any time.)
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
+	* [ ] and also draw anything out of post-production that applies to the whole world
 * [ ] Possible story (though not series) name:
 	* The Salted wound
 	* (referring to the never-healing damage from the ramming at the beginning)
@@ -72,6 +73,9 @@ Last modified: Wed Feb 10, 2021  06:57PM
 ### Editing notes (be sure to hit these in post-production editing):
 :post-prod:
 * [ ] hatch in sail is at top of _control room_ not sail
+* [ ] maybe they refer to the bottomless deep as 'the hole'
+* [ ] cargo bay or cargo hold? (Fix on diagram too)
+	* I think it's a hold on a ship
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
