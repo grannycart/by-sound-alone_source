@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Feb 11, 2021  02:14PM
+Last modified: Fri Feb 12, 2021  04:11PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -50,7 +50,7 @@ Last modified: Thu Feb 11, 2021  02:14PM
 		* an accessible novel is more likely to be something you could sell/build a fanbase
 	* maybe keep the style experiments for reference when you later go back to write filthy scum
 		* and the submarine novel is just accessible and readable, with occasional elements of that style?
-		* a more stylized one is more likely to push you in the macarthur direction, but that can come later.
+		* a more stylized one is more likely to push you in a more award-winning type direction, but that can come later
 	* do both?!
 	* Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights
 	* I'm not sure the sub novel can be all the things you want it to be
@@ -176,6 +176,20 @@ Last modified: Thu Feb 11, 2021  02:14PM
 	* lots of crew doing cocaine or unnamed but clearly doing stimulants
 	* bloodshot eyes, mistakes from tiredness
 	* the captain struggles to get the crew into the rack reasonably often
+* [X] in a desperate underwater chase, they have to run the big sub off the mini sub's batteries, by stringing essentially huge jumper cables through the ship and up into the mated mini sub
+* [X] An authority sub or ship is equipped with a battering ram
+* [ ] A conversation about why salmon cans are shaped with an angle:
+	* Because the can rolls in a circle on the floor!
+	* No, cuz they can stack more cans in the hold of a ship
+* [ ] deep scattering layer move:
+	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish.}
+	* {They pass through the deep scattering layer, and get away from the enemy who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
+	* On Authority sub: "I see nothing but the bottom on the scope" "that's not the bottom, that's the deep scattering layer. they are hiding under it."
+* [ ] Ways they could hide:
+	* lay on the sea floor
+	* under a thermocline
+	* under the deep scattering layer of fish
+* [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below)
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use. 
 * [ ] Deck boss/nerd character figures out to use magnetic mines and some kind of float to put the mines in the path of the chasing authority sub. 
