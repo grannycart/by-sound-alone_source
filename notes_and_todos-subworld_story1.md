@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Feb 12, 2021  04:11PM
+Last modified: Sat Feb 13, 2021  02:44PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -30,14 +30,15 @@ Last modified: Fri Feb 12, 2021  04:11PM
 	* Though that rebel group might be the oppressors in 6 months
 	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-* [ ] Add pigeon communication scene:
-	* "Goddamn it! Get Shakes on the...pigeon." "His name is Guillaume" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
-	* later "ok, get the pigeon" "guiaullme" "guiaullme, and tell Shakes...."
+* [X] Add pigeon communication scene
 * [X] add something explaining that the Prospect has no torpedo tubes:
 	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
 	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
-* For story description: "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+* For story description: 
+	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+	* "Commerce always finds a way."
+	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
 
 ### style
 :style:
@@ -72,11 +73,14 @@ Last modified: Fri Feb 12, 2021  04:11PM
 
 ### Editing notes (be sure to hit these in post-production editing):
 :post-prod:
+* [ ] move section headers to .md comments; create chapter breaks
 * [ ] hatch in sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
 	* I think it's a hold on a ship
+* [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
+* [ ] refer to bastian, gregory, and Owen as the 'deck crew'
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
@@ -88,7 +92,9 @@ Last modified: Fri Feb 12, 2021  04:11PM
 	* The idea is that someone who didn't know better might mistake him for the captain
 	* or viking braids?
 * [ ] Change Owen to Owens?
+	* Leaning away from making this change
 * [ ] 'crew quarters' not 'crew's quarters' (just because I like it better, not because I looked it up_
+* [ ] make sure you are consistent about crew quarters being on the middle deck (see diagram)
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 * [ ] 'navigation station'? 'navigation table'?
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
@@ -114,7 +120,7 @@ Last modified: Fri Feb 12, 2021  04:11PM
 	* Or cocaine? 
 	* coca leaves? (He did come from a coffee farm)
 * [ ] Would they waste electricity on cooking if they were very low on power?
-* [ ] make sure welding doesn't refer to 'tanks'
+* [ ] make sure welding refers to 'rigs' not 'tanks'
 	* arc welding is used for underwater welding
 	* which means that like the stove, they have to be careful about fuel/power consumption
 	* the welding rig needs to run a generator or from boat power, I think
@@ -122,27 +128,25 @@ Last modified: Fri Feb 12, 2021  04:11PM
 * [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 * [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
-* [ ] find to remove 'inches' and 'feet' references
+* [ ] find and remove 'inches' and 'feet' references
 * [ ] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
 * [ ] Have Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the black sub's captain's wife.
 * [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
 	* Maybe the deck gun is inside the Gnat, Shakes can mount it if he needs to.
+	* make sure these are picked up in the diagram, where appropriate
 * General style stuff to address throughout:
 	* [ ] keep an eye out for military terms --- avoid
 		* [ ] like generally, you want to remove the word 'orders'
-	* [ ] consider thinking about making the story non-linear:
-		* that each section could actually come at any point in the story.
-		* It could be read out of order, if you wanted to.
-		* Or maybe this is a guiding principle for the second heart-of-darkness story
 	* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
-	* [ ] It isn't capturing the grittiness enough, build that up
 	* [ ] watch the pacing, it's a little off in places:
 		* [ ] it should be a slow build up to a big singular event like the ballast blow
 		* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
 		* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
 			* don't just montage over them, it makes it feel like things are moving too fast.
+	* [ ] make sure the _fear_ is in there, particularly in the build up to big inflection points
+	* [ ] It isn't capturing the grittiness enough, build that up
 	* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
 		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
 		* And a lot more cursing might actually be a simple way to make it grittier.
@@ -170,6 +174,9 @@ Last modified: Fri Feb 12, 2021  04:11PM
 * bottomed on a seamount
 	* A 'guyot' or tablemount
 	* https://en.wikipedia.org/wiki/Guyot
+* [ ] consider using 'nautical' to mean awesome 
+	* (dark-awesome, like original meaning maybe)
+* [ ] consider using 'nominal' to mean anything you want it to.
 * [X] They visit depots that have staging areas above ground on the coast, and underwater sub connections for loading and unloading goods.
 * [X] they do deadliest catch style shifts of more than 24 hours with everyone exhausted (mine from that 33 minute episode of battlestar gallactica)
 	* no sleep

@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Feb 10, 2021  05:02PM
+Last modified: Sat Feb 13, 2021  02:52PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -96,6 +96,8 @@ Last modified: Wed Feb 10, 2021  05:02PM
 	* [X] The repair is a foul mix of steel plates and bracing and globulous welds.
 		* {Chips spends the rest of the story repairing freshly sprung leaks from the patches --- make note of this in a couple of places}
 
+* [X] Chips is furious at a maneuver that Percy made, gets in a fight with her. Percy fires her, confines her to her rack.
+
 
 ### Back on the surface
 
@@ -104,9 +106,9 @@ Last modified: Wed Feb 10, 2021  05:02PM
 	* [X] They ask who controls this part of the surface. "Uh, the Western Federated Socialists I think." Says Hemi. "At least last time I looked at a Territorial Authorities map --- but that was more than a year ago."
 	* [X] Those assholes are bad news. We should get out of here.
 
-* [X] _They get on an encrypted smugglers channel on the radio, and raise a narco sub that's not too far off. Its Shakes._
+* [X] _They get on a smugglers channel on the radio, and raise a narco sub that's not too far off. Its Shakes._
 
-* [o] _Shakes motors up and introduces himself_
+* [X] _Shakes motors up and introduces himself_
 	* [X] His hand is shaking
 	* [X] "We smugglers need to stick together eh?" Percy looked dead at him while she said "We're not smugglers, we're Independent Logistics Operators."
 	* [X] He tells them he's headed for a remote depot on an isolated ocean island a hundred nautical miles or so away
@@ -116,8 +118,12 @@ Last modified: Wed Feb 10, 2021  05:02PM
 	* [X] He runs a comb through engine grese and runs it through his spikey blonde hair
 	* [X] Hemi is not impressed with the state of Shakes' boat. There's a conversation about how Shakes always got away with running _just_ under the surface, all that diving seemed excessively dangerous to him. Make it clear his boat can only dive 30 meters or so.
 
+* [ ] _At Hemi's urging, Percy resolves things with Chips_
+	* Never admitting she was wrong
+	* Leave the tension hanging there
+
 * [o] _they eat a meal_ 
-	* [X] Shakes brought nothing but cold canned foods with him. The Prospect has submarine food: spoiling kim chi, stale rice, 
+	* [X] Shakes brought nothing but cold canned foods with him. The Prospect has submarine food: spoiling kimchi, stale rice, dried fish 
 	* [ ] dessicated citrus.
 	* [X] "If you can heat it, you can eat it."	
 
@@ -125,7 +131,7 @@ Last modified: Wed Feb 10, 2021  05:02PM
 	* [X] Mate the Gnat to the Prospect's underside, run electrical and fuel up into the Prospect, and power the Prospect that way
 	* [X] Requires creating a mating collar for the Gnat
 
-* [X] _They go for the island depot. They have to run very slow to preserve battery. It will take 10 hours or so._
+* [X] _They go for the island depot.  It will take hours._
 	* [X] One goal is to get over the authority border line; mostly just to hint at how the authorities carved up control on the surface_
 	* [X] It's night on the surface, but bright with a big moon, fairly reasonable sized waves that hide the sail of the _Prospect_ a little.
 	* [X] They pick up a faint radar contact, and decide they need to risk submerging to periscope depth and running on what little batteries they have
@@ -133,8 +139,6 @@ Last modified: Wed Feb 10, 2021  05:02PM
 	* [X] They think it might be chasing them, (though their hope is it lost them when they went to periscope) but as they cross the Authority line it disappears, apparently missing them.
 	* [X] At some point Hemi, Percy, (and Shakes?) need to have a conversation about why the black sub rammed them.
 		* Ideally, there is some secret/personal reason the sub is after them. Perhaps hinted at but not revealed right here.
-		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
-		* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer beligerance of it.
 	* [X] They come up with batteries completely drained and run on diesel the rest of the way to the depot
 
 * [X] _They use remaining battery to dock (from the underside) with an underwater dock_
@@ -145,8 +149,8 @@ Last modified: Wed Feb 10, 2021  05:02PM
 ### --- (a depot (for repairs and pick up cargo))
 
 * [ ] _While at the depot, they arrange for repairs to be made, and to get the boat refueled_
-	* [ ] Explain that while this depot is constantly harassed by Authorities, it's also a critical supply line for them, so allowed to continued existing.
-	* {Maybe? Or maybe you have to edit the text so far so the Authorities here aren't SO brutal --- oh wait it's over the Authority line, remember? That's why the Authorities here are so aggressive.}
+	* [ ] Explain that while this depot is constantly harassed by Authorities, it's also a critical supply line for them, so allowed to continued to exist.
+	* {Maybe? Or maybe you have to edit the text so far so the Authorities here aren't SO brutal --- oh wait it's over the Authority line, remember? That's why the Authorities here aren't so aggressive.}
 
 * [ ] _They get an offer for a clandestine cargo --- magnetic mines_
 	* [ ] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
@@ -161,13 +165,11 @@ Last modified: Wed Feb 10, 2021  05:02PM
 * [ ] _Percy buys Shakes dinner at the one crappy diner in the depot to pay him back, and hires him to run interference for them with the mines cargo_
 	* [ ] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
 	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
-	* [ ] Shakes makes modifications to the Gnat for the job, to run louder on diesel (see pigeon notes)
 
 * [ ] _Conversation with Cassandra about hiring her as a sonar operator_
 
 * [ ] _At the Prospect, it's being repaired, refueled, and loaded with the magnetic mine cargo_
-
-* [ ] _Some further description of the layout of the Prospect might go here_
+	* Some further description of the layout of the Prospect might go here
 
 * [ ] _They seal up the boat and embark_
 
@@ -179,11 +181,16 @@ Last modified: Wed Feb 10, 2021  05:02PM
 
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
 	* Remember: the Gnat has to mate with the _Prospect_ from underneath.
+	* [ ] Maybe here is where you come back to the cause for the black sub to be chasing them:
+		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
+		* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer belligerence of it.
 
 * [ ] Shakes tells them about the modifications he made to the Gnat to make it much louder.
-	* that is unique for a submarine
+	* [ ] Shakes makes modifications to the Gnat for the job, to run louder on diesel
+		* that is unique for a submarine
 	* [ ] he tells them he also got a pigeon for communicating with the Gnat
 		* (See pigeon conversation notes in todos)
+	* [ ] Had a deck gun mounted 
 
 ### --- (on the surface in a storm; wave porn)
 
@@ -237,11 +244,19 @@ Last modified: Wed Feb 10, 2021  05:02PM
 * [ ] _They make the run into port on the surface._
 	* {Is this where they come up in a blessed fog?}
 
+* [ ] They contact Shakes via Pigeon:
+	* "Goddamn it! Get Shakes on the...pigeon." "His name is Guillaume" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
+	* later "ok, get the pigeon" "guiaullme" "guiaullme, and tell Shakes...."
+
 
 ### --- (Into an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port)
 
-* [ ] _They arrive at an exotic remove city, with wooden homes built on stilts and junks with fishermen.
-	* [ ] the metal machine tooling through rickety wood structures;_
+* [ ] _They arrive at an exotic remove city, with wooden homes built on stilts and junks with fishermen._
+	* Hints at the economy of the city, the whole thing built on stilts
+		* it's not _ancient_; it's relatively new development, but impoverished
+		* including warehouses and depots
+		* it was easier than draining the swampland that made up most of the territorial area
+	* the giant metal machine tooling through rickety wood structures;
 
 * [ ] _The find their dock and unload._
 
@@ -263,6 +278,7 @@ Last modified: Wed Feb 10, 2021  05:02PM
 ### --- (into the pacific garbage patch; the final battle)
 
 * [ ] _They head out into the deep ocean, in a sea full of garbage_
+	* (Not plastic. there's little/no plastic in this world)
 
 * [ ] _The enemy sub is pursuing_
 
@@ -276,9 +292,11 @@ Last modified: Wed Feb 10, 2021  05:02PM
 ### in the _Gnat_
 
 * [ ] _Hemi starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Shakes as he does._
-	* When Hemi comes aboard, he is impressed by and comments on the Gnat's airplane style controls.
 
-* [ ] _the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they gave off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait._
+* [ ] The Gnat surfaces and runs loud to try and confuse the black sub.
+	* Hemi hits a strut with a spanner when he wants Shakes to dive.
+
+* [ ] _the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they give off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait this time._
 
 * [ ] _Percy will run the _Prospect_ at 100 meters, full-engine like they are trying to get away._
 
@@ -290,7 +308,7 @@ Last modified: Wed Feb 10, 2021  05:02PM
 ### Ending
 
 * {They are all fishing on the deck?}
-	* {Perhaps this is the one time in the novel where the weather on the surface is good? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
+	* {Perhaps this is the one time in the novel where the weather on the surface is good? The one time nature isn't trying to kill them? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
 
 * {Or, possibly we just follow Cassandra (make her the main character) to her next thing}
 
