@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Feb 13, 2021  02:52PM
+Last modified: Sun Feb 14, 2021  12:08PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -165,6 +165,7 @@ Last modified: Sat Feb 13, 2021  02:52PM
 * [ ] _Percy buys Shakes dinner at the one crappy diner in the depot to pay him back, and hires him to run interference for them with the mines cargo_
 	* [ ] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
 	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
+	* [ ] Shakes makes sure to get his manuals back from the _Prospect_
 
 * [ ] _Conversation with Cassandra about hiring her as a sonar operator_
 
@@ -245,8 +246,7 @@ Last modified: Sat Feb 13, 2021  02:52PM
 	* {Is this where they come up in a blessed fog?}
 
 * [ ] They contact Shakes via Pigeon:
-	* "Goddamn it! Get Shakes on the...pigeon." "His name is Guillaume" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
-	* later "ok, get the pigeon" "guiaullme" "guiaullme, and tell Shakes...."
+	* "ok, get the pigeon" "guiaullme" "guiaullme, and tell Shakes...."
 
 
 ### --- (Into an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port)
@@ -283,6 +283,8 @@ Last modified: Sat Feb 13, 2021  02:52PM
 * [ ] _The enemy sub is pursuing_
 
 * [ ] _They come up with a plan. They mate with the Gnat._
+	* Maybe this is where Percy says 'get Shakes on the pigeon'
+	* "Goddamn it! Get Shakes on the...pigeon." "His name is Guillaume" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
 
 * [ ] _as they are loading parts onto the _Gnat_ (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?_
 
@@ -290,6 +292,8 @@ Last modified: Sat Feb 13, 2021  02:52PM
 
 
 ### in the _Gnat_
+
+[//]: # (Somewhere in here: have Hemi comment on the airplane-style controls? Maybe move that to later when Hemi is riding with Shakes and the magnetic mines.)
 
 * [ ] _Hemi starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Shakes as he does._
 

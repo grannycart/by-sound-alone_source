@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Feb 13, 2021  02:44PM
+Last modified: Sun Feb 14, 2021  05:37PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -74,7 +74,7 @@ Last modified: Sat Feb 13, 2021  02:44PM
 ### Editing notes (be sure to hit these in post-production editing):
 :post-prod:
 * [ ] move section headers to .md comments; create chapter breaks
-* [ ] hatch in sail is at top of _control room_ not sail
+* [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
 	* I think it's a hold on a ship
@@ -91,10 +91,10 @@ Last modified: Sat Feb 13, 2021  02:44PM
 * [ ] Give Hemi a beard, like he's captain Nemo. 
 	* The idea is that someone who didn't know better might mistake him for the captain
 	* or viking braids?
-* [ ] Change Owen to Owens?
+* [-] Change Owen to Owens?
 	* Leaning away from making this change
 * [ ] 'crew quarters' not 'crew's quarters' (just because I like it better, not because I looked it up_
-* [ ] make sure you are consistent about crew quarters being on the middle deck (see diagram)
+* [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 * [ ] 'navigation station'? 'navigation table'?
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
@@ -119,6 +119,7 @@ Last modified: Sat Feb 13, 2021  02:44PM
 * [ ] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
 	* Or cocaine? 
 	* coca leaves? (He did come from a coffee farm)
+	* also coca leaves give the suggestion of global commerce exchange
 * [ ] Would they waste electricity on cooking if they were very low on power?
 * [ ] make sure welding refers to 'rigs' not 'tanks'
 	* arc welding is used for underwater welding
@@ -130,13 +131,20 @@ Last modified: Sat Feb 13, 2021  02:44PM
 * [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 * [ ] find and remove 'inches' and 'feet' references
 * [ ] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
-* [ ] Have Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
+* [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the black sub's captain's wife.
+	* though maybe this human relations element is covered by the fight with Chips
 * [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
 	* Maybe the deck gun is inside the Gnat, Shakes can mount it if he needs to.
 	* make sure these are picked up in the diagram, where appropriate
 * General style stuff to address throughout:
+	* [ ] Do you need to do more to pump up the human relations in the story?
+		* Imagine that a resolution with Chips leads to something successfully happening at the end of the story
+		* Or more generally, Percy's has a stubborn insistence throughout the book that she's right, and it leads to some conflict that needs resolution.
+		* On the other hand, I don't like the idea that human actions/emotions are rational, follow a path, or are even knowable; or that conflict can be resolved with a motivating speech or resolution between two characters. Beyond just seeming cliche, life never works like that.
+		* How then to assure the human interest, and at the same time avoid a cliche character conflict arc?
+			* Think about how things play out on Deadliest Catch. Sometimes the motivational speech works... often it doesn't.
 	* [ ] keep an eye out for military terms --- avoid
 		* [ ] like generally, you want to remove the word 'orders'
 	* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
