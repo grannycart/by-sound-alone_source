@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Feb 14, 2021  05:37PM
+Last modified: Mon Feb 15, 2021  05:43PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -17,8 +17,9 @@ Last modified: Sun Feb 14, 2021  05:37PM
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
 	* [ ] and also draw anything out of post-production that applies to the whole world
-* [ ] Possible story (though not series) name:
+* [ ] Possible story (though not series) title:
 	* The Salted wound
+	* Echoes in the Deep / Echos From the Deep
 	* (referring to the never-healing damage from the ramming at the beginning)
 * Making the call: the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
@@ -103,20 +104,24 @@ Last modified: Sun Feb 14, 2021  05:37PM
 	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
 		* and Percy is NOT always right, just most of the time.
-* [ ] Sort out the accent for Chips
+* [X] Sort out the accent for Chips
 	* like feckin instead of fuckin
 	* make it more lady-like: imagine an Irish farmer's wife with a foul tongue.
 	* Maybe it's just something simple and non-specific, using compounds, or dropped h's or something
 	* maybe it's too star treky cliche to have an engineer with an accent?
 	* The name Chips doesn't feel like it's working
-* [ ] Maybe Hemi is the one character who doesn't (normally/ever) curse?
+* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
+	* Chips: curses all the time
+	* Shakes: a lot
+	* Percy: When she's pissed
+	* Hemi: never
 * [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 * [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
 * [ ] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
 * [ ] fix creeping towards the seamount:
 	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
-* [ ] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
+* [X] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
 	* Or cocaine? 
 	* coca leaves? (He did come from a coffee farm)
 	* also coca leaves give the suggestion of global commerce exchange
@@ -128,9 +133,10 @@ Last modified: Sun Feb 14, 2021  05:37PM
 * [ ] Is it a 'mating collar' or a 'docking collar'?
 * [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
-* [ ] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
+* [X] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
+	* No, it would flood at 2 atmospheres (bottom of the boat) see: https://www.quora.com/What-is-the-air-pressure-in-a-submarine
 * [ ] find and remove 'inches' and 'feet' references
-* [ ] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
+* [X] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
 * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the black sub's captain's wife.
