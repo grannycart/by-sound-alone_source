@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sun Feb 14, 2021  04:00PM
+Last modified: Mon Feb 15, 2021  12:24PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -633,7 +633,7 @@ After a few minutes of just enjoying the surface air, Percy got back to the situ
 
 "Sure Capt." Said Bastian.
 
-"Gregory... I'm starving, want to see if you can something going in the galley?"
+"Gregory... I'm starving, want to see if you can get something going in the galley?"
 
 "Sounds good boss."
 
@@ -1006,7 +1006,7 @@ There was a silence. Then a small, dirty hand stuck out from behind the curtain.
 
 "Is that your name or how you reproduce?" Asked Chips.
 
-"Didn't Hemi say they call you 'Chips'?"
+"Didn't they call you 'Chips'?"
 
 "Look," Hemi interrupted, "we found Shakes here on the surface. He's got a boat --- a small boat. I want to weld a mating collar onto the sail of his boat. It has to fit to the _Prospect's_ bottom mating collar. I want to attach his boat to the underside, and run with it like that and this is another project we can't do without you. Think you could rig something like that up?"
 
@@ -1029,7 +1029,7 @@ There was a silence. Then a small, dirty hand stuck out from behind the curtain.
 
 Hemi found Percy sitting at the sonar station with the headset on, listening. When she saw Hemi, she pulled one earpiece off. "That go OK?"
 
-"Yeah, Shakes says he is going to do the weld, Chips wants to keep working on the patch."
+"Yeah, Shakes says he is going to do the welding on the _Gnat_, Chips wants to keep working on the _Prospect's_ patch."
 
 "Thank god she came to her senses."
 
@@ -1037,13 +1037,13 @@ Hemi found Percy sitting at the sonar station with the headset on, listening. Wh
 
 Percy ignored that. "What's next?"
 
-"I just wanted to look at the chart and run my numbers again."
+"I wanted to look at the chart and run my numbers again."
 
 "Alright. We should put someone on radar, I don't want any Authority craft sneaking up on us."
 
 "Put Gregory or Bastian on it." 
 
-"Yea. Alright, I'll get Bastian in here. Better than nobody."
+"Yeah. Alright, I'll get Bastian in here. Better than nobody."
 
 "Send Gregory out to help Owen and Shakes. That's going to be a bit of a tricky operation."
 
@@ -1052,24 +1052,24 @@ Percy ignored that. "What's next?"
 
 ### Back on deck, with the cargo hold hatch open, lifting the welding rig and welding the Gnat mating collar
 
-On the deck of the _Prospect_ Owen had the huge cargo hatch open. It was the only way to get a heavy welding rig out of the boat. He had assembled a tripod gantry over the open hole down into the cargo hold, from which was hanging a heavy block with a chain running through it. Gregory was down in the cargo hold hooking the end of the chain to a welding rig. When it was secure Gregory gave Owen the thumbs up.
+On the deck of the _Prospect_ Owen had lifted the big cargo hatch, which opened a gaping hole down into the big space of the cargo hold. It was the only way to get a heavy welding rig out of the boat. He had assembled a tripod gantry over the hole, from which was hanging a heavy block with a chain running through it. Gregory was down in the cargo hold hooking the end of the chain to a welding rig. When he had it secured Gregory gave Owen the thumbs up.
 
-"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up look around: we still need the material for the mating collar, the gangway so I can wheel this fucking thing across to the _Gnat_, heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_ with the chop washing over it. "Uh, better get those rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be fucking easy." He said to himself through the cigarette handing from his lips.
+"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up look around: we still need the material for the mating collar, the gangway so I can wheel this fucking thing across to the _Gnat_, heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_ with the chop washing over it. "Uh, better get those rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be fucking easy." He said to himself through the cigarette hanging from his lips.
 
-When he got the welding rig suspended over the deck, he gave it a little kick, and when it swung back he let the chain out and grabbed the rig as it touched the deck and tilted back toward the hole. This was really a two-person job, a mistake would mean a 10 meter drop into the cargo hold. But what was he going to do? Chips and Shakes were over on the deck of the _Gnat_ drawing lines on the top of the sail with a grease pencil.
+When he got the welding rig suspended over the deck, he gave it a little kick, and when it swung back he let the chain out and grabbed the rig as it touched the deck and tilted back toward the hole. This was really a two-person job, a mistake would mean a 10 meter drop into the cargo hold. Chips and Shakes were over on the deck of the _Gnat_ drawing lines on the top of the sail with a grease pencil. Transport subs were perpetually under-crewed leaving a lot of work to be done by individuals that would be a lot safer with a few more people helping out.
 
-Owen wheeled the weldling rig out of the way and laid it down on the deck of the _Prospect_ so it wouldn't tilt off into the ocean. By the time he got back over the big open hatch, Gregory was back underneath with the gangway, and lashed to the railings of it the various other things Owen had asked for. Owen dropped the end of the chain down to him, and Gregory secured it to one end of the gangway. "Hold on, I'll come up and help you haul it up." And he disappeared.
+Owen wheeled the weldling rig out of the way and aligned its wheels with the deck of the _Prospect_ so it wouldn't tilt off into the ocean. By the time he got back over the big open cargo hatch, Gregory was back underneath with the gangway. Lashed to the railings of the gangway were the various other things Owen had asked for. Owen dropped the end of the chain down to him, and Gregory clipped it to one end of the gangway. "Hold on, I'll come up and help you haul it up." And he disappeared.
 
-With Gregory on deck they pulled the gangway up vertically to the deck, pulled it out onto the deck and got it lashed into place connecting the deck of the _Prospect_ to the wet deck of the _Gnat_.
+With Gregory helping to pull the chain through the block, they hauled the gangway vertically up to the mouth of the cargo hatch, out onto the deck, and got it lashed into place connecting the higher deck of the _Prospect_ to the low, wet deck of the _Gnat_.
 
 
 ### They plan the mating collar
 
-Chips waved Owen over. "Thankyee for tha', be a lot'n easier gettin back to the _Prospec'_ now I 'spect." She grinned her rarely-seen wide-mouthed grin at Owen. "Alright, look 'ere, this is the plan Shakes and I get worked out, and ye should be glad Shakes is doin' it. Going to be a feckin' nightm're if'n it works, and a feckin squirtin' trip to the head if it don't." She pointed to the top of the sail. "We feckin' lecked out though, Shakes 'ere made the sail fat enough that we can make the feckin' welds flat. Ye just need a piece of steel cylinder cut even, then weld it around the 'atch openin', and then weld t'e spare male feckin' docking clamps we got ont'e t'e sides of t'e cylinder."
+Chips waved Owen over. "Thanks for fuckin' doing that gangway. It'll be a lot easier gettin' back to the _Prospect_." She grinned her rarely-seen wide-mouthed grin at Owen. "Alright, look here, this is the plan Shakes and I get worked out, and ya should be glad Shakes is doing it. It's going to be a fuckin' nightmare if it works, and like a fuckin' wet, squirtin', languish in the head if it don't." She pointed to the top of the sail. "We fuckin' lucked out though, Shakes here made the sail fat enough that we can make the welds fuckin' flat. Ya just need a piece of steel cylinder cut even, then weld it around the hatch opening, and then weld the spare male docking clamps we got onto the sides of the fuckin' cylinder."
 
-"How're you going to activate the docking clamps? They're electro-magnetic."
+"How're you going to activate the docking clamps?" Asked Owen. "They're electro-magnetic, right?."
 
-"Yeah," said Shakes, "we'll need to drill some through-hull fittings. That sucks, but it shouldn't be too hard to make them water-tight to 30 meters, which is what I usually call the depth limit of the _Gnat_."
+"Yeah," said Shakes, "we'll need to drill some through-hull fittings. That sucks, but it shouldn't be too hard to make them water-tight to 30 meters, which is what I usually call the depth limit of the _Gnat_. And if the do happen to leak... well, they'll be pretty small leaks. A boat that doesn't leak isn't a boat, it's like, an airplane, or something."
 
 "Since we're going to be dragging the _Gnat_ along by the mating collar," said Owen, "Seems like ya should also weld some supports on the outside of the collar, down the sail, and directly to the structural elements of the hull. It'll be ugly as fuck, but less likely to leave the _Gnat_ ripped away from the collar." 
 
@@ -1079,140 +1079,147 @@ Chips waved Owen over. "Thankyee for tha', be a lot'n easier gettin back to the 
 
 "Hey, offer all the advice you want, but I'm the one who puts the torch to my boat, ya?"
 
-"Good by feckin' me. I'll leave ya stupid feckers too it. I got me own weldin' to do." Said Chips and headed back up the gangway to the _Prospect_.
+"Good by fuckin' me. I'll leave ya stupid fuckers too it. I got me own welding to do." Said Chips, giving them a casual salute and heading up the gangway to the _Prospect_.
 
-"We'll need some other pieces to make this work, I'll get Gregory digging them up." Said Owen.
+"We'll need some other pieces of steel to make this work, I'll get Gregory digging them up." Said Owen.
 
 
 ### They weld the mating collar
 
-This was going to be an extremely tough job. Not as tough as welding the pressure hull back together under water, Owen reminded himself, but nobody would do this job if they didn't have to. Owen had wheeled the welding rig across the gangway, and that  had only been modestly harrowing. Lashing it to the sloshing hull of the _Gnat_ had been somewhat more so. Owen set Shakes up with everything he needed, like a nurse handing a surgeon tools.
+This was going to be an extremely tough job. Not as tough as welding the pressure hull back together under water --- Owen reminded himself --- but nobody would do this job if they didn't have to. Owen had wheeled the welding rig across the gangway, and that  had only been modestly harrowing. Lashing it to the sloshing hull of the _Gnat_ had been somewhat more so. Owen set Shakes up with everything he needed, like a nurse handing a surgeon the tools for opening a consumptive ribcage.
 
 The ocean chop wasn't horrendous, but it was enough that the _Gnat_ rolled back and forth under them. Owen had locked huge clamps in place that held the work material to the sail. The water washing over the deck would sometimes smack up against the sail and shoot up right where Shakes would be welding.
 
-Shakes stood astride his boat at precisely sea-level in the same way one might stand on a mountain top. He lit a cigarette, and put it to his lips. He put the mask on his head, and slipped the heavy welding gloves on his hands. He picked up the torch, and standing straight up, opened his arms wide and closed his eyes. He took long slow breathes, gapping his lips next to his cigarette. He cleared his mind, focussed on his breathing. He felt the swell and rhythm of the ocean, marked out by the adjustable wrenches tapping against his leg. He called the gods of steady hands and perfect welds to him.
+Shakes stood astride his boat at precisely sea-level in the same way one might stand on a mountain top. He took a pinch of dried leaves from the pouch in his jack pocket and stuck them between his teeth. He lit a cigarette, and put it to his lips. He put the mask on his head, and slipped the heavy welding gloves onto his hands. He picked up the torch, and standing straight up, opened his arms wide and closed his eyes. He took long slow breathes, gapping his lips next to his cigarette, and his breaths rattling a little with the spittle coming up to enzymatically dismantle the dried leaves. He cleared his mind, focussed on his breathing. He felt the swell and rhythm of the ocean, the time of it marked out by the clink of the adjustable wrenches hanging from his belt. He called the gods of steady hands and perfect welds to him.
 
-He opened his eyes, lit the torch off his cigarette, leaned over and flipped the welding mask down, and proceeded to lay down the foulest globbing booger weld Owen had ever seen.
+He opened his eyes, spit the remaining half of cigarette off into the ocean, leaned over, and flipped the welding mask down. 
+
+He proceeded to lay down the foulest globbing booger weld Owen had ever seen. Smoking mass of material built up on top of smoking mass, curled over, and gooped around in carbon-coated black curves. Shakes gripped the welding stick fiercely, the muscles of his forearms tensed up. The tip wavered back and forth across the line the weld was supposed to follow that it looked like he might be trying to sign the work rather than repair it.
 
 "Jesus fucking Christ." Said Owen quietly.
 
-Shakes welded, went back over his work, welded more. It grew uglier and uglier, globs upon globs of congealed molten metal. The wash soaked them in cold water. Shakes had to constantly stop welding so Owen could move the clamps. Since the seam needed to be watertight, Owen wanted to keep it press-fit in place with the clamps the whole time. Owen knew that that starting and stopping like that was bad for a welder who wanted to make a clean, strong weld. But since Shake's welds were about the worst he'd ever seen, that seemed like the least of his problems. The hot welds steamed when the water ran over them, which Owen was pretty sure would not contribute the strength of the weld.
+Shakes welded, went back over his work, and welded more. It grew uglier and uglier, globs upon globs of congealed molten metal. The wash continually soaked the two men in cold water. Shakes had to constantly stop welding so Owen could move the clamps. Since the seam needed to be watertight, Owen wanted to keep it press-fit in place with the clamps at all times. Owen knew that that starting and stopping like that was bad for a welder who wanted to make a clean, strong weld. But since Shake's welds were about the worst he'd ever seen, that seemed like the least of his problems. The hot welds steamed when the water ran over them, which Owen was pretty sure would not contribute the strength of the weld.
 
 "You... built this boat?" Owen asked Shakes, when he raised his head up for a break. 
 
 "Ay ya. On a mountain top."
 
-"And... no leaks or anything?"
+"And... it doesn't leak... too much?"
 
-"Ah well, ye know there's always gonna be 'nother leak. I just patch em and keep movin'."
+"Ah well, ye know there's always gonna be 'nother leak. I just patch em and keep fuckin' movin'."
 
 "Lot of patches?"
 
-"Sometimes it seems like it's more patch than original boat. But then, since the boat was built from scraps, it has always been a quilty kinda thing."
+"Sometimes it seems like it's more patch than original boat. But then, since the boat was built from scraps, it has always been a fuckin' quilty kinda thing."
 
-By the time they finished welding the support struts down the side of the hull, it looked like a bipedal birthday cake, frosted by a toddler using a mixture of coke and pitch. 
+By the time they finished welding the support struts down the side of the hull, the new mating collar looked like a bipedal birthday cake, frosted by a toddler using a mixture of coke and pitch. 
 
 "You think that'll hold?" Owen asked looking at the mess doubtfully.
 
-"Ah hell's ya. Look at how much material we welded into that thing! See an engineer can build things to an exact fuckin' spec and if they're good it will perform in all the situations they expect it to. The thing is, that don't mean it will perform in situations the engineer _don't_ expect. That's why I always _overbuild_ things. So I'll be ready for what I doesn't expect."
+"Ah hell's ya. Look at how much material we welded into that thing! See, an engineer can build a thing to an exact fuckin' spec and if they're a good enginer that thing will perform they way they expect it to, in all the situations they expect it to. The thing is, that don't mean it will perform in situations the engineer _don't_ expect. That's why I always _overbuild_ things, far beyond any spec --- so I'll be ready for what I doesn't expect."
 
-Owen wheedled his way up and down following the thread of that logic, and eventually decided it made absolute sense. "Well, nothing like holding it underwater and dragging it the fuck along at a few fuckin knots to test your welding work."
+Owen wheedled his way up and down following the thread of that logic, and eventually decided it made absolute sense. "Well, nothing like holding a welding project underwater and dragging it along at a few knots to test the quality of your work."
 
-"Ay that's fer fuckin' sure. Why don't ya go tell Hemi we're ready here."
+"Ay that's fer fuckin' sure. Why don't ya go tell that big Hemi guy we're ready here."
 
 
 ### They lower the boat
 
-Getting all the gear from the welding operation stowed back in the cargo hold took longer than expected. The chop was building a bit, and that made anything aboard the _Gnat_ difficult to do. Once Hemi saw everything lowered back below, and checked the main cargo hatch seal, he went to look for Captain Percy. He found her down in the cargo hold, watching Chips weld yet more scraps of metal patches over the still-leaking wound in the pressure hull, though thankfully the water level was at least down enough that Chips was wading it it instead of swimming in it.
+Getting all the gear from the welding operation stowed back in the cargo hold took longer than expected. The chop was building a bit, and that made anything aboard the _Gnat_ difficult to do. Once Hemi saw all the odds and ends lowered back below, and checked the main cargo hatch seal, he went to the forward end of the cargo hold to check on Chips work.  She was welding yet more scraps of metal patches over the still-leaking wound in the pressure hull. Thankfully the water level was at least down enough that Chips was wading it it instead of swimming in it. 
 
-"Cap, we're ready to fuckin' try this connecting up the _Gnat_ shit."
+Captain Percy came walking down the cargo hold and met up with Hemi standing at water's edge in the forward end. Chips looked up when she arrived and glared at her, but went immediately back to her welding.
 
-"Fuck good." Said Percy, through an exhale of her cigarillo smoke. Her eyes were bloodshot and her entire face drooping and wane from lack of sleep. She had another cup of coffee in her other hand. "Need any else the fuck from me when you try the fucking mating?"
+"We're ready to try this connecting up the _Gnat_ move." Hemi said to Percy when she stood next to him.
 
-"Fuck, I don't think so. But I think it will go easier a lot fucking easier for Shakes if we can put the _Prospect_ in motion, and lower the deck under, just go sail-fuckin-up. The waves will have a lot less affect on the motion of the boat like that." This caused Chips to look up from her work.
+"Good." Said Percy, through an exhale of her cigarillo smoke. Her eyes were bloodshot and her entire face drooping and wane from lack of sleep. She had another cup of coffee in her other hand. "Need any else the from me when you try the mating?"
 
-"Do we have the fuckin' battery life left for that shit?"
+"I don't think so. But I think it will go easier a lot easier for Shakes if we can put the _Prospect_ in motion, and lower the deck under, just run sail-up. At that depth the waves will have a lot less affect on the motion of the boat." Chips looked up from her work again when she heard this.
 
-"Ten minutes at a fuckin creep speed? I think we can just fuckin' manage it. I'm more worried about whether we have enough fuckin' control over the buoyancy to take her down like that."
+"Do we have the battery life left for that?"
 
-"What the fuck d'ya think Chips?
+"Ten minutes at a creep speed maybe? I think we can just manage it. I'm more worried about whether we have enough control over the buoyancy to take her down like that."
 
-"Feck! Sounds lik' some stupid ass rutting shit to me. Why th' fuck risk it?" Asked Chips.
+"But if we can run sail-up, we'll also be also be much harder to spot target as we head for the depot."
 
-"If we can run sail-fuckin-up, we'll be a much harder to spot fuckin' target as we head for the fuckin' depot. Might be a dumb fuckin thing to try, but we'll be better off if it fuckin' works, so we might as well give the shit a try right fuckin' now." Said Hemi.
+"Ah fuck ya both, ya weeping cunts!" Chips interrupted from where she was standing in the water. "Yer determined to sink us! Are ya forgetting the high-pressure system's depleted? I doubt there's enough fuckin' pressure left for a full blow if something goes wrong. Fuck --- there's probably also not enough fuckin' power in the batteries to bring us back to the surface with the fuckin' low-pressure system! We'll be lucky to fuckin be leapin' out the top of the sail as it lowers away under us heading for the bottom!"
 
-"He's Right Chips."
+Captain Percy just stared down into her coffee cup.
 
-"Ah feck ya both, ya weeping cunts. Yer det'rmined to sink us. Ya forgettin' the high pressure system's depleted? I dun't think we got enough left for a full blow if something goes wrong. Feck if there's enough power to bring her back to the surf'ce with the feckin low-pressure system! We'll be lucky t' feckin be leapin' out the top of th' sail as it lowers away unter us."
+"I agree, Chips," Said Hemi, "it's dangerous. But so is running slow with engines blaring full-up on the surface if we manage to get the _Gnat_ attached. We'll be a big fat radar _and_ sonar target. We need the stealth lowering the boat down will give us."
 
-"I agree, Chips, it's fuckin dangerous. But so is running slow with engines blaring full-up on the surface. We're a big fat fuckin' radar _and_ sonar target. We need the stealth and lowering her the fuck down will give us."
+"Ay well, yer both fuckin' suicidal, and murder-fucking-cidal --- since yer trying to drag me down against my will. To lower the boat you gotta open the main ballast valves of course. What the fuck happens if they don't fuckin' close again though, eh? Then we are just letting all the fucking buoyancy out of the boat with no way to put it back."
 
-"Ay well, if yer both feckin' suicidal, and murder-fecking-cidal --- seein' as I dont feckin' go along with this feckin' shits --- this fucking main wound in the pressure hull is leaking slow now, and looks like the feckin ting will 'old fer a bit. And ye know if ye open the main ballast valves, the boat will go down. Ya better hope them feckin valves close again though."
+"There's no reason to think they won't." Said Hemi. 
 
-"There's no reason to think they won't." Said Percy. "and you'll go double-check those fucking things our lives depend on before we try this incredibly fuckin risky operation."
+"And you'll go double-check those fucking things our lives depend on before we try this operation." Said Percy, her eyes grinding away at Chips.
 
-"The feckin' problem," Said Chips, exasperated, "is there's no fecking back-up plan --- no failsafe, no redundantcy. The boat werks perfect like, or we all feckin' die. Submarinin' is jes too feckin dangerous with no backup-system. More than one, 'n fact."
+"The fuckin' problem," Said Chips, furious and exasperated, "is there's no fucking back-up plan --- no failsafe, no redundancy. The boat works perfect like, or we all fuckin' die. Submarinin' is just too fuckin' dangerous with no backup-system."
 
-"Not fuckin disputing that Chips. But sinking is only one risk we face right now. Go check the ballast tank valves. When you're happy with them, tell Hemi, and lets put her deck underwater."
+"We're not disputing that Chips. But sinking is only one risk we face right now." Said Hemi as calm as always. "Go check the ballast tank valves --- make sure you're confident they will work they way they are supposed to. When you're happy with them, let me know, and we'll put the top deck underwater."
 
 
 ### Explaining the mating procedure
 
-Ten minutes later Chips reported to the control room that the main ballast valves were working as expected. Hemi checked over the state of their batteries and other systems, and noted everything on a clipboard. He got on the external PA and called Shakes to the control room.
+Ten minutes later Chips climbed up into the control room and reported to Hemi, through many curses, that the main ballast valves were working as expected. Hemi checked over the state of their batteries and other systems, and noted everything with a pencil on a clipboard. He got on the external PA and called Shakes to the control room.
 
-Two minutes later Shakes' head was at the hatch above Hemi in the sail and he was calling down.
+Two minutes later Shakes' was on the bridge at the top of the _Prospect's_ sail. He looked down at Hemi through the open hatch into the control room and called to him.
 
 "Ya fuckin' ready Hemi?"
 
-"Just fuckin' about. I need you to take the _Gnat_ off a hundred meters or so. We're going to fucking bring the _Prospect_ down to just sail-out, and creep at two knots. We'll hold it steady. Then it's all you: dive the _Gnat_, come up underneath, you should see the mating collar just about under where the sail would be on the bottom --- about one-third of the way forward from the stern. Bring the _Gnat_ up under, fuckin' _gently_ lay your mating collar over ours, and if you fuckheads didn't mess up the location of the docking clamps too much, you should be able to lock into the hull of the _Prospect_... like a fuckin male angler fish."
+"Just about. I need you to take the _Gnat_ off a hundred meters or so. We're going to bring the _Prospect_ down to just sail-out, and creep at two knots. We'll hold it steady. Then it's all you: dive the _Gnat_, come up underneath, you should see the mating collar just about under where the sail would be on the bottom --- about one-third of the way forward from the stern. Bring the _Gnat_ up under, and _gently_ pop your mating collar into ours, and if you boys didn't miss on the location of the docking clamps by too much, you should be able to lock into the hull of the _Prospect_... like a male angler fish."
 
 Shakes gave him the finger.
 
-"When you are clamped on, bang on your hatch with one of those wrenches of yours. I'll have Gregory down there waiting to hear from you. Don't fucking open the hatch til Gregory bangs back, ok? Even in its current condition, the _Prospect_ will do better if your fuckin welds leak than the _Gnat_ will. Keep in touch over the ship-to-ship."
+"When you are clamped on, bang on your hatch with one of those wrenches of yours. I'll have Gregory down there waiting to hear from you. Do _not_ open the hatch til Gregory bangs back, ok? Even in its current condition, the _Prospect_ will do better if your welds leak than the _Gnat_ will. Keep in touch over the ship-to-ship."
 
-Shake pounded his acknowledgement on the side of the sail, and his head disappeared from the hatch opening. It was still so quiet aboard the _Prospect_ with no engines and so few systems running that they could hear the _Gnat's_ Diesels fire up, and inarticulate shouts from Shakes to Gregory on the deck as Shakes cast off the lines and Gregory retrieved them and the bumpers.
+Shakes pounded his acknowledgement on the side of the sail, and his head disappeared from the bridge. It was still so quiet aboard the _Prospect_ with no engines and so few systems running that they could hear the _Gnat's_ Diesels fire up, and inarticulate shouts from Shakes to Gregory on the deck as Shakes cast off the lines and Gregory retrieved them and pulled up the bumpers.
 
-"Hey-ut!" Shakes voice came crackling over the ship-to-ship. "I'm fired up, buttoned up, and off, motoring out."
+"Hey-ut!" Shakes voice came crackling over the ship-to-ship. "I'm fired up, buttoned up, and off motoring. Out."
 
-Hemi pulled down the ship-to-ship mic. "Fuckin' got ya Shakes. Remember, _gentle_ is the word."
+Hemi pulled down the ship-to-ship mic. "Got ya Shakes. Remember, _gentle_ is the word."
 
-"I'm allllways fuckin gentle."
+"I'm allllways fuckin' gentle."
 
-"We're going to take the _Prospect_ down to sail-out depth now. Hold tight til I give ya the fuckin' go."
+"We're going to take the _Prospect_ down to sail-out depth now. Hold tight til I give you the go."
 
 
 ### they dive to sail-out depth
 
-Hemi got on the boat PA, and flipped the switch for both internal and external speakers. "Gregory, lock down all the external fuckin' hatches as you come back inside. Owen and Bastian, come up to the fuckin' control room, we're going to dive the boat to sail-out depth."
+Hemi got on the boat PA, and flipped the switch for both internal and external speakers. "Gregory, lock down all the external hatches as you come back inside. Owen and Bastian, come up to the control room, we're going to dive the boat to sail-out depth."
 
-Moments later the entire crew converged on the control room. Gregory was climbing down from the sail, sealing the hatch above his head, Bastian and Owen were climbing up the ladder into the control room, and Chips joined Captain Percy at the navigation table just under the control room.
+Moments later the entire crew converged on the control room. Gregory was climbing down from the sail, sealing the hatch above his head, Bastian and Owen were climbing up the ladder into the control room, and Chips arrived in the navigation and sonar compartment just under the control room with Captain Percy.
 
-Captain Percy looked at Chips questioningly. "If'n we go down, I want to be here to say I told ye feckin' so." Said Chips.
+Captain Percy looked at Chips with the obvious unspoken question: why the fuck are you here? "If we fuckin' go down, I want to be here to say I told you fuckin' so." Said Chips.
 
-"Chips, those are the 'bon voyage' words of every trip to hell." Replied Percy. "If you're gonna be up here, sit at radar and let us know if we're going to have a surprise fucking audience for this fucking operation." Captain Percy waited for Gregory to climb down from the control room, on his way to the bottom hatch on the lowest deck with his instructions from Hemi before she climbed up into the control room which was cramped up again with its full compliment of four people.
+"Chips, those are the 'bon voyage' words of every trip to hell." Replied Percy. "If you're gonna be up here, sit at radar and let us know if we're going to have a surprise audience for this fucking operation." 
 
-"OK, Bastian. Give us a 2 knot creep. We want just enough to keep us steady against the motion of the water." Bastian nudged the throttle forward, and they heard the soft hum of the electric motor as it put the propeller under torque. 
-Hemi pulled at the ship-to-ship mic. "Shakes, we're going to try this shallow dive. If you see the sail disappear, this boat is never coming back up."
+Captain Percy waited for Gregory to climb down from the control room  --- on his way to the bottom hatch on the lowest deck of the boat with his instructions from Hemi --- before she climbed up into the control room which was now cramped up again with its full compliment of four people.
+
+"OK, Bastian. Give us a 2 knot creep. We want just enough to keep us steady against the motion of the water." Said Hemi. 
+
+Bastian nudged the throttle forward, and they heard the soft hum of the electric motor as it put the propeller under torque. 
+
+Hemi pulled at the ship-to-ship mic. "Shakes, we're going to try this shallow dive now. If you see the sail disappear, this boat is never coming back up."
 
 "Fucking Right." Shakes voice crackled. "I won't wait around for another meal then."
 
-Hemi hung the mic back up. "OK, you know what they say: always do the stupidest fucking things on the stupidest little about of sleep. Owen, open the main ballast valves."
+Hemi hung the mic back up. "OK, you know what they say: always do the stupidest things on the little about of sleep. Owen, open the main ballast valves."
 
-Owen swiveled to the tank control panel, and turned the small wheels that opened the valves.
+Owen swiveled his chair to face the tank control panel, and turned the small wheels that opened the valves. A burst of air escaped up through the main ballast valves ahead of the sail as sea water pushed up into the ballast tanks from below and displaced the air out through the valves.
 
-"Just a fucking cunt hair of down angle on the dive plane." Said Hemi.
+"Just a nominal hair of down angle on the dive plane." Said Hemi.
 
-Owen was ready for this, his other hand still on the bigger wheel that controlled the dive planes. He inched it around it's circumference.
+Owen was ready for this, his other hand still on the bigger wheel that controlled the dive planes. He inched it a small way around its circumference.
 
-"As soon as you feel the angle on the boat Owen, level it back out again." By the time Hemi had said this, the _Prospect_ already had a slight angle down on the bow. A burst of air escaped up through the main ballast valves ahead of the sail as sea water pushed up into the ballast tanks from below and displaced the air out through the valves.
+"As soon as you feel the angle on the boat Owen, level it back out again." By the time Hemi had said this, the _Prospect_ already had a slight angle down on the bow. 
 
-From the radar station below they could hear Chips muttering. "No feckin' redundant system..."
+From the radar station below they could hear Chips muttering. "No fuckin' redundant system, nothing at fucking all..."
 
-Owen already had the dive planes leveled out again and the slight angle came off the _Prospect's_ deck. Own and Hemi were watching the depth gauge closely as it slowly lifted up off it's pin. When it was firmly pointing at one meter of depth, Hemi reached over and closed the main ballast tank valves himself.
+Owen already had the dive planes leveled out again and the slight angle came off the _Prospect's_ deck. Owen and Hemi were watching the depth gauge closely as it slowly lifted up off it's pin. When it was firmly pointing at one meter of depth, Hemi reached over and closed the main ballast tank valves himself. They all listened for the sound of the hissing, escaping air to stop. No one was breathing as the sound went on longer than it seemed like it should. But it wavered, slowed and stopped as the valves closed.
 
-"Give it another minute... let's make sure everything is where it should be..." Said Hemi. But the boat held at a depth of one meter, the deck fully submerged, but most of the sail still sticking above the surface. Captain Percy reached up to pat Hemi's huge shoulder. In some ways it seemed like such a small thing, a basic maneuver they had done a thousand times before. But Chips was right, what was usually so routine was, in this case, incredibly risky. She felt a tremendous release of tension that she didn't know she had when the main ballast valves closed, everything working the way it was supposed to to.
+"Give it another minute... let's make sure everything is where it should be..." Said Hemi. But the boat held at a depth of one meter, the deck fully submerged, but most of the sail still sticking above the surface. Captain Percy reached up to pat Hemi's huge shoulder. In some ways it seemed like such a small thing, a basic maneuver they had done a thousand times before. But Hemi, at least, knew Chips was right, what was usually so routine was, in this case, incredibly risky. He felt a tremendous release of tension that He didn't quite know he had when the main ballast valves closed. Everything had worked the way it was supposed to to.
 
-"Good." Said Percy, satisfied. "We didn't sink her by flooding the main ballast, let's see if we can do it by opening a hole in the bottom onto a rusted bucket of a home-made boat."
+"Good." Said Percy, satisfied. "We didn't sink her by flooding the main ballast. Now let's see if we can do it by opening a hole in the bottom onto a rusted bucket of a home-made boat."
 
 
 ### Mating the gnat to the prospect
