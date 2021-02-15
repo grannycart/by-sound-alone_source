@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Feb 14, 2021  12:08PM
+Last modified: Mon Feb 15, 2021  06:58PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -118,7 +118,7 @@ Last modified: Sun Feb 14, 2021  12:08PM
 	* [X] He runs a comb through engine grese and runs it through his spikey blonde hair
 	* [X] Hemi is not impressed with the state of Shakes' boat. There's a conversation about how Shakes always got away with running _just_ under the surface, all that diving seemed excessively dangerous to him. Make it clear his boat can only dive 30 meters or so.
 
-* [ ] _At Hemi's urging, Percy resolves things with Chips_
+* [X] _At Hemi's urging, Percy resolves things with Chips_
 	* Never admitting she was wrong
 	* Leave the tension hanging there
 
@@ -156,6 +156,8 @@ Last modified: Sun Feb 14, 2021  12:08PM
 	* [ ] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
 	* {skip the bits establishing the authority methods -- that should have happened earlier}
 	* {skip the trader flirting with Percy}
+
+* [ ] Percy has to have a conversation with Chips where she gets re-hired for the next run.
 
 * [ ] _Chips overseas the work on some poorly done and over-priced repairs, saying she was doing a better job when she was under water._
 	* Don't forget that while they were at the surface, the leak probably only seeped a bit, but with some pressure on at the underwater dock, it's more steadily pouring in.
