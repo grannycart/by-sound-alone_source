@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Thu Jan 28, 2021  10:33PM
+Last modified: Wed Feb 17, 2021  06:01PM
 
 
 
@@ -31,102 +31,103 @@ Last modified: Thu Jan 28, 2021  10:33PM
 ### opening dialog with trader in remote clandestine sub depot
 
 * {establish the use and possibilities of the magnetic warhead cargo}
-* [ ] So they are magnetic mines? percy asks
+* [X] So they are magnetic mines? percy asks
 	> "So they're magnetic mines?" Captain Percy asked, running a finger down the oil-stained page attached to a metal clipboard with chipping black paint.
-* [ ] Magnetic _warheads_ the depot trader explains, can be used on any weapon. describe why there's so much call for them, and how effective they are.
+* [X] Magnetic _warheads_ the depot trader explains, can be used on any weapon. describe why there's so much call for them, and how effective they are.
 	> "Magnetic warheads, to be precise. The units are agnostic about what weapon they are installed in. Doesn't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks, grinding their way back and forth across, and under, the surface of the sea, leaving their sillage {maybe don't use this word} of oil and carbon and noise trailing behind them. And all of them are made of heavy, thick steel. There's more than enough call for these weapons. Just deliver them to within a meter or two of the sides of any of the beasts and _chunk_, _bam_, down goes your target."
-* [ ] Percy is annoyed by how verbose this guy is.
+* [-] Percy is annoyed by how verbose this guy is.
 	> The verbosity on this guy disturbed Percy.
 
 * {establish the reason to use smugglers; hint at role of authorities}
-* [ ] So why us? percy asks
+* [X] So why us? percy asks
 	> "So why us? Why not just ship them with conventional transport, stamped and sealed by whichever Authority you are shipping them under? Or...  should I not ask?"
-* [ ] Explain how shipping under authority seal doesn't mean hassle-free shipping for things that another authority might have an issue with, like weapon parts. Using gray-area shipping (smugglers) is the most reliable way to ship.
+* [X] Explain how shipping under authority seal doesn't mean hassle-free shipping for things that another authority might have an issue with, like weapon parts. Using gray-area shipping (smugglers) is the most reliable way to ship.
 	> "Ah, yes. Well, as I mentioned, there is quite a demand for these...  tools. Many entities could put them to use, and many other entities would sooner they didn't. Shipping under one Authority would only attract the ire of some other Authority. Conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to, shall we say, interference from another protagonist. The most reliable way is to use a specialty shipping services unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
 	> "Certainly if we were any less reliable, I wouldn't be standing here talking to you right now.
 
 * {depot trader flirts with Percy}
-* [ ] {the depot guy floats some kind of flirty line at her, and she rejects him smartly: 'married to my boat'}
+* [X] {the depot guy floats some kind of flirty line at her, and she rejects him smartly: 'married to my boat'}
 	{consider not revealing Percy is female till later.}
 	> "Ah hmm. Reliable for sure. And might I say quite handsome as well. Perhaps you would like to move to the depot canteen and quench your thirst?"
 	> "{Flintock,} If you are suggesting what I think you are suggesting, then I need to remind you of the old cliche about captains that says: I'm married to my boat. You can't compete with her."
 
 * {wrap up negotiation for cargo haul}
-* [ ] Trader wants to confirm Percy accepts the job
+* [-] Trader wants to confirm Percy accepts the job
 	> "Well. Regardless, are you at least willing to take this delicate cargo off my worn and tired hands?"
-* [ ] Percy wants to see if she can get assurance about non-interference from Authorities {this is just due-diligence negotiating --- she wants to make her job as safe as possible}
+* [X] Percy wants to see if she can get assurance about non-interference from Authorities {this is just due-diligence negotiating --- she wants to make her job as safe as possible}
 	> "Can you promise me there won't be trouble with any of the Authorities if I take this job?
-* [ ] Trader says safety is not a guarantee, but offers good pay to offset the risk
+* [X] Trader says safety is not a guarantee, but offers good pay to offset the risk
 	> "You know an honest trader cannot make a promise like that these days. However, out of a surfeit of respect for your, ah, reliability, I am willing to offer 20 percent above the standard hull-load fee. Provided the cargo arrives at the destination."
-* [ ] They negotiate the details; the trader offers a good sum
+* [-] They negotiate the details; the trader offers a good sum
 	> "How much up front?"
 	> "Also recognizing the delicate nature of this cargo, I'll generously offer to pay you the full standard hull-load fee now, and the 20 percent additional on arrival. How does that sound?"
-* [ ] Percy accepts it, thinking for the amount he's offering he must really want to move it.
+* [-] Percy accepts it, thinking for the amount he's offering he must really want to move it.
 	> Generous indeed, Percy thought. This guy must really want this cargo out of his depot.
 	> "...Alright. We'll move the stuff."
-* [ ] Depot trader settles details about when to send his cargo loaders down to Percy's sub.
+* [X] Depot trader settles details about when to send his cargo loaders down to Percy's sub.
 	> "Excellent, can we being loading immediately?"
 	> "Sure. If you send your loaders down to the dock you should find someone in the boat who will tell you where to stash the cargo.  I'll radio ahead that I OK'd it."
 	> "I expect my loaders will be there within the hour."
 
 * {Percy questions the trader about the possibility of hiring a sonar operator}
-* [ ] {When do you reveal her boat is a sub? sonar is going to give it away to most people --- who don't know a ship is likely to have sonar as well}
-* [ ] Percy asks the trader if he knows someone she could hire for sonar
+* [-] {When do you reveal her boat is a sub? sonar is going to give it away to most people --- who don't know a ship is likely to have sonar as well}
+* [X] Percy asks the trader if he knows someone she could hire for sonar
 	{This could also be the bartender slightly further down; or another character in the supply store or something.}
 	> "Hey, I'm short a crew member, someone who can sit sonar watch. Do you know if there's anyone here on the depot that I could hire?"
-* [ ] There's no hireable help available because most hands have been hired by other big boats coming through recently
+* [X] There's no hireable help available because most hands have been hired by other big boats coming through recently
 	> "Eh, a string of big cruisers have been through recently, hired everyone off."
-* [ ] Percy is desperately short on hands though
+* [X] Percy is desperately short on hands though
 	> "Shit. I'm a little desperately short of hands."
 * [ ] The trader, offers an unskilled woman who he had brought on as a prostitute
 	> "Well... if you're willing to take _anyone_, I've got someone you might try."
 	> "Maybe not _anyone_, what have you got?"
 	> "This waif I brought over from the mainland to whore out. But she's too skinny and small. The tastes of most of the folks who come through here are for something a bit... harder. She also..."
 	> "What?"
-* [ ] She's just too skinny and sad to be a good whore
+* [X] She's just too skinny and sad to be a good whore
 	> "She's got just the saddest of faces, and she's too shy. Even I can't bring myself to be comfortable pimping her out. A pimp has got to have a heart you know."
-* [ ] > "Besides none of the clients want her because she's not white enough. You know what the inability to market an off-color whore tells me Percy? It tells me there's a bunch of racist fuckers under these waters, that's what"
-* [ ] Can she do sonar work?
+* [X] > "Besides none of the clients want her because she's not white enough. You know what the inability to market an off-color whore tells me Percy? It tells me there's a bunch of racist fuckers under these waters, that's what"
+* [X] Can she do sonar work?
 	> "You're the great heart of the world, I'm sure, {Flintock}. Does she have good ears?"
-* [ ] She's young and into music, so maybe
+* [X] She's young and into music, so maybe
 	> "How would I know? I stay away from those cursed subs of yours. But she's young and always listening to music on her little radio. Maybe that's an indicator her ears are are least not ruined yet?"
-* [ ] Percy isn't in the military, she'll take her if she isn't completely deaf
+* [X] Percy isn't in the military, she'll take her if she isn't completely deaf
 	> "Fuck it. I'm not going to battle, if she's not completely deaf, she can sit sonar watch during the runs."
-* [ ] The trader says he'll have her meet Percy over at the canteen
+* [X] The trader says he'll have her meet Percy over at the canteen
 	> "Good. I need that little shadow out of my life. I'll tell her to meet you over at the canteen."
-* [ ] The trader would want to get something for the service though; need to figure that out.
+* [X] The trader would want to get something for the service though; need to figure that out.
 
 
 ### Interim: depot description, a little time passes before Percy gets back to her boat
 
 * {Percy walks through the main hall of the depot; describe depot: filthy and noisy, akin to the sub building location in red october maybe}
-* [ ] > Captain Percy hummed to herself as she left the depot office and walked through the main hall of the noisy depot, and she realized that her humming was resonating in her skull with the ever-present background hum of the machinery that kept the place functioning.
-* [ ] > Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the steel that formed all the structures of Percy's world.
-* [ ] > She stepped around the oil pools on the concrete floor as she made her way.
-* [ ] > Everywhere was the smell of tobacco smoke, oil, and sharp ozone, mixed with the occasional clink of chains rolling through a block, straining to lift some mass of a metal object. 
-* [ ] > There was also the inevitable and unintelligible shout of panic or correction as some other massive metal object did not do what it was supposed to do.
+* [X] > Captain Percy hummed to herself as she left the depot office and walked through the main hall of the noisy depot, and she realized that her humming was resonating in her skull with the ever-present background hum of the machinery that kept the place functioning.
+* [-] > Above her own tuneless humming and the resonating background hum the noisy work of this busy depot impinged on all efforts at contemplation. Welders in heavy suits of cracked brown leather and steel masks of black crawled over huge black steel tubes, occasionally illuminating the deep shadows with their punctuated and snapping arcs that briefly liquefied the steel that formed all the structures of Percy's world.
+* [X] > She stepped around the oil pools on the concrete floor as she made her way.
+* [X] > Everywhere was the smell of tobacco smoke, oil, and sharp ozone, mixed with the occasional clink of chains rolling through a block, straining to lift some mass of a metal object. 
+* [X] > There was also the inevitable and unintelligible shout of panic or correction as some other massive metal object did not do what it was supposed to do.
 
 * {describe the sides of the depot, not-main-hall; describe how there are shops and workstations set back along the walls between stored crates of supplies and goods}
-* [ ] > All this noise and work happened in the main hall of the depot because that was where the space was to do it.
-* [ ] > Along the walls of the hall, back in the less well-lit shadows, were stacked an uncountable number of crates, mostly of wood, in some places 20 feet high.
-* [ ] > Mixed among these crates, here and there in an alcove set back from the wall, were tables set up by traders who negotiated the value of the crates and where they would be moving from or to.
-* [ ] > This whole part of the depot was hollowed out of stone underground. At one end of the main hall was a large elevator that connected up to the surface, where there was an outdoor storage yard of dirt and pebble, surrounded by layered fences of rusting barbed wire.
-* [ ] > At the other end of the hall was a string of bays where the boats were docked. 
+* [X] > All this noise and work happened in the main hall of the depot because that was where the space was to do it.
+* [X] > Along the walls of the hall, back in the less well-lit shadows, were stacked an uncountable number of crates, mostly of wood, in some places 20 feet high.
+* [X] > Mixed among these crates, here and there in an alcove set back from the wall, were tables set up by traders who negotiated the value of the crates and where they would be moving from or to.
+* [X] > This whole part of the depot was hollowed out of stone underground.
+* [-] At one end of the main hall was a large elevator that connected up to the surface, where there was an outdoor storage yard of dirt and pebble, surrounded by layered fences of rusting barbed wire.
+* [-] > At the other end of the hall was a string of bays where the boats were docked. 
 
 * {Percy steps into a shop}
 	* {might want to delete this graf in favor of introducing Cass section}
-* [ ] Percy steps into a shop; describe shop
+* [X] Percy steps into a shop; describe shop
 	> Captain Percy had a list of some hardware she needed for her boat, so she veered off into one of the alcoves where the proprietor had cracked open a number of crates and they stood open on their tops or sides, batting and hay used as packing material spilling out onto the cold concrete ground.
-* [ ] She selects some things and purchases them.
+* [X] She selects some things and purchases them.
 	* {It would be best if these were things that somehow related to the story later on} 
 
 
 ### Percy talks to Cass about hiring her as a sonar operator
 
 * {Percy heads down towards the bar/canteen}
-* [ ] Percy walks down the main hall a little further and then steps into a bar/canteen
-* [ ] describe bar/canteen
-* [ ] Percy steps up to the bar; describe bar itself
+* [X] Percy walks down the main hall a little further and then steps into a bar/canteen
+* [X] describe bar/canteen
+* [X] Percy steps up to the bar; describe bar itself
 	> She steps up to the bar that is nearly at the height of her chest. It is broad and made of dark wood from which decades of drinkers had worn away the original shellac coating, and a universe of spilled drinks had stained to a mottled gray color.
 
 * {Percy meets Cass}
@@ -134,16 +135,16 @@ Last modified: Thu Jan 28, 2021  10:33PM
 	> At one end sits a tiny girl, with enormous brown eyes.
 
 * {A shaky intro between Cass and Percy}
-* [ ] > Percy walked up to her. "God with eyes like that can you see in the dark?"
-* [ ] > "I wish," she said, staring into her drink.
-* [ ] > "You're like some kind of small prey animal. Do you always keep alert for predators out there in the dark?"
-* [ ] > "Do you just hang around bars making fun of people who want to be left alone?"
-* [ ] > "Easy, I'm not trying to fuck you. I think you're the kid I'm looking for, Cassandra?"
-* [ ] > "Oh, are you the person {Flintock} said I should talk to? I go by Cass."
+* [X] > Percy walked up to her. "God with eyes like that can you see in the dark?"
+* [X] > "I wish," she said, staring into her drink.
+* [-] > "You're like some kind of small prey animal. Do you always keep alert for predators out there in the dark?"
+* [-] > "Do you just hang around bars making fun of people who want to be left alone?"
+* [X] > "Easy, I'm not trying to fuck you. I think you're the kid I'm looking for, Cassandra?"
+* [-] > "Oh, are you the person {Flintock} said I should talk to? I go by Cass."
 
 * {Percy tries to suss out Cass' potential skills on sonar}
-* [ ] > "Ya. Look, I've got a boat, I'm leaving here tonight. You ever work on a boat before? Or anything technical? Maybe, god-willing, sonar or something sonics related?"
-* [ ] > "God no. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
+* [X] > "Ya. Look, I've got a boat, I'm leaving here tonight. You ever work on a boat before? Or anything technical? Maybe, god-willing, sonar or something sonics related?"
+* [X] > "God no. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
 * [ ] > "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to ambient noise on the sonar. Think you could do that."
 
 * {Cass expresses interest}
@@ -166,12 +167,12 @@ Last modified: Thu Jan 28, 2021  10:33PM
 * [ ] > The heels of Percy's boots echo back at her from the curving stone walls.
 
 * {the water and grime runs downhill}
-* [ ] > The tunnel has a gentle downward slope so any natural water seeping in drains down to the bottom.
-* [ ] > But along with that water goes any garbage, oils, chemicals, metal shavings, and dropped coffee.
+* [X] > The tunnel has a gentle downward slope so any natural water seeping in drains down to the bottom.
+* [X] > But along with that water goes any garbage, oils, chemicals, metal shavings, and dropped coffee.
 * [ ] > The grit of the floor grinds under her boot.
 
 * {into the docking area where the magnetic mines are stacked, ready to load}
-* [ ] > A quarter mile down, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
+* [X] > A quarter mile down, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
 * [ ] > In front of dock 4L, there are stacked a few dozen wooden crates, cargo being prepped for loading onto her boat.
 * [ ] > Each of the crates is branded with "XL industries" and "CAUTION!"
 * [ ] > XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.

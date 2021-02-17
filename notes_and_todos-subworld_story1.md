@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Feb 15, 2021  05:43PM
+Last modified: Wed Feb 17, 2021  02:31PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -10,7 +10,7 @@ Last modified: Mon Feb 15, 2021  05:43PM
 
 ## Notes and To dos:
 :notes:
-* [ ] Draw diagrams of the Prospect and Gnat. Include with story.
+* [X] Draw diagrams of the Prospect and Gnat. Include with story.
 	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
 	* (No copyright problems, those are federal gov't drawings)
 	* (People like me eat that ship up --- it lets you visualize where in the boat the people are at any time.)
@@ -40,6 +40,9 @@ Last modified: Mon Feb 15, 2021  05:43PM
 	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 	* "Commerce always finds a way."
 	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
+	* {at front of book}:
+		* _We live in a world today where technology is on the verge of magic. Only an elite few understand any givine technology. It wasn't always like this. At one time technology was a rising force in our culture, but it was knowable. Any person of average intelligence who wanted to understand how things worked could figure it out. That isn't the world we live in today, and there is no way we could return to that world. However, it is possible to imagine a world where technology remained knowable. Such a world could be a setting for telling amazing stories. This is such a story._
+		* _Here in the 21st Century we live with technology that is almost magical in its complexity. But there was a time, not so long ago, when technology was ascendent but was also something that anyone could understand. It was complex but it's roots were electro-mechanical. Even the most complicated machine could be taken apart and comprehended through diligent common sense. We no longer live in that world, but there's no reason we couldn't have. This is a story from that other technological path we could have taken, but didn't._
 
 ### style
 :style:
@@ -71,6 +74,7 @@ Last modified: Mon Feb 15, 2021  05:43PM
 	* it may help the sense of isolation and being in a can if all action takes place _inside_ (the depot, the _Prospect_, the _Gnat_) 
 	* having considered this, where I do have exterior shots so far I really like them. I'm not getting rid of them.
 	* Though perhaps they end up being the exception that proves the rule.
+* Even though it would have been cool to have people communicating on the boat through tubes, that's really a 19th century thing, and I think for where these boats are at, historically, it would just have to be intercoms.
 
 ### Editing notes (be sure to hit these in post-production editing):
 :post-prod:
@@ -191,6 +195,7 @@ Last modified: Mon Feb 15, 2021  05:43PM
 * [ ] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
 * [ ] consider using 'nominal' to mean anything you want it to.
+* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
 * [X] They visit depots that have staging areas above ground on the coast, and underwater sub connections for loading and unloading goods.
 * [X] they do deadliest catch style shifts of more than 24 hours with everyone exhausted (mine from that 33 minute episode of battlestar gallactica)
 	* no sleep
@@ -199,6 +204,13 @@ Last modified: Mon Feb 15, 2021  05:43PM
 	* the captain struggles to get the crew into the rack reasonably often
 * [X] in a desperate underwater chase, they have to run the big sub off the mini sub's batteries, by stringing essentially huge jumper cables through the ship and up into the mated mini sub
 * [X] An authority sub or ship is equipped with a battering ram
+* [ ] Need to add a clearer description of Hemi earlier in the book.
+* [ ] Need to include a description of Percy somwhere early in the book
+	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
+	* [ ] Subtly reinforce Percy's beauty in more places:
+		* Right now I think she reads more like the elder captain she will be in later stories
+		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
+		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
 * [ ] A conversation about why salmon cans are shaped with an angle:
 	* Because the can rolls in a circle on the floor!
 	* No, cuz they can stack more cans in the hold of a ship

@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Feb 15, 2021  06:58PM
+Last modified: Wed Feb 17, 2021  05:12PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -149,34 +149,43 @@ Last modified: Mon Feb 15, 2021  06:58PM
 ### --- (a depot (for repairs and pick up cargo))
 
 * [ ] _While at the depot, they arrange for repairs to be made, and to get the boat refueled_
-	* [ ] Explain that while this depot is constantly harassed by Authorities, it's also a critical supply line for them, so allowed to continued to exist.
+	* [X] Explain that while this depot is constantly harassed by Authorities, it's also a critical supply line for them, so allowed to continued to exist.
 	* {Maybe? Or maybe you have to edit the text so far so the Authorities here aren't SO brutal --- oh wait it's over the Authority line, remember? That's why the Authorities here aren't so aggressive.}
 
-* [ ] _They get an offer for a clandestine cargo --- magnetic mines_
-	* [ ] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
+* [o] _They get an offer for a clandestine cargo --- magnetic mines_
+	* [O] Percy is approached in the parts shop by a old crone:
+		* [X] the only small person Percy has seen so far in the depot: she has large rubbery ears and a small wrinkled nose that wiggles when she talks in her soft raspy voice.
+		* [X] {she is, in fact, a fairy godmother/witch with a cursed gift to offer Percy}
+		* [X] She invites Percy back to her shop; offering her a job
+		* [X] She heard about Percy from a note passed up the depot from the dock boss, though Percy intuits this, the crone doesn't say it aloud
+			* [X] {unsaid: because Percy is a woman, and the dock boss identifies with her --- thus make sure Percy introduces herself as captain to the dock boss when they meet the first time} 
+		* [X] it's a lucrative but dangerous job offer: moving magnetically triggered explosives that could potentially be weapons parts. Can't get even some of the permits usually gotten.
+		* [X] She suggests Percy takes the cash and settle down with a nice man. Percy says she is married to her boat;
 	* {skip the bits establishing the authority methods -- that should have happened earlier}
-	* {skip the trader flirting with Percy}
 
-* [ ] Percy has to have a conversation with Chips where she gets re-hired for the next run.
+* [ ] _Percy asks depot bar tender about hiring a sonar operator. He offers his unmarketable whore Cassandra._
+
+* [ ] _Conversation with Cassandra about hiring her as a sonar operator_
+
+* [ ] Percy has to have a conversation with Chips --- maybe at the urging of Hemi --- where she gets re-hired for the next run.
 
 * [ ] _Chips overseas the work on some poorly done and over-priced repairs, saying she was doing a better job when she was under water._
 	* Don't forget that while they were at the surface, the leak probably only seeped a bit, but with some pressure on at the underwater dock, it's more steadily pouring in.
 
-* [ ] _Percy asks depot trader about hiring a sonar operator. He offers his unmarketable whore Cassandra._
 
 * [ ] _Percy buys Shakes dinner at the one crappy diner in the depot to pay him back, and hires him to run interference for them with the mines cargo_
 	* [ ] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
 	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
 	* [ ] Shakes makes sure to get his manuals back from the _Prospect_
 
-* [ ] _Conversation with Cassandra about hiring her as a sonar operator_
 
 * [ ] _At the Prospect, it's being repaired, refueled, and loaded with the magnetic mine cargo_
 	* Some further description of the layout of the Prospect might go here
 
 * [ ] _They seal up the boat and embark_
+	* Leave Shakes there with plan to rendezvous soon
 
-### Interstitial traveling from depot; rendezvous with the Gnat
+### rendezvous with the Gnat; Interstitial traveling from depot; 
 
 * [ ] _Training Cassandra scene_
 
@@ -184,9 +193,17 @@ Last modified: Mon Feb 15, 2021  06:58PM
 
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
 	* Remember: the Gnat has to mate with the _Prospect_ from underneath.
+	* Shakes fills them in on what happened since they left the depot:
+		* They arrived a couple of days after the _Prospect_ left 
+			* {maybe, think about the timing, since Shakes will have to make up the distance to make the rendezvous}
+		* the sub with the ram docked, went through the whole depot checking papers
+		* They specifically were asking about the Prospect; they found out the Prospect left hauling weapons parts, but they were after the Prospect BEFORE that
+		* the dock boss closed the watertight bulkhead to the dock while a bunch of the ram sub's crew were up on the exchange level. They were stuck there until the bulkhead could be reopened.
+		* Shakes got off in the Gnat in the confusion
 	* [ ] Maybe here is where you come back to the cause for the black sub to be chasing them:
 		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
 		* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer belligerence of it.
+	* [ ] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
 
 * [ ] Shakes tells them about the modifications he made to the Gnat to make it much louder.
 	* [ ] Shakes makes modifications to the Gnat for the job, to run louder on diesel
@@ -214,6 +231,10 @@ Last modified: Mon Feb 15, 2021  06:58PM
 	* {maybe it's not going to try ramming them again because of the storm? they know it's the same sub because of the unique ram on the bow}
 
 * [ ] _Gregory is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
+	* Percy dives out from under him with him pounding on the Hatch.
+	* (Or should this be Chips? Would that be more dramatically interesting?)
+	* He gets up and waves to the sub with the ram as the Prospect is diving, but they shoot him.
+	* His body drapes over the fairing, and then floats up off the sail as it disappears under him.
 
 * [ ] _The enemy sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah_
 
@@ -288,9 +309,10 @@ Last modified: Mon Feb 15, 2021  06:58PM
 	* Maybe this is where Percy says 'get Shakes on the pigeon'
 	* "Goddamn it! Get Shakes on the...pigeon." "His name is Guillaume" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
 
-* [ ] _as they are loading parts onto the _Gnat_ (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?_
+* [ ] _as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?_
+	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
 
-* [ ] _Hemi jumps into the _Gnat_ and orders it off the mating collar (the _Prospect_ is a little unwieldy with the _Gnat_ on her deck)_
+* [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat on her deck)_
 
 
 ### in the _Gnat_
