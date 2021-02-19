@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Feb 17, 2021  05:12PM
+Last modified: Fri Feb 19, 2021  01:14PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -148,12 +148,12 @@ Last modified: Wed Feb 17, 2021  05:12PM
 
 ### --- (a depot (for repairs and pick up cargo))
 
-* [ ] _While at the depot, they arrange for repairs to be made, and to get the boat refueled_
+* [X] _While at the depot, they arrange for repairs to be made, and to get the boat refueled_
 	* [X] Explain that while this depot is constantly harassed by Authorities, it's also a critical supply line for them, so allowed to continued to exist.
 	* {Maybe? Or maybe you have to edit the text so far so the Authorities here aren't SO brutal --- oh wait it's over the Authority line, remember? That's why the Authorities here aren't so aggressive.}
 
-* [o] _They get an offer for a clandestine cargo --- magnetic mines_
-	* [O] Percy is approached in the parts shop by a old crone:
+* [X] _They get an offer for a clandestine cargo --- magnetic mines_
+	* [X] Percy is approached in the parts shop by a old crone:
 		* [X] the only small person Percy has seen so far in the depot: she has large rubbery ears and a small wrinkled nose that wiggles when she talks in her soft raspy voice.
 		* [X] {she is, in fact, a fairy godmother/witch with a cursed gift to offer Percy}
 		* [X] She invites Percy back to her shop; offering her a job
@@ -163,24 +163,29 @@ Last modified: Wed Feb 17, 2021  05:12PM
 		* [X] She suggests Percy takes the cash and settle down with a nice man. Percy says she is married to her boat;
 	* {skip the bits establishing the authority methods -- that should have happened earlier}
 
-* [ ] _Percy asks depot bar tender about hiring a sonar operator. He offers his unmarketable whore Cassandra._
+* [X] _Percy asks depot bar tender about hiring a sonar operator. He offers his unmarketable whore Cassandra._
 
-* [ ] _Conversation with Cassandra about hiring her as a sonar operator_
+* [X] _Conversation with Cassandra about hiring her as a sonar operator_
 
-* [ ] Percy has to have a conversation with Chips --- maybe at the urging of Hemi --- where she gets re-hired for the next run.
+* [X] _Percy buys Shakes dinner at the one crappy diner in the depot to pay him back, and hires him to run interference for them with the mines cargo_
+	* [X] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
+	* [X] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
 
-* [ ] _Chips overseas the work on some poorly done and over-priced repairs, saying she was doing a better job when she was under water._
-	* Don't forget that while they were at the surface, the leak probably only seeped a bit, but with some pressure on at the underwater dock, it's more steadily pouring in.
-
-
-* [ ] _Percy buys Shakes dinner at the one crappy diner in the depot to pay him back, and hires him to run interference for them with the mines cargo_
-	* [ ] Percy is so flush with this run that she can offer Shakes a job, and make up what she feels she owes him. She offers him two deck-boss shares, or something.
-	* [ ] He is excited to not be sneaking around, looks forward to trying to make as MUCH noise as possible, rather than being silent all the time. It's more in his line of speciality
-	* [ ] Shakes makes sure to get his manuals back from the _Prospect_
-
-
-* [ ] _At the Prospect, it's being repaired, refueled, and loaded with the magnetic mine cargo_
+* [X] _At the Prospect, it's being repaired and refueled_
 	* Some further description of the layout of the Prospect might go here
+
+* [X] _Chips overseas the work on some poorly done and over-priced repairs, saying she was doing a better job when she was under water._
+	* Don't forget that while they were at the surface, the leak probably only seeped a bit, but with some pressure on at the underwater dock, it's more steadily pouring in.
+		* like a wet and oozing wound 
+	* [X] Percy has to have a conversation with Chips --- maybe at the urging of Hemi --- where she gets re-hired for the next run.
+	* You can use the poor state of the repairs as the reason both Percy and Chips agree they need to rehire Chips
+	* (Chips also doesn't want to be left at this hole of a port)
+
+* [ ] _They get the Gnat disconnected_
+	* [ ] Shakes makes sure to get his manuals back from the Prospect
+
+* [ ] _Prospect gets loaded with the magnetic mine cargo_
+
 
 * [ ] _They seal up the boat and embark_
 	* Leave Shakes there with plan to rendezvous soon
@@ -192,6 +197,9 @@ Last modified: Wed Feb 17, 2021  05:12PM
 * [ ] _They run underwater for 24 hours, but at the next nightfall, they decide to surface to recharge the batteries_
 
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
+	* Hemi or Cass (whoever hears Shakes first on sonar):
+		* "I think Shakes might have overdone it, he sounds like a 200 meter tanker"
+		* "Well, maybe instead of being a decoy, he'll just drown us out."
 	* Remember: the Gnat has to mate with the _Prospect_ from underneath.
 	* Shakes fills them in on what happened since they left the depot:
 		* They arrived a couple of days after the _Prospect_ left 
@@ -228,7 +236,10 @@ Last modified: Wed Feb 17, 2021  05:12PM
 
 * [ ] _Cassandra (possibly because she is just getting the hang of things) doesn't hear the sub until it is right on them. It fires its deck-gun at them._
 	* {Don't forget to capture the idea of Cassandra putting her mind out into the water --- some of the sonar-only idea you've had for telling sub stories}
+
+* [ ] _the sub with the ram fires on the Prospect with a deck gun_
 	* {maybe it's not going to try ramming them again because of the storm? they know it's the same sub because of the unique ram on the bow}
+	* [ ] The enemy sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah
 
 * [ ] _Gregory is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
 	* Percy dives out from under him with him pounding on the Hatch.
@@ -236,9 +247,9 @@ Last modified: Wed Feb 17, 2021  05:12PM
 	* He gets up and waves to the sub with the ram as the Prospect is diving, but they shoot him.
 	* His body drapes over the fairing, and then floats up off the sail as it disappears under him.
 
-* [ ] _The enemy sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah_
+* [ ] _They realize the enemy sub is turning away, getting some distance so they can fire torps._
 
-* [ ] _They realize the enemy sub is turning away, getting some distance so they can fire torps. they fire_
+* [ ] _the enemy sub fires a torpedo_
 
 * [ ] _Panicked fear as they push the boat down, caught between the pincers of the torpedo incoming and the cold depths of hell below them._
 
@@ -248,8 +259,12 @@ Last modified: Wed Feb 17, 2021  05:12PM
 ### Chase scene
 
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
+	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
 	* [ ] A scene where they are eating in the galley
-	* [ ] something breaks that needs fixing --- possible the original wound from the ramming breaks open again
+		* Salmon can conversation?
+	* [ ] something breaks that needs fixing 
+		* possibly the original wound from the ramming breaks open again
+		* possibly an engine park that Chips needs to fix {bilge pump from the hardware shop?}
 	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 	* [ ] Watching the battery gauges --- how long can they go before they are forced to the surface?
 
@@ -262,6 +277,8 @@ Last modified: Wed Feb 17, 2021  05:12PM
 		* Now they pop a rivet or something, they are TOO deep, scarily deep.
 	* Cassandra thinks they will crash into the bottom, Percy knows they will go right through it because it's just fish.
 	* {Where's the Gnat? I think it goes and gets lost in the storm}
+	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish --- the "bottom" has a particular sound on sonar.}
+	* {They pass through the deep scattering layer, and get away from the enemy who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
 
 * [ ] _And motor quietly away._
 
@@ -269,7 +286,8 @@ Last modified: Wed Feb 17, 2021  05:12PM
 	* {Is this where they come up in a blessed fog?}
 
 * [ ] They contact Shakes via Pigeon:
-	* "ok, get the pigeon" "guiaullme" "guiaullme, and tell Shakes...."
+	* "ok, get the pigeon" "Hershel" "Hershel, and tell Shakes...."
+	* {if this is the more panicked situation, use dialog from later pigeon instance}
 
 
 ### --- (Into an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port)
@@ -280,8 +298,12 @@ Last modified: Wed Feb 17, 2021  05:12PM
 		* including warehouses and depots
 		* it was easier than draining the swampland that made up most of the territorial area
 	* the giant metal machine tooling through rickety wood structures;
+	* they have to run on the surface because the water is shallow
+		* some close calls with too shallow --- watching that depth-under-keel gauge again --- warning lights
 
 * [ ] _The find their dock and unload._
+	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something.
+
 
 * [ ] _The enemy sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
 
@@ -289,6 +311,7 @@ Last modified: Wed Feb 17, 2021  05:12PM
 ### Leave in a hurry; cruise down the continental shelf
 
 * [ ] _They scram out of the port, and cruise down the continental shelf just above the bottom so they can't be found._
+	* [ ] push it down beyond test depth
 
 
 ### --- (bicycle race in the hangar)
@@ -296,18 +319,25 @@ Last modified: Wed Feb 17, 2021  05:12PM
 * [ ] _A bicycle race (like 7 Cycles Christmas party) in the empty cargo bay._
 
 * [ ] _A submarine is just a very very complicated bicycle_
+	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
+	* someone builds a ramp, and maybe someone else has some kind of fancy aluminum bicycle frame, that cracks in half like a wishbone after going over the jump
+		* "that's why submarines are made of steel not aluminum. steel fails gracefully, bending before it breaks. aluminum just cracks and collapses on you"
+		* "Is a steel hull slowly crushing around you a blessing under 100 atmospheres of pressure? or a curse though?"
 
 
 ### --- (into the pacific garbage patch; the final battle)
 
 * [ ] _They head out into the deep ocean, in a sea full of garbage_
 	* (Not plastic. there's little/no plastic in this world)
+	* They _hear_ the garbage on the sonar; are forced to slow down because floating empty steel hulks and ships are around
 
 * [ ] _The enemy sub is pursuing_
+	* Cassandra hears them coming, knows what they sound like now
+	* Another drawn-out O'brian style chase scene.
 
 * [ ] _They come up with a plan. They mate with the Gnat._
 	* Maybe this is where Percy says 'get Shakes on the pigeon'
-	* "Goddamn it! Get Shakes on the...pigeon." "His name is Guillaume" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
+	* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
 
 * [ ] _as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?_
 	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
@@ -319,7 +349,7 @@ Last modified: Wed Feb 17, 2021  05:12PM
 
 [//]: # (Somewhere in here: have Hemi comment on the airplane-style controls? Maybe move that to later when Hemi is riding with Shakes and the magnetic mines.)
 
-* [ ] _Hemi starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Shakes as he does._
+* [ ] _Hemi starts assembling his devices,  he explains the plan to Shakes as he does._
 
 * [ ] The Gnat surfaces and runs loud to try and confuse the black sub.
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
@@ -331,7 +361,8 @@ Last modified: Wed Feb 17, 2021  05:12PM
 * [ ] _the enemy sub will run at the same depth, trying to line up an underwater torpedo shot._
 
 * [ ] _The Gnat has to run _between_ them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
-
+	* Hemi has to calculate by hand and slide rule how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the floats by hand and launch them out the airlock into the path of the chasing sub.
+	* (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column)
 
 ### Ending
 

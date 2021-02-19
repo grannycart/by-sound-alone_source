@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Wed Feb 17, 2021  06:01PM
+Last modified: Fri Feb 19, 2021  11:52AM
 
 
 
@@ -78,7 +78,7 @@ Last modified: Wed Feb 17, 2021  06:01PM
 	> "Eh, a string of big cruisers have been through recently, hired everyone off."
 * [X] Percy is desperately short on hands though
 	> "Shit. I'm a little desperately short of hands."
-* [ ] The trader, offers an unskilled woman who he had brought on as a prostitute
+* [X] The trader, offers an unskilled woman who he had brought on as a prostitute
 	> "Well... if you're willing to take _anyone_, I've got someone you might try."
 	> "Maybe not _anyone_, what have you got?"
 	> "This waif I brought over from the mainland to whore out. But she's too skinny and small. The tastes of most of the folks who come through here are for something a bit... harder. She also..."
@@ -145,40 +145,40 @@ Last modified: Wed Feb 17, 2021  06:01PM
 * {Percy tries to suss out Cass' potential skills on sonar}
 * [X] > "Ya. Look, I've got a boat, I'm leaving here tonight. You ever work on a boat before? Or anything technical? Maybe, god-willing, sonar or something sonics related?"
 * [X] > "God no. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
-* [ ] > "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to ambient noise on the sonar. Think you could do that."
+* [X] > "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to ambient noise on the sonar. Think you could do that."
 
 * {Cass expresses interest}
-* [ ] Add something here about Cass wondering about how dangerous it is. Submarining is always incredibly dangerous, but can also be very rewarding.
-* [ ] > Cass looked up at her. "I'd give it a try..."
+* [X] Add something here about Cass wondering about how dangerous it is. Submarining is always incredibly dangerous, but can also be very rewarding.
+* [X] > Cass looked up at her. "I'd give it a try..."
 
 * {Percy offers her the job}
-* [ ] > "Fine. You got the job. We'll train you on board. Come down to bay 7 {be sure to correlate this with where Percy goes later...} with your stuff in an hour or two and be ready to leave. Oh, and don't expect to be paid any time soon or very much. For a new share, passage out of here is part of your payment, and when and if we arrive and unload our cargo, you will get paid something out of the job-completion portion of the money. I don't know how much, Hemi handles the math, talk to him when you get on board if you want to know."
+* [-] > "Fine. You got the job. We'll train you on board. Come down to bay 7 {be sure to correlate this with where Percy goes later...} with your stuff in an hour or two and be ready to leave. Oh, and don't expect to be paid any time soon or very much. For a new share, passage out of here is part of your payment, and when and if we arrive and unload our cargo, you will get paid something out of the job-completion portion of the money. I don't know how much, Hemi handles the math, talk to him when you get on board if you want to know."
 * > "I'm OK with that."
-* [ ] > "You better be. Other than when you're on sonar, you keep your mouth shut and stay out of the way. The last thing any of the rest of the crew or me need is some new kid slowing down our work."
-* [ ] > Cass had the good sense to not say anything. Percy laid a heavy hand on her shoulder, stood, threw some coins clinking onto the bar and walked away.
+* [X] > "You better be. Other than when you're on sonar, you keep your mouth shut and stay out of the way. The last thing any of the rest of the crew or me need is some new kid slowing down our work."
+* [X] > Cass had the good sense to not say anything. Percy laid a heavy hand on her shoulder, stood, threw some coins clinking onto the bar and walked away.
 
 
 ### Percy heads down the tunnel towards the docks and up to the _Prospect_
 
 * {Percy walks down the tunnel to the sub mating docks}
-* [ ] > With a couple of drinks sloshing in her empty belly, Percy heads back out and down the main hall.
-* [ ] > It's quieter now, apparently while in the bar alcove she had crossed the threshold of time by which the people creating most of the noise in the main hall judged their day's labors to be done.
-* [ ] > There were only a few people left, closing up safes with an echoing clang, and hammering shut crates they did not want to leave open over night before heading up to the hall to the elevator to the surface.
-* [ ] > The heels of Percy's boots echo back at her from the curving stone walls.
+* [-] > With a couple of drinks sloshing in her empty belly, Percy heads back out and down the main hall.
+* [-] > It's quieter now, apparently while in the bar alcove she had crossed the threshold of time by which the people creating most of the noise in the main hall judged their day's labors to be done.
+* [-] > There were only a few people left, closing up safes with an echoing clang, and hammering shut crates they did not want to leave open over night before heading up to the hall to the elevator to the surface.
+* [-] > The heels of Percy's boots echo back at her from the curving stone walls.
 
 * {the water and grime runs downhill}
 * [X] > The tunnel has a gentle downward slope so any natural water seeping in drains down to the bottom.
 * [X] > But along with that water goes any garbage, oils, chemicals, metal shavings, and dropped coffee.
-* [ ] > The grit of the floor grinds under her boot.
+* [X] > The grit of the floor grinds under her boot.
+
+
+### shortly later, _Prospect_ is being loaded 
 
 * {into the docking area where the magnetic mines are stacked, ready to load}
 * [X] > A quarter mile down, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
 * [ ] > In front of dock 4L, there are stacked a few dozen wooden crates, cargo being prepped for loading onto her boat.
 * [ ] > Each of the crates is branded with "XL industries" and "CAUTION!"
 * [ ] > XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.
-
-
-### shortly later, _Prospect_ is being loaded 
 
 * {Percy steps onto the Prospect; description of the sub; that it has a cargo bay because it is a transport sub}
 * [ ] > Percy stepped over the short ramps the cargo loaders had placed over the ledge of mating collar of the dock and stepped into her boat: the merchant transport submarine _Prospect_.
@@ -188,8 +188,8 @@ Last modified: Wed Feb 17, 2021  06:01PM
 	* {It's possible that the _Prospect_ only has a big loading hatch on the top? Would be kinda cool to have guys lowering stuff through the loading hatch.}
 		* {In which case the docking bay might have big hatches in the floor subs connect to; it juts out from the rock face and subs come up underneath} 
 	* {Is the hatch an air lock? Is it really just a bulkhead pressure door? have to think this out.}
-* [ ] > Like most merchant subs, the _Prospect_ had a single enormous cargo hold.
-* [ ] > From where Percy stood now, a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot.
+* [X] > Like most merchant subs, the _Prospect_ had a single enormous cargo hold.
+* [X] > From where Percy stood now, a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot.
 
 * {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; then they are lashed into the cargo bay}
 * [ ] > The gang of men doing the loading, huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds, were swarming around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay.
