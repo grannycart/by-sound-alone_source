@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Feb 19, 2021  01:31PM
+Last modified: Sun Feb 21, 2021  01:21PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -190,7 +190,7 @@ Last modified: Fri Feb 19, 2021  01:31PM
 * [X] deep scattering layer move:
 	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish --- the "bottom" has a particular sound on sonar.}
 	* {They pass through the deep scattering layer, and get away from the enemy who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
-	* ~~~On Authority sub: "I see nothing but the bottom on the scope" "that's not the bottom, that's the deep scattering layer. they are hiding under it."~~
+	* ~~On Authority sub: "I see nothing but the bottom on the scope" "that's not the bottom, that's the deep scattering layer. they are hiding under it."~~
 * [X] Deck boss/nerd character figures out to use magnetic mines and some kind of float to put the mines in the path of the chasing authority sub. 
 	* the nerd character calculates by hand how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the floats by hand and launch them out the airlock into the path of the chasing sub.
 * [X] the nerd character might be able to listen to the water mics and determine size and types of ships by screw rpms or something?

@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Fri Feb 19, 2021  05:45PM
+Last modified: Sun Feb 21, 2021  01:21PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -1968,13 +1968,13 @@ The bartender put a knuckle to his gristly eyebrow in a mock salute as they turn
 "Here," said Percy handing Cassandra a few coins, "that's an advance on your next paycheck. Buy some tougher clothes.
 
 
-### Percy dinner with Shakes --- hiring him long term.
+### Percy meal with Shakes --- hiring him long term.
 
 Captain Percy left Cassandra in the middle of the hall. Cassandra went up the ramp towards the stairs to the next level up where the barracks were located. Percy turned down the ramp feeling like it was probably time to get back to her boat and see how things were going. She was warm from the liquor and had a bit of a sweat breaking in the still and humid underground air.
 
 Walking down the ramp in the direction of the docks she saw the now-familiar clanking gate of Shakes climbing up the ramp. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
 
-"Yeah, it's about that time, eh Shakes? Let me buy you that dinner I promised you first."
+"Yeah, it's about that time, eh Shakes? Let me buy you that meal I promised you first."
 
 "Not going to say no to some grub."
 
@@ -2049,7 +2049,7 @@ She climbed down the ladder to the catwalk and made her way over and down to the
 
 "Hemi!" Percy yelled at him. "What is that woman still doing on this boat?" She said pointing forward to where Chips was standing. "Didn't I say she was to get off as soon as we hit the dock?"
 
-"Come here," Hemi said calmly, leader he further back into the battery room. "I convinced her to stay long enough to oversee the repairs. She didn't want to be blamed if those guys did a lousy job and the seam burst open again later. So she's just making sure they fix it right."
+"Come here," Hemi said calmly, leading her further back into the battery room. "I convinced her to stay long enough to oversee the repairs. She didn't want to be blamed if those guys did a lousy job and the seam burst open again later. So she's just making sure they fix it right."
 
 "Fuck Hemi! When I fire someone, they stay fucking fired!"
 
@@ -2067,15 +2067,19 @@ Percy considered. "OK... she oversees the repairs, we pay her up to date, and _t
 
 "Do it humanely. We need her to actually _want_ to stay and work."
 
-"Yeah yeah. Oh, speaking of crew, I did hire a new kid to work sonar."
+"Speaking of work, the other reason we need to re-hire her is I fell into a plum job for use up on there on the exchange floor. For the moment, we're flush."
 
-"Yeah?" Hemi was somewhat surprised.
+"Yeah?" Said Hemi skeptically, knowing that a transport job that paid well was unlikely to be easy or safe.
 
-"Yeah. Tiny little thing. She should be by later, if she doesn't skip out from fear." Percy gave him a light punch in the arm as she turned towards the cargo hold. "Oh! I also got us cargo. Good pay. Really good pay. So don't skimp on repairs and refurbs."
+"Yeah. We've also got some free advice to be out of here in 48 hours." She handed him the leather satchel full of coins. "Here's the money. You know how this goes. Spend what you have to to get us out of here quickly."
 
-"Oh yeah?" Hemi was very surprised.
+"It's going to be tricky in this place to throw money around without also getting a bunch of useless hangers-on."
 
-"I'll give you the details later." She was already moving forward through the battery room into the cargo hold.
+"But you're the best Deck Boss there is for people management Hemi. I'm sure you can walk that line between getting it done and not getting completely bilked. I should also let you know I hired a new kid to work sonar."
+
+"I'm amazed. Seems like there's an unusual lack of greenies on the docks. Does she have any experience?"
+
+"Not a bit. But who trains people better than you Hemi? She should be by later, if she doesn't skip out from fear." Percy gave him a light punch in the arm as she turned towards the cargo hold. "We can talk details over dinner later. Just keep things moving for the next few hours." She was already moving forward through the battery room into the cargo hold.
 
 
 ### re-hiring Chips
@@ -2122,6 +2126,100 @@ At the other end of the cargo hold Captain Percy found Shakes had made his way b
 Hemi nodded.
 
 "And bonus," Shakes continued, "with that fancy fucking mating collar y'all added to the _Gnat_, I can dock in a regular slip for small boats instead of using one of those ridiculous universal docking tubes that they charge extra dock fees for."
+
+Percy looked at Hemi. "Do we have more use for the _Gnat_ now Hemi?"
+
+"As a spare battery bank? No. In fact keeping it connected it just slowing down our own charging process."
+
+"Alright then." Said Percy. "Get that leech off my boat."
+
+Shakes grinned. "Applying that leech _saved_ your boat."
+
+Percy grinned and patted him on the arm.
+
+"Hemi," said Shakes, "don't forget to return those manuals.
+
+It didn't take too long for Hemi to seal Shakes into the _Gnat_ with his engine manuals and get it disconnected from the _Prospect_. Though Hemi wanted some help coiling and stowing the heavy jumper wires they no longer needed and it took a while to find one of the deck crew to help him.
+
+Shakes steered the _Gnat_ further down the docking bay, and got it mated up to slip fifteen. After popping the _Gnat's_ hatch at that slip, he started the process of negotiating with the dock workers for finishing the job of getting the batteries charged up, and refueling the fuel ballast tanks. Pretty soon, the _Gnat_ was gorging on its own set of umbilicals running down through its sail hatch and into its belly.
+
+
+### Hemi and Percy have dinner
+
+Refueling, recharging, and repairs were busily carried out over the next six hours or so. There were many people coming and going and crawling around in her boat. That made Captain Percy uncomfortable --- almost all of the time she knew exactly who was aboard her submarine. In dock like this was the only time there was open access to her boat. Just another reason to be on the move, as far as she was concerned.
+
+All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. Hell, with the damage to the hull the _Prospect_ should really go into dry dock for serious repairs --- but that required a monetary flushness that was far beyond a single good-paying job. 
+
+Getting the boat ready to go out again so quickly was not just expensive, it also meant cutting some corners that Percy wasn't happy about. The repairs to the hull continued to be a foul mess of patches and half-competent welds. Through Chips' streaming curses from the bow Percy got the impression that Chips felt she had done a better job welding underwater while the boat was moving than this whole team of ruddy thick-fingered men were doing with the boat dry and steady.
+
+The only fuel Hemi could contract for on the dock on such short notice was a gritty and sludgy bunker. Chips was also not going to be happy about feeding that stuff to her engine when she found out about that.
+
+By dinner time most of the critical repair and refueling work was wrapping up. Most of the crew took off for the cafe on the exchange floor to find some grub. Hemi and Percy stayed behind and ate in the _Prospect's_ galley, though they prepped dinner from fresher food items they had bought off the dock that included a cabbage head and a bit of gristly meat.
+
+"What's left Hemi?"
+
+"We still have to charge the high and low pressure tank systems. It would be better to do that from the dock rather than from diesels while we're moving, if we can."
+
+Percy nodded.
+
+"And we should take on some more food, refill the fresh-water tanks, and lay in a normal spread of spare parts..."
+
+"Yeah, I tried to start buying parts earlier today but got sidetracked by the job offer. Put Gregory on securing our food stocks."
+
+Hemi nodded and jotted down some notes on a scrap of paper clipped to a clipboard that lay next to his plate. "You're sure about this job Percy?"
+
+"You saw the money! And that's only two-thirds of it."
+
+"I don't trust jobs that pay _too_ well. What's the cargo?"
+
+"Weapons parts --- magnetic mines."
+
+"Had to be something like that didn't it? You don't have a problem with risking blowing the boat in half if someone drops a crate full of explosives? Our job wasn't dangerous enough already?"
+
+"Nitro Express Hemi. _Someone_ has to move this stuff. Might as well be pros like us. Cargo is supposed to arrive for loading any minute now, actually. Is the cargo hold ready for it?"
+
+"Chips finished up repairs an hour or two ago --- at least as good as they could be for now --- and the bilge is pumped dry. I think we can start loading cargo. Though if we're hauling explosives you might want to pack in some soft padding first."
+
+"I'm sure they have been thoroughly packed and duly deactivated... though it would be good if you took a peak at them before they get loaded so you're sure they _won't_ go off if someone walks by a crate with a heavy socket wrench or something."
+
+There was a tap of someone's bony knuckles on the hatch to the galley, and Bastian swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those big trolls up at the slip with crates they say are to be loaded into the _Prospect_.
+
+"Thanks Bastian." Said Percy. "That is indeed our load. Come help us get these things stowed properly. Hemi?"
+
+Hemi forked his last bite of meat, and squeezed his bulk out of the tight galley seating.
+
+
+### Loading the magnetic mines
+
+They climbed up the ladder from the catwalk to the docking bay to find dozens of large and molding wooden crates stacked up. The sides of the crates were stamped with "XL industries" and "CAUTION!" Apparently XL Industries knew better than to put the word "EXPLOSIVES" on their packing materials --- which could attract unnecessary attention during an Authority inspection. But they still felt that anyone handling their products should have a heads up that they shouldn't just be tossed around casually.
+
+Making their way among the crates were a half dozen or so dock workers --- more huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds. They swarmed around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay. A couple of them were up on a ladder rigging a sliding block and chain that would be used to lower the crates down into the cargo hold of the _Prospect_. A couple of guys climbed down the ladded into the _Prospect_ to make their way down to the floor of the cargo hold to receive the lowered crates.
+
+A dock worker who was among the smallest Percy had seen since they docked --- his eyes were almost even with hers with round-framed glasses around them --- came up to her.
+
+"You're Captain Percy, right?" He asked.
+
+She nodded.
+
+"This shipment is from Trinity. Sign here." He held out a pen and handed her a clipboard he was carrying that had a long sheet of tiny type printed on it with a signature blank at the end.
+
+Percy took the pen and scrawled her illegible name into the blank.
+
+"Should be a witness for this too. Can he witness?" The dock worker asked, motioning his head towards Hemi.
+
+"Yeah, Hemi put your scrawl on that thing."
+
+Hemi more studiously scanned over the contract before he signed the witness blank. The man tore off a carbon copy and held it out to Percy. Hemi took it and folded it and put in in his jacked pocket.
+
+By the time this was done the dock crew already had the first crate in a sling and suspended out over the _Prospect's_ cargo hold. The chain passed through a series of heavy iron blocks to a fat winch mounted to the wall of the docking bay. One of the big fellows was at the winch. "OK, I'm letting out some of the tension on the winch now!" He yelled over to his mates at the cargo hold entrance. They relayed the upstate down to the guys on the floor of the cargo hold.
+
+"Bastian," Percy said, "go down to the cargo hold and make sure those goons are stowing things in a way that won't leave the boat untrimmable."
+
+"Ay Cap." Bastian disappeared down the ladder into the cargo hold.
+
+
+
+
 
 
 

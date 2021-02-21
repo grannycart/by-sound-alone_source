@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Feb 19, 2021  01:14PM
+Last modified: Sat Feb 20, 2021  09:58PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -181,11 +181,10 @@ Last modified: Fri Feb 19, 2021  01:14PM
 	* You can use the poor state of the repairs as the reason both Percy and Chips agree they need to rehire Chips
 	* (Chips also doesn't want to be left at this hole of a port)
 
-* [ ] _They get the Gnat disconnected_
-	* [ ] Shakes makes sure to get his manuals back from the Prospect
+* [X] _They get the Gnat disconnected_
+	* [X] Shakes makes sure to get his manuals back from the Prospect
 
 * [ ] _Prospect gets loaded with the magnetic mine cargo_
-
 
 * [ ] _They seal up the boat and embark_
 	* Leave Shakes there with plan to rendezvous soon

@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Fri Feb 19, 2021  11:52AM
+Last modified: Sun Feb 21, 2021  01:21PM
 
 
 
@@ -176,15 +176,15 @@ Last modified: Fri Feb 19, 2021  11:52AM
 
 * {into the docking area where the magnetic mines are stacked, ready to load}
 * [X] > A quarter mile down, the tunnel passes over rusted and choked drainage grates in the floor, just before it narrows and there are 6 transport-submarine underwater mating docks on either side.
-* [ ] > In front of dock 4L, there are stacked a few dozen wooden crates, cargo being prepped for loading onto her boat.
-* [ ] > Each of the crates is branded with "XL industries" and "CAUTION!"
-* [ ] > XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.
+* [X] > In front of dock 4L, there are stacked a few dozen wooden crates, cargo being prepped for loading onto her boat.
+* [X] > Each of the crates is branded with "XL industries" and "CAUTION!"
+* [X] > XL Industries knows better than to say "explosives" which might attract undue attention in some instances during an Authority inspection. But they still felt that anyone handling their material should maybe have a bit of a heads up that it shouldn't just be tossed around casually.
 
 * {Percy steps onto the Prospect; description of the sub; that it has a cargo bay because it is a transport sub}
-* [ ] > Percy stepped over the short ramps the cargo loaders had placed over the ledge of mating collar of the dock and stepped into her boat: the merchant transport submarine _Prospect_.
+* [-] > Percy stepped over the short ramps the cargo loaders had placed over the ledge of mating collar of the dock and stepped into her boat: the merchant transport submarine _Prospect_.
 	* {see note a couple of grafs down about how it might be a hatch in the floor, thus no ramps}
 
-* {describe how the boat is docked by the forward loading hatch mated to an underwater depot dock}
+* [-] {describe how the boat is docked by the forward loading hatch mated to an underwater depot dock}
 	* {It's possible that the _Prospect_ only has a big loading hatch on the top? Would be kinda cool to have guys lowering stuff through the loading hatch.}
 		* {In which case the docking bay might have big hatches in the floor subs connect to; it juts out from the rock face and subs come up underneath} 
 	* {Is the hatch an air lock? Is it really just a bulkhead pressure door? have to think this out.}
@@ -192,7 +192,7 @@ Last modified: Fri Feb 19, 2021  11:52AM
 * [X] > From where Percy stood now, a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot.
 
 * {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; then they are lashed into the cargo bay}
-* [ ] > The gang of men doing the loading, huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds, were swarming around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay.
+* [X] > The gang of men doing the loading, huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds, were swarming around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay.
 * [ ] > As they moved the crates into the cargo bay of the sub, they arranged them like puzzle pieces, and then lashed them with inch-thick hemp rope to fixed loops welded to the walls of the submarine.
 	* {This line maybe goes below, where the Prospect crew member is watching them stow the cargo, and telling them how to best do it.}
 * [ ] > A shorter man wearing a bowler with the felt worn off occasionally broke in with direction on how best to move the crates. 
