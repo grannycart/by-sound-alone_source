@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Feb 22, 2021  02:50PM
+Last modified: Tue Feb 23, 2021  11:32AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -50,6 +50,10 @@ Last modified: Mon Feb 22, 2021  02:50PM
 :post-prod:
 * [ ] GO THROUGH AND HANDLE THESE _BEFORE_ YOU DO A COMPLETE DRAFT READ-THROUGH
 	* So when you do a read-through you can make sure order and flow didn't get screwed up anywhere by these edits
+	* when you do this editing read through, do it all after your first cup of coffee in the morning, while working on your second.
+	* A few thousand words per day
+	* Have test readers start reading it even while you are doing this (since you already did one pass on the first 30k already anyway)
+		* Though make sure you include a draft of the technology-framing paragraph (above) at the beginning, and the diagrams for reference.
 * [ ] move section headers to .md comments; create chapter breaks
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
@@ -60,6 +64,9 @@ Last modified: Mon Feb 22, 2021  02:50PM
 * [ ] Have Percy address Hemi by his full name somewhere
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] refer to bastian, gregory, and Owen as the 'deck crew'
+* [ ] do you gap a diesel engine spark plug?
+	* diesels use 'glow' plugs if I remember correctly
+	* this is when they are about to embark the depot
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
@@ -77,6 +84,8 @@ Last modified: Mon Feb 22, 2021  02:50PM
 * [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 * [ ] 'navigation station'? 'navigation table'?
+* [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
+	* decide, edit and then make sure it's reflected in the Prospect notes file
 * [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
 * [ ] Consider removing parts where Percy second-guesses herself.

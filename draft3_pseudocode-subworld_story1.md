@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Feb 22, 2021  05:35PM
+Last modified: Tue Feb 23, 2021  05:27PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -186,26 +186,27 @@ Last modified: Mon Feb 22, 2021  05:35PM
 
 * [X] _Prospect gets loaded with the magnetic mine cargo_
 
-* [o] _They seal up the boat and embark_
+* [X] _They seal up the boat and embark_
 	* [X] A messenger comes down with a note from Trinity that they should leave immediately.
 	* [X] Someone on sonar hears a torpedo in the water, it hit and sinks the depot's inspection sub
-	* [ ] Percy gives the messenger a note with the rendezvous informatiom for Shakes
+	* [X] Percy gives the messenger a note with the rendezvous informatiom for Shakes
 	* [X] "let fly the blue peter"
 	* they uncouple and leave quietly, in a hurry
-	* [ ] "hope we didn't forget anything"
+	* [X] "hope we didn't forget anything"
 
 ### rendezvous with the Gnat; Interstitial traveling from depot; 
+* [ ] Hemi got new charts from the depot 
+	* they find out where the authority line actually was --- Shakes wasn't too far off
+
+* [ ] _They adjust the arrangement of the load in the cargo hold for better trim_
+	* Come up with some clever idiom for how a sub should sit trim; or that trimming is never done; or something like that
 
 * [ ] _Training Cassandra scene_
 
 * [ ] _They run underwater for 24 hours, but at the next nightfall, they decide to surface to recharge the batteries_
 
-* [ ] _They adjust the arrangement of the load in the cargo hold for better trim_
-	* Come up with some clever idiom for how a sub should sit trim; or that trimming is never done; or something like that
 
 * [ ] _They use dead reckoning to track their progress_
-	* [ ] Hemi got new charts from the depot 
-		* they find out where the authority line actually was --- Shakes wasn't too far off
 
 * [ ] _They have to take a siting from the stars at night to correct their location_
 

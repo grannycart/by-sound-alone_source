@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Mon Feb 22, 2021  03:59PM
+Last modified: Tue Feb 23, 2021  12:01PM
 
 
 
@@ -226,23 +226,23 @@ Last modified: Mon Feb 22, 2021  03:59PM
 
 ### Percy goes up to the conn, meets Hemi
 
-* {Percy goes up to the conn; introduce Hemi who is going over technical preparations of the boat}
-* {Probably need to introduce other secondary characters here too}
+* [-] {Percy goes up to the conn; introduce Hemi who is going over technical preparations of the boat}
+* [-] {Probably need to introduce other secondary characters here too}
 
 
 ### they embark
 
-* {seal up boat and disconnect}
-	* this might not be a place for a lot of description, just enough to get the technical ideas across
-	* {don't make too big a thing of the technical details, it will take away from the story and the tone}
+* [-] {seal up boat and disconnect}
+	* [-] this might not be a place for a lot of description, just enough to get the technical ideas across
+	* [-] {don't make too big a thing of the technical details, it will take away from the story and the tone}
 
 
 ### underway
 
-* {describe basic operation of boat; maybe here is where you introduce how they need to run on the surface/snorkel to recharge the batteries from the diesel engines}
-	* {Explain here that snorkeling is louder than running on the surface? This might fit better elsewhere}
-* {dialog about authorities?}
-* {dialog about concern about carrying magnetic mines? weapons are more likely to attract authority attention than any other cargo, even drugs or fuel}
+* [-] {describe basic operation of boat; maybe here is where you introduce how they need to run on the surface/snorkel to recharge the batteries from the diesel engines}
+	* [-] {Explain here that snorkeling is louder than running on the surface? This might fit better elsewhere}
+* [-] {dialog about authorities?}
+* [-] {dialog about concern about carrying magnetic mines? weapons are more likely to attract authority attention than any other cargo, even drugs or fuel}
 
 
 ### training Cass scene
