@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Feb 20, 2021  09:58PM
+Last modified: Mon Feb 22, 2021  05:35PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -184,10 +184,15 @@ Last modified: Sat Feb 20, 2021  09:58PM
 * [X] _They get the Gnat disconnected_
 	* [X] Shakes makes sure to get his manuals back from the Prospect
 
-* [ ] _Prospect gets loaded with the magnetic mine cargo_
+* [X] _Prospect gets loaded with the magnetic mine cargo_
 
-* [ ] _They seal up the boat and embark_
-	* Leave Shakes there with plan to rendezvous soon
+* [o] _They seal up the boat and embark_
+	* [X] A messenger comes down with a note from Trinity that they should leave immediately.
+	* [X] Someone on sonar hears a torpedo in the water, it hit and sinks the depot's inspection sub
+	* [ ] Percy gives the messenger a note with the rendezvous informatiom for Shakes
+	* [X] "let fly the blue peter"
+	* they uncouple and leave quietly, in a hurry
+	* [ ] "hope we didn't forget anything"
 
 ### rendezvous with the Gnat; Interstitial traveling from depot; 
 
@@ -195,14 +200,23 @@ Last modified: Sat Feb 20, 2021  09:58PM
 
 * [ ] _They run underwater for 24 hours, but at the next nightfall, they decide to surface to recharge the batteries_
 
+* [ ] _They adjust the arrangement of the load in the cargo hold for better trim_
+	* Come up with some clever idiom for how a sub should sit trim; or that trimming is never done; or something like that
+
+* [ ] _They use dead reckoning to track their progress_
+	* [ ] Hemi got new charts from the depot 
+		* they find out where the authority line actually was --- Shakes wasn't too far off
+
+* [ ] _They have to take a siting from the stars at night to correct their location_
+
+
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
 	* Hemi or Cass (whoever hears Shakes first on sonar):
 		* "I think Shakes might have overdone it, he sounds like a 200 meter tanker"
 		* "Well, maybe instead of being a decoy, he'll just drown us out."
 	* Remember: the Gnat has to mate with the _Prospect_ from underneath.
 	* Shakes fills them in on what happened since they left the depot:
-		* They arrived a couple of days after the _Prospect_ left 
-			* {maybe, think about the timing, since Shakes will have to make up the distance to make the rendezvous}
+		* They docked after the _Prospect_ left 
 		* the sub with the ram docked, went through the whole depot checking papers
 		* They specifically were asking about the Prospect; they found out the Prospect left hauling weapons parts, but they were after the Prospect BEFORE that
 		* the dock boss closed the watertight bulkhead to the dock while a bunch of the ram sub's crew were up on the exchange level. They were stuck there until the bulkhead could be reopened.
@@ -215,9 +229,10 @@ Last modified: Sat Feb 20, 2021  09:58PM
 * [ ] Shakes tells them about the modifications he made to the Gnat to make it much louder.
 	* [ ] Shakes makes modifications to the Gnat for the job, to run louder on diesel
 		* that is unique for a submarine
+		* Shakes worked on modifying the engine of the _Gnat_ to be louder as he traveled
+			* with some parts he bought at the depot before leaving
 	* [ ] he tells them he also got a pigeon for communicating with the Gnat
 		* (See pigeon conversation notes in todos)
-	* [ ] Had a deck gun mounted 
 
 ### --- (on the surface in a storm; wave porn)
 
@@ -229,6 +244,7 @@ Last modified: Sat Feb 20, 2021  09:58PM
 
 * [ ] _they are all half-asleep on the midnight watch: bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat_
 	* {nobody is on sonar because it's not military ship, and because you can't hear anything above the sound of the engine anyway}	
+	* [ ] > "The sour prospects of fortune are determined by the winds that blow out of hell, Cap."
 
 
 ### --- (the sub sneaks up on them because they can't hear them over the crashers)
@@ -256,6 +272,8 @@ Last modified: Sat Feb 20, 2021  09:58PM
 
 
 ### Chase scene
+
+* _{detemine exact order of battle for these next couple of scenes BEFORE writing prose}_
 
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
@@ -325,6 +343,8 @@ Last modified: Sat Feb 20, 2021  09:58PM
 
 
 ### --- (into the pacific garbage patch; the final battle)
+
+* _{detemine exact order of battle for these next couple of scenes BEFORE writing prose}_
 
 * [ ] _They head out into the deep ocean, in a sea full of garbage_
 	* (Not plastic. there's little/no plastic in this world)

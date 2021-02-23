@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Feb 21, 2021  01:21PM
+Last modified: Mon Feb 22, 2021  02:50PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -116,14 +116,14 @@ Last modified: Sun Feb 21, 2021  01:21PM
 * [X] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 	* No, it would flood at 2 atmospheres (bottom of the boat) see: https://www.quora.com/What-is-the-air-pressure-in-a-submarine
 * [ ] find and remove 'inches' and 'feet' references
+* [ ] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
 * [X] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
 * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
-	* I like that this will play in later when they decide what to do if they find out that Owen slept with the black sub's captain's wife.
+	* I like that this will play in later when they decide what to do if they find out that Owen slept with the ramming sub's captain's wife.
 	* though maybe this human relations element is covered by the fight with Chips
-* [ ] review specs for Gnat in notes --- do you want to be clear it has a deck gun? Pigeon access hole?
-	* Maybe the deck gun is inside the Gnat, Shakes can mount it if he needs to.
-	* make sure these are picked up in the diagram, where appropriate
+* [ ] review specs for Gnat in notes --- Pigeon access hole?
+	* deck gun will be added in a later story
 * General style stuff to address throughout:
 	* [ ] Do you need to do more to pump up the human relations in the story?
 		* Imagine that a resolution with Chips leads to something successfully happening at the end of the story
@@ -205,6 +205,7 @@ Last modified: Sun Feb 21, 2021  01:21PM
 		* "I wish I could all cans like this. I hate it when a can falls over in the Gnat and rolls forward where I can't get it."
 	* No, cuz they can stack more cans in the hold of a ship
 * [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
+* [ ] They use dead reckoning to navigate, and have to correct their location with celestial sitings at night.
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below)
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use. 
 

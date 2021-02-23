@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Sun Feb 21, 2021  01:21PM
+Last modified: Mon Feb 22, 2021  03:59PM
 
 
 
@@ -193,35 +193,35 @@ Last modified: Sun Feb 21, 2021  01:21PM
 
 * {magnetic warheads loaded carefully through forward loading-hatch, stacked in carefully packed wooden crates with a brand on the side; then they are lashed into the cargo bay}
 * [X] > The gang of men doing the loading, huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds, were swarming around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a block hanging from an anchor point on the roof of the cargo bay.
-* [ ] > As they moved the crates into the cargo bay of the sub, they arranged them like puzzle pieces, and then lashed them with inch-thick hemp rope to fixed loops welded to the walls of the submarine.
+* [X] > As they moved the crates into the cargo bay of the sub, they arranged them like puzzle pieces, and then lashed them with inch-thick hemp rope to fixed loops welded to the walls of the submarine.
 	* {This line maybe goes below, where the Prospect crew member is watching them stow the cargo, and telling them how to best do it.}
-* [ ] > A shorter man wearing a bowler with the felt worn off occasionally broke in with direction on how best to move the crates. 
+* [X] > A shorter man wearing a bowler with the felt worn off occasionally broke in with direction on how best to move the crates. 
 
 * {introduce a new character in the loading bay; maybe one of the conns, leaning against the hull, (maybe asleep?) casually monitoring the loading of the boat.}
-* [ ] > He was talking to a short woman in leather overalls and a thick braid of black hair.
-* [ ] > Percy walked up to them. "How did you get stuck on loading duty Chips?"
-* [ ] > "The sour prospects of fortune are determined by the winds that blow out of hell, Cap."
-* [ ] > "Indeed, especially when your cargo is explosive. I need you prepping the diesel, I want to get out of here tonight. Go get {Sanchez} and have him watch these guys."
-* [ ] > "That's well. I'd much rather tend my tiny controlled explosions than watch these packages of chaos demons loaded aboard."
-* [ ] > "We can finish up down here if you ladies have work to do." Interjected the short man. He seemed nervous, as one might well be when maneuvering explosive materials inside a steel tube under 50 meters of water. It wasn't _likely_, but if anything should happen, there was no escape for any of them.
-* [ ] > "Yeah, no offence, but we always have a crew member monitor loading, even when it isn't as buttery as this cargo."
-* [ ] > "Suit yourself, it's your boat."
-* [ ] > "Yes, it is."
-* [ ] > Chips headed off into the depths of the ship to relate with her diesel engine and see if she could dig up {Sanchez}.
+* [X] > He was talking to a short woman in leather overalls and a thick braid of black hair.
+* [-] > Percy walked up to them. "How did you get stuck on loading duty Chips?"
+* [-] > "The sour prospects of fortune are determined by the winds that blow out of hell, Cap."
+* [-] > "Indeed, especially when your cargo is explosive. I need you prepping the diesel, I want to get out of here tonight. Go get {Sanchez} and have him watch these guys."
+* [-] > "That's well. I'd much rather tend my tiny controlled explosions than watch these packages of chaos demons loaded aboard."
+* [-] > "We can finish up down here if you ladies have work to do." Interjected the short man. He seemed nervous, as one might well be when maneuvering explosive materials inside a steel tube under 50 meters of water. It wasn't _likely_, but if anything should happen, there was no escape for any of them.
+* [-] > "Yeah, no offence, but we always have a crew member monitor loading, even when it isn't as buttery as this cargo."
+* [-] > "Suit yourself, it's your boat."
+* [-] > "Yes, it is."
+* [-] > Chips headed off into the depths of the ship to relate with her diesel engine and see if she could dig up {Sanchez}.
 
 
 ### on the boat for the first time --- description of the _Prospect_
 
 * {Describe the _Prospect_}
 * {update this according to revisions that (need to be) made to the _Prospect_ diagrams based on what you've learned from research -- centered engines, ballast tanks located around the outside of the pressure hull, etc}
-* [ ] {fuel and supplies being loaded too; a long, worn and greasy fuel hose runs up the center of the cargo bay}
-* [ ] > The cargo bay of the _Prospect_ was maybe 60 meters long.
-* [ ] > The front three quarters or so were generally kept empty, or filled with cargo for a specific job.
-* [ ] > The part furthest from her was filled with the boat's working supplies: spare parts, canned foods they never intended to open, a slapped-together wooden workbench they had a constant need for and nowhere else to stash.
-* [ ] > Behind that was a hatch that led to the lower decks where the engine room and the mechanical rooms were located.
-* [ ] > Next to the hatch to the lower-decks was a short steel stair that led to the upper decks which ran the length of the boat, all the way forward above the cargo bay.
-* [ ] > They contained all the crew cabins of the boat: galley, crew quarters, captain's quarters, and a large room they referred to as "stowage" --- and which was where Percy really thought the workbench belonged, if there had been room for it.
-* [ ] > Above that was the conn and the sail
+* [-] {fuel and supplies being loaded too; a long, worn and greasy fuel hose runs up the center of the cargo bay}
+* [-] > The cargo bay of the _Prospect_ was maybe 60 meters long.
+* [-] > The front three quarters or so were generally kept empty, or filled with cargo for a specific job.
+* [-] > The part furthest from her was filled with the boat's working supplies: spare parts, canned foods they never intended to open, a slapped-together wooden workbench they had a constant need for and nowhere else to stash.
+* [-] > Behind that was a hatch that led to the lower decks where the engine room and the mechanical rooms were located.
+* [-] > Next to the hatch to the lower-decks was a short steel stair that led to the upper decks which ran the length of the boat, all the way forward above the cargo bay.
+* [-] > They contained all the crew cabins of the boat: galley, crew quarters, captain's quarters, and a large room they referred to as "stowage" --- and which was where Percy really thought the workbench belonged, if there had been room for it.
+* [-] > Above that was the conn and the sail
 
 
 ### Percy goes up to the conn, meets Hemi
