@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Tue Feb 23, 2021  05:27PM
+Last modified: Wed Feb 24, 2021  09:29PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -195,10 +195,10 @@ Last modified: Tue Feb 23, 2021  05:27PM
 	* [X] "hope we didn't forget anything"
 
 ### rendezvous with the Gnat; Interstitial traveling from depot; 
-* [ ] Hemi got new charts from the depot 
+* [X] Hemi got new charts from the depot 
 	* they find out where the authority line actually was --- Shakes wasn't too far off
 
-* [ ] _They adjust the arrangement of the load in the cargo hold for better trim_
+* [X] _They adjust the arrangement of the load in the cargo hold for better trim_
 	* Come up with some clever idiom for how a sub should sit trim; or that trimming is never done; or something like that
 
 * [ ] _Training Cassandra scene_
