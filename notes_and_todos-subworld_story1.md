@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Feb 23, 2021  11:32AM
+Last modified: Thu Feb 25, 2021  04:32PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -45,6 +45,7 @@ Last modified: Tue Feb 23, 2021  11:32AM
 	* {at front of book}:
 		* _We live in a world today where technology is on the verge of magic. Only an elite few understand any givine technology. It wasn't always like this. At one time technology was a rising force in our culture, but it was knowable. Any person of average intelligence who wanted to understand how things worked could figure it out. That isn't the world we live in today, and there is no way we could return to that world. However, it is possible to imagine a world where technology remained knowable. Such a world could be a setting for telling amazing stories. This is such a story._
 		* _Here in the 21st Century we live with technology that is almost magical in its complexity. But there was a time, not so long ago, when technology was ascendent but was also something that anyone could understand. It was complex but it's roots were electro-mechanical. Even the most complicated machine could be taken apart and comprehended through diligent common sense. We no longer live in that world, but there's no reason we couldn't have. This is a story from that other technological path we could have taken, but didn't._
+
 
 ## Editing notes (be sure to hit these in post-production editing):
 :post-prod:
@@ -173,6 +174,7 @@ Last modified: Tue Feb 23, 2021  11:32AM
 		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
 
+
 ## Story elements specific to this story
 :elements:
 * [X] overall theme: being chased by a dark force of evil (black sub) from place to place to place
@@ -206,36 +208,46 @@ Last modified: Tue Feb 23, 2021  11:32AM
 * [X] The mini sub in some situation wants to create even more noise, so they make some kind of adjustment to the engines to run clackily or something.
 * [X] at some point have one of the characters dip a comb in engine grease and run it through their hair
 * [X] they have a pile of crappy old (pre-war) bicycles, when the cargo bay is clear, they have donut races like the Seven xmas party:
+* [X] possibly the gnat has a window for hand-steering? (How did the rescue sub in red october know where it was precisely enough to hit a mating collar?)
 * [X] someone says sub-marine like it's two words. maybe a trader in a depot or something.
 	* (because submarine is such a strange mush of a word to say) 
+* They battle a giant storm, and can't submerge for some reason
+	* At one point the engines swamp and suck all the air out of the boat and pump in diesel fumes
+	* The boat goes over on its side:
+		* A long time passes while it's on its side. The heavy ballast at the bottom of the boat trying to set their gravitational desires right. "Jesus, will it come back upright?" "She'll come back up. They always come back up. Well, almost always"
 * [ ] A conversation about why salmon cans are shaped with an angle:
 	* Because the can rolls in a circle on the floor!
 		* Shakes is the one who suggests this
 		* "I wish I could all cans like this. I hate it when a can falls over in the Gnat and rolls forward where I can't get it."
 	* No, cuz they can stack more cans in the hold of a ship
 * [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
-* [ ] They use dead reckoning to navigate, and have to correct their location with celestial sitings at night.
-* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below)
-	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use. 
+* [ ] They use dead reckoning to navigate, and have to correct their location with celestial sitings at night.  
+* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
+	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
+* [ ] someone fishes from the deck of the ship
+* [ ] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
+* [ ] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
+* [ ] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
 
-## style
-:style:
-* remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head. 
-	* build a map in their head for them.
-	* See notes on memory house in writing
-* Just make the first submarine novel GO:
-	* Go for character-driven (fear) excitement through staring at dials
-	* This first book should be the pop novel: readable, accessible, character-driven
-		* an accessible novel is more likely to be something you could sell/build a fanbase
-	* maybe keep the style experiments for reference when you later go back to write filthy scum
-		* and the submarine novel is just accessible and readable, with occasional elements of that style?
-		* a more stylized one is more likely to push you in a more award-winning type direction, but that can come later
-	* do both?!
-	* Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights
-	* I'm not sure the sub novel can be all the things you want it to be
-	* also, different sub books/stories/chapters could have different styles as you go
-	* better to produce than to get stuck trying to get the perfect style
-	* accessibility is more important than style:
+
+## style 
+:style: 
+* remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head.  
+	* build a map in their head for them.  
+* See notes on memory house in writing 
+* Just make the first submarine novel GO: 
+	* Go for character-driven (fear) excitement through staring at dials 
+	* This first book should be the pop novel: readable, accessible, character-driven 
+	* an accessible novel is more likely to be something you could sell/build a fanbase 
+	* maybe keep the style experiments for reference when you later go back to write filthy scum 
+	* and the submarine novel is just accessible and readable, with occasional elements of that style?  
+	* a more stylized one is more likely to push you in a more award-winning type direction, but that can come later 
+	* do both?!  
+	* Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights 
+	* I'm not sure the sub novel can be all the things you want it to be 
+	* also, different sub books/stories/chapters could have different styles as you go 
+	* better to produce than to get stuck trying to get the perfect style 
+	* accessibility is more important than style: 
 		* do NOT fall into the trap of keeping things abstract for the sake of style. those books are often (and often rightfully) unpopular.
 		* on the other hand layering style on top of accessibility is the dream: like Batman
 * maybe with the engine running full blast, it SOUNDS heavy and grimey, like dopesmoker.
@@ -250,6 +262,7 @@ Last modified: Tue Feb 23, 2021  11:32AM
 	* Though perhaps they end up being the exception that proves the rule.
 * Even though it would have been cool to have people communicating on the boat through tubes, that's really a 19th century thing, and I think for where these boats are at, historically, it would just have to be intercoms.
 
+
 ## On writing this book
 :onwriting:
 * (See notes about technology vs magic elsewhere)
@@ -258,7 +271,7 @@ Last modified: Tue Feb 23, 2021  11:32AM
 * I am constrained so much more than you could ever know or articulate by the conventions of what is considered "good" writing:
 	* the instinct to go off in a wild new direction; the desire to scrape up a hard-pushed metaphor; but more than anything else the constant pressure for things to make _sense_ --- characters motivated rationally, story order, character style
 	* All of these things I find myself constantly checking and cutting back for fear of some judgmental reader telling me to 'kill my babies' and that it's too purple, too pushed, too random.
-	# * I wish I could just say fuck those people. But SOME of that does actually improve the quality of the writing. My fear is that it makes it dull in equal parts. What about art requiring fanatacism? I should more often be fanatically telling that theoretical reader to go fuck themselves.
+	* I wish I could just say fuck those people. But SOME of that does actually improve the quality of the writing. My fear is that it makes it dull in equal parts. What about art requiring fanatacism? I should more often be fanatically telling that theoretical reader to go fuck themselves.
 * I feel like the Calvin and Hobbes where they make the yard conform to the map instead of the other way around.
 	* I feel like I'm making the story conform to the map (and the rules of submarine technology). Sometimes I wonder if it should be the other way around.
 	* Or maybe this is just how a good story gets written.

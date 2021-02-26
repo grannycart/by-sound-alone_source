@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Wed Feb 24, 2021  09:29PM
+Last modified: Thu Feb 25, 2021  11:05AM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -2500,9 +2500,9 @@ Percy pointed to a hashed arc that ran across the chart passing by one side of t
 
 "Not bad for off the top of a tweaker head like that." Hemi agreed.
 
-Percy indicated an arcing course on the chart with the tip of her finger. "We should head that way, I think."
+Percy indicated an arcing course on the chart with the tip of her finger. "We should head that way, I think." She indicated a point on the arc. "And I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
 
-"Yes. Further into the Consolidated States waters will be better. They are far less likely to bother us, and we can travel for a few days while remaining in their waters. But..." He took another chart from the stack of rolled charts and unrolled it in front of Percy. "We have to head through these waters in the south. A highly contested area. At least three, up to five Authorities all claiming parts of it."
+"Good. And yes, further into the Consolidated States waters will be better. They are far less likely to bother us, and we can travel for a few days while remaining in their waters. But..." He took another chart from the stack of rolled charts and unrolled it in front of Percy. "We have to head through these waters in the south. A highly contested area. At least three, up to five Authorities all claiming parts of it."
 
 "Well, we'll just have to be careful when we move through there. Be disciplined about running on the surface only at night, and max out our underwater time."
 

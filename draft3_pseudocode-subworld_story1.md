@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Feb 24, 2021  09:29PM
+Last modified: Thu Feb 25, 2021  12:17PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -202,6 +202,7 @@ Last modified: Wed Feb 24, 2021  09:29PM
 	* Come up with some clever idiom for how a sub should sit trim; or that trimming is never done; or something like that
 
 * [ ] _Training Cassandra scene_
+	* [ ] "Sonar requires immagination. You have to put your mind out there in the water, and see in your head the sounds you are hearing. When you hear a sound, you have to match it to an image in your head that describes how the sound could be made. The more detailed you can imagine the image fitting to the sound the more accurate your assessement of the contact will be. That's what makes a top sonar person."
 
 * [ ] _They run underwater for 24 hours, but at the next nightfall, they decide to surface to recharge the batteries_
 
@@ -209,7 +210,6 @@ Last modified: Wed Feb 24, 2021  09:29PM
 * [ ] _They use dead reckoning to track their progress_
 
 * [ ] _They have to take a siting from the stars at night to correct their location_
-
 
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
 	* Hemi or Cass (whoever hears Shakes first on sonar):
@@ -224,6 +224,7 @@ Last modified: Wed Feb 24, 2021  09:29PM
 		* Shakes got off in the Gnat in the confusion
 	* [ ] Maybe here is where you come back to the cause for the black sub to be chasing them:
 		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
+			* Could be revealed right before final battle for drama though
 		* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer belligerence of it.
 	* [ ] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
 
@@ -237,11 +238,14 @@ Last modified: Wed Feb 24, 2021  09:29PM
 
 ### --- (on the surface in a storm; wave porn)
 
-* [ ] _They need to recharge batteries, so they come up on the surface, at night. The plan is for the Gnat to run intercept._
+* [ ] _They need to recharge batteries, so they come up on the surface, at night, in a storm. Their batteries are too low, so they are forced to run on the surface in big weather._
+	* [ ] "There's some 10 meter waves out there Captain."
 
-* [ ] _They come up in a moderate storm; the whine, push and crash of the boat and engines sounds like Dopesmoker_
+* [ ] _ the whine, push and crash of the boat and engines sounds like Dopesmoker_
+	* [ ] Hemi is forced to steer the boat from the bridge in the weather
+	* [ ] Gregory is up on the lookout (Is there a lookout ring on a mast? that might be cool and explain why Gregory doesn't make it back below in time.)
 
-* [ ] _hours go by, boredom sets in; the Gnat and the Prospect stay in touch via CB-style ship-to-ship radio_
+* [ ] _hours go by, boredom sets in; the Gnat and the Prospect stay in touch via CB-style ship-to-ship radio. The Gnat can't take the waves and has to dive and just stay down. They'll have to pick Shakes back up later._
 
 * [ ] _they are all half-asleep on the midnight watch: bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat_
 	* {nobody is on sonar because it's not military ship, and because you can't hear anything above the sound of the engine anyway}	
@@ -254,7 +258,7 @@ Last modified: Wed Feb 24, 2021  09:29PM
 	* {Don't forget to capture the idea of Cassandra putting her mind out into the water --- some of the sonar-only idea you've had for telling sub stories}
 
 * [ ] _the sub with the ram fires on the Prospect with a deck gun_
-	* {maybe it's not going to try ramming them again because of the storm? they know it's the same sub because of the unique ram on the bow}
+	* {maybe it's not going to try ramming them again because of the storm? they know it's the same sub because of the unique ram on the bow; why not torp?}
 	* [ ] The enemy sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah
 
 * [ ] _Gregory is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
@@ -287,12 +291,15 @@ Last modified: Wed Feb 24, 2021  09:29PM
 	* [ ] Watching the battery gauges --- how long can they go before they are forced to the surface?
 
 * [ ] This is where they should implement the Gnat being noisy technique to try to distract their pusuers
+	* If they lost the Gnat ealier, they'll have to pick him back up here.
+	* Or, in combination with the diving below the scattering layer
 
 ### --- (hiding in the depths, escape under the deep scattering layer)
 
 * [ ] _The dive below the deep scattering layer_
 	* {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 		* Now they pop a rivet or something, they are TOO deep, scarily deep.
+		* ...or maybe save the rivet-popping scary deep until they go down the continental shelf --- the deep scattering layer is sometimes well up above their test depth.
 	* Cassandra thinks they will crash into the bottom, Percy knows they will go right through it because it's just fish.
 	* {Where's the Gnat? I think it goes and gets lost in the storm}
 	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish --- the "bottom" has a particular sound on sonar.}
@@ -310,7 +317,7 @@ Last modified: Wed Feb 24, 2021  09:29PM
 
 ### --- (Into an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port)
 
-* [ ] _They arrive at an exotic remove city, with wooden homes built on stilts and junks with fishermen._
+* [ ] _They arrive at an exotic remote city, with wooden homes built on stilts and junks with fishermen._
 	* Hints at the economy of the city, the whole thing built on stilts
 		* it's not _ancient_; it's relatively new development, but impoverished
 		* including warehouses and depots
@@ -320,8 +327,7 @@ Last modified: Wed Feb 24, 2021  09:29PM
 		* some close calls with too shallow --- watching that depth-under-keel gauge again --- warning lights
 
 * [ ] _The find their dock and unload._
-	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something.
-
+	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something. Broken English in general
 
 * [ ] _The enemy sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
 
@@ -330,6 +336,7 @@ Last modified: Wed Feb 24, 2021  09:29PM
 
 * [ ] _They scram out of the port, and cruise down the continental shelf just above the bottom so they can't be found._
 	* [ ] push it down beyond test depth
+	* [ ] Maybe THIS is the scary-deep rivet-popping section
 
 
 ### --- (bicycle race in the hangar)
