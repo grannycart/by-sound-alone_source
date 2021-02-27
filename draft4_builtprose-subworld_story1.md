@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Feb 25, 2021  11:05AM
+Last modified: Sat Feb 27, 2021  06:46PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -2429,7 +2429,7 @@ Hemi was too busy considering his options to respond though. He was counting sec
 
 The _Prospect_ put a tiny, silent amount of speed on. They crawled out of the docking area, with Bastian, swinging the sonar mics back and forth rapidly, trying to make sure he was hearing every contact, and understood where each was going. It was a good first lesson in sonar for Cassandra, though she found herself wildly confused by all the different sounds, their meanings, and their correlations to the range and heading calculations. She listened with a anxious look on her face.
 
-"You'll get the hang off it eventually," Bastian said to her. "Or... you won't Seems to me like people either get sonar, or they don't. There's no in between."
+"You'll get the hang off it eventually," Bastian said to her. "Or... you won't. Seems to me like people either get sonar, or they don't. There's no in between."
 
 Cassandra hardly looked reassured.
 
@@ -2484,7 +2484,7 @@ Bastian reported that he thought he could hear some disturbing sounds from the d
 
 ### looking at the charts
 
-The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness a couple of hundred meters underwater. After a couple of hours of creeping, Percy flipped the white lights back on which everyone understood to mean the situation had returned to nominal, even though it was really a meaningless gesture.
+The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on which everyone understood to mean the situation had returned to nominal, even though it was really a meaningless gesture.
 
 "Hemi, join me at the navigation station, it's time for us to figure out where we're going." Said Percy.
 
@@ -2536,6 +2536,9 @@ Captain Percy considered. "I think so. Take us up to six knots. Only top sonar p
 
 "Sounds good." Said Hemi as he started climbing back up to the control room to have Owen put a little more speed on.
 
+
+### trimming the boat to handle the cargo load
+
 Six knots was still slow, but twice the speed they crawled away from the depot at. With three more hours of crusing they were out of range of all the but the top sonar gear and ears in the world. Percy had them come up to 100 meters to take some of the strain off the hull.
 
 At the shallower depth, Hemi stood at the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Yeah Percy," he said to her as she stood behind him smoking, "I think we can certainly do better if we move some of the cargo around down in the hold.."
@@ -2544,21 +2547,84 @@ At the shallower depth, Hemi stood at the tank trim control panel and made adjus
 
 Hemi tapped Owen on the shoulder and they climbed down to the sonar compartment where Bastian joined them on the trip down to the cargo hold.
 
-When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled a little damp. Hemi was sure the quilted patchwork over the split seam was still seeping. They might never have a completely dry cargo hold again. That was OK, that's what bilge pumps were for. But the accumulating bilge water was anothe good reason to shift the cargo and get some play in the boat trim.
+When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled a little damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was still seeping. They might never have a completely dry cargo hold again. That was OK, that's what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
 
-Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had the beginnings of the skill, but not a refined expertise. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo bay. They also still had to leave enough room for the crew to get through the crates into the main decks of the boat.
+Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the skill needed. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo bay, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo bay while still leaving enough room for the crew to get through the crates.
 
-Hemi had Owen rig a block and chain to some sliding fixtures on the roof of the cargo bay. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain through the tackle while Owen guided it off the stack. The three of them would then pull the airborne crate up the length of the cargo bay, and Owen and Bastian would push it with poles while Hemi lowered it to it's new place.
+Hemi had Owen rig a block and chain to sliding fixtures on the roof of the cargo bay. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain through the tackle while Owen guided it off the stack. The three of them would then pull the airborne crate up the length of the cargo bay, and Owen and Bastian would push it with poles while Hemi lowered it to it's new place.
 
-It took a few hours to make a first pass at having rearranged the crates. When Hemi thought it was looking good, he left Owen and Bastian smoking in the cargo bay while he ran up to the control room. There, Hemi and Percy made adjustments to the trim of the boat, and Hemi went back down to the cargo bay to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
+It took a few hours to make a first pass at rearrangin the crates. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made adjustments to the trim of the boat and Hemi went back down to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
 
 "Fuckin' Christ Hemi," said Gregory when Hemi was finally settled back into the control room, "seemed like the boat was trim enough when we left the depot. Didn't slow us down none."
 
 "A submarine is like the hairs on the back of your neck, Gregory. It _always_ needs a trim."
 
 
+### Training Cassandra on sonar
 
+Hemi knew Captain Percy would keep the same course, depth, and speed until well after dark, and that was still a few hours off yet. He took the opportunity to start training Cassandra on sonar. In the sonar compartment, he sent Bastian off for coffee and a smoke and sat down next to Cassandra.
 
+"You've been listening for the last few hours while Bastian worked the sonar, right?" Hemi asked her.
+
+Cassandra nodded.
+
+"Any of it make any sense?"
+
+"Do you want me to lie?" Cassandra asked.
+
+"Don't worry about. It's not as complex as it might seem. Except for the parts that are, but we'll get to those as we come to them. Put your headset over both ears... you need both ears to get a full sense of what any sound you hear on sonar is doing."
+
+Cassandra adjusted the headset so it sat evenly with the headphones covering both her ears. The band matted down her hair where it crossed her head. 
+
+"OK" said Hemi as he began adjusting and tuning the sonar unit "this is the 'passive' sonar rig. It's nothing more than microphones for listening underwater. There's 'active' sonar too -- that's a lot more complicated: the sonar sends a ping out and we listen for it's echo. We don't use that very often so don't worry about it for now. Passive is simpler, you're just listening, passively. Get it?"
+
+Cassandra nodded.
+
+"The main thing you need to know for operating the sonar is that you can aim the underwater microphones in a specific direction using this big wheel." Hemi turn the stainless steel wheel a half turn. "See that dial there? That shows you which way the microphones are pointed, it goes around 360 degrees. At some point someone will ask you to listen in a specific direction. They will give you the degrees and you just turn the wheel until the needle on that dial shows you are aiming the mics in the direction they are asking about. Make sense?"
+
+"That seems simple enough." Said Cassandra.
+
+"That part is. It will get a lot more complex when we start using the filters and transducers to tune in on a contact later. The thing is, the ocean is never absolutely silent. Let's start by just listening to what we hear on the sonar if there's no specific contact we're trying to focus in on." Hemi and Cassandra both remained quiet for a minute with the background sound of the ocean washing through their headphones. "OK Cassandra, what do you hear?"
+
+"I don't know..." She waved one small hand around in the air absently. "White noise?"
+
+"Almost anything could be white noise. Describe it with more detail than that."
+
+"There's... a low rumble, a bit of a swishing sound..."
+
+"Good. We're running on the electric motor, underwater, at a modest speed. That's what it sounds like when the boat is moving like that. Later, when we're near the surface with the diesel engines running, it'll be a lot louder and you won't be able to hear much in the water beyond the engines. But while we're on the electric motor, we can hear more on sonar. Sonar requires immagination. You have to put your mind out there in the water. When you hear a sound, you have to match it to an image in your head that describes how the sound could be made. The more detail you can imagine in the image to fit it to the sound, the more accurate your assessement of the contact will be. That's what makes a top sonar person." 
+
+Hemi pointed to the largest of a set of gauges further up the wall in front of them.
+
+"Now, the gauge above the directional indicator is the main signal strength indicator. All those smaller gauges above that show signal strength at different frequencies, but you only need to worry about this main signal strength indicator for now. Watch that needle, if you see it jump, there's a significant sound out there in the water, and you'll want to listen to it and try to figure out what it is. " 
+
+"Let's see..." Hemi turned the direction dial slowly. About a quarter of the way around the strength indicator dial moved up a little and wavered there. "So there's something to hear in this direction. What do you hear in your headset now?"
+
+Cass listened, her eyes watching the signal strength indicator needle wavering like a humming bird feeding. It was moving in response to another kind of white noise, higher pitched than the sub's engines, which she could still hear rumbling in lower frequencies. This sound was familiar, a washing, churning sound with an occasional rumble mixed in... She smiled, "it's breaking surf isn't it?"
+
+"Correct! There's a small atoll a few miles in that direction and waves are breaking on it's shore. Let's see what else is out there." Around the directional needle went, and Hemi slowed it, and stopped with the strength indicator needle throbbing slightly, like it had a pulse.
+
+Cass closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a richness to them, they bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so very long ago when she was a child. "Is that the sound dolphins make?" She asked.
+
+"Very good! Dolphins use active sonar, boucing sounds they make off of underwater objects to locate them. They are much better at it than we are. Did you notice that you could hear the dolphins in one ear slightly before the other?"
+
+Cassandra nodded again.
+
+"That's because the sonar uses two sets of microphones, one on the front of the boat, and one at the rear. Sound coming in hits one microphone before the other, and the sonar rig puts the difference into the earphones for you. With practice, you can use the difference in how long it takes to estimate how far away a contact is, for instance, I can tell you these dolphins are about a third of a mile away. That only works if the contact is close enough that we can hear the difference though. If you think about it, if a contact is farther away the sound will hit both the microphones on the bow of the _Prospect_ and the stern at basically the same time." 
+
+"OK, yah, that makes sense." Said Cassandra, picturing the sound waves bouncing off the boat in her head.
+
+Hemi smiled. "Miss Cassandra, you may have a career ahead of you. Keep practicing until we surface and start the diesels later tonight. You won't be able to hear anything after that."
+
+"OK Hemi. Thanks for the lesson."
+
+Hemi left her there listening to the dolphins and climbed up next to Percy in the control room.
+
+"How'd she do?" Asked Percy.
+
+"We may have a pair of ears yet."
+
+"That would be a nice change. Most of these fuckers are OK at rudimentary steering, but they're useless on sonar."
 
 
 

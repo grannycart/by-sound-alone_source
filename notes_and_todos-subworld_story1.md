@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Feb 25, 2021  04:32PM
+Last modified: Sat Feb 27, 2021  05:48PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -45,6 +45,7 @@ Last modified: Thu Feb 25, 2021  04:32PM
 	* {at front of book}:
 		* _We live in a world today where technology is on the verge of magic. Only an elite few understand any givine technology. It wasn't always like this. At one time technology was a rising force in our culture, but it was knowable. Any person of average intelligence who wanted to understand how things worked could figure it out. That isn't the world we live in today, and there is no way we could return to that world. However, it is possible to imagine a world where technology remained knowable. Such a world could be a setting for telling amazing stories. This is such a story._
 		* _Here in the 21st Century we live with technology that is almost magical in its complexity. But there was a time, not so long ago, when technology was ascendent but was also something that anyone could understand. It was complex but it's roots were electro-mechanical. Even the most complicated machine could be taken apart and comprehended through diligent common sense. We no longer live in that world, but there's no reason we couldn't have. This is a story from that other technological path we could have taken, but didn't._
+		* _This book is dedicated to those brave women and men who plied their trade under the waves of a world that, through historical hapenstance and the hubris of our own technological and political classes, never existed._
 
 
 ## Editing notes (be sure to hit these in post-production editing):
@@ -232,6 +233,8 @@ Last modified: Thu Feb 25, 2021  04:32PM
 
 ## style 
 :style: 
+* 'feminine' qualities vs 'masculine' qualities --- women who live on a dirty machine
+* fitzcorraldo: hauling explosive parts over a mountain
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head.  
 	* build a map in their head for them.  
 * See notes on memory house in writing 

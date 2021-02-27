@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Feb 25, 2021  12:17PM
+Last modified: Sat Feb 27, 2021  06:46PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -201,17 +201,17 @@ Last modified: Thu Feb 25, 2021  12:17PM
 * [X] _They adjust the arrangement of the load in the cargo hold for better trim_
 	* Come up with some clever idiom for how a sub should sit trim; or that trimming is never done; or something like that
 
-* [ ] _Training Cassandra scene_
-	* [ ] "Sonar requires immagination. You have to put your mind out there in the water, and see in your head the sounds you are hearing. When you hear a sound, you have to match it to an image in your head that describes how the sound could be made. The more detailed you can imagine the image fitting to the sound the more accurate your assessement of the contact will be. That's what makes a top sonar person."
+* [X] _Training Cassandra scene_
+	* [X] "Sonar requires immagination. You have to put your mind out there in the water, and see in your head the sounds you are hearing. When you hear a sound, you have to match it to an image in your head that describes how the sound could be made. The more detailed you can imagine the image fitting to the sound the more accurate your assessement of the contact will be. That's what makes a top sonar person."
 
-* [ ] _They run underwater for 24 hours, but at the next nightfall, they decide to surface to recharge the batteries_
-
-
-* [ ] _They use dead reckoning to track their progress_
+* [ ] _They run underwater until nightfall_
+	* [ ] _They use dead reckoning to track their progress_
 
 * [ ] _They have to take a siting from the stars at night to correct their location_
+	* [ ] to make sure the rendezvous with Shakes in the right place.
 
 * [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
+	* Rendezvous is at dawn
 	* Hemi or Cass (whoever hears Shakes first on sonar):
 		* "I think Shakes might have overdone it, he sounds like a 200 meter tanker"
 		* "Well, maybe instead of being a decoy, he'll just drown us out."
@@ -240,6 +240,16 @@ Last modified: Thu Feb 25, 2021  12:17PM
 
 * [ ] _They need to recharge batteries, so they come up on the surface, at night, in a storm. Their batteries are too low, so they are forced to run on the surface in big weather._
 	* [ ] "There's some 10 meter waves out there Captain."
+
+* [ ] The boat rolls over
+	* [ ] "Fuck, we came up in the ditch of a wave." The boat rolled over onto its side.
+	* [ ] It lay on it's side, the power blinking on and off as the bilge water made it's way into places it didn't belong.
+	* [ ] Even though every last object on the sub was stowed to keep it from falling, the boat laying on its side was not in the calculations for the preperations.
+	* [ ] The crates in the hold crashed over, they stood intensly alert for the pop in their ears that meant one of the warheads exploded, and it was all over for them.
+	* [ ] "Christ!" said Cassandra, "Is this it? are we going down?"
+	* [ ] "Don't worry." Said Hemi, "The boat's always right themselves eventually."
+	* [ ] "Except when they don't." Said Bastian.
+	* [ ] They stood waiting for gravity to take hold on the much heavier lower portion of the boat, and lift them back upright.
 
 * [ ] _ the whine, push and crash of the boat and engines sounds like Dopesmoker_
 	* [ ] Hemi is forced to steer the boat from the bridge in the weather

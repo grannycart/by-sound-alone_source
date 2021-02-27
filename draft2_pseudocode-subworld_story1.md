@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Tue Feb 23, 2021  12:01PM
+Last modified: Sat Feb 27, 2021  06:46PM
 
 
 
@@ -250,35 +250,35 @@ Last modified: Tue Feb 23, 2021  12:01PM
 * {Might need something earlier on where Percy tells Hemi he needs to train Cass}
 * {down at the sonar station, Hemi takes some downtime to give Cass her first lesson on sonar}
 * {Intros needed for the two of them?}
-* [ ] > Hemi handed Cass a set of headphones and she put them on matting down here hair where the band crossed her head. Hemi picked up a second set and plugged them into the sonar unit.
+* [X] > Hemi handed Cass a set of headphones and she put them on matting down here hair where the band crossed her head. Hemi picked up a second set and plugged them into the sonar unit.
 
 * {How the passive sonar works}
-	* {Do you want to say something about how using mics at either end of the sub allows a sonar operator to calculate distance (to a certain extent) of a sonar target?}
-* [ ] > "OK" said Hemi "this is the 'passive' sonar unit. It's nothing more than microphones to listen underwater. There's 'active' sonar too -- that's a lot more complicated, and you don't have to worry about it for now. There's also some filters and transducers and stuff for the passive sonar that you'll learn later, but for now the main thing you need to know is that you can turn the microphones around using this big wheel." Hemi turn the wheel a half turn. "See that dial there? That shows you which way the microphones are pointed, it goes around 360 degrees. At some point someone will ask you to listen in a specific direction. They will give you the degrees and you just turn the wheel until the needle on that dial shows you are aiming the mics in the direction they are asking about. Got it?"
-* [ ] > "Seems simple enough."
+* [X] > "OK" said Hemi "this is the 'passive' sonar unit. It's nothing more than microphones to listen underwater. There's 'active' sonar too -- that's a lot more complicated, and you don't have to worry about it for now. There's also some filters and transducers and stuff for the passive sonar that you'll learn later, but for now the main thing you need to know is that you can turn the microphones around using this big wheel." Hemi turn the wheel a half turn. "See that dial there? That shows you which way the microphones are pointed, it goes around 360 degrees. At some point someone will ask you to listen in a specific direction. They will give you the degrees and you just turn the wheel until the needle on that dial shows you are aiming the mics in the direction they are asking about. Got it?"
+* [X] > "Seems simple enough."
 
 * {How the signal strength indicator dial works}
-* [ ] > "That part is. Don't worry, it gets a lot more complex. Now, the gauge above the directional indicator is the main signal strength indicator. All those smaller gauges above that show the strength at different frequencies, but you only need to worry about this main signal strength indicator for now. Watch that needle, if you see it jump, there's a significant sound out there in the water, and you'll want to listen to try and figure out what it is."
-* [ ] > "Alright, I'm with you."
+* [X] > "That part is. Don't worry, it gets a lot more complex. Now, the gauge above the directional indicator is the main signal strength indicator. All those smaller gauges above that show the strength at different frequencies, but you only need to worry about this main signal strength indicator for now. Watch that needle, if you see it jump, there's a significant sound out there in the water, and you'll want to listen to try and figure out what it is."
+* [-] > "Alright, I'm with you."
 
 * {Cass does her first listen attempt; describe what basic sub operation sounds like}
-* [ ] > "First let's just listen to what's going on right now." Hemi and Cass both remained quiet for a minute. "OK Cass, what do you hear?"
-* [ ] > "I don't know... white noise?"
-* [ ] > "Almost anything could be white noise. Describe it with more detail than that."
-* [ ] > "There's... a low rumble, a bit of a swishing sound..."
-* [ ] > "Good. We're running on the electric motor, underwater, at a modest speed. That's what it sounds like when we run like that. Later, when we're near the surface with the diesel engines running, it'll be a lot louder and you won't be able to hear much in the water beyond the engines. But while we're on the electric motor right now, we can hear more. Let's see..." Hemi turned the direction dial slowly. About a quarter of the way around the strength indicator dial moved up a little and wavered there. "What do you hear now?"
+* [X] > "First let's just listen to what's going on right now." Hemi and Cass both remained quiet for a minute. "OK Cass, what do you hear?"
+* [X] > "I don't know... white noise?"
+* [X] > "Almost anything could be white noise. Describe it with more detail than that."
+* [X] > "There's... a low rumble, a bit of a swishing sound..."
+* [X] > "Good. We're running on the electric motor, underwater, at a modest speed. That's what it sounds like when we run like that. Later, when we're near the surface with the diesel engines running, it'll be a lot louder and you won't be able to hear much in the water beyond the engines. But while we're on the electric motor right now, we can hear more. Let's see..." Hemi turned the direction dial slowly. About a quarter of the way around the strength indicator dial moved up a little and wavered there. "What do you hear now?"
 
 * {Cass identifies breaking surf on the second attempt}
-* [ ] > Cass listened, her eyes watching the signal strength indicator needle wavering like a humming bird feeding. It was moving in response to another kind of white noise, higher pitched than the sub's engines, which she could still hear rumbling in lower frequencies. This sound was familiar, a washing, churning sound with an occasional rumble mixed in... She smiled, "it's breaking surf isn't it?"
+* [X] > Cass listened, her eyes watching the signal strength indicator needle wavering like a humming bird feeding. It was moving in response to another kind of white noise, higher pitched than the sub's engines, which she could still hear rumbling in lower frequencies. This sound was familiar, a washing, churning sound with an occasional rumble mixed in... She smiled, "it's breaking surf isn't it?"
 
 * {Cass identifies a dolphin.}
-* [ ] > "Right! We're only a few miles out from the coast, you can still hear the breakers. Let's see what else is out there." Around the directional needle went, and Hemi slowed it, and stopped with the strength indicator needle throbbing slightly, like it had a pulse.
-* [ ] > Cass closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a richness to them, they bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so very long ago when she was a child. "Is that the sound dolphins make?"
-* [ ] > "Very good! Dolphins use active sonar. They are better at it than we are."
+* [X] > "Right! We're only a few miles out from the coast, you can still hear the breakers. Let's see what else is out there." Around the directional needle went, and Hemi slowed it, and stopped with the strength indicator needle throbbing slightly, like it had a pulse.
+* [X] > Cass closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a richness to them, they bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so very long ago when she was a child. "Is that the sound dolphins make?"
+* [X] > "Very good! Dolphins use active sonar. They are better at it than we are."
+	* {Do you want to say something about how using mics at either end of the sub allows a sonar operator to calculate distance (to a certain extent) of a sonar target?}
 
 * {Hemi gives a positive report about Cass to Percy}
-* [ ] > Hemi left her there listening to the dolphins and climbed up next to Percy. "We might have a pair of ears yet."
-* [ ] > "That would be nice. The rest of these fuckers are useless on sonar."
+* [X] > Hemi left her there listening to the dolphins and climbed up next to Percy. "We might have a pair of ears yet."
+* [X] > "That would be nice. The rest of these fuckers are useless on sonar."
 
 
 ### re-surfacing
