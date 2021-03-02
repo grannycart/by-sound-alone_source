@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Mar 01, 2021  04:58PM
+Last modified: Tue Mar 02, 2021  04:29PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -70,6 +70,7 @@ Last modified: Mon Mar 01, 2021  04:58PM
 * [X] maybe say somewhere that they should think about installing a snorkel?
 	* (So sub nerds who read the book understand that they don't have one)
 * [ ] move section headers to .md comments; create chapter breaks
+* [ ] remove contractions from Hemi dialog
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
@@ -78,6 +79,7 @@ Last modified: Mon Mar 01, 2021  04:58PM
 	* tough maybe Hemi is the only one who calls her by it
 * [ ] Have Percy address Hemi by his full name somewhere
 * [ ] Cassandra should always address percy as "Captain Percy"
+* [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
 * [ ] make sure you only explain active sonar once
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] refer to bastian, gregory, and Owen as the 'deck crew'
@@ -95,6 +97,9 @@ Last modified: Mon Mar 01, 2021  04:58PM
 	* The idea is that someone who didn't know better might mistake him for the captain
 	* or viking braids?
 	* Do Maori men grow beards? Maybe no beard
+* [ ] Add a minor misdirect at the beginning of the book where someone might mistake him for the captain
+	* [ ] This could be where you add a clearer description of Hemi earlier in the book.
+	* [ ] Maybe he is the first one to climb up onto the bridge
 * [-] Change Owen to Owens?
 	* Leaning away from making this change
 * [ ] 'crew quarters' not 'crew's quarters' (just because I like it better, not because I looked it up_
@@ -105,6 +110,8 @@ Last modified: Mon Mar 01, 2021  04:58PM
 	* decide, edit and then make sure it's reflected in the Prospect notes file
 * [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
+* [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
+* [ ] does Shakes insist on being referred to as "Captain Shakes"?
 * [ ] Consider removing parts where Percy second-guesses herself.
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
 	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
@@ -182,7 +189,6 @@ Last modified: Mon Mar 01, 2021  04:58PM
 	* (dark-awesome, like original meaning maybe)
 * [ ] consider using 'nominal' to mean anything you want it to.
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
-* [ ] Need to add a clearer description of Hemi earlier in the book.
 * [ ] Need to include a description of Percy somwhere early in the book
 	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
 	* [ ] Subtly reinforce Percy's beauty in more places:
@@ -227,7 +233,7 @@ Last modified: Mon Mar 01, 2021  04:58PM
 * [X] possibly the gnat has a window for hand-steering? (How did the rescue sub in red october know where it was precisely enough to hit a mating collar?)
 * [X] someone says sub-marine like it's two words. maybe a trader in a depot or something.
 	* (because submarine is such a strange mush of a word to say) 
-* They battle a giant storm, and can't submerge for some reason
+* [X] They battle a giant storm, and can't submerge for some reason
 	* At one point the engines swamp and suck all the air out of the boat and pump in diesel fumes
 	* The boat goes over on its side:
 		* A long time passes while it's on its side. The heavy ballast at the bottom of the boat trying to set their gravitational desires right. "Jesus, will it come back upright?" "She'll come back up. They always come back up. Well, almost always"
@@ -243,7 +249,7 @@ Last modified: Mon Mar 01, 2021  04:58PM
 * [ ] someone fishes from the deck of the ship
 * [ ] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
 * [ ] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
-* [ ] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
+* [X] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
 
 
 ## style 

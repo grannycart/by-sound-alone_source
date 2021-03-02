@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Feb 27, 2021  06:46PM
+Last modified: Tue Mar 02, 2021  05:50PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -204,37 +204,40 @@ Last modified: Sat Feb 27, 2021  06:46PM
 * [X] _Training Cassandra scene_
 	* [X] "Sonar requires immagination. You have to put your mind out there in the water, and see in your head the sounds you are hearing. When you hear a sound, you have to match it to an image in your head that describes how the sound could be made. The more detailed you can imagine the image fitting to the sound the more accurate your assessement of the contact will be. That's what makes a top sonar person."
 
-* [ ] _They run underwater until nightfall_
-	* [ ] _They use dead reckoning to track their progress_
+* [X] _They run underwater until nightfall_
+	* [X] _They use dead reckoning to track their progress_
 
-* [ ] _They have to take a siting from the stars at night to correct their location_
-	* [ ] to make sure the rendezvous with Shakes in the right place.
+* [X] _They have to take a siting from the stars at night to correct their location_
+	* [X] to make sure the rendezvous with Shakes in the right place.
 
-* [ ] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
-	* Rendezvous is at dawn
-	* Hemi or Cass (whoever hears Shakes first on sonar):
+* [X] _They rendezvous with the Gnat, who left the depot after them; Shakes tells them that the authority sub wrecked the depot, and knows they are carrying war contraband._
+	* [X] Rendezvous is at dawn
+	* [X] Hemi or Cass (whoever hears Shakes first on sonar):
 		* "I think Shakes might have overdone it, he sounds like a 200 meter tanker"
 		* "Well, maybe instead of being a decoy, he'll just drown us out."
-	* Remember: the Gnat has to mate with the _Prospect_ from underneath.
-	* Shakes fills them in on what happened since they left the depot:
+	* [X] Remember: the Gnat has to mate with the _Prospect_ from underneath.
+
+* [X] _Shakes fills them in on what happened since they left the depot:_
 		* They docked after the _Prospect_ left 
 		* the sub with the ram docked, went through the whole depot checking papers
 		* They specifically were asking about the Prospect; they found out the Prospect left hauling weapons parts, but they were after the Prospect BEFORE that
 		* the dock boss closed the watertight bulkhead to the dock while a bunch of the ram sub's crew were up on the exchange level. They were stuck there until the bulkhead could be reopened.
 		* Shakes got off in the Gnat in the confusion
-	* [ ] Maybe here is where you come back to the cause for the black sub to be chasing them:
-		* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
-			* Could be revealed right before final battle for drama though
-		* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer belligerence of it.
-	* [ ] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
+	* [X] hint at the cause for the black sub to be chasing them:
+		* they mention Owen in their questioning about the Prospect
+	* [X] {don't neglect to revise from first draft: the sub is chasing them for some OTHER reason, the magnetic mines just get piled on}
 
-* [ ] Shakes tells them about the modifications he made to the Gnat to make it much louder.
-	* [ ] Shakes makes modifications to the Gnat for the job, to run louder on diesel
+* [X] _Shakes tells them about the modifications he made to the Gnat to make it much louder._
+	* [X] Shakes makes modifications to the Gnat for the job, to run louder on diesel
 		* that is unique for a submarine
 		* Shakes worked on modifying the engine of the _Gnat_ to be louder as he traveled
 			* with some parts he bought at the depot before leaving
-	* [ ] he tells them he also got a pigeon for communicating with the Gnat
+	* [X] he tells them he also got a pigeon for communicating with the Gnat
 		* (See pigeon conversation notes in todos)
+
+* [ ] _They eat a meal in the Galley_
+	* Gregory cooks
+	* salmon can conversation
 
 ### --- (on the surface in a storm; wave porn)
 
@@ -256,6 +259,7 @@ Last modified: Sat Feb 27, 2021  06:46PM
 	* [ ] Gregory is up on the lookout (Is there a lookout ring on a mast? that might be cool and explain why Gregory doesn't make it back below in time.)
 
 * [ ] _hours go by, boredom sets in; the Gnat and the Prospect stay in touch via CB-style ship-to-ship radio. The Gnat can't take the waves and has to dive and just stay down. They'll have to pick Shakes back up later._
+	* The _Gnat_ decides to swim it out on batteries
 
 * [ ] _they are all half-asleep on the midnight watch: bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat_
 	* {nobody is on sonar because it's not military ship, and because you can't hear anything above the sound of the engine anyway}	
@@ -293,15 +297,18 @@ Last modified: Sat Feb 27, 2021  06:46PM
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
 	* [ ] A scene where they are eating in the galley
-		* Salmon can conversation?
-	* [ ] something breaks that needs fixing 
+		* This is where they ask WHY the sub is chasing them with Owen in the room; the answer gets revealed
+			* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
+			* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer belligerence of it.
+		* Hemi feeds Herschel on the table, maybe it pisses off Percy
+* [ ] something breaks that needs fixing 
 		* possibly the original wound from the ramming breaks open again
 		* possibly an engine park that Chips needs to fix {bilge pump from the hardware shop?}
 	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 	* [ ] Watching the battery gauges --- how long can they go before they are forced to the surface?
 
-* [ ] This is where they should implement the Gnat being noisy technique to try to distract their pusuers
-	* If they lost the Gnat ealier, they'll have to pick him back up here.
+* [ ] This is where they should implement the Gnat being noisy technique to try to distract their pursuers
+	* If they lost the Gnat earlier, they'll have to pick him back up here.
 	* Or, in combination with the diving below the scattering layer
 
 ### --- (hiding in the depths, escape under the deep scattering layer)

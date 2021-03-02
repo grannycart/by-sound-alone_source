@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Sat Feb 27, 2021  06:46PM
+Last modified: Tue Mar 02, 2021  05:02PM
 
 
 
@@ -283,18 +283,17 @@ Last modified: Sat Feb 27, 2021  06:46PM
 
 ### re-surfacing
 
-* {they run for 24 hours; and when night comes they decide with the batteries down to 1/3 that they should surface and run the diesels}
-	* {This needs to be at least 24 hours if they left the depot after hours, since you want the depot raid to be about 12 hours later, when it's busy, and the Gnat still needs enough time to catch up}
-	* {Remember: generally the run on the surface at night, underwater or at least snorkeled during the day}
+* [ ] {they run for 24 hours; and when night comes they decide with the batteries down to 1/3 that they should surface and run the diesels}
+	* [ ] {Remember: generally the run on the surface at night, underwater during the day}
 
-* {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
+* [ ] {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
 
-* {the engines sound like dopesmoker}
-	> With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
-	> And running on the surface meant the boat was also moved by the ocean swell. 
-	> The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
+* [ ] {the engines sound like dopesmoker}
+	* [ ] > With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
+	* [ ] > And running on the surface meant the boat was also moved by the ocean swell. 
+	* [ ] > The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
 
-* {hours go by, boredom sets in}
+* [ ] {hours go by, boredom sets in}
 
 
 ### they are fired on
@@ -335,20 +334,20 @@ Last modified: Sat Feb 27, 2021  06:46PM
 
 ### rendezvous with the _Gnat_
 
-* {they are scheduled to rendezvous with the _Gnat_ at depth --- via the mating collar}
-	* {might be more fun to hold off the underwater mating until later, when they have to get Hemi aboard. maybe they rendezvous on the surface only here.} 
-	* {but doing it here can be a way to explain the dull technicalities that it has to happen above the _Gnat's_ test depth. If you explain that here you don't have to slow down the action later when they are forced to come back up to get Hemi on board the _Gnat_.}
-	* {Also it seems too dangerous to have them back on the surface with the chasing sub}
+* [X] {they are scheduled to rendezvous with the _Gnat_ at depth --- via the mating collar}
+	* [X] {might be more fun to hold off the underwater mating until later, when they have to get Hemi aboard. maybe they rendezvous on the surface only here.} 
+	* [X] {but doing it here can be a way to explain the dull technicalities that it has to happen above the _Gnat's_ test depth. If you explain that here you don't have to slow down the action later when they are forced to come back up to get Hemi on board the _Gnat_.}
+	* [X] {Also it seems too dangerous to have them back on the surface with the chasing sub}
 
-* {they worry the _Gnat_ might not be there, when they arrive, there is no sign of the _Gnat_}
+* [X] {they worry the _Gnat_ might not be there, when they arrive, there is no sign of the _Gnat_}
 
-* {with the engines shut down they wait silently, figuring this will help them evade any possible pursuers.}
+* [X] {with the engines shut down they wait silently, figuring this will help them evade any possible pursuers.}
 
-* {they detect a boat on the surface, and worry for a bit, until they resolve it into something small --- must be the _Gnat_.}
-	* {Or maybe it's that since Shakes knows about their pursuers, he ran the _Gnat_ noisily on the surface far away, and then dove and ran very slowly back to the rendezvous point.}
-		* {this tactic needs to be used later, so maybe skip it now}
+* [X] {they detect a boat on the surface, and worry for a bit, until they resolve it into something small --- must be the _Gnat_.}
+	* [X] {Or maybe it's that since Shakes knows about their pursuers, he ran the _Gnat_ noisily on the surface far away, and then dove and ran very slowly back to the rendezvous point.}
+		* [X] {this tactic needs to be used later, so maybe skip it now}
 
-* {the _Gnat_ dives and mates with them.}
+* [X] {the _Gnat_ dives and mates with them.}
 
 
 ### Shakes on the deck
@@ -356,10 +355,10 @@ Last modified: Sat Feb 27, 2021  06:46PM
 * {introduce Shakes in an in-character way, snorting stimulants or something.}
 
 * {Shakes tells them the depot was attacked and taken by one of the authorities soon after the _Prospect_ left.}
-* [ ] > some young go-getter officer from one of the authorities. seemed to be making a lot of noise over pretty small potatoes --- one shipment of weapons _parts_ not even whole weapons. Everyone at the depot felt like they were over-stepping the unwritten rules of undersea commerce. It was bad for business that this guy was so aggressive in the depot. he must be trying to impress upper level folks or something.}
-* [ ] > thing is: he feels like since we're moving weapons parts, he has the right to shoot on sight.
-* [ ] > "that's bullshit, most transport subs are legit and deserve at least a warning before they are fired on. he's going to get innocent people killed. not to mention us"
-* [ ] {Is this where you drop some hints about how the Authorities have less control over the 3D medium of the undersea than the 2D surface? This could be saved for a later story}
+* [X] > some young go-getter officer from one of the authorities. seemed to be making a lot of noise over pretty small potatoes --- one shipment of weapons _parts_ not even whole weapons. Everyone at the depot felt like they were over-stepping the unwritten rules of undersea commerce. It was bad for business that this guy was so aggressive in the depot. he must be trying to impress upper level folks or something.}
+* [X] > thing is: he feels like since we're moving weapons parts, he has the right to shoot on sight.
+* [-] > "that's bullshit, most transport subs are legit and deserve at least a warning before they are fired on. he's going to get innocent people killed. not to mention us"
+* [-] {Is this where you drop some hints about how the Authorities have less control over the 3D medium of the undersea than the 2D surface? This could be saved for a later story}
 
 
 ### planning what to do
@@ -373,14 +372,14 @@ Last modified: Sat Feb 27, 2021  06:46PM
 
 * {maybe this is when they come up in a blessed fog?}
 
-* {they run on the surface through the darkness/fog keeping the _Prospect_ darkened; maybe engines at half-speed to keep the noise down}
+* [X] {they run on the surface through the darkness/fog keeping the _Prospect_ darkened; maybe engines at half-speed to keep the noise down}
 
-* {the _Gnat_ runs hot and loud to attract the attention of anyone following. stacks blowing flame}
+* [ ] {the _Gnat_ runs hot and loud to attract the attention of anyone following. stacks blowing flame}
     * {this might be where you have Shakes make some cool adjustment to the diesels so they run _louder_, try to drown out the _Prospect's_ engine noise}
 
-* {the _Gnat_ heads off in a different direction}
+* [ ] {the _Gnat_ heads off in a different direction}
 
-* {the _Prospect_ and the _Gnat_ keep in touch via ship-to-ship (CB-style) telephone}
+* [ ] {the _Prospect_ and the _Gnat_ keep in touch via ship-to-ship (CB-style) telephone}
 	* {remember the distance restrictions on sonar telephone --- 1500 feet or so}
 
 
