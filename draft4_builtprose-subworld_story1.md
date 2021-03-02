@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sat Feb 27, 2021  06:46PM
+Last modified: Mon Mar 01, 2021  05:02PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -2562,7 +2562,7 @@ It took a few hours to make a first pass at rearrangin the crates. When Hemi fel
 
 ### Training Cassandra on sonar
 
-Hemi knew Captain Percy would keep the same course, depth, and speed until well after dark, and that was still a few hours off yet. He took the opportunity to start training Cassandra on sonar. In the sonar compartment, he sent Bastian off for coffee and a smoke and sat down next to Cassandra.
+Hemi knew Captain Percy would keep the same course, depth, and speed until well after dark, and that was still a few hours off yet, so there was little for him to do for the moment. He took the opportunity to start training Cassandra on sonar. In the sonar compartment, he sent Bastian off for coffee and a smoke and sat down next to Cassandra.
 
 "You've been listening for the last few hours while Bastian worked the sonar, right?" Hemi asked her.
 
@@ -2625,6 +2625,238 @@ Hemi left her there listening to the dolphins and climbed up next to Percy in th
 "We may have a pair of ears yet."
 
 "That would be a nice change. Most of these fuckers are OK at rudimentary steering, but they're useless on sonar."
+
+
+### they surface at night
+
+A few hours later the clocks and sun charts coordinated to tell them that it was well after dark on the surface. Percy had them come up to periscope depth and she put the scope up to check the surface. With an empty black horizon in all directions, she had Gregory blow air into the main ballast tanks from the low-pressure system and raise the _Prospect_ fully up to the surface.
+
+Captain Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the disels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar --- on the surface they created a fairly strong radar signature. But they ran their own radar receiver while on the surface. If anyone else was tracking with radar, they would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
+
+The only other way they might be found is if an Authority ship heard the _Prospect's_ rumbling diesel on sonar. But to do that they would have to be within ten or twenty nautical miles of the _Prospect_, not an impossible scenario, but unlikely on any normal night of a cargo run.
+
+Captain Percy also always kept one more ancient backup system for spotting any trouble early: she put someone up in the lookout ring with binoculars. As soon as the deck was above the surface of the water, Percy and Hemi went up through the top hatch in the control room and climbed to the bridge well at the top of the sail. Percy had the radar mast raised, which had two lookout rings mounted to it, one on either side, and called Owen up. As he came up onto the bridge she handed him binoculars and pointed to the lookout rings. Owen kept climbing.
+
+Percy looked at Hemi. "Be glad you don't have to do lookout duty anymore."
+
+"I am." Said Hemi. "I remember it well. At night, you're just standing up there in the wind, like you are swimming through pure blackness. Your mind starts to play tricks on you when you most need to keep your mind clear. It's a young person's job."
+
+"Reliable young people, anyway." Said Percy. "Hey down there in the control room," she shouted down through the hatch, "you can start the diesels."
+
+There was a moment more of the quiet of the water sloshing down the length of the hull pushed by the electric motors before the diesels deep in the belly of the _Prospect_ coughed and fired. Black smoke streamed out behind the sail. The vibration of the engines carried up up through the deck and shook the soles of their feet.
+
+Hemi called down to ask for their new speed and to confirm the heading. He marked the answers down carefully on his ever-present clipboard.
+
+"I heard that some boats like the _Prospect_ are being fitted with snorkels now." Said Hemi.
+
+"That's what they're calling those masts you can raise for feeding oxygen to the diesels while underwater, right?"
+
+"Yes. The diesels exhaust out of them too. A boat with a snorkel never has to come up to the surface, you can recharge the batteries from periscope depth."
+
+"We should look into installing one at some point. Maybe after this run. It seems like it would be worth the investment. The nighttime surface runs are starting to require too much care and caution for me to feel safe."
+
+"The funny thing," Hemi continued, "is I also heard that a snorkeling diesel is actually louder on sonar than one running on the surface."
+
+"You're kidding?"
+
+"No. Apparently with the whole boat underwater more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable 40 miles off or so on sonar."
+
+"So once again the new-fangled technology doesn't solve a problem, it just creates more options for a captain to have to make decisions about." Percy rolled her eyes.
+
+"It's certainly not a job I would ever want. I prefer a measure of certainty in my work."
+
+Percy lit a cigarillo. Hemi looked up at the dark gray sky, mostly obscured by cloud cover.
+
+"How's the navigation going?" Percy exhaled a long stream of smoke that was caught up by the wind and tied into the diesel exhaust behind them.
+
+"I've been keeping very close track of our time, direction and speed, as usual." Said Hemi. "But you know that's only as good as guesswork can be. If these clouds break up tonight and we get some stars, I would like to fix our position on the chart. When is the rendezvous with Shakes?"
+
+"At dawn. It will certainly be easier if we know where we are with some precision."
+
+"And if we can rely on Shakes to know where he is..."
+
+The night ground on with the unvarying drone of the diesel engines always under the foot of any crew members on deck, and relentlessly surrounding them anywhere below deck. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries and run the electric motors that actually propelled the boat, they were always run at the same, optimum RPMs. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For crew at the controls, with no depth to control while they were on the surface, and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
+
+Percy knew that this was the hardest part of the job --- keeping always ready to do something when there was absolutely nothing to do. They had to stay focussed on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything wasn't just a grime-coated gray accompanied by a background of lush and never-changing noise.
+
+She put the crew on rest rotations. Every three hours three of them would get three hours off. This kept two people in the control room at all times, one on lookout, and one at the radar/sonar station. The off-duty crew were free to spend their time on deck if they wanted. But since there was little to see up there but a black horizon tapped against a dark gray one, most of the crew came back down after a few minutes and ended up in their rack sleeping. Except for Bastian. He wrapped his long thin form in a rubber foul-weather slicker to keep the wind off and lay out on the forward deck, apparently finding sleep there as easily as warm puppy.
+
+
+### Hemi and Cassandra in navigation talking about what it takes to be a submariner
+
+Hours later, sometime during the third rotation, Hemi found Cassandra in the navigation and sonar compartment, listening intently to the sonar with the headphones on and her eyes closed.
+
+Hemi tapped her on the shoulder, and she jumped a little before smiling at him and pulling back a headphone.
+
+"Aren't you supposed to be in your rack?"
+
+"I volunteered to take two rotations in a row, to keep the rotations even for everyone else...and since I'm new."
+
+"Are you hearing anything?" Hemi asked.
+
+"No, I try to imagine my mind going out into the water to listen, but I can't get past the sound of the diesels."
+
+"Sonar is extremely limited with the engines running. But..." Hemi flipped some filter switches on the sonar control board, and adjusted some tone dials. Familiar settings he used when he was on sonar while the engines were running. "Try it like that."
+
+Cassandra set the headphones back into their comfortable position on her ears, and listened for a minute. "That's much better. It's like the engines are at least not distracting my attention." She made some notes on a pad of the settings Hemi had made.
+
+"You're keeping an eye on radar too, right?" Hemi asked. "That's actually maybe more important while we're on the surface."
+
+"Yup. Owen showed me what to look for. The radar... has not done anything at all."
+
+"That's good."
+
+"I didn't realize when I agreed to come on board that this job would be so mind-numbing... and boring."
+
+"That's actually what makes it so hard, and why only a certain type of person makes it as a submariner. I think on land sometimes there's this perception that it's this glorious job, where you're out from under the thumb of Authorities, free to pursue your own career. The people on land know it's dangerous, and that gets mixed into the legend of who a submariner is. But in reality, the people who make good submariners are the ones who can handle being in a cramped space for days on end with no changes in their environment at all, and still keep their mind sharp enough to snap into action when a situation presents itself. It's not a job that's an expression of physical acuity. It's a job that puts your mental toughness to the test."
+
+"I certainly don't have much to offer in physical strengh..." Said Cassandra.
+
+"People on land think it's a job for tough guys, so we're always getting men looking for jobs on submarines. Men who look like, well, like me. Big, muscled guys. And some of those guys are fine. But Percy and I have realized that mental toughness we need isn't correlated to physical toughness. We hire people who we anticipate might have that mental toughness, at least when we have an option in who we can hire. And we find that mental toughness in all kinds of people. It's not just me and Percy, most of the people who actually work in the submarine cargo industry these days look for that mental toughness in all types. The Authority subs are still full of big men, but the commercial subs are pretty diverse."
+
+"The depot was full of big men..."
+
+"You know how that happens? Those men go looking for work on submarines thinking it's a good job for a strong fellow. But they can't handle the mental strain, and they wash out. They end up working the next job out from what the center of what they went looking for: _servicing_ submarines instead of working on them."
+
+Cassandra's eyes widened. "Ah..." She said as large piece of her world that didn't quite make sense before fell into place in her mind.
+
+"Unlike work on land, there's few regulations or rules controlling our work out here. The job has strong evolutionary forces in play. The only people doing the work are the ones who _can_. Everyone else goes home, back to their Authorities, and policies, and networks of contacts. On land you get a job based on what you look like, and who you know. Out here, you get a job if you can do the job. We don't care who you know, where you came from, or what you look like."
+
+A smile cracked across Cassandra's face. "That's why you hired me?"
+
+"No, no no. Captain Percy hired you because she was desperate for someone to sit on sonar. But you should know that you have just as good a chance at doing this job well as any other person. And... you've done well on your first day working."
+
+Cassandra nodded.
+
+
+### Taking a siting by the stars
+
+"I want to learn as much as I can." Said Cassandra. "What are you up to at this hour of the night Hemi?"
+
+"I'm catching up on navigation. I have to do this every few hours. Come over here and look at the chart."
+
+Cassandra joined Hemi at the navigation table. She looked at the big chart, and the dotted line marking their course from the depot isladn, and the little x marking their current position. "How the heck do you know where we are?" She asked.
+
+"Honestly, it's mostly just a guess. I keep track of our speed and direction very carefully. Then I just plot that onto the chart based on how long we have been traveling. That's called dead-reckoning. If the chart is accurate and there's not too many mitigating factors, like, say, a strong current that I can't account for, then we know roughly where we are and that we won't run into anything."
+
+"What happens if there is a strong currently the pushes you off course and you don't realize it?"
+
+"That's why we need to sometimes fix our position. If we pass by an island  or other feature that we see while on the surface or with the periscope, and that feature is on the chart, then we know where we are. Sometimes there's undersea features that we can hear on the sonar or we know are there by changes we read in the gauge that mesures how far down the bottom is. If those are on the chart, we can fix our position that way. Normally, we don't have to be super-precise --- the ocean is large and mostly empty water --- especially this early into a run. I know exactly where we started from at the depot, so our position shouldn't be too far off. But we need to rendezvous with Shakes at dawn, and being precise about our location will help that go more smoothly. So I'm going up on the bridge to get a fix by the stars. Want to join me? If the stars are out, it might be worth the trip up the ladder."
+
+"Is it OK for me to leave the radar?"
+
+"Just for a few minutes. Make sure to check it as soon as you come back down."
+
+They climbed up through the control room and up the sail interior ladders to the bridge. Owen was back up in the lookout ring and greeted them when their heads shadowed the light coming up from the open hatch, happy to have something to break the monotony of being on lookout.
+
+Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that the number of times the _Prospect_ surfaced and he came out on deck to find a low, blanketing cloud cover occurred far more often than was statistically probable. He could hardly recall the last time they surfaced to a clear sky and his deeply-rational self was challenged by the sense that being on the open surface was in fact nature's opportunity to opress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres layin upon them.
+
+But not this night. The sky was clear from one horizon to the other, and the stars glowed in their visible tens-of-thousands, their appreciable numbers a hueristic suggesting the reality of the uncountable multiples of billions of other stars that existed invisibly in the universe above them. With no light over the horizon, the stars came right down to the horizon in every direction, an infinity compressed to a perfectly smooth dome that lay over them.
+
+"Wow." Said Cassandra.
+
+"Yes, that's the mariner's priviledge." Said Hemi. "And the submariner occasionally gets to dip in as well."
+
+Hemi took out his sextant, clipboard, and star charts and graphs. He took sitings on three or four know stars, measuring their precise height above the horizon. He scratched a number of notes onto the clipboard with a pencil.
+
+"How does that thing work?" Cassandra asked.
+
+"This is a sextant. It measures how far above the horizon a particular star or the sun is. That will let me fix our position on the chart. If you are interested, I can train you how to use it. But not tonight."
+
+Cassandra nodded.
+
+"Unlike mariners, the submariner doesn't often have the luxury of visual references to find their place in the world," Hemi continued, "we wander under the ocean, feeling our way by sound. And every once in a while poke our head up to secure our location in the swiriling mass by judging ourselves against the stars."
+
+"That's poetic." Said Owen, listening to their conversation from the lookout ring.
+
+Hemi smiled, "And just a little bit of a cliche." He said more loudly for Owen's benefit. "I find a touch of the poetic gives some much-needed meaning to this black and gray metal world of ours. But if you let it go to your head, it could keep you from making the clear-minded assessments of situations that are necessary to remain alive as a submariner." Hemi took a siting of another star and marked its altitude down on his clipboard. "OK Cassandra. Back to your radar scope. I need to make some minor course adjustments in the control room."
+
+[//]: # (give cliche accent in above line)
+
+Hemi and Cassandra climbed back down into the _Prospect_ leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
+
+
+### Rendezvous with the Gnat
+
+Early in the pre-dawn, Bastian was up in the lookout ring when the sky began to lighten in the east, blacking out the stars in that direction and creating an echo of light on the black disc of the ocean in that direction. When Bastian could see his hands gray in the gloom in front of him, he relayed down to the control room that it might be time to dive.
+
+Captain Percy came up on the bridge and looked around for a few minutes. She took some long breaths, taking in the last of the fresh air before the next twelve hours or so below deck, and then called Bastian to follw her back down into the sub.
+
+They buttoned up the _Prospect_ and when all the hatches showed green lights on the board in the control room, they shut down the diesels and dove the boat down to 50 meters. After leveling off, Hemi had them adjust their course. After fixing their position earlier in the evening, he had slept his three hours, and now wanted to take the boat in a new direction as a precaution against the small chance that anyone had been tracking their course on the surface that they hadn't been aware of. With the cargo they were hauling, Hemi felt there was no reason not use to every stealth maneuver they had.
+
+He had them bring the boat about nearly 100 degrees to starboard. This was backtracking a bit, but they were now aimed directly at the rendezvous point for the _Gnat_, which they would reach in another two hours at their current speed.
+
+The next two hours were nealy silent and uneventful. Everyone had low early-morning energy and no one felt like much of a conversationalist after a long night with short sleep. This was improved after Gregory brought up the first pot of coffee and passed around tin mugs to the crew in the sonar compartment and the control room.
+
+They cruised to the rendezvous point, and then came up to 30 meters of depth. They shut down the electric motor entirely, and Hemi trimmed the boat until it sat perfectly still and silent in the water.
+
+Cassandra was just waking up from her sleep rotation, and groggily making her way from the crew quarters to the sonar compartment when Hemi found her and handed her a tin cup full of sweetened black coffee.
+
+"Time to get back on sonar Cassandra. We've reached the spot where we're supposed to rendezvous with Shakes. I need you to listen for his boat, it's quite a small boat so it might be challenging to hear. But since we've got the _Prospect_ completely shut down you'll have total silence. If you hear Shakes --- or anything else in the water --- come get me, I'll be in the galley. The rest of the crew is going on break while there's nothing to do, so it's all you right now. "
+
+"That makes this sound important... you trust me with this?"
+
+"It's good practice for you, and the worst that could happen is if you miss him and we're a little delayed in the rendezvous. I'd be happier if we got moving again soon though, so... try not to miss him if he goes past."
+
+"OK Hemi." Cassandra sat down at the sonar rig, put the headphonees on, and took a sip of her coffee bwfore swinging the mics in a full circle to get her bearings.
+
+Hemi went off to the galley with his clipboard and notes, and the rest of the crew hit the racks to catch up on much-needed sleep, leaving the _Prospect_ dark and absolutely silent.
+
+Cassandra turned the directional control of the mics slowly around. She completed a full 360 circle, and then came back the other way. Her eyes closed and she could see the sounds in the water coming towards the _Prospect_. The water had slightly different qualities in different directions, so after a few times around she could tell generally which way the microphones were pointing without looking at the directional indicator. When they were forward towards the bow, she could hear the bilge water sloshing in the lowest parts of the ship. And towards the stern she could hear clearly, without the annoying interuption of the propellor sound that was always in that direction when the electric motors were running.
+
+The _Prospect_ was currently at absolute maximum sonar listening capacity, but there was nothing out there. The ocean was completely empty in every direction. Cassandra focused her mind and kept it out in the water. Every time she felt it grasping with some subject other than sonar, she took a deep breath, and forced her mind back out into the water. It was incredibly tiring work.
+
+Two hours later, there remained no sign of Shakes. Captain Percy could never sleep for very long, and so was soon back in the control room with a cup of coffee from the galley, smoking and making small adjustments to the trim of the boat. Each of these adjustements was acompanied by a brieft rush of water or air through the piping of the ship, and each time this happened Cassandra got completely distracted for a few frustrating moments. Cassandra did not yet realize that the sonar operator could, in some instances, have some authority over even the captain on a submarine.
+
+Another hour went by, Cassandra thought she was starting to crack, and considered asking Hemi to take over. She was worried that somehow Shakes had sneaked past her in his little boat, that she missed him and screwed up her first real job. Rationally, she knew that was unlikely though. She pushed herself to keep listening to the silence.
+
+Then, far off their port side, she heard an engine in the water. It wasn't like the other seacraft she had heard so far on sonar. It had a continuous popping sound, like a machine gun being fired off in the distance, accompanied by a low-frequency roar.
+
+"Captain Percy!" Cassandra called up to the control room where Percy still sat fiddling with the controls to her boat. "I hear something."
+
+Percy slid down the ladder and picked up the second sonar headset and put it on. Cassandara, rotated the mics back and forth across the direction of the contact, and settled them in on the strongest signal.
+
+"Is that Shakes' boat?" Cassandra asked doubtfully.
+
+"Jesus." Said Percy. "That can't be Shakes. That sounds like a supertanker or an aircraft carrier or something. Go get Hemi. I think he should hear this."
+
+Cassandra went off to the Galley leaving Percy listening to the contact. She came back with Hemi holding a tin up with the dregs of cold coffe in the bottom. He slipped the headphones on and stood there hold his coffee cup, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on, and listened again.
+
+"Well." Hemi said. "That's strange. It does sound like a tanker or something big just from sheer volume. But it's moving very fast, too fast for a big thip. It's closer now and I can hear the prop revolutions..." He paused listening again. "And the freqencies are all wrong. The prop is spinning too fast, and sounds small, not like a big ship screw.
+
+"Shakes was planning to modify the _Gnat_ to be louder, you think that's him?" Percy asked.
+
+"If that's Shakes, I think he's probably overdone it..."
+
+"Well, maybe instead of the _Gnat_ being mistaken for the _Prospect_, instead the _Gnat_ will just drown out _everything_ in a 10 mile radius." Said Percy.
+
+"I just..." Hemi started, "just can't believe that such a small boat could..." he paused listening again. "No, I'm more sure of it now. The more detail I get the more it makes sense that it's a very _very_ loud small boat, not a big ship. Though he does have it tuned so low that from a distance or to anyone who isn't skilled on sonar, they might easily be fooled into thinking that contact is displacing an enormous amount of water. Good job Cassandra."
+
+She smiled.
+
+"OK then. Now what do we do?" Asked Percy.
+
+"I don't know. He's well out of range of ship-to-ship. I'd guess something like 20 nautical miles off still or so. We could hit him with active."
+
+"If it turns out you're wrong and the contact is actually that sub with the ram on it's bow tearing it's way towards us, then active pinging them will be sending a signal telling them exactly where we are." Captain Percy paused. "We have the advantage of being completely hidden at the moment. I hate to just hand that away."
+
+Hemi shrugged.
+
+Percy considered. "You are fairly certain it's Shakes?" She asked Hemi.
+
+"I am fairly certain that contact is not the big ship it sounds like." Said Hemi.
+
+"OK, ping it."
+
+"Watch Cassandra. Remember I mentioned 'active' sonar during your first training session? I'm going to use that now." He powered up the active sonar unit. "The principles behind it are much more sophisticated than passive. But it's easy enough to operate." He set the direction indicator to point towards the contact. "Push the PING button Cassandra."
+
+She reached out her small finger and crushed the button home. Even without the sonar headsets they could hear the ping echoed through the hull and off into the water. A few seconds later the active unit show the range and direction to the contact.
+
+"The active sonar figures out very precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target." Hemi said, pointing to the readout on the active sonar unit. "That's very useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ doesn't have torpedoes, we don't often use it."
+
+"The active ping also tells the target exactly where _we_ are." Added Percy. "Normally, we don't want to do that, but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let him know where we are by hitting him with the active ping."
+
+"Let's see what the contact does now." Said Hemi, putting the sonar headset back on as he powered down the active sonar unit.
 
 
 

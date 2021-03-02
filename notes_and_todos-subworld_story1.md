@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Feb 27, 2021  05:48PM
+Last modified: Mon Mar 01, 2021  04:58PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -46,6 +46,7 @@ Last modified: Sat Feb 27, 2021  05:48PM
 		* _We live in a world today where technology is on the verge of magic. Only an elite few understand any givine technology. It wasn't always like this. At one time technology was a rising force in our culture, but it was knowable. Any person of average intelligence who wanted to understand how things worked could figure it out. That isn't the world we live in today, and there is no way we could return to that world. However, it is possible to imagine a world where technology remained knowable. Such a world could be a setting for telling amazing stories. This is such a story._
 		* _Here in the 21st Century we live with technology that is almost magical in its complexity. But there was a time, not so long ago, when technology was ascendent but was also something that anyone could understand. It was complex but it's roots were electro-mechanical. Even the most complicated machine could be taken apart and comprehended through diligent common sense. We no longer live in that world, but there's no reason we couldn't have. This is a story from that other technological path we could have taken, but didn't._
 		* _This book is dedicated to those brave women and men who plied their trade under the waves of a world that, through historical hapenstance and the hubris of our own technological and political classes, never existed._
+		* _The world is what we make it quote from end of Adam Curtis_
 
 
 ## Editing notes (be sure to hit these in post-production editing):
@@ -56,6 +57,18 @@ Last modified: Sat Feb 27, 2021  05:48PM
 	* A few thousand words per day
 	* Have test readers start reading it even while you are doing this (since you already did one pass on the first 30k already anyway)
 		* Though make sure you include a draft of the technology-framing paragraph (above) at the beginning, and the diagrams for reference.
+* [ ] Questions for Cricket read:
+	* Do the complicated sub mechanics make sense?
+	* Is the pacing ok?
+	* Is it fun and easy to read?
+	* Do you WANT to keep reading it to find out what happens?
+	* Does it have places where it bogs down?
+	* Are the characters relatable, distinctive?
+	* Are the names (both boats and people) ok?
+	* Is there anything offensive that I'm not reckonizing?
+* [ ] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
+* [X] maybe say somewhere that they should think about installing a snorkel?
+	* (So sub nerds who read the book understand that they don't have one)
 * [ ] move section headers to .md comments; create chapter breaks
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
@@ -64,6 +77,8 @@ Last modified: Sat Feb 27, 2021  05:48PM
 * [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
 	* tough maybe Hemi is the only one who calls her by it
 * [ ] Have Percy address Hemi by his full name somewhere
+* [ ] Cassandra should always address percy as "Captain Percy"
+* [ ] make sure you only explain active sonar once
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] refer to bastian, gregory, and Owen as the 'deck crew'
 * [ ] do you gap a diesel engine spark plug?
