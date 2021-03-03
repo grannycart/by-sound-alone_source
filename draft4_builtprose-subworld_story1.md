@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Tue Mar 02, 2021  06:06PM
+Last modified: Wed Mar 03, 2021  12:41PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -3012,31 +3012,27 @@ Captain Percy lit a cigarillo. "Shit." She said. "If they know we've got weapons
 
 "No no, like an _actual_ pigeon. A homing pigeon. Goes by the name of Herschel."
 
-"Oh, so you got a pet... to keep you company during those long hours alone aboard the _Gnat_. To keep you from going crazy... er?"
+"Oh, so you got a pet..." said Percy, "to keep you company during those long hours alone aboard the _Gnat_. To keep you from going crazy... er?"
 
 "Naw, Herschel's not a pet, I told ya --- he's an upgrade to the _Gnat_! See I got him from a guy on the dock. He's specially trained to look for his home roost on a submarine on the surface of the ocean. His roost is on the _Gnat_ now, and I've been taking care of him. Soon he'll realize the _Gnat_ is his home. Then I just give him to you guys, and when you need me, you can send Herschel out to find the _Gnat_ with a message tied to his leg."
 
-"Umm. Why would we need to use a pigeon instead of, say, the radio?"
+"Umm. Why would we use a pigeon instead of, say, the radio?"
 
-"Well, in addition to being more secure, I realized that with the modifications I made to the engine, the _Gnat_ is now so loud inside that I can't hear the radio while the diesel is running. I needed another way to communicate with you guys and Herschel seemed perfect."
+"Well, I realized that with the modifications I made to the engine, the _Gnat_ is now so loud inside that I can't hear the radio while the diesel is running. I needed another way to communicate with you guys and Herschel seemed perfect. Messages by pigeon are also more secure than radio."
 
 "A pigeon..." said Percy skeptically.
 
 "But if you have the _Gnat's_ hatch closed, how will you know when Herschel has returned to you?" Asked Hemi. "It's not like you'll be able to hear him tapping on the hatch with his beak..."
 
-"An astute question my large friend. I'm going to build a little perch on the sail and rig some kind of switch to light up inside when he lands. And then I want to cut a small hatch, just big enough for a pigeon, so I can let him in without opening the top hatch."
-
-"Why not just rig the radio to light up when you're receiving a message?" Asked Percy.
-
-"Not as secure as a pigeon!" Replied Shakes.
+"An astute question my large friend, I don't want to leave the hatch open all the time. I'm going to add a small hatch in the sail --- a hole just big enough for a pigeon. When Herschel has a message for me, he can just come in through his hatch. I only need Herscel when I'm running on the surface with the loud diesels, underwater we can just use ship-to-ship and I can keep Herschel's hatch closed. 
 
 Hemi grinned. "That's great Shakes. I cannot wait to meet Herschel. I volunteer to take responsibility for him while he's on board the _Prospect_. And I'll ask Chips to help you with your pigeon hatch."
 
 "This seems ridiculous to me." Said Percy.
 
-"Sylvia, this pigeon goes a long way towards addressing the problem we had with communicating with Shakes. You asked me to talk with him about that, and here's an answer... maybe not a great answer, but I think Herschel could work."
+"Sylvia, this pigeon goes a long way towards addressing the problem we had with communicating with Shakes. You asked me to talk with him about that, and here's an answer... maybe not a great answer, but I think Herschel could work. If we can figure out how we can launch him from the _Prospect_ while we're submerged, he'd be a perfect communication medium...." Hemi trailed off envisioning some kind of pigeon bouy.
 
-Captain Percy rolled her eyes. "Whatever. Don't say I'm a captain who isn't willing to give new technology a try. Hey Shakes, how about a meal?"
+Captain Percy rolled her eyes. "Whatever. Don't say I'm a captain who isn't willing to give new technology a try. We'll take the pigeon aboard as our eighth crew member on a trial basis. Hey Shakes, how about a meal?"
 
 "Absolutely." Said Shakes.
 
@@ -3053,7 +3049,7 @@ Percy called Gregory down from the control room and sent Owen up to relieve him.
 
 "Actually, now that you mention it Shakes, I always thought that was weird myself. There has to be three-hundred cans in the galley, and all of them are perfect cylinders except for the salmon."
 
-"I wish all cans were shaped with a taper." Said Shakes. "Sometimes I knock a stack of cans over on the _Gnat_ and the regular ones will run off under some piece of equipment. Sometimes I never see them again. But the salmon roll around in a tight circle. I can pick them right up."
+"I wish all cans were tapered." Said Shakes. "Sometimes I knock a stack of cans over on the _Gnat_ and the regular ones will run off under some piece of equipment. I'm pretty sure there's some cans in the bottom of the boat that rolled there years ago and I never saw again. But the taper on the salmon cans makes 'em roll around in a tight circle. They stay roughly where they fall no matter what the boat is doing and I can pick them right up."
 
 "Maybe salmon manufacturers know mariners and submariners have a lot of salmon on board, and they shape them like that so our seagoing friends don't lose their precious cans in the corners of ships."
 
@@ -3063,9 +3059,92 @@ Hemi chuckled. "It's a nice idea. But if you want to know the real reason, it's 
 
 In another twenty minutes or so Gregory had steaming piles of rice on their plates smothered in bits of fish and ginger. He stir fried a couple of boxes of frozen spinach and scooped them onto their plates to supplement the black and white food with some dark green.
 
-Percy called the rest of the crew in to eat in rotations that kept someone in the control room and listening to sonar. Shakes, as usual, ate more than anyone.
+Percy called the rest of the crew in to eat in rotations that kept someone in the control room and listening to sonar. Shakes, as usual, ate twice again as much as anyone else. 
 
-"Sweet Jesus." He said. "If you keep feeding me food I want to eat instead of forcing myself to eat cold shit from cans, I'm going to get fat."
+"Sweet Jesus." He said. "If you keep feeding me food I want to eat instead of forcing myself to eat cold shit from cans, I'm going to get fat." He reclined in his chair and closed his eyes.
+
+"Nothing stopping you from equiping your boat with a hot plate Shakes." Said Gregory.
+
+Shakes waved his hand in Gregory's lazily without opening his eyes.
+
+"Shakes, when you regain yourself from your crapulence," said Hemi, "join me at the navigation station. I want to make sure you understand our plan for this run."
+
+Shakes nodded sleepily as Hemi and Percy headed up to the navigation and sonar compartment.
+
+"It's probably time for more coffee." Said Gregory reaching for the pot with the dregs of the previous batch slowly embalming a permenent stain on the bottom.
+
+
+### Planning the run with Shakes
+
+Shakes joined Hemi and Percy at the navigation table, somewhat revived by Gregory's coffee, and carrying two more tin mugs filled with coffee for Hemi and Percy. They received them gratefully.
+
+"Here's what we're thinking Shakes." Said Captain Percy. "We're well into Consolidated States' waters now. I think trouble from them is unlikely."
+
+Shakes nodded.
+
+Percy placed a steel straight-edge dappled with rust patches down on the chart showing their proposed course. "Barring any unforseen distractions, this is our planned course. We will be heading into an area that a number of Territorial Authorities claim control over."
+
+Shakes reached into his denim vest and withdrew a small pencil and a notebook covered with black and smudged fingerprints. He began to scratch down notes in a fast, unreadable scribble.
+
+"That's unfortunate, but unavoidable since we're heading for the mainland port of Pylon City."
+
+"...The locals don't call it that." Put in Hemi.
+
+Percy waved him off. "We estimate it will take three or four days and nights to get there. That's running slow and deep during the day, and fast on the surface at night."
+
+"And what's the plan for the _Gnat_?" Shakes asked.
+
+"Generally, we'll have you run on the surface during the day. You can shut down the diesel maybe once an hour or so, and we'll check in on ship-to-ship."
+
+"That will also give us a chance to listen for any contacts without being swamped out by the noise of your boat." Added Hemi.
+
+"At night, the _Gnat_ is less useful as a decoy, since the _Prospect_ will be on the surface anyway. I think you can mate up the _Gnat_ and get some sleep and a meal aboard the _Prospect_ --- at least for a few hours each night."
+
+Shakes grinned at the thought of hot meals. "What happens if someone comes up on us in the night?"
+
+"Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive."
+
+"OK, just remember if you take the _Gnat_ down with you, I'll have nothing but a crushed beer can for a boat. What about sub with the ram and those guys who were after you? What if they are still following you?"
+
+"I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed transport sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
+
+"I have no idea." Said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to observe any of that, as you know."
+
+Percy nodded.
+
+"What about Herschel?" Asked Hemi. "When will he be ready to come aboard the _Prospect_? If there's any contacts during the day, the _Gnat_ could potentially be a long way off pretty quickly if you are leading a contact away from the _Prospect's_ location. It would be nice to have Herschel ready to go find you."
+
+"Is that what you are really thinking Hemi?" Percy asked. "Or are you just looking forward to having a fluffy new crew member to take care of?"
+
+"I'm hoping Herschel is acclimated to the _Gnat_ in another day or two. Then we can move him about the _Prospect_." Said Shakes.
+
+"Alright," said Percy, "move the pigeon over whenever you are ready Shakes. Right now let's get the _Gnat_ running up on the surface as planned, and get the _Prospect_ further down. I don't like being this shallow during the day."
+
+Shakes stopped by the galley to take a refill of coffee with him, and disappeard into the bowels of the _Prospect_ and back aboard the _Gnat_. He got the _Gnat_ off and surfaced while the _Prospect_ dove down to 100 meters where Percy was more comfortable they couldn't be spotted from the air.
+
+The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with it's diesel emitting a long belch of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_, and at the slower speed the _Gnat_ wasn't overwhelmingly loud, about the same as an average surface transport ship. That worked well with their plan because Authority enforcement craft were less likely to pursed a target that seemed like a surface transport ship since anything on the surface --- at least during the day --- was likely to be moving with the full blessing of the Authority.
+
+As planned, Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather and open ocean.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
