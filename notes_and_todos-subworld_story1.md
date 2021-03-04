@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Mar 02, 2021  04:29PM
+Last modified: Thu Mar 04, 2021  02:40PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -11,6 +11,11 @@ Last modified: Tue Mar 02, 2021  04:29PM
 
 ## Notes and To dos:
 :notes:
+* [ ] For the cover:
+	* have Dave do illustration
+	* It would be better, I think, to include illustrations of some of the characters ON the sub, rather than just the sub
+		* (just a sub will only appeal to sub people. interesting-looking characters could appeal to lots of different kinds of people.
+	* Maybe even anime-ish? To pull in the anime folks who might enjoy this story?
 * [X] Draw diagrams of the Prospect and Gnat. Include with story.
 	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
 	* (No copyright problems, those are federal gov't drawings)
@@ -25,20 +30,12 @@ Last modified: Tue Mar 02, 2021  04:29PM
 * Making the call: the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
-* [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
-* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
-	* Maybe with shakes over ship-to-ship, just to keep it interesting
-	* Maybe Shakes wonders if it's moral to run weapons
-	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
-	* Though that rebel group might be the oppressors in 6 months
-	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
-	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 * [X] Add pigeon communication scene
 * [X] add something explaining that the Prospect has no torpedo tubes:
 	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
 	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
-* For story description: 
+* [ ] For story description: 
 	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 	* "Commerce always finds a way."
 	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
@@ -66,13 +63,18 @@ Last modified: Tue Mar 02, 2021  04:29PM
 	* Are the characters relatable, distinctive?
 	* Are the names (both boats and people) ok?
 	* Is there anything offensive that I'm not reckonizing?
+* [ ] do a search for 'ly' and remove any useless adverbs. Maybe 'that' too.
 * [ ] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
+* [ ] find and make consistent whether numbers are written out or not
+	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 * [X] maybe say somewhere that they should think about installing a snorkel?
 	* (So sub nerds who read the book understand that they don't have one)
 * [ ] move section headers to .md comments; create chapter breaks
 * [ ] remove contractions from Hemi dialog
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
+* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
+* [ ] add 'racks' to labels on diagram? (since it's a technical term you use often in the book)
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
 	* I think it's a hold on a ship
 * [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
@@ -145,6 +147,7 @@ Last modified: Tue Mar 02, 2021  04:29PM
 	* the welding rig needs to run a generator or from boat power, I think
 * [ ] Is it a 'mating collar' or a 'docking collar'?
 * [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
+* [ ] The Gnat has only singular diesel engine; while the Prospect is always running multiple diesel engines
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 * [X] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 	* No, it would flood at 2 atmospheres (bottom of the boat) see: https://www.quora.com/What-is-the-air-pressure-in-a-submarine
@@ -199,6 +202,25 @@ Last modified: Tue Mar 02, 2021  04:29PM
 
 ## Story elements specific to this story
 :elements:
+* [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
+* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
+	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
+* [ ] someone fishes from the deck of the ship
+* [ ] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
+* [ ] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
+* [X] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
+* [ ] They have a conversation about whether mice enjoy running on wheels:
+	* "if you put a wheel in the woods, do you think mice would run on it?"
+	* "I'll bet they would --- for the sheer mechanical pleasure of it. Like a bicycle. Or a submarine"
+	* (I originally had this slated for book II though.. is it better there?)
+* [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
+* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+	* Maybe with shakes over ship-to-ship, just to keep it interesting
+	* Maybe Shakes wonders if it's moral to run weapons
+	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
+	* Though that rebel group might be the oppressors in 6 months
+	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
+	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 * [X] overall theme: being chased by a dark force of evil (black sub) from place to place to place
 * [X] plot milestones
 	* on a dead calm sea
@@ -237,19 +259,12 @@ Last modified: Tue Mar 02, 2021  04:29PM
 	* At one point the engines swamp and suck all the air out of the boat and pump in diesel fumes
 	* The boat goes over on its side:
 		* A long time passes while it's on its side. The heavy ballast at the bottom of the boat trying to set their gravitational desires right. "Jesus, will it come back upright?" "She'll come back up. They always come back up. Well, almost always"
-* [ ] A conversation about why salmon cans are shaped with an angle:
+* [X] A conversation about why salmon cans are shaped with an angle:
 	* Because the can rolls in a circle on the floor!
 		* Shakes is the one who suggests this
 		* "I wish I could all cans like this. I hate it when a can falls over in the Gnat and rolls forward where I can't get it."
 	* No, cuz they can stack more cans in the hold of a ship
-* [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
-* [ ] They use dead reckoning to navigate, and have to correct their location with celestial sitings at night.  
-* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
-	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
-* [ ] someone fishes from the deck of the ship
-* [ ] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
-* [ ] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
-* [X] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
+* [X] They use dead reckoning to navigate, and have to correct their location with celestial sitings at night.  
 
 
 ## style 

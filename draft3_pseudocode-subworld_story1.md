@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Mar 03, 2021  11:40AM
+Last modified: Thu Mar 04, 2021  05:46PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -35,7 +35,7 @@ Last modified: Wed Mar 03, 2021  11:40AM
 * [X] _Percy orders the Prospect down fast. They seal up and crash dive._
 
 * [X] _They receive a call over ship-to-ship and are informed that they are violating the territory of some complicated sounding authority._
-	* {Or something to this effect? Keep the enemy sub mysterious, but also start to hint at the ridiculous power structure of the surface -- the story reveals the surface structure when the Prospect is on the LITERAL surface}
+	* {Or something to this effect? Keep the pursuing sub mysterious, but also start to hint at the ridiculous power structure of the surface -- the story reveals the surface structure when the Prospect is on the LITERAL surface}
 
 
 ### Staring at dials as they sink
@@ -91,7 +91,7 @@ Last modified: Wed Mar 03, 2021  11:40AM
 	* {NOW use your staring-dials-fear... they don't know where the bottom is, or if they will be crushed before they hit it.}
 	* {Be careful that this doesn't seem too much like Das Boot. Avoid this by shaping it as a slow-motion sinking and deliberately seeking out the seamount, rather than the way the boat goes down out of control in Das Boot to be saved by a 'shovelful of sand'}
 
-* [X] _Bottoming it means the enemy sub can't find them with sonar. They repair their sub, pump out the water, and lift off the guyot/tablemount._
+* [X] _Bottoming it means the pursuing sub can't find them with sonar. They repair their sub, pump out the water, and lift off the guyot/tablemount._
 	* {'Tablemount' is probably better because you don't have to explain what it means.}
 	* [X] The repair is a foul mix of steel plates and bracing and globulous welds.
 		* {Chips spends the rest of the story repairing freshly sprung leaks from the patches --- make note of this in a couple of places}
@@ -194,7 +194,7 @@ Last modified: Wed Mar 03, 2021  11:40AM
 	* they uncouple and leave quietly, in a hurry
 	* [X] "hope we didn't forget anything"
 
-### rendezvous with the Gnat; Interstitial traveling from depot; (run to stilt city; day and night 1)
+### rendezvous with the Gnat; Interstitial traveling from depot; (run to Pylon City; day and night 1)
 * [X] Hemi got new charts from the depot 
 	* they find out where the authority line actually was --- Shakes wasn't too far off
 
@@ -240,47 +240,52 @@ Last modified: Wed Mar 03, 2021  11:40AM
 	* salmon can conversation
 
 
-### The next day's run is uneventful (Run to stilt city, day and night 2)
+### The next day's run is uneventful (Run to Pylon City, day and night 2)
 
-* [ ] _they go over their planned route with the Shakes; give him points where they can rendezvous if they lose him, or meet him at the destination._
-	* [ ] estimate 3 or 4 days of travel, if nothing goes wrong
+* [X] _they go over their planned route with the Shakes; give him points where they can rendezvous if they lose him, or meet him at the destination._
+	* [X] estimate 3 or 4 days of travel, if nothing goes wrong
 		* {roughly: 12 hours at 20 kn nighttime + 12 hours at 5kn daytime = 900 miles in 3 days}
-		* [ ] "do you think they know our destination?" "I have no idea" said Shakes
-	* [ ] They get Herschel settled on the Prospect?
+		* [X] shakes took out a little notebook and jotted down some notes
+		* [X] Do you think the sub with the ram will be after us?
+			* It's one thing to raid a depot just across a line, but to pursue a transport sub across another Authority's territory...
+		* [X] "do you think they know our destination?" "I have no idea" said Shakes
+	* [X] They get Herschel settled on the Prospect?
 		* Hemi asks for Herschel; maybe looking forward to have him on board
 		* Or does this come later because Herschel isn't acclimated to his home yet?
+		* [X] If they see anything, the plan is to quick dive, then send Shakes out in the Gnat.
 
-* [ ] _They get the Gnat off; And Shakes runs diesels on the surface; with the plan to distract any attention from the Prospect underwater_
+* [X] _They get the Gnat off; And Shakes runs diesels on the surface; with the plan to distract any attention from the Prospect underwater_
 
-* [ ] _They make good, slow time the rest of the day_
+* [X] _They make good, slow time the rest of the day_
 	* The Gnat is running slowly on the surface, so it isn't making THAT much noise. Stays in contact by occasionally stopping the diesel and checking in.
 
-* [ ] _The Prospect surfaces at night._
-	* [ ] They reattach the Gnat; so Shakes can get a hot meal and sleep in a rack.
-		* [ ] If they see anything, the plan is to quick dive, then send Shakes out in the Gnat.
+* [X] _The Prospect surfaces at night._
+	* [X] They reattach the Gnat; so Shakes can get a hot meal and sleep in a rack.
 
 
-### Shakes leads off the sub with the ram (Run to stilt city, day 3)
+### Shakes leads off the sub with the ram (Run to Pylon City, day 3)
 
+* [X] _At dawn Shakes moves Herschel to the Prospect and gets the Gnat underway on the surface with the diesel running again._
+	* weather steadily thickening
 
-* [ ] _At dawn Shakes moves Herschel to the Prospect and gets the Gnat underway on the surface with the diesel running again._
-
-* [ ] _Cassandra is on sonar watch, about mid-morning hears a pursuing sub while Shakes is shut down for a chat._
-	* [ ] They report the contact to Shakes
-	* [ ] "Yeehaw motherfuckers!" His diesel fires up
-	* [ ] Cassandra reports the pursuing sub following Shakes away from them. She can hear that Shakes is able to stay well out ahead of them with the Gnat's speed.
-	* [ ] Can't they torpedo him? It's hard to hit such a small fast-moving target. Though he's so loud it's doubtful he'd hear a torpedo incoming. Hopefully he's smart enough to change course randomly every 5 miles or so... Hemi looked doubtful.
-	* [ ] They lose contact with both ships
+* [X] _Cassandra is on sonar watch, about mid-morning hears a pursuing sub while Shakes is shut down for a chat._
+	* [X] They report the contact to Shakes
+	* [X] "Yeehaw motherfuckers!" His diesel fires up
+	* [X] Percy goes to wake up Hemi
+		* He listens to the contact, and confirms it is the sub with the ram
+	* [X] Cassandra reports the pursuing sub following Shakes away from them. She can hear that Shakes is able to stay well out ahead of them with the Gnat's speed.
+	* [X] Can't they torpedo him? It's hard to hit such a small fast-moving target. Though he's so loud it's doubtful he'd hear a torpedo incoming. Hopefully he's smart enough to change course randomly every 5 miles or so... Hemi looked doubtful.
+	* [X] They lose contact with both ships
  
 
-### --- (on the surface in a storm; wave porn) (Run to stilt city, night 3)
-
-
+### --- (on the surface in a storm; wave porn) (Run to Pylon City, night 3)
 
 * [ ] _They need to recharge batteries, so they come up on the surface, at night, in a storm. Their batteries are too low, so they are forced to run on the surface in big weather._
 	* [ ] "There's some 10 meter waves out there Captain."
+	* [ ] Percy keeps them underwater til they have fairly low batteries for fear of both the pursuing sub and the weather above which might blow for another 12 hours
 
 * [ ] The boat rolls over
+	* [ ] Percy feels something wrong in the movement of the boat. She smacks the collision alarm and klaxon blare through the boat.
 	* [ ] "Fuck, we came up in the ditch of a wave." The boat rolled over onto its side.
 	* [ ] It lay on it's side, the power blinking on and off as the bilge water made it's way into places it didn't belong.
 	* [ ] Even though every last object on the sub was stowed to keep it from falling, the boat laying on its side was not in the calculations for the preparations.
@@ -292,6 +297,7 @@ Last modified: Wed Mar 03, 2021  11:40AM
 	* [ ] They stood waiting for gravity to take hold on the much heavier lower portion of the boat, and lift them back upright.
 
 * [ ] _the whine, push and crash of the boat and engines sounds like Dopesmoker_
+	* [ ] like a slow drone overlaid with a rhythm; like some kind of spiritual music intended to transcend earthy bounds
 	* [ ] Hemi is forced to steer the boat from the bridge in the weather
 	* [ ] Gregory is up on the lookout (Is there a lookout ring on a mast? that might be cool and explain why Gregory doesn't make it back below in time.)
 
@@ -317,43 +323,48 @@ Last modified: Wed Mar 03, 2021  11:40AM
 
 * [ ] _the sub with the ram fires on the Prospect with a deck gun_
 	* {maybe it's not going to try ramming them again because of the storm? they know it's the same sub because of the unique ram on the bow; why not torp? Torp also nearly useless on the surface in this weather.}
-	* [ ] The enemy sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah
+	* [ ] The pursuing sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah
 
 * [ ] _Gregory is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
 	* Percy dives out from under him with him pounding on the Hatch.
-	* (Or should this be Chips? Would that be more dramatically interesting?)
 	* He gets up and waves to the sub with the ram as the Prospect is diving, but they shoot him.
 	* His body drapes over the fairing, and then floats up off the sail as it disappears under him.
+	* Chips is in the control room when it happens; she's pissed, but Percy tells her to leave
 
-* [ ] _They realize the enemy sub is turning away, getting some distance so they can fire torps._
+* [ ] _They realize the pursuing sub is turning away, getting some distance so they can fire torps._
 
-* [ ] _the enemy sub fires a torpedo_
+* [ ] _the pursuing sub fires a torpedo_
 
 * [ ] _Panicked fear as they push the boat down, caught between the pincers of the torpedo incoming and the cold depths of hell below them._
 
 * [ ] _The torpedo implodes at 200 meters, it can't swim deeper than that._
 
 
-### Chase scene (Run to stilt city, morning day 4)
+### Chase scene (Run to Pylon City, morning day 4)
 
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
 		* {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 	* [ ] A scene where they are eating in the galley
 		* This is where they ask WHY the sub is chasing them with Owen in the room; the answer gets revealed
+			* Owen is in the room when someone describes the commander of the sub. "Uh oh." he says.
 			* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
 			* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer belligerence of it.
+		* It's possible this could be moved to the chase in the garbage patch. In which case, maybe Owen sees the sub with the ram coming into pylon city?
+			* Doing it this way eliminates the possibility of Percy just leaving Owen on the dock at Pylon City 
 		* Hemi feeds Herschel on the table, maybe it pisses off Percy
 
 * [ ] _something breaks that needs fixing_
+		* This maybe goes before the meal where they talk about why they are being chased
 		* possibly the original wound from the ramming breaks open again
 		* possibly an engine park that Chips needs to fix {bilge pump from the hardware shop?}
+		* Confrontation between Chips and Percy about Gregory
 
 * [ ] _Watching the battery gauges --- how long can they go before they are forced to the surface?_
 	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 
 
-### --- (hiding in the depths, escape under the deep scattering layer) (Run to stilt city, night 4)
+### --- (hiding in the depths, escape under the deep scattering layer) (Run to Pylon City, night 4)
 
 
 * [ ] _The dive below the deep scattering layer_
@@ -362,7 +373,7 @@ Last modified: Wed Mar 03, 2021  11:40AM
 	* Cassandra thinks they will crash into the bottom, Percy knows they will go right through it because it's just fish.
 	* {Where's the Gnat? I think it goes and gets lost in the storm}
 	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish --- the "bottom" has a particular sound on sonar.}
-	* {They pass through the deep scattering layer, and get away from the enemy who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
+	* {They pass through the deep scattering layer, and get away from the pursuing who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
 
 * [ ] _And motor quietly away._
 
@@ -374,7 +385,7 @@ Last modified: Wed Mar 03, 2021  11:40AM
 	* {if this is the more panicked situation, use dialog from later pigeon instance}
 
 
-### --- (Into stilt city --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to stilt city, day 5)
+### --- (Into Pylon City --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to Pylon City, day 5)
 
 
 * [ ] _They arrive at an exotic remote city, with wooden homes built on stilts and junks with fishermen._
@@ -391,7 +402,7 @@ Last modified: Wed Mar 03, 2021  11:40AM
 * [ ] _The find their dock and unload._
 	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something. Broken English in general
 
-* [ ] _The enemy sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
+* [ ] _The pursuing sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
 
 
 ### Leave in a hurry; cruise down the continental shelf
@@ -406,6 +417,8 @@ Last modified: Wed Mar 03, 2021  11:40AM
 ### --- (bicycle race in the hangar)
 
 * [ ] _A bicycle race (like 7 Cycles Christmas party) in the empty cargo bay._
+	* You know the rules: there are no rules except don't get _badly_ hurt
+	* mice/mouse-on-wheel conversation
 
 * [ ] _A submarine is just a very very complicated bicycle_
 	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
@@ -421,16 +434,17 @@ Last modified: Wed Mar 03, 2021  11:40AM
 * [ ] _They head out into the deep ocean, in a sea full of garbage_
 	* (Not plastic. there's little/no plastic in this world)
 	* They _hear_ the garbage on the sonar; are forced to slow down because floating empty steel hulks and ships are around
+	* But this makes sonar less useful --- too many confusing contacts
 
-* [ ] _The enemy sub is pursuing_
+* [ ] _The pursuing sub is pursuing_
 	* Cassandra hears them coming, knows what they sound like now
-	* Another drawn-out O'brian style chase scene.
+	* Another drawn-out O'brian style chase scene?
 
 * [ ] _They come up with a plan. They mate with the Gnat._
 	* Maybe this is where Percy says 'get Shakes on the pigeon'
 	* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
 
-* [ ] _as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?_
+* [ ] _as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?_
 	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
 
 * [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat on her deck)_
@@ -442,23 +456,28 @@ Last modified: Wed Mar 03, 2021  11:40AM
 
 * [ ] _Hemi starts assembling his devices,  he explains the plan to Shakes as he does._
 
-* [ ] The Gnat surfaces and runs loud to try and confuse the black sub.
+* [ ] _The Gnat surfaces and runs loud to try and confuse the black sub._
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
 
-* [ ] _the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they give off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait this time._
+* [ ] _the risky part is that the pursuing sub is too smart to go after the Gnat -- they know the Gnat is there just to run interference, that's why they give off chasing the Gnat earlier and turned after the Prospect -- so they have to use the Prospect itself as the bait this time._
 
-* [ ] _Percy will run the _Prospect_ at 100 meters, full-engine like they are trying to get away._
+* [ ] _Percy will run the Prospect at 100 meters, full-engine like they are trying to get away._
 
-* [ ] _the enemy sub will run at the same depth, trying to line up an underwater torpedo shot._
+* [ ] _the pursuing sub will run at the same depth, trying to line up an underwater torpedo shot._
 
-* [ ] _The Gnat has to run _between_ them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
+* [ ] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
 	* Hemi has to calculate by hand and slide rule how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the floats by hand and launch them out the airlock into the path of the chasing sub.
 	* (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column)
+	* the garbage in the water makes it impossible for the pursuing sub to know the mines are there
+
+* [ ] _Something has to go wrong, to make it seem like the plan won't work_
+	* not sure exactly what or how this happens, yet
 
 ### Ending
 
 * {They are all fishing on the deck?}
 	* {Perhaps this is the one time in the novel where the weather on the surface is good? The one time nature isn't trying to kill them? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
+	* Perhaps Chips is not there because she is left unresolved with Percy
 
 * {Or, possibly we just follow Cassandra (make her the main character) to her next thing}
 

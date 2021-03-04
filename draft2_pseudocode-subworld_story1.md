@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Tue Mar 02, 2021  05:02PM
+Last modified: Thu Mar 04, 2021  05:46PM
 
 
 
@@ -131,7 +131,7 @@ Last modified: Tue Mar 02, 2021  05:02PM
 	> She steps up to the bar that is nearly at the height of her chest. It is broad and made of dark wood from which decades of drinkers had worn away the original shellac coating, and a universe of spilled drinks had stained to a mottled gray color.
 
 * {Percy meets Cass}
-* [ ] At one end of the bar sits Cass; describe Cass
+* [X] At one end of the bar sits Cass; describe Cass
 	> At one end sits a tiny girl, with enormous brown eyes.
 
 * {A shaky intro between Cass and Percy}
@@ -283,10 +283,10 @@ Last modified: Tue Mar 02, 2021  05:02PM
 
 ### re-surfacing
 
-* [ ] {they run for 24 hours; and when night comes they decide with the batteries down to 1/3 that they should surface and run the diesels}
-	* [ ] {Remember: generally the run on the surface at night, underwater during the day}
+* [X] {they run for 24 hours; and when night comes they decide with the batteries down to 1/3 that they should surface and run the diesels}
+	* [-] {Remember: generally the run on the surface at night, underwater during the day}
 
-* [ ] {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
+* [X] {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
 
 * [ ] {the engines sound like dopesmoker}
 	* [ ] > With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
@@ -305,17 +305,17 @@ Last modified: Tue Mar 02, 2021  05:02PM
 		* {there could be some dialog, possibly funny, where they wonder why THEY are being persecuted, innocent smugglers that they are}
 
 * {a torpedo passes extremely close by}
-* [ ] > In the darkened conn, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. Before she knew what it was, her fingers gripped the browning steel armrests of the captain's chair. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the conn and they all jumped alert.
-* [ ] > "torpedo." Percy said. 
-* [ ] > "Close one." Hemi replied cooly but with simmering nerves. 
-* [ ] > "Some fuck is shooting at us? Some fuck is trying to rape my boat?" 
+* [X] > In the darkened conn, Captain Percy's sensitive ears semi-consciously picked out a new sound among the rumbling drone of the engines. Something high-pitched, like a bird-of-prey a great distance off. Before she knew what it was, her fingers gripped the browning steel armrests of the captain's chair. She became conscious of it as it rapidly grew louder, and then a sudden grinding whine echoed through the conn and they all jumped alert.
+* [X] > "torpedo." Percy said. 
+* [X] > "Close one." Hemi replied cooly but with simmering nerves. 
+* [X] > "Some fuck is shooting at us? Some fuck is trying to rape my boat?" 
 
 * {They shut down the diesels and submerge to periscope depth}
-* [ ] > Percy was pissed. This was not the way the game was played. "Like the scorched landscape of hell. Shut down the diesels." She yelled to Chips through the comms tube. "Take us down to scope depth. We can't stay a heavy target on the surface with a maniac out there firing at us."
-* [ ] The vibration of the diesel engine trailed away.
-* [ ] > "Diesel is off, green lights across the board. Diving to scope depth"  The conn man spun a wheel here and there, and turned the bigger wheel, steel polished to a gleam from decades of use, that adjusted the down plane. His eyes locked on the depth gauge.
+* [X] > Percy was pissed. This was not the way the game was played. "Like the scorched landscape of hell. Shut down the diesels." She yelled to Chips through the comms tube. "Take us down to scope depth. We can't stay a heavy target on the surface with a maniac out there firing at us."
+* [X] The vibration of the diesel engine trailed away.
+* [X] > "Diesel is off, green lights across the board. Diving to scope depth"  The conn man spun a wheel here and there, and turned the bigger wheel, steel polished to a gleam from decades of use, that adjusted the down plane. His eyes locked on the depth gauge.
 	* {this might be too naval}
-* [ ] > "Now that the diesel is off, someone get on sonar" Said Percy. "I'll do it." {Donovan} volunteered. "No.. Sorry {Donovan} I need our best ears. Go wake up Cass."
+* [X] > "Now that the diesel is off, someone get on sonar" Said Percy. "I'll do it." {Donovan} volunteered. "No.. Sorry {Donovan} I need our best ears. Go wake up Cass."
 		* {Not sure it's well established enough yet that Cass is good at sonar. Might be better to say that she needs {Donovan} at the controls.}
 
 * {Percy puts the scope up and swings it around, scanning the horizon. She sees nothing.}
@@ -325,11 +325,11 @@ Last modified: Tue Mar 02, 2021  05:02PM
 
 ### they dive again
 
-* {Cass can hear the enemy sub out there. gives some details on it: maybe it's nuclear?}
+* [X] {Cass can hear the enemy sub out there. gives some details on it: maybe it's nuclear?}
 
-* {they decide to dive again even with low batteries, start to employ some evasion tactics, running slow and deep}
+* [X] {they decide to dive again even with low batteries, start to employ some evasion tactics, running slow and deep}
 
-* {running slow will make them late for their rendezvous with the _Gnat_, but they think they need to}
+* [X] {running slow will make them late for their rendezvous with the _Gnat_, but they think they need to}
 
 
 ### rendezvous with the _Gnat_
@@ -374,12 +374,12 @@ Last modified: Tue Mar 02, 2021  05:02PM
 
 * [X] {they run on the surface through the darkness/fog keeping the _Prospect_ darkened; maybe engines at half-speed to keep the noise down}
 
-* [ ] {the _Gnat_ runs hot and loud to attract the attention of anyone following. stacks blowing flame}
+* [X] {the _Gnat_ runs hot and loud to attract the attention of anyone following. stacks blowing flame}
     * {this might be where you have Shakes make some cool adjustment to the diesels so they run _louder_, try to drown out the _Prospect's_ engine noise}
 
-* [ ] {the _Gnat_ heads off in a different direction}
+* [X] {the _Gnat_ heads off in a different direction}
 
-* [ ] {the _Prospect_ and the _Gnat_ keep in touch via ship-to-ship (CB-style) telephone}
+* [X] {the _Prospect_ and the _Gnat_ keep in touch via ship-to-ship (CB-style) telephone}
 	* {remember the distance restrictions on sonar telephone --- 1500 feet or so}
 
 
@@ -388,16 +388,17 @@ Last modified: Tue Mar 02, 2021  05:02PM
 * {the _Gnat_ gets warning shots fired at it (tracer rounds or something)}
 
 * {Shakes reports in to the _Prospect_ and then dives and goes into evasive maneuvers --- fast and loud, though running on electric}
-* [ ] > "Sorry yos, I gotta make myself scarce now, or I won't be around much longer to help." 
+* [-] > "Sorry yos, I gotta make myself scarce now, or I won't be around much longer to help." 
 
-* {Do we hear a transmission from the enemy? Or do they just shoot to kill? In some ways it might be more fun to keep them dark and silent --- like butch cassidy and the sundance kid}
+* [-] {Do we hear a transmission from the enemy? Or do they just shoot to kill? In some ways it might be more fun to keep them dark and silent --- like butch cassidy and the sundance kid}
 
-* {the enemy chases the _Gnat_ for a way, but doesn't take the bait, and heads back on a path towards the _Prospect_}
+* [-] {the enemy chases the _Gnat_ for a way, but doesn't take the bait, and heads back on a path towards the _Prospect_}
 
-* {Shakes warns the _Prospect_ they are coming back.}
+* [-] {Shakes warns the _Prospect_ they are coming back.}
 
 
 ### listening for the pursuing sub
+
 * {(See style experiments in sub world shuttle bay for draft experiments of generalized scenes of going deep, staring at dials, listening.)}
 
 * {The prospect cruises sail-up to get the lookout up high. Nothing is seen.}

@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Wed Mar 03, 2021  12:41PM
+Last modified: Thu Mar 04, 2021  05:17PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -1430,7 +1430,7 @@ Hemi flipped up the main ballast valve switches and there was again a rush of ai
 
 Sometimes new crew members thought it must be something of a mental relief to be able to look through the periscope after days or weeks inside a submarine --- the opportunity to have even a brief glimpse of the surface world. Captain Percy remembered believing this herself when she first started working on submarines as a teenager. And honestly, she would give her crew shifts on the periscope if she believed it would actually help keep them mentally steady. But the control room was already cramped, and more than that, she knew from years of experience sighting through periscopes that it didn't help. Sometimes it made the claustrophobia of the sub worse. At periscope depth, the viewport end of the device couldn't be more than a meter or two above the surface. There was rarely anything to see except a world entirely made up of an undifferentiated horizon of lighter gray against dark gray. It was almost always like that, and this moment was no exception.
 
-On the surface, it was night. A reasonable moon above the cloud layer meant there was enough light to see the ocean swells. The swells were moderately significant, which was good --- the _Prospect_ would be harder to hear on sonar and almost impossible to spot visually. Through the scope Percy watched the black swells rise and fall around her, pushing up and easing down the lighter gray field of the sky with a tuned cadence. It was a little dizzying and almost nauseating. Every so often the swell would pass over the top of the periscope and she would have a few seconds of blackness as a relief.
+On the surface, it was night. A waning moon above the cloud layer meant there was enough light to see the ocean swells. The swells were moderately significant, which was good --- the _Prospect_ would be harder to hear on sonar and almost impossible to spot visually. Through the scope Percy watched the black swells rise and fall around her, pushing up and easing down the lighter gray field of the sky with a tuned cadence. It was a little dizzying and almost nauseating. Every so often the swell would pass over the top of the periscope and she would have a few seconds of blackness as a relief.
 
 "Chips!" Percy gave her voice a little more emphasis because she didn't remove her face from the periscope frame. "Make sure you stay on that fucking sonar contact. Track the direction and range. Let me know if they get within something like visual range."
 
@@ -3082,15 +3082,15 @@ Shakes joined Hemi and Percy at the navigation table, somewhat revived by Gregor
 
 Shakes nodded.
 
-Percy placed a steel straight-edge dappled with rust patches down on the chart showing their proposed course. "Barring any unforseen distractions, this is our planned course. We will be heading into an area that a number of Territorial Authorities claim control over."
+Percy placed a steel straight-edge dappled with rust patches down on the chart showing their proposed course. "Barring any unforeseen distractions, this is our planned course. We will be heading into an area that a number of Territorial Authorities claim control over."
 
 Shakes reached into his denim vest and withdrew a small pencil and a notebook covered with black and smudged fingerprints. He began to scratch down notes in a fast, unreadable scribble.
 
-"That's unfortunate, but unavoidable since we're heading for the mainland port of Pylon City."
+"That's unfortunate, but unavoidable since we're heading for the mainland port of Pylon City." Said Percy.
 
 "...The locals don't call it that." Put in Hemi.
 
-Percy waved him off. "We estimate it will take three or four days and nights to get there. That's running slow and deep during the day, and fast on the surface at night."
+Percy waved him off. "We estimate it will take three or four days and nights to get there. That's running slow and deep during the day, and fast on the surface at night with all things nominal."
 
 "And what's the plan for the _Gnat_?" Shakes asked.
 
@@ -3104,38 +3104,164 @@ Shakes grinned at the thought of hot meals. "What happens if someone comes up on
 
 "Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive."
 
-"OK, just remember if you take the _Gnat_ down with you, I'll have nothing but a crushed beer can for a boat. What about sub with the ram and those guys who were after you? What if they are still following you?"
+"OK, just remember if you take the _Gnat_ down with you, I'll have nothing but a crushed beer can for a boat." He scribbled a few notes. "What about sub with the ram and those guys who were after you? What if they are still following you?"
 
 "I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed transport sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
-"I have no idea." Said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to observe any of that, as you know."
+"I have no idea." Said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to observe any of that."
 
 Percy nodded.
 
-"What about Herschel?" Asked Hemi. "When will he be ready to come aboard the _Prospect_? If there's any contacts during the day, the _Gnat_ could potentially be a long way off pretty quickly if you are leading a contact away from the _Prospect's_ location. It would be nice to have Herschel ready to go find you."
+"What about Herschel?" Asked Hemi. "When will he be ready to come aboard the _Prospect_? The _Gnat_ could potentially be a long way off pretty quickly if we come across someone who you then lead away from the _Prospect's_ location. It would be nice to have Herschel ready to go find you, in a case like that."
 
 "Is that what you are really thinking Hemi?" Percy asked. "Or are you just looking forward to having a fluffy new crew member to take care of?"
 
 "I'm hoping Herschel is acclimated to the _Gnat_ in another day or two. Then we can move him about the _Prospect_." Said Shakes.
 
-"Alright," said Percy, "move the pigeon over whenever you are ready Shakes. Right now let's get the _Gnat_ running up on the surface as planned, and get the _Prospect_ further down. I don't like being this shallow during the day."
+"Alright," said Percy, "move the pigeon over whenever you are ready Shakes. Right now let's get the _Gnat_ running up on the surface, and get the _Prospect_ further down. I don't like being this shallow during the day."
 
-Shakes stopped by the galley to take a refill of coffee with him, and disappeard into the bowels of the _Prospect_ and back aboard the _Gnat_. He got the _Gnat_ off and surfaced while the _Prospect_ dove down to 100 meters where Percy was more comfortable they couldn't be spotted from the air.
+Shakes stopped by the galley to take a refill of coffee with him, and disappeared into the bowels of the _Prospect_ and back aboard the _Gnat_. He got the _Gnat_ off and surfaced while the _Prospect_ dove down to 100 meters where Percy was more comfortable with the cover of ocean above her.
 
-The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with it's diesel emitting a long belch of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_, and at the slower speed the _Gnat_ wasn't overwhelmingly loud, about the same as an average surface transport ship. That worked well with their plan because Authority enforcement craft were less likely to pursed a target that seemed like a surface transport ship since anything on the surface --- at least during the day --- was likely to be moving with the full blessing of the Authority.
+The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with it's diesel emitting a long belch of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_, and at the slower speed the _Gnat_ wasn't overwhelmingly loud, about the same as an average surface transport ship. That was to their benefit because Authority enforcement craft were less likely to pursed a target that seemed like a surface transport ship --- at least during the day --- since anything on the surface was likely to be moving with the full blessing of the Authority.
 
-As planned, Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather and open ocean.
+Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. The two boats droned their way across the curve of the globe, and the only thing that changed was the sun slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
+
+The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Captain Percy brought the _Prospect_ up to the surface and they began their night crew rotations with someone always on the radar and someone always in the lookout ring. A thin quickblade of a moon climbed up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric. 
+
+Shakes ran the _Gnat_ off at some distance for the first half of the night, and then dove and brought the boat under to mate with the _Prospect_, which slowed the _Prospect's_ speed, but Percy figured this was worth it to keep Shakes alert and relatively sane during the day. He came on board and ate a couple of large bowls of a hot brown soup Gregory had left simmering on the range, accompanied by thick slices of a stale and grainy bread which he would cover in butter and soak in the soup until each bite softened. He slept for a few hours in one of the _Prospect's_ comfortable racks. As the sky lightened in the east, Captain Percy woke him and told him it was time to get the _Gnat_ off.
+
+Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch to the _Gnat_. Shakes disappeared down through the hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakeable intelligence to the eyes.
+
+"Hemi meet Herschel." Said Shakes holding the cage up for Hemi to take while he climbed up out of the _Gnat_.
+
+Hemi poked a thick finger between the bars and rubbed Herschel's head gently. "Shakes this bird looks smarter than you."
+
+"Maybe you should hire him to drive the _Gnat_ for you." Said Shakes.
+
+"This cage seems really small."
+
+"That's just his travel cage. I have a nice comfy roost installed for him down in the _Gnat_. You don't want him to forget where his home is, otherwise he won't return there when you release him."
+
+"Can I let him out of this cage?"
+
+"Sure, if you --- or Percy --- don't mind a little pigeon shit around."
+
+"I believe I shall give this fellow the run of the boat."
+
+Shakes handed Hemi a small leather case with tiny papers and a steel band. "This is his leg band. It's pretty self-explanatory. Just write your message, attach it, and toss Herschel in the air. He'll find the _Gnat_ if it's anywhere within maybe a hundred miles or so."
+
+"How do we get him _back_ though?" Asked Hemi.
+
+"Well..." Said Shake scratching his grimy neck with black fingernails. "It's kinda a one-way thing. I have to give him back to you in person. We might be able to get him to fly over to the _Prospect_ from the _Gnat_ if you were within sight... and maybe he knew you had some food."
+
+"I understand. It's a 'homing' pigeon. It only goes home."
+
+"Right."
+
+"Well, welcome aboard Herschel. Shakes, have a good run today."
+
+"I expect to, though I'll miss having my copilot with me."
 
 
+### Shakes leads off the sub with the ram 
 
+The _Gnat_ was off and the _Prospect_ submerged and running at depth before the first molten blob of malevolent red sun percolated up on the horizon. Shakes was running the _Gnat_ hot and loud. He was standing up in the pilot's chair with head head above the hatch in the wind, trying to blow the bleary sleep out of his eyes. He sucked on a cigarette, but the wind was making the coal on the end glow like the sun coming up on the horizon behind him. His cigarette was disappearing fast. A long shadow of the short sail of the _Gnat_ with his round head on top stretched out in front of him on the slate-gray water.
 
+One hundred meters below him in the _Prospect_ it was nearly silent as the crew eased into their more relaxed daytime shifts. Captain Percy was in the control room smoking with Bastian, and Cassandra had just woken when the boat dove, and was making her way with a coffee to the sonar station for the long day watch.
 
+The first few hours passed with dull regularity. Shakes had nothing to report during diesel stops, and by her third cigarillo Percy was settling into the comfortable state of mind-blanking boredom that she was her most familiar association with life aboard submarines.
 
+By mid-morning, Shakes was shutting the diesel of the _Gnat_ down for the third time. 
 
+Cassandra could heard the _Gnat's_ diesel putter away to a halt --- leaving a silent relief in her headphones that she blessed. As usual, she called up to the control room to let them know the _Gnat_ was shut down for a listening and check-in session. "Captain Percy, the _Gnat_ just went silent."
 
+"Alright. Thanks Cassandra." Percy called back down to her. Percy took down the ship-to-ship mic. "Shakes --- the usual: how're things looking up there?"
 
+"Well, for lack of anything else to report, I'll tell you that the weather is thickening up a bit. The haze has really set in, and there's a bit of a chop coming on. Nothing to mention right now, but it looks to me like the kind of things that could turn into real weather later."
 
+Weather was not generally a concern for Percy, submarines could ride out even the worst weather at depth. But she couldn't guess at what the _Gnat_ could handle. "Does that give you anything to worry about with the _Gnat_?"
 
+"Naw." Shakes voice crackled. "The _Gnat's_ been through the very worst. If it gets bad, I'll dive and ride it out underwater. With all this running on the surface, the batteries are always fully topped-up."
+
+Knowing the _Gnat_ couldn't dive very deep at all, Percy was unconvinced that this was a solution to big weather, but she also knew Shakes had taken the _Gnat_ back and forth across deep ocean many times. She decided to trust his experience. "Alright then Shakes. If you..."
+
+"Captain Percy!" Cassandra interrupted with a shout from sonar. "I think I've got a contact."
+
+"Hold on Shakes. We might have a contact. Don't start your diesel." Percy hung up the mic and slid down the ladder.
+
+Cassandra had her eyes closed and was concentrating intently on the sounds in her headset. She had the mics pointed towards the _Prospect's_ hard rear starboard quarter, and the strength indicator gauge was nodding weakly just a bit above the pin. "It feels like I'm only on the edge of the signal. They might be directly behind us."
+
+"Bastian," Percy called up to him, "throttle down. Stop the prop, Cassandra needs to hear what's behind us."
+
+A moment later the perennial resonance of the electric motor died away. Cassandra brought the sonar mics back to face the dead stern of the boat. The signal strength indicator immediately shot up to a definite contact. "Absolutely Captain Percy. I can hear the engine in the water. Sounds like another diesel."
+
+Percy looked at the signal strength dial and knew immediately that the contact had snack in under the sound of the _Gnat's_ diesel when it was running, and then a bit closer even by being dead astern of them where Cassandra couldn't hear very well over the sound of their own prop turning. The contact was probably far closer than Percy was comfortable with now --- maybe twenty nautical miles. "Fuck." Was all she said.
+
+She climbed up to the control room and got Shakes back on the ship-to-ship. "Defintely a contact Shakes. Now it's your turn. Fire up the _Gnat_ and see if you can lead them off and away from us. Let's see if this scheme of ours works!"
+
+"Abso-fucking-lutely! Motherfuck..." The end of his oath was cut off by the whining start of the _Gnat's_ diesel engine which came blaring over the ship-to-ship radio for a moment before Shakes took his thumb off the transmit button.
+
+Percy flipped on the red night-lighting. "Bastian --- don't move the boat. Don't trim anything or let her make any sounds."
+
+"Dead silent drift, got it Captain." Said Bastian.
+
+Percy slid down to the sonar compartment and tapped Cassandra on the shoulder. "Stay on them both Cassandra. I'm going to wake Hemi." Percy disappeared down the ladder to crew quarters and returned a minute later with Hemi's big form following her up from below. He was still pulling on his tweed jacket and fixing his spectacles while he sat at the sonar station and put on the second headset.
+
+Cassandra looked at him, and pointed at the signal strength gauge and the bearing without saying anything. Hemi nodded while listening intently.
+
+After a minute, Percy broke the silence. "Well, Hemi... is that our creepy sub with the ram?"
+
+Hemi sighed. "It is. Absolutely. The ram gives it a distinctive hull noise."
+
+"Fuck!" Said Percy. "So much for the theory that they wouldn't follow us this far into another Authority's territory."
+
+"For all we know," said Hemi, "this is their area, and they were crossing someone else's line earlier to find us."
+
+"But," protested Percy, "that's totally fucking irrational --- we didn't have a job or plan until we got to the depot. We didn't know what we would be hauling, so how does it make any sense that an Authority boat would be after us when we have no job and an empty hold?"
+
+"They aren't acting rationally." Said Hemi. "They are acting like they have a grudge."
+
+"Ah fuck. It doesn't fucking matter --- what matters is our current situation. Next order of business you two: are they following Shakes away from us."
+
+Hemi took over the sonar directional control wheel from Cassandra and made some slight adjustments to center the signal. He flipped some switches to engage filters, and a moment later switched them off again. "You see Cassandra," he explained, "with these filters engaged I can better hear the _Gnat_ and with them disengaged it's easier to focus on the pursuing sub."
+
+She nodded.
+
+After a few minutes of listening Hemi reported to Percy: "it... seems like it's working Syl. The sub with the ram is definitely following Shakes. And..." He paused for a moment to listen, "Shakes seems to be able to stay well ahead of them." He pointed to the mic directional indicator. "They are already 10 degrees off our course, and moving away quickly."
+
+"That's fucking excellent Hemi." Percy Said.
+
+"Can't they like, shoot at Shakes or something?" Asked Cassandra.
+
+"It's very difficult to hit such a small fast-moving target as the _Gnat_ with a torpedo. Though the _Gnat's_ engine is so loud that it's doubtful Shakes would hear an incoming torpedo. Hopefully he's smart enough to make random course changes every 5 miles or so to make aiming a torpedo more challenging..." Hemi looked doubtful.
+
+"Well keep on them." Said Percy. "Let me know if anything changes, or what the final result is." She stuck a cigarillo between her lips and started climbing the ladder to the control room.
+
+"OK Captain Percy." Said Cassandra.
+
+"Cassandra, keep tracking them." Said Hemi. He stood up, still wearing the sonar headset, and leaned over the navigation table. He measured the angle of the bearing to the contacts off their current position marked on the chart, and then drew a line marking Shakes and the pursuing sub's course. By listening carefully to what the sonar was picking up in his headset he estimated their distanced away. 
+
+He and Cassandra tracked the two sound sources like this for over an hour. Then he stood to his full height and stretched. He took off the headset and hung it on the peg, and patted Cassandra on the shoulder before climbing up to the control room to talk to Percy.
+
+"Shakes and the sub with the ram are far out and moving out of range. I can no longer estimate distance on the sonar." Said Hemi.
+
+"What's the end-game in this maneuver for Shakes?" Asked Percy. "He can't just run forever."
+
+"Well, hopefully the pursuing sub realizes they are on the wrong target at a good distance away from us. They will likely leave off chasing Shakes and turn around to try to reacquire us here where they lost us. We will, of course, be long gone by then."
+
+"So now it's time for a course change."
+
+"Indeed."
+
+"And how do we find Shakes again? You think you can raise him with that pigeon?"
+
+"I think Herschel will be just as good, if not better option than trying to get him on the radio. To get Shakes on the radio, we both have to be on the surface at the same time, and he has to have his diesel off. Not to mention the radio could be monitored. I believe Herschel is as good an option as any."
+
+"OK. We'll surface tonight, and you can send the pigeon out after Shakes then."
+
+Cassandra kept listening to the sonar for another half hour, occasionally reporting that she thought she could still hear them when the conditions were favorable. At that point Percy decided it was time to leave, and had Bastian throttle the electric motor up to 5 knots. They headed off on a randomly selected more southerly course.
+
+The rest of the hours of the day ticked by with nothing to break the monotony and no changes to make other than occasional minor adjustments to the trim of the boat. Whereas earlier Cassandra had been cursing the noise of the _Gnat's_ engine polluting the water, now she found she missed it. Somehow it had been comforting to know Shakes was up there on the surface. Not to mention that his hourly check-ins were at least a way to mark time and shift her attention. Now they were down in this dark cold pit of water, blind and alone, and it began to feel like they were doomed to remain like this until the end of their days. 
 
 
 
