@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Mar 04, 2021  05:46PM
+Last modified: Fri Mar 05, 2021  06:02PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -280,32 +280,41 @@ Last modified: Thu Mar 04, 2021  05:46PM
 
 ### --- (on the surface in a storm; wave porn) (Run to Pylon City, night 3)
 
-* [ ] _They need to recharge batteries, so they come up on the surface, at night, in a storm. Their batteries are too low, so they are forced to run on the surface in big weather._
-	* [ ] "There's some 10 meter waves out there Captain."
-	* [ ] Percy keeps them underwater til they have fairly low batteries for fear of both the pursuing sub and the weather above which might blow for another 12 hours
+* [X] _They need to recharge batteries, so they come up on the surface, at night, in a storm. Their batteries are too low, so they are forced to run on the surface in big weather._
+	* [X] "There's some 10 meter waves out there Captain."
+	* [X] Percy keeps them underwater til they have fairly low batteries for fear of both the pursuing sub and the weather above which might blow for another 12 hours
 
-* [ ] The boat rolls over
-	* [ ] Percy feels something wrong in the movement of the boat. She smacks the collision alarm and klaxon blare through the boat.
-	* [ ] "Fuck, we came up in the ditch of a wave." The boat rolled over onto its side.
-	* [ ] It lay on it's side, the power blinking on and off as the bilge water made it's way into places it didn't belong.
-	* [ ] Even though every last object on the sub was stowed to keep it from falling, the boat laying on its side was not in the calculations for the preparations.
-	* [ ] The crates in the hold crashed over, they stood intensely alert for the pop in their ears that meant one of the warheads exploded, and it was all over for them.
-	* [ ] "Christ!" said Cassandra, "Is this it? are we going down?"
+* [X] The boat rolls over
+	* [X] Percy feels something wrong in the movement of the boat. She smacks the collision alarm and klaxon blare through the boat.
+	* [X] "Fuck, we came up in the ditch of a wave." The boat rolled over onto its side.
+	* [X] It lay on it's side, the power blinking on and off as the bilge water made it's way into places it didn't belong.
+	* [X] Even though every last object on the sub was stowed to keep it from falling, the boat laying on its side was not in the calculations for the preparations.
+	* [X] The crates in the hold crashed over, they stood intensely alert for the pop in their ears that meant one of the warheads exploded, and it was all over for them.
+	* [X] "Christ!" said Cassandra, "Is this it? are we going down?"
 		* Holy shit holy shit holy shit. Please come up again boat...
-	* [ ] "Don't worry." Said Hemi, "Submarines are designed with all the weight on the bottom, boats always come upright eventually."
-	* [ ] "Except when they don't." Said Bastian.
-	* [ ] They stood waiting for gravity to take hold on the much heavier lower portion of the boat, and lift them back upright.
+	* [X] "Don't worry." Said Hemi, "Submarines are designed with all the weight on the bottom, boats always come upright eventually."
+	* [X] "Except when they don't." Said Bastian.
+	* [X] They stood waiting for gravity to take hold on the much heavier lower portion of the boat, and lift them back upright.
+	* [X] Percy gets on the PA to send Chips forward to check the cargo.
+
+* [X] _Chips is furious with Percy for surfacing the boat in a storm, especially with dangerous cargo aboard_
 
 * [ ] _the whine, push and crash of the boat and engines sounds like Dopesmoker_
 	* [ ] like a slow drone overlaid with a rhythm; like some kind of spiritual music intended to transcend earthy bounds
 	* [ ] Hemi is forced to steer the boat from the bridge in the weather
 	* [ ] Gregory is up on the lookout (Is there a lookout ring on a mast? that might be cool and explain why Gregory doesn't make it back below in time.)
+	* [ ] {the engines sound like dopesmoker}
+		* [ ] > With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
+		* [ ] > And running on the surface meant the boat was also moved by the ocean swell. 
+		* [ ] > The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
+	* [ ] {hours go by, boredom sets in}
 
-* _no sign of the gnat_
-	* Someone wonders about how Shakes is doing in such a small and feeble boat
-	* Hemi reminds them that Shakes has years of experience at sea
-	* Should they release Herschel? Hemi won't let them in this weather.
-	* and presumably the _Gnat_ decided to swim it out on batteries --- which should be nice and charged up after leading the other sub away on a long chase --- where the water is calmer under the surface
+
+* [o] _no sign of the gnat_
+	* [X] Someone wonders about how Shakes is doing in such a small and feeble boat
+	* [X] Hemi reminds them that Shakes has years of experience at sea
+	* [ ] Should they release Herschel? Hemi won't let them in this weather.
+	* [ ] and presumably the _Gnat_ decided to swim it out on batteries --- which should be nice and charged up after leading the other sub away on a long chase --- where the water is calmer under the surface
 
 * [ ] _hours go by, boredom sets in;_
 
@@ -381,7 +390,7 @@ Last modified: Thu Mar 04, 2021  05:46PM
 	* {Is this where they come up in a blessed fog?}
 
 * [ ] They contact Shakes via Pigeon:
-	* "ok, get the pigeon" "Hershel" "Hershel, and tell Shakes...."
+	* [ ] "ok, get the pigeon" "Hershel" "Hershel, and tell Shakes...."
 	* {if this is the more panicked situation, use dialog from later pigeon instance}
 
 
@@ -402,7 +411,11 @@ Last modified: Thu Mar 04, 2021  05:46PM
 * [ ] _The find their dock and unload._
 	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something. Broken English in general
 
+* [ ] They reunite with Shakes
+	* Herschel found him and told him which dock to meet them at
+
 * [ ] _The pursuing sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
+	* Possibly it followed Shakes in
 
 
 ### Leave in a hurry; cruise down the continental shelf

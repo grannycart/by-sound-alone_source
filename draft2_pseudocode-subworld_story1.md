@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Thu Mar 04, 2021  05:46PM
+Last modified: Fri Mar 05, 2021  04:00PM
 
 
 
@@ -288,12 +288,12 @@ Last modified: Thu Mar 04, 2021  05:46PM
 
 * [X] {on the surface they fire up the engines, and run loud and pretty fast; 2/3s of full speed maybe}
 
-* [ ] {the engines sound like dopesmoker}
-	* [ ] > With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
-	* [ ] > And running on the surface meant the boat was also moved by the ocean swell. 
-	* [ ] > The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
+* [X] {the engines sound like dopesmoker}
+	* [X] > With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
+	* [X] > And running on the surface meant the boat was also moved by the ocean swell. 
+	* [X] > The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
 
-* [ ] {hours go by, boredom sets in}
+* [X] {hours go by, boredom sets in}
 
 
 ### they are fired on

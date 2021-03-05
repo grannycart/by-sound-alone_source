@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Mar 04, 2021  02:40PM
+Last modified: Fri Mar 05, 2021  12:31PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -152,6 +152,7 @@ Last modified: Thu Mar 04, 2021  02:40PM
 * [X] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 	* No, it would flood at 2 atmospheres (bottom of the boat) see: https://www.quora.com/What-is-the-air-pressure-in-a-submarine
 * [ ] find and remove 'inches' and 'feet' references
+* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
 * [ ] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
 * [X] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
 * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
@@ -192,7 +193,7 @@ Last modified: Thu Mar 04, 2021  02:40PM
 	* (dark-awesome, like original meaning maybe)
 * [ ] consider using 'nominal' to mean anything you want it to.
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
-* [ ] Need to include a description of Percy somwhere early in the book
+* [ ] Need to include a description of Percy somewhere early in the book
 	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
 	* [ ] Subtly reinforce Percy's beauty in more places:
 		* Right now I think she reads more like the elder captain she will be in later stories
