@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Fri Mar 05, 2021  05:14PM
+Last modified: Sun Mar 07, 2021  05:08PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -3362,7 +3362,7 @@ It was nothing very dramatic, just a slight roll and yaw that Percy's whole bein
 
 "Hemi... something's wrong." She said, but even the time it took to get the words out had been too long of a delay. A second motion that was far more dramatic had begun. She punched the collision alarm and the klaxon sounded to the lowest depths of the boat.
 
-The _Prospect_ started to list to the starboard side. It was the motion of some skyscraping giant lifting them closer to his near-sighted eyes for inspection without regard for the orientation of the strange object in his hand. The giant was, in fact, a monster wave.
+The _Prospect_ started to list to the starboard side. It was the motion of some skyscraping giant lifting them closer to his near-sighted eyes for inspection without regard for the orientation of the strange object in his hand. The giant was, in fact, a huge wave.
 
 The _Prospect_ rolled hard over to starboard, and it did not stop rolling.
 
@@ -3461,20 +3461,193 @@ Chips's face immediately went red. "That's the second fucking time Percy. Two fu
 
 "But with a fucking load of fucking explosives? You fucking ride out bad fucking storms submerged. Every stupid fucking green boat driver knows that. But apparently, you fucking think it's fine to surface with a hold full of TNT. We were a fucking mite's-dick away from being blown to the bottom of the fucking hole!"
 
-"Ah I don't fucking need this right now." Percy Said. "I have bigger problems than you. Go cool the fuck down Chips." Percy turned and walked away.
+Percy leveled her emotions. "I don't fucking need this right now. I have bigger problems than you. Go cool the fuck down Chips." Percy turned and walked away.
 
-Chips through the rusted bicycle frame into the corner with the other bicycles. The hollow tubes of thin steel crashed together.
+Chips threw the rusted bicycle frame into the corner with the other bicycles. The hollow tubes of thin steel crashed together.
 
 
 ### They drive through the storm
 
-With the power restored, Captain Percy tracked down some powerful floodlights from the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this. Powering them required running heavy weather-proof electrical cables up from the control room to the bridge. 
+With the power restored, Captain Percy tracked down some powerful floodlights in the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this, where visibility was nearly nothing, but the boat still needed to be piloted visually from the top of the sail. Powering them required running heavy weather-proof electrical cables up from the control room to the bridge. 
 
-She called for Owen to come help her on the PA. Together they managed to get the heavy lights up through the control room and up to the bridge of the sail. In the driving rain they clamped them onto the fairing and Owen ran the cables down to high-amperage power connectors in the control room.
+She called for Owen to come help her on the PA. Together they managed to get the heavy lights through the control room and up to the bridge of the sail. In the slashing rain Percy held each of the four lights in place while Owen clamped the lights onto the fairing by bolts tightened with a wet and slipping wrench. Owen draped the cables down through the sail and into the control room where he connected them to high-amperage power sockets.
 
-Hemi had been mostly guessing which way the big waves were coming from, and having Bastian steer the boat into them. Now he had the floodlights on he could actually see the black throbbing landscape around him. Huge mountains, the color of crude, slipped towards him and under the boat, lifting it high up among the spindrift blowing white from their peaks.
+Hemi had been mostly guessing from which way the big waves were at him, and having Bastian adjust the course to to keep them moving laterally across the trough of the waves, where they faced the most risk of rolling over again. Now he had the floodlights on he could actually see the black throbbing landscape around him. Huge mountains, the color of crude, slipped towards him and under the boat, lifting it high up among the spindrift blowing white from their peaks.
 
-Hemi tried to spot the big ones coming at him, and would steer into them, driving up their sides splitting through the top and crashing down into the valley below. The wind blew without relent, carrying a mix of rain and blown water from which no distinction could be made whether it was moving upwards or downwards.
+Hemi tried to spot the big ones coming at him from a couple of waves away. WHen he saw one, he would have Bastian steer into them, driving up their sides splitting through the top and crashing down into the valley below. The wind blew without relent, carrying a mix of rain and blown water from which no distinction could be made whether it was moving upwards or downwards.
+
+The powerful lights pushed back the darkness only to reveal a landscape of blackness stretching out in front of Hemi. To the uninitiated it was a hellscape, an unstable surface on an alien world. Any ship in weather like this was a tiny figure on a vast plane, roamed by monsters the size of apartment buildings that arrived with stealth, and an ability and intent to crush even the most formidable intruders and drive them down into the bottomless hole they strode over.
+
+But Hemi felt no fear as long as the hum of the diesels shoot his boots, and the heat of the exhaust bellowed from the pipes behind him. He had been through weather like this many times over the years and knew a well-found ship with a strong engine should have no trouble. As old as the boat was, he had all faith in the _Prospect_. The storm could try its evil best to do them down, but Hemi wasn't going to go without a fight.
+
+After an hour of charging into the storm Hemi was starting to feel it though. Hemi was not a loud man and his voice was already cracking from shouting directives down to the control room. It also took an enormous amount of energy to keep his concentration focussed on the nearly-featureless black seascape. Wild as it was, it became debilitatingly ugly and repetitive in a short time. It also took physical stamina just to stay standing on the bridge against the wind and roll of the boat. The most distressing thing to Hemi though was that he had only been at this for an hour. There was a chance they could be running through this storm until dawn, something like 10 hours away.
+
+Gregory, dressed in a black foul-weather slicker that covered him from crown to calf's, and heavy rain boots, climbed up through the sail to join Hemi on the bridge. 
+
+"Percy sent me up." Gregory shouted to Hemi through the wind. "She wants me in the lookout ring. Seems fucking stupid to me."
+
+Hemi nodded. "The sour prospects of fortune are determined by the winds that blow out of hell, Gregory. I do not believe there is more to see from the lookout ring than down here on the bridge. Still, I'll be glad to have help spotting incoming big ones... and someone to witness my end if I get blown overboard."
+
+"Maybe that's the real reason she wanted me up here!" Gregory grinned at Hemi as the rain soaked his face.
+
+Gregory clipped on a lifeline and climbed up to the lookout ring, his meaty hands almost glowing white where they came out from under the slicker and gripped the wet steel ladder. In the lookout ring, he doubled up his safety line. He withdrew a pair of binoculars from under his slicker, but they were nearly useless in a matter of minutes. He reverted to holding the brim of his hood down to shade his eyes, and least from the water that came down at him, little good it did against the water that rose up at him.
+
+
+### Cassandra on sonar in the storm
+
+Down in the sonar compartment Cassandra's eyes were watery and red. She had been on sonar watch for more than 12 hours. 12 hours of staring at the same screen and set of gauges, which never showed the slightest change. While she had quickly adapted to the typically very gently motion of the submarine, now it was moving like the worst kind of low-riding surface ship. It lifted her up, and dropped her down, sometimes hard enough to lift her from her chair. Unlike a surface ship, the were no windows though. There was no way for her to see any kind of horizon by which she could orient her confused inner ear. Sickness rose up in her again and again, and she kept forcing it back down. The only relief was the occasional cool, wet breeze that found its way all the way down through the open hatch in the control room to her far corner of the sonar compartment. 
+
+She had expected to be in her rack hours ago, but Captain Percy had come by and asked her to stay on sonar. She had told Cassandra that, while it was unlikely they would meet any other vessels in a storm like this, sonar might be the only way they would know if another ship was coming at them.
+
+So Cassandra literally hung on. She gripped the handles on either side of the sonar unit in her small hands, her fingers curling around the cold painted and chipped steel. The tension in her arms had passed from a searing ache to a dull background pain hours ago.
+
+Cassandra closed her eyes and focused her mind on the sounds in hear headset. She left her body behind in the boat, and moved her mind out into the water. This was becoming easier and easier with practice, though overcoming the exhaustion and pain of a long shift made it somewhat more challenging.
+
+The ocean was overwhelmed by the sounds of the storm on the surface, and the heavy drone of the diesel engines reverberating through the hull of the _Prospect_. With the diesels running up towards their max RPMs, the whole boat shook with the vibration of the grinding fuel burners. The engines provided a low frequency bass note that cut a never-varying line of deep sound through the sonar.
+
+Above the engines in pitch was the sound of the waves. This sound was white, but unlike the drone of the diesels was constantly changing and shifting. It was a heavy sound that curled and rolled, until a wave broke. When that happened the sound would change to a rushing wall which would overtake everything until it receded a few seconds later and the drone of the engines came back up underneath.
+
+When she concentrated, Cassandra could hear the whistle of the wind itself, pressing against the surface of the water and driving it with its vicious will.
+
+Those sounds all combined into a heavy repetitive groan that rose and fell depending on which source was taking over at any moment. But cut across that was the sound of the motion of the boat itself. Every minute or so, the bow would break out of a wave, accompanied by a new rush of wind on the sonar mics. Then it would be followed by the crunching sound of the boat plunging back under the water, which would run out in a long stream of the sounds of water rushing along the side of the hull.
+
+All of this came together to form something that, to Cassandra's ears, sounded like an almost spiritual music --- a drone music with variations that carried one off slightly to keep one's interest, but then always returned to a home place. The grinding roll of it all seemed like it could be an effort to raise the consciousness of someone lucky enough to be listening to a plane or a place in the mind where one could see out forever, out through thousands and thousands of miles of empty ocean, and pick out some particular particle or source, and understand what exactly its intentions were. Perhaps a sperm whale 10,000 feet down in the blackness, closing its jaws around the expelling juices of an enormous cephalopod. Or the churning roll of a machine bit boring into the ocean floor.
+
+Cassandra let her mind sink into this strange music flowing through her headset, passing from one ear through the middle of her head to the other ear, and at the same time letting her mind wander around in the sea surrounding them. This went on for more than an hour before she was jolted back to the sonar compartment by the distraction of Captain Percy and Chips having a loud and heated argument behind her. That was unfortunate because just at that moment she believed she could hear a new sound out in the darkness. It was something faint and far off. It was something incongruous and inappropriate, like a soloist from some fast-moving secular entertainment music had been dropped on top of her spiritual drone. 
+
+She opened her eyes and looked at her instruments. She swung the mics around towards the boat's rear starboard side. At about 160 degrees that there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second, like some prairie rodent checking for raptors. Cassandra spun the mic direction wheel back across the bearing, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
+
+She focused the mics on the source of the mechanical sound in the water, and listened to it. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium they worked in, gently tickled the sensitive membranes of the ship's mics, and then ran close to the speed of light through the ship's wiring, past the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was nothing but a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling at just a few hertz, but in a evenly repetitive way that was unmistakable.
+
+But she was struggling to figure out if the source was some distance off or if it was closer, but moving very quietly. The drone of the engines and the background noise from the surface was interfering with and confusing her sense of distance in the water. It made her feel a little like she was lost and alone on the surface, being lifted and dropped by the force of the storm. The source of the sound might be visible one second, and then she was deaf and blind under the water, and by the time she came to the surface again it had moved far off.
+
+Captain Percy and Chip's argument grew louder. Cassandra had the sense they might be on the verge of blows. It kept pulling her back to the sonar compartment when she knew she needed her mind out there in the water. But she didn't feel like she had the authority to enforce quiet in the compartment.
+
+She rested her elbows on the console, and cupped her hands over the metal and leather pieces of the earphones. She listened to the mechanical hum in the water, and tried to guess by the difference between her right and left ear how far they were. But the white noise of the storm washed it all into one blended continuous sound. She stared at the signal strenght indicator and dared it to move. 
+
+And then it did. It jumped up, marked a point and floated there for half a second. It was accompanied by a rattling clink --- metal on metal somewhere out in that black expanse. A dropped piece of cutlery perhaps. The sound was distintinctive, carrying Cassandra back to her childhood, to playing on the floor of a kitchen while a meal was being prepared above her. She tried to keep the feeling of safeness that brought to her as in her earphones the sound took on an other-worldly echo. An echo that her mind processed for distance --- which brought the rising terror of how close she now knew that sound to be.
+
+"Captain Percy! They're right on us!" She turned and yelled.
+
+Percy immediately broke off with the red-faced Chips and stared at Cassandra, her eyes going wide. It took her a second to process what Cassandra had said. "Oh fuck. A contact?" She asked Cassandra to confirm.
+
+"Yes!" Cassandra put all the conviction she could into it, worried that she wasn't conveying the seriousness of the situation quickly enough.
+
+"How close?" Percy asked.
+
+"I don't know!" Cassandra panicked. "Too close! They're _here_!" She pointed her finger at the console. "Rear left side of the ship."
+
+
+### The pursuing sub rises and starts to shoot
+
+Percy grabbed the painted steel rungs of the ladder up to the control room, feeling old paint fleck off under her fingers where she gripped the rungs excessively tightly. She flew up the ladder, cupped her hands around her mouth and yelled up to Hemi, "Contact! Rear port quarter!" She could hear Hemi repeating the information up to Gregory in the lookout ring.
+
+Gregory made a motion to pull out the binoculars from under his slicker, but as he looked in the direction Hemi indicated, he realized he did not need them. There before him rose a shadowy leviathan, breaking out from the dropping curve of the next wave behind them. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell. The shadows of people briefly caused those eyes to blink, and Gregory knew they were moving onto the deck of the sub that was so close it looked like the next wave could drop them on top of the _Prospect_.
+
+Gregory cupped one hand to his mouth and stretched his arm out to point in a gesture that dated back to the dawn of humans venturing out onto water. "Hemi! The Beast!"
+
+Hemi turned and looked, and instantly knew the _Prospect's_ only course of action. "Dive!" He shouted as he pressed the dive alarm button. He looked up at Gregory in the lookout ring. "We have to dive Gregory! Get below!" The alarm sounded up to him from below in the control room and all through the depths of the boat.
+
+Long thin fingers of flame reached out from the submarine behind them and split the darkness between them. It was followed instantly by the low, fast cracking sound of heavy automatic weapon fire and the sickening thud of lead slamming into the thick steel of the _Prospect's_ sail and ringing with a clanging echo through the hull of the ship.
+
+Hemi immediately dropped his significant mass to the deck of the bridge, under the fairing of the sail and then lowered himself down through the interior of the sail and into the control room. He looked up through the open hatch and called loudly for Gregory.
+
+"Were they fucking firing on us? That same fucking sub?" Percy asked, furious.
+
+"Yes. I saw the ram." Said Hemi. "We need to dive. Now. Open the main ballast vents." But he knew his words were redundant. Owen had already shut down the diesels, and Bastian was putting an angle on the dive plane and the main ballast was flooding. The bow tilted towards the depths. But the row of lights that showed the status of the hatches contained one glaring red light among the green --- the control room hatch.
+
+The depth gauge had already climbed off its zero pin. The deck of the _Prospect_ would be awash in a matter of seconds. The control room would be under shortly after that. Hemi looked up through the open hatch "Gregory! We're going down!" But all he could see was black rain blowing across the bridge. "He was pretty exposed up in the lookout ring when they started firing. He may have been hit." Hemi said to Percy.
+
+They suddenly all ducked involuntarily as more shrapnel hit the sail.
+
+Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the pursuing sub, so that all enunciation blended together into one long echoing drone of command, like the voice of a dog's possessing demons that drive the vulnerable mind to murder. "Do not submerge. Disengage your motors and prepared to be boarded." 
+
+This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed it's unshakeable and inviolable authority to issue such a command. 
+
+
+### They dive; Gregory dies
+
+"Close the hatch Hemi." Percy said.
+
+"I... I can't do that." Said Hemi.
+
+"Fuck! We're going to be under in seconds!" She climbed up two rungs on the ladder to the bridge, reached up and pulled the hatch down without looking up, cutting off the echoing voice on the loudspeaking explicating an ever-expanding description of pyramidal powers. 
+
+She screwed the squeaking hatch-sealing wheel down tight. The light on the hatch-status board went from red to green.
+
+More bits of lead smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily. There was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
+
+Owen looked up at Hemi with fear in his eyes.
+
+Hemi fixed the small frames of his glasses in front of his eyes and looked back at him steadily. "Don't worry. The boat will be safe from bullets underwater. Just get us down."
+
+They could hear the water rushing up the hull and rising around them now as the sail went under the waves. Then they heard the tapping. Not the loud thuds of bullets, but the soft rhythmic bump of someone banging on the hull over their head. A few thumps evenly spaced, as if someone was putting all their strength into them. This was followed by a double-bump, which let them know it wasn't mechanical.
+
+"Gregory." Said Hemi, his face blank.
+
+"Fuck." Said Percy. "There's nothing we can do now." The thumps went on for another few seconds. There was a few weaker ones, and then they stopped.
+
+Chips stood at the foot of the control room ladder looking up at Percy through the hatch. "Damn you." She said softly. "The fucking judges in hell will fuck you for eternity for that, Percy." Chips turned and disappeared towards the stern of the boat.
+
+"Fuck." Said Percy again. She spat. Nobody else said anything. "Flood the fucking dive tanks."
+
+Hemi reached over to the tank trim panel and opened valves that let more water into the boat. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them in streams of bubbles.
+
+"Set the planes down steep." Said Hemi. "Full power to the electric motors, drive us down as fast as possible." Owen pushed the main throttles all the way forward, and the hum of the powerful electric motors rose up around them mixing with the terrifying sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill status, with their pitted chrome casings --- and one with a cracked glass face --- all rose evenly and quickly.
+
+The _Prospect's_ bow tilted towards the depths. Percy and Hemi grabbed the hanging leather straps a counter-angled their ankles against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent.
+
+The ship-to-ship radio lit up, and the communication from the pursuing sub continued where it had left off when Percy closed the hatch. "Diving submarine: you are ordered to discontinue your dive. Return to the surface and disengage your engines. If you do not, we _will_ launch a torpedo at you. Under the International Water Territorial Authority Control Aggreement we are permitted to inspect any---" Percy punch the button cutting power to the ship-to-ship radio.
+
+"If they want to sink us so bad, why didn't they just torpedo us already?" Owen asked.
+
+"They were too close." Hemi replied. "They need to be at a minimum safe distance to fire without risking blowing themselves up. They probably also thought there was a chance they could capture our boat if we had been scared enough to just roll over."
+
+"So we're not that scared?" Asked Bastian. He put a cigarette to his lips for a long draw, not expecting a reply.
+
+"Fuck." Said Percy once more as she sized up the situation. "It must have just been total bad luck for us. There's no way they could have tracked us down int hat storm. ...Don't ya think Hemi?"
+
+"It's incredibly unlikely. They may have just been riding out the storm themselves, and suddenly found they were on us."
+
+"And that bad luck cost me a fucking crew member." Added Percy.
+
+Hemi looked away and found himself analying the gauges. They had already achieved 30 meters of depth.
+
+"Cassandra!" Percy yelled down to sonar through the hatch in the floor of the control room. "Stay on them! I need to know what they're doing." 
+
+"I'm trying to Captain Percy." Cassandra responded, unable to hide the uncertainty in her voice. "I... I think they might be diving..."
+
+Percy caught Hemi's eye. "What's their move Hemi? What are they trying to do?"
+
+Hemi considered. "Well, if they are diving, I believe that suggests they want tactical mobility. Their movements are extremely limited on the surface by the storm."
+
+"Mmm Hmm. That makes sense."
+
+"It will also make it easier for them to fire a torpedo, as they threatened to do on the ship-to-ship. With the storm it would be next to impossible to launch one from the surface without risking blowing themselves up."
+
+"...But they didn't already fire a torpedo because they're too close."
+
+"They are almost certainly still too close. If we hear them turn away from us, we can assume they are trying to get some distance to fire a torpedo."
+
+"Would they try to ram us?"
+
+"Only a truly suicidal sub driver would try a ramming while submerged. There's too much risk of damaging their own boat beyond repair."
+
+"Cassandra!" Percy called down again. "What's the range to the contact now?"
+
+"Um.." Cassandra struggled, "I can't really tell Captain Percy. The background noise in the water is still so loud that it's making ranging very difficult."
+
+"You had better go down there and get on sonar with her." Percy said to Hemi.
+
+Hemi nodded and slipped down through the hatch. He put one hand gently on Cassandra's shoulder so he wouldn't surprise her --- she had her eyes closed and seemed to be concentrating very hard on listening. When he touched her she turned an opened her eyes and nodded to him. Hemi put the second sonar headset on.
+
+A minute later he reported to Percy. "Syl, their diesels are off. They are definitely submerged. Range... maybe 300 meters. Hold on..."
+
+
+
+
+
+
 
 
 

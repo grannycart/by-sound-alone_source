@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Fri Mar 05, 2021  04:00PM
+Last modified: Sun Mar 07, 2021  04:44PM
 
 
 
@@ -404,44 +404,44 @@ Last modified: Fri Mar 05, 2021  04:00PM
 * {The prospect cruises sail-up to get the lookout up high. Nothing is seen.}
 	* {Does it make sense for them to run sail-up if they have a snorkel? Not sure a snorkel-able sub would do that; though being a non-war sub it might be the thing they do} 
 	* {see notes in sub specs about how you might want them to not have a snorkel for this first story; they get one after the upgrade}
-* [ ] > The _Prospect_ cruised on the uncanny oil-slick surface of the ocean, partially submerged, with just the sail {fin} slicing through the glassy surface and leaving a low wake behind them to mark their passage across this curved globe. 
-* [ ] > They left the sail above the waterline so they could get the lookout mast as high as possible. 
-* [ ] > In the lookout ring Gregory clung, the hum of the diesels transmitted up the mast and crossed into the soles of his feet through the rusted metal grating he stood upon. 
-* [ ] > With a pair of binoculars he scanned slowly around the horizon, but there was nothing to be seen but a flat circle of dark infinity, bisected with pure blackness on the lower half and almost-blackness on the upper half, like peeping into a viewport that looked into a frozen and unlit hell.
+* [-] > The _Prospect_ cruised on the uncanny oil-slick surface of the ocean, partially submerged, with just the sail {fin} slicing through the glassy surface and leaving a low wake behind them to mark their passage across this curved globe. 
+* [-] > They left the sail above the waterline so they could get the lookout mast as high as possible. 
+* [-] > In the lookout ring Gregory clung, the hum of the diesels transmitted up the mast and crossed into the soles of his feet through the rusted metal grating he stood upon. 
+* [-] > With a pair of binoculars he scanned slowly around the horizon, but there was nothing to be seen but a flat circle of dark infinity, bisected with pure blackness on the lower half and almost-blackness on the upper half, like peeping into a viewport that looked into a frozen and unlit hell.
 
 * {Percy is on the deck of the sail, the glow of the conn coming up from the open hatch at her feet.}
-* [ ] > Five meters below Gregory, Percy stood on the deck of the sail dressed in a black waxed overcoat with the collar turned up. 
-* [ ] > The unvarying resonance of her boat mixed with the unvarying ripple of the wake they left behind and left her feeling numb, though the night was not very cold. 
-* [ ] > The hatch at her feet stood open, and a faint red glow rose up through the open hole from the con.
+* [-] > Five meters below Gregory, Percy stood on the deck of the sail dressed in a black waxed overcoat with the collar turned up. 
+* [-] > The unvarying resonance of her boat mixed with the unvarying ripple of the wake they left behind and left her feeling numb, though the night was not very cold. 
+* [-] > The hatch at her feet stood open, and a faint red glow rose up through the open hole from the con.
 
 * {Dialog between percy and gregory; percy explains they want to run the diesels for as long as they can.}
-* [ ] > "Anything Gregory?" She asked, more to break up the sensory deprivation than because she expected any kind of affirmative answer.
-* [ ] > "No. If they are out there, they are dark as we are."
-* [ ] > "And we're not going to hear them until we can turn off the diesels."
-* [ ] > "How much longer, do you think, before we can submerge and go back on batteries?"
-* [ ] > "The longer we can run the diesels the better, obviously. And while it would charge them much faster, we can't run them too hot and loud.  It's all a game of how much charge we can put on the battery before being found out on the surface here. We need at least a few hours at our current charge rate."
+* [-] > "Anything Gregory?" She asked, more to break up the sensory deprivation than because she expected any kind of affirmative answer.
+* [-] > "No. If they are out there, they are dark as we are."
+* [-] > "And we're not going to hear them until we can turn off the diesels."
+* [-] > "How much longer, do you think, before we can submerge and go back on batteries?"
+* [-] > "The longer we can run the diesels the better, obviously. And while it would charge them much faster, we can't run them too hot and loud.  It's all a game of how much charge we can put on the battery before being found out on the surface here. We need at least a few hours at our current charge rate."
 
 * {Shakes contacts them, tells them he tried to get them to chase, but they broke off the chase, were likely headed back to try to find the Prospect}
 	* {It's possible they can't do this for range --- though they can use standard radio if they are both on the surface}
-* [ ] > Through the open hatch they heard Shakes's voice coming statically over the mono speaker of the radio: "_Prospect_, _Prospect_, do you copy?"
-* [ ] > "I've got you Shakes. Over." They heard Hemi's voice respond.  Shakes launched into his report.
-* [ ] > "Yeah, you know, I managed to get those fuckers to chase me for an hour or so by running the _Gnat's_ engines hot and noisy, but they must have realized that I wasn't a transport sub because a few minutes ago they broke off and headed back in your direction. I assume to try to listen for you in a quieter place. Over."
-* [ ] > "Hmm" Hemi said to himself. "Someone on their boat must have very good ears."
+* [-] > Through the open hatch they heard Shakes's voice coming statically over the mono speaker of the radio: "_Prospect_, _Prospect_, do you copy?"
+* [-] > "I've got you Shakes. Over." They heard Hemi's voice respond.  Shakes launched into his report.
+* [-] > "Yeah, you know, I managed to get those fuckers to chase me for an hour or so by running the _Gnat's_ engines hot and noisy, but they must have realized that I wasn't a transport sub because a few minutes ago they broke off and headed back in your direction. I assume to try to listen for you in a quieter place. Over."
+* [-] > "Hmm" Hemi said to himself. "Someone on their boat must have very good ears."
 
 * {Percy takes over the convo with Shakes. Tells him to keep running away from the Prospect, they will set up a rendezvous.}
-* [ ] > Percy came down the ladder and took the mic from Hemi.
-* [ ] > "Shakes, this is Percy. I want you to keep running as you are. If they hear you continuing to move off, maybe they will doubt they made the right move by not following you. Over."
-* [ ] > "That will give me a chance to charge up my batts too. Over."
-* [ ] > "OK. I'll have Hemi figure out some reasonable rendezvous point and get back to you. Over out."
+* [-] > Percy came down the ladder and took the mic from Hemi.
+* [-] > "Shakes, this is Percy. I want you to keep running as you are. If they hear you continuing to move off, maybe they will doubt they made the right move by not following you. Over."
+* [-] > "That will give me a chance to charge up my batts too. Over."
+* [-] > "OK. I'll have Hemi figure out some reasonable rendezvous point and get back to you. Over out."
 
 * {Percy and Hemi consult; they vocalize the expectation to be fired on again and how unreasonable that is}
-* [ ] > Percy hung the mic back up on the radio mounted above her and eased into her captain's chair trying to think of what to do next.
-* [ ] > "What do you think Hemi?"
-* [ ] > Hemi took a hanging rag and wiped the lenses of his pince-nez before placing them on the bridge of his nose and leaning over to look at the row of dials that showed the engine RPMs and battery charge.
-* [ ] > "It is, of course, a matter of the chance of them finding us on the open ocean versus our ability to get our batteries charged. If they _do_ find us, we will need all the charge we can get. I think we need to assume they will fire on us again, and we will likely not get the warnings and negotiations we usually get from Authority ships."
-* [ ] > "Goddamn violent motherfuckers. Someone needs to tell them the wars are over."
-* [ ] > "Are they really?" Hemi asked.
-* [ ] > "Let's not get into that again." Said Percy tiredly. 
+* [-] > Percy hung the mic back up on the radio mounted above her and eased into her captain's chair trying to think of what to do next.
+* [-] > "What do you think Hemi?"
+* [-] > Hemi took a hanging rag and wiped the lenses of his pince-nez before placing them on the bridge of his nose and leaning over to look at the row of dials that showed the engine RPMs and battery charge.
+* [-] > "It is, of course, a matter of the chance of them finding us on the open ocean versus our ability to get our batteries charged. If they _do_ find us, we will need all the charge we can get. I think we need to assume they will fire on us again, and we will likely not get the warnings and negotiations we usually get from Authority ships."
+* [-] > "Goddamn violent motherfuckers. Someone needs to tell them the wars are over."
+* [-] > "Are they really?" Hemi asked.
+* [-] > "Let's not get into that again." Said Percy tiredly. 
 
 * {Percy decides they should start stopping and listening in between running the diesels to charge the batteries. Hemi says Chips won't like it, and heads off to tell her}
 * [ ] "OK, lets start shutting the diesels down every half hour or so and do a careful listen.  Maybe we'll manage to hear them before they get into any kind of firing range."
@@ -450,10 +450,10 @@ Last modified: Fri Mar 05, 2021  04:00PM
 * [ ] > "I'll go have a chat with her." Hemi said, and lowered his huge body down the ladder to the deck below.
 
 * {A mood-setting paragraph about the noise of the engines vibrating through the boat, hints at how charging the batteries works.}
-* [ ] > Deep in the lower levels of the _Prospect_ the diesel engines fired their syncopated and timed explosions by the thousand every minute. 
+* [-] > Deep in the lower levels of the _Prospect_ the diesel engines fired their syncopated and timed explosions by the thousand every minute. 
 * [ ] > The pulses blended together and spun the dynamos that generated the searing force of electricity that was partially dumped straight into the giant motors that spun the greasy drive shafts, and partially flowed into the heavy leaded chemical concoctions that would store power for later. 
-* [ ] > This cycle of vibration drove through the whole boat, in a slow ruminating bass rhythm that in one instance might lull a person almost to sleep, and in another distract them totally from what they were doing. 
-* [ ] > In many cases it was a consoling drone of progress and maybe profit. In this case it was a cutting drone of deaf and blind fear.
+* [-] > This cycle of vibration drove through the whole boat, in a slow ruminating bass rhythm that in one instance might lull a person almost to sleep, and in another distract them totally from what they were doing. 
+* [-] > In many cases it was a consoling drone of progress and maybe profit. In this case it was a cutting drone of deaf and blind fear.
 
 
 * {Percy orders the engines shut down for a listen.}
@@ -466,118 +466,118 @@ Last modified: Fri Mar 05, 2021  04:00PM
 
 * {Hemi goes off and brings Cass back to sonar. description of sonar station 
 	* (might not be necessary if it was done during Hemi/Cass training session.}
-* [ ] > Hemi slipped down the ladder and passed through the hatch at the rear of nav to go find Cass's rack in the crew quarters. 
-* [ ] > Hemi returned in a matter of a minute or so to the nav room with Cass following sleepily behind him. 
-* [ ] Cass looked up as she passed under to catch Percy's eye through the hatch down to nav.
-* [ ] > "I'll have my headgear on in a second Pers."
-* [ ] > Percy waited for Hemi to come up through the hatch and then slid down the ladder herself. 
-* [ ] > Cass was already at the sonar station with one of the bakelite speakers of the headset pressed against her right ear, and the left speaker slightly off her ear so she could converse with Percy.
-* [ ] > Cass was adjusting various knobs and switches, disengaging filters used when the engine was running and boosting the gain on the mics.  
-* [ ] > Above the rows of knobs and switches was a set of rectangular meters with needles wavering along graduated backgrounds and along with a series of green, red, and amber lights showing the status of the various listening filters. 
-* [ ] > Above those was a large round dial indicating which direction the underwater mics were oriented, and a large square meter indicating the strength of any signals the mics received.
+* [-] > Hemi slipped down the ladder and passed through the hatch at the rear of nav to go find Cass's rack in the crew quarters. 
+* [-] > Hemi returned in a matter of a minute or so to the nav room with Cass following sleepily behind him. 
+* [-] Cass looked up as she passed under to catch Percy's eye through the hatch down to nav.
+* [-] > "I'll have my headgear on in a second Pers."
+* [-] > Percy waited for Hemi to come up through the hatch and then slid down the ladder herself. 
+* [-] > Cass was already at the sonar station with one of the bakelite speakers of the headset pressed against her right ear, and the left speaker slightly off her ear so she could converse with Percy.
+* [-] > Cass was adjusting various knobs and switches, disengaging filters used when the engine was running and boosting the gain on the mics.  
+* [-] > Above the rows of knobs and switches was a set of rectangular meters with needles wavering along graduated backgrounds and along with a series of green, red, and amber lights showing the status of the various listening filters. 
+* [-] > Above those was a large round dial indicating which direction the underwater mics were oriented, and a large square meter indicating the strength of any signals the mics received.
 
 * {Cass does a scan around with the mics, and finds nothing}
-* [ ] > Percy stood behind Cass with one hand on her shoulder, staring at the meter indicating signal strength. Cass flipped a couple of more filter switched and then her fingers gingerly wrapped around the stainless steel wheel that controlled the direction of the underwater mics.
-* [ ] > "I'll do a quick 360 scan, and then go back over the rear 180 more carefully, see if we can hear anyone following us." Cass said.  Percy patted her shoulder gently, not wanting to distract her too much.
-* [ ] > Cass slipped the other speaker over her left ear, and her large eyes went out of focus, resolved on some far-off point in space and vaguely conscious of the direction and strength dials responding to the movements of her fingers as most of her mental processing power focused on the information coming oh so softly to her ears.
-* [ ] > Percy watched the directional indicator dial waver around the 180 mark and then slowly and steadily travel around the dial. The signal strength meter barely came up off the pin. Percy grabbed a hanging rag and wiped some small droplets of condensation from the indicator meter.
-* [ ] > "Nothing." Cass said. "Nothing at all."
-* [ ] > "Not even the _Gnat_?" Asked Percy, "Shakes said he was running hot and loud."
-* [ ] > "Nope, he must be far off out of range of our mics. And if our friends following us are anywhere nearby, they are completely shutdown at the moment. No other surface traffic that I can hear either."
-* [ ] > "Well, that's good then. We'll run the diesels back up."
-* [ ] > "Let me do a quick scan of the areas behind us again, but my feeling is you are good to go, for the moment."
+* [-] > Percy stood behind Cass with one hand on her shoulder, staring at the meter indicating signal strength. Cass flipped a couple of more filter switched and then her fingers gingerly wrapped around the stainless steel wheel that controlled the direction of the underwater mics.
+* [-] > "I'll do a quick 360 scan, and then go back over the rear 180 more carefully, see if we can hear anyone following us." Cass said.  Percy patted her shoulder gently, not wanting to distract her too much.
+* [-] > Cass slipped the other speaker over her left ear, and her large eyes went out of focus, resolved on some far-off point in space and vaguely conscious of the direction and strength dials responding to the movements of her fingers as most of her mental processing power focused on the information coming oh so softly to her ears.
+* [-] > Percy watched the directional indicator dial waver around the 180 mark and then slowly and steadily travel around the dial. The signal strength meter barely came up off the pin. Percy grabbed a hanging rag and wiped some small droplets of condensation from the indicator meter.
+* [-] > "Nothing." Cass said. "Nothing at all."
+* [-] > "Not even the _Gnat_?" Asked Percy, "Shakes said he was running hot and loud."
+* [-] > "Nope, he must be far off out of range of our mics. And if our friends following us are anywhere nearby, they are completely shutdown at the moment. No other surface traffic that I can hear either."
+* [-] > "Well, that's good then. We'll run the diesels back up."
+* [-] > "Let me do a quick scan of the areas behind us again, but my feeling is you are good to go, for the moment."
 
 * {Percy asks Chips to fire up the diesels again, Chips complains about repeatedly starting and stopping the engines}
-* [ ] > Percy patted Cass on the shoulder again, and climbed back up the ladder to the cramped con. Hemi offered her the captain's chair he was sitting in, but she gestured him to remain there. She lit the comms light to engineering again and Chips came back on through the comms tube.
-* [ ] > "Cap?"
-* [ ] > "Get ready to fire up the diesels again Chips. We're all clear on the mics."
-* [ ] > "Ach. The chain of demons that powers these machines do not like this holy wavering of heat and cool. They're libel to rebel, and split their prisons of metal twain. If we crack a block, it is only a matter of time before we are dead in the water." Chips complained, her voice thinned and elongated by passing through the comms tube, as if she were speaking from the underworld prisons of her metaphorical demons herself.
-* [ ] > "I know it as well as anyone Chips. But it's one risk among many, and we don't have the luxury of choosing which we take at the moment." Percy let the lid of the comms tube close, not really caring what other complaints Chips had at the moment.
-* [ ] > A few moments later the high-pitch whine of the electric starters resonated through the submarine, followed by the sputtering and rolling of diesel cylinders firing up. Soon the familiar droning hum was vibrating their toes again, and power driving to the electric motors pushing them ahead through the water.
+* [-] > Percy patted Cass on the shoulder again, and climbed back up the ladder to the cramped conn. Hemi offered her the captain's chair he was sitting in, but she gestured him to remain there. She lit the comms light to engineering again and Chips came back on through the comms tube.
+* [-] > "Cap?"
+* [-] > "Get ready to fire up the diesels again Chips. We're all clear on the mics."
+* [-] > "Ach. The chain of demons that powers these machines do not like this holy wavering of heat and cool. They're libel to rebel, and split their prisons of metal twain. If we crack a block, it is only a matter of time before we are dead in the water." Chips complained, her voice thinned and elongated by passing through the comms tube, as if she were speaking from the underworld prisons of her metaphorical demons herself.
+* [-] > "I know it as well as anyone Chips. But it's one risk among many, and we don't have the luxury of choosing which we take at the moment." Percy let the lid of the comms tube close, not really caring what other complaints Chips had at the moment.
+* [-] > A few moments later the high-pitch whine of the electric starters resonated through the submarine, followed by the sputtering and rolling of diesel cylinders firing up. Soon the familiar droning hum was vibrating their toes again, and power driving to the electric motors pushing them ahead through the water.
 
 * {conversation between Hemi and Percy: they decide to go down to snorkel, even though they lose lookout ability}
 	* {note: this would have to change if you decide the boat doesn't get a snorkel until after the refit}
-* [ ] > Hemi touched Percy's arm.
-* [ ] > "With the all-clear on the mics, I think we can assume those following us are probably a good way off. It seems like we might want to run the diesels low and at snorkel depth. We'll minimize the distance we could be detected by that way." Hemi offered.
-* [ ] > "We also lose our ability to have a lookout on the mast."
-* [ ] > Hemi adjusted his slide-rule, and penciled a few numbers onto the clipboard in his lap.
-* [ ] > "My calculations suggest that if we didn't hear them on the mics, and assuming they weren't laying still and silent close by, they must be well beyond the range a lookout even high on the mast could see. I do not anticipate that they could get within that range without us hearing them first with our current plan to check the mics every half hour." Hemi wiped his fingers on a rag and removed the pince-nez from his nose to let them dangle on a chain.
-* [ ] > Percy considered.
-* [ ] > "You're probably right. And putting the rational argument aside, I feel the natural instinct of any good sub like my baby here is to be underwater as much as possible. Have Chips bring the diesels down to 1/4 power. {Donovan}: raise the snorkel and take us down to snorkel depth.  Hemi, since it's your idea to run at snorkel depth, you can take first watch on the scope."
-* [ ] > "Right" said Hemi, before getting on the comms tube with Chips.
+* [-] > Hemi touched Percy's arm.
+* [-] > "With the all-clear on the mics, I think we can assume those following us are probably a good way off. It seems like we might want to run the diesels low and at snorkel depth. We'll minimize the distance we could be detected by that way." Hemi offered.
+* [-] > "We also lose our ability to have a lookout on the mast."
+* [-] > Hemi adjusted his slide-rule, and penciled a few numbers onto the clipboard in his lap.
+* [-] > "My calculations suggest that if we didn't hear them on the mics, and assuming they weren't laying still and silent close by, they must be well beyond the range a lookout even high on the mast could see. I do not anticipate that they could get within that range without us hearing them first with our current plan to check the mics every half hour." Hemi wiped his fingers on a rag and removed the pince-nez from his nose to let them dangle on a chain.
+* [-] > Percy considered.
+* [-] > "You're probably right. And putting the rational argument aside, I feel the natural instinct of any good sub like my baby here is to be underwater as much as possible. Have Chips bring the diesels down to 1/4 power. {Donovan}: raise the snorkel and take us down to snorkel depth.  Hemi, since it's your idea to run at snorkel depth, you can take first watch on the scope."
+* [-] > "Right" said Hemi, before getting on the comms tube with Chips.
 
 * {Monotony sets in. One of the crewmen stares at the dials with nothing to do. Hemi gets bored on periscope watch. Percy can't tear herself away from watching the battery meters charge.}
-* [ ] > The hum of the engine became a little less all-prevailing, and they all settled in for a potentially long run of monotony. {Donovan}, with the speed, course, and depth set found himself with little to do. He smoked through one cigarette after another punctuated with the occasional cup of coffee and regular glances up at his bank of dials that indicated nothing had changed. Hemi hung his huge form on the control bars of the periscope and swung it slowly back and forth, mostly watching behind, but not neglecting to do a full circle every so often. Like Gregory before him, there was nothing to see through the scope except two shades of blackness, one belying the blackness of the other. It was the kind of never-ending nothingness that seemed to Hemi to be the true herald of death.
-* [ ] > Percy found she could not long drag herself away from the bank of meters that showed the charge on the batteries, which with the diesels running at 1/4 were only climbing at a rate that felt like it would never get into a zone where she might feel comfortable doing any kind of evasive maneuvering with her boat.
+* [-] > The hum of the engine became a little less all-prevailing, and they all settled in for a potentially long run of monotony. {Donovan}, with the speed, course, and depth set found himself with little to do. He smoked through one cigarette after another punctuated with the occasional cup of coffee and regular glances up at his bank of dials that indicated nothing had changed. Hemi hung his huge form on the control bars of the periscope and swung it slowly back and forth, mostly watching behind, but not neglecting to do a full circle every so often. Like Gregory before him, there was nothing to see through the scope except two shades of blackness, one belying the blackness of the other. It was the kind of never-ending nothingness that seemed to Hemi to be the true herald of death.
+* [-] > Percy found she could not long drag herself away from the bank of meters that showed the charge on the batteries, which with the diesels running at 1/4 were only climbing at a rate that felt like it would never get into a zone where she might feel comfortable doing any kind of evasive maneuvering with her boat.
 
 * {they stop the engines and try listening again, but nothing is out there. Hours pass like this.}
 At 53 minutes after the hour, she had Chips shut down the engines again, and put Cass through a roundabout with the mics again. And again there was nothing out there but silence. Percy returned to the weary hole of the con, and took over the scope from Hemi, who went off to find some coffee.
-* [ ] > Hours passed like this, the droning, the monotony, the only thing changing being the slowly, slowly climbing needles on the battery charge indicators.
+* [-] > Hours passed like this, the droning, the monotony, the only thing changing being the slowly, slowly climbing needles on the battery charge indicators.
 
 * {After hours of this, Cass finally hears something during engine shut-down}
-Four hours of this. It was on the eighth time that they had the engines shut down, and that sat silent in the water that Cass heard something. She was slowly swinging the mics around their rear starboard side at about 160 degrees that there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second off the pin, like some prairie rodent checking for raptors.  Cass spun the mic direction wheel back across the spot, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
-* [ ] > "Pers!" Cass yelled up to the con. "Pers, I've got something."
-* [ ] > Percy slid down the ladder from the con and stepped up behind Cass, her eyes on the signal-indicator needle as Cass continued to scan back and forth across the range that triggered it.
+* [X] > Four hours of this. It was on the eighth time that they had the engines shut down, and that sat silent in the water that Cass heard something. She was slowly swinging the mics around their rear starboard side at about 160 degrees that there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second off the pin, like some prairie rodent checking for raptors.  Cass spun the mic direction wheel back across the spot, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
+* [-] > "Pers!" Cass yelled up to the con. "Pers, I've got something."
+* [-] > Percy slid down the ladder from the con and stepped up behind Cass, her eyes on the signal-indicator needle as Cass continued to scan back and forth across the range that triggered it.
 
 * {Cass is sure it's a ship. Percy doesn't want her to use active sonar for range.} 
- * [ ] > "Something, but not much. Any ideas?"
- * [ ] > "It's mechanical, for sure. But they are either a good distance off, or closer and very quiet."
- * [ ] > "Keep the mics pegged to that spot for the moment. See if you can hear anything that might help us figure out how far they are."
- * [ ] > "You don't want me to ping them with active and get a certified distance?"
+ * [-] > "Something, but not much. Any ideas?"
+ * [-] > "It's mechanical, for sure. But they are either a good distance off, or closer and very quiet."
+ * [-] > "Keep the mics pegged to that spot for the moment. See if you can hear anything that might help us figure out how far they are."
+ * [-] > "You don't want me to ping them with active and get a certified distance?"
 	 * {Change this --- I don't think they would even consider active in this situation. Active is about range for firing, they have no torps}
- * [ ] > "It's too risky. They'll know exactly where we are if we do that. Keep listening, and maybe we'll get lucky and they'll give themselves away."
+ * [-] > "It's too risky. They'll know exactly where we are if we do that. Keep listening, and maybe we'll get lucky and they'll give themselves away."
 
 * {Percy wants to surface the boat and get a lookout back up on the mast}
-* [ ] > Percy climbed back up the ladder to the con, and as her head came through the hatch she gave orders.
-* [ ] > "Bring the sail back above the water. Get Gregory back up on the mast with the binoculars and scanning rear, starboard. Let me know if he sees anything. And do it very quietly."
+* [-] > Percy climbed back up the ladder to the con, and as her head came through the hatch she gave orders.
+* [-] > "Bring the sail back above the water. Get Gregory back up on the mast with the binoculars and scanning rear, starboard. Let me know if he sees anything. And do it very quietly."
 
 * {Cass worries about the air displacing in the ballast tanks}
-* [ ] > At her listening station, Cass could hear the hissing of compressed air slowly pushing water out of the ballast tanks of the _Prospect_ and could feel the boat slowly rising. The hissing air was loud enough to make her uncomfortable, but she knew that they were letting the air in as slowly as they could get away with. Hopefully the other sub was too far off to make much of it.
+* [-] > At her listening station, Cass could hear the hissing of compressed air slowly pushing water out of the ballast tanks of the _Prospect_ and could feel the boat slowly rising. The hissing air was loud enough to make her uncomfortable, but she knew that they were letting the air in as slowly as they could get away with. Hopefully the other sub was too far off to make much of it.
 	* {Fix this --- they wouldn't use air on the ballast tanks until they had steered just up under the surface}
 
 * {On the surface, Cass listens to the sound of the contact, trying to figure out how far off it is.}
-* [ ] > In a few minutes they lay absolutely still in the water, with the sail up above the surface. Through the mics Cass could hear the sail hatch gently opened, and Gregory's soft steps on the steel ladder up to the lookout ring.
-* [ ] > She focused on the sound behind that. She had the mics locked in on the source of the mechanical sound in the water. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium they worked in, gently tickled the sensitive membranes of the ship's mics, and then ran at lightspeed through the ships wiring, pass the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was nothing but a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling just a few hertz, but in a evenly repetitive way that was unmistakable.
+* [-] > In a few minutes they lay absolutely still in the water, with the sail up above the surface. Through the mics Cass could hear the sail hatch gently opened, and Gregory's soft steps on the steel ladder up to the lookout ring.
+* [X] > She focused on the sound behind that. She had the mics locked in on the source of the mechanical sound in the water. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium they worked in, gently tickled the sensitive membranes of the ship's mics, and then ran at lightspeed through the ships wiring, pass the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was nothing but a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling just a few hertz, but in a evenly repetitive way that was unmistakable.
 
 * {Cass hears something close by, and realizes the enemy sub is right on them}
-* [ ] > And then Cass heard a clink. Some kind of metal touched something, somewhere out in that black expanse. A sharp, high sound, unrepeated.  The needle on the signal-strength meter made a distinct point about it before returning to it's spot just above the pin. It took Cass a few beats to process it, but her brain came back with the answer: cutlery. A steel fork perhaps, stabbed too forcefully through a small hunk of blooded meat.
-* [ ] > "Percy!" Cass yelled up to the con, "they're right on us!"
+* [X] > And then Cass heard a clink. Some kind of metal touched something, somewhere out in that black expanse. A sharp, high sound, unrepeated.  The needle on the signal-strength meter made a distinct point about it before returning to it's spot just above the pin. It took Cass a few beats to process it, but her brain came back with the answer: cutlery. A steel fork perhaps, stabbed too forcefully through a small hunk of blooded meat.
+* [X] > "Percy!" Cass yelled up to the con, "they're right on us!"
 
 * {The enemy sub rises up in the lookout's binoculars. Machine gun fire from the enemy sub hits the Prospect. Percy orders them back down.}
-* [ ] > Gregory, in the lookout ring, had been scanning the black-on-black horizon, back and forth across the range Cass had given him.  Now a vertical black line moved steadily up across the field of his binoculars. He lowered them down instinctively, and there before him rose a shadowy leviathan, breaking through the surface of the flat sea. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell.
-* [ ] > The shadows of people briefly caused the eyes to blink, and Gregory knew they were on the deck of the sub that followed them merely hundreds of meters away.
-* [ ] > "The beast!" cried Gregory, and dropped down the ladder to the deck of the _Prospect's_ sail. A burst of heavy machine gun fire split the silence and echoed out in concentric rings across the water. Sprigs of flame lit up the deck of the sub following them, and lead smacked heavily against the steel of the sail and echoed through the hull of the _Prospect_.
-* [ ] > "Take us down!" Percy yelled to her entire crew. She looked up through the hatch at Gregory, still on the deck of the sail.
-* [ ] > "Gregory! Get down here, and seal that hatch. We're diving."
+* [X] > Gregory, in the lookout ring, had been scanning the black-on-black horizon, back and forth across the range Cass had given him.  Now a vertical black line moved steadily up across the field of his binoculars. He lowered them down instinctively, and there before him rose a shadowy leviathan, breaking through the surface of the flat sea. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell.
+* [X] > The shadows of people briefly caused the eyes to blink, and Gregory knew they were on the deck of the sub that followed them merely hundreds of meters away.
+* [X] > "The beast!" cried Gregory, and dropped down the ladder to the deck of the _Prospect's_ sail. A burst of heavy machine gun fire split the silence and echoed out in concentric rings across the water. Sprigs of flame lit up the deck of the sub following them, and lead smacked heavily against the steel of the sail and echoed through the hull of the _Prospect_.
+* [X] > "Take us down!" Percy yelled to her entire crew. She looked up through the hatch at Gregory, still on the deck of the sail.
+* [X] > "Gregory! Get down here, and seal that hatch. We're diving."
 
 * {The enemy sub warns them not to submerge over loudspeakers, and to prepare to be boarded. They list the long complex list of justification for their authority.}
-* [ ] > Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the following sub so that all enunciation blended together into one long echoing drone of command, like the voice of a dog's possessing demons that drive the vulnerable ones to murder.
-* [ ] > "Do not submerge. Disengage your motors and prepared to be boarded."
-* [ ] > This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed it's unshakeable and inviolable authority to issue such a command. But this ever-expanding description of pyramidal powers was cut off by Gregory closing the sail hatch.
+* [X] > Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the following sub so that all enunciation blended together into one long echoing drone of command, like the voice of a dog's possessing demons that drive the vulnerable ones to murder.
+* [X] > "Do not submerge. Disengage your motors and prepared to be boarded."
+* [X] > This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed it's unshakeable and inviolable authority to issue such a command. But this ever-expanding description of pyramidal powers was cut off by Gregory closing the sail hatch.
 
 
 * {They are hit by more bullets as they go down, and Percy worried about damage that could sink them when they are under pressure. Hemi reassures them they are safe from bullets underwater. A crewman asks why they don't just fire a torpedo, and Percy explains they were too close, and also wanted to try to capture the Prospect.} 
-* [ ] > More shrapnel smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily, there was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
-* [ ] > {Donovan} and {Gregory} looked at her in fear. Hemi looked back at them steadily through his pince-nez and told them to get the boat underwater.
-* [ ] > "We're safe from bullets underwater."
-* [ ] > "Yeah, but not from torpedoes. Why didn't they just torpedo us already?" {Donovan} asked. "It doesn't seem like they have much compunction about sending us to the bottom."
-* [ ] > "They were too close, they need to be at a minimum safe distance to fire without risking blowing themselves up. And they also thought there was a chance they could capture our boat if we had been scared enough to just roll over."
+* [X] > More shrapnel smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily, there was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
+* [X] > {Donovan} and {Gregory} looked at her in fear. Hemi looked back at them steadily through his pince-nez and told them to get the boat underwater.
+* [X] > "We're safe from bullets underwater."
+* [X] > "Yeah, but not from torpedoes. Why didn't they just torpedo us already?" {Donovan} asked. "It doesn't seem like they have much compunction about sending us to the bottom."
+* [X] > "They were too close, they need to be at a minimum safe distance to fire without risking blowing themselves up. And they also thought there was a chance they could capture our boat if we had been scared enough to just roll over."
 "So we're not that scared?" {Donovan} asked, spinning open the flood valves.
 
 * {They crash dive} 
-* [ ] > Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them in streams of bubbles.
-* [ ] > "Set the planes down steep." Said Hemi. "Full power to the electric motors, drive us down as fast as possible." {Gregory} pushed the main throttles all the way forward, and the hum of the powerful electric motors rose up around them mixing with the terrifying sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill status, with their pitted chrome casings, and one with a cracked glass face, all rose evenly and quickly.
-* [ ] > The _Prospect's_ bow tilted towards the depths, and everyone in the con found a seat or grabbed a hanging leather strap counter-angling against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent.
+* [X] > Percy didn't answer. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them in streams of bubbles.
+* [X] > "Set the planes down steep." Said Hemi. "Full power to the electric motors, drive us down as fast as possible." {Gregory} pushed the main throttles all the way forward, and the hum of the powerful electric motors rose up around them mixing with the terrifying sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill status, with their pitted chrome casings, and one with a cracked glass face, all rose evenly and quickly.
+* [X] > The _Prospect's_ bow tilted towards the depths, and everyone in the con found a seat or grabbed a hanging leather strap counter-angling against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent.
 
 * {Percy demands a report from sonar}
-* [ ] > "Tell me what they are doing Cass!" Percy yelled through the open hatch.
-* [ ] > Cass pushed her straight blonde strands of hair behind her ears and put her headphones on again."Ya Pers. I can hear their tanks flooding too. They are following us down."
+* [X] > "Tell me what they are doing Cass!" Percy yelled through the open hatch.
+* [X] > Cass pushed her straight blonde strands of hair behind her ears and put her headphones on again."Ya Pers. I can hear their tanks flooding too. They are following us down."
 
 * {They strategize. Percy figures they are safe for the moment because the enemy is too close to fire. Hemi suggests they try talking to the enemy, but Percy dismisses that.}
 * [ ] > "Alright." Percy considered for a moment and turned to Hemi. "We're actually safe for the moment because we're _too_ close to them. They have nothing they can hit us with underwater at close range. Assuming they will continue to be as murder-minded as they have been, they'll want to get some distance between us so they can put a torpedo in the water."
-* [ ] > "That is sound reasoning." Hemi replied. "Should we take this moment to try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
-* [ ] > "The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection, right? We aren't going to pass any inspections with weapons parts aboard, and I'm willing to bet these guys are unbribeable."
-* [ ] > "That was my conclusion too, but I wanted to make sure we were considering the pragmatic way of staying alive."
+* [-] > "That is sound reasoning." Hemi replied. "Should we take this moment to try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
+* [-] > "The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection, right? We aren't going to pass any inspections with weapons parts aboard, and I'm willing to bet these guys are unbribeable."
+* [-] > "That was my conclusion too, but I wanted to make sure we were considering the pragmatic way of staying alive."
 * [ ] > "No, we have a chance right now to disappear while they try to get some distance between us. We're going to take it."
 
 * {Cass calls up to Percy that the enemy is turning away. Hemi points out this is for distance, so they can fire. Percy wants a report on how far away they are from Cass, and asks Cass to report if they start to turn back towards them to fire at the Prospect.}

@@ -1,9 +1,9 @@
 draft1_pseudocode-subworld_story1.wiki
-Last modified: Wed Jan 27, 2021  03:45PM
+Last modified: Sun Mar 07, 2021  10:33AM
 
 # Draft pseudocode (draft 1) of subworld story 1
 * [pseudocode draft 1.1](#draft1)
-* [rough narrative notes](#oughnarr)
+* [rough narrative notes](#roughnarr)
 
 
 
@@ -239,7 +239,7 @@ Last modified: Wed Jan 27, 2021  03:45PM
 	* Also consider using the mini-sub to make a lot of noise and try to distract the hunters... because this basic principle should be used in many stories, it would be nice to capture the contrast between the noisy fast sub and the quiet slow one in this first story. 
 	* Certainly them running on no sleep and snorting cocaine helps.
 * The climax of this story should be the magnetic mines hand inflated from the _Gnat_ and left in the path of the chasing sub. 
-	* Maybe we need some last-second tension switch --- something that makes it seem like the mines are going to fail, until they don't.
+	* Maybe need some last-second tension switch --- something that makes it seem like the mines are going to fail, until they don't.
 ----------------------------------------
 
 

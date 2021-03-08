@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Mar 05, 2021  06:02PM
+Last modified: Sun Mar 07, 2021  05:06PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -299,48 +299,56 @@ Last modified: Fri Mar 05, 2021  06:02PM
 
 * [X] _Chips is furious with Percy for surfacing the boat in a storm, especially with dangerous cargo aboard_
 
-* [ ] _the whine, push and crash of the boat and engines sounds like Dopesmoker_
-	* [ ] like a slow drone overlaid with a rhythm; like some kind of spiritual music intended to transcend earthy bounds
-	* [ ] Hemi is forced to steer the boat from the bridge in the weather
-	* [ ] Gregory is up on the lookout (Is there a lookout ring on a mast? that might be cool and explain why Gregory doesn't make it back below in time.)
-	* [ ] {the engines sound like dopesmoker}
-		* [ ] > With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
-		* [ ] > And running on the surface meant the boat was also moved by the ocean swell. 
-		* [ ] > The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
-	* [ ] {hours go by, boredom sets in}
+* [X] _Hemi is forced to steer the boat from the bridge in the weather_
+	* [X] Gregory is up on the lookout (Is there a lookout ring on a mast? that might be cool and explain why Gregory doesn't make it back below in time.)
 
+* [O] _the whine, push and crash of the boat and engines sounds like Dopesmoker_
+	* [X] this is what Cassandra hears in the sonar
+	* [X] {Don't forget to capture the idea of Cassandra putting her mind out into the water --- some of the sonar-only idea you've had for telling sub stories}
+	* [X] like a slow drone overlaid with a rhythm; like some kind of spiritual music intended to transcend earthy bounds
+	* [X] {the engines sound like dopesmoker}
+		* [X] > With the diesels running up towards their max rpms, the whole boat shook with the drone of the grinding fuel burners.
+		* [X] > And running on the surface meant the boat was also moved by the ocean swell. 
+		* [X] > The boat ground out a slow pace, up and over the swell, a slight roll, and the loud drone of the engines humming in their ears, the bass-frequency vibrations coming up through their toes.
 
-* [o] _no sign of the gnat_
+* [X] _no sign of the gnat_
 	* [X] Someone wonders about how Shakes is doing in such a small and feeble boat
 	* [X] Hemi reminds them that Shakes has years of experience at sea
-	* [ ] Should they release Herschel? Hemi won't let them in this weather.
-	* [ ] and presumably the _Gnat_ decided to swim it out on batteries --- which should be nice and charged up after leading the other sub away on a long chase --- where the water is calmer under the surface
+	* [X] Should they release Herschel? Hemi won't let them in this weather.
+	* [X] and presumably the _Gnat_ decided to swim it out on batteries --- which should be nice and charged up after leading the other sub away on a long chase --- where the water is calmer under the surface
 
 * [ ] _hours go by, boredom sets in;_
+	* Chips is up in the sonar compartment {so she'll witness the death of Gregory}
 
-* [ ] _they are all half-asleep on the midnight watch: bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat_
+* [X] _they are all half-asleep on the midnight watch: bleary-eyed, staring at the dials, bored out of their minds, numb from the sensory deprivation sound, hum, and vibration of the ceaseless and unvarying engine rumbling through the boat_
 	* {nobody is on sonar because it's not military ship, and because you can't hear anything above the sound of the engine anyway}	
-	* [ ] They keep someone on lookout though, lashed into the ring and wearing heavy foul-weather slicker
-	* [ ] > "The sour prospects of fortune are determined by the winds that blow out of hell, Cap."
+	* [X] They keep someone on lookout though, lashed into the ring and wearing heavy foul-weather slicker
+	* [X] > "The sour prospects of fortune are determined by the winds that blow out of hell, Cap."
 
 
 ### --- (the sub sneaks up on them because they can't hear them over the crashers)
 
-* [ ] _Cassandra (possibly because she is just getting the hang of things) doesn't hear the sub until it is right on them. It fires its deck-gun at them._
-	* Cassandra complains she can't hear anything with the waves; Hemi points out that means others can't hear them either. Bad weather is good cover for a submarine.
-	* {Don't forget to capture the idea of Cassandra putting her mind out into the water --- some of the sonar-only idea you've had for telling sub stories}
+* [X] _Cassandra (possibly because she is just getting the hang of things) doesn't hear the sub until it is right on them. It fires its deck-gun at them._
+	* [X] it is a soloist that doesn't belong to the drone music of the storm and Prospect
+	* [X] Cassandra complains she can't hear anything with the waves; Hemi points out that means others can't hear them either. Bad weather is good cover for a submarine.
 
-* [ ] _the sub with the ram fires on the Prospect with a deck gun_
+* [X] _the sub with the ram fires on the Prospect with a deck gun_
 	* {maybe it's not going to try ramming them again because of the storm? they know it's the same sub because of the unique ram on the bow; why not torp? Torp also nearly useless on the surface in this weather.}
-	* [ ] The pursuing sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah
+	* [X] The pursuing sub uses both loudspeakers and ship-to-ship to warn them not to submerge by the authority of blah blah
 
-* [ ] _Gregory is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
-	* Percy dives out from under him with him pounding on the Hatch.
-	* He gets up and waves to the sub with the ram as the Prospect is diving, but they shoot him.
-	* His body drapes over the fairing, and then floats up off the sail as it disappears under him.
-	* Chips is in the control room when it happens; she's pissed, but Percy tells her to leave
+* [X] _Gregory is killed in the attack. They leave his body awash on the deck as the descend, blood running down the deck and mixing with the whitewater pouring over it._
+	* [X] Percy dives out from under him with him pounding on the Hatch.
+	* [-] He gets up and waves to the sub with the ram as the Prospect is diving, but they shoot him.
+	* [-] His body drapes over the fairing, and then floats up off the sail as it disappears under him.
+		* (Decided it was creepier just to hear him tapping as they dive. Skipping the scenes topside.)
+	* [X] Chips is in the control room when it happens; she's pissed, but Percy tells her to leave
+
+* [X] _why didn't they just torpedo us?_
+	* [X] They were too close
+	* [X] It must be just sheer fucking bad-luck on our part. there's no way they could have tracked us down. They must have just stumbled on us.
 
 * [ ] _They realize the pursuing sub is turning away, getting some distance so they can fire torps._
+	* [ ] "we have a short window to disappear right now while they try to get some distance from us" 
 
 * [ ] _the pursuing sub fires a torpedo_
 
@@ -390,6 +398,7 @@ Last modified: Fri Mar 05, 2021  06:02PM
 	* {Is this where they come up in a blessed fog?}
 
 * [ ] They contact Shakes via Pigeon:
+	* [ ] "Is there any chance of finding Shakes now?" "Well, I wouldn't have let you send Herschel out in the storm. This is our first opportunity."
 	* [ ] "ok, get the pigeon" "Hershel" "Hershel, and tell Shakes...."
 	* {if this is the more panicked situation, use dialog from later pigeon instance}
 
@@ -445,6 +454,7 @@ Last modified: Fri Mar 05, 2021  06:02PM
 * _{detemine exact order of battle for these next couple of scenes BEFORE writing prose}_
 
 * [ ] _They head out into the deep ocean, in a sea full of garbage_
+	* {Do you want to borrow the stopping-starting engine stuff from 2nd draft pseudocode?}
 	* (Not plastic. there's little/no plastic in this world)
 	* They _hear_ the garbage on the sonar; are forced to slow down because floating empty steel hulks and ships are around
 	* But this makes sonar less useful --- too many confusing contacts

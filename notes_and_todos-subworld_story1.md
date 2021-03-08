@@ -1,12 +1,12 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Mar 05, 2021  12:31PM
+Last modified: Sun Mar 07, 2021  01:57PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
 * [post-production editing notes](#post-prod)
 * [story 1 elements](#elements)
 * [style](#style)
-* [On writing this book](onwriting)
+* [On writing this book](#onwriting) (General thoughts about writing for posterity)
 
 
 ## Notes and To dos:
@@ -16,6 +16,9 @@ Last modified: Fri Mar 05, 2021  12:31PM
 	* It would be better, I think, to include illustrations of some of the characters ON the sub, rather than just the sub
 		* (just a sub will only appeal to sub people. interesting-looking characters could appeal to lots of different kinds of people.
 	* Maybe even anime-ish? To pull in the anime folks who might enjoy this story?
+	* It's important that the cover, the title, and the description really capture what the story is and _feels_ like.
+		* The worst thing you can do to an audience is mislead them about what a book might be;
+		* And the audience will punish anyone they feel mislead by
 * [X] Draw diagrams of the Prospect and Gnat. Include with story.
 	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
 	* (No copyright problems, those are federal gov't drawings)
@@ -73,6 +76,9 @@ Last modified: Fri Mar 05, 2021  12:31PM
 * [ ] remove contractions from Hemi dialog
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
+* [ ] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
+	* [ ] no god-damning either: there is no god
+* [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 * [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
 * [ ] add 'racks' to labels on diagram? (since it's a technical term you use often in the book)
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
@@ -308,6 +314,7 @@ Last modified: Fri Mar 05, 2021  12:31PM
 * (See notes about technology vs magic elsewhere)
 * Writing this novel, alone in a 600sf 3-room apartment in January. It's too cold to go outside, and the outside is contaminated by disease. The apartment is a 100 year old building with steam heat: water and air pushing and banging through rusty pipes, the power-flush of the toilet that you can hear even from other apartments... this place FEELS like a submarine.
 	* At one point, writing about starting up diesel engines, I smell diesel exhaust in my apartment, as if I conjured it. though presumably it was from some truck idling outside.
+	* Fuck the fine craft and "good" writing. Fuck the careful construction and second-guessing. If you can _transport_ a reader to the same place I got while writing this book --- so they can spend time away from our world and in this cold dark watery one under pressure instead --- then you have done something special. You have succeeded in doing something that you've always wanted to do.
 * I am constrained so much more than you could ever know or articulate by the conventions of what is considered "good" writing:
 	* the instinct to go off in a wild new direction; the desire to scrape up a hard-pushed metaphor; but more than anything else the constant pressure for things to make _sense_ --- characters motivated rationally, story order, character style
 	* All of these things I find myself constantly checking and cutting back for fear of some judgmental reader telling me to 'kill my babies' and that it's too purple, too pushed, too random.
