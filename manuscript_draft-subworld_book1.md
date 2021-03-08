@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sun Mar 07, 2021  05:08PM
+Last modified: Mon Mar 08, 2021  12:42PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -3597,7 +3597,10 @@ Hemi reached over to the tank trim panel and opened valves that let more water i
 
 The _Prospect's_ bow tilted towards the depths. Percy and Hemi grabbed the hanging leather straps a counter-angled their ankles against the incline. They were going down fast enough that they could feel their stomachs rise slightly against the descent.
 
-The ship-to-ship radio lit up, and the communication from the pursuing sub continued where it had left off when Percy closed the hatch. "Diving submarine: you are ordered to discontinue your dive. Return to the surface and disengage your engines. If you do not, we _will_ launch a torpedo at you. Under the International Water Territorial Authority Control Aggreement we are permitted to inspect any---" Percy punch the button cutting power to the ship-to-ship radio.
+The ship-to-ship radio lit up, and the communication from the pursuing sub continued where it had left off when Percy closed the hatch. "Diving submarine: you are ordered to discontinue your dive. Return to the surface and disengage your engines. If you do not, we _will_ launch a torpedo at you. Under the International Water Territorial Authority Control Aggreement we are permitted to inspect any---" Percy punched the button cutting power to the ship-to-ship radio.
+
+
+### Figuring out what the pursuing sub is going to do
 
 "If they want to sink us so bad, why didn't they just torpedo us already?" Owen asked.
 
@@ -3605,7 +3608,7 @@ The ship-to-ship radio lit up, and the communication from the pursuing sub conti
 
 "So we're not that scared?" Asked Bastian. He put a cigarette to his lips for a long draw, not expecting a reply.
 
-"Fuck." Said Percy once more as she sized up the situation. "It must have just been total bad luck for us. There's no way they could have tracked us down int hat storm. ...Don't ya think Hemi?"
+"Fuck." Said Percy once more as she sized up the situation. "It must have just been total bad luck for us. There's no way they could have tracked us down in that storm. ...Don't ya think Hemi?"
 
 "It's incredibly unlikely. They may have just been riding out the storm themselves, and suddenly found they were on us."
 
@@ -3613,25 +3616,27 @@ The ship-to-ship radio lit up, and the communication from the pursuing sub conti
 
 Hemi looked away and found himself analying the gauges. They had already achieved 30 meters of depth.
 
+"Should we take this moment to try talking them into _not_ shooting at us?" Asked Owen. "Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
+
+"The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection." Said Hemi. "We aren't going to pass any inspections with our current cargo."
+
+"Something tells me those guys will not be open to a bribe either. No, if they are too close to shoot and we have a chance right now to disappear, we're going to take it."
+
 "Cassandra!" Percy yelled down to sonar through the hatch in the floor of the control room. "Stay on them! I need to know what they're doing." 
 
 "I'm trying to Captain Percy." Cassandra responded, unable to hide the uncertainty in her voice. "I... I think they might be diving..."
 
 Percy caught Hemi's eye. "What's their move Hemi? What are they trying to do?"
 
-Hemi considered. "Well, if they are diving, I believe that suggests they want tactical mobility. Their movements are extremely limited on the surface by the storm."
+Hemi considered. "Well, if they are diving, I believe that suggests they want tactical mobility. On the surface, their opportunities to threaten us are extremely limited by the storm."
 
-"Mmm Hmm. That makes sense."
+"Mmm Hmm. By 'tactical mobility' you mean get in range to put a torpedo in the water pointed at us?" Percy asked.
 
-"It will also make it easier for them to fire a torpedo, as they threatened to do on the ship-to-ship. With the storm it would be next to impossible to launch one from the surface without risking blowing themselves up."
+"Out position has baredly changed. They are almost certainly still too close. But if we hear them turn away from us, we can assume they are trying to get enough distance to fire a torpedo. On the other hand, if they don't turn away, they may line up to try to ram us."
 
-"...But they didn't already fire a torpedo because they're too close."
+"Only a truly suicidal sub driver would try a ramming while submerged. There's too much risk of damaging their own boat beyond repair." 
 
-"They are almost certainly still too close. If we hear them turn away from us, we can assume they are trying to get some distance to fire a torpedo."
-
-"Would they try to ram us?"
-
-"Only a truly suicidal sub driver would try a ramming while submerged. There's too much risk of damaging their own boat beyond repair."
+"There's nothing to indicate that this commander is not suicidal..." Said Hemi flatly.
 
 "Cassandra!" Percy called down again. "What's the range to the contact now?"
 
@@ -3639,10 +3644,70 @@ Hemi considered. "Well, if they are diving, I believe that suggests they want ta
 
 "You had better go down there and get on sonar with her." Percy said to Hemi.
 
-Hemi nodded and slipped down through the hatch. He put one hand gently on Cassandra's shoulder so he wouldn't surprise her --- she had her eyes closed and seemed to be concentrating very hard on listening. When he touched her she turned an opened her eyes and nodded to him. Hemi put the second sonar headset on.
+Hemi nodded and slipped down through the hatch. He put one big hand gently on Cassandra's thin shoulder so he wouldn't surprise her --- she had her eyes closed and seemed to be concentrating very hard on listening. When he touched her she turned an opened her eyes and nodded to him. Hemi put the second sonar headset on.
 
 A minute later he reported to Percy. "Syl, their diesels are off. They are definitely submerged. Range... maybe 300 meters. Hold on..."
 
+The signal strength indicator rose slowly. Cassandra looked up at Hemi.
+
+"They are increasing speed Percy. And turning... through our rear port quarter. They are going for distance. I assume to fire on us."
+
+In the control room, Bastian could hear this report from Hemi. "Maybe they are turning to run away from us." He said to Owen through the cigarette hanging from his lip.
+
+Percy looked at the depth gauge: 100 meters. "Push her down Bastian." She stood behind him and put her hand on his shoulder.
+
+Bastian turned the dive plane control wheel to give the planes a steeper angle. Percy adjusted valves at the tank ballast control panel to give the bow some more weight.
+
+"Hemi!" Percy said. "Let me know immediately if they start to turn."
+
+"If they have rear torpedo tubes, they won't have to turn." Hemi replied. "And they are so close a torpedo will be in the water for only a minute before it his us." He added.
+
+"Fuck." Said Percy. "Let me know if there's any indication they are about to fire Hemi."
+
+"It's tough Syl. Cassandra is right, there's a lot of background noise."
+
+Owen reached up and wiped his fingers on a hanging rag. "I don't think I could ever get used to going down fast like this, controlled or no" He said, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. 
+
+[//]: # (Next 3 grafs: need editing relative to what the reader already knows. Earlier in the book it is established that Percy can read the condition of the boat from this wall, I think, so explaining that might be repetitive. On the other hand, there's some good stuff in these grafs that you might want to keep for mood and tension.)
+Along with some input from the navigation and sonar stations on the deck immediately below the control room, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. And what Owen was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities.  
+
+The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. 
+
+The depth indicator was the one that Owen's eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column.  It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity. Within a few minutes it was passing through the range of 175 and 180 meters. 
+
+Everyone silently gripped their stations.
+
+"They're turning Percy." Said Hemi. He tapped a light rhythm on Cassandra's shoulder to draw her attention to a new unique sound in their headsets. "Sounds like they are flooding torpedo tubes." 
+
+A loud ping echoed across the hull of the _Prospect_. The ranging equipment lit up with the exact distance and direction of the sub with the ram. Hemi read the coordinates off the ranging gear and relayed them to Percy. "They're ranging ping puts them at 612 meters of our rear port side." 
+
+Half a minute later Hemi heard the unmistakable sound of a tube-fired torpedo. "Torpedo in the water!"
+
+Nobody said anything, instinctively listening. After a few seconds the ping of the torpedo homing on the _Prospect_ started bouncing of the hull with the timed rhythm of a ticking clock.
+
+"Take off your headset Cassandra." Said Hemi, pointing at the range-finding equipment that lit up with the direction and remaining distance between them and the torpedo, updated immediately following each ping. It was gaining about 100 meters with each ping.
+
+"Down, we have to get deeper," Percy whispered to herself in the control room. She reached past Bastian, and turned the dive planes so they had maximum angle. The boat dropped from under them.
+
+Where a moment before Owen was fearing some unknown depth at which the _Prospect_ would cease to exist, now he found himself squeezed in the jaws of a closing vise, between an explosive torpedo that could end the _Prospect_ and the crushing pressure of water that could also end them.
+
+Percy looked up. They were passing 200 meters. 
+
+The pinging was fast enough that they all knew the torpedo was almost on them. And then there was a creeping silence where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
+
+But none came. There was nothing but a long lingering silence no longer being split by the ping of the torpedo. It was broken only by the groaning of the _Prospect's_ hull going through the continued stress of fast diving.
+
+Owen looked at Percy, "What happened?"
+
+"Most of the torpedoes on these Authority subs are older ones they manufactured huge numbers of. They can't go below 200 meters or so. It's possible that they are loading a more modern ones into their tubes right now that can reach us, and all we've done is delayed the inevitable.  Keep diving Bastian."
+
+"What are they doing Hemi?" Percy asked loudly. 
+
+Hemi and Cassandra had their headsets back on and were listening carefully. "Sounds like they stopped moving Percy. They may have decided to wait us out." Said Hemi.
+
+"OK guys, level us out. Hold us at this depth for the moment."
+
+Bastian eased up the wheel on the dive plane while Owen pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground.  Bastian eased open some of the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank fill needles worked their way slowly back toward the middle marks on their dials.  The depth gauge slowed and slowed, and then finally locked in at 232 meters down.
 
 
 

@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Mar 07, 2021  05:06PM
+Last modified: Mon Mar 08, 2021  12:42PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -347,14 +347,14 @@ Last modified: Sun Mar 07, 2021  05:06PM
 	* [X] They were too close
 	* [X] It must be just sheer fucking bad-luck on our part. there's no way they could have tracked us down. They must have just stumbled on us.
 
-* [ ] _They realize the pursuing sub is turning away, getting some distance so they can fire torps._
-	* [ ] "we have a short window to disappear right now while they try to get some distance from us" 
+* [X] _They realize the pursuing sub is turning away, getting some distance so they can fire torps._
+	* [X] "we have a short window to disappear right now while they try to get some distance from us" 
 
-* [ ] _the pursuing sub fires a torpedo_
+* [X] _the pursuing sub fires a torpedo_
 
-* [ ] _Panicked fear as they push the boat down, caught between the pincers of the torpedo incoming and the cold depths of hell below them._
+* [X] _Panicked fear as they push the boat down, caught between the pincers of the torpedo incoming and the cold depths of hell below them._
 
-* [ ] _The torpedo implodes at 200 meters, it can't swim deeper than that._
+* [X] _The torpedo implodes at 200 meters, it can't swim deeper than that._
 
 
 ### Chase scene (Run to Pylon City, morning day 4)
@@ -402,6 +402,9 @@ Last modified: Sun Mar 07, 2021  05:06PM
 	* [ ] "ok, get the pigeon" "Hershel" "Hershel, and tell Shakes...."
 	* {if this is the more panicked situation, use dialog from later pigeon instance}
 
+* [ ] Chips confronts Hemi about Percy
+	* "Her stubborn nature is going to kill us all Hemi; just like she killed Gregory"
+	* "I was there too Chips, I don't think there is anything we could have done to save him."
 
 ### --- (Into Pylon City --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to Pylon City, day 5)
 
@@ -438,12 +441,14 @@ Last modified: Sun Mar 07, 2021  05:06PM
 
 ### --- (bicycle race in the hangar)
 
-* [ ] _A bicycle race (like 7 Cycles Christmas party) in the empty cargo bay._
+* [ ] _A crazy bicycle race in the empty cargo bay._
 	* You know the rules: there are no rules except don't get _badly_ hurt
-	* mice/mouse-on-wheel conversation
 
 * [ ] _A submarine is just a very very complicated bicycle_
 	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
+	* "It is the pure mechanical pleasure of working them that makes me love submarines"
+		* "Don't you think it might be that same mechanical pleasure that makes the mouse in the cage run on the wheel all day... going nowhere?"
+		* "Maybe. You ever wonder what would happen if you put a wheel out in the forest? Maybe the mice would come from miles around to run on it. Maybe they _do_ just love the pure mechanical pleasure of it."
 	* someone builds a ramp, and maybe someone else has some kind of fancy aluminum bicycle frame, that cracks in half like a wishbone after going over the jump
 		* "that's why submarines are made of steel not aluminum. steel fails gracefully, bending before it breaks. aluminum just cracks and collapses on you"
 		* "Is a steel hull slowly crushing around you a blessing under 100 atmospheres of pressure? or a curse though?"
@@ -495,6 +500,7 @@ Last modified: Sun Mar 07, 2021  05:06PM
 
 * [ ] _Something has to go wrong, to make it seem like the plan won't work_
 	* not sure exactly what or how this happens, yet
+	* Perhaps there's a command decision by Percy at the last second --- maybe to Chips --- that saves them all and shows she does know what she's doing (to Chips)
 
 ### Ending
 

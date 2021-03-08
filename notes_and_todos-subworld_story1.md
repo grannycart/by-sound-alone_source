@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Mar 07, 2021  01:57PM
+Last modified: Mon Mar 08, 2021  12:42PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -51,7 +51,7 @@ Last modified: Sun Mar 07, 2021  01:57PM
 
 ## Editing notes (be sure to hit these in post-production editing):
 :post-prod:
-* [ ] GO THROUGH AND HANDLE THESE _BEFORE_ YOU DO A COMPLETE DRAFT READ-THROUGH
+* [ ] GO THROUGH AND HANDLE ITEMS IN THIS LIST _BEFORE_ YOU DO A COMPLETE DRAFT READ-THROUGH
 	* So when you do a read-through you can make sure order and flow didn't get screwed up anywhere by these edits
 	* when you do this editing read through, do it all after your first cup of coffee in the morning, while working on your second.
 	* A few thousand words per day
@@ -62,17 +62,20 @@ Last modified: Sun Mar 07, 2021  01:57PM
 	* Is the pacing ok?
 	* Is it fun and easy to read?
 	* Do you WANT to keep reading it to find out what happens?
+	* Does it FEEL like you are spending time in a different world?
 	* Does it have places where it bogs down?
 	* Are the characters relatable, distinctive?
 	* Are the names (both boats and people) ok?
-	* Is there anything offensive that I'm not reckonizing?
+	* Is there anything offensive that I'm not recognizing?
 * [ ] do a search for 'ly' and remove any useless adverbs. Maybe 'that' too.
 * [ ] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
+	* But under water every ten meters down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Grimlock_ plus the noble strength of the steel hull. When approaching the maxiumum depth of a sub, one small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of minutes.
 * [ ] find and make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 * [X] maybe say somewhere that they should think about installing a snorkel?
 	* (So sub nerds who read the book understand that they don't have one)
 * [ ] move section headers to .md comments; create chapter breaks
+* [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
 * [ ] remove contractions from Hemi dialog
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
@@ -98,6 +101,7 @@ Last modified: Sun Mar 07, 2021  01:57PM
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 		* (Maybe be sure to always refer to it as "the tank control panel")
+* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
 * [ ] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
@@ -158,7 +162,6 @@ Last modified: Sun Mar 07, 2021  01:57PM
 * [X] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
 	* No, it would flood at 2 atmospheres (bottom of the boat) see: https://www.quora.com/What-is-the-air-pressure-in-a-submarine
 * [ ] find and remove 'inches' and 'feet' references
-* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
 * [ ] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
 * [X] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
 * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
@@ -177,13 +180,20 @@ Last modified: Sun Mar 07, 2021  01:57PM
 	* [ ] keep an eye out for military terms --- avoid
 		* [ ] like generally, you want to remove the word 'orders'
 	* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
+		* [ ] It isn't capturing the grittiness enough, build that up
+	* [ ] Consider adding more description of the spaces --- particularly inside the Prospect
+		* How is it decorated?
+		* What does it _feel_ like?
+		* How is the galley laid out?
+		* What does the engine room feel like?
+		* What does the sonar compartment and control room feel like? (You spend so much time in those spaces)
+		* (I think the cargo hold is fairly well covered, it's the main decks that are a little weak)
 	* [ ] watch the pacing, it's a little off in places:
 		* [ ] it should be a slow build up to a big singular event like the ballast blow
 		* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
 		* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
 			* don't just montage over them, it makes it feel like things are moving too fast.
 	* [ ] make sure the _fear_ is in there, particularly in the build up to big inflection points
-	* [ ] It isn't capturing the grittiness enough, build that up
 	* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
 		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
 		* And a lot more cursing might actually be a simple way to make it grittier.
