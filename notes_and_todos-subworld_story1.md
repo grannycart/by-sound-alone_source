@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Mar 08, 2021  12:42PM
+Last modified: Tue Mar 09, 2021  11:38AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -23,6 +23,7 @@ Last modified: Mon Mar 08, 2021  12:42PM
 	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
 	* (No copyright problems, those are federal gov't drawings)
 	* (People like me eat that ship up --- it lets you visualize where in the boat the people are at any time.)
+* [ ] credits and thanks (like test readers) can be listed in github repo README or github page
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
 	* [ ] and also draw anything out of post-production that applies to the whole world
@@ -76,6 +77,7 @@ Last modified: Mon Mar 08, 2021  12:42PM
 	* (So sub nerds who read the book understand that they don't have one)
 * [ ] move section headers to .md comments; create chapter breaks
 * [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
+	* Stuff like the malevolence of nature could be a comment in the source code text
 * [ ] remove contractions from Hemi dialog
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
@@ -83,13 +85,14 @@ Last modified: Mon Mar 08, 2021  12:42PM
 	* [ ] no god-damning either: there is no god
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 * [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
-* [ ] add 'racks' to labels on diagram? (since it's a technical term you use often in the book)
+* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
 	* I think it's a hold on a ship
 * [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
 	* tough maybe Hemi is the only one who calls her by it
 * [ ] Have Percy address Hemi by his full name somewhere
 * [ ] Cassandra should always address percy as "Captain Percy"
+* [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
 * [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
 * [ ] make sure you only explain active sonar once
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
@@ -205,6 +208,7 @@ Last modified: Mon Mar 08, 2021  12:42PM
 		* So at some point, it should be _pulling_ them to the depths
 		* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
 		* The only way they survive in nature's cruelty is through their grimey machine, the submarine
+* [ ] consider changing Pylon City back to Stilt City --- it's more alliterative
 * [ ] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
 * [ ] consider using 'nominal' to mean anything you want it to.

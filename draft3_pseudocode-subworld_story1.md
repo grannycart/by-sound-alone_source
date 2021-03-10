@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Mar 08, 2021  12:42PM
+Last modified: Wed Mar 10, 2021  05:01PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -356,20 +356,29 @@ Last modified: Mon Mar 08, 2021  12:42PM
 
 * [X] _The torpedo implodes at 200 meters, it can't swim deeper than that._
 
+* [X] {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
 
 ### Chase scene (Run to Pylon City, morning day 4)
 
-* [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
-	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
-		* {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
-	* [ ] A scene where they are eating in the galley
-		* This is where they ask WHY the sub is chasing them with Owen in the room; the answer gets revealed
-			* Owen is in the room when someone describes the commander of the sub. "Uh oh." he says.
-			* Maybe it's that they are after Owen ("the kid?") for some reason? Something he did, he ran away from Authority military? Took something with him? Slept with the commander's wife? (I kinda dig that, this story needs more sex)
-			* Though keep in mind note about randomness of human cruelty --- maybe Owen says the commander doesn't even LIKE his wife, he just wants to kill Owen for the sheer belligerence of it.
-		* It's possible this could be moved to the chase in the garbage patch. In which case, maybe Owen sees the sub with the ram coming into pylon city?
-			* Doing it this way eliminates the possibility of Percy just leaving Owen on the dock at Pylon City 
-		* Hemi feeds Herschel on the table, maybe it pisses off Percy
+* [ ] _They run while deep_
+	* Maybe they have a good charge on the batteries: 12 hours say.
+	* That gives them long enough to run with the pursuing sub chasing them/waiting them out (and then head off in a different direction after they dive below the scattering layer)
+
+* [ ] _A scene where they are eating in the galley_
+	* Percy sends Owen down to cook breakfast.
+		* He's not as good as gregory. he makes a mush of scrambled eggs and resonstituted hard biscuit mixed with salted meat
+	* This is where they ask WHY the sub is chasing them with Owen in the room; the answer gets revealed
+		* "What did Shakes say about the commander of the sub with the ram? that he had one arm?"
+		* Owen chokes, or stops eating, swallows, "uh, did you say one arm? What else did Shakes say about him?"
+		* "I can't remember exactly. Big round guy maybe? Definitely the one arm, that I remember."
+		* "Fuuuuck. I think I know why he's after us... I may have slept with his wife."
+		* "Are you kidding?"
+		* "No. The Funny thing is, I don't think he even really cares. He definitely knew while it was happening, and didn't make a big deal of it. It was only later that he tracked me down in a bar. Came at me with a hatching in his one hand."
+		* "He came at you with a hatchet?"
+		* "yeah. But it was like he was just going through the motions. He said "you're going to die bloody son" but real flat like, you know? I think he just feels like avenging his wife's infidelity is just a way to layer some kind of meaning on his sad middle-aged life."
+	* It's possible this could be moved to the chase in the garbage patch. In which case, maybe Owen sees the sub with the ram coming into pylon city?
+		* Doing it this way eliminates the possibility of Percy just leaving Owen on the dock at Pylon City 
+	* Hemi feeds Herschel on the table, maybe it pisses off Percy
 
 * [ ] _something breaks that needs fixing_
 		* This maybe goes before the meal where they talk about why they are being chased
@@ -387,6 +396,7 @@ Last modified: Mon Mar 08, 2021  12:42PM
 * [ ] _The dive below the deep scattering layer_
 	* person at controls reports bottom has done something funny, suddenly jumped up towards them by hundreds of meters
 	* Percy suspects she knows why. orders them to dive
+	* They are at like ~230 meters. the bottom is around 250 meters, they pass through it to ~260 meters --- lots of stress on the Prospects hull at that depth
 	* Cassandra thinks they will crash into the bottom, Percy knows they will go right through it because it's just fish.
 	* {Where's the Gnat? I think it goes and gets lost in the storm}
 	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish --- the "bottom" has a particular sound on sonar.}
@@ -438,11 +448,16 @@ Last modified: Mon Mar 08, 2021  12:42PM
 		* Now they pop a rivet or something, they are TOO deep, scarily deep.
 		* ...or maybe save the rivet-popping scary deep until they go down the continental shelf --- the deep scattering layer is sometimes well up above their test depth.
 
+* [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
+	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
+		* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
+
 
 ### --- (bicycle race in the hangar)
 
 * [ ] _A crazy bicycle race in the empty cargo bay._
 	* You know the rules: there are no rules except don't get _badly_ hurt
+	* Somebody floods the forward tanks to force the course into a ramp.
 
 * [ ] _A submarine is just a very very complicated bicycle_
 	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
@@ -466,6 +481,7 @@ Last modified: Mon Mar 08, 2021  12:42PM
 
 * [ ] _The pursuing sub is pursuing_
 	* Cassandra hears them coming, knows what they sound like now
+		* She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
 	* Another drawn-out O'brian style chase scene?
 
 * [ ] _They come up with a plan. They mate with the Gnat._

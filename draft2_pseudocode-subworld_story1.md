@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Mon Mar 08, 2021  12:42PM
+Last modified: Tue Mar 09, 2021  11:36AM
 
 
 
@@ -633,21 +633,21 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 
 * {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 
-* [ ] {they are pinged, and that gives away their location}
+* [-] {they are pinged, and that gives away their location}
 
-* [ ] Cass listens intently when they get pinged she snaps her headpones off but is left with ringing ears.
+* [-] Cass listens intently when they get pinged she snaps her headpones off but is left with ringing ears.
 
-* [ ] {they dive again, percy explains that going deep the temperature changes of the water sometimes screws up sonar (maybe don't use the term thermocline)}
+* [-] {they dive again, percy explains that going deep the temperature changes of the water sometimes screws up sonar (maybe don't use the term thermocline)}
 
-* [ ] {they go scarily staring-at-dials deep, and hide at depth}
+* [-] {they go scarily staring-at-dials deep, and hide at depth}
 
-* [ ] {Something goes wrong because of an order Percy gave? She gets them into trouble with her aggressive move? Hemi tries to stop her ("this isn't working Percy!"), but is overruled. Or should this be saved for a different story?}
+* [-] {Something goes wrong because of an order Percy gave? She gets them into trouble with her aggressive move? Hemi tries to stop her ("this isn't working Percy!"), but is overruled. Or should this be saved for a different story?}
 
-* [ ] {maybe something breaks because its deeper than percys instinct tells her is ok}
+* [-] {maybe something breaks because its deeper than percys instinct tells her is ok}
 
-* [ ] another ping -- Cass confirms the signal is strong enoug that they know where they are
+* [-] another ping -- Cass confirms the signal is strong enoug that they know where they are
 
-* [ ] they know they need to figure out how to contact the gnat
+* [-] they know they need to figure out how to contact the gnat
 
 * {(things to stash in story ideas for later:)} 
 	* {below the deep scattering layer? bring that in here? or save for another story? --- final conclusion: save for another story}
@@ -661,15 +661,15 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 
 ### hiding deep
 
-* [ ] {when it seems TOO deep they level off, with the boat's structural elements groaning.}
-* [ ] panic dialog:
+* [-] {when it seems TOO deep they level off, with the boat's structural elements groaning.}
+* [-] panic dialog:
 	* > "You've killed us!" Donovan said in a panic, realizing the hopelessness of their situation.
 	* > "Stifle it Donovan! I'll figure something out." Said Percy
-* [ ] {Maybe they DO pop a rivet? It gives away their position?}
-* [ ] {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
-* [ ] {detailed description of Cass listening on the sonar: describe what she is hearing, her facial expression (big eyes closed), etc}
-	* [ ] She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
-* [ ] {no idea what the _Gnat_ is up to. Do they try to radio Shakes?}
+* [-] {Maybe they DO pop a rivet? It gives away their position?}
+* [X] {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
+* [X] {detailed description of Cass listening on the sonar: describe what she is hearing, her facial expression (big eyes closed), etc}
+	* [X] She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
+* [-] {no idea what the _Gnat_ is up to. Do they try to radio Shakes?}
 
 
 ### the plan
@@ -690,7 +690,7 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 ### mate with the _Gnat_
 
 * [ ] {they fearfully and quietly come shallow, listening carefully for the enemy}
-* [ ] {they get the _gnat connected, ok}
+* [ ] {they get the Gnat connected OK}
 * [ ] {but as they are loading parts onto the _Gnat_ (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?}
 * [ ] {Hemi jumps into the _Gnat_ and orders it off the mating collar (the _Prospect_ is a little unwieldy with the _Gnat_ on her deck)}
 
