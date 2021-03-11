@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Mar 09, 2021  11:38AM
+Last modified: Thu Mar 11, 2021  12:30PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -29,8 +29,9 @@ Last modified: Tue Mar 09, 2021  11:38AM
 	* [ ] and also draw anything out of post-production that applies to the whole world
 * [ ] Possible story (though not series) title:
 	* The Salted wound
+		* (referring to the never-healing damage from the ramming at the beginning)
+	* The Mouse's Wheel
 	* Echoes in the Deep / Echos From the Deep
-	* (referring to the never-healing damage from the ramming at the beginning)
 * Making the call: the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
@@ -125,6 +126,7 @@ Last modified: Tue Mar 09, 2021  11:38AM
 	* decide, edit and then make sure it's reflected in the Prospect notes file
 * [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
+	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
 * [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
 * [ ] does Shakes insist on being referred to as "Captain Shakes"?
 * [ ] Consider removing parts where Percy second-guesses herself.

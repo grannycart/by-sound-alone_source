@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Wed Mar 10, 2021  05:01PM
+Last modified: Thu Mar 11, 2021  12:29PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -2930,7 +2930,7 @@ Hemi thumbed the mic on the ship-to-ship. "Shakes, what if we make the _Prospect
 
 They carried out the maneuver without incident, Shakes brought the _Gnat_ up under the _Prospect_ and connected back up to the mating collar. When he popped the hatch, Chips was there waiting for him, just like last time.
 
-"Ah fuck ya Shakes. At least I didn't have to weld your fuckin' boat backtogether to get ya on board this fucking time."
+"Ah fuck ya Shakes. At least I didn't have to weld your fuckin' boat back together to get ya on board this fucking time."
 
 "Good to see you again too Chips. I'll have you know my boat has been adjusted and tuned to an absolute fucking precisionmeister's peak of performance. The _Gnat_ is now faster, more maneuverable, and louder than any other boat of its size and displacement."
 
@@ -3740,23 +3740,23 @@ Percy pulled Hemi over to the navigation chart. Hemi didn't remove the sonar hea
 
 "How much battery do we have?" Percy asked Hemi.
 
-"We did OK charging on the surface during the storm. We have about a half charge on them. We can do a creeping speed for maybe 12 hours."
+"We did OK charging on the surface during the storm. We have about a half charge on them. We can do a creeping speed for maybe 12 hours." Hemi didn't express his opinion that aloud that having gained 12 hours of charge meant they could have, and should have, submerged earlier. And if they had, the would never have encountered the sub with the ram.
 
 "OK. 3 knots, 12 hours. Let's see." Percy measured a compass against a graduated straight edge and then drew an arced dashed line on the chart with the grease pencil mounted in the compass. "That gets us somewhere along this line."
 
 Hemi nodded.
 
-"Not very much in terms of ocean distances. We can probably get out from under the storm, but we're a long way from any kind of shipping channel." Observed Percy.
+"Not very much in terms of ocean distances. We can probably get out from under the storm, but we're a long way from any kind of shipping channel."
 
-"Any other features we can use? A shallow place we can hide on the bottom again, like the tablemount?"
+"Any other features we can use? A relatively shallow place we can hide on the bottom again, like the tablemount?" Hemi asked.
 
 Percy took a long draft off her cigarillo and then leaned closely over the map. She pulled down the magnifier and guidied her vision through it with the tips of her fingers, holding the burning coal of the cigarillo just off the glass. "Ugh. We're in the middle of deep sea. Bottomless in every direction. There's nothing for hundreds of miles."
 
 "They are likely looking at the same chart and figuring they can simply wait us out." Said Hemi.
 
-"They might not be wrong." Percy stood upright and smoked. "Here's what we're going to do: we're going to creep on a course towards Pylon City. If we can lose them, even briefly, we'll surface and try to get in touch with Shakes ---launch the pigeon."
+"They might not be wrong." Percy stood upright and smoked. "Fuck it. Here's what we're going to do: we're going to creep on a direct course towards Pylon City. If we can lose them, even briefly, we'll surface and try to get in touch with Shakes --- we'll launch the pigeon." She waved her hand in the air in a way that might indicate a bird fluttering off.
 
-"His name is Herschel. So what if Herschel finds, Shakes. Then what?"
+"His name is Herschel. And what if Herschel finds, Shakes. Then what?"
 
 "Have him run intereference or something. Whatever the hell it is we hired him for!"
 
@@ -3768,19 +3768,94 @@ The quiet hum of the electric motor rose up through the silence.
 
 "Hemi, can you stay on sonar?" Percy jerked a thumb towards Cassandra. "Let the kid get in the rack for a few hours."
 
-Hemi nodded again. Cassandra looked at them with relief in her red-rimmed eyes.
+Hemi nodded again. Cassandra heard Percy and looked at them with relief in her red-rimmed eyes.
 
 While Hemi let Cassandra off duty, Percy climbed back up into the control room and had Owen adjust their rudder so they were on a more direct route.
 
-Ten minutes later another ping echoed through the hull, piercing through the quiet drone of the slowly-moving _Prospect_. Hemi quoted the distance and direction of the ping source to the control room.
+Ten minutes later another ping echoed through the hull, piercing through the quiet drone of the slowly-moving _Prospect_. Hemi quoted the distance and direction of the ping source to the control room. Percy ground her teeth against the electrical noise that shook her nerves. She willed the pursuers to get lost in the storm that still raged above.
 
-"Captain Percy, don't you think we should try talking them into _not_ shooting at us?" Asked Owen. "Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
+The ping prompted Owen to speak up. "Captain Percy, don't you think we should try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
 
-"The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection." Said Percy. "We aren't going to pass any inspections with our current cargo. Something tells me those guys will not be open to a bribe either..." She trailed off. "Besides, they are out of ship-to-ship range now --- probably trying to keep enough distance to fire a torpedo at us if we come back up above 200 meters.
+"The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection." Said Percy. "We aren't going to pass any inspections with our current cargo. And something tells me those guys aren't going be open to a bribe either..." She trailed off. "Besides, they are out of ship-to-ship range now --- probably trying to keep enough distance to fire a torpedo at us if we come back up above 200 meters.
 
-They settled into an extremely low-speed chase. The _Prospect_ quitely hummed along through the deep, under 230 meters of water. The puruing sub stayed closer to the surface but maintained the same distance behind them. Every 15 minutes, like an alarm, the echoing ping broke through the silence. After each ping, they slowly settled into the routine, carefully putting aside their fears. And then each new ping reset their anxiety, and they had to start all over again.
+They settled into an extremely low-speed chase. The _Prospect_ quitely hummed along through the deep, under 230 meters of water. The pursuing sub stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motor it didn't take very long for their fears to subside and be replaced with sleepy routine.
 
-Percy ground her teeth against the electrical noise that shook her nerves. She willed the pursuers to get lost in the storm that still raged above. But each ping was followed with the gritting regularity of Hemi's report that the pursuing sub maintained nearly the exact same distance behind them.
+But every 15 minutes, like a grating and persistent alarm, another echoing ping broke through the silence. Each ping was always followed immediately after by Hemi's report from the sonar compartment that the pursuing submarine was maintaining nearly exactly the same distance behind them. This he can and did tell them with great precision.
+
+Each new ping reset their anxiety. And their eyes would tear up and their hands would start shaking again. The only relief was the passing of time, but that led inevitably towards the next alarm-rining ping, and the cycle would start all over again.
+
+This cycle repeated itself without change for hours. The storm continued to spin above them, and their ears rang from the pings and from the silence between them. 
+
+Cassandra showed back up in the sonar compartment, unable to sleep for the pings, and offered to sit at the sonar station again. When Hemi climbed into the control room, Percy had him relieve Owen at the throttle controls and sent Owen to make them some breakfast.
+
+
+### Breakfast; Owen realizes the sub commander is after him
+
+Half an hour later Owen's voice came over the PA saying breakfast was ready. Captain Percy offered to let Batian and Cassandra eat first, but Cassandra preferred to stay at sonar. Bastian offered to bring a plate of food up to her and sit at the sub controls himself while he ate. He was back from the galley in a matter of minutes with heaping bowls of steaming food for Cassandra and himself.
+
+Percy took Bastian's bowl of food while he climbed the ladder to the control room. With the smell of it in her nostrils, she realized how hungry she was.
+
+"Bastian, keep her going the way we're going. If anything changes, I'll be in the galley. Hemi want to join me for Breakfast? Maybe we can come up with some kind of plan."
+
+"Absolutely. I am certainly ready to eat." Said Hemi. 
+
+Owen was not nearly the cook Gregory had been. Breakfast was a white mush of crushed up hard biscuit mixed with water and fried with butter. He had stirred in bits of dried salted meat, and was making a big pan of scrambled eggs. He kept making more eggs in small batches, so at least they would be hot for the crew coming to eat.
+
+Hemi and Percy loaded up bowls --- Hemi with twice as much as Percy --- of the hot glop, and filled two tin cups of coffee and sat down at the galley table. They ate in silence for a few minutes.
+
+Hemi had let Herschel out of his cage as soon as he had come aboard, and Herschel had made his home in the _Prospect's_ galley, claiming any crumb that made it to the deck. He wandered around their feet as they ate.
+
+Another ping rang through the boat.
+
+"Fuck!" Said Percy. "You know Hemi, I just can't fucking figure what the deal is? Why the fuck are they so goddamn persistent in coming after us?"
+
+"It is strange. The Authorities often aggressively patrol their own waters. But the tension between them means they don't cross each other's lines. Almost always when we see an Authority craft after us over a long distance it's simply because they have claimed new territory from another Authority, and we didn't know it. In this case... I am fairly certain they have chased us from one Authority territory into another."
+
+"And it looks like they have every intention of pursuing us into a third..."
+
+"You think it is because they want to stop this cargo we're hauling? Perhaps it is the strategic move for them: if we deliver, it undermines their position with another Authority somehow."
+
+"Even for weapons, it's just too fucking risky for one single Authority craft to cross deep into another Authority's area. And a boatload of magnetic warheads? That could be a real prize for a rebel group, but for an Authority it's pretty small potatoes. It's not like we're carrying nerve gas." She thought for a minute, stirring her mush. "Have you ever heard of this sub commander before? What did Shakes say... he had only one arm?"
+
+"Yes, and that he was very large." Hemi paused, unsure how he felt about charactizing people by this quality that applied to himself.
+
+Owen stopped stirring his egg mixture. "Fuck." He said slowly, drawing out the middle vowel in a long drag.
+
+Percy and Hemi turned to look at Owen standing at the galley range.
+
+"You have some input Owen?" Percy asked.
+
+"I... may know why they are after us." Owen hesitated. "About a year ago, before I started working on the _Prospect_, I briefly dated an older woman. She was a submarine commander's wife..."
+
+"You fucked this guy's wife Owen?" Percy asked, starting to get angry. "And you didn't tell us earlier?"
+
+"I didn't know it was him!" Insisted Owen. "There's lots of submarine commanders in the world! What are the chances? Besides, it didn't seem like he cared that much."
+
+"How so?"
+
+"Well, I used to meet her at their house --- a big old mansion with collumns out front and stuff --- and the wife and I would be off in one wing while he was in another. I'm sure he knew what we were up to. She acted like it was totally normal."
+
+"Odd. So why do you think he's the one after us?"
+
+"Well, that woman broke up with me after a few weeks. It was no big deal --- a fun little fling, no hard feelings. A few weeks later, I'm in a bar, standing at the bar, waiting to order a drink. And this huge guy, like as big as Hemi, maybe bigger, wearing a full dress uniform, decorated with medals all along the left side, epaulets and braid, everything --- this guy comes roaring into the bar. He's got a hatchet in his hand and he calls me out, and he says 'You slept with my wife. You're going to die bloody son.'"
+
+"So," said Percy, "whatever happened, something changed and now he has the bloodlust for you?"
+
+"You would think," said Owen, "but the thing is, even in that moment --- what should have been a moment of the most violent, heated passion, right? I mean, he's supposedly there to kill me in rage at my seducing his wife, like a classical play or something --- even then his voice was totally flat. It was like he didn't care, really. He was just going through the motions." He thought for a second. "My take is that he didn't care at all about his wife, revenge on me was just something to do. A thing to guide his life, maybe because all those years of executing the will of the Authority he worked for had started to seem pointless."
+
+"So, you think he's going to pursue us around the great circle of the globe because of some sort of misplaced nihilistic existential crisis? Hemi asked.
+
+"Uh, sure. Whatever that means." Said Owen, nodding.
+
+Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings from his bowl and tossed them onto the table in front of the bird. Herschel pecked at them nonchalantly.
+
+"That's disturbing." Said Percy. "It's going to be difficult to predict the actions of a man motivated by nothing but the _image_ of revenge. How did you get away from him in the bar?"
+
+"Oh," said Owen, "that was easy. The bar was crowded, he was a big guy. I just ran out the back. He followed but couldn't even come close to keeping up. He just stood there, waving his hatchet in the air yelling cliched notions of revenge after me without putting any heart into it."
+
+
+### Chips comes in to tell them the bilge pump is broken
+
 
 
 

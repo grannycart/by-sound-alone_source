@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Mar 10, 2021  05:01PM
+Last modified: Thu Mar 11, 2021  12:30PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -360,13 +360,13 @@ Last modified: Wed Mar 10, 2021  05:01PM
 
 ### Chase scene (Run to Pylon City, morning day 4)
 
-* [ ] _They run while deep_
+* [X] _They run while deep_
 	* Maybe they have a good charge on the batteries: 12 hours say.
 	* That gives them long enough to run with the pursuing sub chasing them/waiting them out (and then head off in a different direction after they dive below the scattering layer)
 
-* [ ] _A scene where they are eating in the galley_
+* [X] _A scene where they are eating in the galley_
 	* Percy sends Owen down to cook breakfast.
-		* He's not as good as gregory. he makes a mush of scrambled eggs and resonstituted hard biscuit mixed with salted meat
+		* He's not as good as gregory. he makes a mush of scrambled eggs and reconstituted hard biscuit mixed with salted meat
 	* This is where they ask WHY the sub is chasing them with Owen in the room; the answer gets revealed
 		* "What did Shakes say about the commander of the sub with the ram? that he had one arm?"
 		* Owen chokes, or stops eating, swallows, "uh, did you say one arm? What else did Shakes say about him?"
@@ -381,13 +381,12 @@ Last modified: Wed Mar 10, 2021  05:01PM
 	* Hemi feeds Herschel on the table, maybe it pisses off Percy
 
 * [ ] _something breaks that needs fixing_
-		* This maybe goes before the meal where they talk about why they are being chased
-		* possibly the original wound from the ramming breaks open again
-		* possibly an engine park that Chips needs to fix {bilge pump from the hardware shop?}
-		* Confrontation between Chips and Percy about Gregory
+		* Chips interrupts the meal to report
+		* She doesn't even look at Percy; reports to Hemi
+		* The original rammed wound is leaking more because of the depth
+		* The forward bilge pump failed, and Chips is having trouble getting the water out.
 
 * [ ] _Watching the battery gauges --- how long can they go before they are forced to the surface?_
-	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 
 
 ### --- (hiding in the depths, escape under the deep scattering layer) (Run to Pylon City, night 4)
@@ -430,11 +429,21 @@ Last modified: Wed Mar 10, 2021  05:01PM
 		* Maybe ten meters
 		* A narrow channel full of other ships and surfaced subs making their way into and out of ports
 
+
 * [ ] _The find their dock and unload._
 	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something. Broken English in general
 
+* [ ] _Chips leaves as soon as they hit the dock_
+	* Convo with Hemi about it.
+	* Maybe to return in a future story (add to character notes)
+
 * [ ] They reunite with Shakes
 	* Herschel found him and told him which dock to meet them at
+
+* [ ] Convo about what to do about losing Chips
+	* Percy raises the possibility of leaving Owen on the dock too
+	* But Hemi points out they have no way to make sure the sub with the ram gets the message that Owen wasn't with them
+	* And Owen is capable of doing at least part of the engineering work of Chips. They need him.
 
 * [ ] _The pursuing sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
 	* Possibly it followed Shakes in
@@ -451,6 +460,7 @@ Last modified: Wed Mar 10, 2021  05:01PM
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
 		* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
+	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 
 
 ### --- (bicycle race in the hangar)
