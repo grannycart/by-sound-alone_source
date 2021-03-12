@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Mar 11, 2021  12:30PM
+Last modified: Fri Mar 12, 2021  12:34PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -380,7 +380,7 @@ Last modified: Thu Mar 11, 2021  12:30PM
 		* Doing it this way eliminates the possibility of Percy just leaving Owen on the dock at Pylon City 
 	* Hemi feeds Herschel on the table, maybe it pisses off Percy
 
-* [ ] _something breaks that needs fixing_
+* [X] _something breaks that needs fixing_
 		* Chips interrupts the meal to report
 		* She doesn't even look at Percy; reports to Hemi
 		* The original rammed wound is leaking more because of the depth

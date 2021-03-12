@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Mar 11, 2021  12:29PM
+Last modified: Fri Mar 12, 2021  12:34PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -3847,7 +3847,7 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 "Uh, sure. Whatever that means." Said Owen, nodding.
 
-Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings from his bowl and tossed them onto the table in front of the bird. Herschel pecked at them nonchalantly.
+Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings from his bowl and tossed it onto the table in front of the bird. Herschel pecked at the glob nonchalantly.
 
 "That's disturbing." Said Percy. "It's going to be difficult to predict the actions of a man motivated by nothing but the _image_ of revenge. How did you get away from him in the bar?"
 
@@ -3856,8 +3856,50 @@ Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings
 
 ### Chips comes in to tell them the bilge pump is broken
 
+At that moment Chips appeared in the hatchway to the galley. She caught Hemi's eye and ignored Percy. "Hemi, the fucking welds along the crack in the fucking cargo hold are weeping pretty fucking aggresively."
+
+Percy's eyes followed Herschel.
+
+"I'm not surprised." Hemi replied. "Running this deep is putting a lot more pressure on the hull, so I'd expect more water coming in. Those welds were never going to be perfect. How bad is it?"
+
+Chips nodded. "Well, it would be no fucking problem, but one of the forward fucking bilge pumps has broke the fuck down. And the second forward pump isn't fucking keeping up. We're fucking flooding again."
+
+Captain Percy suddenly remembered the bilge pump at the depot that she had forgotten to go back and purchase. She looked down at her bowl and scraped a together a spoonful of what remained. 
+
+"Can we fix the broken bilge pump?" Hemi asked.
+
+"No fuckin' way. It's one of the originals that came with the ship --- decades old. The brushes are fucking shot."
+
+"Ah. Well..." Hemi turned to Owen, "Owen, leave your eggs aside and go down to the cargo hold with Chips. Rig up one or two of the portable bilges to pump into the trim tanks. Hopefully that will hold us until we can come shallower."
+
+"It's like we right fucking back where we started with this fucking mess before we even did any fucking repairs!" Said Chips angrily. She turned towards the cargo hold without waiting for Owen, who was a minute behind her after washing grease from his hands.
+
+"Fuck Hemi," said Percy, "now we have another factor we need to be thinking about in the equation."
+
+"You mean the leaking hull? Or that Chips can't even look at you?"
+
+"The hull. I can't deal with Chips' fucking problems right now. We have a limited window --- that is how long our batteries will hold out --- to find a way to lose these fuckers. I'm open to suggestions."
+
+"We could try shutting down entirely --- maybe they will fly right over the top of us?" Suggested Hemi.
+
+At that moment another ping bounced through the hull of the _Prospect_.
+
+Percy rolled her eyes. "That, of course, is why shutting down and hiding quietly won't work. There's no fucking way they will get out of range of active sonar at the rate we are moving."
+
+"We could speed up, get them to match our speed, then shut down and let them shoot past." Said Hemi.
+
+"How fast would we have to go for them to be out of sonar range by their next ping?"
+
+"Assuming they keep pinging every 15 minutes..." Hemi did some quick calculations, touching his thumb to his forefinger as he counted. "Fairly fast. Perhaps 20 knots?"
+
+"We'd use up the entire charge left on our battery in less than an hour at that speed."
+
+"It does indeed seem like this commander knows his tactics." Said Hemi. "A less experienced sub driver would have made more mistakes. I do not see how we have any other option than to continue on our current course, and hope an opportunity presents itself."
+
+"But it fucking kills me to have no plan Hemi."
 
 
+### The scattering layer
 
 
 
