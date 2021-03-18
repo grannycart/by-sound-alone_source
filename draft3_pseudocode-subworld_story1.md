@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Mar 18, 2021  04:31PM
+Last modified: Thu Mar 18, 2021  06:09PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -358,7 +358,7 @@ Last modified: Thu Mar 18, 2021  04:31PM
 
 * [X] {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
 
-### Chase scene (Run to Pylon City, morning day 4)
+### Chase scene (Run to Pylon City, morning night 3 cont'd)
 
 * [X] _They run while deep_
 	* Maybe they have a good charge on the batteries: 12 hours say.
@@ -389,7 +389,7 @@ Last modified: Thu Mar 18, 2021  04:31PM
 * [X] _Watching the battery gauges --- how long can they go before they are forced to the surface?_
 
 
-### --- (hiding in the depths, escape under the deep scattering layer) (Run to Pylon City, night 4)
+### --- (hiding in the depths, escape under the deep scattering layer) 
 
 
 * [X] _The dive below the deep scattering layer_
@@ -403,6 +403,8 @@ Last modified: Thu Mar 18, 2021  04:31PM
 		* even though the perusing sub didn't hear them crash, the wouldn't follow that deep (through a potential bottom); instead it's more like they just disappeared. Percy also opened the main ballast, so they would have heard a big whoosh of bubbles -- possibly indicating a sinking sub.
 
 * [X] _And motor quietly away._
+
+### (Run to Pylon City, day 4)
 
 * [ ] _They make the run into port on the surface._
 	* {Is this where they come up in a blessed fog?}

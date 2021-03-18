@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Mar 18, 2021  05:11PM
+Last modified: Thu Mar 18, 2021  06:22PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -2263,6 +2263,7 @@ Hemi didn't fail to notice either. "Maybe..." was all he said before looking bac
 
 They finished loading the crates of explosives that evening. Hemi had Bastian, Gregory, and Owen go over every crate and make sure it was lashed securely enough that it couldn't shift once the _Prospect_ started moving. After that, most of the crew hit the rack, though Hemi and Percy were up late in the galley going over the details of their supplies and some questions in the details of the job contract that Hemi wanted Percy to consider.
 
+[//]: # (Morning: day 1, run to Pylon City)
 The next morning, Hemi was up first, and dragged Bastian out of the rack to help him track down some dock workers who would have the rig to get the compressed air tanks of the _Prospect_ recharged. This involved setting up a length of expandable rigid pipes that ran the docking bay, through the cargo hatch, and had to be connected up to pipe fittings mounted to the ceiling of the _Prospect's_ cargo bay. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_ and that air was under such an immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well by utilizing some valves on the tank ballast panel in the control room to bleed off some air from the high-pressure system to the low-pressure tanks.
 
 The docking bay had high-pressure pipes that were fed down from tanks and compressors in some equipment space up above the exchange floor of the depot. Mostly it was just kept ready for an emergency, if the docking bay got flooded and the water needed to be blown out. Most subs that docked there had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had equipment for it, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian looking for those people.
@@ -2276,6 +2277,7 @@ With the compressed air systems recharged, the only thing left was to get food a
 
 ### ready to embark
 
+[//]: # (Lunch time: day 1, run to Pylon City)
 With food aboard, Hemi found Captain Percy in the sonar compartment around lunch time and reported that all the various umbilicals had been withdrawn and the _Prospect_ was ready to swim under its own power agail. They could expect to be ready to embark from the depot sometime that day.
 
 "I don't know if you have any business left to take care of up on the exchange floor or anything," said Hemi to Captain Percy, "but the cargo is loaded, all the critical supplies are aboard, Chips says the engines are running cleanly enough, and the boat is more or less repaired."
@@ -2445,7 +2447,7 @@ As Gregory turned the dive plane wheel and steered the boat into the depths, Hem
 
 Percy reached for some switches on the wall that changed the lighting to night lighting. The white lights faded away and red bulbs came on bathing them all in a sanguine glow. It wasn't strictly necessary --- night lighting was really to preserve the night-vision for anyone who needed to look through the periscope --- but Percy was of the school that believed in switching to night lighting in any situation where she needed her crew to remain alert. The red light served as a constant reminder that the situation was not totally nominal.
 
-"Keep us close to the seamount." Said Percy. "It will give us extra cover if they decide to use their fish-finder."
+"Keep us close to the seamount." Said Percy. "It will give us extra cover if they decide to use their active sonar."
 
 "No reason not to make a tricky operation even tricker." Said Hemi. "Bastian, are we clear of the traffic abandoning the depot?"
 
@@ -2484,6 +2486,7 @@ Bastian reported that he thought he could hear some disturbing sounds from the d
 
 ### looking at the charts
 
+[//]: # (Mid-afternoon: day 1, run to Pylon City)
 The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on which everyone understood to mean the situation had returned to nominal, even though it was really a meaningless gesture.
 
 "Hemi, join me at the navigation station, it's time for us to figure out where we're going." Said Percy.
@@ -2539,6 +2542,7 @@ Captain Percy considered. "I think so. Take us up to six knots. Only top sonar p
 
 ### trimming the boat to handle the cargo load
 
+[//]: # (Late-afternoon: day 1, run to Pylon City)
 Six knots was still slow, but twice the speed they crawled away from the depot at. With three more hours of crusing they were out of range of all the but the top sonar gear and ears in the world. Percy had them come up to 100 meters to take some of the strain off the hull.
 
 At the shallower depth, Hemi stood at the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Yeah Percy," he said to her as she stood behind him smoking, "I think we can certainly do better if we move some of the cargo around down in the hold.."
@@ -2553,6 +2557,7 @@ Gregory had stacked the wooden crates into the hold inexpertly. There was a bit 
 
 Hemi had Owen rig a block and chain to sliding fixtures on the roof of the cargo bay. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain through the tackle while Owen guided it off the stack. The three of them would then pull the airborne crate up the length of the cargo bay, and Owen and Bastian would push it with poles while Hemi lowered it to it's new place.
 
+[//]: # (Early-evening: day 1, run to Pylon City)
 It took a few hours to make a first pass at rearrangin the crates. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made adjustments to the trim of the boat and Hemi went back down to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
 
 "Fuckin' Christ Hemi," said Gregory when Hemi was finally settled back into the control room, "seemed like the boat was trim enough when we left the depot. Didn't slow us down none."
@@ -2629,6 +2634,7 @@ Hemi left her there listening to the dolphins and climbed up next to Percy in th
 
 ### they surface at night
 
+[//]: # (Early-night: night 1, run to Pylon City)
 A few hours later the clocks and sun charts coordinated to tell them that it was well after dark on the surface. Percy had them come up to periscope depth and she put the scope up to check the surface. With an empty black horizon in all directions, she had Gregory blow air into the main ballast tanks from the low-pressure system and raise the _Prospect_ fully up to the surface.
 
 Captain Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the disels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar --- on the surface they created a fairly strong radar signature. But they ran their own radar receiver while on the surface. If anyone else was tracking with radar, they would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
@@ -2675,6 +2681,7 @@ Percy lit a cigarillo. Hemi looked up at the dark gray sky, mostly obscured by c
 
 "And if we can rely on Shakes to know where he is..."
 
+[//]: # (Midnight: night 1, run to Pylon City)
 The night ground on with the unvarying drone of the diesel engines always under the foot of any crew members on deck, and relentlessly surrounding them anywhere below deck. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries and run the electric motors that actually propelled the boat, they were always run at the same, optimum RPMs. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For crew at the controls, with no depth to control while they were on the surface, and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
 
 Percy knew that this was the hardest part of the job --- keeping always ready to do something when there was absolutely nothing to do. They had to stay focussed on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything wasn't just a grime-coated gray accompanied by a background of lush and never-changing noise.
@@ -2684,6 +2691,7 @@ She put the crew on rest rotations. Every three hours three of them would get th
 
 ### Hemi and Cassandra in navigation talking about what it takes to be a submariner
 
+[//]: # (3 am: night 1, run to Pylon City)
 Hours later, sometime during the third rotation, Hemi found Cassandra in the navigation and sonar compartment, listening intently to the sonar with the headphones on and her eyes closed.
 
 Hemi tapped her on the shoulder, and she jumped a little before smiling at him and pulling back a headphone.
@@ -2769,15 +2777,16 @@ Cassandra nodded.
 
 "That's poetic." Said Owen, listening to their conversation from the lookout ring.
 
+[//]: # (give 'cliche' accent in next line)
 Hemi smiled, "And just a little bit of a cliche." He said more loudly for Owen's benefit. "I find a touch of the poetic gives some much-needed meaning to this black and gray metal world of ours. But if you let it go to your head, it could keep you from making the clear-minded assessments of situations that are necessary to remain alive as a submariner." Hemi took a siting of another star and marked its altitude down on his clipboard. "OK Cassandra. Back to your radar scope. I need to make some minor course adjustments in the control room."
 
-[//]: # (give cliche accent in above line)
 
 Hemi and Cassandra climbed back down into the _Prospect_ leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
 
 
 ###  Listening for the Gnat
 
+[//]: # (pre-dawn: day 2, run to Pylon City)
 Early in the pre-dawn, Bastian was up in the lookout ring when the sky began to lighten in the east, blacking out the stars in that direction and creating an echo of light on the black disc of the ocean in that direction. When Bastian could see his hands gray in the gloom in front of him, he relayed down to the control room that it might be time to dive.
 
 Captain Percy came up on the bridge and looked around for a few minutes. She took some long breaths, taking in the last of the fresh air before the next twelve hours or so below deck, and then called Bastian to follw her back down into the sub.
@@ -2792,6 +2801,7 @@ They cruised to the rendezvous point, and then came up to 30 meters of depth. Th
 
 Cassandra was just waking up from her sleep rotation, and groggily making her way from the crew quarters to the sonar compartment when Hemi found her and handed her a tin cup full of sweetened black coffee.
 
+[//]: # (Early morning: day 2, run to Pylon City)
 "Time to get back on sonar Cassandra. We've reached the spot where we're supposed to rendezvous with Shakes. I need you to listen for his boat, it's quite a small boat so it might be challenging to hear. But since we've got the _Prospect_ completely shut down you'll have total silence. If you hear Shakes --- or anything else in the water --- come get me, I'll be in the galley. The rest of the crew is going on break while there's nothing to do, so it's all you right now. "
 
 "That makes this sound important... you trust me with this?"
@@ -2806,8 +2816,9 @@ Cassandra turned the directional control of the mics slowly around. She complete
 
 The _Prospect_ was currently at absolute maximum sonar listening capacity, but there was nothing out there. The ocean was completely empty in every direction. Cassandra focused her mind and kept it out in the water. Every time she felt it grasping with some subject other than sonar, she took a deep breath, and forced her mind back out into the water. It was incredibly tiring work.
 
-Two hours later, there remained no sign of Shakes. Captain Percy could never sleep for very long, and so was soon back in the control room with a cup of coffee from the galley, smoking and making small adjustments to the trim of the boat. Each of these adjustements was acompanied by a brieft rush of water or air through the piping of the ship, and each time this happened Cassandra got completely distracted for a few frustrating moments. Cassandra did not yet realize that the sonar operator could, in some instances, have some authority over even the captain on a submarine.
+Two hours later, there remained no sign of Shakes. Captain Percy could never sleep for very long, and so was soon back in the control room with a cup of coffee from the galley, smoking and making small adjustments to the trim of the boat. Each of these adjustements was acompanied by a brief rush of water or air through the piping of the ship, and each time this happened Cassandra got completely distracted for a few frustrating moments. Cassandra did not yet realize that the sonar operator could, in some instances, have some authority over even the captain on a submarine.
 
+[//]: # (Mid-morning: day 2, run to Pylon City)
 Another hour went by, Cassandra thought she was starting to crack, and considered asking Hemi to take over. She was worried that somehow Shakes had sneaked past her in his little boat, that she missed him and screwed up her first real job. Rationally, she knew that was unlikely though. She pushed herself to keep listening to the silence.
 
 Then, far off their port side, she heard an engine in the water. It wasn't like the other seacraft she had heard so far on sonar. It had a continuous popping sound, like a machine gun being fired off in the distance, accompanied by a low-frequency roar.
@@ -3047,13 +3058,13 @@ Percy called Gregory down from the control room and sent Owen up to relieve him.
 
 "You know, I always wondered why those salmon cans are tapered like that. Why don't they just run straight down, like all the other cans?"
 
-"Actually, now that you mention it Shakes, I always thought that was weird myself. There has to be three-hundred cans in the galley, and all of them are perfect cylinders except for the salmon."
+"Actually, now that you mention it Shakes, I always thought that was weird myself. There has to be 300 cans in the galley, and all of them are perfect cylinders except for the salmon."
 
 "I wish all cans were tapered." Said Shakes. "Sometimes I knock a stack of cans over on the _Gnat_ and the regular ones will run off under some piece of equipment. I'm pretty sure there's some cans in the bottom of the boat that rolled there years ago and I never saw again. But the taper on the salmon cans makes 'em roll around in a tight circle. They stay roughly where they fall no matter what the boat is doing and I can pick them right up."
 
 "Maybe salmon manufacturers know mariners and submariners have a lot of salmon on board, and they shape them like that so our seagoing friends don't lose their precious cans in the corners of ships."
 
-Hemi chuckled. "It's a nice idea. But if you want to know the real reason, it's because the salmon canneries are all in remote parts of the north. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships moving the cans by nesting them."
+Hemi chuckled. "If you want to know the real reason, it is because the salmon canneries are all in remote parts of the north. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships moving the cans by nesting them."
 
 "Oh." Said Shakes, seeming somewhat disappointed.
 
@@ -3076,6 +3087,7 @@ Shakes nodded sleepily as Hemi and Percy headed up to the navigation and sonar c
 
 ### Planning the run with Shakes
 
+[//]: # (Midday: day 2, run to Pylon City)
 Shakes joined Hemi and Percy at the navigation table, somewhat revived by Gregory's coffee, and carrying two more tin mugs filled with coffee for Hemi and Percy. They received them gratefully.
 
 "Here's what we're thinking Shakes." Said Captain Percy. "We're well into Consolidated States' waters now. I think trouble from them is unlikely."
@@ -3126,10 +3138,12 @@ The rest of the day went as planned. The _Prospect_ moved slowly and silently th
 
 Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. The two boats droned their way across the curve of the globe, and the only thing that changed was the sun slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
 
+[//]: # (night 2, run to Pylon City)
 The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Captain Percy brought the _Prospect_ up to the surface and they began their night crew rotations with someone always on the radar and someone always in the lookout ring. A thin quickblade of a moon climbed up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric. 
 
 Shakes ran the _Gnat_ off at some distance for the first half of the night, and then dove and brought the boat under to mate with the _Prospect_, which slowed the _Prospect's_ speed, but Percy figured this was worth it to keep Shakes alert and relatively sane during the day. He came on board and ate a couple of large bowls of a hot brown soup Gregory had left simmering on the range, accompanied by thick slices of a stale and grainy bread which he would cover in butter and soak in the soup until each bite softened. He slept for a few hours in one of the _Prospect's_ comfortable racks. As the sky lightened in the east, Captain Percy woke him and told him it was time to get the _Gnat_ off.
 
+[//]: # (Morning: day 3, run to Pylon City)
 Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch to the _Gnat_. Shakes disappeared down through the hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakeable intelligence to the eyes.
 
 "Hemi meet Herschel." Said Shakes holding the cage up for Hemi to take while he climbed up out of the _Gnat_.
@@ -3171,7 +3185,8 @@ One hundred meters below him in the _Prospect_ it was nearly silent as the crew 
 
 The first few hours passed with dull regularity. Shakes had nothing to report during diesel stops, and by her third cigarillo Percy was settling into the comfortable state of mind-blanking boredom that she was her most familiar association with life aboard submarines.
 
-By mid-morning, Shakes was shutting the diesel of the _Gnat_ down for the third time. 
+[//]: # (Mid-morning: day 3, run to Pylon City)
+By mid-morning of the third day out from the depot, Shakes was shutting the diesel of the _Gnat_ down for the third time. 
 
 Cassandra could heard the _Gnat's_ diesel putter away to a halt --- leaving a silent relief in her headphones that she blessed. As usual, she called up to the control room to let them know the _Gnat_ was shut down for a listening and check-in session. "Captain Percy, the _Gnat_ just went silent."
 
@@ -3179,7 +3194,7 @@ Cassandra could heard the _Gnat's_ diesel putter away to a halt --- leaving a si
 
 "Well, for lack of anything else to report, I'll tell you that the weather is thickening up a bit. The haze has really set in, and there's a bit of a chop coming on. Nothing to mention right now, but it looks to me like the kind of things that could turn into real weather later."
 
-Weather was not generally a concern for Percy, submarines could ride out even the worst weather at depth. But she couldn't guess at what the _Gnat_ could handle. "Does that give you anything to worry about with the _Gnat_?"
+Weather was not generally a concern for Percy, submarines could pass under even the worst weather at depth. But she couldn't guess at what the _Gnat_ could handle. "Does that give you anything to worry about with the _Gnat_?"
 
 "Naw." Shakes voice crackled. "The _Gnat's_ been through the very worst. If it gets bad, I'll dive and ride it out underwater. With all this running on the surface, the batteries are always fully topped-up."
 
@@ -3195,7 +3210,7 @@ Cassandra had her eyes closed and was concentrating intently on the sounds in he
 
 A moment later the perennial resonance of the electric motor died away. Cassandra brought the sonar mics back to face the dead stern of the boat. The signal strength indicator immediately shot up to a definite contact. "Absolutely Captain Percy. I can hear the engine in the water. Sounds like another diesel."
 
-Percy looked at the signal strength dial and knew immediately that the contact had snack in under the sound of the _Gnat's_ diesel when it was running, and then a bit closer even by being dead astern of them where Cassandra couldn't hear very well over the sound of their own prop turning. The contact was probably far closer than Percy was comfortable with now --- maybe twenty nautical miles. "Fuck." Was all she said.
+Percy looked at the signal strength dial and knew immediately that the contact had snuck in under the sound of the _Gnat's_ diesel when it was running, and then a bit closer even by being dead astern of them where Cassandra couldn't hear very well over the sound of their own prop turning. The contact was probably far closer than Percy was comfortable with now --- maybe twenty nautical miles. "Fuck." Was all she said.
 
 She climbed up to the control room and got Shakes back on the ship-to-ship. "Defintely a contact Shakes. Now it's your turn. Fire up the _Gnat_ and see if you can lead them off and away from us. Let's see if this scheme of ours works!"
 
@@ -3266,7 +3281,8 @@ The rest of the hours of the day ticked by with nothing to break the monotony an
 
 ### they hear the storm above, decide whether to surface
 
-Cassandra's eyes were bleary and drooping as she stared blankly at the sonar console 10 hours later. Captain Percy and Hemi were having a discussion behind her in the sonar compartment about whether it was time to surface and begin their nighttime run.
+[//]: # (Early-night: night 3, run to Pylon City)
+Hours later, when the clock said it should be early evening on the surface of the world, Cassandra's eyes were bleary and drooping as she stared blankly at the sonar console. Captain Percy and Hemi were having a discussion behind her in the sonar compartment about whether it was time to surface and begin their nighttime run.
 
 "How's the charge on the batteries Hemi?" Percy asked.
 
@@ -3479,7 +3495,8 @@ Hemi tried to spot the big ones coming at him from a couple of waves away. WHen 
 The powerful lights pushed back the darkness only to reveal a landscape of blackness stretching out in front of Hemi. To the uninitiated it was a hellscape, an unstable surface on an alien world. Any ship in weather like this was a tiny figure on a vast plane, roamed by monsters the size of apartment buildings that arrived with stealth, and an ability and intent to crush even the most formidable intruders and drive them down into the bottomless hole they strode over.
 
 But Hemi felt no fear as long as the hum of the diesels shoot his boots, and the heat of the exhaust bellowed from the pipes behind him. He had been through weather like this many times over the years and knew a well-found ship with a strong engine should have no trouble. As old as the boat was, he had all faith in the _Prospect_. The storm could try its evil best to do them down, but Hemi wasn't going to go without a fight.
-
+ 
+[//]: # (First quarter of night: night 3, run to Pylon City)
 After an hour of charging into the storm Hemi was starting to feel it though. Hemi was not a loud man and his voice was already cracking from shouting directives down to the control room. It also took an enormous amount of energy to keep his concentration focussed on the nearly-featureless black seascape. Wild as it was, it became debilitatingly ugly and repetitive in a short time. It also took physical stamina just to stay standing on the bridge against the wind and roll of the boat. The most distressing thing to Hemi though was that he had only been at this for an hour. There was a chance they could be running through this storm until dawn, something like 10 hours away.
 
 Gregory, dressed in a black foul-weather slicker that covered him from crown to calf's, and heavy rain boots, climbed up through the sail to join Hemi on the bridge. 
@@ -3662,7 +3679,7 @@ Bastian turned the dive plane control wheel to give the planes a steeper angle. 
 
 Owen reached up and wiped his fingers on a hanging rag. "I don't think I could ever get used to going down fast like this, controlled or no" He said, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. 
 
-[//]: # (Next 3 grafs: need editing relative to what the reader already knows. Earlier in the book it is established that Percy can read the condition of the boat from this wall, I think, so explaining that might be repetitive. On the other hand, there's some good stuff in these grafs that you might want to keep for mood and tension.)
+[//]: # (Next 3 grafs came straight from first experimental round draft of this scene: need editing relative to what the reader already knows. Earlier in the book it is established that Percy can read the condition of the boat from this wall, I think, so explaining that might be repetitive. On the other hand, there's some good stuff in these grafs that you might want to keep for mood and tension.)
 Along with some input from the navigation and sonar stations on the deck immediately below the control room, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. And what Owen was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities.  
 
 The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. 
@@ -3740,9 +3757,9 @@ Percy pulled Hemi over to the navigation chart. Hemi didn't remove the sonar hea
 
 "How much battery do we have?" Percy asked Hemi.
 
-"We did OK charging the batteries on the surface during the storm. We have about a half charge on them. We can do a creeping speed for maybe 12 hours." Hemi didn't express his opinion aloud that having gained 12 hours of charge meant they could have, and maybe should have, submerged earlier. And if they had, the would never have encountered the sub with the ram.
+"We did OK charging the batteries on the surface during the storm. We have about a half charge on them. We can do a creeping speed for maybe 10 hours." Hemi didn't express his opinion aloud that having 10 hours of charge meant they could have, and maybe should have, submerged earlier. And if they had, the would never have encountered the sub with the ram.
 
-"OK. 3 knots, 12 hours. Let's see." Percy measured a compass against a graduated straight edge and deftly spun the compass drawing an arced dashed line on the chart with the grease pencil. "That gets us somewhere along this line."
+"OK. 3 knots, 10 hours. Let's see." Percy measured a compass against a graduated straight edge and deftly spun the compass drawing an arced dashed line on the chart with the grease pencil. "That gets us somewhere along this line."
 
 Hemi nodded.
 
@@ -3784,22 +3801,23 @@ But every 15 minutes, like a grating and persistent alarm, another echoing ping 
 
 Each new ping reset their anxiety. And their eyes would tear up and their hands would start shaking again. The only relief was the passing of time, but that led inevitably towards the next alarm-ringing ping, and the cycle would start all over again.
 
+[//]: # (middle of night: night 3, run to Pylon City)
 This cycle repeated itself without change for hours. The storm continued to spin above them, and their ears rang from the pings and from the silence between them. 
 
-Cassandra showed back up in the sonar compartment, unable to sleep for the pings, and offered to sit at the sonar station again. When Hemi climbed into the control room, Percy had him relieve Owen at the throttle controls and sent Owen to make them some breakfast.
+Cassandra showed back up in the sonar compartment, unable to sleep for the pings, and offered to sit at the sonar station again. When Hemi climbed into the control room, Percy had him relieve Owen at the throttle controls and sent Owen to make them a very late dinner.
 
 
 ### Breakfast; Owen realizes the sub commander is after him
 
-Half an hour later Owen's voice came over the PA saying breakfast was ready. Captain Percy offered to let Bastian and Cassandra eat first, but Cassandra preferred to stay at sonar. Bastian offered to bring a plate of food up to her and sit at the sub controls himself while he ate. He was back from the galley in a matter of minutes with heaping bowls of steaming food for Cassandra and himself.
+Half an hour later Owen's voice came over the PA saying food was ready. Captain Percy offered to let Bastian and Cassandra eat first, but Cassandra preferred to stay at sonar. Bastian offered to bring a plate of food up to her and sit at the sub controls himself while he ate. He was back from the galley in a matter of minutes with heaping bowls of steaming food for Cassandra and himself.
 
 Percy held Bastian's bowl of food while he climbed the ladder to the control room. She realized how hungry she was with the smell of it.
 
-"Bastian, keep her going the way we're going. If anything changes, I'll be in the galley. Hemi, want to join me for Breakfast? Maybe we can come up with some kind of plan."
+"Bastian, keep her going the way we're going. If anything changes, I'll be in the galley. Hemi, want to join me for food? Maybe we can come up with some kind of plan."
 
 "Absolutely. I am certainly ready to eat." Said Hemi. 
 
-Owen was not nearly the cook Gregory had been. Breakfast was a white mush of crushed up hard biscuit mixed with water and fried with butter. He had stirred in bits of dried salted meat, and was making a pan of scrambled eggs. He kept making more eggs in small batches, so at least they would be hot for the crew coming to eat.
+Owen was not nearly the cook Gregory had been. Dinner was a white mush of crushed up hard biscuit mixed with water and fried with butter. He had stirred in bits of dried salted meat, and was making a pan of scrambled eggs to accompany the mush with at least a little nutrition. He kept making more eggs in small batches, so at least they would be hot for the crew coming to eat.
 
 Hemi and Percy loaded up bowls --- Hemi with twice as much as Percy --- of the hot glop, and filled two tin cups of coffee and sat down at the galley table. They ate in silence for a few minutes.
 
@@ -3903,12 +3921,14 @@ Percy rolled her eyes. "That, of course, is why shutting down and hiding quietly
 
 Captain Percy and Hemi refilled their coffee cups and Hemi brought an extra one to Bastian in the control room, who gratefully accepted it into the long fingers of his hand that wasn't holding a smoldering cigarette. Hemi sat down in the planes control seat, and swiveled to review the tank ballast control panel. He made some small adjustments to the ballast to trim the boat more level --- probably to account for the water they were once again taking through the poorly-welded gash in the pressure hull, he thought to himself as part of his trim calculations.
 
+[//]: # (After midnight: night 3, run to Pylon City)
 Percy stayed below the control room in the sonar compartment with Cassandra still listening to the sonar. She confirmed with Cassandra that their situation had not changed at all, then stepped to the navigation table. She looked at the clock and then used a pair of calipers to measure against the ruler. She put the calipers to the chart, and marked down a single dash with the grease pencil to show the progress they had made in the last hour. Their progress was painfully slow.
 
 They sank quickly back into the mired boredom of the chase. Bastian lit one cigarette off another as he awkwardly tried to lean back in the control chair and put his feet up on the panel in front of him. Despite the casual repose, he was professional enough with his job that his eyes never left the gauges showing the status of the boat --- even though the array of dials and their indicating needles had not moved or changed for hours on end.
 
 The air thickened with smoke from Bastian and Percy, the condensation of their breathing, and the shallow flatness of having been pass through carbon-dioxide scrubbers. The control room and sonar compartment felt hazy and wet. Hemi continually wiped water droplets from the ballast gauges with a grimy red cotton rag.
 
+[//]: # (very late night: night 3, run to Pylon City)
 Hours passed like this. Hemi and Percy would try to start conversations with Bastian and with each other, instintively knowing that talking was a way to keep alert, but the thick atmosphere and the grinding drone of the motors continually laid down over their conversations like a blanket and stifled them. Besides, every 15 minutes there was the piercing ping from their pursuers that reoriented their attention and their fear.
 
 At some point Owen returned to the control room from below and reported that the portable bilge pumps seemed to be overcoming the weeping water from the welded seam and that they did not have to worry about sinking, for the moment. Owen took over the plane control seat from Hemi, while Hemi reminded him to keep an eye on the ballast tank they were pumping bilge water into --- it would need to be blown out at some point.
@@ -3992,8 +4012,7 @@ Hemi climed up from sonar. He looked at the depth. "New record?" He asked as his
 
 "What happened back there?" Asked Owen. "I thought we were going to hit the bottom for sure." 
 
-[//]: # (Make sure it's actually morning at this point! Actually --- the dsl comes shallow at NIGHT, so you should really work the timing so that this happens at night)
-"False bottom." Said Percy. "The deep scattering layer --- billions and billions of tiny bony fish rising for their morning feed --- such a mass of them together that they reflect sonar back up, and they look like the bottom. We swam right through them, and came out underneath."
+"False bottom." Said Percy. "The deep scattering layer --- billions and billions of tiny bony fish come up from the depths in the night to feed --- such a mass of them together that they reflect sonar back up, and they look like the bottom. We swam right through them, and came out underneath."
 
 "Just when you think there's nothing new to learn on a submarine..." Said Bastian.
 
@@ -4054,7 +4073,8 @@ Percy stood directly behind Owen, carefully double checking his every move to ma
 
 At 3 knots the _Prospect's_ motor made just enough noise that with the right filters in place, Hemi could hear the echo of the Prospect off the deep scattering layer above them. He showed Cassandra what to listen for, and pretty soon she could give a rough estimate of their depth below the mass of fish. It stayed above them for more than 2 hours, but then Cassandra told Percy she could hear it coming slowly down on top of them --- the fish were beginning their daily vertical migration back down the water column to the safety of the very deep, far below the capabilities of the _Prospect_. 
 
-At the depth they were cruising at, near the very limits for the _Prospect_, the boat continually let out long moans as the steel flexed under the weight. The sounds had a visceral impact on Captain Percy, as if her child were suffering. So it was with a sense of relief that they passed back through the mass of fish as the school descended. Once they were back above the scattering layer, there was no purpose to staying so dangerously deep, so she adjusted the bow planes and the _Prospect__ rose to a much more comfortable 200 meters of depth.
+[//]: # (dawn: day 4, run to Pylon City)
+At the depth they were cruising at, near the very limits for the _Prospect_, the boat continually let out long moans as the steel flexed under the weight. The sounds had a visceral impact on Captain Percy, as if her child were suffering. So it was with a sense of relief that they passed back through the mass of fish as the school descended. Once they were back above the scattering layer, there was no purpose to staying so dangerously deep, so she adjusted the bow planes and the _Prospect_ rose to a much more comfortable 200 meters of depth.
 
 When Owen came back from his break, Percy stepped down the ladder to the sonar compartment and joined Hemi at the navigation table.
 
@@ -4063,18 +4083,19 @@ When Owen came back from his break, Percy stepped down the ladder to the sonar c
 
 "Our next challenge," said Hemi as she stepped up to the lighted chart, "is how long the batteries will last."
 
-"Don't think for a fucking second that isn't front of my fucking mind." Said Percy. "Coupla hours left, at best. Then we have to surface --- and barring another storm, we're bright radar targets for those fuckers with the ram. They'll be back on us before we can get the fucking ballast tanks pumped fully out."
+"Don't think for a fucking second that isn't front of my fucking mind." Said Percy. "Coupla hours left, at best. Then we have to surface. And it's daylight now --- barring another storm, we're bright visual _and_ radar targets for those fuckers with the ram. They'll be back on us before we can get the fucking ballast tanks pumped fully out."
 
-"Do you have another trick we can use that I haven't seen before like the deep scattering layer?"
+"We could wait it out without moving until nightfall. We have enough power to keep the lights on at least."
 
-"That move depended far too much on luck and a dangerous gamble Hemi. Luck and gambling is no way to run a submarine. The odds are never in our favor. What I want is a fucking plan that is reliable and executable."
+"I'm worried we haven't put enough distance between us and that crazy fucking sub commander friend of Owen's. If they find us running on the surface, at least we can try to outrun them. If they find us deep with no battery when they come back around on their search circle, we're done for."
 
-"I once again have nothing for you at this time." Said Hemi. "So perhaps luck will come through one more time."
+"We could use another piece of covering luck like the deep scattering layer." Said Hemi.
 
-"Fuck me." Said Percy. "I'm going to lay down for a minute. Run the batteries down, and get me when we have only emergency reserves left."
+"That move depended far too much on luck and a dangerous gamble Hemi. Luck and gambling is no way to run a submarine. The odds are never in our favor. What I want is a fucking plan that is reliable and executable." She paused, feeling tired. "Fuck me." Said Percy. "I'm going to lay down for a minute. Run the batteries down, and get me when we have only emergency reserves left."
 
 Percy climbed down a deck and disappeared forward into the Captain's cabin. She was out almost immediately as she fell into her rack, a power she had gained from long years of experience working with short sleep on subs.
 
+[//]: # (early morning: day 4, run to Pylon City)
 They motored nearly silently though the black depths for another two hours before the battery depletion warning lights lit up on the electrical system panel in the control room. Hemi had them shut the motors down and keep the boat hovering steadily in place while using very little power. He went down to the Captain's cabin and woke Percy. They returned to the sonar compartment together, updated their probably position on the chart --- still a long way from anywhere --- and took the only reasonable action they could take: rise to periscope depth and have a look around.
 
 Not wanting to waste battery power driving up to the surface, they opened the high-pressure air system just a bit on the main ballast tanks to gain a little buoyancy and slowly floated upwards. The watch the depth gauge rotate back to the left making its way steadily towards zero. At periscope depth, Hemi flooded enough of the trim tanks to hold them there. Percy put the scope up.
@@ -4087,9 +4108,6 @@ Hemi smiled. "Makes sense --- it was probably a big warm wall of air pushing tha
 
 Hemi flipped some switches on the ballast control panel and the hum of compressors vibrated up from far below deck. The _Prospect_ rose in place until the deck of the boat broke through the slate-gray ocean and then water washed off and over the curved sides.
 
-* They could be waiting until nighttime to surface, fix this:
-	* they should go under the dsl at night
-	* fix breakfast meal...
 	* and then come up in the morning with no batteries
 	* then they can make the run in the fog bank, and keep running through the night on the surface
 
