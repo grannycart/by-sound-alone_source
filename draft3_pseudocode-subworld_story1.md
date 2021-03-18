@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Mar 12, 2021  12:34PM
+Last modified: Thu Mar 18, 2021  04:31PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -386,13 +386,13 @@ Last modified: Fri Mar 12, 2021  12:34PM
 		* The original rammed wound is leaking more because of the depth
 		* The forward bilge pump failed, and Chips is having trouble getting the water out.
 
-* [ ] _Watching the battery gauges --- how long can they go before they are forced to the surface?_
+* [X] _Watching the battery gauges --- how long can they go before they are forced to the surface?_
 
 
 ### --- (hiding in the depths, escape under the deep scattering layer) (Run to Pylon City, night 4)
 
 
-* [ ] _The dive below the deep scattering layer_
+* [X] _The dive below the deep scattering layer_
 	* person at controls reports bottom has done something funny, suddenly jumped up towards them by hundreds of meters
 	* Percy suspects she knows why. orders them to dive
 	* They are at like ~230 meters. the bottom is around 250 meters, they pass through it to ~260 meters --- lots of stress on the Prospects hull at that depth
@@ -400,8 +400,9 @@ Last modified: Fri Mar 12, 2021  12:34PM
 	* {Where's the Gnat? I think it goes and gets lost in the storm}
 	* {They head down towards the deep scattering layer --- the instruments telling them they are going to hit the bottom, hard. But Percy knows instinctively that it's just billions of tiny fish --- the "bottom" has a particular sound on sonar.}
 	* {They pass through the deep scattering layer, and get away from the pursuing who thinks they disappeared on the bottom... though not hearing them crash would need to be resolved somehow --- maybe this is how you can work the Gnat back into it? Percy has the Gnat buzz past to overwhelm their ears just when the pass through the deep scattering layer?}
+		* even though the perusing sub didn't hear them crash, the wouldn't follow that deep (through a potential bottom); instead it's more like they just disappeared. Percy also opened the main ballast, so they would have heard a big whoosh of bubbles -- possibly indicating a sinking sub.
 
-* [ ] _And motor quietly away._
+* [X] _And motor quietly away._
 
 * [ ] _They make the run into port on the surface._
 	* {Is this where they come up in a blessed fog?}

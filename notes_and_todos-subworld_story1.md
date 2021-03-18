@@ -1,12 +1,13 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Mar 11, 2021  12:30PM
+Last modified: Thu Mar 18, 2021  11:55AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
 * [post-production editing notes](#post-prod)
 * [story 1 elements](#elements)
 * [style](#style)
-* [On writing this book](#onwriting) (General thoughts about writing for posterity)
+* On writing this book
+	* (Moved to shuttlebay)
 
 
 ## Notes and To dos:
@@ -24,6 +25,7 @@ Last modified: Thu Mar 11, 2021  12:30PM
 	* (No copyright problems, those are federal gov't drawings)
 	* (People like me eat that ship up --- it lets you visualize where in the boat the people are at any time.)
 * [ ] credits and thanks (like test readers) can be listed in github repo README or github page
+* [ ] review files in this github repo and make sure there is nothing embarrasing (including this line!); then set it public.
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
 	* [ ] and also draw anything out of post-production that applies to the whole world
@@ -54,6 +56,7 @@ Last modified: Thu Mar 11, 2021  12:30PM
 ## Editing notes (be sure to hit these in post-production editing):
 :post-prod:
 * [ ] GO THROUGH AND HANDLE ITEMS IN THIS LIST _BEFORE_ YOU DO A COMPLETE DRAFT READ-THROUGH
+	* (Also go through ALL items in this entire file)
 	* So when you do a read-through you can make sure order and flow didn't get screwed up anywhere by these edits
 	* when you do this editing read through, do it all after your first cup of coffee in the morning, while working on your second.
 	* A few thousand words per day
@@ -70,16 +73,19 @@ Last modified: Thu Mar 11, 2021  12:30PM
 	* Are the names (both boats and people) ok?
 	* Is there anything offensive that I'm not recognizing?
 * [ ] do a search for 'ly' and remove any useless adverbs. Maybe 'that' too.
-* [ ] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
-	* But under water every ten meters down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Grimlock_ plus the noble strength of the steel hull. When approaching the maxiumum depth of a sub, one small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of minutes.
 * [ ] find and make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
+	* except zero --- that needs to be written out.
 * [X] maybe say somewhere that they should think about installing a snorkel?
 	* (So sub nerds who read the book understand that they don't have one)
 * [ ] move section headers to .md comments; create chapter breaks
+* [ ] find 'map' replace with 'chart'
+* [ ] find 'floor' should be 'deck'
 * [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
 	* Stuff like the malevolence of nature could be a comment in the source code text
 * [ ] remove contractions from Hemi dialog
+* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
+	* a great round sound
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] maybe they refer to the bottomless deep as 'the hole'
 * [ ] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
@@ -87,6 +93,9 @@ Last modified: Thu Mar 11, 2021  12:30PM
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 * [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
 * [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
+* [ ] revisions for Gregory death scene:
+	* blood rains down through the open hatch (though they don't see Gregory at all)
+	* as they dive, shave-and-a-haircut, shave-and-a-haircut, shave-and-a-haircut taps out above them on the sail.
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
 	* I think it's a hold on a ship
 * [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
@@ -95,6 +104,9 @@ Last modified: Thu Mar 11, 2021  12:30PM
 * [ ] Cassandra should always address percy as "Captain Percy"
 * [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
 * [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
+* [ ] When they make a random course decision, add:
+	* Rand legend has it that a submarine commander used the book to set unpredictable courses to dodge enemy ships.
+	* https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049
 * [ ] make sure you only explain active sonar once
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] refer to bastian, gregory, and Owen as the 'deck crew'
@@ -102,6 +114,7 @@ Last modified: Thu Mar 11, 2021  12:30PM
 	* diesels use 'glow' plugs if I remember correctly
 	* this is when they are about to embark the depot
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
+* [ ] add 'straight pipe' to the description of Shakes' exhaust after upgrade
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 		* (Maybe be sure to always refer to it as "the tank control panel")
@@ -122,6 +135,8 @@ Last modified: Thu Mar 11, 2021  12:30PM
 * [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 * [ ] 'navigation station'? 'navigation table'?
+* [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
+* [ ] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place)
 * [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
 	* decide, edit and then make sure it's reflected in the Prospect notes file
 * [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
@@ -244,6 +259,9 @@ Last modified: Thu Mar 11, 2021  12:30PM
 	* Though that rebel group might be the oppressors in 6 months
 	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
+* [ ] My submarine book (at least this first one and the free 10k word story) will NOT have a 'running out of air' scene.
+* [X] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
+	* But under water every ten meters down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Grimlock_ plus the noble strength of the steel hull. When approaching the maxiumum depth of a sub, one small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of minutes.
 * [X] overall theme: being chased by a dark force of evil (black sub) from place to place to place
 * [X] plot milestones
 	* on a dead calm sea
@@ -323,21 +341,6 @@ Last modified: Thu Mar 11, 2021  12:30PM
 	* having considered this, where I do have exterior shots so far I really like them. I'm not getting rid of them.
 	* Though perhaps they end up being the exception that proves the rule.
 * Even though it would have been cool to have people communicating on the boat through tubes, that's really a 19th century thing, and I think for where these boats are at, historically, it would just have to be intercoms.
-
-
-## On writing this book
-:onwriting:
-* (See notes about technology vs magic elsewhere)
-* Writing this novel, alone in a 600sf 3-room apartment in January. It's too cold to go outside, and the outside is contaminated by disease. The apartment is a 100 year old building with steam heat: water and air pushing and banging through rusty pipes, the power-flush of the toilet that you can hear even from other apartments... this place FEELS like a submarine.
-	* At one point, writing about starting up diesel engines, I smell diesel exhaust in my apartment, as if I conjured it. though presumably it was from some truck idling outside.
-	* Fuck the fine craft and "good" writing. Fuck the careful construction and second-guessing. If you can _transport_ a reader to the same place I got while writing this book --- so they can spend time away from our world and in this cold dark watery one under pressure instead --- then you have done something special. You have succeeded in doing something that you've always wanted to do.
-* I am constrained so much more than you could ever know or articulate by the conventions of what is considered "good" writing:
-	* the instinct to go off in a wild new direction; the desire to scrape up a hard-pushed metaphor; but more than anything else the constant pressure for things to make _sense_ --- characters motivated rationally, story order, character style
-	* All of these things I find myself constantly checking and cutting back for fear of some judgmental reader telling me to 'kill my babies' and that it's too purple, too pushed, too random.
-	* I wish I could just say fuck those people. But SOME of that does actually improve the quality of the writing. My fear is that it makes it dull in equal parts. What about art requiring fanatacism? I should more often be fanatically telling that theoretical reader to go fuck themselves.
-* I feel like the Calvin and Hobbes where they make the yard conform to the map instead of the other way around.
-	* I feel like I'm making the story conform to the map (and the rules of submarine technology). Sometimes I wonder if it should be the other way around.
-	* Or maybe this is just how a good story gets written.
 
 
 

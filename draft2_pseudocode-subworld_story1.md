@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Tue Mar 09, 2021  11:36AM
+Last modified: Wed Mar 17, 2021  11:47AM
 
 
 
@@ -621,7 +621,7 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 * [X] > "What are they doing Cass?" Percy asked loudly.
 * [X] > A silent moment passed, and then Cass called back, "they've leveled off around 200 meters down. Seems like they aren't willing to follow us deep."
 * [X] > "They are going to wait us out." Percy said to Hemi.
-* [ ] > "They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Hemi, glancing over the battery charge dials.
+* [X] > "They probably figure we don't have a full battery charge and they won't have to wait very long, and they are right: we're at about 40%." Said Hemi, glancing over the battery charge dials.
 
 * {Description of crewman trimming the tanks} 
 * [X] > "OK {Donovan}, level us out. Hold us at this depth for the moment."
