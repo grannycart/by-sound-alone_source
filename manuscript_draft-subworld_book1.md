@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Mar 18, 2021  04:36PM
+Last modified: Thu Mar 18, 2021  05:11PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -3676,7 +3676,7 @@ Everyone silently gripped their stations.
 
 "They're turning Percy." Said Hemi. He tapped a light rhythm on Cassandra's shoulder to draw her attention to a new unique sound in their headsets. "Sounds like they are flooding torpedo tubes." 
 
-A loud ping came from the sub with the ram and echoed across the hull of the _Prospect_. The ranging equipment lit up with the exact distance and direction of the sub with the ram. Hemi read the coordinates off the range display and relayed them to Percy. "They're ranging ping puts them at 612 meters of our rear port side." 
+A loud ping came from the sub with the ram and echoed across the hull of the _Prospect_. The ranging equipment lit up with the exact distance and direction of the pursuing sub. Hemi read the coordinates off the range display and relayed them to Percy. "Their ranging ping puts them at 612 meters of our rear port side." 
 
 "Now they have everything they need to fire on us." Percy said to herself.
 
@@ -3703,7 +3703,7 @@ Owen looked at Percy, "What happened?"
 [//]: # (I don't think a torpedo has a pressurized hull, so it wouldn't implode, it would just fail.)
 "Most of the torpedoes on these Authority subs are older ones that they manufactured huge numbers of. They can't go below 200 meters or so. The one homing on us probably just stopped functioning when critical componenets failed under the pressure." She paused, thinking to herself. "It's entirely possible that they are loading a more modern torpedo into their tubes right now that can reach us at this depth, and all we've done is delayed the inevitable."
 
-"What are they doing Hemi?" Percy asked loudly, with a slight tilt of her head. 
+"What are they doing Hemi now?" Percy asked loudly, with a slight tilt of her head. 
 
 Hemi and Cassandra had their headsets back on and were listening. "Sounds like they stopped moving Percy. They may have decided to wait us out." Said Hemi.
 
@@ -3716,7 +3716,7 @@ Bastian eased back the wheel on the dive plane while Owen pulled the throttle ba
 
 The stress Captain Percy was feeling changed in character. A few moments before her mind was working quickly in the desperate survival mode of flight. Now that immediate pressure was off, replaced by an almost overwhelming cloud of dread as they switched to a mode of silent hiding. 
 
-She looked around her in the crimson gloom. With the motors shut down her boat was completely silent. Their breathing pushed dampness into the air that condenced on the metal fixtures and gathered until it released a soft drip. The randomness of the dripping in the control room was intimidating. 
+She looked around her in the crimson gloom. With the motors shut down her boat was completely silent. Their breathing pushed dampness into the air that condensed on the metal fixtures and gathered until it released a soft drip. The randomness of the dripping in the control room was intimidating. 
 
 Bastian knew better than to ask, but Owen did not. "What's our plan Captain?"
 
@@ -4087,7 +4087,11 @@ Hemi smiled. "Makes sense --- it was probably a big warm wall of air pushing tha
 
 Hemi flipped some switches on the ballast control panel and the hum of compressors vibrated up from far below deck. The _Prospect_ rose in place until the deck of the boat broke through the slate-gray ocean and then water washed off and over the curved sides.
 
-
+* They could be waiting until nighttime to surface, fix this:
+	* they should go under the dsl at night
+	* fix breakfast meal...
+	* and then come up in the morning with no batteries
+	* then they can make the run in the fog bank, and keep running through the night on the surface
 
 
 
