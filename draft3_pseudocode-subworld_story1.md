@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Mar 18, 2021  06:09PM
+Last modified: Fri Mar 19, 2021  09:20PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -194,7 +194,7 @@ Last modified: Thu Mar 18, 2021  06:09PM
 	* they uncouple and leave quietly, in a hurry
 	* [X] "hope we didn't forget anything"
 
-### rendezvous with the Gnat; Interstitial traveling from depot; (run to Pylon City; day and night 1)
+### rendezvous with the Gnat; Interstitial traveling from depot; (run to Stilt City; day and night 1)
 * [X] Hemi got new charts from the depot 
 	* they find out where the authority line actually was --- Shakes wasn't too far off
 
@@ -240,7 +240,7 @@ Last modified: Thu Mar 18, 2021  06:09PM
 	* salmon can conversation
 
 
-### The next day's run is uneventful (Run to Pylon City, day and night 2)
+### The next day's run is uneventful (Run to Stilt City, day and night 2)
 
 * [X] _they go over their planned route with the Shakes; give him points where they can rendezvous if they lose him, or meet him at the destination._
 	* [X] estimate 3 or 4 days of travel, if nothing goes wrong
@@ -263,7 +263,7 @@ Last modified: Thu Mar 18, 2021  06:09PM
 	* [X] They reattach the Gnat; so Shakes can get a hot meal and sleep in a rack.
 
 
-### Shakes leads off the sub with the ram (Run to Pylon City, day 3)
+### Shakes leads off the sub with the ram (Run to Stilt City, day 3)
 
 * [X] _At dawn Shakes moves Herschel to the Prospect and gets the Gnat underway on the surface with the diesel running again._
 	* weather steadily thickening
@@ -278,7 +278,7 @@ Last modified: Thu Mar 18, 2021  06:09PM
 	* [X] They lose contact with both ships
  
 
-### --- (on the surface in a storm; wave porn) (Run to Pylon City, night 3)
+### --- (on the surface in a storm; wave porn) (Run to Stilt City, night 3)
 
 * [X] _They need to recharge batteries, so they come up on the surface, at night, in a storm. Their batteries are too low, so they are forced to run on the surface in big weather._
 	* [X] "There's some 10 meter waves out there Captain."
@@ -358,7 +358,7 @@ Last modified: Thu Mar 18, 2021  06:09PM
 
 * [X] {then it's all silence, dampness, (dripping?) darkness, quiet, and fear.}
 
-### Chase scene (Run to Pylon City, morning night 3 cont'd)
+### Chase scene (Run to Stilt City, morning night 3 cont'd)
 
 * [X] _They run while deep_
 	* Maybe they have a good charge on the batteries: 12 hours say.
@@ -376,8 +376,8 @@ Last modified: Thu Mar 18, 2021  06:09PM
 		* "No. The Funny thing is, I don't think he even really cares. He definitely knew while it was happening, and didn't make a big deal of it. It was only later that he tracked me down in a bar. Came at me with a hatching in his one hand."
 		* "He came at you with a hatchet?"
 		* "yeah. But it was like he was just going through the motions. He said "you're going to die bloody son" but real flat like, you know? I think he just feels like avenging his wife's infidelity is just a way to layer some kind of meaning on his sad middle-aged life."
-	* It's possible this could be moved to the chase in the garbage patch. In which case, maybe Owen sees the sub with the ram coming into pylon city?
-		* Doing it this way eliminates the possibility of Percy just leaving Owen on the dock at Pylon City 
+	* It's possible this could be moved to the chase in the garbage patch. In which case, maybe Owen sees the sub with the ram coming into stilt city?
+		* Doing it this way eliminates the possibility of Percy just leaving Owen on the dock at Stilt City 
 	* Hemi feeds Herschel on the table, maybe it pisses off Percy
 
 * [X] _something breaks that needs fixing_
@@ -387,6 +387,9 @@ Last modified: Thu Mar 18, 2021  06:09PM
 		* The forward bilge pump failed, and Chips is having trouble getting the water out.
 
 * [X] _Watching the battery gauges --- how long can they go before they are forced to the surface?_
+	* discussion how they are going to contact Shakes again:
+		* [X] "Is there any chance of finding Shakes now?" "Well, I wouldn't have let you send Herschel out in the storm. This is our first opportunity."
+		* [X] "ok, get the pigeon" "Hershel" "Hershel, and tell Shakes...."
 
 
 ### --- (hiding in the depths, escape under the deep scattering layer) 
@@ -404,61 +407,74 @@ Last modified: Thu Mar 18, 2021  06:09PM
 
 * [X] _And motor quietly away._
 
-### (Run to Pylon City, day 4)
+### (Run to Stilt City, day 4)
 
-* [ ] _They make the run into port on the surface._
+* [X] _They make the run into port on the surface._
 	* {Is this where they come up in a blessed fog?}
 
-* [ ] They contact Shakes via Pigeon:
-	* [ ] "Is there any chance of finding Shakes now?" "Well, I wouldn't have let you send Herschel out in the storm. This is our first opportunity."
-	* [ ] "ok, get the pigeon" "Hershel" "Hershel, and tell Shakes...."
-	* {if this is the more panicked situation, use dialog from later pigeon instance}
+* [X] They send up Herschel to find Shakes
 
 * [ ] Chips confronts Hemi about Percy
 	* "Her stubborn nature is going to kill us all Hemi; just like she killed Gregory"
 	* "I was there too Chips, I don't think there is anything we could have done to save him."
+	* Chips tells Hemi she is leaving as soon as they hit the dock
 
-### --- (Into Pylon City --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to Pylon City, day 5)
+### --- (Into Stilt City --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to Stilt City, day 5)
 
 
-* [ ] _They arrive at an exotic remote city, with wooden homes built on stilts and junks with fishermen._
+* [ ] _They arrive at an exotic remote city --- "Stilt City", with wooden homes built on stilts and junks with fishermen._
 	* Hints at the economy of the city, the whole thing built on stilts
-		* it's not _ancient_; it's relatively new development, but impoverished
-		* including warehouses and depots
+		* from thatched huts to warehouses and depots with metal roofs
+			* Though everything is made of matchsticks, except the roofs
+		* from dugout canoes to supertankers
+		* It's not ancient (since that would require me to identify a real place) --- it's new development, but impoverished.
+		* "The entire thing is built on stilts?" Asked Cassandra
+		* "That's why they call it Stilt City." Said Percy.
+		* "Again, 'they' does not include the locals who actually live here." Said Hemi. "But yes, almost all of it on stilts above the delta waters. Many cities around the world are built on swamps because swamps are what happens when large rivers meet the sea. In richer places, they drain the swamps to get dry land under them. Here, in recent years at least --- most of the development on stilts is relatively new, from the last 20 years or so --- they found it more economical to just build above the water line on stilts."
 		* it was easier than draining the swampland that made up most of the territorial area
 	* the giant metal machine tooling through rickety wood structures;
+	* How do they navigate to the dock they are looking for? Do they hire a pilot? That might be cool (maybe the pilot is the character who pronounces 'sub marine' as two words?)
+		* rows out to them in a dugout as they are coming in
 	* they have to run on the surface because the water is shallow
 		* some close calls with too shallow --- watching that depth-under-keel gauge again --- warning lights
+			* Maybe a scene where they have to blow the main ballast to get a few more inches and get unstuck off the bottom (somewhat like in "The Land that Time Forgot" where they lower the boat so they know that anywhere they stick they can get back off of later)
 		* Maybe ten meters
 		* A narrow channel full of other ships and surfaced subs making their way into and out of ports
 
 
 * [ ] _The find their dock and unload._
 	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something. Broken English in general
+	* Hemi discreetly keeps a couple of crates of explosive mines --- not sure if that's revealed here or when he comes up with the plan
+		* (Might be enough of a reveal when he comes up with the plan later that he also has inflatables of some kind ready to go; and the fact that he keeps some mines here is a good hint of what's to come? not sure.)
 
 * [ ] _Chips leaves as soon as they hit the dock_
-	* Convo with Hemi about it.
-	* Maybe to return in a future story (add to character notes)
+	* (Probably) to return in a future story (add to character notes)
 
-* [ ] They reunite with Shakes
-	* Herschel found him and told him which dock to meet them at
 
 * [ ] Convo about what to do about losing Chips
 	* Percy raises the possibility of leaving Owen on the dock too
 	* But Hemi points out they have no way to make sure the sub with the ram gets the message that Owen wasn't with them
 	* And Owen is capable of doing at least part of the engineering work of Chips. They need him.
 
+* [ ] Shakes arrives in the Gnat
+	* Herschel found him and told him which dock to meet them at
+
 * [ ] _The pursuing sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
-	* Possibly it followed Shakes in
+	* it followed Shakes in --- Shakes hadn't seen the sub with the ram since it stopped pursuing them.
+	* Hemi or Percy figures out the sub commanders must have picked Shakes up and guessed he would lead them back to the Prospect, followed Shakes quietly
+
+* [ ] _They scram out of the port_
+	* The Prospect follows Shakes out --- since he is lower and closer to the water he can see navigation signals better to find the main channel
+	* Maybe the bigger pursuing sub with the ram grounds out on shallows (partially because they are not being careful and smashing direct lines through the structures)
 
 
 ### Leave in a hurry; cruise down the continental shelf
 
-* [ ] _They scram out of the port, and cruise down the continental shelf just above the bottom so they can't be found._
+* [ ] _They cruise down the continental shelf just above the bottom so they can't be found._
 	* [ ] push it down beyond test depth
 	* [ ] Maybe THIS is the scary-deep rivet-popping section
 		* Now they pop a rivet or something, they are TOO deep, scarily deep.
-		* ...or maybe save the rivet-popping scary deep until they go down the continental shelf --- the deep scattering layer is sometimes well up above their test depth.
+		* ...or maybe save the rivet-popping scary deep until they go down the continental shelf 
 
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
@@ -493,6 +509,7 @@ Last modified: Thu Mar 18, 2021  06:09PM
 	* But this makes sonar less useful --- too many confusing contacts
 
 * [ ] _The pursuing sub is pursuing_
+	* See notes from draft2: this might be the place where they are shutting down the engine to listen every half hour?
 	* Cassandra hears them coming, knows what they sound like now
 		* She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
 	* Another drawn-out O'brian style chase scene?
@@ -500,6 +517,7 @@ Last modified: Thu Mar 18, 2021  06:09PM
 * [ ] _They come up with a plan. They mate with the Gnat._
 	* Maybe this is where Percy says 'get Shakes on the pigeon'
 	* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
+	* See notes from draft2: there's a few useful notes on the order of things here
 
 * [ ] _as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?_
 	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot

@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Mar 18, 2021  11:55AM
+Last modified: Fri Mar 19, 2021  02:33PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -110,11 +110,7 @@ Last modified: Thu Mar 18, 2021  11:55AM
 * [ ] make sure you only explain active sonar once
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] refer to bastian, gregory, and Owen as the 'deck crew'
-* [ ] do you gap a diesel engine spark plug?
-	* diesels use 'glow' plugs if I remember correctly
-	* this is when they are about to embark the depot
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
-* [ ] add 'straight pipe' to the description of Shakes' exhaust after upgrade
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 		* (Maybe be sure to always refer to it as "the tank control panel")
@@ -225,7 +221,7 @@ Last modified: Thu Mar 18, 2021  11:55AM
 		* So at some point, it should be _pulling_ them to the depths
 		* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
 		* The only way they survive in nature's cruelty is through their grimey machine, the submarine
-* [ ] consider changing Pylon City back to Stilt City --- it's more alliterative
+* [X] consider changing Pylon City back to Stilt City --- it's more alliterative
 * [ ] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
 * [ ] consider using 'nominal' to mean anything you want it to.
@@ -236,6 +232,12 @@ Last modified: Thu Mar 18, 2021  11:55AM
 		* Right now I think she reads more like the elder captain she will be in later stories
 		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
+* [X] do you gap a diesel engine spark plug?
+	* diesels use 'glow' plugs if I remember correctly
+	* this is when they are about to embark the depot
+	* no spark plugs in a diesel, the glow plugs are just for starting; when the engine warms up, compression alone ignites the fuel
+	* on a submarine, compressed air is used to turn the engine over to start it
+* [X] add 'straight pipe' to the description of Shakes' exhaust after upgrade
 
 
 ## Story elements specific to this story

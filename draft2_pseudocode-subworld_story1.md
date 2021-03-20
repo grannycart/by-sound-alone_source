@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Wed Mar 17, 2021  11:47AM
+Last modified: Fri Mar 19, 2021  11:20AM
 
 
 
@@ -679,11 +679,11 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 	* [ ] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
 * [ ] {they realize they have to risk going shallow to mate with the _Gnat_}
 * [ ] {Hemi goes off to work on his project.}
-* [ ] {They send Cass down to help out chips, but Cass just fucks things up}
-	* [ ] > "Fuck you doing?" Chips yelled?
-	* [ ] > "I'm sorry!" Cass said.
-	* [ ] > "God, that kid is fucking useless around tools. Said Percy."
-	* [ ] > "yeah, but those ears..." Said Hemi.
+* [-] {They send Cass down to help out chips, but Cass just fucks things up}
+	* [-] > "Fuck you doing?" Chips yelled?
+	* [-] > "I'm sorry!" Cass said.
+	* [-] > "God, that kid is fucking useless around tools. Said Percy."
+	* [-] > "yeah, but those ears..." Said Hemi.
 * [ ] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
 
 
@@ -706,9 +706,9 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 
 ### In port
 
-* [ ] {they arrive at their destination port and dock and unload}
-* [ ] {Percy decides the mines are useful enough she buys a few crates from the traders}
-* [ ] {some kind of minor twist to the ending? something dark? or comic?}
+* [-] {they arrive at their destination port and dock and unload}
+* [-] {Percy decides the mines are useful enough she buys a few crates from the traders}
+* [-] {some kind of minor twist to the ending? something dark? or comic?}
 
 
 ### {Alternate, more novel-like: they escape from the pursuers by some other means; get to port and drop off their cargo, but Hemi buys a crate of explosive mines; back in the empty sub cruising away feeling rich and safe, they have a cargo-deck bicycle race (see notes in shuttlebay); then they are picked up by the pursuing sub again, and are very bitter about it because they are empty now; and THEN they use the floating magnetic mine trick.}
