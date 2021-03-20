@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Mar 19, 2021  09:20PM
+Last modified: Sat Mar 20, 2021  11:23AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -414,7 +414,7 @@ Last modified: Fri Mar 19, 2021  09:20PM
 
 * [X] They send up Herschel to find Shakes
 
-* [ ] Chips confronts Hemi about Percy
+* [X] Chips confronts Hemi about Percy
 	* "Her stubborn nature is going to kill us all Hemi; just like she killed Gregory"
 	* "I was there too Chips, I don't think there is anything we could have done to save him."
 	* Chips tells Hemi she is leaving as soon as they hit the dock
@@ -466,6 +466,8 @@ Last modified: Fri Mar 19, 2021  09:20PM
 * [ ] _They scram out of the port_
 	* The Prospect follows Shakes out --- since he is lower and closer to the water he can see navigation signals better to find the main channel
 	* Maybe the bigger pursuing sub with the ram grounds out on shallows (partially because they are not being careful and smashing direct lines through the structures)
+	* the pursuing sub also probably has to fight its way out with the ECC Authority boats --- maybe the Prospect hears them being fired on.
+	* or maybe the ECC Authorities ALSO fire on the Prospect? They don't care or know who the good guys are, they just want to maintain order in their port.
 
 
 ### Leave in a hurry; cruise down the continental shelf

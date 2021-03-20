@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Fri Mar 19, 2021  04:18PM
+Last modified: Sat Mar 20, 2021  11:24AM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -2423,7 +2423,7 @@ Owen pulled the throttle controls backwards, and they felt a small acceleration 
 
 Hemi was too busy considering his options to respond though. He was counting seconds to himself, reckoning how much time there was until the _Prospect's_ bow was backed out from under the dock. As soon as he was sure they were clear, he leaned over Owen and put the throttle slightly into the forward position, waited until the boat slowed to nearly a stop and then backed off to no throttle. It was too dangerous to keep reversing --- there was no way to know if another boat was behind them. "Bastian, I need sea room --- some safe space to maneuver in."
 
-"Right Hemi, hang on!" A full minute passed. "It sounds like you can come about to 180, nobody moving directly to the south of us."
+"Right Boss, hang on!" A full minute passed. "It sounds like you can come about to 180, nobody moving directly to the south of us."
 
 "OK then, Owen, creep forward, port to 180 degrees." Hemi said. "Bastian, make sure we're not headed into anyone."
 
@@ -3586,7 +3586,7 @@ This was followed by a long string of regional control organizations, treaty cla
 
 "Close the hatch Hemi." Percy said.
 
-"I... I can't do that." Said Hemi.
+"I... I can not do that Sylvia." Said Hemi.
 
 "Fuck! We're going to be under in seconds!" She climbed up two rungs on the ladder to the bridge, reached up and pulled the hatch down without looking up, cutting off the echoing voice on the loudspeaking explicating an ever-expanding description of pyramidal powers. 
 
@@ -4174,8 +4174,53 @@ The fog lasted until dark, which was all they needed. The plunged into the settl
 
 ### Hemi and Chips conversation about Gregory
 
-Hemi kept the chart accurate with their position, the dashed like straight and true and rapidly growing in the direction of the continental coast with it's black mark showing the location of Stilt City. Around nightfall they had crossed from waters definitely controlled by the Consolidated States of the Archipelago Islands into the area that was contested by a number of different Authorities. With the fog lifted and the higher risk of Authority interference Percy put them back on 3 hour nighttime shifts and had them start keeping someone on lookout again.
+Hemi kept the chart accurate with their position, the dashed line straight and true and rapidly growing in the direction of the continental coast with its black dot showing the location of Stilt City. Around nightfall they had crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area that was contested by a number of different Authorities. With the fog lifted and the higher risk of Authority interference Percy put them back on 3 hour nighttime shifts and started keeping someone on lookout again.
 
-Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody except Owen had seen her since the late meal the night before. But with everyone taking a shift on lookout, she now ended up doing her turn in the lookout ring. At about that time Hemi was on the Bridge taking a siting from the stars with his sextant and updating their course. 
+[//]: # (middle-night: night 4, run to Stilt City)
+Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody except Owen had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived on the bridge a few minutes later, and climbed up into the lookout ring with binoculars in hand. It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take siting of some stars and get a solid fix on their course.
+
+Hemi looked up at Chips from the bridge. "I was not entirely sure you would show for your lookout shift Chips."
+
+"I'm a fucking professional Hemi. I may not be fucking happy about working on this fucking demon-infested boat, but I'm going to do the job I was fucking hired to do until we hit the fucking dock."
+
+"And then what?"
+
+"As soon as this fucking cursed boat bumps, I'm stepping the fuck off Hemi. And not looking the fuck back at all. If you had any fucking sense you'd be fucking leaving with me. The whole fucking crew should be leaving with me. How many fucking times do I have to be fucking pushed right up to the fucking edge of the abyss for my job? How many fucking times do I have to look fucking death in his cold and ugly fucking face? How many times do I have to watch people I fucking care about fall off that abyss Hemi?"
+
+"What happened with Gregory could not be helped Chips. I was there, Sylvia had to make a tough choice without a clearly correct answer, and she did. I regret what happened to Gregory, I really do, but this job is dangerous."
+
+"Don't you fucking defend that fucking twat with your fucking burden-of-command bullshit Hemi. This isn't a fucking war boat, it's a commercial fucking transport. She had plenty of fucking choices that could have ended with Gregory fucking alive. I'm all for moving cargo under the fucking attention of Authorities, but not at the fucking cost of people's fucking lives! She could have turned this fucking boat over to them. It's not like they would fucking execute us. We'd just be fucked back to land for a while. Eventually go the fuck back out on some other fucking boat. There's no fucking reason for anyone to fucking die!"
+
+"They fired at us first Chips. Gregory was probably hit in the first barrage."
+
+"But he wasn't fucking dead, was he Hemi? He was not fucking dead. And She fucking knew it --- we _all_ fucking knew it Hemi. And as soon as we did we should have aborted the fucking dive and saved fucking Gregory!"
+
+"You know she could never turn over this boat like that."
+
+"_That_ is why that's the fucking _hard_ call Hemi. That's the fucking burden of fucking command." Chips was fuming now breathing hard through her nostrils, barely able to keep the binocular raised, and repeatedly interrupting her scanning arc of the horizon and starting again. "You're guilty too Hemi. Don't fucking think this is all on fucking Percy. You could have easily aborted the dive."
+
+Hemi looked off at the ocean. "But I did not. I made the decision I did in the moment. Aborting the dive did not even occur to me. I did what I was supposed to do as the Deck Boss."
+
+"And that right fucking there is why I'm leaving this fucking boat Hemi. I respect you and I like working with you. But this boat is hers from bridge to keel, and she's a fucking stubborn piece of fucking dried shit that fouling the fucking air of my fucking life. Yours too. Fuck."
+
+Hemi looked through the sextant and adjusted it slowly and smoothly, watching the bright star in the finder fall from the sky to meet the rising black depths of the horizon line.
+
+
+### They enter Stilt City
+
+[//]: # (day: day 5, run to Stilt City)
+They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slow and deep under the remaining territory contested by multiple Authorities. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open transport in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years --- and was the same thing that led to the heavy contesting of the waters further out from the Collective's control.
+
+The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
+
+They passed a number of Collective enforcement ships holding station in an array around the protected waters as they made the run into the city. But, as was customary, those ships did not interfere with anyone who was not interfering with another ship. They were there to stop other Authorities from delaying or preventing transport into or out of their port. The policy here was that policing the transports themselves was a matter for the Authority forces on land.
+
+The moniker 'Stilt City' might have been somewhat pejorative, but it was accurate. It was built on a vast river delta which rapidly attenuated the big ocean rollers down to calm, flat, and brown water. The structures built on pylons began to appear in places where the water was still dozens of meters deep, the buildings teetering atop these artificial underwater forests of regularly-spaced trees placed by the work of human hands. It was hard not have the vision of circus performers striding around on tall stilts.
+
+The _Prospect_ floated into the main channel into the city, nearly a nautical mile wide. The furthest-out stilted structures at this point popped up in clumps in the distance on both sides of the main channel. The rapid growth of Stilt City had come with wealth, but it did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of consuming fire and the axe blade. The most common craft, of which there must have been thousands, was an angular homebuilt wooden boat, driven either by singular canvas sails taught on rough wood masts and booms, or long thin oars that were used to row the boats in deep waters and pole the boats in shallower waters.
+
+Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people were trading goods across the hulls.
+
+As the _Prospect_ made its way up the main channel, it got more and more dense with sea craft. They reduced speed to 3 knots and crawled along through the seemingly still water with no wake. Though the stillness belied the powerful slow current that carried massive amounts of freshwater far out to sea.
 
 

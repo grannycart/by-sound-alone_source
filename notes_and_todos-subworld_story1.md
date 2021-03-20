@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri Mar 19, 2021  02:33PM
+Last modified: Sat Mar 20, 2021  10:34AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -109,6 +109,7 @@ Last modified: Fri Mar 19, 2021  02:33PM
 	* https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049
 * [ ] make sure you only explain active sonar once
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
+* [ ] have the junior crew call hemi 'boss'
 * [ ] refer to bastian, gregory, and Owen as the 'deck crew'
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
