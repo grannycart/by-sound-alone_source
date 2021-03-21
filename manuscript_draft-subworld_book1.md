@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sat Mar 20, 2021  11:24AM
+Last modified: Sun Mar 21, 2021  12:43PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -4209,18 +4209,69 @@ Hemi looked through the sextant and adjusted it slowly and smoothly, watching th
 ### They enter Stilt City
 
 [//]: # (day: day 5, run to Stilt City)
-They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slow and deep under the remaining territory contested by multiple Authorities. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open transport in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years --- and was the same thing that led to the heavy contesting of the waters further out from the Collective's control.
+They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slow and deep under the remaining contested territory. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open transport in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
 
 The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
 
 They passed a number of Collective enforcement ships holding station in an array around the protected waters as they made the run into the city. But, as was customary, those ships did not interfere with anyone who was not interfering with another ship. They were there to stop other Authorities from delaying or preventing transport into or out of their port. The policy here was that policing the transports themselves was a matter for the Authority forces on land.
 
-The moniker 'Stilt City' might have been somewhat pejorative, but it was accurate. It was built on a vast river delta which rapidly attenuated the big ocean rollers down to calm, flat, and brown water. The structures built on pylons began to appear in places where the water was still dozens of meters deep, the buildings teetering atop these artificial underwater forests of regularly-spaced trees placed by the work of human hands. It was hard not have the vision of circus performers striding around on tall stilts.
+The moniker 'Stilt City' might have been somewhat pejorative, but it was accurate. It was built on a vast river delta which rapidly attenuated the big ocean rollers down to calm, flat, and brown water. The structures built on pylons began to appear as far out into the ocean as places where the water was still dozens of meters deep. The buildings teetered atop these artificial underwater forests of regularly-spaced trees placed by the work of human hands. It was hard not have the vision of circus performers striding around them on tall stilts.
 
-The _Prospect_ floated into the main channel into the city, nearly a nautical mile wide. The furthest-out stilted structures at this point popped up in clumps in the distance on both sides of the main channel. The rapid growth of Stilt City had come with wealth, but it did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of consuming fire and the axe blade. The most common craft, of which there must have been thousands, was an angular homebuilt wooden boat, driven either by singular canvas sails taught on rough wood masts and booms, or long thin oars that were used to row the boats in deep waters and pole the boats in shallower waters.
+The _Prospect_ floated into the main channel going into the city, nearly a nautical mile wide. The furthest-out stilted structures at this point popped up in clumps in the distance on both sides of the main channel. 
 
-Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people were trading goods across the hulls.
+The rapid growth of Stilt City had brought wealth in, but it did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of consuming fire and the axe blade. The most common craft, of which there must have been thousands, was an angular homebuilt wooden boat, driven either by singular canvas sails taught on rough wood masts and booms or by long thin oars that were used to row the boats in deep waters and pole the boats through shallower waters.
 
-As the _Prospect_ made its way up the main channel, it got more and more dense with sea craft. They reduced speed to 3 knots and crawled along through the seemingly still water with no wake. Though the stillness belied the powerful slow current that carried massive amounts of freshwater far out to sea.
+Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people were trading goods across the networks of hulls.
+
+As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. They reduced speed to 3 knots and crawled along through the seemingly still water with no wake, though the stillness belied the powerful slow current that carried massive amounts of freshwater far out to sea. 
+
+Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that seemed to swarm around them. He called maneuvers down through the hatch to Owen and Bastian who sat at the controls.
+
+"So this entire place is built on stilts?" Asked Cassandra
+
+"That's why they call it Stilt City." Said Percy.
+
+"Again, 'they' does not include the locals who actually live here." Hemi corrected. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land. Many cities around the world are built on swamps because that's where the large rivers meet the sea, and that is where major ports come together. In richer places, they drain the swamps to get to dry land under them. Here, they found it more economical to just build above the water line on stilts, at least in recent years."
+
+"All these structures don't get washed away in storms?" Cassandra asked.
+
+"The river delta makes the water very shallow deep into the ocean. Most of the construction is built far enough up the delta that the waves of the ocean are completely flattened. But... there are many who worry that a really big storm could wipe the entire thing out. The residents here may simply be lucky that it has not happened yet."
+
+"Where does all the material for building come from?"
+
+"Mostly the cut it down on shore and then float it out. That is why everything is made of wood. I do think they sometimes pull sunken waterlogged trees up from the bottom though."
+
+The channel began to narrow, pushing the sea craft using it together. Hemi steered the _Prospect_ so that it took advantage of a path carved through the smaller craft by a huge oiler making its way slowly up the channel in front of them. On either side of the channel the structures raised on pylons above the water grew denser. In places there were masses of small thatched-roof huts, with walls made of thin rotting wood panels and the roofs of cut and dried shore grasses. There were dozens of huts clumped together, as if they gained strength to stand on their wobbling stilts by leaning against each other. Between the clumps ran narrow channels of dark water, in many places only passable by the smallest of the boats that traversed back and forth across Stilt City. Those narrow channels would feed into slightly larger winding passages that let residents access homes that were buried deep in the dense clumps of development.
+
+Every so often the masses of huts were broken up by a large access channel running off the main channel. Around these access channels most of the commercial trade had risen up, which had led to the building of long docks and piers and more substantial warehouses and larger building propped up on stilts. The fancier buildings had paid the extra cost to ship out and install steel roofs. The big steel cargo and transport ships would make their way into these access channels and dock against the flimsy, leaning piers of crunching wood that barely seemed able to keep the big ships immobile --- and perhaps would not have at all if the waters were not so still. The cargo was unloaded onto these docks and from there moved off to its destination by local labor: either into the warehouses, onto another cargo ship, or dispersed around Stilt City or onto the mainland.
+
+As they pushed their way slowly up the main channel and deeper and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the dock we are supposed to unload at in all this mess?"
+
+"There is a system to the dock numbers." Said Hemi. "I am fairly certain that we are moving in the right direction. However the system is complex and poorly maintained. We shall have to ask for some guidance at some point."
+
+Percy asked Cassandra to use the binoculars to scout out the hand-painted signs that indicated the dock numbers accessible from each access channel they passed, and report them to Hemi. The descending order of the dock numbers reassured Captain Percy somewhat, but she would have been much more satisfied with a quality chart of the many passages and byways of Stilt City.
+
+The open lane of the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships knowing that the big ships were far less maneuverable and took much longer to stop. But a ship making its way up the channel still had a bit of a job clearing a path, whereas very few local boats would try to cut between two ships moving up the channel. One did though. A small dugout canoe, that moved very slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no way it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man rowing the dug out kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down to Owen to reverse thrust and bring the _Prospect_ to a stop. The man in the canoe angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect's_ hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a ring while holding his canoe still with the other. He looped a painter from the canoe around one of the step rings so it could not get away and then shimmied up the handholds to the deck.
+
+"'Hoy there! Do you need a pilot?" He shouted up to the bridge of the sail as he continued to move towards them. "I can bring your sub marine in to wherever you're goin'. I know all the ways and docks around here. Make sure ya don't ground --- the water is very suddenly shallow in many places."
+
+Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fairing to join them.
+
+"Name's Ang Sturm. Friends and clients call me Sturmy --- at least the ones who can pronounce it like that."
+
+"Nice to meet you Sturmy." Said Hemi. "We were in fact just thinking that we may need some guidance to our dock. Here's our dock number." Hemi handed over a small piece of paper with a long number separated into sections by dashes on it. "Can you get us there?"
+
+The man looked it over. "Sure. That's no great way from here."
+
+"Have you ever piloted a submarine before Sturmy?" Percy asked. "It's not totally like surface ships."
+
+"Abso-fucking-lutely. I piloted lots of sub marines through these waters." He said 'sub marine' like it was two separate words. "I even had my pilot's license --- back when they used to issue them."
+
+* Sturmy takes them into one of the commercial channels
+* and then into an even smaller channel off that; it goes in among a mixed residential huts and low, beaten commercial docks neighrborhood.
+* the water goes very shallow, Bastian warns them of the depth-under-keel gauge
+* they ground out
+* Percy starts to get angry at Sturmy, but Sturmy asks them to blow out the tanks completely, get them a few more inches. Hemi agrees.
+
 
 

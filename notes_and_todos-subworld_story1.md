@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Mar 20, 2021  10:34AM
+Last modified: Sun Mar 21, 2021  12:15PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -73,6 +73,7 @@ Last modified: Sat Mar 20, 2021  10:34AM
 	* Are the names (both boats and people) ok?
 	* Is there anything offensive that I'm not recognizing?
 * [ ] do a search for 'ly' and remove any useless adverbs. Maybe 'that' too.
+* [ ] does 'transport' indicate the transport of people? Should you more rigorously use 'cargo ship'?
 * [ ] find and make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
