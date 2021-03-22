@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Mar 21, 2021  12:15PM
+Last modified: Mon Mar 22, 2021  05:00PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -73,12 +73,9 @@ Last modified: Sun Mar 21, 2021  12:15PM
 	* Are the names (both boats and people) ok?
 	* Is there anything offensive that I'm not recognizing?
 * [ ] do a search for 'ly' and remove any useless adverbs. Maybe 'that' too.
-* [ ] does 'transport' indicate the transport of people? Should you more rigorously use 'cargo ship'?
 * [ ] find and make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
-* [X] maybe say somewhere that they should think about installing a snorkel?
-	* (So sub nerds who read the book understand that they don't have one)
 * [ ] move section headers to .md comments; create chapter breaks
 * [ ] find 'map' replace with 'chart'
 * [ ] find 'floor' should be 'deck'
@@ -147,17 +144,6 @@ Last modified: Sun Mar 21, 2021  12:15PM
 	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
 		* and Percy is NOT always right, just most of the time.
-* [X] Sort out the accent for Chips
-	* like feckin instead of fuckin
-	* make it more lady-like: imagine an Irish farmer's wife with a foul tongue.
-	* Maybe it's just something simple and non-specific, using compounds, or dropped h's or something
-	* maybe it's too star treky cliche to have an engineer with an accent?
-	* The name Chips doesn't feel like it's working
-* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
-	* Chips: curses all the time
-	* Shakes: a lot
-	* Percy: When she's pissed
-	* Hemi: never
 * [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 * [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
@@ -177,11 +163,8 @@ Last modified: Sun Mar 21, 2021  12:15PM
 * [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
 * [ ] The Gnat has only singular diesel engine; while the Prospect is always running multiple diesel engines
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
-* [X] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
-	* No, it would flood at 2 atmospheres (bottom of the boat) see: https://www.quora.com/What-is-the-air-pressure-in-a-submarine
 * [ ] find and remove 'inches' and 'feet' references
 * [ ] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
-* [X] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
 * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the ramming sub's captain's wife.
@@ -223,7 +206,6 @@ Last modified: Sun Mar 21, 2021  12:15PM
 		* So at some point, it should be _pulling_ them to the depths
 		* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
 		* The only way they survive in nature's cruelty is through their grimey machine, the submarine
-* [X] consider changing Pylon City back to Stilt City --- it's more alliterative
 * [ ] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
 * [ ] consider using 'nominal' to mean anything you want it to.
@@ -234,12 +216,30 @@ Last modified: Sun Mar 21, 2021  12:15PM
 		* Right now I think she reads more like the elder captain she will be in later stories
 		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
+* [X] maybe say somewhere that they should think about installing a snorkel?
+	* (So sub nerds who read the book understand that they don't have one)
 * [X] do you gap a diesel engine spark plug?
 	* diesels use 'glow' plugs if I remember correctly
 	* this is when they are about to embark the depot
 	* no spark plugs in a diesel, the glow plugs are just for starting; when the engine warms up, compression alone ignites the fuel
 	* on a submarine, compressed air is used to turn the engine over to start it
 * [X] add 'straight pipe' to the description of Shakes' exhaust after upgrade
+* [X] does 'transport' indicate the transport of people? Should you more rigorously use 'cargo ship'?
+* [X] consider changing Pylon City back to Stilt City --- it's more alliterative
+* [X] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
+* [X] Is the moon pool thing where they mate with the Gnat right? Wouldn't it be two atmospheres at the bottom of the Prospect (roughly 30 feet down), and already ruining the moon pool effect, at least without increasing the pressure in the Prospect? Or does the Prospect run slightly pressurized in general as a safety measure?
+	* No, it would flood at 2 atmospheres (bottom of the boat) see: https://www.quora.com/What-is-the-air-pressure-in-a-submarine
+* [X] Sort out the accent for Chips
+	* like feckin instead of fuckin
+	* make it more lady-like: imagine an Irish farmer's wife with a foul tongue.
+	* Maybe it's just something simple and non-specific, using compounds, or dropped h's or something
+	* maybe it's too star treky cliche to have an engineer with an accent?
+	* The name Chips doesn't feel like it's working
+* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
+	* Chips: curses all the time
+	* Shakes: a lot
+	* Percy: When she's pissed
+	* Hemi: never
 
 
 ## Story elements specific to this story

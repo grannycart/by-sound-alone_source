@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sun Mar 21, 2021  12:43PM
+Last modified: Mon Mar 22, 2021  05:31PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -245,7 +245,7 @@ It was hopeless though. The water level in the cargo hold was rising more slowly
 
 "Ah, fuckin' smartest thing ya said yet this day. This course we're pursuing right now is on trackway to the gates a' Hell."
 
-Blowing the tanks was an emergency maneuver. It meant opening the valves that would allow air to flow through the rusty old pipes of the ship and push into the tops of the main ballast tanks. The air forced in the top of the tanks would push water out the bottom. When enough water was forced out, the huge bubbles of damp greasy air would rapidly raise the submarine up to the surface, like a child being gripped in the armpits and tossed up into the air. Fully blowing out the tanks was only ever done in emergencies and drills, and drills were few and far between on a transport sub like the _Prospect_. It put stresses on the old boat that she was designed to handle --- when she was built more than 20 years ago.
+Blowing the tanks was an emergency maneuver. It meant opening the valves that would allow air to flow through the rusty old pipes of the ship and push into the tops of the main ballast tanks. The air forced in the top of the tanks would push water out the bottom. When enough water was forced out, the huge bubbles of damp greasy air would rapidly raise the submarine up to the surface, like a child being gripped in the armpits and tossed up into the air. Fully blowing out the tanks was only ever done in emergencies and drills, and drills were few and far between on a cargo sub like the _Prospect_. It put stresses on the old boat that she was designed to handle --- when she was built more than 20 years ago.
 
 
 ### Hemi blows the tanks
@@ -654,7 +654,7 @@ Inside the sub, Captain Percy joined Hemi at the navigation table.
 
 "We'll just have to hope we don't meet most folks then."
 
-She took a couple of steps back to look up through the hatch into the control room and see how Bastian was doing with his work towards that goal. He had one stick-arm up in the air, adjusting some dials on the radio mounted in the ceiling of the control room. His other hand held the mic that was attached by a curling black wire to the radio. He was giving out mayday requests on a couple of different frequencies known to be monitored by other independent shipping operators like themselves --- both legitimate transporters and smugglers. Those frequencies were also monitored by Authority vessels that might be engaged in policing shipping and transport traffic. 
+She took a couple of steps back to look up through the hatch into the control room and see how Bastian was doing with his work towards that goal. He had one stick-arm up in the air, adjusting some dials on the radio mounted in the ceiling of the control room. His other hand held the mic that was attached by a curling black wire to the radio. He was giving out mayday requests on a couple of different frequencies known to be monitored by other independent shipping operators like themselves --- both legitimate cargo haulers and smugglers. Those frequencies were also monitored by Authority vessels that might be engaged in policing shipping and transport traffic. 
 
 "Anything Bastian?"
 
@@ -723,9 +723,9 @@ Captain Percy took down the mic from the radio and brought it to her lips. She p
 
 Then a crackly male voice came over the radio. "I see you over there, you hulking ugly gray submarine. And I guess you know I'm here. Why are ya sittin' on the damned surface, and what ya want with me?"
 
-Percy hesitated, and then transmitted back. "Well, first let me state flat out that we're nothing but a transport sub. And we're unarmed. Second, we've been severely damaged, and swam through an icy hell to get back to the surface. We're out of fuel and extremely low on power. Long and short is that we're in some desperate need of help, and you are the only contact we've seen in these waters."
+Percy hesitated, and then transmitted back. "Well, first let me state flat out that we're nothing but a cargo sub. And we're unarmed. Second, we've been severely damaged, and swam through an icy hell to get back to the surface. We're out of fuel and extremely low on power. Long and short is that we're in some desperate need of help, and you are the only contact we've seen in these waters."
 
-Another moment passed. "Yea. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered a-holes who seem more interested in shooting down transports than letting any commerce commence. It's a bad place to be not moving and on the surface."
+Another moment passed. "Yea. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered a-holes who seem more interested in shooting down cargo boats than letting any commerce commence. It's a bad place to be not moving and on the surface."
 
 "Not movin' is hardly typical for us. What are you sitting on there? We don't see any ship in the scope. Any assistance you can offer would be much appreciated."
 
@@ -1337,7 +1337,7 @@ To conserve fuel they started only one of the _Prospect's_ multiply redundant di
 
 Captain Percy insisted everyone who wasn't doing something actively should be in the rack, and Chips, Shakes, and Hemi didn't argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. They shut down the sonar figuring with the diesel running they wouldn't be able to hear anything until it was too close to do anything about it anyway, considering they couldn't dive or really perform any other evasive maneuver.
 
-But Percy put Own on radar. It would be just stupid to run into a fleet of Authority surface enforcement ships. So Owen sat in the dark with his eye on the glowing radar screen, going a little insane watching it circle around endlessly and reflecting back nothing.
+But Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface enforcement ships. So Owen sat in the dark with his eye on the glowing radar screen, going a little insane watching it circle around endlessly and reflecting back nothing.
 
 Percy made them all drink two cups of coffee, which she fixed for them in the dark by the light of a penlight.
 
@@ -1596,7 +1596,7 @@ Hemi nodded. "So if it's the same sub, which seems likely, it seems very _unlike
 
 "I had the same thought." Said Shakes. "But I didn't want to put my fucking nose into your business, just as I wouldn't want you askin' about mine. But since yer asking Hemi..."
 
-"It does seem odd. We're just a transport." Percy said, looking steadily at Shakes. "We're always being harassed by various Authorities in general-like ways. But who among them has the inclination to _pursue_ a transport sub? We're small potatoes by any measure you care to put to it. They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, fucking business."
+"It does seem odd. We're just a cargo sub." Percy said, looking steadily at Shakes. "We're always being harassed by various Authorities in general-like ways. But who among them has the inclination to _pursue_ a cargo sub? We're small potatoes by any measure you care to put to it. They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, fucking business."
 
 "And we are the commerce." Said Shakes.
 
@@ -1619,7 +1619,7 @@ The silence settled back in on them. Captain Percy lit up yet another cigarillo 
 
 "Naw!" Said Shakes. "Course not. The depot is for, uh, discreet operations. It's entirely underwater, built into the side of the seamount."
 
-"Ah." Said Percy. It was totally normal to build part of a depot that handled sensitive cargo underwater to keep Authority eyes off comings and goings. But usually there was a small surface component too for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care required to work underwater fittings when it was possible to do so. But she could see how if a depot were located close to the border between two very aggressive Authorities, as this one was, it was clearly logical to keep the whole operation off the surface. On the other hand, it also meant these might be rougher and less agreeable characters than the typical scum they dealt with in the submarine transport industry.
+"Ah." Said Percy. It was totally normal to build part of a depot that handled sensitive cargo underwater to keep Authority eyes off comings and goings. But usually there was a small surface component too for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care required to work underwater fittings when it was possible to do so. But she could see how if a depot were located close to the border between two very aggressive Authorities, as this one was, it was clearly logical to keep the whole operation off the surface. On the other hand, it also meant these might be rougher and less agreeable characters than the typical scum they dealt with in the submarine cargo industry.
 
 "So, how do we..." Percy started to ask.
 
@@ -1653,7 +1653,7 @@ Percy picked up the ship-to-ship mic and raised the docking control office, now 
 [//]: # (Not sure how much you want to get into visual description of exteriors in the next graf. Might be more interesting to only describe it from the inside.)
 The docking bay was located about 20 meters down underwater. It was typical underwater docking bay for cargo --- a long cylindrical tube of curved and welded plate steel. It stuck 100 meters out of the side of the seamount and was supported by a hazardous and seemingly randomly placed array of bracing bars that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking a wide variety of sizes and orientations of cargo subs. There were between a dozen and two dozen slips, and maybe half of them had submarines docked at them already, arranged at various angles, like leeches with orifices sucking at a giant limb.
 
-The _Prospect_ followed the sonar beacon to docking slip four, which located on the bottom of the docking bay tube. It was the largest size slip this depot had available --- or even widely used in the transport sub industry. It was something of a standard size for large cargo hold hatches. They carefully eased the _Prospect_ up under slip four, it until the big cargo hatch on the deck came up under the docking slip and connected to it --- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
+The _Prospect_ followed the sonar beacon to docking slip four, which located on the bottom of the docking bay tube. It was the largest size slip this depot had available --- or even widely used in the cargo sub industry. It was something of a standard size for large cargo hold hatches. They carefully eased the _Prospect_ up under slip four, it until the big cargo hatch on the deck came up under the docking slip and connected to it --- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
 
 Hemi went down to the cargo hold, and walked hunched-over out across the catwalk that hung a short way down from the ceiling to the cargo hatch. He picked up a rubber mallet that was left hanging on some hooks by the catwalk for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gong sound. He waited a few second and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whirr of an electric pump sucking the residual water out of the slip well, and then a few minutes later came the answering pounding on the _Prospect's_ cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
 
@@ -2014,7 +2014,7 @@ Percy nodded. "Something like that has always been my strategy too. But for this
 
 "Naw. Surface craft are useless. The authorities know how to split their monitoring for a surface vessel and a submerged one. It has to be something that could be mistaken on sonar for the _Prospect_. Possibly a boat like the _Gnat_."
 
-Shakes swallowed. "Interesting. So you want me to juice up the _Gnat_ so it sounds like it could be a big ol' fuckin' transport sub, and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
+Shakes swallowed. "Interesting. So you want me to juice up the _Gnat_ so it sounds like it could be a big ol' fuckin' cargo sub, and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
 
 "Or maybe _not_ get caught... you said the _Gnat_ was fast, right? You could outrun them when they started pursuing you... and at the same time lead them away from the _Prospect_."
 
@@ -2069,7 +2069,7 @@ Percy considered. "OK... she oversees the repairs, we pay her up to date, and _t
 
 "Speaking of work, the other reason we need to re-hire her is I fell into a plum job for use up on there on the exchange floor. For the moment, we're flush."
 
-"Yeah?" Said Hemi skeptically, knowing that a transport job that paid well was unlikely to be easy or safe.
+"Yeah?" Said Hemi skeptically, knowing that a cargo job that paid well was unlikely to be easy or safe.
 
 "Yeah. We've also got some free advice to be out of here in 48 hours." She handed him the leather satchel full of coins. "Here's the money. You know how this goes. Spend what you have to to get us out of here quickly."
 
@@ -2238,7 +2238,7 @@ Hemi looked up from his clipboard and sized Cassandra up for a moment. "Well, I 
 
 Cassandra made her way up to them, working her way through the remaining crates.
 
-"Cassandra." Said Percy. "I'm glad you made it. This is Hemi, Deck Boss, First Mate, Navigator, crew trainer, whatever else needs to be done. Basically he's the one who does all the work."
+"Cassandra." Said Percy. "I'm glad you made it. This is Hemi Howell, Deck Boss, First Mate, Navigator, crew trainer, whatever else needs to be done. Basically he's the one who does all the work."
 
 "Nice to meet you Hemi." Cassandra said politely. Percy could have sworn if she were wearing a skirt and unburdened by all the possessions she owned she would have curtsied.
 
@@ -3118,7 +3118,7 @@ Shakes grinned at the thought of hot meals. "What happens if someone comes up on
 
 "OK, just remember if you take the _Gnat_ down with you, I'll have nothing but a crushed beer can for a boat." He scribbled a few notes. "What about sub with the ram and those guys who were after you? What if they are still following you?"
 
-"I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed transport sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
+"I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed cargo sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
 "I have no idea." Said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to observe any of that."
 
@@ -3134,7 +3134,7 @@ Percy nodded.
 
 Shakes stopped by the galley to take a refill of coffee with him, and disappeared into the bowels of the _Prospect_ and back aboard the _Gnat_. He got the _Gnat_ off and surfaced while the _Prospect_ dove down to 100 meters where Percy was more comfortable with the cover of ocean above her.
 
-The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with it's diesel emitting a long belch of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_, and at the slower speed the _Gnat_ wasn't overwhelmingly loud, about the same as an average surface transport ship. That was to their benefit because Authority enforcement craft were less likely to pursed a target that seemed like a surface transport ship --- at least during the day --- since anything on the surface was likely to be moving with the full blessing of the Authority.
+The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with it's diesel emitting a long belch of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_, and at the slower speed the _Gnat_ wasn't overwhelmingly loud, about the same as an average surface cargo ship. That was to their benefit because Authority enforcement craft were less likely to pursed a target that seemed like a surface cargo ship --- at least during the day --- since anything on the surface was likely to be moving with the full blessing of the Authority.
 
 Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. The two boats droned their way across the curve of the globe, and the only thing that changed was the sun slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
 
@@ -4189,7 +4189,7 @@ Hemi looked up at Chips from the bridge. "I was not entirely sure you would show
 
 "What happened with Gregory could not be helped Chips. I was there, Sylvia had to make a tough choice without a clearly correct answer, and she did. I regret what happened to Gregory, I really do, but this job is dangerous."
 
-"Don't you fucking defend that fucking twat with your fucking burden-of-command bullshit Hemi. This isn't a fucking war boat, it's a commercial fucking transport. She had plenty of fucking choices that could have ended with Gregory fucking alive. I'm all for moving cargo under the fucking attention of Authorities, but not at the fucking cost of people's fucking lives! She could have turned this fucking boat over to them. It's not like they would fucking execute us. We'd just be fucked back to land for a while. Eventually go the fuck back out on some other fucking boat. There's no fucking reason for anyone to fucking die!"
+"Don't you fucking defend that fucking twat with your fucking burden-of-command bullshit Hemi. This isn't a fucking war boat, it's a commercial fucking cargo sub. She had plenty of fucking choices that could have ended with Gregory fucking alive. I'm all for moving cargo under the fucking attention of Authorities, but not at the fucking cost of people's fucking lives! She could have turned this fucking boat over to them. It's not like they would fucking execute us. We'd just be fucked back to land for a while. Eventually go the fuck back out on some other fucking boat. There's no fucking reason for anyone to fucking die!"
 
 "They fired at us first Chips. Gregory was probably hit in the first barrage."
 
@@ -4201,7 +4201,7 @@ Hemi looked up at Chips from the bridge. "I was not entirely sure you would show
 
 Hemi looked off at the ocean. "But I did not. I made the decision I did in the moment. Aborting the dive did not even occur to me. I did what I was supposed to do as the Deck Boss."
 
-"And that right fucking there is why I'm leaving this fucking boat Hemi. I respect you and I like working with you. But this boat is hers from bridge to keel, and she's a fucking stubborn piece of fucking dried shit that fouling the fucking air of my fucking life. Yours too. Fuck."
+"And that right fucking there is why I'm leaving this fucking boat Hemi. I respect you Hemi Howell, and I like working with you. But this boat is hers from bridge to keel, and she's a fucking stubborn piece of fucking dried shit that fouling the fucking air of my fucking life. Yours too. Fuck."
 
 Hemi looked through the sextant and adjusted it slowly and smoothly, watching the bright star in the finder fall from the sky to meet the rising black depths of the horizon line.
 
@@ -4209,11 +4209,11 @@ Hemi looked through the sextant and adjusted it slowly and smoothly, watching th
 ### They enter Stilt City
 
 [//]: # (day: day 5, run to Stilt City)
-They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slow and deep under the remaining contested territory. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open transport in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
+They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slow and deep under the remaining contested territory. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
 
 The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
 
-They passed a number of Collective enforcement ships holding station in an array around the protected waters as they made the run into the city. But, as was customary, those ships did not interfere with anyone who was not interfering with another ship. They were there to stop other Authorities from delaying or preventing transport into or out of their port. The policy here was that policing the transports themselves was a matter for the Authority forces on land.
+They passed a number of Collective enforcement ships holding station in an array around the protected waters as they made the run into the city. But, as was customary, those ships did not interfere with anyone who was not interfering with another ship. They were there to stop other Authorities from delaying or preventing cargo moving into or out of their port. The policy here was that policing the cargo boats themselves was a matter for the Authority forces on land.
 
 The moniker 'Stilt City' might have been somewhat pejorative, but it was accurate. It was built on a vast river delta which rapidly attenuated the big ocean rollers down to calm, flat, and brown water. The structures built on pylons began to appear as far out into the ocean as places where the water was still dozens of meters deep. The buildings teetered atop these artificial underwater forests of regularly-spaced trees placed by the work of human hands. It was hard not have the vision of circus performers striding around them on tall stilts.
 
@@ -4245,33 +4245,116 @@ The channel began to narrow, pushing the sea craft using it together. Hemi steer
 
 Every so often the masses of huts were broken up by a large access channel running off the main channel. Around these access channels most of the commercial trade had risen up, which had led to the building of long docks and piers and more substantial warehouses and larger building propped up on stilts. The fancier buildings had paid the extra cost to ship out and install steel roofs. The big steel cargo and transport ships would make their way into these access channels and dock against the flimsy, leaning piers of crunching wood that barely seemed able to keep the big ships immobile --- and perhaps would not have at all if the waters were not so still. The cargo was unloaded onto these docks and from there moved off to its destination by local labor: either into the warehouses, onto another cargo ship, or dispersed around Stilt City or onto the mainland.
 
+
+### They hire Sturmey, the pilot
+
 As they pushed their way slowly up the main channel and deeper and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the dock we are supposed to unload at in all this mess?"
 
 "There is a system to the dock numbers." Said Hemi. "I am fairly certain that we are moving in the right direction. However the system is complex and poorly maintained. We shall have to ask for some guidance at some point."
 
 Percy asked Cassandra to use the binoculars to scout out the hand-painted signs that indicated the dock numbers accessible from each access channel they passed, and report them to Hemi. The descending order of the dock numbers reassured Captain Percy somewhat, but she would have been much more satisfied with a quality chart of the many passages and byways of Stilt City.
 
-The open lane of the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships knowing that the big ships were far less maneuverable and took much longer to stop. But a ship making its way up the channel still had a bit of a job clearing a path, whereas very few local boats would try to cut between two ships moving up the channel. One did though. A small dugout canoe, that moved very slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no way it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man rowing the dug out kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down to Owen to reverse thrust and bring the _Prospect_ to a stop. The man in the canoe angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect's_ hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a ring while holding his canoe still with the other. He looped a painter from the canoe around one of the step rings so it could not get away and then shimmied up the handholds to the deck.
+The open lane of the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships knowing that the big ships were far less maneuverable and took much longer to stop. But a ship making its way up the channel still had a bit of a job clearing a path, whereas very few local boats would try to cut between two ships moving up the channel. One did though. A small dugout canoe, that moved very slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no way it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man rowing the dug out kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down to Bastian to reverse thrust and bring the _Prospect_ to a stop. The man in the canoe angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect's_ hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a ring while holding his canoe still with the other. He looped a painter from the canoe around one of the step rings so it could not get away and then shimmied up the handholds to the deck.
 
-"'Hoy there! Do you need a pilot?" He shouted up to the bridge of the sail as he continued to move towards them. "I can bring your sub marine in to wherever you're goin'. I know all the ways and docks around here. Make sure ya don't ground --- the water is very suddenly shallow in many places."
+"'Hoy there! Do you need a pilot?" He shouted up to the bridge of the sail as he continued to move towards them. "I can bring your sub marine in to wherever. I know all the ways and docks around here. Make sure you don't ground --- the water is very suddenly shallow in many places."
 
-Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fairing to join them.
+Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fairing to join them. He was a small, thin man with the leathery skin all the older local residents were developing after spending all their adult working years on the open water. He was wearing an oddly fitted and worn three-piece wool suit into which he was sweating profusely after climbing up the sail.
 
-"Name's Ang Sturm. Friends and clients call me Sturmy --- at least the ones who can pronounce it like that."
+"Name's Sturmey Lom Ang. Friends and clients call me Sturmey --- at least the ones who can pronounce it like that."
 
-"Nice to meet you Sturmy." Said Hemi. "We were in fact just thinking that we may need some guidance to our dock. Here's our dock number." Hemi handed over a small piece of paper with a long number separated into sections by dashes on it. "Can you get us there?"
+Hemi introduced the crew on the bridge, then presented the issue they were facing to Sturmy. "We were in fact just thinking that we may need some guidance to our dock. Here's our dock number." Hemi handed over a small piece of paper with a long number broken up by dashes on it. "Can you get us there?"
 
 The man looked it over. "Sure. That's no great way from here."
 
-"Have you ever piloted a submarine before Sturmy?" Percy asked. "It's not totally like surface ships."
+"Have you ever piloted a submarine before Sturmey?" Percy asked. "It's not totally like surface ships."
 
-"Abso-fucking-lutely. I piloted lots of sub marines through these waters." He said 'sub marine' like it was two separate words. "I even had my pilot's license --- back when they used to issue them."
+"Abso fucking lutely. I piloted lots of sub marines in and out." He pronounced 'sub marine' like it was two separate words. "I even had my pilot's license --- back when they used to issue them."
 
-* Sturmy takes them into one of the commercial channels
-* and then into an even smaller channel off that; it goes in among a mixed residential huts and low, beaten commercial docks neighrborhood.
-* the water goes very shallow, Bastian warns them of the depth-under-keel gauge
-* they ground out
-* Percy starts to get angry at Sturmy, but Sturmy asks them to blow out the tanks completely, get them a few more inches. Hemi agrees.
+"How much money does it cost?" Hemi Asked.
+
+"Depends on what kind of money you have."
+
+"Coin." Said Percy, showing him one from her pocket.
+
+"10 coin. Both in and out, if you go back out today."
+
+Hemi agreed and paid him right there. Sturmey made a move to go retrieve his canoe, but Hemi asked Cassandra to do it while he showed Sturmey the control room. Even though Bastian and Owen would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
+
+Sturmey took over command of the _Prospect_, standing on the bridge and with borrowed binoculars reading the numbers of the channels and water lanes they passed by. After a quarter mile or so he had Bastian bring the bow around and without slowing speed and with a great deal of confidence plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
+
+They passed along this narrow channel for a long way through a more residential area with densely clustered huts on either side, the gentle wake from the passing ship washing up under and smacking against the floorboards. In places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were passing close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children took any interest in the passing submarine.
+
+Captain Percy was beginning to find it hard to imagine how their could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sturmey.
+
+"This is a short way." He told her. "We'll come out in a larger channel soon, but it is longer around to follow that way all the way from the main channel."
+
+The _Prospect_, which so often felt like a small cramped place, suddenly seemed to take on enormous proportions relative to the huts around them. The bow was the length of dozens of huts in front of them, and from the sail they towered over the thatched roofs that spread out on either side of them in a huge field of homes. The passage they were taking that cut through the dense huts reminded Percy of rowing a canoe on clear paths through reed patches on a small lake.
 
 
+### The Prospect gets stuck in shallow water
+
+Bastian called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow --- 2 meters."
+
+"Umm, Sturmey... are you sure there's enough water here?" Percy asked him."
+
+"Plenty of water. I've taken many ships through here."
+
+"But subs... we draft deeper you know."
+
+"Sub marines. Ya ya."
+
+At that moment the grounding alarm started buzzing loudly in the control room. Percy flew down the ladder, and stood behind Bastian staring at the wall of gauges. The depth-under-keel gauge had a bright red light lit next to it, and the needle was hovering just off the zero pin. Percy punched the button that silenced the annoying buzz of the alarm.
+
+"Sturmey!" She called up to the bridge. "There is very very little water under us..."
+
+"It's OK!" He shouted back just as the _Prospect_ came to an abrupt stop. 
+
+Even at the slow careful speed they had been moving at, it was enough to jolt them all forward. Empty tin coffee cups fell and clanked along the floor while clipboards fluttered through the air.
+
+The alarm started sounding again and a second red light lit on the depth-under-keel gauge indicating they were on the bottom.
+
+"Fuck!" Percy yelled, punching the alarm silence button a second time. "Fucking fuck! Sturmey you fucking amateur, what the fuck did you do? Bastian, shut down the motor before we're driven deep into the muck."
+
+Bastian pulled the throttle back to zero. Percy could hear Hemi and Sturmey discussing the situation on the bridge. Sturmey's voice was aggravated. Hemi was talking in his usual even tone. But couldn't quite make out what they were saying. She climbed back up to the bridge.
+
+"Captain Percy, this never happened before." Sturmey said as she was climbing up through the hatch. "The silt underneath sometimes moves around. This channel has always been deep enough before."
+
+"For a fucking _loaded_ submarine Sturmey? Or have you just brought fucking empty transport ships through here before?" Percy was turning red.
+
+"I'll get you off, do not worry Captain Percy. Bastian below: reverse motor, 2 knots." 
+
+"And then what Sturmey? Fucking back the whole way out to the main channel? It's not like there's room to fucking turn around here."
+
+"If we have to do that, we can." Said Hemi, trying to calm the situation. "But Sturmey pointed out we probably have some water in the main ballast and trim tanks we can blow out. If we can get the boat up even half a meter or so, we might be able to clear the silt bar."
+
+"Fuck." Said Percy as the _Prospect_ slowly reversed, stirring the water behind them and pushing it forward along the hull. It washed outwards and under the nearby huts on either side where people had realized something was wrong and come out to the platforms in front of their homes to watch. One local saw a stuck ship as an opportunity and rowed his dugout canoe full of fish up to the side of the _Prospect_. Hemi sent Cassandra down with a few coins to buy some.
+
+Reversing the motors did get them off the bottom. As soon as Bastian reported they had some water under the keel again they carefully forwarded the throttle to try to bring the _Prospect_ to a dead stop, but it was impossible to have that much control over such a large ship in such a tight space. The _Prospect_ very slowly but with a lot of inertia bumped into a cluster of huts, and the whole cluster leaned over against the push from the ship with a sickening crack of the pylons that supported the huts from underneath. People came out and started cursing at gesturing at towards the bridge of the _Prospect_ in a variety of languages. The huts were well built and the pylons held, but the residents and Hemi knew from the sound that deep structural damage had been done. Hemi didn't know what else to do, so he sent Cassandra down with more coins that she distributed among the residents until the cursing had mostly died away.
+
+Percy just put her face into her hands, both too embarrassed and angry to look at anyone at that moment.
+
+Sturmey had Owen throw the main ballast blow switches and the high-pressure  air system blew out whatever water was left in the main ballast along with a lot of excess bubbles that burbled up the side of the boat and which the children who were now climbing up the side of the _Prospect_ and running around on the deck found entertaining. Sturmey also had Owen empty every trim tank the boat had, and to turn on all the bilges. Long streams of foul water poured out from the side of the hull of the _Prospect_, in one case smashing squarely against the wall of a hut, and requiring yet another payment from Cassandra to ease the cursing.
+
+Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Sturmey had them slowly move forward again. Percy went back down to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounded alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot and the gauge showed a clear 4 meters of water under them.
+
+
+### They arrive at the dock
+
+They had to squeeze the _Prospect_ over two more shallow spots before Sturmey finally turned them out into a somewhat larger channel --- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic on the water. Sturmey steamed the _Prospect_ up this channel for another mile, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some did not. Some were stacked high with cargo waiting on a ship to be loaded onto, and others were cleared waiting for a ship to come in. The platforms either had one side set with a row of docking pylons, or were connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left free of construction so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. There only a few people about though, since this area was far more heavily populated with cargo than people.
+
+Finally Sturmey pointed to a bay off their port side while looking through the binoculars. He turned the _Prospect_ into the bay and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign with a dock number that matched the one on the paper he had shown to Sturmey. As Sturmey and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Owen to meet him on the deck. The three of them brought big docking hawsers up from the cargo hold and secured them to cleats on the deck. Owen made a daring leap over to the dock from the handholds on the side of the _Prospect_ and Hemi and Chips tossed the lines over to him so he could secure them around the docking pylons.
+
+The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. 
+
+The dock ran over to a large and currently mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through them in many places. At the far end of the platform was a squat little cube of an office, from which the business of the platform and dock was presumably executed.
+
+Nobody came out to greet them.
+
+
+* Chips immediately starts unloading her gear. She asks Sturmey how she can get a ride to a shipping work depot. Sturmey has a radio maybe with which he can request a ride. Or, Chips asks the dock boss
+* fat little man with pince-nez works in the office --- dock boss
+* he asks them if they have enough crew to unload --- they don't
+* he asks them to wait around for a while, his boys will be along shortly to help unload.
+* Hemi, Owen, Bastian, and Cassandra start unloading the cargo, slowly.
+* The dock boss does a final count: 212 crates --- the form says 215. Hemi tells him that logistics is not an exact science.
 

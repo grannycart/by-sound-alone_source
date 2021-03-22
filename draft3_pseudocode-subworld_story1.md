@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Mar 20, 2021  11:23AM
+Last modified: Mon Mar 22, 2021  12:17PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -419,8 +419,8 @@ Last modified: Sat Mar 20, 2021  11:23AM
 	* "I was there too Chips, I don't think there is anything we could have done to save him."
 	* Chips tells Hemi she is leaving as soon as they hit the dock
 
-### --- (Into Stilt City --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to Stilt City, day 5)
 
+### --- (Into Stilt City --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to Stilt City, day 5)
 
 * [ ] _They arrive at an exotic remote city --- "Stilt City", with wooden homes built on stilts and junks with fishermen._
 	* Hints at the economy of the city, the whole thing built on stilts
@@ -450,7 +450,6 @@ Last modified: Sat Mar 20, 2021  11:23AM
 * [ ] _Chips leaves as soon as they hit the dock_
 	* (Probably) to return in a future story (add to character notes)
 
-
 * [ ] Convo about what to do about losing Chips
 	* Percy raises the possibility of leaving Owen on the dock too
 	* But Hemi points out they have no way to make sure the sub with the ram gets the message that Owen wasn't with them
@@ -459,13 +458,17 @@ Last modified: Sat Mar 20, 2021  11:23AM
 * [ ] Shakes arrives in the Gnat
 	* Herschel found him and told him which dock to meet them at
 
-* [ ] _The pursuing sub shows up, a giant black leviathan smashing its way through the flimsy wooden structures._
+* [ ] _The pursuing sub shows up_
 	* it followed Shakes in --- Shakes hadn't seen the sub with the ram since it stopped pursuing them.
 	* Hemi or Percy figures out the sub commanders must have picked Shakes up and guessed he would lead them back to the Prospect, followed Shakes quietly
+	* It took Shakes and the pursuing sub longer to arrive because they came in the long way through the main channel
 
 * [ ] _They scram out of the port_
 	* The Prospect follows Shakes out --- since he is lower and closer to the water he can see navigation signals better to find the main channel
-	* Maybe the bigger pursuing sub with the ram grounds out on shallows (partially because they are not being careful and smashing direct lines through the structures)
+		* Or the pilot drives them out 
+	* they come back out Stumey's short cut at high speed driving water up into the homes. The pursing sub follows behind them, smashing through huts in a way that the pilot/Percy is unwilling to do 
+		* But since they've unloaded their cargo, they pass easily through the shallows
+		* the bigger pursuing sub with the ram grounds out on shallows (partially because they are not being careful and smashing direct lines through the structures) a giant black leviathan smashing its way through the flimsy wooden structures.
 	* the pursuing sub also probably has to fight its way out with the ECC Authority boats --- maybe the Prospect hears them being fired on.
 	* or maybe the ECC Authorities ALSO fire on the Prospect? They don't care or know who the good guys are, they just want to maintain order in their port.
 
@@ -514,6 +517,10 @@ Last modified: Sat Mar 20, 2021  11:23AM
 	* See notes from draft2: this might be the place where they are shutting down the engine to listen every half hour?
 	* Cassandra hears them coming, knows what they sound like now
 		* She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
+	* "I can't fucking believe that fucker is _still_ chasing us!"
+		* "Round Good Hope and round the Horn, and round perdition's flames." Hemi said quietly.
+		* "Oh so the _Prospect_ is the fucking white whale now Hemi?"
+		* "You have to admit, there's a kind of almost classic literary insanity to his actions."
 	* Another drawn-out O'brian style chase scene?
 
 * [ ] _They come up with a plan. They mate with the Gnat._
@@ -555,7 +562,7 @@ Last modified: Sat Mar 20, 2021  11:23AM
 
 * {They are all fishing on the deck?}
 	* {Perhaps this is the one time in the novel where the weather on the surface is good? The one time nature isn't trying to kill them? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
-	* Perhaps Chips is not there because she is left unresolved with Percy
+	* {Does Hemi express regrets about sinking the pursuing sub? "How many people were on board?" It would be nice if it reinforces his doubts about Percy's leadership.}
 
 * {Or, possibly we just follow Cassandra (make her the main character) to her next thing}
 
