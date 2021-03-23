@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Mon Mar 22, 2021  05:31PM
+Last modified: Tue Mar 23, 2021  04:22PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -1998,7 +1998,7 @@ That got Shakes to look up at her, but not to stop eating.
 
 "Mmmph," said Shakes through his mouthful of bread, "that's usually how it goes.I assumed a job in that class is why that sub rammed you."
 
-"Actually, I still don't know why they rammed us. As you know, the hold was empty at the time, we were doing a dry run. And we haven't been mixed up in anything for a while..." She drifted off a bit pondering that mystery that had been at the back of her mind while she ate her way along a bone of dry chicken.
+"Actually, I still don't know why they rammed us. As you know, the hold was empty at the time, we were on a dry run. And we haven't been mixed up in anything for a while..." She drifted off a bit pondering that mystery that had been at the back of her mind while she ate her way along a bone of dry chicken.
 
 "Anyway, this next job is going to require being a little more tactical, I think. A little more forethought and planning than the usual just trying to sneak under the radar and not be noticed."
 
@@ -2032,7 +2032,7 @@ Shakes eyes widened. But he poked it with the handle end of his fork. "Better pu
 
 Shakes nodded slowly, while chewing through another piece of bread. "Alright. Alright! But I want a stipend on top of that to cover the costs of any modifications to the _Gnat_. And enough to reverse them after we complete this run."
 
-"Done." Said Percy.
+"Done. I'll give you one share right now, and the other on delivery. You can write up the cost of the stipend at delivery too." Said Percy.
 
 Shakes grinned through a mouthful of food. "Well --- partner --- who knew picking up a bunch of fucking dirty marooned scumbags in the middle of the ocean would lead to anything profitable! Sweet."
 
@@ -3807,7 +3807,7 @@ This cycle repeated itself without change for hours. The storm continued to spin
 Cassandra showed back up in the sonar compartment, unable to sleep for the pings, and offered to sit at the sonar station again. When Hemi climbed into the control room, Percy had him relieve Owen at the throttle controls and sent Owen to make them a very late dinner.
 
 
-### Breakfast; Owen realizes the sub commander is after him
+### late dinner; Owen realizes the sub commander is after him
 
 Half an hour later Owen's voice came over the PA saying food was ready. Captain Percy offered to let Bastian and Cassandra eat first, but Cassandra preferred to stay at sonar. Bastian offered to bring a plate of food up to her and sit at the sub controls himself while he ate. He was back from the galley in a matter of minutes with heaping bowls of steaming food for Cassandra and himself.
 
@@ -4342,19 +4342,133 @@ Getting this excess water out of the boat did raise it up though. When Bastian r
 
 They had to squeeze the _Prospect_ over two more shallow spots before Sturmey finally turned them out into a somewhat larger channel --- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic on the water. Sturmey steamed the _Prospect_ up this channel for another mile, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some did not. Some were stacked high with cargo waiting on a ship to be loaded onto, and others were cleared waiting for a ship to come in. The platforms either had one side set with a row of docking pylons, or were connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left free of construction so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. There only a few people about though, since this area was far more heavily populated with cargo than people.
 
-Finally Sturmey pointed to a bay off their port side while looking through the binoculars. He turned the _Prospect_ into the bay and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign with a dock number that matched the one on the paper he had shown to Sturmey. As Sturmey and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Owen to meet him on the deck. The three of them brought big docking hawsers up from the cargo hold and secured them to cleats on the deck. Owen made a daring leap over to the dock from the handholds on the side of the _Prospect_ and Hemi and Chips tossed the lines over to him so he could secure them around the docking pylons.
+Finally Sturmey pointed to a bay off their port side while looking through the binoculars. He turned the _Prospect_ into the bay and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign with a dock number that matched the one on the paper he had shown to Sturmey. As Sturmey and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Owen to meet him on the deck. The three of them brought big docking hawsers up from the cargo hold and secured them to cleats on the deck. Owen made a daring leap from the handholds on the side of the _Prospect_ to the dock over the sloshing water in the closing gap. Hemi and Chips tossed the lines over to him so he could secure them around the docking pylons.
 
-The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. 
+The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. About halfway out, the dock widened to accomodate the base of a rusty and flimsy looking crane which was left angled at its pinions in such a way that it looked like a giant crooked finger of a crone cursing the fates before her. Further out from the crane, the dock narrowed even more.
 
-The dock ran over to a large and currently mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through them in many places. At the far end of the platform was a squat little cube of an office, from which the business of the platform and dock was presumably executed.
-
-Nobody came out to greet them.
+The dock ran into a large and mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through them in many places. At the far end of the platform was a squat little cube of an office, with a few stacks of crates near it, from which the business of the platform and dock was executed.
 
 
-* Chips immediately starts unloading her gear. She asks Sturmey how she can get a ride to a shipping work depot. Sturmey has a radio maybe with which he can request a ride. Or, Chips asks the dock boss
-* fat little man with pince-nez works in the office --- dock boss
-* he asks them if they have enough crew to unload --- they don't
-* he asks them to wait around for a while, his boys will be along shortly to help unload.
-* Hemi, Owen, Bastian, and Cassandra start unloading the cargo, slowly.
-* The dock boss does a final count: 212 crates --- the form says 215. Hemi tells him that logistics is not an exact science.
+### Chips quits
+
+As soon as the lines were secured Chips hauled two large and frayed black canvas duffels containing all her gear up from the cargo hold catwalk and onto the deck. From there she threw the duffels across to the dock where Owen made sure they landed without falling off into the water on the other side. She left Hemi with an awkward hug on the deck of the _Prospect_, then made the jump across to the dock where she hefted her bags and patted Owen on the back affectionately before walking up the dock towards the platform. Hemi and Owen watched her until she got to the far side of the platform, where it did not take long for her to hail a passing boat that would take her into the center-city shipping labor yards.
+
+After Chips had disappeared off the far side of the platform, Owen was ready to get to work. "Should we set up the gangway Hemi?"
+
+"Yes. But rather than messing with our own winch, let's ask them if we can use the crane." Said Hemi, pointing to the crane leaning above their heads. Hemi retrieved a clipboard full of papers that he had left on the catwalk, and climbed down the side of the _Prospect_ and jumped over to the dock to join Owen. They made their way up the dock and onto the platform. Nobody had yet come out to greet them. Hemi knocked heavily on the door of the little square building.
+
+A few minutes later it was opened by a squat, fat man wearing pince-nez. "Who are you?" He asked Hemi.
+
+"Hemi Howell, Deck Boss on the _Prospect_." Hemi nodded towards the boat. "We have a delivery." Hemi handed the fat man the clipboard.
+
+"Ah. I'm the dock boss here." Said the man as he scanned the top page, lifted it, and ran a bulbous finger down the center of the second page. Unlike most of the residents in Stilt City, the dock boss looked like he had spent most of his working life inside. "Ah, Trinity. We expected you two days ago." He looked disappointed. "Authority trouble?"
+
+"An Authority boat took its toll on our speed." Hemi confirmed.
+
+The man let out a small sound of indignation. "Well, you can start unloading if you want to. I'll have my crew come in to help. It'll take them an hour or two to assemble."
+
+"Can we use your crane?"
+
+"Sure, if you think you know how to drive it. I'm not responsible if you damage your boat in any way though, got it?"
+
+Hemi nodded.
+
+"There's also some carts over there at the end of the platform. You can use them to offload cargo and move it onto the platform."
+
+"OK... thank you." Said Hemi as he took Owen's arm and turned him back towards the dock.
+
+"And, uh, be careful," continued the dock boss, "If you damage the platform, or say, blow it up, _you_ are responsible, understood?"
+
+Hemi waved an acknowledgement but didn't bother turning to look back at the man.
+
+Out of earshot, Owen asked quietly, "Are we going to start unloading the _Prospect_ by ourselves Hemi?"  He was thinking about the hundreds of heavy wooden crates in the hold.
+
+"No. That's their responsibility. They want the cargo, they need to move it. You and I are going to set up the gangway."
+
+Hemi got the engine for the crane started and when it was pouring black diesel smoke at a nice consistent rate out over the water, he lowered the boom, and dropped the hook into the cargo hold of the _Prospect_. Owen, down on the floor of the cargo hold, rigged the gangway to it, and Hemi lifted it up and settled it down on deck. Hemi waited for Owen to appear on deck, and then moved the gangway out over the gap between the boat and the dock, while Owen guided it into place, and then lashed it down.
+
+With the gangway set, Hemi shut down the crane and made his way back aboard the _Prospect_. He found Percy and advised her they should lay low inside the boat until the dock boss' crew got there. So Captain Percy, Hemi, Bastian, Owen and Sturmey rounded up in the galley around a new pot of coffee. Cassandra had gone off to her rack to catch up on sleep.
+
+They dranks two and a half pots of coffee as a couple of hours went by, but eventually they could hear feet on the _Prospect's_ deck and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people --- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing --- were already rigging crates onto the hook of the crane and preparing to unload.
+
+The dock and platform that had been so quiet and empty was now full of noise and people. The crates were hoisted out of the cargo hold one-by-one, carefully stacked four to a cart. Then a team of dockworkers hauled the heavy carts up to the platform where the team would unload the crates and stack them by hand.
+
+The dock crew worked steadily at it for a few hours, with Percy and Hemi observing from the bridge of the sail where they could keep an eye on things without getting in the way. Generally there wasn't much to say. Percy was getting sleepy in the warm and still afternoon air.
+
+Then Percy asked, "so Chips is gone Hemi?"
+
+"Yes, gone."
+
+"What are we going to do about that? We really need an engineer."
+
+"I think we will feel the loss of Chips poignantly." Hemi said with only the tiniest trace of blame in his voice. "We'll have to hire someone qualified eventually. But for the moment, I think Owen will make do. He has spent a lot of time working with Chips since he came on, and has learned very quickly."
+
+"About that... I was thinking maybe we leave him here. If that sub commander wants Owen, and Owen is not on our boat, then they will leave the _Prospect_ alone and stop following us. That's logical, right?"
+
+"That only works if there's a way to communicate to the sub commander that Owen is not on board. I don't see how we can do that. At least not without also just giving Owen up to them. Are you willing to do that?"
+
+"I suppose that is going too far."
+
+"We also need his engineering skills. My advice is we keep him on."
+
+"Alright. But that almost certainly means we are nowhere near the end of being pursued by that fucking sub."
+
+"I think our next goal is to figure out how to end that pursuit. We will need to resolve that, one way or another, before we get back to routine cargo-hauling work."
+
+
+### Shakes arrives
+
+The hold was about three-quarters empty when Hemi and Percy heard the heavy diesels of a large ship moving up the channel. When a horn sounded they turned to find there was no ship coming from the diretion of the engine sound. Hemi lifted his binoculars and scanned his way up the channel until he saw the familiar low outline of the _Gnat's_ sail with a spikey-haired head sticking out of it and a stream of diesel exhaust flowing out from behind it.
+
+"Percy," said Hemi, "it is the _Gnat_."
+
+"Shakes!" Percy shouted to him and waved her arm in the air.
+
+Shakes waved one arm back at them.
+
+Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat_ in carefully along the opposite side from the _Prospect_. He put the engine in neutral and hopped out of the sail to catch a line tossed to him from Hemi which he secured to the deck cleats.
+
+"How y'all be fucking doing?" He asked them while still standing on the deck of the _Gnat_.
+
+"Mission acomplished and unloading, as you can see." Said Percy. "How'd you find us Shakes?"
+
+"Herschel of course! Hang on..." He disappeared into the sail and came back up with a litte gray puff of feathers in his hand. Once he got his arms up above the sail, he tossed Herschel into the air. Herschel flapped and then flew circles around the _Gnat_ excitedly while Shakes leapt over to the dock to rejoin Hemi and Percy.
+
+"So the bird actually fucking worked?" Percy asked, unable to totally get the skepticism out of her voice.
+
+"Herschel was a total fucking champ! Found me cruising out in the middle of fucking endless expanse of blue water. He gave me your message with the dock number. But Herschel was the easy part. The hard part was finding the dock on the way into Stilt City here. Had to stop and ask people probably a dozen times --- and folks around here speak a strange mix of languages I don't fuckin' understand, mostly."
+
+"It is good to see you." Said Hemi. "And Herschel. What happened after you left us?"
+
+"Well, there's not much to tell of it, really. I drove the _Gnat_ hard in a sorta random northerly direction, away from the _Prospect's_ location. Did some weaving back and forth and shit, just in case they fired a torp or soemthing, but kept the throttle up the whole time. With the volume of the _Gnat's_ engines, I couldn't really be listening to sonar or anything, so I just kept pinging them every 10 minutes or so to see how far behind me they were. I kept them a few miles off and ran them northwards for three or four hours. But by that time the sea was starting to chop up from the storm. The _Gnat_ was taking green water right up against the sail. I figured we were probably far enough from the _Prospect_, so I went silent and dove the _Gnat_ and disappeared under the waves for the duration of the storm. Lost track of the pursuing sub at that point. How'd you all do in that fucking storm?"
+
+"Hemi brought the _Prospect_ up to the surface in the ditch of a 10 meter wave, rolled her right over. She was completely on her side for a bit, but eventually came upright again." Said Percy.
+
+Shakes whistled. "Shit, I never saw weather that big. You must have been much more toward the center of the storm."
+
+Percy went on to fill Shakes in on running into the sub with the ram on the surface during the storm, and the loss of Gregory. Hemi also added that Chips had quit the boat.
+
+"Motherfucker." Said Shakes. "You've all had it rough. I feel like I had the easy part of the job, came through, and now I'm here to collect my due!"
+
+"It looks like the dockworkers are almost done unloading. Let's go find that dock boss and settle up." Said Hemi.
+
+"You two go on," said Percy, "I'm going to go check the cargo hold and make sure they didn't fuck when they were swinging that heavy hook around down there."
+
+
+### Hemi settles up with the dock boss
+
+Hemi and Shakes found the dock boss with a clipboard counting the crates that had come off the _Prospect_.
+
+"Hmm. Mr. Howell. The manifest says 215 crates, but I only count 212." The dock boss gestured towards the stacks of crates.
+
+"I do not know what to tell you. Logisitics is not an exact science." Said Hemi.
+
+"No it clearly is not. I will adjust the payment based on your delivery." He scribbbled some figures with his pencil on the clipboard for a minute and showed it to Hemi. "Does that look right?"
+
+Hemi nodded, and the dock boss emptied a heavy leather sack of coins onto a crate in front of them and counted out and arranged stacks of coins. When he finished counting, with Hemi double checking every stack of coins, Hemi swept all the stacks off the crate with one swipe of his big hand into a canvas bag he pulled from the inside pocket of his tweed jacket. Hemi thanked the dock boss gruffly. As he and Shakes walked back to the _Prospect_ Hemi counted out Shakes second deck-hand share he was owed. They agreed to leave the payment for the modifications for the _Gnat_ for a later time when Shakes could calculate the cost more precisely.
+
+They had just stepped onto the dock when Shakes shaded his eyes and looked far up the channel that led to the dock. "What's going on up there?"
+
+
+
 

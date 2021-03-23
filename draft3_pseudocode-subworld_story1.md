@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Mar 22, 2021  12:17PM
+Last modified: Tue Mar 23, 2021  11:52AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -422,7 +422,7 @@ Last modified: Mon Mar 22, 2021  12:17PM
 
 ### --- (Into Stilt City --- an exotic remote city with junks everywhere; homes built on stilts;  unload cargo at port) (Run to Stilt City, day 5)
 
-* [ ] _They arrive at an exotic remote city --- "Stilt City", with wooden homes built on stilts and junks with fishermen._
+* [X] _They arrive at an exotic remote city --- "Stilt City", with wooden homes built on stilts and junks with fishermen._
 	* Hints at the economy of the city, the whole thing built on stilts
 		* from thatched huts to warehouses and depots with metal roofs
 			* Though everything is made of matchsticks, except the roofs
@@ -435,28 +435,29 @@ Last modified: Mon Mar 22, 2021  12:17PM
 	* the giant metal machine tooling through rickety wood structures;
 	* How do they navigate to the dock they are looking for? Do they hire a pilot? That might be cool (maybe the pilot is the character who pronounces 'sub marine' as two words?)
 		* rows out to them in a dugout as they are coming in
+			* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something. Broken English in general
 	* they have to run on the surface because the water is shallow
 		* some close calls with too shallow --- watching that depth-under-keel gauge again --- warning lights
 			* Maybe a scene where they have to blow the main ballast to get a few more inches and get unstuck off the bottom (somewhat like in "The Land that Time Forgot" where they lower the boat so they know that anywhere they stick they can get back off of later)
 		* Maybe ten meters
 		* A narrow channel full of other ships and surfaced subs making their way into and out of ports
 
-
-* [ ] _The find their dock and unload._
-	* the person who accepts delivery says sub-marine like it's two words. maybe a trader in a depot or something. Broken English in general
-	* Hemi discreetly keeps a couple of crates of explosive mines --- not sure if that's revealed here or when he comes up with the plan
-		* (Might be enough of a reveal when he comes up with the plan later that he also has inflatables of some kind ready to go; and the fact that he keeps some mines here is a good hint of what's to come? not sure.)
-
-* [ ] _Chips leaves as soon as they hit the dock_
+* [X] _Chips leaves as soon as they hit the dock_
 	* (Probably) to return in a future story (add to character notes)
 
-* [ ] Convo about what to do about losing Chips
+* [X] Convo about what to do about losing Chips
 	* Percy raises the possibility of leaving Owen on the dock too
 	* But Hemi points out they have no way to make sure the sub with the ram gets the message that Owen wasn't with them
 	* And Owen is capable of doing at least part of the engineering work of Chips. They need him.
 
-* [ ] Shakes arrives in the Gnat
+
+* [X] Shakes arrives in the Gnat
 	* Herschel found him and told him which dock to meet them at
+
+* [ ] _They find their dock and unload._
+	* Hemi discreetly keeps a couple of crates of explosive mines --- not sure if that's revealed here or when he comes up with the plan
+		* (Might be enough of a reveal when he comes up with the plan later that he also has inflatables of some kind ready to go; and the fact that he keeps some mines here is a good hint of what's to come? not sure.)
+
 
 * [ ] _The pursuing sub shows up_
 	* it followed Shakes in --- Shakes hadn't seen the sub with the ram since it stopped pursuing them.

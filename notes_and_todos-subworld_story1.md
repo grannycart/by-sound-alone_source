@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Mar 22, 2021  05:00PM
+Last modified: Tue Mar 23, 2021  04:22PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -12,6 +12,10 @@ Last modified: Mon Mar 22, 2021  05:00PM
 
 ## Notes and To dos:
 :notes:
+* [ ] Ask Aaron Reiss who I should have read this thing
+* [ ] Maybe post the unedited first full draft as a "preview edition" on Amazon?
+	* (Check if new editions can be distributed for free, and push that idea in a quest for new readers)
+	* (Or see if you can distribute the preview edition for free as a way to bring in new readers)
 * [ ] For the cover:
 	* have Dave do illustration
 	* It would be better, I think, to include illustrations of some of the characters ON the sub, rather than just the sub
@@ -85,6 +89,8 @@ Last modified: Mon Mar 22, 2021  05:00PM
 * [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* a great round sound
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
+* [ ] fix the bumpers stored on deck outside pressure hull?
+	* Seems iike maybe they should not be the inflatey kind
 * [ ] maybe they refer to the bottomless deep as 'the hole'
 * [ ] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
 	* [ ] no god-damning either: there is no god
