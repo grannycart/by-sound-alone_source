@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Tue Mar 23, 2021  11:52AM
+Last modified: Wed Mar 24, 2021  05:29PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -454,12 +454,12 @@ Last modified: Tue Mar 23, 2021  11:52AM
 * [X] Shakes arrives in the Gnat
 	* Herschel found him and told him which dock to meet them at
 
-* [ ] _They find their dock and unload._
+* [X] _They find their dock and unload._
 	* Hemi discreetly keeps a couple of crates of explosive mines --- not sure if that's revealed here or when he comes up with the plan
 		* (Might be enough of a reveal when he comes up with the plan later that he also has inflatables of some kind ready to go; and the fact that he keeps some mines here is a good hint of what's to come? not sure.)
 
 
-* [ ] _The pursuing sub shows up_
+* [X] _The pursuing sub shows up_
 	* it followed Shakes in --- Shakes hadn't seen the sub with the ram since it stopped pursuing them.
 	* Hemi or Percy figures out the sub commanders must have picked Shakes up and guessed he would lead them back to the Prospect, followed Shakes quietly
 	* It took Shakes and the pursuing sub longer to arrive because they came in the long way through the main channel
@@ -470,13 +470,19 @@ Last modified: Tue Mar 23, 2021  11:52AM
 	* they come back out Stumey's short cut at high speed driving water up into the homes. The pursing sub follows behind them, smashing through huts in a way that the pilot/Percy is unwilling to do 
 		* But since they've unloaded their cargo, they pass easily through the shallows
 		* the bigger pursuing sub with the ram grounds out on shallows (partially because they are not being careful and smashing direct lines through the structures) a giant black leviathan smashing its way through the flimsy wooden structures.
-	* the pursuing sub also probably has to fight its way out with the ECC Authority boats --- maybe the Prospect hears them being fired on.
-	* or maybe the ECC Authorities ALSO fire on the Prospect? They don't care or know who the good guys are, they just want to maintain order in their port.
+	* They get Sturmey paid and off the boat
+
+* [ ] _Before they dive, they launch Herschel with a rendezvous location for Shakes._
+	* Maybe it's a bit of a panic to get Hershel off before the boat goes under
 
 
 ### Leave in a hurry; cruise down the continental shelf
 
 * [ ] _They cruise down the continental shelf just above the bottom so they can't be found._
+	* the pursuing sub also probably has to fight its way out with the ECC Authority boats --- maybe the Prospect hears them being fired on.
+	* or maybe the ECC Authorities ALSO fire on the Prospect? They don't care or know who the good guys are, they just want to maintain order in their port.
+	* maybe the sub with the ram is pinging them actively, trying to find the prospect as they hide on the bottom
+	* and then pinging stops. Cassandra hears the sub with the ram tangle with authority sea craft. (This is how they ultimately lose the sub with the ram)
 	* [ ] push it down beyond test depth
 	* [ ] Maybe THIS is the scary-deep rivet-popping section
 		* Now they pop a rivet or something, they are TOO deep, scarily deep.
@@ -490,8 +496,11 @@ Last modified: Tue Mar 23, 2021  11:52AM
 
 ### --- (bicycle race in the hangar)
 
-* [ ] _A crazy bicycle race in the empty cargo bay._
+* [ ] _They find Shakes and mate up the Gnat --- so maybe it's nighttime? They are shut down and hiding?_
+
+* [ ] _During the lull from pursuit: A crazy bicycle race in the empty cargo bay._
 	* You know the rules: there are no rules except don't get _badly_ hurt
+	* with no engine or motor running in the sub, its pleasantly quiet; just the sound of bicycle pawls clicking interspersed with the occasional crash followed by a disbelieving laugh
 	* Somebody floods the forward tanks to force the course into a ramp.
 
 * [ ] _A submarine is just a very very complicated bicycle_
@@ -515,6 +524,7 @@ Last modified: Tue Mar 23, 2021  11:52AM
 	* But this makes sonar less useful --- too many confusing contacts
 
 * [ ] _The pursuing sub is pursuing_
+	* how do they find the Prospect and Gnat this final time?
 	* See notes from draft2: this might be the place where they are shutting down the engine to listen every half hour?
 	* Cassandra hears them coming, knows what they sound like now
 		* She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
@@ -523,6 +533,7 @@ Last modified: Tue Mar 23, 2021  11:52AM
 		* "Oh so the _Prospect_ is the fucking white whale now Hemi?"
 		* "You have to admit, there's a kind of almost classic literary insanity to his actions."
 	* Another drawn-out O'brian style chase scene?
+		* vertical instead of horizontal this time? 
 
 * [ ] _They come up with a plan. They mate with the Gnat._
 	* Maybe this is where Percy says 'get Shakes on the pigeon'
@@ -531,6 +542,7 @@ Last modified: Tue Mar 23, 2021  11:52AM
 
 * [ ] _as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?_
 	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
+	* [ ] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the book
 
 * [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat on her deck)_
 
@@ -547,23 +559,26 @@ Last modified: Tue Mar 23, 2021  11:52AM
 * [ ] _the risky part is that the pursuing sub is too smart to go after the Gnat -- they know the Gnat is there just to run interference, that's why they give off chasing the Gnat earlier and turned after the Prospect -- so they have to use the Prospect itself as the bait this time._
 
 * [ ] _Percy will run the Prospect at 100 meters, full-engine like they are trying to get away._
+	* Possibly Hemi is using active sonar to range and most importantly get a depth on the pursuing sub
 
 * [ ] _the pursuing sub will run at the same depth, trying to line up an underwater torpedo shot._
 
 * [ ] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
-	* Hemi has to calculate by hand and slide rule how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the floats by hand and launch them out the airlock into the path of the chasing sub.
+	* Hemi has to calculate by hand and slide rule how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the bumpers float by hand and launch them out the airlock into the path of the chasing sub.
 	* (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column)
 	* the garbage in the water makes it impossible for the pursuing sub to know the mines are there
 
 * [ ] _Something has to go wrong, to make it seem like the plan won't work_
 	* not sure exactly what or how this happens, yet
-	* Perhaps there's a command decision by Percy at the last second --- maybe to Chips --- that saves them all and shows she does know what she's doing (to Chips)
+	* Should also be a twisty kind of surprise that's entertaining
+	* Perhaps there's a command decision by Percy at the last second --- that saves them all and shows she does know what she's doing 
 
 ### Ending
 
 * {They are all fishing on the deck?}
 	* {Perhaps this is the one time in the novel where the weather on the surface is good? The one time nature isn't trying to kill them? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
 	* {Does Hemi express regrets about sinking the pursuing sub? "How many people were on board?" It would be nice if it reinforces his doubts about Percy's leadership.}
+	* Maybe Hemi brings a grill up on deck from the cargo hold; cleans and grills fish as crew catch them; salt and lime juice and red pepper flakes
 
 * {Or, possibly we just follow Cassandra (make her the main character) to her next thing}
 
