@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Wed Mar 24, 2021  05:29PM
+Last modified: Fri Mar 26, 2021  05:32PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -4596,11 +4596,115 @@ Sturmey looked behind him and saw the rampaging destruction headed towards them.
 
 "You aren't going to ground us again, are you? We're finished if we get stopped."
 
-"No no fucking way! Your boat was loaded before. It is unloaded now --- lots of clearance."
+"No no. No fucking way! Your boat was loaded before. It is unloaded now --- lots of clearance."
 
 "Unless the tide went out..." Said Percy.
 
 Sturmey did not reply. He returned to shouting directions down to the control room.
+
+
+### The pursuing sub gets stuck
+
+Captain Percy did not have nearly as much faith as Sturmey that they would clear the bars of shallow muck so easily, even with her boat now unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if a warning light came on.
+
+It was only moments later that she could see ahead of them them darker brown shade of water with a distintively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sturmey pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down til it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
+
+She climbed back up to the bridge with a smile on her face and patted Sturmey on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them, suggested to her that the _Prospect_ might have an opportunity coming.
+
+She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessless up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. Sure enough, it drove into the shallow bar at a clip, the sharp front edge of the ram driving deep enough in that it plowed the muck up from the bottom in a black morraine that rose until it cleared the surface, driving a small tsunami of brown water turbid with black muck forward up the small channel in front of it.
+
+Their pursuers were stopped dead in the passage. Through her binoculars Percy imagined she could almost see the shadows of the men directing the boat from the top of the sail thrust forward against the forward edge of the fairing as the momentum suddenly came off the boat. She could see an arm raised in anger and virtriol spilling off the top of the black sub's sail.
+
+As soon as the residents in the surrounding area realized what happened, they attacked the grounded sub, throwing rotting food and scraps of wood and rusted metal at the black monster that had been tearing up their neighborhood so recklessly.  
+
+The sub with the ram was shooting jets of bilge water out of the sides, and presumably blowing any remaining water out of their ballast tanks as well. Through the binoculars she could see they were driving forward at full throttle as well, hoping to push through the shallow spot on main power. The screws were kicking up a tremendous frothy wash of white water behind the sub, enough that nearby huts leaned back from the pressure against their stilts. This just angered the residents still more. They began to land on the black sub, beating on the deck with long metal poles and trying to pry up hatches. One local tried to climb the hand holds to the sail. That was when Percy saw the thin shadow of an arm extend and then a flash, followed a moment later by the report of a small-caliber pistol reaching her ears. The body of the climber fell back through the air, hit the curved deck of the sub and slid into the brackish water.
+
+After that, the men on the sail opened up on the locals and there was shot after shot. Figures fell to the deck amid the mass of locals scrambling to get off the deck and back to their small boats and canoes alongside. 
+
+
+### Into the main channel; pay off Sturmey
+
+The _Prospect_ was now gaining crucial ground on their pursuers, quickly finding their way through the winding way. Percy could see the main channel ahead of them now. Further behind now, it did appear that the black sub was making headway against its bottoming. Percy estimated they might push clear in just a few minutes more.
+
+The _Prospect_ turned out into the main channel and Percy took over command. She immediately had Bastian throttle up to the _Prospect's_ full surface speed of 15 knots. 
+
+"Careful Captain Percy." Said Sturmey. "I cannot recommend all this speed in the channel full of big heavy ships and small wobbly boats. If any Authority vessel spots the _Prospect_ they will try to stop you."
+
+"I know it. But those fuckers behind us are certainly not going to take it easy up the channel."
+
+"That seems true enough. Here I must leave you then. If an Authority catches me piloting a craft at this speed in the channel, I will no longer be a pilot. Besides, there's 50 meters of water in the channel, you don't need me any more --- as long as you manage not to smash into any other boats."
+
+"Well Sturmey Ang Lom. That was as fine a bit of piloting as I have ever seen." Said Percy. She leaned over and called down to Hemi in the control room. "Hemi! Toss up the pay for Sturmey."
+
+Hemi underhanded a small cloth pouch clinking with coins up from the control room and Percy snatched it from the zenith of its rise.
+
+She handed it to Sturmey. "You'll find a generous gratuity in there for your work under tense conditions Sturmey."
+
+"I am the best pilot in the city Captain Percy! If you come in this way again, be sure to ask for me."
+
+"We abso-fucking-lutely will. Can you get your canoe off at this speed? I really don't want to slow down."
+
+"No fucking problem. Born and bred on the water!"
+
+Sturmey tucked the bag of coins into his pants, gave Percy a casual salute, and nimbly went over the side of the sail. He pulled his dugout canoe to the side of the deck and sat down in it. He lifted his paddle and pushed off and the small craft slide down the curve of the _Prospect's_ hull and into the rapidly passing water like someone negotiating over a big rock in river rapids. After a few paddles Sturmey had safely made some distance from the giant steel cylinder flying past him, and he paused to give one final wave to Percy on the sail before paddling in the direction of a large oiler that was crawling upstream to see if he could win a second job for the day.
+
+
+### Navigating out of the channel
+
+Captain Percy climbed down to the control room while closing and sealing the hatch above her head.
+
+"Did you guys get the cargo hatch sealed?" She asked.
+
+"Yup." Replied Owen as he pointed upwards to the hatch control panel lit up all green indicating all the hatches on the boat were sealed.
+
+Percy punched the dive alarm. "OK, take us down to periscope depth." 
+
+"Captain Percy," said Hemi, "may I suggest that we send up Herschel with a rendezvous point for Shakes before we dive."
+
+"Ah shit, the bird. You're right." She pressed the dive alarm button a second time to deactivate it, and then got on the PA that echoed through the whole boat letting anyone listening know that the dive had been postponed. She did this even though the only person on the boat who wasn't in the control room at that moment was Cassandra, who was only a few meters below in the sonar compartment. It was good practice to use the PA to announce boat maneuvers regardless of the location of your crew members.
+
+Hemi climbed down to the navigation station and reviewed the current chart laid out under the glass leaning over it with the magnifier in his hand. He selected a spot of deep water on the chart, just off the continental shelf, about a day's run out from Stilt City. 
+
+Hemi held a tiny scrap of paper down against the glass of the navigation table with his thick fingers splayed, and copied the coordinates with a very sharp pencil. He also selected a backup location for the rendezvous just in case something went wrong and wrote that on the reverse side of the paper. He scooped Herschel up from the floor where he had been walking around aimlessly and fixed the tiny paper into the the leg cylinder. 
+
+Captain Percy was anxious to get the boat underwater, so as soon as she saw Hemi starting up the ladder with Herschel in one hand and nodding to her, she punched the dive alarm again. "Start the dive, Hemi get the bird off."
+
+Bastian flipped off the diesel engines and their rumble died away beneath their feet to leave only the much quieter hum of the electric motors. Owen opened the main ballast valves. Hemi opened the hatch above the control room and a light on the hatch control panel lit up a brilliant red and an alarm sounded because the main ballast valves were open at the same time as one of the boat hatches.
+
+Hemi quickly climbed to the sail, and tossed a fluttering Herschel up into the wind. Air was shooting out from the top of the deck in front of him carrying long streams of mist from the ballast tanks as high as the _Prospect's_ sail which blew back in his face. He took one last look at Herschel who had rapidly gained altitude and was now heading directly back upriver, hopefully towards the _Gnat_.
+
+Hemi dropped below and resealed the hatch above him, silencing the alarm from the hatch control panel.
+
+When the depth gauge showed the sail was under, Percy raised up the scope. As it came to her eye level she leaned into the viewfinder and started slowly scanning all around the _Prospect_. She paid particular attention to the rear quarters, trying to see if she could catch a glimpse of the sub with the ram behind them. The sub would be harder to spot from the lower vantage of periscope depth, particularly with all the traffic in the channel, but Percy felt running submerged felt far safer than cruising on the surface.
+
+The sub with the ram was not within visual range. It was possible it had gotten stuck again while navigating one of the other shallow spots in Stumey's shortcut. Percy wondered it the _Prospect_ might be free and clear to head out to sea. But she wasn't going to take any chances.
+
+She focused the periscope forward and spoke without pulling back from the viewfinder. "Hemi, there's a big outward bound cargo hauler about a quarter mile up the channel. I think I want to put the _Prospect_ under it, and hide in its shadow until we're well out."
+
+"It is a dangerous maneuver in these relatively shallow waters Percy." Said Hemi.
+
+"That's why I need you on sonar. And we have the fact that their speed is pretty slow working in our favor."
+
+"Alright," said Hemi, "I'll get on sonar with Cassandra, it will be good training for her to listen to this." Hemi climbed down to the sonar station. He had Cassandra move into the second sonar seat so he could more easily run the sonar controls and filters himself. They both put on the headsets and started concentrating on the sounds coming in as Hemi rotated the sonar directional control around 360 degrees so they could get a full picture of the traffic around them.
+
+With Hemi settled on sonar, Percy brought the _Prospect_ down to 20 meters below the surface. In some ways this made Hemi's job simpler because all the traffic was now above them --- there were no other submerged submarines in the channel. But with only 50 meters of depth to play with the sounds of the traffic above reflected off the bottom of the channel back up, and then off in every direction, making the space they were moving through feel very compressed to Hemi.
+
+They had maintained a very fast 15 knots since submerging. One of the first things Hemi asked Percy to do was to slow the boat down --- both because it would make the sonar much more clear, and because even at 6 knots he estimated they would be doing twice the speed of the giant prop of the cargo ship above his head.
+
+Hemi began a steady and careful dialog with Percy, much of which she related to Bastian and Owen, to bring the _Prospect up under the cargo ship, and then throttle back to match the slow-moving, building-sized ship that was cruising above the.
+
+Percy stood directly next to Owen and worked the tank trim panel herself, feeling the weight of her ship through its movements and finding an absoultely neutral bouyancy. When she was satisfied that her boat was trimmed so it would be perfectly level without any out-of-balance forces causing them to gain or lose depth, she took one step back from the panel. She watched Owen's moves on the dive plane carefully.
+
+"Bastian, do what you have to with the rudder, we have space to play with to our sides. But Owen: only make the most delicate moves to the dive planes --- one degree up or down. We want to have lots of time to correct before we drive the sail into the bottom of that steel wall above us."
+
+"Right Captain." Said Owen, nervously fingering the dive plane wheel. His eyes darted back and forth from the boat level indicators to the depth indicator.
+
+After 20 minutes they were feeling more confident with the maneuver and maintaining their position. Captain Percy wondered if they might be able to cruise right out into deep water like this, and then spend the rest of the day running deep until they were well out and away from Stilt City.
+
+That was when a ping 
+
+
+
 
 
 

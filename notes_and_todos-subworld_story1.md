@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Mar 24, 2021  03:42PM
+Last modified: Thu Mar 25, 2021  11:27AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -12,6 +12,11 @@ Last modified: Wed Mar 24, 2021  03:42PM
 
 ## Notes and To dos:
 :notes:
+* [ ] secure Mark Tower domains and stuff:
+	* [ ] domain names
+	* [ ] github account
+	* [ ] protonmail account
+	* [ ] amazon account
 * [ ] Ask Aaron Reiss who I should have read this thing
 * [ ] Maybe post the unedited first full draft as a "preview edition" on Amazon?
 	* (Check if new editions can be distributed for free, and push that idea in a quest for new readers)
@@ -24,6 +29,7 @@ Last modified: Wed Mar 24, 2021  03:42PM
 	* It's important that the cover, the title, and the description really capture what the story is and _feels_ like.
 		* The worst thing you can do to an audience is mislead them about what a book might be;
 		* And the audience will punish anyone they feel mislead by
+	* If you do a preview edition, or even a first edition, you could make your own cover from the WWII Tang drawings
 * [X] Draw diagrams of the Prospect and Gnat. Include with story.
 	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
 	* (No copyright problems, those are federal gov't drawings)

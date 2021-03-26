@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Mar 24, 2021  05:29PM
+Last modified: Fri Mar 26, 2021  05:32PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -464,7 +464,7 @@ Last modified: Wed Mar 24, 2021  05:29PM
 	* Hemi or Percy figures out the sub commanders must have picked Shakes up and guessed he would lead them back to the Prospect, followed Shakes quietly
 	* It took Shakes and the pursuing sub longer to arrive because they came in the long way through the main channel
 
-* [ ] _They scram out of the port_
+* [X] _They scram out of the port_
 	* The Prospect follows Shakes out --- since he is lower and closer to the water he can see navigation signals better to find the main channel
 		* Or the pilot drives them out 
 	* they come back out Stumey's short cut at high speed driving water up into the homes. The pursing sub follows behind them, smashing through huts in a way that the pilot/Percy is unwilling to do 
@@ -472,26 +472,43 @@ Last modified: Wed Mar 24, 2021  05:29PM
 		* the bigger pursuing sub with the ram grounds out on shallows (partially because they are not being careful and smashing direct lines through the structures) a giant black leviathan smashing its way through the flimsy wooden structures.
 	* They get Sturmey paid and off the boat
 
-* [ ] _Before they dive, they launch Herschel with a rendezvous location for Shakes._
+* [X] _Before they dive, they launch Herschel with a rendezvous location for Shakes._
 	* Maybe it's a bit of a panic to get Hershel off before the boat goes under
 
 
 ### Leave in a hurry; cruise down the continental shelf
 
 * [ ] _They cruise down the continental shelf just above the bottom so they can't be found._
+	* They hide under a big ship in the channel
+	* The sub with the ram pings: lights up the channel knowing anything submerged is probably them.
 	* the pursuing sub also probably has to fight its way out with the ECC Authority boats --- maybe the Prospect hears them being fired on.
-	* or maybe the ECC Authorities ALSO fire on the Prospect? They don't care or know who the good guys are, they just want to maintain order in their port.
 	* maybe the sub with the ram is pinging them actively, trying to find the prospect as they hide on the bottom
-	* and then pinging stops. Cassandra hears the sub with the ram tangle with authority sea craft. (This is how they ultimately lose the sub with the ram)
-	* [ ] push it down beyond test depth
-	* [ ] Maybe THIS is the scary-deep rivet-popping section
-		* Now they pop a rivet or something, they are TOO deep, scarily deep.
-		* ...or maybe save the rivet-popping scary deep until they go down the continental shelf 
+	* The prospect goes down to just above the surface so they can't be seen by active sonar
+	* and then pinging stops. Cassandra hears the sub with the ram tangle with authority sea craft. The sub with the ram dives to escape the other Authorities.
+	* They lose track of the sub with the ram, come out of the muddy river outflow into the clear waters.
+	* Suddenly Hemi hears the pursuing boat following, back to running on the surface.
+	* They take evasive maneuvers, but it continues to follow them
+	* Hemi speculates that the water is exceptionally clear here, and the pursuers are following the _Prospect's_ Shadow.
+		* Why don't they fire at us if they can see us?
+		* They might not be sure it's us. They might not even be sure it's a submarine.
+		* They still can't quite be sure of range either with the sonar still bouncing off the bottom
+	* They realize they have to make it off the continental shelf (only 60 meters deep) and get below 200 meters so they can't be fired on.
+		* The continental shelf ends 40 miles out. 
 
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
 		* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
+	* They go off the shelf an dive immediately.
+	* The sub with the ram follows them down
+	* It charges at them. Percy speculates the crazy commander has decided ramming underwater is a fine tactic (Maybe) alternatively: they are going to try to get below the prospect and force her up
+	* They dive below the crush depth; the sub commander isn't crazy enough to follow them down there.
 	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
+	* [ ] push it down beyond test depth
+		* I don't think this can happen on the continental shelf zone --- the shelf is too shallow (average: ~60 meters)
+	* [ ] Maybe THIS is the scary-deep rivet-popping section
+		* Now they pop a rivet or something, they are TOO deep, scarily deep.
+		* ...or maybe save the rivet-popping scary deep until they go down the continental shelf 
+	* They escape to head to the rendezvous with Shakes
 
 
 ### --- (bicycle race in the hangar)
