@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Mar 26, 2021  05:32PM
+Last modified: Sat Mar 27, 2021  12:51PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -488,6 +488,7 @@ Last modified: Fri Mar 26, 2021  05:32PM
 	* They lose track of the sub with the ram, come out of the muddy river outflow into the clear waters.
 	* Suddenly Hemi hears the pursuing boat following, back to running on the surface.
 	* They take evasive maneuvers, but it continues to follow them
+		* the sub with the ram doesn't want to ping because they learned their lesson about attracting the attention of other Authorities
 	* Hemi speculates that the water is exceptionally clear here, and the pursuers are following the _Prospect's_ Shadow.
 		* Why don't they fire at us if they can see us?
 		* They might not be sure it's us. They might not even be sure it's a submarine.
@@ -499,6 +500,9 @@ Last modified: Fri Mar 26, 2021  05:32PM
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
 		* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 	* They go off the shelf an dive immediately.
+		* The gaping maw of hell opens under them. They desperately try to keep the bubble they need to stay afloat in tact.
+		* the malevolent force of nature (gravity) once again trying to do them down
+		* Maybe they are fired on and damaged?
 	* The sub with the ram follows them down
 	* It charges at them. Percy speculates the crazy commander has decided ramming underwater is a fine tactic (Maybe) alternatively: they are going to try to get below the prospect and force her up
 	* They dive below the crush depth; the sub commander isn't crazy enough to follow them down there.

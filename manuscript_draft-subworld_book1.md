@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Fri Mar 26, 2021  05:32PM
+Last modified: Sat Mar 27, 2021  12:47PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -4691,21 +4691,85 @@ With Hemi settled on sonar, Percy brought the _Prospect_ down to 20 meters below
 
 They had maintained a very fast 15 knots since submerging. One of the first things Hemi asked Percy to do was to slow the boat down --- both because it would make the sonar much more clear, and because even at 6 knots he estimated they would be doing twice the speed of the giant prop of the cargo ship above his head.
 
-Hemi began a steady and careful dialog with Percy, much of which she related to Bastian and Owen, to bring the _Prospect up under the cargo ship, and then throttle back to match the slow-moving, building-sized ship that was cruising above the.
+Hemi began a steady and careful dialog with Percy, much of which she related to Bastian and Owen, to bring the _Prospect_ up under the cargo ship, and then throttle back to match the slow-moving, building-sized ship that was cruising above the.
 
-Percy stood directly next to Owen and worked the tank trim panel herself, feeling the weight of her ship through its movements and finding an absoultely neutral bouyancy. When she was satisfied that her boat was trimmed so it would be perfectly level without any out-of-balance forces causing them to gain or lose depth, she took one step back from the panel. She watched Owen's moves on the dive plane carefully.
+Percy stood directly next to Owen and worked the tank trim panel herself, feeling the weight of her ship through its movements and finding an absolutely neutral buoyancy. When she was satisfied that her boat was trimmed so it would be perfectly level without any out-of-balance forces causing them to gain or lose depth, she took one step back from the panel. She watched Owen's moves on the dive plane carefully.
 
-"Bastian, do what you have to with the rudder, we have space to play with to our sides. But Owen: only make the most delicate moves to the dive planes --- one degree up or down. We want to have lots of time to correct before we drive the sail into the bottom of that steel wall above us."
+"Bastian, do what you have to with the rudder, we have space to play with to our sides." She said to the men sitting at the controls of her boat. "But Owen: only make the most delicate moves to the dive planes --- one degree up or down. We want to have lots of time to correct before we drive the sail into the bottom of that steel wall above us."
 
 "Right Captain." Said Owen, nervously fingering the dive plane wheel. His eyes darted back and forth from the boat level indicators to the depth indicator.
 
 After 20 minutes they were feeling more confident with the maneuver and maintaining their position. Captain Percy wondered if they might be able to cruise right out into deep water like this, and then spend the rest of the day running deep until they were well out and away from Stilt City.
 
-That was when a ping 
+Then a loud active sonar ping pierced through the _Prospect's_ hull. 
+
+"Hemi!" Percy called down to sonar. "Where'd that come from? Was that them?"
+
+There was a brief silence while Hemi continued listening. Then he called back up to the control room. "The source was roughly a mile back up the river behind us. It must have been them, I do not imagine anyone else has a reason to be sending out pings. They must have guess we submerged, and decided that if they light up the river with a ping, the only boat underwater would be us."
+
+"Do you think that will work?" Percy asked Hemi.
+
+"There is enough distance and so much traffic on the water that the ping will be reflecting back massive amounts of information to them. There is a good chance we will be lost in all the noise."
+
+"OK, we're sticking with our current plan then."
+
+Every few minutes another ping rang out. Hemi reported that the pursuing sub was rapidly gaining on them with each ping. But the _Prospect_, still under the giant umbrella of the cargo ship above them, was moving out of the channel and into more open water. Hemi could tell by the dispersing traffic that the main channel was much wider now --- miles wide. He also estimated that they would soon be passing the structure built at the furthest extent of Stilt City.
 
 
+### They drop to the bottom and try to hide along the continental shelf.
+
+The cargo ship maintained a straight course out from the channel, and the depth held steady around 50 meters. Moving into more open waters meant they were more exposed. Any moment now the commander of the pursuing sub might figure out that the sonar shadow of the cargo ship above them was much too large.
+
+Percy watched the depth-under-keel dial closely for 15 minutes or so as three more pings washed through them. The bottom was a fairly consistent 50 meters, varying slightly in the deeper direction in some places.
+
+She climbed down to the navigation station. "Hemi, how good are our charts for this area?" She asked as she leaned over with the magnifying glass. "Can we run close to the bottom without risking plowing into some uncharted feature?"
+
+Hemi and Cassandra looked over at her without removing their headsets.
+
+"The charts are pretty good. We're also obviously on the continental shelf, there are not many features to begin with." Said Hemi.
+
+Percy leaned over the chart. If it was accurate, then Hemi was right. It showed a flat unvarying plane, 50 to 60 meters deep, running out 40 miles from the port of Stilt City.
+
+"You are thinking we could hide from the pings if we are close enough to the bottom?" Hemi asked.
+
+Percy nodded. "Yeah, with all the pinging they are going to find us under the cargo ship any second now. Putting ourselves just off the bottom is the only other way I can think of that will let us hide from them."
+
+"I have heard that some sonar rigs Authorities are using is good enough to pick out a boat on the bottom now." Said Hemi somewhat doubtfully.
+
+"Let's assume their sonar is of fairly average quality. I'm pretty sure they lost us on the tablemount that way."
+
+"They may have also just assumed we sunk."
+
+"Well, unless you have a better idea..."
+
+"I do not." Said Hemi, as another ping hit them and he turned back to the sonar unit.
+
+Percy climbed up to the control room. She worked with Owen on the dive planes and the trim tanks to bring the to boat to a scant 2 meters off the bottom. She had them slow to 2 knots to make it less catastrophic if they hit anything. Hemi reported that the cargo ship above them was slowly creeping away from them.
+
+After a few minutes Percy noticed that the regular pings had stopped. "Hemi, what's going on? No more pings?"
+
+"I am hearing high-speed ships heading toward the location of the last ping source." He called up. "It is possible that all the pinging they were doing has attracted some unfriendly attention."
+
+"Ah," said Percy, "the Stilt City Authority ships are on them?"
+
+"Hang on Percy."
+
+A minute passed. Then Percy could hear soft, low rumblings that came into the _Prospect's_ hull through the water in a softly percussive succession. Owen looked at her.
+
+"Depth charges." She said. And when his eyes took on a bit of prey-like fear, she added, "a little ways off though."
+
+"The Authority surface ships are dropping charges Percy." Said Hemi.
+
+"Shit," said Percy, "we should have thought of this before: it's a known truism that the best way to get rid of Authority attention is to sic another Authority on them. Bastian, let's take this opportunity to change course. Maybe we will finally be able to lose these fuckers. Come around to something north-ish."
+
+"Right Cap." Said Bastian, rolling the rudder control wheel in his hands and the compass on the wall of gauges started to swing.
 
 
+### They think they are finally sneaking away from the pursuers
+
+For the next hour or so Hemi reported charges being dropped in waves. "It seems like they are dropping charges in a random pattern around the area where the last ping came from an hour ago." He reported to Percy.
+
+"I'll be the sub with the ram is now hiding on the bottom themselves. The Stilt City Authority ships probably lost them in that brown muck of water."
 
 
 

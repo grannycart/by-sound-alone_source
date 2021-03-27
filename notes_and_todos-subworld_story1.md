@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Mar 25, 2021  11:27AM
+Last modified: Sat Mar 27, 2021  12:50PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -232,6 +232,7 @@ Last modified: Thu Mar 25, 2021  11:27AM
 		* Right now I think she reads more like the elder captain she will be in later stories
 		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
+* [ ] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
 * [X] maybe say somewhere that they should think about installing a snorkel?
 	* (So sub nerds who read the book understand that they don't have one)
 * [X] do you gap a diesel engine spark plug?
