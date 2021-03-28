@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Mar 27, 2021  12:51PM
+Last modified: Sun Mar 28, 2021  12:32PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -486,6 +486,8 @@ Last modified: Sat Mar 27, 2021  12:51PM
 	* The prospect goes down to just above the surface so they can't be seen by active sonar
 	* and then pinging stops. Cassandra hears the sub with the ram tangle with authority sea craft. The sub with the ram dives to escape the other Authorities.
 	* They lose track of the sub with the ram, come out of the muddy river outflow into the clear waters.
+	* They surface (late), and run through the night.
+	* In the early morning they dive again. They are almost to the continental shelf.
 	* Suddenly Hemi hears the pursuing boat following, back to running on the surface.
 	* They take evasive maneuvers, but it continues to follow them
 		* the sub with the ram doesn't want to ping because they learned their lesson about attracting the attention of other Authorities

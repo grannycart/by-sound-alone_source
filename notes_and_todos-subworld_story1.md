@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Mar 27, 2021  12:50PM
+Last modified: Sun Mar 28, 2021  03:20PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -96,6 +96,7 @@ Last modified: Sat Mar 27, 2021  12:50PM
 * [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
 	* Stuff like the malevolence of nature could be a comment in the source code text
 * [ ] remove contractions from Hemi dialog
+* [ ] more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
 * [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* a great round sound
 * [ ] hatch in Prospect sail is at top of _control room_ not sail

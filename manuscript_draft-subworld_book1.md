@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sat Mar 27, 2021  12:47PM
+Last modified: Sun Mar 28, 2021  03:22PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -4206,7 +4206,7 @@ Hemi looked through the sextant and adjusted it slowly and smoothly, watching th
 ### They enter Stilt City
 
 [//]: # (day: day 5, run to Stilt City)
-They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slow and deep under the remaining contested territory. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
+They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slowly under the remaining contested territory, following the very gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
 
 The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
 
@@ -4718,23 +4718,21 @@ Every few minutes another ping rang out. Hemi reported that the pursuing sub was
 
 ### They drop to the bottom and try to hide along the continental shelf.
 
-The cargo ship maintained a straight course out from the channel, and the depth held steady around 50 meters. Moving into more open waters meant they were more exposed. Any moment now the commander of the pursuing sub might figure out that the sonar shadow of the cargo ship above them was much too large.
-
-Percy watched the depth-under-keel dial closely for 15 minutes or so as three more pings washed through them. The bottom was a fairly consistent 50 meters, varying slightly in the deeper direction in some places.
+Percy watched the depth-under-keel dial closely for 15 minutes or so as three more pings washed through them. The bottom was a fairly consistent 50 meters, varying slightly in the deeper direction in some places. The cargo ship maintained a straight course out from the channel, and the _Prospect_ held its spot directly under the ship. Moving into more open waters meant they were more exposed. Any moment now the commander of the pursuing sub might figure out that the sonar shadow of the cargo ship above them was much too large. Percy needed to make a move.
 
 She climbed down to the navigation station. "Hemi, how good are our charts for this area?" She asked as she leaned over with the magnifying glass. "Can we run close to the bottom without risking plowing into some uncharted feature?"
 
 Hemi and Cassandra looked over at her without removing their headsets.
 
-"The charts are pretty good. We're also obviously on the continental shelf, there are not many features to begin with." Said Hemi.
+"The charts are good. We are also still on the continental shelf, there are not many features to begin with." Said Hemi.
 
-Percy leaned over the chart. If it was accurate, then Hemi was right. It showed a flat unvarying plane, 50 to 60 meters deep, running out 40 miles from the port of Stilt City.
+Percy leaned over the chart. If it was accurate, then Hemi was right. It showed a flat unvarying plane, 50 to 60 meters deep, running out about 200 miles from the port of Stilt City. There were much bigger shelf areas in the world, but 200 miles was longer than most.
 
 "You are thinking we could hide from the pings if we are close enough to the bottom?" Hemi asked.
 
 Percy nodded. "Yeah, with all the pinging they are going to find us under the cargo ship any second now. Putting ourselves just off the bottom is the only other way I can think of that will let us hide from them."
 
-"I have heard that some sonar rigs Authorities are using is good enough to pick out a boat on the bottom now." Said Hemi somewhat doubtfully.
+"I have heard that some of the sonar rigs Authorities are using now are good enough to pick out a boat on the bottom." Said Hemi somewhat doubtfully.
 
 "Let's assume their sonar is of fairly average quality. I'm pretty sure they lost us on the tablemount that way."
 
@@ -4744,7 +4742,7 @@ Percy nodded. "Yeah, with all the pinging they are going to find us under the ca
 
 "I do not." Said Hemi, as another ping hit them and he turned back to the sonar unit.
 
-Percy climbed up to the control room. She worked with Owen on the dive planes and the trim tanks to bring the to boat to a scant 2 meters off the bottom. She had them slow to 2 knots to make it less catastrophic if they hit anything. Hemi reported that the cargo ship above them was slowly creeping away from them.
+Percy climbed up to the control room. She worked with Owen on the dive planes and the trim tanks to bring the to boat to a scant 2 meters off the bottom. She had them slow to 2 knots to make it less catastrophic if they hit anything. There was no such thing as a perfect chart. Hemi reported that the cargo ship above them was slowly creeping away ahead of the _Prospect_.
 
 After a few minutes Percy noticed that the regular pings had stopped. "Hemi, what's going on? No more pings?"
 
@@ -4758,18 +4756,35 @@ A minute passed. Then Percy could hear soft, low rumblings that came into the _P
 
 "Depth charges." She said. And when his eyes took on a bit of prey-like fear, she added, "a little ways off though."
 
-"The Authority surface ships are dropping charges Percy." Said Hemi.
+"The Authority surface ships are dropping charges Percy." Said Hemi from the sonar compartment.
 
-"Shit," said Percy, "we should have thought of this before: it's a known truism that the best way to get rid of Authority attention is to sic another Authority on them. Bastian, let's take this opportunity to change course. Maybe we will finally be able to lose these fuckers. Come around to something north-ish."
+"Ha," said Percy, "we should have thought of this before: it's a known truism that the best way to get out from under the attention of one Authority is to sic another Authority on them. Bastian, let's take this opportunity to change course. Maybe we will finally be able to lose these fuckers. Come around to something north-ish."
 
 "Right Cap." Said Bastian, rolling the rudder control wheel in his hands and the compass on the wall of gauges started to swing.
 
 
 ### They think they are finally sneaking away from the pursuers
 
-For the next hour or so Hemi reported charges being dropped in waves. "It seems like they are dropping charges in a random pattern around the area where the last ping came from an hour ago." He reported to Percy.
+Percy moved down to the sonar station and for the next hour or so Hemi reported charges being dropped in waves with Percy standing behind him watching the dials of the sonar rig rise and fall with the sounds Hemi and Cassandra were hearing. "It seems like they are dropping charges in a random pattern around the area where the last ping came from an hour ago." Hemi said with an image in his head of the rough location of the dozens of explosions he had heard.
 
-"I'll be the sub with the ram is now hiding on the bottom themselves. The Stilt City Authority ships probably lost them in that brown muck of water."
+"It could be the sub with the ram is now hiding on the bottom themselves." Percy replied. "The Stilt City Authority ships probably lost them in that brown muck water from the river outflow, and are hoping a random charge will force them to the surface." 
+
+"That does not seem entirely likely." Said Hemi.
+
+"Yeah, but if it forces them to hole up for any significant length of time we have a shot at them never finding us again. The Stilt City Authority boats incapacitating the sub with the ram would be a blessing. But just losing them will be good enough for me."
+
+As much as Captain Percy wanted to cruise out of the area at high speed, she did not want to risk giving away the _Prospect's_ position. They crawled at a painfully slow, but very discreet, 3 knots on the more or less random course Bastian had chosen for them for the rest of the daylight hours. By dark they had left the noise of the depth charges behind them, along with any kind of contact or signal that the sub with the ram continued to pursue them.
+
+Percy was feeling more and more confident. After they gained the full cover of darkness, she brought the boat to the surface, and they started the diesels. She pushed the _Prospect_ up to its full 15 knots. She wanted to cover as much of the distance across the continental shelf as she could while it was night.
+
+Hemi took a siting off a star with his sextant and he and Percy fixed their exact position on the map. They measured the remaining distance to the edge of the continental shelf and realized they were not going to make it by sunrise, but they would be close. Percy would not truly feel like they had lost their pursuers until they could get back to running in deep water during the day.
+
+They cruised through the blackness. Percy had the red night lighting on in the control room and sonar compartment, and she had them keep the control room hatch closed to minimize any chance of the red light escaping up the sail and giving their position away. She even forbade smoking on the bridge of the sail for fear of the lit coal being spotted, depriving her crew of one of the few very visceral pleasure of running a vessel on the surface in a warm climate. 
+
+A few times during the night they had to shut down the radar unit because it detected other radar scans washing over them. These were fairly heavily trafficked waters though, and that was to be expected. Percy wasn't going to let that worry her unless they saw another ship coming towards them.
+
+Before there was even a lightening in the eastern sky, they submerged and dove to just off the bottom of the continental shelf again, at about 60 meters down. They resumed their slow underwater crawl towards the end of the shelf at 5 knots. Hemi estimated they still had 4 hours to go before they were over the deep parts of the central ocean again.
+
 
 
 
