@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Mar 28, 2021  12:32PM
+Last modified: Mon Mar 29, 2021  03:01PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -478,7 +478,7 @@ Last modified: Sun Mar 28, 2021  12:32PM
 
 ### Leave in a hurry; cruise down the continental shelf
 
-* [ ] _They cruise down the continental shelf just above the bottom so they can't be found._
+* [X] _They cruise down the continental shelf just above the bottom so they can't be found._
 	* They hide under a big ship in the channel
 	* The sub with the ram pings: lights up the channel knowing anything submerged is probably them.
 	* the pursuing sub also probably has to fight its way out with the ECC Authority boats --- maybe the Prospect hears them being fired on.
@@ -496,7 +496,7 @@ Last modified: Sun Mar 28, 2021  12:32PM
 		* They might not be sure it's us. They might not even be sure it's a submarine.
 		* They still can't quite be sure of range either with the sonar still bouncing off the bottom
 	* They realize they have to make it off the continental shelf (only 60 meters deep) and get below 200 meters so they can't be fired on.
-		* The continental shelf ends 40 miles out. 
+		* The continental shelf ends 200 miles out. 
 
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}

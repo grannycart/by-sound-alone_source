@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Mar 28, 2021  03:20PM
+Last modified: Mon Mar 29, 2021  12:06PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -107,6 +107,7 @@ Last modified: Sun Mar 28, 2021  03:20PM
 	* [ ] no god-damning either: there is no god
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 * [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
+* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
 * [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
 * [ ] revisions for Gregory death scene:
 	* blood rains down through the open hatch (though they don't see Gregory at all)
