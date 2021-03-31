@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Mar 29, 2021  12:06PM
+Last modified: Wed Mar 31, 2021  03:38PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -99,9 +99,10 @@ Last modified: Mon Mar 29, 2021  12:06PM
 * [ ] more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
 * [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* a great round sound
+* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
 * [ ] hatch in Prospect sail is at top of _control room_ not sail
 * [ ] fix the bumpers stored on deck outside pressure hull?
-	* Seems iike maybe they should not be the inflatey kind
+	* Seems like maybe they should not be the inflatey kind
 * [ ] maybe they refer to the bottomless deep as 'the hole'
 * [ ] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
 	* [ ] no god-damning either: there is no god

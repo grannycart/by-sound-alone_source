@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Mar 29, 2021  03:01PM
+Last modified: Tue Mar 30, 2021  11:24AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -501,7 +501,11 @@ Last modified: Mon Mar 29, 2021  03:01PM
 * [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
 		* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
-	* They go off the shelf an dive immediately.
+	* They go to max speed underwater for the shelf, use up most of their battery.
+	* The sub following dives and accelerates; they get on the ship-to-ship and warn them to surface or they'll shoot
+	* They go off the shelf and dive immediately.
+		* They shut down the motors, open the tanks and glide into the deep.
+		* They rapidly drop below 200m where they could be torpedoed
 		* The gaping maw of hell opens under them. They desperately try to keep the bubble they need to stay afloat in tact.
 		* the malevolent force of nature (gravity) once again trying to do them down
 		* Maybe they are fired on and damaged?
@@ -510,10 +514,10 @@ Last modified: Mon Mar 29, 2021  03:01PM
 	* They dive below the crush depth; the sub commander isn't crazy enough to follow them down there.
 	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
 	* [ ] push it down beyond test depth
+		* describe in detail the sounds the Prospect is making
 		* I don't think this can happen on the continental shelf zone --- the shelf is too shallow (average: ~60 meters)
-	* [ ] Maybe THIS is the scary-deep rivet-popping section
-		* Now they pop a rivet or something, they are TOO deep, scarily deep.
-		* ...or maybe save the rivet-popping scary deep until they go down the continental shelf 
+	* [ ] Maybe they pop a rivet or something, they are TOO deep, scarily deep.
+	* They pick up a deep ocean current, it draws them off to the south in absolute silence while the sub with the ram surfaces, and eventually starts their diesels indicating they are giving up for the moment
 	* They escape to head to the rendezvous with Shakes
 
 
@@ -548,6 +552,7 @@ Last modified: Mon Mar 29, 2021  03:01PM
 
 * [ ] _The pursuing sub is pursuing_
 	* how do they find the Prospect and Gnat this final time?
+		* Perhaps the sub commander guessed their maneuver of floating off with the current to get him in the right vicinity. 
 	* See notes from draft2: this might be the place where they are shutting down the engine to listen every half hour?
 	* Cassandra hears them coming, knows what they sound like now
 		* She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
