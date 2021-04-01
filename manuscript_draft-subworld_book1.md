@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Apr 01, 2021  11:36AM
+Last modified: Thu Apr 01, 2021  12:23PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5026,13 +5026,11 @@ From the front of the boat came another long groan --- one that sounded to Percy
 
 The quiet hum of the electric motors died away, and as the _Prospect_ settled into the weight of the water, they were left in the uncanny silence of the deep ocean. They listened intently to the silence. It seemed to be made even more silent by the cloud of smoke-filled red light in the control room. It was not even clear what they were listening for, perhaps the sound of the sub with the ram rushing past them over their heads, or at least a report from Hemi on the sonar.
 
-But the silence wasn't broken by the pursuing sub or Hemi's voice, it was broken by a banging pop from somewhere deep in the ship. It was followed shortly after by another, and soon a third. They came at intervals that were terrifyingly random --- there was no way to physically or physiologically prepare themselves for the next. Each pop seemed louder than the previous one, and each rang out as it echoed along the pressed steel of the hull.
-
-"Rivets." Bastian uttered the single word through the smoldering remains of his cigarette, shaking between his lips.
+But the silence was broken by another long quaking groan from the depths of the _Prospect's_ hull.
 
 Percy put one hand out to the wall, laying her palm flat against the curve, and felt the cold dampness of the steel pressure hull of her boat under her hand. "Hold together baby..." she said softly enough that Bastian and Owen wouldn't be able to hear.
 
-"They would have heard those bangs... wouldn't they?" Owen asked, his voice shaking. "They were so loud..."
+The sub with the ram... they would have heard that sound from the hull... wouldn't they?" Owen asked, his voice shaking. "It was so loud..."
 
 "It doesn't matter." Said Percy. "Even if they know where we are, they won't follow us down here." Though then she doubted herself. "Hemi, where are they?"
 
@@ -5040,10 +5038,54 @@ Percy put one hand out to the wall, laying her palm flat against the curve, and 
 
 "To submerged submarine." The ship-to-ship lit up again. "You are in violation of..." Percy flipped off the ship-to-ship unit.
 
-Minutes passed with no sound except their breathing and the drip of condensation. The rivets that were weak and going to fail seemed to have already done so.
+More minutes passed with no sound except their breathing and the aggravatingly random drips of condensation. 
+
+"Owen," Percy said quietly, "go down to the cargo hold and check on the repaired seam --- see how bad its leaking."
+
+Owen nodded and silently climbed down the ladder out of the control room.
+
+Percy stepped up to the trim tank control panel. The boat was slowly settling with the bow dipping down, and that was extra stress on the hull that Percy didn't need. She gingerly opened some of the high-pressure valves that would force air into the forward trim tanks. There was a long his that ran up the length of the boat from behind them forward into the deeper darkness.
+
+She kept an eye on the trim. The tank gauges were not showing any water leaving. It was possible they were so deep --- so far beyond where her boat was normally designed to operate --- that the high-pressure air system didn't have enough pressure to push the water out of the tanks. She slowly opened the valve further and further, and when it hit the stop --- all the way open --- the trim tank gauges slowly turned towards their zero pins as some of the water in them was forced out.
+
+Percy made a few further adjustments to the trim tanks, desperately tending the delicate balloon that held them aloft over the black sucking pit that so hungrily wanted to consume them.
+
+She got the boat trimmed perfectly level, and then stood silently in the middle of the control room with a slight gap between her feet. She measured her own center of gravity against her boat's. In its current configuration it should be absolutely still. But she could feel some kind of movement. Very slow movement.
+
+"Sylvia, they passed us, a few hundred meters off to the west." Hemi reported, then after a pause continued. "They are swinging around again... It would seem that they may have lost us."
+
+"They are unwilling to come this deep, and unwilling to risk firing off a ping to find us. Good. Keep tracking them Hemi." Said Percy.
+
+Owen returned from the cargo hold. "Captain Percy, water is just fucking flowing in along the length of the repaired seam. I think we should start the bilge pumps."
+
+Percy felt her boat through her feet and knew it was telling her that the weight was increasing in the bow. "We can't start the pumps now Owen, we're just about to lose those fuckers up there, and if we start the bilges they'll definitely hear them. Bastian, keep trimming the forward tanks. They are far less likely to hear the air systems."
+
+Bastian turned his control chair to face the tank panel squarely, and he locked his eyes on the tank fill gauges.
 
 
 ### They drift away on a current
+
+Percy lowered herself down to the sonar compartment and stepped up to the navigation table.
+
+"They just passed by again, further west by a few hundred more meters." Hemi said to her.
+
+"Further _west_ right? Look at this chart Hemi."
+
+He removed the headphones and told Cassandra to keep tracking the sub with the ram before he stepped up to the navigation table next to Percy.
+
+Percy pointed. "The chart shows a current here, starting just off the continental shelf. It flows toward the west. But... that current is a _surface_ current. And I think we might be drifting east. I think we may be so deep we've picked up a counter-current."
+
+"It is possible. There is often a counter-current under the surface current in the deep ocean. But there is no way for us to tell. We have no outside reference points." Said Hemi.
+
+"Well, our one outside reference point is the sub with the ram. It seems like they are searching for us steadily to the west. But they may be moving back and forth over the same point --- the last point where they knew they had us --- and _we_ might be moving slowly east with the current." Percy postulated.
+
+"I supposed with a little time we will know." Said Hemi.
+
+"If we don't fucking sink first of course." Percy replied. "Keep listening with Cassandra, I don't want to us to drift into that fucking continental shelf wall --- at this depth it would be the end of us."
+
+"That will be challenging with so little ambient sound to judge what is around us."
+
+"I'm sure that between you and Cassandra you can keep us safe."
 
 
 
