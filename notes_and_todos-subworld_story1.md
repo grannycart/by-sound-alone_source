@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Mar 31, 2021  03:38PM
+Last modified: Thu Apr 01, 2021  03:23PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -117,6 +117,7 @@ Last modified: Wed Mar 31, 2021  03:38PM
 	* I think it's a hold on a ship
 * [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
 	* tough maybe Hemi is the only one who calls her by it
+	* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
 * [ ] Have Percy address Hemi by his full name somewhere
 * [ ] Cassandra should always address percy as "Captain Percy"
 * [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair

@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Apr 01, 2021  12:23PM
+Last modified: Thu Apr 01, 2021  03:23PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5069,9 +5069,9 @@ Percy lowered herself down to the sonar compartment and stepped up to the naviga
 
 "They just passed by again, further west by a few hundred more meters." Hemi said to her.
 
-"Further _west_ right? Look at this chart Hemi."
+"Further _west_, right? Look at this chart Hemi."
 
-He removed the headphones and told Cassandra to keep tracking the sub with the ram before he stepped up to the navigation table next to Percy.
+He removed the headphones and told Cassandra to keep tracking the pursuing sub before he stepped up to the navigation table next to Percy.
 
 Percy pointed. "The chart shows a current here, starting just off the continental shelf. It flows toward the west. But... that current is a _surface_ current. And I think we might be drifting east. I think we may be so deep we've picked up a counter-current."
 
@@ -5087,7 +5087,50 @@ Percy pointed. "The chart shows a current here, starting just off the continenta
 
 "I'm sure that between you and Cassandra you can keep us safe."
 
+Over the course of the next hour the _Prospect_ hovered silently just below 300 meters. Hemi tracked the steadily diminishing signal of the sub with the ram as it swept back and forth, and then began circling around the location where the _Prospect_ had went under 300 meters. At that point Hemi was convinced the pursuing sub had lost their track on the _Prospect_ completely.
 
+Every so often the _Prospect_ let out a groan, as if to remind Percy the stress she was under. Every time one of those long wailing groans came up from the guts of her boat it grated Percy's nerves --- both because of the visceral way she experience the _Prospect's_ physical stress, and because she worried it was enough sound to give away their position.
+
+At some point, as enough time passed and it became apparent the _Prospect_ was indeed slowly drifting away, Percy main concern swung from the sub with the ram to the slight but distinct angle to the deck that she could sense under her feet. Her sensitivity to the movements of her boat, especially while standing, made her the first to realize that the bow was sinking under the weight of the water seeping in through the repaired seam.
+
+She worked with Bastian to try to correct it, but they realized the trim tanks were already emptied as much as they could be at this depth. They needed to start the bilge pumps.
+
+She consulted with Hemi at the navigation table. "How much distance have we gained from those fuckers with the ram Hemi?"
+
+"We have been drifting for a bit more than an hour. The current appears to be 2 knots or so --- so we are maybe a bit more than 2 nautical miles from them." Said Hemi.
+
+"That's not very fucking much to play with. Do you think we can start the bilge pumps without them hearing?"
+
+"That would be taking an extreme risk at this range I think." Said Hemi.
+
+"_Not_ starting them is also beginning to look like an extreme risk." Percy said, pointing to the ever more apparent angle of the deck.
+
+"We could blow the water out of the main ballast and surface." Suggested Hemi.
+
+"If we do that without starting the motors, we'll catch that surface current and drift right back towards them. What other options do we have?"
+
+"We can keep pushing air into the main ballast to counter-act the weight of the water leaking in." Said Hemi. "That will keep us from sinking, but without running the bilge pumps we can not trim the boat properly --- we are likely to hang bow-down before too long."
+
+"If we can lose a little depth we could also take some of the pressure off the leaking seam."
+
+"You have to do that without losing the current though." Pointed out Hemi.
+
+"It's going to be tricky, but that's our fucking move, right there."
+
+Hemi nodded.
+
+Percy reached up and patted him on his big shoulder and climbed up to the control room. She sent Owen down to the sonar compartment to operate the emergency main ballast blow levers, and she stood next to Bastian reviewing every gauge reading and valve setting on the trim tank control panel. They worked together over the course of the next few hours to blast enough air from the high-pressure system into the main ballast tanks to lift them up 50 meters or so. At that depth, Cassandra could tell them from sonar that they were still drifting away from the sound of the sub with the ram, so they still had the current.
+
+But as the time passed, the bow sank deeper and deeper as they took on more weight in the cargo hold. The deck was soon at a 60 degree down angle as they drifted like a derelict through the black water 250 meters down. It was getting more and more difficult to move around the boat, and the dramatic effort involved in even simple tasks was causing panic to set in with the crew. Cassandra had to constantly press her feet against the sonar console to keep from sliding off her chair into it, and her leg muscles were burning with the effort.
+
+Finally, when they had gained maybe 5 nautical miles, Percy could not take it anymore, and she gave Owen the order to fully blow out the main ballast. The _Prospect_ shot up from the depths, the hull screaming with relief the whole way, and burst through the surface, settling back down to just under with the deck awash.
+
+Percy had them start running the bilge pumps to remove the water from the cargo hold, and the low-pressure air compressors to get the boat fully surfaced. She also decided it was time to risk a little more noise and they started the electric motors and selected an eastern course to take them towards their rendezvous point with Shakes.
+
+The western sky was starting to redden with late-day light. Percy decided to hold off on starting the diesels until after dark, even though they were moving on the surface now.
+
+
+### Rendezvous with Shakes
 
 
 

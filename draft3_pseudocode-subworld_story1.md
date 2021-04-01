@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Tue Mar 30, 2021  11:24AM
+Last modified: Thu Apr 01, 2021  03:23PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -498,9 +498,9 @@ Last modified: Tue Mar 30, 2021  11:24AM
 	* They realize they have to make it off the continental shelf (only 60 meters deep) and get below 200 meters so they can't be fired on.
 		* The continental shelf ends 200 miles out. 
 
-* [ ] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
+* [X] _This is where the long O'Brian style chase scene goes, perhaps the batteries run down, then they cruise on the surface, or something_
 	* {Except where O'brian had horizontal runs across the surface, here the chase might be _vertical_ into the depths}
-		* [ ] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
+		* [X] {consider note from rough narrative section with the suggestion that it might be dramatic if they keep getting detected and keep having to go deeper, until they are at the limits of their depths and batteries.}
 	* They go to max speed underwater for the shelf, use up most of their battery.
 	* The sub following dives and accelerates; they get on the ship-to-ship and warn them to surface or they'll shoot
 	* They go off the shelf and dive immediately.
@@ -510,13 +510,13 @@ Last modified: Tue Mar 30, 2021  11:24AM
 		* the malevolent force of nature (gravity) once again trying to do them down
 		* Maybe they are fired on and damaged?
 	* The sub with the ram follows them down
-	* It charges at them. Percy speculates the crazy commander has decided ramming underwater is a fine tactic (Maybe) alternatively: they are going to try to get below the prospect and force her up
+	* It charges at them. Hemi speculates the crazy commander has decided ramming underwater is a fine tactic (Maybe) alternatively: they are going to try to get below the prospect and force her up
 	* They dive below the crush depth; the sub commander isn't crazy enough to follow them down there.
-	* [ ] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
-	* [ ] push it down beyond test depth
-		* describe in detail the sounds the Prospect is making
+	* [X] They listen in silence, pushing down their own fear. But that can't prevent small tears from welling up in Percy's eyes.
+	* [X] push it down beyond test depth
+		* [X] describe in detail the sounds the Prospect is making
 		* I don't think this can happen on the continental shelf zone --- the shelf is too shallow (average: ~60 meters)
-	* [ ] Maybe they pop a rivet or something, they are TOO deep, scarily deep.
+	* [X] Maybe they pop a rivet or something, they are TOO deep, scarily deep.
 	* They pick up a deep ocean current, it draws them off to the south in absolute silence while the sub with the ram surfaces, and eventually starts their diesels indicating they are giving up for the moment
 	* They escape to head to the rendezvous with Shakes
 
@@ -527,6 +527,7 @@ Last modified: Tue Mar 30, 2021  11:24AM
 
 * [ ] _During the lull from pursuit: A crazy bicycle race in the empty cargo bay._
 	* You know the rules: there are no rules except don't get _badly_ hurt
+	* the grating of the deck is still wet from the water pumped out
 	* with no engine or motor running in the sub, its pleasantly quiet; just the sound of bicycle pawls clicking interspersed with the occasional crash followed by a disbelieving laugh
 	* Somebody floods the forward tanks to force the course into a ramp.
 
