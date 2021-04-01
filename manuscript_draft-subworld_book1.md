@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Wed Mar 31, 2021  03:38PM
+Last modified: Thu Apr 01, 2021  11:36AM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -4912,7 +4912,7 @@ Percy lifted a stopwatch that hung on the wall next to her and pressed the butto
 
 ### Over the end of the shelf, dive below 200m
 
-Percy grinned, and took the mic down from the ship-to-ship radio over her head. She squeezed the transmit button. "To pursuing Authority boat, sub running north-north-west acknowledging. Stopping motor and surfacing." As soon as she released the transmit button, Percy punched the dive alarm next to her. As the klaxon wound up she gave Hemi his order. "Dive Hemi! Drive us down!"
+Percy grinned, and took the mic down from the ship-to-ship radio over her head. She squeezed the transmit button. "To pursuing Authority boat, sub running north-north-west acknowledging. Stopping motor and surfacing." As soon as she released the transmit button, Percy punched the dive alarm next to her. As the klaxon wound up she gave Hemi his order. "Dive Hemi! Drive us down!" She flipped the light switch to turn on the red glow of the night lighting.
 
 Bastian didn't even wait for Hemi to tap his shoulder. He turned the dive plane to a full descent angle. Hemi stepped to the tank trim board and started trimming the boat's weight forward. He hung one hand through the strap above his head and leaned against the angle of the boat. 
 
@@ -5012,7 +5012,7 @@ Captain Percy had never dreamed of taking her boat this deep. The sounds of her 
 
 The depth gauge needle tapped against the far right pin at 300 meters.
 
-"They leveled out and passed just over us!" Hemi yelled.
+"They leveled out and passed just over us!" Hemi yelled his update.
 
 "Level her Bastian." Said Percy calmly.
 
@@ -5024,7 +5024,23 @@ From the front of the boat came another long groan --- one that sounded to Percy
 
 "Owen, shut down the motors." Said Percy.
 
-The quiet hum of the electric motors died away, and as the _Prospect_ settled into the weight of it, they were left in the perfect silence of the deep ocean.
+The quiet hum of the electric motors died away, and as the _Prospect_ settled into the weight of the water, they were left in the uncanny silence of the deep ocean. They listened intently to the silence. It seemed to be made even more silent by the cloud of smoke-filled red light in the control room. It was not even clear what they were listening for, perhaps the sound of the sub with the ram rushing past them over their heads, or at least a report from Hemi on the sonar.
+
+But the silence wasn't broken by the pursuing sub or Hemi's voice, it was broken by a banging pop from somewhere deep in the ship. It was followed shortly after by another, and soon a third. They came at intervals that were terrifyingly random --- there was no way to physically or physiologically prepare themselves for the next. Each pop seemed louder than the previous one, and each rang out as it echoed along the pressed steel of the hull.
+
+"Rivets." Bastian uttered the single word through the smoldering remains of his cigarette, shaking between his lips.
+
+Percy put one hand out to the wall, laying her palm flat against the curve, and felt the cold dampness of the steel pressure hull of her boat under her hand. "Hold together baby..." she said softly enough that Bastian and Owen wouldn't be able to hear.
+
+"They would have heard those bangs... wouldn't they?" Owen asked, his voice shaking. "They were so loud..."
+
+"It doesn't matter." Said Percy. "Even if they know where we are, they won't follow us down here." Though then she doubted herself. "Hemi, where are they?"
+
+"Trying to figure it out Sylvia." Hemi paused. "They are off about 1000 meters again, reduced speed, and are turning back in this direction."
+
+"To submerged submarine." The ship-to-ship lit up again. "You are in violation of..." Percy flipped off the ship-to-ship unit.
+
+Minutes passed with no sound except their breathing and the drip of condensation. The rivets that were weak and going to fail seemed to have already done so.
 
 
 ### They drift away on a current
