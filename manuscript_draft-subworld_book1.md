@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Apr 01, 2021  03:23PM
+Last modified: Fri Apr 02, 2021  04:32PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5121,16 +5121,31 @@ Hemi nodded.
 
 Percy reached up and patted him on his big shoulder and climbed up to the control room. She sent Owen down to the sonar compartment to operate the emergency main ballast blow levers, and she stood next to Bastian reviewing every gauge reading and valve setting on the trim tank control panel. They worked together over the course of the next few hours to blast enough air from the high-pressure system into the main ballast tanks to lift them up 50 meters or so. At that depth, Cassandra could tell them from sonar that they were still drifting away from the sound of the sub with the ram, so they still had the current.
 
-But as the time passed, the bow sank deeper and deeper as they took on more weight in the cargo hold. The deck was soon at a 60 degree down angle as they drifted like a derelict through the black water 250 meters down. It was getting more and more difficult to move around the boat, and the dramatic effort involved in even simple tasks was causing panic to set in with the crew. Cassandra had to constantly press her feet against the sonar console to keep from sliding off her chair into it, and her leg muscles were burning with the effort.
+But time passed, and with it the bow sank deeper and deeper as they took on the weight of more water in the cargo hold. The deck was soon at a 60 degree down angle as they drifted like a derelict through the black water 250 meters down. It was getting more and more difficult to move around the boat, and the dramatic effort involved in even simple tasks was causing panic to vein its way into the moral of the crew. Cassandra had to constantly press her feet against the sonar console to keep from sliding off her chair into it, and her leg muscles were burning with the effort.
 
 Finally, when they had gained maybe 5 nautical miles, Percy could not take it anymore, and she gave Owen the order to fully blow out the main ballast. The _Prospect_ shot up from the depths, the hull screaming with relief the whole way, and burst through the surface, settling back down to just under with the deck awash.
 
-Percy had them start running the bilge pumps to remove the water from the cargo hold, and the low-pressure air compressors to get the boat fully surfaced. She also decided it was time to risk a little more noise and they started the electric motors and selected an eastern course to take them towards their rendezvous point with Shakes.
+Percy had them start running the bilge pumps to remove the water from the cargo hold, and the low-pressure air compressors to get the boat fully surfaced. She also decided it was time to risk a little more noise and they started the electric motors. She selected an eastern course to take them towards their rendezvous point with Shakes.
 
 The western sky was starting to redden with late-day light. Percy decided to hold off on starting the diesels until after dark, even though they were moving on the surface now.
 
 
 ### Rendezvous with Shakes
+
+With darkness Hemi was able to take a siting from a star, and he calculated they had made about 20 nautical miles from the point where they had dove to below 300 meters. Percy felt that was enough of cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. They soon had the diesels turned over and roaring away below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the lookout ring throughout the night and gambled on not running the radar, feeling that it was too likely to give them away.
+
+They ran through the night on too much coffee and not enough sleep. But they saw no other vessels and there was no sign of the sub with the ram.
+
+Even as the sun rose in front of them, Percy kept them on the surface wanting to make up some of the time they had lost during the previous day so they would make the rendezvous with Shakes more or less on time. The sun was well up above the horizon and they had clear visibility for 11 miles from the lookout ring before Percy finally called for the boat to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and high confidence that Hemi would navigate them very precisely to the correct spot.
+
+A few hours later Hemi announced they were on top of the rendezvous point. They leveled the boat at 20 meters down, and shut down the motors to wait.
+
+Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and resting. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
+
+A few miles off the sound of the diesel disappeared, and Cassandra assumed Shakes was diving to approach the rendezvous point. She called Hemi up to the control room. An hour later Shakes contacted them over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
+
+
+### underwater bicycle race
 
 
 

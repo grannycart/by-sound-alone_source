@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Apr 01, 2021  03:23PM
+Last modified: Fri Apr 02, 2021  04:32PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -523,7 +523,7 @@ Last modified: Thu Apr 01, 2021  03:23PM
 
 ### --- (bicycle race in the hangar)
 
-* [ ] _They find Shakes and mate up the Gnat --- so maybe it's nighttime? They are shut down and hiding?_
+* [X] _They find Shakes and mate up the Gnat_
 
 * [ ] _During the lull from pursuit: A crazy bicycle race in the empty cargo bay._
 	* You know the rules: there are no rules except don't get _badly_ hurt
