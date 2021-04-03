@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Apr 01, 2021  03:23PM
+Last modified: Sat Apr 03, 2021  10:30AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -185,6 +185,7 @@ Last modified: Thu Apr 01, 2021  03:23PM
 * [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 * [ ] find and remove 'inches' and 'feet' references
 * [ ] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
+* [ ] makes sure Shakes learns that Chips left the Prospect
 * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the ramming sub's captain's wife.

@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Fri Apr 02, 2021  04:32PM
+Last modified: Sat Apr 03, 2021  11:36AM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5132,22 +5132,65 @@ The western sky was starting to redden with late-day light. Percy decided to hol
 
 ### Rendezvous with Shakes
 
-With darkness Hemi was able to take a siting from a star, and he calculated they had made about 20 nautical miles from the point where they had dove to below 300 meters. Percy felt that was enough of cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. They soon had the diesels turned over and roaring away below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the lookout ring throughout the night and gambled on not running the radar, feeling that it was too likely to give them away.
+With darkness Hemi was able to take a siting from a star, and he calculated they had made about 20 nautical miles from the point where they had dove to below 300 meters. Percy felt that was enough of cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. They soon had the diesels turned over and roaring away below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not running the radar, feeling that it was too likely to give them away.
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels and there was no sign of the sub with the ram.
 
-Even as the sun rose in front of them, Percy kept them on the surface wanting to make up some of the time they had lost during the previous day so they would make the rendezvous with Shakes more or less on time. The sun was well up above the horizon and they had clear visibility for 11 miles from the lookout ring before Percy finally called for the boat to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and high confidence that Hemi would navigate them very precisely to the correct spot.
+Even as the sun rose in front of them, Percy kept them on the surface wanting to make up some of the time they had lost during the previous day. She was hoping to make the rendezvous with Shakes more or less on time. The sun was well up above the horizon and they had clear visibility for 11 miles from the lookout ring before Percy finally called for the boat to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and high confidence that Hemi would navigate them very precisely to the correct spot.
 
-A few hours later Hemi announced they were on top of the rendezvous point. They leveled the boat at 20 meters down, and shut down the motors to wait.
+A few hours later Hemi announced they were on top of the rendezvous point. They leveled the boat at 20 meters down, and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
 
-Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and resting. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
-
-A few miles off the sound of the diesel disappeared, and Cassandra assumed Shakes was diving to approach the rendezvous point. She called Hemi up to the control room. An hour later Shakes contacted them over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
+A few miles off the sound of the diesel disappeared, and Cassandra assumed Shakes was diving before approaching the rendezvous point. She called Hemi up to the control room. An hour later Shakes voice came over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
 
 
 ### underwater bicycle race
 
+Hemi sent Bastian down to the lowest deck of the _Prospect_ to get the hatch opened to the _Gnat_. Even as he climbed up through the hatch, helped by a strongly gripping hand from Bastian, Shakes was already thinking about food.
 
+"Bastian! Good to see you again. It's about dinner time on this vessel, ain't it?"
 
+"Sure fucking is Captain Shakes." Said Bastian, through a cigarette in his mouth. " I think I smelled Owen working on some fucking sticky glop or other in the galley, when I was making my way down here. You're hungry?"
 
+"Submarining is fucking hungry work Bastian. Let's go see what that fucking kid is burning."
 
+They made their way up the decks with the wrenches hanging from Shakes' belt clanking loudly each time they ascended. In the Galley Hemi and Percy were sitting at the table and Owen had a big curved steel pan smoking. They all sat and ate a heavy meal of boiled oats and cabbage with small bits of slightly charred canned ham sprinkled throughout. The oats had enough texture still left to them that the little grains popped between their teeth when ground between molars. Hemi brought a bowl in to Cassandra who was still on sonar duty.
+
+After Shakes ate his third bowl, Owen poured them all a cup of the requisite coffee that came after every meal, and Percy leaned back into the corner of the galley bench, stretching her arms.
+
+"Gentlemen. You know what? It's probably time we got some fucking exercise. How about a bicycle race tonight?"
+
+Hemi nodded, but Shakes was deeply confused. "A bicycle race? Is that some kind of code for something Captain Percy?"
+
+"Well, the 'race' part might be a bit of a stretch, but the bicycle part is literal Captain Shakes. Hemi, want to lead our guest down to the hold and show him how we do exercise on this boat?"
+
+"Captain Shakes," said Hemi, "allow me to formally invite you to the only undersea bicycle race in the world." Hemi stood and swept his arm forward toward the cargo hold.
+
+They made their way forward to the cargo hold where Hemi unchained the pile of rusty bicycles from the tie-down bolts on the wall.
+
+"As you may be aware," said Percy looking at the bit of a gut Shakes was showing after stashing away his giant portion of Owen's meal, "submarining is maybe not the healthiest of occupations --- even when we're not being fucking shot at. As a captain, it is my duty to look after all aspect of the welfare of my crew. For that reason I encourage time spent on deck for the fresh air --- when possible --- and require participation in all _Prospect_ bicycle races." She pointed down the empty cargo hold. "Generally, we conduct races when... well, when the fucking hold is empty enough that we can."
+
+"Cool." Said Shakes. "What's the rules?"
+
+"The rule: don't get fucking hurt... badly." Said Percy.
+
+"That's it?"
+
+'That's fucking it." Percy pointed over to the pile of bicycles that Hemi was untangling and tossing one-by-one towards them. "Select your steed. Choose carefully, most have a surprise or two."
+
+Shakes looked over the bicycles, which could only be called 'bicycles' if the only thing you knew about bicycles was that they had two wheels. Piled on the grating of the deck, they looked more like a giant rusting version of Mikado. Any individual bicycle appeared to be missing some critical part or another: say a seat, or handle bars, or one of the wheels would have a giant dent in it so there was no chance it would roll smoothly. One or two appeared to be missing critical structural tubes, and looked like they would collapse under the weight of an adult. Some were clearly kids bikes, with tiny wheels and faded and ripped streamers hanging from their tiny handlebars. On one someone had welded a motorcycle fork with a motorcycle wheel. Shakes guessed that 'bicycle' must weigh more than 50 kilograms.
+
+Shakes selected a promising looking machine from the pile Hemi was still adding to. An simple small steel frame with upright bars and fenders, and the rusting remains of a steel basket, bent and crushed but still hanging on the front of the bicycle. Shakes stepped over it and looked at Percy. "OK, now what?"
+
+"Now? There and back, and there again!" Said Percy, pointing down to the end of the cargo hold.
+
+"Come on," said Bastian, picking up one of the kid's bikes and folding his long skinny legs into position on it. "I'll race you."
+
+"I thought the only rule is don't get hurt?" Shakes asked.
+
+"Don't get hurt _badly_. Fucking yeah." Bastian lit a cigarette, and started pedaling away madly down the grating of the cargo hold. After 10 meters or so he slapped the pedals backwards and skidded for 5 more meters. "Fucking deck is still wet from the flooding! Good skidding."
+
+Shakes took off after Bastian, and with the bigger bicycle easily overtook Bastian who was now spinning the tiny bicycle at a high cadence. Shakes ripped his way down the deck, getting more speed. He approached the far end, and squeezed the brakes to take some speed off to make the turn around. The brake levers clapped easily against the bars. There were no brakes on this particular bicycles.
+
+Shakes slapped his boots flat against the grating of the deck, feeling it rumble beneath him, but there was nothing that was going to prevent him from plowing into the puddle of black and oily bilge water that still filled the bow of the boat. A great spray of oozing and stinking water flew up and soaked him through.
+
+Bastian had skidded his kids bike to a stop precisely at the edge of the puddle and stood over his bike smoking and laughing at Shakes.

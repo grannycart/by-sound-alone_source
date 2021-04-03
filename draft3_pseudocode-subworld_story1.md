@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Apr 02, 2021  04:32PM
+Last modified: Sat Apr 03, 2021  11:37AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -533,6 +533,9 @@ Last modified: Fri Apr 02, 2021  04:32PM
 
 * [ ] _A submarine is just a very very complicated bicycle_
 	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
+	* Owen can pull a wheelie while skidding down the sloped deck --- uncanny bicycle handling skills
+	* Cassandra can beat them all up the slope of the deck because she's so small.
+	* figure out injuries
 	* "It is the pure mechanical pleasure of working them that makes me love submarines"
 		* "Don't you think it might be that same mechanical pleasure that makes the mouse in the cage run on the wheel all day... going nowhere?"
 		* "Maybe. You ever wonder what would happen if you put a wheel out in the forest? Maybe the mice would come from miles around to run on it. Maybe they _do_ just love the pure mechanical pleasure of it."
