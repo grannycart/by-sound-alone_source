@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sat Apr 03, 2021  11:36AM
+Last modified: Mon Apr 05, 2021  02:39PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5177,7 +5177,7 @@ They made their way forward to the cargo hold where Hemi unchained the pile of r
 
 'That's fucking it." Percy pointed over to the pile of bicycles that Hemi was untangling and tossing one-by-one towards them. "Select your steed. Choose carefully, most have a surprise or two."
 
-Shakes looked over the bicycles, which could only be called 'bicycles' if the only thing you knew about bicycles was that they had two wheels. Piled on the grating of the deck, they looked more like a giant rusting version of Mikado. Any individual bicycle appeared to be missing some critical part or another: say a seat, or handle bars, or one of the wheels would have a giant dent in it so there was no chance it would roll smoothly. One or two appeared to be missing critical structural tubes, and looked like they would collapse under the weight of an adult. Some were clearly kids bikes, with tiny wheels and faded and ripped streamers hanging from their tiny handlebars. On one someone had welded a motorcycle fork with a motorcycle wheel. Shakes guessed that 'bicycle' must weigh more than 50 kilograms.
+Shakes looked over the bicycles, which could only be called 'bicycles' if the only thing you knew about bicycles was that they had two wheels. Piled on the grating of the deck, they looked more like a giant rusting Mikado set laid out to play. Any individual bicycle appeared to be missing some critical part or another: a seat, or handle bars, or one of the wheels would have a giant dent in it so there was no chance it would roll smoothly. One or two appeared to be missing structural tubes and looked like they would collapse under the weight of an adult. Some were clearly kids bikes, with tiny wheels and faded and ripped streamers hanging from their tiny handlebars. On one someone had welded a motorcycle fork with a motorcycle wheel. Shakes guessed that 'bicycle' must weigh more than 50 kilograms.
 
 Shakes selected a promising looking machine from the pile Hemi was still adding to. An simple small steel frame with upright bars and fenders, and the rusting remains of a steel basket, bent and crushed but still hanging on the front of the bicycle. Shakes stepped over it and looked at Percy. "OK, now what?"
 
@@ -5187,10 +5187,75 @@ Shakes selected a promising looking machine from the pile Hemi was still adding 
 
 "I thought the only rule is don't get hurt?" Shakes asked.
 
-"Don't get hurt _badly_. Fucking yeah." Bastian lit a cigarette, and started pedaling away madly down the grating of the cargo hold. After 10 meters or so he slapped the pedals backwards and skidded for 5 more meters. "Fucking deck is still wet from the flooding! Good skidding."
+"Don't get hurt _badly_. Fucking yeah." Bastian lit a cigarette, and started pedaling away madly down the grating of the cargo hold. After 10 meters or so he slapped the pedals backwards and skidded for 5 more meters. "Fucking deck is still wet from the flooding! Good skidding." He said looking towards Percy with the cigarette still between his lips
 
-Shakes took off after Bastian, and with the bigger bicycle easily overtook Bastian who was now spinning the tiny bicycle at a high cadence. Shakes ripped his way down the deck, getting more speed. He approached the far end, and squeezed the brakes to take some speed off to make the turn around. The brake levers clapped easily against the bars. There were no brakes on this particular bicycles.
+Shakes took off after Bastian and since he was riding a bigger bicycle easily caught Bastian who was now spinning the tiny bicycle at a high cadence. But as Shakes tried to come around, Bastian swerved hard into him and drove Shakes into one of the old crates pushed up against the hull wall. 
 
-Shakes slapped his boots flat against the grating of the deck, feeling it rumble beneath him, but there was nothing that was going to prevent him from plowing into the puddle of black and oily bilge water that still filled the bow of the boat. A great spray of oozing and stinking water flew up and soaked him through.
+Shakes shuffled and regained his perch on the bike. He ripped his way down the deck, getting more speed as he flew past Bastian. He approached the far end, and squeezed the brakes to take some speed off before he had to make the turn to reverse direction. The brake levers clapped easily against the bars. Brakes were not a feature of this particular bicycle
 
-Bastian had skidded his kids bike to a stop precisely at the edge of the puddle and stood over his bike smoking and laughing at Shakes.
+Shakes slapped his boots flat and the slipped along with the grating uselessly rumbling beneath his boots. There was nothing that was going to prevent him from plowing into the puddle of black and oily bilge water that still filled the bow of the boat. A great spray of oozing and stinking water flew up and soaked him through.
+
+Bastian had skidded his kid's bike to a stop precisely at the edge of the puddle and stood smoking and laughing at Shakes.
+
+Fortunately Shakes was wearing his heavy rubber deck boots. He waded back up out of the bilge puddle pushing the bike between his legs and once he escaped the puddle started pedaling back up the deck. Bastian fell in behind, and stood up to pedal furiously. As Bastian drew even, Shakes unclipped one of the larger adjustable wrenches from his belt, hefted it in his hand for a second and then thrust it into the spokes of Bastian's front wheel.
+
+Bastian collapsed over the bars and Shakes left him behind. As he approached Percy at the top end of the cargo hold, his feet flattened against the deck in what was now a slightly more practiced maneuver, with plenty of time to skid to a stop where Percy was standing.
+
+"If you kill one of my crew members, I'm dropping your boat into the deepest part of the ocean Shakes."
+
+"It's not my fault if I'm just naturally tougher than y'all."
+
+Hemi easily hefted the bicycle with the motorcycle fork welded to it. He looked at Shakes. "Come on Shakes, let us ride." He started down the cargo hold at a steady pace. Shake caught up with him easily, but despite steering into Hemi multiple times and repeated efforts to twist Hemi's handlebars, had no success at keeping himself from ending up in the oily puddle of bilge again as the two riders came down to the end of the cargo hold.
+
+The riding went on like this, with various crew taking turns, swapping out bikes, pointing out what worked and what did not when it came to staying upright, or plowing someone else down. After half an hour or so Hemi dragged a rotting old wooden ramp from among the piles of cargo lashed to the hull and set it up just at the end of the cargo hold. Bastian shot down the length of the cargo hold and went up off the ramp and deliberately aimed to come down in the bilge water, and splash as high up on to the hull as he could manage. 
+
+When he turned the bike around in the puddle he got off and walked it back up the cargo hold towards Percy and Hemi. When he got a bit closer they could see the front wheel was no longer attached to the bike. "The fucking fork snapped in half!" He shouted up to them.
+
+Percy grinned, "that frame was aluminum and that's how aluminum fails --- snaps in pieces with no warning. That's why submarine hulls are made of steel, it bends when it fails, but stays in tact."
+
+Shakes laughed at that, "maybe, but if you're at the point where your submarine hull is failing, is it better that it's slowing crushing in around you instead of failing catastrophically? Or is that just a demonstration of a living hell?"
+
+Bastian wheeled the destroyed bicycle up to them and they prodded the failed fork in turn while Owen took a spin down the cargo hold toward the ramp.
+
+Percy placed the pieces of the fork together so she could visualize how it failed. "Sometimes, I feel like a submarine is just a very very complicated bicycle."
+
+"That's ridiculous." Said Bastian.
+
+"Seriously, in a way at least. They are both mechanical devices that operate within certain constraining physical parameters."
+
+"You could say that about any machine." Bastian pointed out.
+
+"Bear the fuck with me! ...Both submarines and bicycles have to move through three dimensional mediums: up, down, left, right, pitch, roll, yaw..."
+
+"Bicycles pitch?" Bastian asked.
+
+"Absolutely they do: up and down hills. Though I guess they only yaw in a skid."
+
+"I do enjoy a fishtail skid." Said Bastian.
+
+"Well, I think that's what I'm really getting the fuck to," said Percy, "it's that with both machines I find a kind of pure pleasure from the mechanical handling of them while I move the machine through their element."
+
+"You mean like a mouse on a wheel?" Asked Bastian, sucking at a freshly-lit cigarette while he watched Owen cruise slowly back up the length of the cargo hold.
+
+Percy smiled, "well, why not? Who ever said the mouse isn't totally fucking enjoying their time on their fucking wheels? Maybe if you put a wheel out in the woods, mice would come from miles around just to run on it."
+
+Bastian scoffed. "I guess that's why you're the fucking captain. I don't find I get any fucking pleasure from riding a submarine. It's just a fucking job."
+
+Hemi took his leave, pointing out that poor Cassandra had been stuck up on sonar and he would relieve her for a bit. A few minutes later Cassandra appeared and they explained the solitary rule to her. She selected a small sturdy kids bicycle and carefully pedaled down the cargo hold, without daring to tackle the ramp.
+
+Then they heard a hiss of water through the piping that ran along the side of the cargo hold and the deck tilted slowly downward beneath their feet. Hemi had let some water into forward trim tanks and the cargo hold deck took on a 10 degree down angle.
+
+Every one of the crew in the cargo hold selected a bicycle and used the slope Hemi had given them to get a lot of speed down the cargo hold, and every one of them eventually at least tried a jump off the ramp, some landing more successfully --- and more dryly than others.
+
+Owen displayed an uncanny ability at bicycle handling. With the deck angled, he was able to pull his bike into a wheelie while skidding the rear wheel along the wet grating. He even managed to maintain enough speed doing this to still jump the bike when he hit the ramp.
+
+They circled up and back repeatedly. With the boat otherwise completely shut down it was pleasantly quiet other than the ticking spin of pawls, and the occasional echoing shout followed by a metal-on-metal crash followed by laughing.
+
+Cassandra was very timid on the way down the slope, squeezing the brakes and skidding the whole way. She only tried the ramp once, and found the landing terrifyingly rough. But she could beat them all back up the slope with a high-speed spin and a surprising show of cargo-vascular strength.
+
+They raced on for the better part of two hours, until not one of them didn't have a spot of blood running freely from somewhere on their body and a number of bruises as badges to prove the amount of fun they had achieved. There were no serious injuries other than a sprained ankle on Owen's part that would set him limping for the next week.
+
+Percy relieved them all to the bunks or coffee, depending on individual preference, until dark when they would surface.
+
+
+

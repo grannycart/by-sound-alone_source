@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Apr 03, 2021  10:30AM
+Last modified: Mon Apr 05, 2021  01:12PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -92,6 +92,7 @@ Last modified: Sat Apr 03, 2021  10:30AM
 	* except zero --- that needs to be written out.
 * [ ] move section headers to .md comments; create chapter breaks
 * [ ] find 'map' replace with 'chart'
+* [ ] Add 'blatting' to description of authority announcements over ship-to-ship
 * [ ] find 'floor' should be 'deck'
 * [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
 	* Stuff like the malevolence of nature could be a comment in the source code text

@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Apr 03, 2021  11:37AM
+Last modified: Mon Apr 05, 2021  02:39PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -525,13 +525,13 @@ Last modified: Sat Apr 03, 2021  11:37AM
 
 * [X] _They find Shakes and mate up the Gnat_
 
-* [ ] _During the lull from pursuit: A crazy bicycle race in the empty cargo bay._
+* [X] _During the lull from pursuit: A crazy bicycle race in the empty cargo bay._
 	* You know the rules: there are no rules except don't get _badly_ hurt
 	* the grating of the deck is still wet from the water pumped out
 	* with no engine or motor running in the sub, its pleasantly quiet; just the sound of bicycle pawls clicking interspersed with the occasional crash followed by a disbelieving laugh
 	* Somebody floods the forward tanks to force the course into a ramp.
 
-* [ ] _A submarine is just a very very complicated bicycle_
+* [X] _A submarine is just a very very complicated bicycle_
 	* "A submarine is just a very very complicated bicycle" "how so" "well, a bicycle is a kind of mechanical magic, the best physicists in the world can't REALLY tell you how it works. Submarines are infinitely more complex, but tap into that same kind of mechanical magic."
 	* Owen can pull a wheelie while skidding down the sloped deck --- uncanny bicycle handling skills
 	* Cassandra can beat them all up the slope of the deck because she's so small.
