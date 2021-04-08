@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Apr 08, 2021  03:52PM
+Last modified: Thu Apr 08, 2021  04:22PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -56,7 +56,12 @@ Last modified: Thu Apr 08, 2021  03:52PM
 	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 	* "Commerce always finds a way."
 	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
-	* {at front of book}:
+	* {at front of book/preface}:
+		* Perhaps begin with a thing about petcocks:
+			* people familiar with old motorcycles know it well
+			* super simple mechanical device premised on the idea that the surest way to know you are running out of gas is to actually run out of gas
+			* any idiot who could ride a motorcycle could understand how it worked
+			* but beyond that, there was a sheer mechanical pleasure that came with swinging around the petcock --- that little bit of mehcanical control --- and having the engine roar back to life.
 		* _There was a generation that lived through a time up to, through, and a little beyond the great world wars. Like us, technology changed their world, and they lived every day of their lives with complex new industrial technologies. But the technology of that time was rooted in _mechanical_ things. Because of that, it was different from the technology of our time. In their time, anyone who wanted to understand how a piece of amazing new technology worked could simply take it apart. It had an intuitive --- though not necessarily simple --- structure. Because of its mechanical underpinnings, even those who did not fundamentally understand how technology worked, could depend on it to behave rationally and intuitively when they used it. Unlike our technology were even experts are often shocked by how it behaves._
 		* _This old mechanical technology also came with an aesthetic. The mechanical nature of it made the stuff dirty, greasy, and grimy. It was powered by air-fouling burning of things, and kept lubricated by chemical greases and cleaned with penetrating solvents. This aesthetic permeated our culture. The rich found ways to constantly clean it. The poor and the technology maintainers simply lived in and among it. Punks in the grime --- mechpunks or grimepunks, though they never would have referred to themselves that way._
 		* _The stories of the great wars were often compelling because the could be placed atop a clear moral ground. But I believe many of those stories were also compelling because they could be placed on top of amazing, but intuitively understood technology._ 
