@@ -1,5 +1,5 @@
 draft2_pseudocode-subworld_story1.md
-Last modified: Fri Mar 19, 2021  11:20AM
+Last modified: Thu Apr 08, 2021  11:52AM
 
 
 
@@ -444,10 +444,10 @@ Last modified: Fri Mar 19, 2021  11:20AM
 * [-] > "Let's not get into that again." Said Percy tiredly. 
 
 * {Percy decides they should start stopping and listening in between running the diesels to charge the batteries. Hemi says Chips won't like it, and heads off to tell her}
-* [ ] "OK, lets start shutting the diesels down every half hour or so and do a careful listen.  Maybe we'll manage to hear them before they get into any kind of firing range."
-* [ ] > "Hard on the engines all that stopping and starting. Chips isn't going to like it."
-* [ ] > "Chips won't like getting hit with a torpedo either. We can't just run deaf for hours on end, it's too risky."
-* [ ] > "I'll go have a chat with her." Hemi said, and lowered his huge body down the ladder to the deck below.
+* [-] "OK, lets start shutting the diesels down every half hour or so and do a careful listen.  Maybe we'll manage to hear them before they get into any kind of firing range."
+* [-] > "Hard on the engines all that stopping and starting. Chips isn't going to like it."
+* [-] > "Chips won't like getting hit with a torpedo either. We can't just run deaf for hours on end, it's too risky."
+* [-] > "I'll go have a chat with her." Hemi said, and lowered his huge body down the ladder to the deck below.
 
 * {A mood-setting paragraph about the noise of the engines vibrating through the boat, hints at how charging the batteries works.}
 * [-] > Deep in the lower levels of the _Prospect_ the diesel engines fired their syncopated and timed explosions by the thousand every minute. 
@@ -457,12 +457,12 @@ Last modified: Fri Mar 19, 2021  11:20AM
 
 
 * {Percy orders the engines shut down for a listen.}
-* [ ] > At 23 minutes after the hour, a randomly selected mark on the clock dial, Percy lit the comms light to the engine room. A minute later she heard Chips' voice echoing up the comms tube.
-* [ ] > "Captain?"
-* [ ] > "Shut down the diesels Chips. We're going to have a listen."
-* [ ] > Chips didn't reply, but a minute later the loud throb of the diesels that hadn't let up for hours died slowly away replaced with the only the very soft hum of the electric motors still driving the boat along, like they had reached a bridge in some epic piece of experimental music.
-* [ ] > "Disengage the electric drive motors too {Donovan}. We need to get as good a listen as possible. Someone wake up Cass and get her listening."
-* [ ] > {Donovan} reached up and flipped a few large metal switches and the soft hum of the electric motors died away just as the noise of the diesels had.
+* [-] > At 23 minutes after the hour, a randomly selected mark on the clock dial, Percy lit the comms light to the engine room. A minute later she heard Chips' voice echoing up the comms tube.
+* [-] > "Captain?"
+* [-] > "Shut down the diesels Chips. We're going to have a listen."
+* [-] > Chips didn't reply, but a minute later the loud throb of the diesels that hadn't let up for hours died slowly away replaced with the only the very soft hum of the electric motors still driving the boat along, like they had reached a bridge in some epic piece of experimental music.
+* [-] > "Disengage the electric drive motors too {Donovan}. We need to get as good a listen as possible. Someone wake up Cass and get her listening."
+* [-] > {Donovan} reached up and flipped a few large metal switches and the soft hum of the electric motors died away just as the noise of the diesels had.
 
 * {Hemi goes off and brings Cass back to sonar. description of sonar station 
 	* (might not be necessary if it was done during Hemi/Cass training session.}
@@ -674,34 +674,34 @@ At 53 minutes after the hour, she had Chips shut down the engines again, and put
 
 ### the plan
 
-* [ ] {they know they have to get out of this situation, they run the engines very slowly and try to move off}
-* [ ] {Hemi comes up with the plan to use the magnetic mines}
-	* [ ] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
-* [ ] {they realize they have to risk going shallow to mate with the _Gnat_}
-* [ ] {Hemi goes off to work on his project.}
+* [X] {they know they have to get out of this situation, they run the engines very slowly and try to move off}
+* [X] {Hemi comes up with the plan to use the magnetic mines}
+	* [X] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
+* [X] {they realize they have to risk going shallow to mate with the _Gnat_}
+* [X] {Hemi goes off to work on his project.}
 * [-] {They send Cass down to help out chips, but Cass just fucks things up}
 	* [-] > "Fuck you doing?" Chips yelled?
 	* [-] > "I'm sorry!" Cass said.
 	* [-] > "God, that kid is fucking useless around tools. Said Percy."
 	* [-] > "yeah, but those ears..." Said Hemi.
-* [ ] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
+* [X] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
 
 
 ### mate with the _Gnat_
 
-* [ ] {they fearfully and quietly come shallow, listening carefully for the enemy}
-* [ ] {they get the Gnat connected OK}
-* [ ] {but as they are loading parts onto the _Gnat_ (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?}
-* [ ] {Hemi jumps into the _Gnat_ and orders it off the mating collar (the _Prospect_ is a little unwieldy with the _Gnat_ on her deck)}
+* [-] {they fearfully and quietly come shallow, listening carefully for the enemy}
+* [X] {they get the Gnat connected OK}
+* [X] {but as they are loading parts onto the _Gnat_ (no time to explain the plan to Shakes) the enemy comes into range. maybe fires again?}
+* [X] {Hemi jumps into the _Gnat_ and orders it off the mating collar (the _Prospect_ is a little unwieldy with the _Gnat_ on her deck)}
 
 
 ### in the _Gnat_
 
-* [ ] {Hemi starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Shakes as he does.}
-* [ ] {the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they gave off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait.}
-* [ ] {Percy will run the _Prospect_ at 100 meters, full-engine like they are trying to get away.}
-* [ ] {the enemy sub will run at the same depth, trying to line up an underwater torpedo shot.}
-* [ ] {The _Gnat has to run _between_ them, and release their homemade magnetic mines. And hope Hemi got the calculations right.}
+* [X] {Hemi starts assembling his devices, (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column) he explains the plan to Shakes as he does.}
+* [X] {the risky part is that the enemy is too smart to go after the _Gnat_ -- they know the _Gnat_ is there just to run interference, that's why they gave off chasing the _Gnat_ earlier and turned after the _Prospect_ -- so they have to use the _Prospect_ itself as the bait.}
+* [X] {Percy will run the _Prospect_ at 100 meters, full-engine like they are trying to get away.}
+* [X] {the enemy sub will run at the same depth, trying to line up an underwater torpedo shot.}
+* [X] {The _Gnat has to run _between_ them, and release their homemade magnetic mines. And hope Hemi got the calculations right.}
 
 
 ### In port

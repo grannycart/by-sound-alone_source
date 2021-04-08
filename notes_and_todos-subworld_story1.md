@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Apr 05, 2021  01:12PM
+Last modified: Thu Apr 08, 2021  03:52PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -108,14 +108,17 @@ Last modified: Mon Apr 05, 2021  01:12PM
 * [ ] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
 	* [ ] no god-damning either: there is no god
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
-* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
-* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
-* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
+* diagrams revs:
+	* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
+	* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
+	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
+	* [ ] make sure the Gnat has an airlock escape trunk
+	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
+* [ ] cargo bay or cargo hold? (Fix on diagram too)
+	* I think it's a hold on a ship
 * [ ] revisions for Gregory death scene:
 	* blood rains down through the open hatch (though they don't see Gregory at all)
 	* as they dive, shave-and-a-haircut, shave-and-a-haircut, shave-and-a-haircut taps out above them on the sail.
-* [ ] cargo bay or cargo hold? (Fix on diagram too)
-	* I think it's a hold on a ship
 * [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
 	* tough maybe Hemi is the only one who calls her by it
 	* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
@@ -159,6 +162,7 @@ Last modified: Mon Apr 05, 2021  01:12PM
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
 * [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
+* [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
 * [ ] does Shakes insist on being referred to as "Captain Shakes"?
 * [ ] Consider removing parts where Percy second-guesses herself.
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions

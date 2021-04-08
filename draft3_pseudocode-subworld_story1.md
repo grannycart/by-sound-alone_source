@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Apr 05, 2021  02:39PM
+Last modified: Thu Apr 08, 2021  03:50PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -548,35 +548,77 @@ Last modified: Mon Apr 05, 2021  02:39PM
 
 * _{detemine exact order of battle for these next couple of scenes BEFORE writing prose}_
 
-* [ ] _They head out into the deep ocean, in a sea full of garbage_
+* [X] _They a sea full of derelict ships and garbage at night_
 	* {Do you want to borrow the stopping-starting engine stuff from 2nd draft pseudocode?}
+		* I think I'm just going to let this go 
 	* (Not plastic. there's little/no plastic in this world)
 	* They _hear_ the garbage on the sonar; are forced to slow down because floating empty steel hulks and ships are around
 	* But this makes sonar less useful --- too many confusing contacts
 
-* [ ] _The pursuing sub is pursuing_
-	* how do they find the Prospect and Gnat this final time?
-		* Perhaps the sub commander guessed their maneuver of floating off with the current to get him in the right vicinity. 
-	* See notes from draft2: this might be the place where they are shutting down the engine to listen every half hour?
-	* Cassandra hears them coming, knows what they sound like now
-		* She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. She could see the enemy sub behind them, the fish swimming around them, the sea floor, and she knew it was stippled with rocks. She could see the torpedo swimming at them quickly....
+* [ ] _They run slowly on the surface through the night_
+	* They ping their way through --- the only way to be sure they won't hit anything
+
+* [ ] _By morning light, they dive_
+	* They can see the sea has turned pitch black around them being so full of oil and refuse
+	* They attach the Gnat and run under the surface because the garbage as reached such a density
+		* They are restricted on how deep they can go because of the Gnat
+	* They still have to use active pinging to avoid hitting half-sunken wrecks, but the water is clearer underneath
+
+* [ ] _With the diesels shut down, Cassandra hears something:_
+	* There is the sound of a far off contact behind them; matching their speed
+		* It can't be seen on active for all the garbage in the water 
+	* Cassandra doesn't say anything yet because it seems like it could be a ghost, or just confusion from all the trash in the water.
+
+* [ ] _They cruise under the garbage patch through the day, pinging their way through._
+
+* [ ] _Toward evening, Cassandra has more firmly locked down the contact, and calls Hemi to listen to it_
+	* Sonar has become a part of Cassandra. She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. 
+	* Hemi suspects it is the sub with the ram.
+	* The sub with the ram must have been tracking their pings, perhaps since they entered the garbage patch
+	* It's slowly gaining on them:
+		* They are not willing to move fast through the garbage patch for the same reason as the Prospect --- too much risk of hitting something. But they are gaining on the Prospect because they are willing to go just a bit faster (with ram, no Gnat holding them back)
 	* "I can't fucking believe that fucker is _still_ chasing us!"
 		* "Round Good Hope and round the Horn, and round perdition's flames." Hemi said quietly.
 		* "Oh so the _Prospect_ is the fucking white whale now Hemi?"
 		* "You have to admit, there's a kind of almost classic literary insanity to his actions."
-	* Another drawn-out O'brian style chase scene?
-		* vertical instead of horizontal this time? 
 
-* [ ] _They come up with a plan. They mate with the Gnat._
-	* Maybe this is where Percy says 'get Shakes on the pigeon'
-	* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
-	* See notes from draft2: there's a few useful notes on the order of things here
+* [ ] _The pursuing sub is pursuing_
+	* The Prospect tries to increase speed to outrun them, say to 7 knots underwater.
+	* They can't surface because of all the garbage above.
+	* They stop using active pings and rely on Cassandra to listen for bigger pieces ahead of the
+	* Cassandra can't pick out everything because of all the crap in the water.
+	* They occasionally hit things, and Percy gets pissed at Cassandra
+	* They run through the night, with the sub with the ram steadily gaining on them.
 
-* [ ] _as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?_
+* [ ] _Towards morning, they plow into a submerged wreck_
+	* The welded seam starts leaking again.
+	* They turn on the bilges full power.
+
+* [ ] _The batteries are completely depleted, they are forced to surface and run the diesels._
+	* Fortunately the garbage patch is loosening up; there's more space on the surface.
+	* Percy puts a lookout in the ring to scout wrecks ahead of them
+	* But they are an easy target to track, even without the pinging while their diesels and bilges are running full blast; and they still can't move too fast for fear of hitting another wreck
+
+* [ ] _The sub with the ram, some miles behind them fires a torp_
+	* It explodes one of the wrecks
+	* The lookout sees a mushroom cloud go up a mile behind them
+		* (Maybe this should still be night for this reason)
+
+* [ ] Percy shuts everything down and makes like one of the wrecks in the water
+	* The Gnat hangs underneath
+	* possibly they hide like this for hours, or the whole day
+	* with the sub with the ram pinging and searching for them
+
+* [ ] _They come up with a plan. 
+	* [ ] {Hemi comes up with the plan to use the magnetic mines}
+		* [ ] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
+	* [ ] {Hemi goes off to work on his project.}
+	* [ ] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
+	* [ ] as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?
 	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
 	* [ ] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the book
 
-* [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat on her deck)_
+* [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat attached)_
 
 
 ### in the _Gnat_
@@ -585,25 +627,45 @@ Last modified: Mon Apr 05, 2021  02:39PM
 
 * [ ] _Hemi starts assembling his devices,  he explains the plan to Shakes as he does._
 
-* [ ] _The Gnat surfaces and runs loud to try and confuse the black sub._
+* [ ] _The Gnat surfaces and runs loud to try and confuse the black sub, draw them away from the Prospect._
+	* Maybe this is where Percy says 'get Shakes on the pigeon'
+		* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
 
-* [ ] _the risky part is that the pursuing sub is too smart to go after the Gnat -- they know the Gnat is there just to run interference, that's why they give off chasing the Gnat earlier and turned after the Prospect -- so they have to use the Prospect itself as the bait this time._
-
-* [ ] _Percy will run the Prospect at 100 meters, full-engine like they are trying to get away._
+* [ ] _Percy starts running the Prospect at 100 meters, full-engine like they are trying to get away._
 	* Possibly Hemi is using active sonar to range and most importantly get a depth on the pursuing sub
+	* The batteries are very depleted though!
+	* She leads them up to 30 meters, like she's going to hide among the hulks (but really to get shallow enough for the gnat to function)
 
 * [ ] _the pursuing sub will run at the same depth, trying to line up an underwater torpedo shot._
+	* And avoid hitting another wreck in the garbage patch
 
 * [ ] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
 	* Hemi has to calculate by hand and slide rule how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the bumpers float by hand and launch them out the airlock into the path of the chasing sub.
 	* (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column)
 	* the garbage in the water makes it impossible for the pursuing sub to know the mines are there
+	* Maybe Hemi guides Shakes into position listening to sonar.
+	* Shakes watches where he is through the view port
 
-* [ ] _Something has to go wrong, to make it seem like the plan won't work_
-	* not sure exactly what or how this happens, yet
-	* Should also be a twisty kind of surprise that's entertaining
-	* Perhaps there's a command decision by Percy at the last second --- that saves them all and shows she does know what she's doing 
+* [ ] _Hemi's first attempt just blows up a derelict_
+
+* [ ] _Hemi realizes he needs to lay his mine deeper_
+	* Down to 50 meters
+	* "The Gnat can't go that deep Hemi, it was built at fucking altitude!"
+	* they try it, the Gnat starts leaking at the seams. water pours in through the viewport (that's why sub's don't have windows!)
+	* Hemi gets his mine in the water
+
+* [ ] The mine hits and sinks the sub with the ram
+	* Hemi listens to the watertight compartments collapsing and the sub drawn down into the bottomless hole.
+
+* [ ] The Gnat is sinking fast
+	* the shockwave from the detonation opened up the seams even more
+	* They blow the tanks
+	* the Gnat is half full of water. They put out mayday, but don't know if the Prospect can even hear them.
+
+* [ ] _Suddenly they hear a bump and the Shakes looks out the viewport. The Prospect is under them._
+	* The Prospect lifts the Gnat up to the surface on its deck (like a mother whale lifting a newborn)
+	* On the surface, water streams out of all the split seams of the Gnat (laying half on its side on the deck of the Prospect)
 
 ### Ending
 
