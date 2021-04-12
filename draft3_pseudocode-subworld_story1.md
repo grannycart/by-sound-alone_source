@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Apr 08, 2021  03:50PM
+Last modified: Sun Apr 11, 2021  08:40PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -554,24 +554,24 @@ Last modified: Thu Apr 08, 2021  03:50PM
 	* (Not plastic. there's little/no plastic in this world)
 	* They _hear_ the garbage on the sonar; are forced to slow down because floating empty steel hulks and ships are around
 	* But this makes sonar less useful --- too many confusing contacts
-
-* [ ] _They run slowly on the surface through the night_
 	* They ping their way through --- the only way to be sure they won't hit anything
 
-* [ ] _By morning light, they dive_
+* [X] _They run slowly on the surface through the night_
+
+* [X] _By morning light, they dive_
 	* They can see the sea has turned pitch black around them being so full of oil and refuse
 	* They attach the Gnat and run under the surface because the garbage as reached such a density
 		* They are restricted on how deep they can go because of the Gnat
 	* They still have to use active pinging to avoid hitting half-sunken wrecks, but the water is clearer underneath
 
-* [ ] _With the diesels shut down, Cassandra hears something:_
+* [X] _With the diesels shut down, Cassandra hears something:_
 	* There is the sound of a far off contact behind them; matching their speed
 		* It can't be seen on active for all the garbage in the water 
 	* Cassandra doesn't say anything yet because it seems like it could be a ghost, or just confusion from all the trash in the water.
 
-* [ ] _They cruise under the garbage patch through the day, pinging their way through._
+* [X] _They cruise under the garbage patch through the day, pinging their way through._
 
-* [ ] _Toward evening, Cassandra has more firmly locked down the contact, and calls Hemi to listen to it_
+* [X] _Toward evening, Cassandra has more firmly locked down the contact, and calls Hemi to listen to it_
 	* Sonar has become a part of Cassandra. She closed her eyes, and her mind went out into the water. It was all blackness at first, but she relaxed, opened her mouth slightly to minimize the sound of her breathing. Her heart rate slowed. Her mind went out searching in the water. Without opening her eyes she turned the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She didn't need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep see fell away, and now it was all lit up around her. 
 	* Hemi suspects it is the sub with the ram.
 	* The sub with the ram must have been tracking their pings, perhaps since they entered the garbage patch

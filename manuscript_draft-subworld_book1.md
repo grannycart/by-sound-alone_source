@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Thu Apr 08, 2021  11:52AM
+Last modified: Sun Apr 11, 2021  08:42PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5348,8 +5348,71 @@ At first, Cassandra was able to steer them around the big pieces of flotsam usin
 
 Captain Percy ran a power wire up to the bridge and connected a hand-held spot light. She swept a beam back and forth, scraping away at the heavy blackness in front of her boat. Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the 1000 meter deep ocean by clinging to the last desperate bubble of buoyancy they retained from when the ships were alive. Under Percy's light they were typically a low black curved and oily form, riding threateningly just under the surface, awash with waves that passed over and obscured them. Or alternatively, they would take the figure of a low wall in the water, still showing the distinctive outlined form of a ship.
 
-As they pushed further, the debris in the water grew more abundant. The breeze they had been pushing into before died away and the ocean flattened out, as if held down by the blanket of garbage laying on it. Among the large debris pieces of the derelict vessels were rafts of rotting wood from ship decking and furniture, rusting barrels, bits of foam covered in bright cloth, frayed lines, pale bleached buoys and bumpers, and pieces of masts and tools. Anything that might fall from a ship or get tossed into the ocean and didn't immediately sink seemed to have made its way to this huge gyre of refuse. The larger pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
+As they pushed further, the debris in the water grew more abundant. The breeze they had been pushing into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. Among the large debris pieces of the derelict vessels were rafts of rotting wood from ship decking and furniture, rusting barrels, bits of foam covered in bright cloth, frayed lines, pale bleached buoys and bumpers, and pieces of masts and tools. Anything that might fall from a ship or get tossed into the ocean and didn't immediately sink seemed to have made its way to this huge gyre of refuse. The larger pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
 
+
+### Through the dense part of the garbage patch at night; then in the morning they dive, and Cassandra hears the pursuing sub
+
+They spent the entire night slowly pinging their way through the densely polluted surface water. The _Gnat_ followed dutifully behind. Percy instintively was feeling uncomfortable about the racket the two ships were making, especially since every ping told anyone within a 10, maybe even 20, mile radius precisely where they were. And of course even at a near-idle, the _Gnat's_ diesel growled loudly with sympathetic vibrations reflected back from the abandoned ship hulls surrounding them. Captain Percy reassured herself that they were far off any routine shipping lanes, and most vessels would steer around this patch they had plunged right into. This patch that was more and more appearing to be a massive obstacle to make ones way across.
+
+Percy still had the boats surfaced and was still standing on the bridge when the morning sun eased itself up over the eastern horizon. It's long red rays ignited the landscape of black hulks around them until it looked like boats were stirring the dead waters of an underworld lake of blood.
+
+As the sun crept upwards and its light filled out the entire spectrum, the lake of blood turned into a turbid and viscous black sea --- all the bunker fuels, engine lubricants, solvents and greases, all the specially developed chemical mixes that drove or eased the movements of the giant steel machines through the water, all eventually escaped from the rotting containers that held them and contaminated the clean water of the deep ocean. The contaminants floated on the surface, coating and binding together the more physical refuse. All of it bound together and defied the power of the perpetually sucking bottomless hole underneath.
+
+By the full light of day Percy felt far too exposed. She had Hemi contact Shakes and bring the _Gnat_ underneath the _Prospect_ to mate up. This was fine with Shakes who had not slept the entire night, and looked forward to taking a rest aboard the relatively luxurious _Prospect_.
+
+With the _Gnat_ attached, Percy had the _Prospect's_ diesels shut down and they submerged to 20 meters. It was much quieter underwater with no noise but the gentle hum of the electric motors. But they continued to send out a ping every 10 minutes or so with the active sonar to avoid the mostly submerged wrecks, which occasionally hung bow- or stern-down hundreds of meters into the water.
+
+Between the active pings, Cassandra could now see a picture in her mind of the complex seascape around her. The sound of the _Prospect's_ motors refracted out and away around her, and came bouncing back from the heavy surface and reflected off larger pieces that bobbed around them. She spent the first few hours of the morning scanning around herself in circles with the sonar and flipping filters on and off. She was continually fascinated by the images of the underwater landscape that were drawn in her mind by the sounds the sonar put into her ears.
+
+When she felt like she had found a good combination of filters for giving her the clearest view of the water around them while taking out the source sound of the _Prospect's_ motors, she did a slow sweep in every direction, scribbling notes on a pad as she went. Towards the rear port side she thought she could hear something oddly mechanical, making its way from far off through the dense medium of the contaminated surface water. She adjusted her filters and tried to pin it down, but it eluded her. It may have been the distant thrum of a motor, but it also could just be pieces of garbage grinding against each other. The sea was so full of signals and reflections that it was impossible to be sure anything was real or just a acoustic mirage.
+
+
+### moving through the garbage patch the next day, confirmation that the sub with the ram is following them again
+
+Throughout the day they slowly made their way forward through the refuse gyre, their active-sonar pings spreading out from them and lighting up their surroundings for Cassandra. She continually faced her own doubts: about her ability to detect objects in the water, about the directional guidance she was suggesting to Hemi and Percy, and about that occasional far-off machine noise that suggested the possibility to her that they might not be alone in the garbage patch. But every time her doubts came up, Hemi asked her to set off another active-sonar ping, and each of those pings would come back with such a concrete depiction of the water around them that her doubts would melt away along with the fading sound of the ping.
+
+By the end of the day, Cassandra's confidence was rapidly growing. Sonar was rapidly becoming second-nature to her. She would close her eyes, and her mind would travel out into the water. It would be all blackness at first, but she would relax and open her mouth slightly to minimize the sound of her own breathing. Her heart rate would slow. Her mind would go out searching in the water. Without opening her eyes she could turn the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She no longer need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The pitch of the deep sea fell away, and it would all lit up around her. 
+
+With confidence came a love of her job, and the long shift that Percy was currently asking her to do without breaks seemed like less of a burden than it had at first. She found time passed rapidly when her mind was out there in the sea of sound.
+
+By the clock, it was just after dark when Captain Percy suggested they might want to move up to periscope depth and have a look around at the garbage patch. The _Prospect's_ batteries were about half discharged and if they could move on the surface, they could run the diesels and recharge the batteries as usual. She asked Cassandra to have one last listen before they started moving toward the surface. Percy shut down the motors entirely so Cassandra could hear as far as possible.
+
+In this complete silence Cassandra swung the sonar mics around in a slow 360, listening to the sounds of the ocean in every direction. Into this complete silence that soft far-off motorized sound came again as the mics came around the rear of the boat.
+
+Suddenly all her doubts came flooding back, and Cassandra felt her ears go warm inside the headphones. She instinctively _knew_ that motor off in the water was the sub with the ram, still behind them, still pursuing; perhaps never having left. She also knew instantly that she should have known it was the sub with the ram when she heard the first faint wavering contact hours ago in the early part of the day. She realized she had made a mistake, potentially a large one, and that made her afraid to say anything.
+
+She listened to the sound for a few minutes, only just barely easing the directional wheel back and forth across the signal, trying to lock in on the strongest direction of the signal. It was only when Hemi put his heavy hand on her shoulder that she realized that he had been standing behind her watching. Even without hearing he was capable of reading the gauges and knowing she was on something. Cassandra looked up at him. She wrestled down her fear about the mistake she had made, and decided to put her trust in him.
+
+She slipped a headphone off one ear. "Something's there Hemi."
+
+"It does look like it, does it not?" He said. "Let me listen." He picked up the second headset and adjusted the volume. He paused for a second, the flipped a couple of filters on and listened again.
+
+"That's them, isn't it Hemi?" Cassandra asked.
+
+Hemi nodded as he patted Cassandra's shoulder again. "Percy!" He bellowed up to the control room, as he stepped backwards, stretching out the wire of the headset. He looked up through the hatch to the control room. 
+
+Percy was squatting on her haunches, her face a meter above Hemi's. "Hemi. What the fuck is it this time?"
+
+"The sub with the ram... it is back again."
+
+"Sweet motherfucking fuck Hemi! How fucking far away are they?
+
+"The contact is faint and far off. That is why Cassandra did not hear them earlier." His eye caught Cassandra's grateful face. "They are far enough away that the active ping is not returning a distance to them --- or at least the active unit can not sort it out from all the other refuse in the water."
+
+"Though the pinging we've been doing has probably been leading them along through this garbage patch I mistakenly believed would provide us coverd --- like fucking breadcrumbs through some fucking black forest. I can't fucking believe that shitfaced fucker is _still_ after us!"
+
+"_Round Good Hope, and round the Horn, and round perdition's flames..._" Hemi said quietly to himself.
+
+But Percy heard him quite clearly. "Oh, so the _Prospect_ is the fucking white whale now Hemi?"
+
+He looked up at her. "You must admit, there is almost a kind of classic literary insanity to his actions."
+
+"Fuck that. Alright, are they gaining on us? How long before we have to start worrying about them putting a torpedo in the water?"
+
+"No way to tell just yet. They are likely facing the same issue we have --- moving fast through the garbage patch puts them at risk of hitting something."
+
+"On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through all this heavy shit."
 
 
 
