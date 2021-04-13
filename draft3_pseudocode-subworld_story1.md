@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Apr 11, 2021  08:40PM
+Last modified: Mon Apr 12, 2021  09:41PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -582,7 +582,7 @@ Last modified: Sun Apr 11, 2021  08:40PM
 		* "Oh so the _Prospect_ is the fucking white whale now Hemi?"
 		* "You have to admit, there's a kind of almost classic literary insanity to his actions."
 
-* [ ] _The pursuing sub is pursuing_
+* [X] _The pursuing sub is pursuing_
 	* The Prospect tries to increase speed to outrun them, say to 7 knots underwater.
 	* They can't surface because of all the garbage above.
 	* They stop using active pings and rely on Cassandra to listen for bigger pieces ahead of the
@@ -654,6 +654,9 @@ Last modified: Sun Apr 11, 2021  08:40PM
 	* "The Gnat can't go that deep Hemi, it was built at fucking altitude!"
 	* they try it, the Gnat starts leaking at the seams. water pours in through the viewport (that's why sub's don't have windows!)
 	* Hemi gets his mine in the water
+
+* [ ] Cassandra's redemption: she figures out where the subs are/what Hemi's plan is by listening carefully to sonar
+	* Percy praises her
 
 * [ ] The mine hits and sinks the sub with the ram
 	* Hemi listens to the watertight compartments collapsing and the sub drawn down into the bottomless hole.

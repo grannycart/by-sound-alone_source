@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sun Apr 11, 2021  08:42PM
+Last modified: Mon Apr 12, 2021  09:41PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5400,7 +5400,7 @@ Percy was squatting on her haunches, her face a meter above Hemi's. "Hemi. What 
 
 "The contact is faint and far off. That is why Cassandra did not hear them earlier." His eye caught Cassandra's grateful face. "They are far enough away that the active ping is not returning a distance to them --- or at least the active unit can not sort it out from all the other refuse in the water."
 
-"Though the pinging we've been doing has probably been leading them along through this garbage patch I mistakenly believed would provide us coverd --- like fucking breadcrumbs through some fucking black forest. I can't fucking believe that shitfaced fucker is _still_ after us!"
+"Though the pinging we've been doing has probably been leading them along through this garbage patch I mistakenly believed would provide us covered --- like fucking breadcrumbs through some fucking black forest. I can't fucking believe that shitfaced fucker is _still_ after us!"
 
 "_Round Good Hope, and round the Horn, and round perdition's flames..._" Hemi said quietly to himself.
 
@@ -5408,13 +5408,42 @@ But Percy heard him quite clearly. "Oh, so the _Prospect_ is the fucking white w
 
 He looked up at her. "You must admit, there is almost a kind of classic literary insanity to his actions."
 
-"Fuck that. Alright, are they gaining on us? How long before we have to start worrying about them putting a torpedo in the water?"
+"Fuck that... Alright, are they gaining on us? How long before we have to start worrying about them putting a torpedo in the water?"
 
-"No way to tell just yet. They are likely facing the same issue we have --- moving fast through the garbage patch puts them at risk of hitting something."
+"No way to tell just yet. They are likely facing the same issue we have --- moving fast through the surface garbage puts them at risk of hitting something."
 
-"On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through all this heavy shit."
-
-
+"On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through all this heavy shit. With that in mind --- we run like the fearful fucking bitch-offspring we are. Bastian, 7 knots. Fuck! No, wait. Owen --- first go find fucking Shakes and get that leaching boat of his detached from my _Prospect_."
 
 
+### They are pursued through the night
+
+20 minutes later there was a clunk from the depths of the _Prospect_ as the _Gnat_ detached. Bastian eased the throttle forward slightly and the _Prospect_ responded with a slightly increased hum. The difference in speed was not significant, and most of the crew couldn't even tell that they had increased their velocity through the water.
+
+But Percy could. To her it felt like her boat was now tearing through the deep, and the fear of what may be hanging down from the surface directly in the path of her boat made her break out in a cold sweat that did not evaporate in the damp cool air of the control room.
+
+For the first half of the night, they kept up the active pings, the assurance of a clear path they granted made Percy feel like it was worth the trade-off that the pings would almost certainly allow the sub with the ram to continue to track them.
+
+As the night wore on though, Hemi and Cassandra's careful measurements of the strength of the sub with the ram's sonar signal suggested they were not going to sneak away while the pinging was going on. In fact, it seemed the _Prospect_ might be losing ground.
+
+The hours droned by with unvarying regularity. Hemi and Cassandra felt their minds softening with the persistence and lack of relief from the white noise in their headsets. Percy desperately needed her crew, but also couldn't have them making bad decisions from lack of sleep, so after midnight she insisted that Hemi and Bastian hit the rack, with Cassandra and Owen scheduled for a few hours rack time later in the night. She had no intention of sleeping herself.
+
+The page on the clipboard next to Cassandra's sonar unit was filling up with notations of the objects the active sonar reflected back around her, and the signal strength of the sub with the ram. She willed the _Prospect_ on, trying desperately to get her numbers to add up to some more distance between herself and that dogged signal out there in the water. But the numbers eased ever closer together, and she knew it was only a matter of time before the sub with the ram would be in torpedo range. The sub with the ram's commander must have known that too, because he did not increase speed, preferring to slowly, slowly reel his target in.
+
+When Captain Percy came down to the sonar compartment in the middle of the night to check on the contacts, Cassandra showed her the list of signal strengths, and Percy broke out in another cold sweat --- this time from the fear of a torpedo that she now realized could come at them at any second. The sub with the ram had started to appear on the active sonar readouts --- it had crept within 10 nautical miles.
+
+Almost regretting it as she said it, Percy asked Cassandra to lay off the active pings and use only passive sonar to track objects in the water. It would be challenging given the density of objects in the fouled water they were moving through, but at 7 knots the _Prospect_ was putting out just enough noise that a good sonar operator should be able to see clearly the surrounding seascape for miles in every direction. The fact that Hemi had such faith in Cassandra's natural skills was also rubbing off on Percy.
+
+With the active sonar off, Cassandra soon reported that the sub with the ram had slowed and was losing some distance. Captain Percy knew exactly what that was --- they had to run slowly and more silently to hear the _Prospect's_ engine noise now. Discontinuing the active sonar pings was beginning to feel like the right move to Percy.
+
+For the next two hours Cassandra blearily focussed on listening to the sonar contacts and shouting potential hazards she heard in the water up to the control room. Owen and Percy were required to constantly make adjustments to their course to avoid one large object or another that rang out in Cassandra's earpieces. But she couldn't hear the smaller objects, and every so often one would bump threateningly against the hull, loud enough for them all to hear it regardless of which part of the ship had been struck. Every time this happened Percy shouted a string of curses down to Cassandra, and every time it happened the curses were fiercer and lasted longer.
+
+By the time Hemi arrived back in the sonar compartment from his rack, Cassandra was clearly frayed. He consulted with her briefly to get caught up. He realized he would need to take over sonar very soon and get Cassandra to her rack. But first he wanted to check in with Percy, so he climbed up to the control room. 
+
+While he was on the ladder, the crunching sound of an impact --- almost precisely the same sound as when the sub with the ram initially hit them --- shook the _Prospect_ bow to stern.
+
+Percy's first thought was that they had in fact been rammed again --- that Cassandra hadn't heard the sub with the ram charging at them. "Cassandra you fucking little shit! You let them hit us!"
+
+"No Captain Percy!" Cassandra yelled up with the deep-grained panic of someone who knows they had made a mistake, "it definitely wasn't them! They're still miles and miles off."
+
+Percy looked down at Hemi, who still clung to the ladder, his huge form held like stone by hard, tensed muscles. "Hemi, you get that little fucking whore off my sonar immediately and tell me what the fuck is going on with my boat!"
 
