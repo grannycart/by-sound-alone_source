@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Apr 12, 2021  09:41PM
+Last modified: Wed Apr 14, 2021  08:49PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -590,7 +590,7 @@ Last modified: Mon Apr 12, 2021  09:41PM
 	* They occasionally hit things, and Percy gets pissed at Cassandra
 	* They run through the night, with the sub with the ram steadily gaining on them.
 
-* [ ] _Towards morning, they plow into a submerged wreck_
+* [X] _Towards morning, they plow into a submerged wreck_
 	* The welded seam starts leaking again.
 	* They turn on the bilges full power.
 
@@ -605,6 +605,7 @@ Last modified: Mon Apr 12, 2021  09:41PM
 		* (Maybe this should still be night for this reason)
 
 * [ ] Percy shuts everything down and makes like one of the wrecks in the water
+	* Owen repairs the leaking cracks
 	* The Gnat hangs underneath
 	* possibly they hide like this for hours, or the whole day
 	* with the sub with the ram pinging and searching for them
@@ -616,7 +617,8 @@ Last modified: Mon Apr 12, 2021  09:41PM
 	* [ ] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
 	* [ ] as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?
 	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
-	* [ ] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the book
+	* [ ] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the [book](book)
+	* [ ] Cassandra will have to be back on sonar if Hemi is in the Gnat
 
 * [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat attached)_
 

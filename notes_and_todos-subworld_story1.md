@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Apr 08, 2021  04:22PM
+Last modified: Wed Apr 14, 2021  08:34PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -158,6 +158,7 @@ Last modified: Thu Apr 08, 2021  04:22PM
 * [ ] 'crew quarters' not 'crew's quarters' (just because I like it better, not because I looked it up_
 * [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
+* [ ] electric motors should be plural on the prospect --- it's a dual prop
 * [ ] 'navigation station'? 'navigation table'?
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
 * [ ] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place)
