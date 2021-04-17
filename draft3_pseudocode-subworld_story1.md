@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Wed Apr 14, 2021  08:49PM
+Last modified: Sat Apr 17, 2021  11:44AM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -594,30 +594,31 @@ Last modified: Wed Apr 14, 2021  08:49PM
 	* The welded seam starts leaking again.
 	* They turn on the bilges full power.
 
-* [ ] _The batteries are completely depleted, they are forced to surface and run the diesels._
+* [X] _The batteries are completely depleted, they are forced to surface and run the diesels._
 	* Fortunately the garbage patch is loosening up; there's more space on the surface.
 	* Percy puts a lookout in the ring to scout wrecks ahead of them
 	* But they are an easy target to track, even without the pinging while their diesels and bilges are running full blast; and they still can't move too fast for fear of hitting another wreck
 
-* [ ] _The sub with the ram, some miles behind them fires a torp_
+* [X] _The sub with the ram, some miles behind them fires a torp_
 	* It explodes one of the wrecks
 	* The lookout sees a mushroom cloud go up a mile behind them
 		* (Maybe this should still be night for this reason)
 
-* [ ] Percy shuts everything down and makes like one of the wrecks in the water
+* [X] Percy shuts everything down and makes like one of the wrecks in the water
 	* Owen repairs the leaking cracks
-	* The Gnat hangs underneath
 	* possibly they hide like this for hours, or the whole day
 	* with the sub with the ram pinging and searching for them
+	* get on the ship-to-ship with Shakes and have him head off
 
-* [ ] _They come up with a plan. 
-	* [ ] {Hemi comes up with the plan to use the magnetic mines}
-		* [ ] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
-	* [ ] {Hemi goes off to work on his project.}
-	* [ ] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
+* [o] _Hemi comes up with the plan to use the magnetic mines_
+	* [X] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
+	* [X] {Hemi goes off to work on his project.}
+	* [X] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
+		* Maybe this is where Percy says 'get Shakes on the pigeon'
+		* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
 	* [ ] as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?
 	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
-	* [ ] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the [book](book)
+	* [ ] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the book
 	* [ ] Cassandra will have to be back on sonar if Hemi is in the Gnat
 
 * [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat attached)_
@@ -629,9 +630,7 @@ Last modified: Wed Apr 14, 2021  08:49PM
 
 * [ ] _Hemi starts assembling his devices,  he explains the plan to Shakes as he does._
 
-* [ ] _The Gnat surfaces and runs loud to try and confuse the black sub, draw them away from the Prospect._
-	* Maybe this is where Percy says 'get Shakes on the pigeon'
-		* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
+* [ ] _They run on the surface for a bit, trying to draw away the sub with the ram_
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
 
 * [ ] _Percy starts running the Prospect at 100 meters, full-engine like they are trying to get away._

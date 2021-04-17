@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Apr 14, 2021  08:34PM
+Last modified: Sat Apr 17, 2021  11:10AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -92,6 +92,7 @@ Last modified: Wed Apr 14, 2021  08:34PM
 	* Are the names (both boats and people) ok?
 	* Is there anything offensive that I'm not recognizing?
 * [ ] do a search for 'ly' and remove any useless adverbs. Maybe 'that' too.
+* [ ] audit 'and's --- 'it was a dark and stormy night': multiple descriptors compete for attention.
 * [ ] find and make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
@@ -115,6 +116,7 @@ Last modified: Wed Apr 14, 2021  08:34PM
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 * diagrams revs:
 	* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
+	* [ ] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
 	* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
 	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
 	* [ ] make sure the Gnat has an airlock escape trunk
@@ -249,6 +251,7 @@ Last modified: Wed Apr 14, 2021  08:34PM
 		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
 * [ ] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
+* [ ] add the term 'scudding clouds' to description during storm
 * [X] maybe say somewhere that they should think about installing a snorkel?
 	* (So sub nerds who read the book understand that they don't have one)
 * [X] do you gap a diesel engine spark plug?
