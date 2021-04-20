@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Apr 17, 2021  11:44AM
+Last modified: Mon Apr 19, 2021  09:17PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -610,23 +610,21 @@ Last modified: Sat Apr 17, 2021  11:44AM
 	* with the sub with the ram pinging and searching for them
 	* get on the ship-to-ship with Shakes and have him head off
 
-* [o] _Hemi comes up with the plan to use the magnetic mines_
+* [X] _Hemi comes up with the plan to use the magnetic mines_
 	* [X] {"the magnetic mines" "but how can we deliver them to the enemy sub?" "I have an idea. but I need to get aboard the _Gnat_."}
 	* [X] {Hemi goes off to work on his project.}
 	* [X] {the _Prospect_ gets the _Gnat_ on the radio, and makes an arrangement for an underwater rendezvous and mating.}
 		* Maybe this is where Percy says 'get Shakes on the pigeon'
 		* "Goddamn it! Get Shakes on the...pigeon." "His name is Hershel" said Hemi. "I don't care what his name is! Just get Shakes to reverse course!"
-	* [ ] as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?
-	* [ ] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
-	* [ ] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the book
-	* [ ] Cassandra will have to be back on sonar if Hemi is in the Gnat
+	* [X] as they are loading parts onto the Gnat (no time to explain the plan to Shakes) the pursuing comes into range. maybe fires again?
+	* [X] Hemi desperately searches the Prospect for clamps --- like the ones Percy didn't buy at the store in the depot
+	* [X] Hemi reveals he has some of the crates of magnetic mines, those are loaded onto the Gnat, as well as the inflatable bumpers we used much earlier in the book
+	* [X] Cassandra will have to be back on sonar if Hemi is in the Gnat
 
-* [ ] _Hemi jumps into the Gnat and orders it off the mating collar (the Prospect is a little unwieldy with the Gnat attached)_
+* [X] _Hemi jumps into the Gnat and orders it off the mating collar_
 
 
 ### in the _Gnat_
-
-[//]: # (Somewhere in here: have Hemi comment on the airplane-style controls? Maybe move that to later when Hemi is riding with Shakes and the magnetic mines.)
 
 * [ ] _Hemi starts assembling his devices,  he explains the plan to Shakes as he does._
 
@@ -642,15 +640,17 @@ Last modified: Sat Apr 17, 2021  11:44AM
 	* And avoid hitting another wreck in the garbage patch
 
 * [ ] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
+	* Hemi has to heft the heavy devices up into the escape trunk.
 	* Hemi has to calculate by hand and slide rule how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the bumpers float by hand and launch them out the airlock into the path of the chasing sub.
 	* (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column)
 	* the garbage in the water makes it impossible for the pursuing sub to know the mines are there
 	* Maybe Hemi guides Shakes into position listening to sonar.
 	* Shakes watches where he is through the view port
 
-* [ ] _Hemi's first attempt just blows up a derelict_
+* [ ] _Hemi's first attempt just explodes harmlessly on the ram_ 
+	* (Do you want to do a thing where the device arms inside the escape trunk and Hemi has to dump the water in the trunk into the Gnat and disarm the device? like the timer spring snaps or something? Not sure how to do that with them realizing it before the thing just explodes)
 
-* [ ] _Hemi realizes he needs to lay his mine deeper_
+* [ ] _Hemi realizes he needs to lay his mine deeper; get the mine under the submarine before it explodes to break its back_
 	* Down to 50 meters
 	* "The Gnat can't go that deep Hemi, it was built at fucking altitude!"
 	* they try it, the Gnat starts leaking at the seams. water pours in through the viewport (that's why sub's don't have windows!)

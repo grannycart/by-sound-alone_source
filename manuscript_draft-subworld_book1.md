@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sat Apr 17, 2021  11:44AM
+Last modified: Mon Apr 19, 2021  09:17PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -839,6 +839,8 @@ There were stacks of pornography --- Shakes had not bothered to hide any of it, 
 In one space recessed between the supports of the pressure hull were stacks of greasy cans still unopened. The labels had been peeled off and the contents written on them in grease pencil. Most appeared to be of some variety of highly-salted pasta-and-sauce. In another recess was a bin with what must have been a hundred different types of puzzle games that all had the basic premise that required squares of color that to be to sorted. Every single last puzzle was solved. 
 
 The controls to the sub were aligned with and partially inside of the sail. The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright in the sail, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section, and more behind the controls in about the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so they could get past the crates.
+
+[//]: # (Somewhere in here: have Hemi comment on the airplane-style controls? Maybe move that to later when Hemi is riding with Shakes and the magnetic mines.)
 
 "Y'all woke me from a nap with the ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the engines and batteries and whatnot? They're towards the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and began masticating them slowly.
 
@@ -2169,7 +2171,7 @@ Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that la
 
 "I don't trust jobs that pay _too_ well. What's the cargo?"
 
-"Weapons parts --- magnetic mines."
+"Weapons parts --- magnetic warheads."
 
 "Had to be something like that didn't it? You don't have a problem with Authorities breathing down our necks and risking blowing the boat in half if someone drops a crate full of explosives?"
 
@@ -2186,7 +2188,7 @@ There was a tap of someone's bony knuckles on the hatch to the galley, and Basti
 Hemi forked his last bite of meat, and squeezed his bulk out of the tight galley seating.
 
 
-### Loading the magnetic mines
+### Loading the magnetic warheads
 
 They climbed up the ladder from the catwalk to the docking bay to find dozens of large and molding wooden crates stacked up around the open hatch into the _Prospect's_ cargo hold. The sides of the crates were stamped with "XL industries" and "CAUTION!" Apparently XL Industries knew better than to put the word "EXPLOSIVES" on their packing materials --- which would attract unnecessary attention during any Authority inspection. But XL industries still felt that anyone handling their products should have a heads up that they shouldn't just be tossed around casually.
 
@@ -3405,7 +3407,7 @@ Bastian coughed.
 
 The boat rocked on it's side for minutes on end, sometimes rolling in a way that felt like they would go upside down. Occasionally the lights would flicker, but continually shorted out. They listened to the ongoing sounds of the boat's stores crashing and sliding through all the compartments.
 
-Hemi began to doubt his own words. Maybe this was one of those times that the boat was not going to come back upright. And even if it did, coming upright could always be the thing that set off one of the magnetic mines. Cassandra had been reduced to whimpering on the deck below them, though they could hear the Owen had made his way over to her and was telling her things in a low voice they couldn't hear but clearly had a reassuring tone. Bastian just kept saying "fuck!" every few seconds, with more and more frustration.
+Hemi began to doubt his own words. Maybe this was one of those times that the boat was not going to come back upright. And even if it did, coming upright could always be the thing that set off one of the magnetic warheads. Cassandra had been reduced to whimpering on the deck below them, though they could hear the Owen had made his way over to her and was telling her things in a low voice they couldn't hear but clearly had a reassuring tone. Bastian just kept saying "fuck!" every few seconds, with more and more frustration.
 
 Captain Percy lay against the starboard wall. She spat, and her long experience of it arcing to the deck was defied by gravity which pulled it back against the side of the ship.
 
@@ -5589,7 +5591,7 @@ She heard Hemi's heavy step up off the ladder onto the bridge, but she did not l
 
 At this, Percy lowered the lenses and looked at him. "You have another option you have been holding out on me Hemi?"
 
-"_Extremely_ unlikely to work --- and likely to get us killed. The magnetic mines... I let a couple of crates slip off the palettes when they were unloading. So I have a few dozen mines still stashed down in our cargo hold."
+"_Extremely_ unlikely to work --- and likely to get us killed. The magnetic warheads... I let a couple of crates slip off the palettes when they were being unloaded in Stilt City. So I have a few dozen mines still stashed down in our cargo hold."
 
 "You want to try to hit them with a mine?"
 
@@ -5601,17 +5603,85 @@ At this, Percy lowered the lenses and looked at him. "You have another option yo
 
 "I don't think Shakes is going to appreciate you turning his boat into a torpedo, Hemi. As small and shittily made as it is."
 
-Hemi laid out a plan for her that, though likely to end with the destruction of the _Gnat_, did at least not intentionally involved blowing the _Gnat_ up. It did, however, use the _Prospect_ as bait. It took some convincing on Hemi's part for Percy to fully come around to supporting the idea.
+Hemi laid out a plan for her that, though likely to end with the destruction of the _Gnat_, did at least not intentionally involve blowing the _Gnat_ up. It did, however, use the _Prospect_ as bait. It took some convincing on Hemi's part for Percy to fully come around to supporting the idea.
 
-"OK Hemi. We're going to fucking try your insane plan to take out a military submarine with nothing but leftover parts hanging around my darling cargo sub. Go ahead and get Shakes on the pigeon."
+"OK Hemi. We're going to fucking try your insane plan to take out a military submarine with nothing but leftover parts hanging around my darling _Prospect_. Go ahead and get Shakes on the pigeon."
 
-"His name is Herschel."
+"You mean Herschel."
 
-"I don't fucking care what the bird's name is. Just make sure Shakes heads back here as silently as possible."
+"I don't care what the fucking bird's name is. Just make sure Shakes heads back here as silently as possible."
 
 
 ### Loading the Gnat
 
+Hemi got Herschel off with a note to Shakes attached to the bird's leg with instructions to return to the _Prospect_ submerged and running slowly on battery power. It was going to take a while for Herschel to find Shakes, and then a while longer for Shakes to motor slowly back. Hemi figured he had a couple of hours at least to gather the things he needed.
+
+The magenetic warheads were in the crates right where he left them. He selected a half dozen of the ones that were the least coated with dust and rust, and hauled them to a work table in the engine room. Each weighed about 25 kilograms and consisted of a cylinder containing high explosives that was about 300 milimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with the powerful magnet that could activate the switching mechanism.
+
+The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device would enable to understand how it worked, and thus handle it safely. Details were printed right on the side of the explosives cylinder, and it was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons of extinct microscopic sea creatures. It could not be exploded without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finnicky that it would not go off in the close presence of another high explosve. A fortunate thing, because Hemi estimated he needed at least two of these devices to detonate if he wanted to blow a hole through the pressure hull of a military submarine.
+
+He used large steel straps to join two of the cylinders together orienting them so the magnetic trigger plates faced out on both ends. He tracked down some batteries and wired them in to be the power supplies for the triggers. From a forgotten storage compartment for parts in the engine room he found a pile of old mechanical timed switches that could be wound up and then set before they closed the circuit. He wired these into the arming circuit on each warhead.
+
+He made three more units like this. Each weighed 50 kilograms. Then he plundered the many storage compartments throughout the boat looking for the rest of the parts he needed: some old boat bumpers, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips. So a screwdriver went on his list of things to find too.
+
+He had most of the parts he needed gathered together by the time he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Owen to help him move all the parts he had gathered down to the battery compartment near the hatch that opened down to the _Gnat_.
+
+As Owen opened the hatch to see Shakes' greasy-haired visage grinning up at them Percy's voice came back on the _Prospect's_ PA. "Hemi, Bastian is telling me that he is tracking the sub with the ram closing on us. He thinks they picked up the _Gnat_ and followed Shakes in."
+
+Still down in the _Gnat's_ control seat, Shakes could hear the PA message. "Hemi, there's no way man --- I was ultra fucking slow and quiet on my approach. I could have passed through a sleeping baby's bedroom without fucking waking it."
+
+"They were pinging widely." Hemi replied, leaning over the hatch down to the _Gnat_. "They may have simply caught you moving and followed the only moving object in the water. It can't be helped now. Owen, help me get this stuff down to the _Gnat_."
+
+"What's the plan?" Shakes asked as he accepted some filthy old boat bumpers down through the hatch and tossed them backward into the cargo space behind him.
+
+"I am coming with you. I will explain the plan on the way. If the sub with the ram is coming in, we need to get the _Gnat_ off as quickly as possible." Said Hemi.
+
+Hemi got Shakes to swap places with him, and standing down in the _Gnat_ recieved the heavy explosive units that a straining Owen and Shakes lowered down to him. After those it was only a matter of minutes to pass down all the odds and ends into the _Gnat_.
+
+When it looked like everything was aboard, Shakes climbed down and joined Hemi in the _Gnat_.
+
+"I hope you didn't forget anything." Shakes said, looking at the pile of what appeared to be garbage that could hardly be distinguished from all the foul junk floating around on the surface of the sea around them.
+
+"If we need anything, I am sure the copious bounty of the _Gnat's_ hold will provide." Hemi replied.
+
+Shakes grinned. At the same time Captain Percy leaned her head down into the hatch and called Hemi over. Hemi moved to stand under the _Gnat's_ sail and look up at Percy while she spoke.
+
+[//]: # (Possibly, it's too much to believe that Percy would walk away from the control room to talk to Hemi here with the sub with the ram closing. Below convo maybe needs to be moved up to before Hemi starts assembling?)
+
+"Hemi, you think this fucking idea of yours will work?
+
+"Frankly I give it about 1 chance in 5."
+
+"And what are the chances that you will blow up either the _Gnat_ or the _Prospect_ or both?"
+
+"At least one? I'd say 1 chance in 4. But I also think it is very likely that one way or another the plan will bring this pursuit to an end."
+
+"Counting blowing us up as one way the pursuit could end."
+
+Hemi nodded and paused for a second before continuing. "Sylvia, this plan has a better chance of working if you put Cassandra on sonar again."
+
+She shook her head. "No fucking way Hemi. I'll grant you that she has learned fast enough to be perfectly capable of doing the job I hired her for --- I saw her potential first you know --- but in this situation where we live or die depending on what the sonar operator hears... uh uh. That little fucking shit stays in her rack."
+
+"Have you not noticed that with me on the _Gnat_ you are down yet another crew member? You are running a full-sized 100 meter cargo sub with a crew of four --- and that is including Cassandra. During the wars a boat this size would have had a crew of 70."
+
+"I'll put Bastian on sonar, it will be fine."
+
+"You need Bastian to run the trim tanks and Owen to steer the boat. You need to keep yourself free to think about tactics --- tactics are what will make this plan successful, or not."
+
+Percy looked down at Hemi's big brown face without saying anything.
+
+"Besides," Hemi continued, "Cassandra can do this."
+
+Percy sighed. "Alright Hemi. It's your plan, I defer to you. I'll put her back on sonar. If she kills us all, just know my last thought will be that you were fucking wrong."
+
+Hemi reached his big meaty hand up, and Percy met it with her small and calloused hand. They shook, and Percy closed the hatch over Hemi and Shakes. A moment later she heard the thump of the _Gnat's_ hatch setting into place, and then the clang of a crescent wrench indicating that the _Gnat_ was sealed and ready to push off from the _Prospect_.
+
+
+### Hemi starts assembling the devices
+
+"Bring us up to the surface Shakes. The first thing we have to do is try to confuse that sub into following the _Gnat_, even if just for a little bit. Percy needs time to get the _Prospect_ set up."
+
+"OK Hemi, to the surface and diesel it is." Shakes gave the _Gnat_ a little throttle while peering through the small viewport in front of him. He turned the steering yolk and drove the _Gnat_ silently out from under the _Prospect for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
 
 
 

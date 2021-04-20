@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Apr 17, 2021  11:10AM
+Last modified: Sun Apr 18, 2021  10:22AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -111,6 +111,8 @@ Last modified: Sat Apr 17, 2021  11:10AM
 * [ ] fix the bumpers stored on deck outside pressure hull?
 	* Seems like maybe they should not be the inflatey kind
 * [ ] maybe they refer to the bottomless deep as 'the hole'
+* [ ] emphasize the weight of the crates with the warheads earlier
+	* (during the part where they are re-arranging the crates in the hold, seems like a good place for that)
 * [ ] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
 	* [ ] no god-damning either: there is no god
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
