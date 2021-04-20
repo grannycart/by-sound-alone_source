@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun Apr 18, 2021  10:22AM
+Last modified: Tue Apr 20, 2021  07:29PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -123,6 +123,7 @@ Last modified: Sun Apr 18, 2021  10:22AM
 	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
 	* [ ] make sure the Gnat has an airlock escape trunk
 	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
+	* [ ] move the Gnat motor switch lever labels aft of the engine
 * [ ] cargo bay or cargo hold? (Fix on diagram too)
 	* I think it's a hold on a ship
 * [ ] revisions for Gregory death scene:

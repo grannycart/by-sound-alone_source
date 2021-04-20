@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Mon Apr 19, 2021  09:17PM
+Last modified: Tue Apr 20, 2021  07:44PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -628,13 +628,12 @@ Last modified: Mon Apr 19, 2021  09:17PM
 
 * [ ] _Hemi starts assembling his devices,  he explains the plan to Shakes as he does._
 
-* [ ] _They run on the surface for a bit, trying to draw away the sub with the ram_
+* [ ] _Shakes runs the Gnat on the surface for a bit, trying to draw away the sub with the ram_
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
 
-* [ ] _Percy starts running the Prospect at 100 meters, full-engine like they are trying to get away._
+* [ ] _Percy starts running the Prospect at periscope depth, full-engine like they are trying to get away._
 	* Possibly Hemi is using active sonar to range and most importantly get a depth on the pursuing sub
-	* The batteries are very depleted though!
-	* She leads them up to 30 meters, like she's going to hide among the hulks (but really to get shallow enough for the gnat to function)
+	* Don't forget the batteries are very depleted though!
 
 * [ ] _the pursuing sub will run at the same depth, trying to line up an underwater torpedo shot._
 	* And avoid hitting another wreck in the garbage patch

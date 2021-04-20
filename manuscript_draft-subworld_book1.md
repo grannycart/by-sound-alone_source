@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Mon Apr 19, 2021  09:17PM
+Last modified: Tue Apr 20, 2021  07:44PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5679,10 +5679,30 @@ Hemi reached his big meaty hand up, and Percy met it with her small and callouse
 
 ### Hemi starts assembling the devices
 
-"Bring us up to the surface Shakes. The first thing we have to do is try to confuse that sub into following the _Gnat_, even if just for a little bit. Percy needs time to get the _Prospect_ set up."
+"Bring us up to the surface Shakes. The first thing we have to do is try to confuse that sub into following the _Gnat_, even if just for a little bit. We are not ready to use the _Prospect_ for bait... yet."
 
-"OK Hemi, to the surface and diesel it is." Shakes gave the _Gnat_ a little throttle while peering through the small viewport in front of him. He turned the steering yolk and drove the _Gnat_ silently out from under the _Prospect for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
+"OK Hemi, to the surface and running on diesel it is." Shakes gave the _Gnat_ a little throttle while peering through the small viewport in front of him. He turned the steering yolk and drove the _Gnat_ silently out from under the _Prospect for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
 
+"OK we're on the surface." Shakes turned around in the pilot's seat to talk to Hemi who was sorting his gear in the hold behind him. "Hemi, can you switch the drive from the electric motor to the diesel? The levers are just back there behind the engine."
 
+Hemi squeezed past the diesel engine that took up most of the interior floorspace in the rear third of the submarine. There he found a series of levers that stuck up from the floor. He had to take a minute to read the labels, but it rapidly made sense to his mechanically-inclined mind. The system had a clutch so the switch between the power sources to the propeller could be made without stopping the boat. Hemi threw out the clutch lever, moved the selection lever over to the diesel, and let the clutch back in.
+
+"OK Shakes, looks like it should be on diesel drive now." Hemi called forward.
+
+"Fuckin' sweet. There's a starter button for the diesel just above the letters, can you press and hold that until the diesel fires?"
+
+Hemi pressed the large greasy rubber-coated button down with his thick thumb, and compressed air hissed into the diesel engine in front of him and the engine made a few reluctant whines as it turned. 
+
+But before the engine fired, Shakes interrupted him. "Wait! Hemi, wait!" Shakes yelled back from the pilot's seat.
+
+Hemi let his thumb off the starter button and the whine died slowly away.
+
+Shakes joined him a second later. "I almost forgot! After the diesel starts I won't be able to hear a fucking thing up there. Here..." Shakes unclipped the largest of the crescent wrenches from his belt and handed it to Hemi. "If you need to get my attention with the engine running, whack that against some metal part of the boat near my head."
+
+Hemi nodded as Shakes grinned at him and slammed his thumb down on the starter.
+
+Hemi knew it would be loud, but he was not prepared for the sheer penetrating volume of the engine with no muffler to speak of. It rolled and roared its way to life and filled the small interior of the Gnat up from bow to stern.
+
+Being direct drive, unlike the _Prospect_ the _Gnat's_ engine also shook the boat a lot more. And also unlike the _Prospect_ it changed pitch and volume as the boat gained speed and the engine had to work harder. Shakes pushed the throttle forward and the already all-consuming sound grew, clawing its way into the deepest folds of Hemi's tweed clothing and shaking every last tiny bolt in its hole.
 
 
