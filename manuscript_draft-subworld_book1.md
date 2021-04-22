@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Tue Apr 20, 2021  07:44PM
+Last modified: Wed Apr 21, 2021  08:19PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5677,7 +5677,7 @@ Percy sighed. "Alright Hemi. It's your plan, I defer to you. I'll put her back o
 Hemi reached his big meaty hand up, and Percy met it with her small and calloused hand. They shook, and Percy closed the hatch over Hemi and Shakes. A moment later she heard the thump of the _Gnat's_ hatch setting into place, and then the clang of a crescent wrench indicating that the _Gnat_ was sealed and ready to push off from the _Prospect_.
 
 
-### Hemi starts assembling the devices
+### The Gnat runs on the surface; leads the sub with the ram away
 
 "Bring us up to the surface Shakes. The first thing we have to do is try to confuse that sub into following the _Gnat_, even if just for a little bit. We are not ready to use the _Prospect_ for bait... yet."
 
@@ -5703,6 +5703,46 @@ Hemi nodded as Shakes grinned at him and slammed his thumb down on the starter.
 
 Hemi knew it would be loud, but he was not prepared for the sheer penetrating volume of the engine with no muffler to speak of. It rolled and roared its way to life and filled the small interior of the Gnat up from bow to stern.
 
-Being direct drive, unlike the _Prospect_ the _Gnat's_ engine also shook the boat a lot more. And also unlike the _Prospect_ it changed pitch and volume as the boat gained speed and the engine had to work harder. Shakes pushed the throttle forward and the already all-consuming sound grew, clawing its way into the deepest folds of Hemi's tweed clothing and shaking every last tiny bolt in its hole.
+Being direct drive, unlike the _Prospect_, the _Gnat's_ engine also shook the boat a lot more. Also unlike the _Prospect_, the _Gnat's_ diesel changed pitch and volume as the boat gained speed and the engine had to work harder. Shakes pushed the throttle forward and the already all-consuming sound grew, clawing its way into the deepest folds of Hemi's tweed clothing and jolting every last tiny screw holding the _Gnat_ together.
+
+Hemi squeezed himself into the small space next to the pilot's seat where Shakes was guiding the boat. In that space he could reach the sonar controls, which Shakes had set up close enough to the pilot's seat that normally he would work the sonar himself while driving the boat. With Hemi aboard he was happy to let Hemi keep an eye on the sonar.
+
+Hemi didn't even bother with the headset. There was no way they would hear anything on passive sonar above the raucous engine noise of the _Gnat's_ diesel. But he punched the active sonar ping button and it was loud enough to get a response and the sonar sweep laid out a speckled groundplan of contacts in the 10 nautical miles or so around the _Gnat_. Hemi waited 5 minutes and then fired off another ping. Only one dot had changed position, and that was the sub with the ram. It had moved from its intercept course with the _Prospect_ and swung around the follow the engine noise of the _Gnat_.
+
+A few minutes later Hemi let go one more ping just to be sure the sub with the ram was still following the _Gnat_, which it was. Then he powered down the sonar unit. Any further pings would run the risk of giving away the position of the _Prospect_ to the sub with the ram when Captain Percy started maneuvering her boat. For the time being with the _Gnat's_ engine overwhelming everything else in the water, he would have to just guess what was happening.
+
+Hemi caught Shake's eye and pointed up to the hatch. Shakes nodded, and squeezed off the other side of the pilot's seat and Hemi passed through the vacated space to climb on top of the pilot's seat, open the hatch and step out into the shallow water that washed over the deck of the _Gnat_.
+
+The surface was mostly calm with little breeze under a bright gray sky. With the hatch now open, Shakes piloted the boat standing, with his head up out of the sail. Hemi shaded his eyes and scanned the horizon behind them. They had only made a few miles from the _Prospect_, and Hemi could still see its gray sail rolling slowly from side to side against the gray sky. But it was just one of a half dozen other large inert masses bobbing on the ocean surface within eyesight, not to mention the hundreds of smaller slowly churning through the scummy black water and occasionally clacking against each other. 
+
+Hemi sat on the back edge of the _Gnat's_ low sail. Shakes reached down into the sail and withdrew a pair of binoculars which he handed to Hemi. Hemi could see nothing moving under power on the surface besides themselves, which meant the sub with the ram must be operating submerged. As with everything to do with submarining, this plan of his would be a series of very long, slow moves interspersed with terrifyingly quick determining actions.
+
+Hemi scanned back and forth across the horizon for 20 minutes or so, and then the _Prospect's_ sail caught his attention. It had stopped swaying, and was now holding itself bolt upright. Hemi focussed his binoculars on it, and a few minutes later it sank silently downwards and the viscous black surface closed over it with a sound that Hemi almost imagined he could hear.
+
+
+### The Gnat dives; assembling the devices
+
+At this, Hemi signaled to Shakes and he climbed back down into the bowels of the _Gnat_. He returned to assembling the devices he had been working on. He made careful calculations with his slide ruler, and noted them on his clipboard before connecting an air hose to a valve of the _Gnat's_ compressed air system, and then blowing air into the old boat bumpers he had brought from the _Prospect_. After each that he filled, he put a gauge on it and checked the precise pressure inside the bumper. When he was satisfied with each bumper's level of inflation, he sealed the bumper shut with a screw-tightened clip, and then lashed it to one of his paired explosive cylinders.
+
+The resulting device was extremely crude looking, but Hemi trusted the numbers on his clipboard and the fundamental simplicity of the things he had made.
+
+Another hour had passed as he worked on them, and Hemi intuited that it might be time to check on the sub with the ram. He lifted the big crescent wrench and smacked it against the hull of the _Gnat_ with all his might. Shakes looked around at the clanging sound that managed to creep across just above the racket of the diesel engine, and he gave Hemi a thumbs up. Shakes throttled back, and the sound of the engine died down just enough to give Hemi a tremendous sense of relief. Shakes pointed to the engine kill button on the wall near Hemi and then reached up above his head to pull the hatch into place. At the same time Hemi thumbed the engine kill button and true silence --- silence like Hemi had never quite experienced before in all his years on submarines --- overtook the small boat.
+
+It only last a second before Shakes started pouring nasally-voiced orders into it. "Hemi, switch us back to the fucking electric motor man."
+
+Hemi pulled the levers in reverse order to before to disengage the drive from the diesel and re-engage the electric motor. Unlike the diesel the electric motor didn't have to be started. Shakes just pushed the throttle forward and the much softer hum of the electric drive motor increased in pitch along with the slight sense of acceleration.
+
+"We diving Hemi?" Shakes asked, still not sure exactly what the plan was.
+
+"Yes. Take us down. As deep as you can go."
+
+Hemi stepped forward and powered up the passive sonar unit. He put the headset on and listened to the quiet ocean around them. He couldn't hear the _Prospect_ at all --- Percy must be running very slowly. But swinging the mics around he found the sub with the ram easily a few nautical miles off to the west of the _Gnat_. Even though the pursuing sub had to be much further away than the _Prospect_, and even though they were running submerged on electric motors, the sub with the ram was running fast enough to be easily tracked. They did not care who knew where they were.
+
+It took hemi about 15 minutes of listening to get a grasp on the situation. The sub with the ram had given up the pursuit of the _Gnat_, probably not long after Shakes and Hemi had started the engines. They had probably quickly realized that once again the _Gnat_ was a decoy. But the _Gnat's_ run had apparently thrown just enough confusion into the water for the sub with the ram to have lost their track on the _Prospect_. They had taken up a search pattern again, and Hemi tracked them slowly turning through a large multi-mile in diameter circle searching for the _Prospect_. They were pinging regularly, so if _Percy_ was moving, there was a good chance they would find the _Prospect_ soon.
+
+"There's not much time Shakes. Give us all the speed the _Gnat's_ got under water. We have to get between the sub with the ram and the _Prospect._"
+
+"Ya, OK Hemi. But... you still haven't told me what the fucking plan is."
+
 
 
