@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Tue Apr 20, 2021  07:44PM
+Last modified: Thu Apr 22, 2021  06:56PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -631,12 +631,11 @@ Last modified: Tue Apr 20, 2021  07:44PM
 * [ ] _Shakes runs the Gnat on the surface for a bit, trying to draw away the sub with the ram_
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
 
-* [ ] _Percy starts running the Prospect at periscope depth, full-engine like they are trying to get away._
-	* Possibly Hemi is using active sonar to range and most importantly get a depth on the pursuing sub
-	* Don't forget the batteries are very depleted though!
+* [ ] _When the Gnat switches to battery, Hemi can hear Percy start running the Prospect at periscope depth, full-engine like they are trying to get away._
+	* The Prospect runs at 10 knots or so
 
-* [ ] _the pursuing sub will run at the same depth, trying to line up an underwater torpedo shot._
-	* And avoid hitting another wreck in the garbage patch
+
+	* Don't forget the batteries are very depleted though!
 
 * [ ] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
 	* Hemi has to heft the heavy devices up into the escape trunk.
@@ -648,15 +647,29 @@ Last modified: Tue Apr 20, 2021  07:44PM
 
 * [ ] _Hemi's first attempt just explodes harmlessly on the ram_ 
 	* (Do you want to do a thing where the device arms inside the escape trunk and Hemi has to dump the water in the trunk into the Gnat and disarm the device? like the timer spring snaps or something? Not sure how to do that with them realizing it before the thing just explodes)
+	* they let the device go, and then blow the tanks and breach the Gnat
+	* Shakes opens the hatch and looks behind in time to see the explosion
+	* Hemi hears it on sonar, but from there he can tell he only hit the ram
 
-* [ ] _Hemi realizes he needs to lay his mine deeper; get the mine under the submarine before it explodes to break its back_
+* [ ] _In the Prospect_
+	* All is silent after the first explosion
+	* Then Cassandra hears a torpedo in the water:
+		* "Captain Percy! There's a torpedo in the water!"
+		* "Cassandra, this is very important: has it acquired us? If so, we have to dive _now_. And if we dive, this plan is over."
+		* "I don't know Percy!" She listened intently "...It's pinging like it's got something... I can't tell... No, I can: it's on a derelict!"
+		* A minute later the derelict explodes
+		* "Where's the Gnat now Cassandra? And where's the sub with the ram?"
+		* "The sub with the ram is closing on us. I don't know where the Gnat is!"
+		* "Find the Gnat Cassandra!" 
+		* She searches. "It's... directly underneath us! 50 meters down."
+		* "What?! That flimsy fucking boat of Shakes' can't go that deep."
+		* Cassandra suggests Hemi might have to lay the mine deeper or something, Percy figures it out from that.
+
+* [ ] _Back in the Gnat: Hemi realizes he needs to lay his mine deeper; get the mine under the center of the submarine before it explodes to break its back_
 	* Down to 50 meters
 	* "The Gnat can't go that deep Hemi, it was built at fucking altitude!"
 	* they try it, the Gnat starts leaking at the seams. water pours in through the viewport (that's why sub's don't have windows!)
 	* Hemi gets his mine in the water
-
-* [ ] Cassandra's redemption: she figures out where the subs are/what Hemi's plan is by listening carefully to sonar
-	* Percy praises her
 
 * [ ] The mine hits and sinks the sub with the ram
 	* Hemi listens to the watertight compartments collapsing and the sub drawn down into the bottomless hole.
