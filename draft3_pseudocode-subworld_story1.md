@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Thu Apr 22, 2021  06:56PM
+Last modified: Fri Apr 23, 2021  08:54PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -625,17 +625,14 @@ Last modified: Thu Apr 22, 2021  06:56PM
 
 
 ### in the _Gnat_
-
-* [ ] _Hemi starts assembling his devices,  he explains the plan to Shakes as he does._
-
-* [ ] _Shakes runs the Gnat on the surface for a bit, trying to draw away the sub with the ram_
+* [X] _Shakes runs the Gnat on the surface for a bit, trying to draw away the sub with the ram_
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
 
-* [ ] _When the Gnat switches to battery, Hemi can hear Percy start running the Prospect at periscope depth, full-engine like they are trying to get away._
+* [X] _Hemi explains the plan to Shakes._
+
+* [X] _When the Gnat switches to battery, Hemi can hear Percy start running the Prospect at 30 meters, full-engine like they are trying to get away._
 	* The Prospect runs at 10 knots or so
-
-
-	* Don't forget the batteries are very depleted though!
+		* Don't forget the batteries are very depleted though!
 
 * [ ] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
 	* Hemi has to heft the heavy devices up into the escape trunk.
