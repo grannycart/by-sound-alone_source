@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Fri Apr 23, 2021  08:54PM
+Last modified: Sat Apr 24, 2021  12:18PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -5616,7 +5616,7 @@ Hemi laid out a plan for her that, though likely to end with the destruction of 
 
 Hemi got Herschel off with a note to Shakes attached to the bird's leg with instructions to return to the _Prospect_ submerged and running slowly on battery power. It was going to take a while for Herschel to find Shakes, and then a while longer for Shakes to motor slowly back. Hemi figured he had a couple of hours at least to gather the things he needed.
 
-The magenetic warheads were in the crates right where he left them. He selected a half dozen of the ones that were the least coated with dust and rust, and hauled them to a work table in the engine room. Each weighed about 25 kilograms and consisted of a cylinder containing high explosives that was about 300 milimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with the powerful magnet that could activate the switching mechanism.
+The magenetic warheads were in the crates right where he left them. He selected a half dozen of the ones that were the least coated with dust and rust, and hauled them to a work table in the engine room. Each weighed about 25 kilograms and consisted of a cylinder containing high explosives that was about 300 milimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with the magnet that was strong enough to activate the switching mechanism, but weak enough that it was not likely to actually adhere itself to the target. The magnet was intended to be a trigger, not an attachment device.
 
 The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device would enable to understand how it worked, and thus handle it safely. Details were printed right on the side of the explosives cylinder, and it was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons of extinct microscopic sea creatures. It could not be exploded without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finnicky that it would not go off in the close presence of another high explosve. A fortunate thing, because Hemi estimated he needed at least two of these devices to detonate if he wanted to blow a hole through the pressure hull of a military submarine.
 
@@ -5681,7 +5681,7 @@ Hemi reached his big meaty hand up, and Percy met it with her small and callouse
 
 "Bring us up to the surface Shakes. The first thing we have to do is try to confuse that sub into following the _Gnat_, even if just for a little bit. We are not ready to use the _Prospect_ for bait... yet."
 
-"OK Hemi, to the surface and running on diesel it is." Shakes gave the _Gnat_ a little throttle while peering through the small viewport in front of him. He turned the steering yolk and drove the _Gnat_ silently out from under the _Prospect for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
+"OK Hemi, to the surface and running on diesel it is." Shakes gave the _Gnat_ a little throttle while peering through the small viewport in front of him. He turned the steering yolk and drove the _Gnat_ silently out from under the _Prospect_ for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
 
 "OK we're on the surface." Shakes turned around in the pilot's seat to talk to Hemi who was sorting his gear in the hold behind him. "Hemi, can you switch the drive from the electric motor to the diesel? The levers are just back there behind the engine."
 
@@ -5691,7 +5691,9 @@ Hemi squeezed past the diesel engine that took up most of the interior floorspac
 
 "Fuckin' sweet. There's a starter button for the diesel just above the letters, can you press and hold that until the diesel fires?"
 
-Hemi pressed the large greasy rubber-coated button down with his thick thumb, and compressed air hissed into the diesel engine in front of him and the engine made a few reluctant whines as it turned. 
+[//]: # (In next graf: the Gnat has glow plugs to start it, not compressed air --- it was a tractor engine)
+
+Hemi pressed the large greasy rubber-coated button down with his thick thumb, and the diesel engine in front of him engine made a few reluctant whines as it turned and the glow plugs warmed up. 
 
 But before the engine fired, Shakes interrupted him. "Wait! Hemi, wait!" Shakes yelled back from the pilot's seat.
 
@@ -5722,7 +5724,7 @@ Hemi scanned back and forth across the horizon for 20 minutes or so, and then th
 
 ### The Gnat dives; assembling the devices
 
-At this, Hemi signaled to Shakes and he climbed back down into the bowels of the _Gnat_. He returned to assembling the devices he had been working on. He made careful calculations with his slide ruler, and noted them on his clipboard before connecting an air hose to a valve of the _Gnat's_ compressed air system, and then blowing air into the old boat bumpers he had brought from the _Prospect_. After each that he filled, he put a gauge on it and checked the precise pressure inside the bumper. When he was satisfied with each bumper's level of inflation, he sealed the bumper shut with a screw-tightened clip, and then lashed it to one of his paired explosive cylinders.
+At this, Hemi signaled to Shakes and he climbed back down into the bowels of the _Gnat_. He returned to assembling the devices he had been working on. He made careful calculations with his slide ruler, and noted them on his clipboard before connecting an air hose to a valve of the _Gnat's_ compressed air system, and then blowing air into the old boat bumpers he had brought from the _Prospect_. After each bumper was filled, he put a gauge on it and checked the precise pressure inside the bumper. When he was satisfied with the level of inflation, he sealed the bumper shut with a screw-tightened clip, and then lashed it to one of his paired explosive cylinders.
 
 The resulting device was extremely crude looking, but Hemi trusted the numbers on his clipboard and the fundamental simplicity of the things he had made.
 
@@ -5748,7 +5750,7 @@ It took hemi about 15 minutes of listening to get a grasp on the situation. The 
 
 "Ah." Said Shakes. "So it's just a little fucking matter of flushing one of those bad boys out the escape trunk at precisely the right depth and in the path of that big ugly fucking sub, eh?"
 
-"The depth I can control with the amount of air in these old boat bumpers. I can calculate the pressure needed in the bumpers with enough precision, I believe. Leave the depth to me. But yes, I need you to navigate us across the path of the sub with the ram."
+"I can control the depth with the amount of air in these old boat bumpers. I have calculated the pressure needed in the bumpers with enough precision, I believe, so that they should float at precisely 25 meters deep. That should take care of the Z axis, but I need you to navigate us across the path of the sub with the ram."
 
 "That may not be so fucking easy."
 
@@ -5766,7 +5768,7 @@ Hemi put up a finger of his hand that carried a clipboard as his other hand lift
 
 "They are submerged?"
 
-"Yes. Sounds like about 30 meters down --- that way they can move fast with less risk of hitting a derelict. But her battery is very low. I estimate she can only maintain 10 knots for perhaps 20 minutes, so we have to move quickly to put the plan into action."
+"Yes. We planned for the _Prospect_ to run at about 30 meters down --- that way they can move fast with less risk of hitting a derelict. But her battery is very low. I estimate she can only maintain 10 knots for perhaps 20 minutes, so we have to move quickly to put the plan into action."
 
 Shakes leaned his hand on the throttle, but it was already pushed all the way to the forward stop. The electric motor whined steadily from behind them, driving the small boat forward with all the force it could muster.
 
@@ -5780,15 +5782,43 @@ Shakes leaned his hand on the throttle, but it was already pushed all the way to
 
 "Fucking right, Hemi."
 
-Hemi left the headset behind, now relying entirely on the stopwatch and the unvarying speed and course of the _Gnat_ to know where he was in the water. He gingerly moved toward the stern, stepping over and around the detritus Shakes decorated his only living space with. 
-
-[//]: # (Add Hemi setting the pressure in the bumpers? He did that a bit above, but it might be more interesting to go into detail on what he's doing right here.)
+Hemi left the headset behind, now relying entirely on the stopwatch and the unvarying speed and course of the _Gnat_ to know where he was in the water. He gingerly moved toward the stern, stepping over and around the detritus Shakes felt was perfectly reasonable to cast about in his only living space. 
 
 He picked up one of the devices, and it was heavy enough that even Hemi struggled a little to lift it. In addition to the sheer weight of the two warheads strapped together, he had to manage the awkward bumpers and lines that managed to tangle themselves repeatedly around the myriad protrusions that all submarines have into their interior spaces.
 
-The escape trunk was located behind the engine and motor, so it took some effort on Hemi's part to pass the heavy device through the narrow space and back under the thick cylinder of the escape trunk that hung down from the deck of the _Gnat_. It had a heavy hand-screw sealed hatch on the bottom of the cylinder which Hemi opened. He hefted the device up into the narrow interior space of the escape trunk and struggled to get it to sit on the narrow ledge around the hatch. The ledge was intended to be the hold the person who wanted to escape stood on while sealing the hatch from the inside. It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the space where the hatch was. Then he piled the excess line on top of the warhead package and stuff the bumpers in. The bumpers were even more of a challenge to get to stay up in the escape trunk, but at least they didn't weigh as much, and had no chance of exploding if dropped. He finally got the bumpers to stay in the trunk by propping them on the ledge and leaning the two bumpers against each other.
+The escape trunk was located behind the engine and motor, so it took some effort on Hemi's part to pass one of the heavy devices through the narrow space and push it back under the thick cylinder of the escape trunk that hung down from the deck of the _Gnat_. The escape trunk had a heavy hand-screw sealed hatch on the bottom of the cylinder. Hemi opened the hatch and hefted the device up into the narrow interior space of the escape trunk. He struggled to get it to sit on the narrow ledge that circled the hatch inside. The ledge was intended to be a foothold for the person who wanted to escape while sealing the hatch from the inside. 
 
-[//]: # (Set the timer to arm the warhead. Flood the escape trunk.)
+It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuff the bumpers in. The bumpers were even more of a challenge to get to stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the bumpers to stay in the trunk by propping them on the ledge and leaning the two bumpers against each other.
+
+Finally, Hemi reached back up into the escape trunk and wound the mechanical timers that would close the circuit to arm the warheads when the timer reached zero. He set them to a frighteningly-short 5 minutes --- hardly enough time for the _Gnat_ to drive clear of the amount of explosive the combined warheads packed. But he could not risk the devices being unarmed when the sub with the ram came within range of them. 
+
+Time was compressing down on Hemi. The little mechanical timers buzzed away inside the escape trunk, the rickety little devices striving desperately to count out their 5 minutes with some precision. Hemi lifted the escape trunk hatch door up and spun the sealing wheel closed and cutting off the quick ticking of the timers.
+
+Hemi looked around the outside of the escape trunk for a control to flood the trunk, but the only promising component was a massive lever set into the top of the pressure hull above his head. "Shakes, how do you flood the escape trunk?"
+
+"Flood?" Shakes yelled back from the control seat. "Hemi this ain't no fucking commercial sub with some kind of specs-mandated flood-and-pump escape trunk for getting a crew of 50 off a boat. The _Gnat_ has a normal crew complement of one and so the escape trunk is a one-time use only. That big ugly lever above your head releases the escape trunk topside hatch. There's another lever inside the escape trunk just like that one. I rigged the hatch with one giant fucking spring. The hatch opens and the ocean floods in. That's fucking it."
+
+"So it cannot be reset underwater then?"
+
+"Hells the fuck no. Fuck, the only reason I even put in an escape trunk was so I could flush out any problematic cargo if I got into a sticky situation with an Authority vessel. Well... that and I was fucking terrified of being stuck on the bottom of the ocean and unable to open the sail hatch."
+
+"Alright, it will have to do. Be ready, I will open the escape trunk in another minute or so."
+
+Hemi held the stopwatch up in front of his eyes and the second hand rapidly screwed itself across the face of the watch. In his head Hemi could see their position in the water, see where the _Prospect_ should be off to their port side, and see the sub with the ram --- all black and fiercly toothy in the front in an way that was unnatural for a submarine --- charging towards him in Shakes' rickety little craft. The boats all moved relative to each other in his head, driven into position by the second hand on the stopwatch. He put his hand up to the heavy iron lever covered with flecks of rust above his head.
+
+The second hand curled around and came up level for the last time. In Hemi's head the boats were all in the exact position. His thick fist tightened on the lever and then the muscles all the way down his arm to his shoulder tightened --- the lever was extremely hard to move.
+
+But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and back against the deck of the _Gnat_. Hemi could almost feel the intense weigh of the water under the pressure of 3 atmospheres pushing into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold damp steel he could hear the gently bumping as his device lifted up and clear of the trunk.
+
+"The device is away Captain Shakes!" Hemi called forward.
+
+"...Are you sure about that? I'd hate to find out it's fucking stuck in there and arming itself."
+
+"Well, I am as sure as I can be. Blow the tanks --- the surface is going to be the safest place for us in the next few minutes."
+
+"Ay Hemi." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes and water globbed heavily out of the boat into the surrounding ocean. The Gnat slowly started upwards for a second, and then a second later gained speed. "Hang on to something Hemi!"
+
+Hemi could feel his stomach dropping and grabbed one of the freezing pipes that ran along the hull next to him. He gripped the pipe with his unyielding fists, his knuckles whitening through his cracked skin. He had ridden ballast blows up hundreds of times, but the tiny _Gnat_ was a different experience from a big cargo sub like the _Prospect_. The whole boat shook with the strain of it, the hull made sounds like it was cracking apart --- it was by no means clear to Hemi that it was not. When the bow popped through the surface a second later, the boat came down hard and Hemi was forced to throw a hand up above his head to keep himself from smashing into the escape trunk lever.
 
 
 

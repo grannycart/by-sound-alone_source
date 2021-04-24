@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Fri Apr 23, 2021  08:54PM
+Last modified: Sat Apr 24, 2021  12:18PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -625,6 +625,7 @@ Last modified: Fri Apr 23, 2021  08:54PM
 
 
 ### in the _Gnat_
+
 * [X] _Shakes runs the Gnat on the surface for a bit, trying to draw away the sub with the ram_
 	* Hemi hits a strut with a spanner when he wants Shakes to dive.
 
@@ -643,13 +644,20 @@ Last modified: Fri Apr 23, 2021  08:54PM
 	* Shakes watches where he is through the view port
 
 * [ ] _Hemi's first attempt just explodes harmlessly on the ram_ 
-	* (Do you want to do a thing where the device arms inside the escape trunk and Hemi has to dump the water in the trunk into the Gnat and disarm the device? like the timer spring snaps or something? Not sure how to do that with them realizing it before the thing just explodes)
 	* they let the device go, and then blow the tanks and breach the Gnat
 	* Shakes opens the hatch and looks behind in time to see the explosion
 	* Hemi hears it on sonar, but from there he can tell he only hit the ram
 
-* [ ] _In the Prospect_
-	* All is silent after the first explosion
+* [ ] _On the surface, they have to reset the escape trunk_
+	* pump the water out
+		* maybe they drop the water down into the Gnat and pump it out with the bilge? Seems like.
+	* put the hatch back
+	* Shakes comments that it sometimes blows accidentally. pain in the ass.
+
+
+### in the Prospect
+
+* [ ] _All is silent after the first explosion_
 	* Then Cassandra hears a torpedo in the water:
 		* "Captain Percy! There's a torpedo in the water!"
 		* "Cassandra, this is very important: has it acquired us? If so, we have to dive _now_. And if we dive, this plan is over."
@@ -661,6 +669,9 @@ Last modified: Fri Apr 23, 2021  08:54PM
 		* She searches. "It's... directly underneath us! 50 meters down."
 		* "What?! That flimsy fucking boat of Shakes' can't go that deep."
 		* Cassandra suggests Hemi might have to lay the mine deeper or something, Percy figures it out from that.
+
+
+### Back in the Gnat
 
 * [ ] _Back in the Gnat: Hemi realizes he needs to lay his mine deeper; get the mine under the center of the submarine before it explodes to break its back_
 	* Down to 50 meters
@@ -679,6 +690,7 @@ Last modified: Fri Apr 23, 2021  08:54PM
 * [ ] _Suddenly they hear a bump and the Shakes looks out the viewport. The Prospect is under them._
 	* The Prospect lifts the Gnat up to the surface on its deck (like a mother whale lifting a newborn)
 	* On the surface, water streams out of all the split seams of the Gnat (laying half on its side on the deck of the Prospect)
+
 
 ### Ending
 
