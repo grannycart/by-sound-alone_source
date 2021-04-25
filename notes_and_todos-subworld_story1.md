@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Apr 20, 2021  07:29PM
+Last modified: Sun Apr 25, 2021  05:52PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -12,12 +12,25 @@ Last modified: Tue Apr 20, 2021  07:29PM
 
 ## Notes and To dos:
 :notes:
+* [ ] move section headers to .md comments; create chapter breaks
+* [ ] consider breaking chapters into their own files
+	* this might make them easier to manage, particular if you put what the contents of each chapter are in comments at the top
+	* you can edit from one chapter to the next with vim splits
+	* might make it just a bit harder for someone to read/compile from the source code without setting up pandoc and stuff.
+* [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
+	* Stuff like the malevolence of nature could be a comment in the source code text
 * [ ] secure Mark Tower domains and stuff:
 	* [ ] domain names
 	* [ ] github account
 	* [ ] protonmail account
 	* [ ] amazon account
 * [ ] Ask Aaron Reiss who I should have read this thing
+* [ ] possible readers:
+	* [ ] Cricket
+	* [ ] Clara
+	* [ ] Aaron
+	* [ ] Sam
+	* [ ] Xala
 * [ ] Maybe post the unedited first full draft as a "preview edition" on Amazon?
 	* (Check if new editions can be distributed for free, and push that idea in a quest for new readers)
 	* (Or see if you can distribute the preview edition for free as a way to bring in new readers)
@@ -91,17 +104,14 @@ Last modified: Tue Apr 20, 2021  07:29PM
 	* Are the characters relatable, distinctive?
 	* Are the names (both boats and people) ok?
 	* Is there anything offensive that I'm not recognizing?
-* [ ] do a search for 'ly' and remove any useless adverbs. Maybe 'that' too.
+* [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 * [ ] audit 'and's --- 'it was a dark and stormy night': multiple descriptors compete for attention.
 * [ ] find and make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
-* [ ] move section headers to .md comments; create chapter breaks
 * [ ] find 'map' replace with 'chart'
 * [ ] Add 'blatting' to description of authority announcements over ship-to-ship
 * [ ] find 'floor' should be 'deck'
-* [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
-	* Stuff like the malevolence of nature could be a comment in the source code text
 * [ ] remove contractions from Hemi dialog
 * [ ] more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
 * [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
@@ -124,7 +134,11 @@ Last modified: Tue Apr 20, 2021  07:29PM
 	* [ ] make sure the Gnat has an airlock escape trunk
 	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
 	* [ ] move the Gnat motor switch lever labels aft of the engine
-* [ ] cargo bay or cargo hold? (Fix on diagram too)
+	* [ ] add pigeon coop to Gnat? (don't forget pigeon hatch)
+	* [ ] change cargo 'bays' to cargo holds
+* [ ] review specs for Gnat in notes --- Pigeon access hole?
+	* deck gun will be added in a later story
+* [ ] cargo bay or cargo hold? 
 	* I think it's a hold on a ship
 * [ ] revisions for Gregory death scene:
 	* blood rains down through the open hatch (though they don't see Gregory at all)
@@ -133,6 +147,7 @@ Last modified: Tue Apr 20, 2021  07:29PM
 	* tough maybe Hemi is the only one who calls her by it
 	* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
 * [ ] Have Percy address Hemi by his full name somewhere
+* [ ] does Shakes insist on being referred to as "Captain Shakes"?
 * [ ] Cassandra should always address percy as "Captain Percy"
 * [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
 * [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
@@ -174,7 +189,6 @@ Last modified: Tue Apr 20, 2021  07:29PM
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
 * [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
 * [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
-* [ ] does Shakes insist on being referred to as "Captain Shakes"?
 * [ ] Consider removing parts where Percy second-guesses herself.
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
 	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
@@ -206,8 +220,6 @@ Last modified: Tue Apr 20, 2021  07:29PM
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the ramming sub's captain's wife.
 	* though maybe this human relations element is covered by the fight with Chips
-* [ ] review specs for Gnat in notes --- Pigeon access hole?
-	* deck gun will be added in a later story
 * General style stuff to address throughout:
 	* [ ] Do you need to do more to pump up the human relations in the story?
 		* Imagine that a resolution with Chips leads to something successfully happening at the end of the story
@@ -236,16 +248,19 @@ Last modified: Tue Apr 20, 2021  07:29PM
 		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
 		* And a lot more cursing might actually be a simple way to make it grittier.
 		* Also they're a bunch of fuckin sailors!
-		* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
+		* ** Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
 			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
+			* ** I think this is a good revision to make. do it!
 	* [ ] Consider pulling back or deleting the metaphors
 	* [ ] Keep in mind that in this world, like the opening set piece, nature is deliberately cruel and evil, tormenting
 		* So at some point, it should be _pulling_ them to the depths
 		* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
-		* The only way they survive in nature's cruelty is through their grimey machine, the submarine
+		* The only way they survive in nature's cruelty is through their grimey, rational machine, the submarine. the submarine which always makes sense, if you can just figure it out
 * [ ] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
+	* might be too on-the-nose
 * [ ] consider using 'nominal' to mean anything you want it to.
+	* might be too on-the-nose
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
 * [ ] Need to include a description of Percy somewhere early in the book
 	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
@@ -288,9 +303,9 @@ Last modified: Tue Apr 20, 2021  07:29PM
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
 * [ ] someone fishes from the deck of the ship
 * [ ] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
-* [ ] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
+* [X] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
 * [X] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
-* [ ] They have a conversation about whether mice enjoy running on wheels:
+* [X] They have a conversation about whether mice enjoy running on wheels:
 	* "if you put a wheel in the woods, do you think mice would run on it?"
 	* "I'll bet they would --- for the sheer mechanical pleasure of it. Like a bicycle. Or a submarine"
 	* (I originally had this slated for book II though.. is it better there?)
@@ -302,7 +317,7 @@ Last modified: Tue Apr 20, 2021  07:29PM
 	* Though that rebel group might be the oppressors in 6 months
 	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-* [ ] My submarine book (at least this first one and the free 10k word story) will NOT have a 'running out of air' scene.
+* [X] My submarine book (at least this first one and the free 10k word story) will NOT have a 'running out of air' scene.
 * [X] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
 	* But under water every ten meters down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Grimlock_ plus the noble strength of the steel hull. When approaching the maxiumum depth of a sub, one small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of minutes.
 * [X] overall theme: being chased by a dark force of evil (black sub) from place to place to place

@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sat Apr 24, 2021  12:18PM
+Last modified: Sun Apr 25, 2021  05:51PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -635,20 +635,19 @@ Last modified: Sat Apr 24, 2021  12:18PM
 	* The Prospect runs at 10 knots or so
 		* Don't forget the batteries are very depleted though!
 
-* [ ] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
+* [X] _The Gnat has to run between them, and release their homemade magnetic mines. And hope Hemi got the calculations right._
 	* Hemi has to heft the heavy devices up into the escape trunk.
 	* Hemi has to calculate by hand and slide rule how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the bumpers float by hand and launch them out the airlock into the path of the chasing sub.
 	* (with slide-rule calculations of how much pressure each air bag needs to hold it steady in the water column)
 	* the garbage in the water makes it impossible for the pursuing sub to know the mines are there
 	* Maybe Hemi guides Shakes into position listening to sonar.
-	* Shakes watches where he is through the view port
 
-* [ ] _Hemi's first attempt just explodes harmlessly on the ram_ 
+* [X] _Hemi's first attempt just explodes harmlessly on the ram_ 
 	* they let the device go, and then blow the tanks and breach the Gnat
 	* Shakes opens the hatch and looks behind in time to see the explosion
 	* Hemi hears it on sonar, but from there he can tell he only hit the ram
 
-* [ ] _On the surface, they have to reset the escape trunk_
+* [X] _On the surface, they have to reset the escape trunk_
 	* pump the water out
 		* maybe they drop the water down into the Gnat and pump it out with the bilge? Seems like.
 	* put the hatch back
@@ -657,7 +656,7 @@ Last modified: Sat Apr 24, 2021  12:18PM
 
 ### in the Prospect
 
-* [ ] _All is silent after the first explosion_
+* [X] _All is silent after the first explosion_
 	* Then Cassandra hears a torpedo in the water:
 		* "Captain Percy! There's a torpedo in the water!"
 		* "Cassandra, this is very important: has it acquired us? If so, we have to dive _now_. And if we dive, this plan is over."
@@ -673,28 +672,37 @@ Last modified: Sat Apr 24, 2021  12:18PM
 
 ### Back in the Gnat
 
-* [ ] _Back in the Gnat: Hemi realizes he needs to lay his mine deeper; get the mine under the center of the submarine before it explodes to break its back_
+* [X] _Back in the Gnat: Hemi realizes he needs to lay his mine deeper; get the mine under the center of the submarine before it explodes to break its back_
 	* Down to 50 meters
 	* "The Gnat can't go that deep Hemi, it was built at fucking altitude!"
 	* they try it, the Gnat starts leaking at the seams. water pours in through the viewport (that's why sub's don't have windows!)
+	* Hemi slides the lever, but the escape hatch doesn't want to open at 50 meters down, too much pressure.
+		* "The hull has been too compressed!" Shakes yells. "The hatch is wedged in its seat!" 
+		* "Come shallower slightly --- every meter counts!"
+		* "If that thing arms in the trunk we're done Hemi!"
+		* Hemi bangs his fist against the hull above his head with slow, heavy whacks, tears welling in his eyes --- the one moment of panic the guy ever displays in the book
+		* the hatch slowly opens at 40 meters.
 	* Hemi gets his mine in the water
 
-* [ ] The mine hits and sinks the sub with the ram
+* [X] The mine hits and sinks the sub with the ram
+	* the sub with the ram almost immediately passes over them and detonates the mine
+	* Shakes catches a glimpse of the sub with the ram through the view port
 	* Hemi listens to the watertight compartments collapsing and the sub drawn down into the bottomless hole.
 
-* [ ] The Gnat is sinking fast
+* [X] The Gnat is sinking fast
 	* the shockwave from the detonation opened up the seams even more
 	* They blow the tanks
 	* the Gnat is half full of water. They put out mayday, but don't know if the Prospect can even hear them.
 
-* [ ] _Suddenly they hear a bump and the Shakes looks out the viewport. The Prospect is under them._
+* [X] _Suddenly they hear a bump and the Shakes looks out the viewport. The Prospect is under them._
 	* The Prospect lifts the Gnat up to the surface on its deck (like a mother whale lifting a newborn)
-	* On the surface, water streams out of all the split seams of the Gnat (laying half on its side on the deck of the Prospect)
 
 
 ### Ending
 
 * {They are all fishing on the deck?}
+	* On the surface, water streams out of all the split seams of the Gnat (laying half on its side on the deck of the Prospect)
+		* They have to move around the strapped down Gnat? 
 	* {Perhaps this is the one time in the novel where the weather on the surface is good? The one time nature isn't trying to kill them? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
 	* {Does Hemi express regrets about sinking the pursuing sub? "How many people were on board?" It would be nice if it reinforces his doubts about Percy's leadership.}
 	* Maybe Hemi brings a grill up on deck from the cargo hold; cleans and grills fish as crew catch them; salt and lime juice and red pepper flakes
