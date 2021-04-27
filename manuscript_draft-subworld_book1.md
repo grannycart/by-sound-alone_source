@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sun Apr 25, 2021  05:50PM
+Last modified: Sun Apr 25, 2021  10:45PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -6111,6 +6111,8 @@ Instead the _Gnat_ settled flat, and the movement of the boat stopped. Hemi lit 
 "What the fuck?" Shakes asked.
 
 "...The _Prospect_, Shakes. They must have got under us."
+
+[//]: # (Add: lifting the Gnat like a newbord cetacean. --- It's the OPPOSITE of moby dick: a whale is born instead of dying)
 
 Shakes stood up and took the light back from Hemi. He lit it and with a renewed hope for life, he crawled forward. He pushed Herschel's empty root aside and pulled open a fuse box panel lay behind it. He rummaged through a pile of old and corroded fuses and found one that looked good. He ran his finger down the rows of blown fuses til he found the one he wanted and yank it out and popped the hopefully-working replacement in.
 
