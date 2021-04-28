@@ -1,14 +1,36 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Tue Apr 27, 2021  10:14PM
+Last modified: Wed Apr 28, 2021  06:12PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
 --------------------------------------------------------------------------------
 * [Pseudocode example](#pseudoexample)
+* [pseudocode](#pseudocode)
 
 
-## Pseudocode
+
 --------------------------------------------------------------------------------
+## pseudocode example -- modified for story planning
+:pseudoexample:
+
+
+### Section/scene description gets three ###s; two blank lines above; one below
+
+* [ ] _paragraph description or plotting point to hit_
+	* [ ] A line that should be added to final --- whether as is, or needing to be re-written.
+	* {thought or comment about above line}
+
+* [ ] _paragraphs/plotting point separated by space, above, new graf below, description of what the graf covers in this line_
+	* [ ] Something that needs to be included under above plotting point.
+	* [ ] > draft attempt at actual prose {especially good if you have a good idea for prose while putting together pseudocode}
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+## Pseudocode
+:pseudocode:
 
 
 ### Opening scene: a calm black sea, broken by a sub --- (on a dead calm sea)
@@ -700,7 +722,7 @@ Last modified: Tue Apr 27, 2021  10:14PM
 
 ### Ending
 
-* [ ] _They are all fishing on the deck?_
+* [X] _They are all fishing on the deck?_
 	* On the surface, water streams out of all the split seams of the Gnat (laying half on its side on the deck of the Prospect)
 		* They have to move around the strapped down Gnat? 
 	* {Perhaps this is the one time in the novel where the weather on the surface is good? The one time nature isn't trying to kill them? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
@@ -712,23 +734,7 @@ Last modified: Tue Apr 27, 2021  10:14PM
 * {or something else?}
 
 
-
 --------------------------------------------------------------------------------
-## pseudocode example -- modified for story planning
-:pseudoexample:
-
-
-### Section/scene description gets three ###s; two blank lines above; one below
-
-* [ ] _paragraph description or plotting point to hit_
-	* [ ] A line that should be added to final --- whether as is, or needing to be re-written.
-	* {thought or comment about above line}
-
-* [ ] _paragraphs/plotting point separated by space, above, new graf below, description of what the graf covers in this line_
-	* [ ] Something that needs to be included under above plotting point.
-	* [ ] > draft attempt at actual prose {especially good if you have a good idea for prose while putting together pseudocode}
---------------------------------------------------------------------------------
-
 
 
 
