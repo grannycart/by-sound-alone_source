@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue Apr 27, 2021  09:11AM
+Last modified: Tue Apr 27, 2021  10:06PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -302,7 +302,7 @@ Last modified: Tue Apr 27, 2021  09:11AM
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
 * [ ] someone fishes from the deck of the ship
-* [ ] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
+* [X] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
 * [X] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
 * [X] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
 * [X] They have a conversation about whether mice enjoy running on wheels:

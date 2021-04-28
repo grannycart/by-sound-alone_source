@@ -1,5 +1,5 @@
 github-repos/mortrye/subworld-story_1/draft4_builtprose-subworld_story1.md
-Last modified: Sun Apr 25, 2021  10:45PM
+Last modified: Tue Apr 27, 2021  10:14PM
 
 # Built out prose (draft 4) of subworld story 1
 --------------------------------------------------------------------------------
@@ -6104,17 +6104,22 @@ The water Shakes sat in was rising fast. Water was pissing in through cracks in 
 
 In the darkness he listened the water streaming into the submarine. It sound like babbling brooks he had known long ago in his youth on land. With no visual sensory input in the darkness, his mind instead saw the bright sunny brooks that brought fresh water down to the sea on the island he had grown up on. All his years on rusting and leaking submarines, and running water --- a sound of death on submarines --- still remained first the sound of life from his youth.
 
-A heavy thick clang rang out in the darkness. Hemi had expected something like this. It would be the pressure hull collapsing in on itself, the steel snapping together like the jaws of some beast. He braced himself for the rush of water that should follow it.
 
-Instead the _Gnat_ settled flat, and the movement of the boat stopped. Hemi lit the lighter and Shakes was staring at him with a puzzled look on his face. Hemi looked at the depth gauge: it was rising.
+### Rescued by the Prospect, lifted from underneath
+
+A thick clang rang out in the darkness. Hemi had expected something like this. The pressure hull would be collapsing in on itself. The steel snapping together like the jaws of some beast. He braced himself for the rush of water that should follow it.
+
+Instead the _Gnat_ settled flat, and the movement of the little boat stopped completely. Hemi lit the lighter and Shakes was staring at him with a puzzled look on his face. Hemi looked at the depth gauge: it was rising.
 
 "What the fuck?" Shakes asked.
 
 "...The _Prospect_, Shakes. They must have got under us."
 
-[//]: # (Add: lifting the Gnat like a newbord cetacean. --- It's the OPPOSITE of moby dick: a whale is born instead of dying)
+"And now they're raising us to the surface, like some fucking new born whale! Fuck me! That's fucking awesome."
 
-Shakes stood up and took the light back from Hemi. He lit it and with a renewed hope for life, he crawled forward. He pushed Herschel's empty root aside and pulled open a fuse box panel lay behind it. He rummaged through a pile of old and corroded fuses and found one that looked good. He ran his finger down the rows of blown fuses til he found the one he wanted and yank it out and popped the hopefully-working replacement in.
+"I certainly find myself overcome with awe." Hemi replied.
+
+Shakes stood up and took the lighter back from Hemi. He lit it and with a renewed hope for life, he crawled forward. He pushed Herschel's empty and guano-covered roost aside and pulled open a fuse box panel lay behind it. He rummaged through a pile of old and corroded fuses that lay at the bottom of the fusebox to find one that looked still conductive. He ran his finger down the rows of blown fuses til he found the one he wanted and yanked it out.The hopefully-working replacement went into the fusebox in its place.
 
 He knew it did work because the radio panel lit up and the rapidly dwindling space of air in the sub was filled with the sound of radio static. "Try the ship-to-ship Hemi!"
 
@@ -6124,12 +6129,14 @@ Hemi picked up the mic from the front of the glowing box, and squeezed the trans
 
 "We are both here, though wet. How did you find us?"
 
-"Cassandra of course! She managed to pick Shake's shitty little sinking craft out from all the noise of the sub with the ram going down, and then she navigated us down with fucking dead-on precision until we were under you. Just in the fucking nick too! Our batteries flat-lined just after we picked you up. We're rising on a gentle ballast blow right now."
+"Fuckin' Cassandra of course! She managed to pick Shake's shitty little sinking craft out from all the noise of the sub with the ram going down, and then she navigated us down with fucking dead-on precision until we were under you. Just in the fucking nick too! Our batteries flat-lined just after we picked you up. We're rising on a gentle ballast blow right now."
 
 "The pursuing sub?"
 
 "Those fuckers are on their way down the hole Hemi, dragged by their black fuck ram first, I hope. Cassandra said she heard the boat split, and the bulkheads failing, and then the two biggest pieces went down."
 
-There was now light coming through the view port around the streams of water coming from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect's_ sail before in the gloom.
+There was now light coming through the view port around the streams of water coming from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect's_ sail out there in the gloom.
 
+### Fishing and grilling
 
+By the next morning they had managed to motor out of the garbage patch to find

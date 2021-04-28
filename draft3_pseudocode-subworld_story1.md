@@ -1,5 +1,5 @@
 draft3_pseudocode-subworld_story1.md
-Last modified: Sun Apr 25, 2021  05:51PM
+Last modified: Tue Apr 27, 2021  10:14PM
 
 
 # Full pseudocode (draft 3) of subworld story 1 (graf headers only)
@@ -700,7 +700,7 @@ Last modified: Sun Apr 25, 2021  05:51PM
 
 ### Ending
 
-* {They are all fishing on the deck?}
+* [ ] _They are all fishing on the deck?_
 	* On the surface, water streams out of all the split seams of the Gnat (laying half on its side on the deck of the Prospect)
 		* They have to move around the strapped down Gnat? 
 	* {Perhaps this is the one time in the novel where the weather on the surface is good? The one time nature isn't trying to kill them? Is that too much of a cliche? Maybe the only good weather is when they come up from bottoming?} 
