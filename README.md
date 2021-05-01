@@ -1,14 +1,32 @@
 README.md
-Last modified: Sun Mar 07, 2021  10:28AM
+Last modified: Sat May 01, 2021  05:31PM
+
+# Sub World Book 1 Manuscript
+* By Mort Rye
 
 
-# README subworld-story_1
-* [index](index.md) for file listings
-* This repo is for building out the first subworld story.
-* "subworld" --- an alternate-timeline post-war world where the surface of the Earth is so tied up with aggression and bureaucracy that the only way for global commerce to operate smoothly is through the utilization of huge merchant submarines.
-	* And where there is commerce, there is smuggling... 
-* It should be private until there is something of substance, and then converted the public along the model for collected stories.
-* Think about which license to apply.
+## How to read it:
+* Available for purchase on Amazon kindle:
+	* {url}
+* Or, compile from this source code using pandoc.
+	* (Or just read the markdown, available in source.) 
 
+
+## Compilation notes:
+* Compiled using pandoc-ebook-template. For instructions see:
+	* https://github.com/evangoer/pandoc-ebook-template
+
+
+## Credits:
+* Compiled using pandoc-ebook-template:
+	* https://github.com/evangoer/pandoc-ebook-template
+* Cover from covervault:
+	* https://covervault.com/
+
+
+## License:
+* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+	* CC BY-NC-SA 4.0
+	* See: [LICENSE](./LICENSE)
 
 

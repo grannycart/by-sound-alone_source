@@ -1,0 +1,15 @@
+---
+title: Sub World Book 1
+author: Mort Rye
+subtitle: Submarines under the ocean
+rights: Edition 1. © 2021 Mort Rye, CC BY-NC. This is a rough first draft of this book. Email me to let me know what you think! someemail@protonmail.com
+description: A couple of submarines chase each other through the ocean. Hilarity ensues.
+cover-image: ./cover/cover.png
+documentclass:
+    - article
+header-includes:
+    - \usepackage{hyperref}
+#    - \usepackage[margin=0.8in]{geometry}
+# above line give Word-like wide text
+...
+
