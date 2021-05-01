@@ -1,9 +1,15 @@
 manuscript_draft-subworld_book1.md
-Last modified: Sat May 01, 2021  05:57PM
+Last modified: Sat May 01, 2021  06:19PM
 
 
 # Manuscript Draft --- Sub World Book 1
 --------------------------------------------------------------------------------
+
+
+![Prospect diagram](../sub-diagrams/Prospect/Prospect-interior-diagram.png)
+
+![Gnat diagram](../sub-diagrams/Gnat/Gnat-interior-diagram.png)
+
 
 ## Chapter 1
 
