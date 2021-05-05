@@ -1,11 +1,20 @@
 notes-on-sub-diagrams.md
-Last modified: Sat May 01, 2021  05:55PM
+Last modified: Sun May 02, 2021  12:19PM
 
 
 # notes on sub diagrams
 
 ## diagram edits to make:
-* (See notes in book 1 notes too)
+* diagrams revs (reminders from during initial book writing):
+	* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
+	* [ ] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
+	* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
+	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
+	* [ ] make sure the Gnat has an airlock escape trunk
+	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
+	* [ ] move the Gnat motor switch lever labels aft of the engine
+	* [ ] add pigeon coop to Gnat? (don't forget pigeon hatch)
+	* [ ] change cargo 'bays' to cargo holds
 * Prospect:
 	* [ ] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold

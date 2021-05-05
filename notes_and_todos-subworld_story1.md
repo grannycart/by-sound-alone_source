@@ -1,9 +1,11 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat May 01, 2021  05:48PM
+Last modified: Tue May 04, 2021  08:18PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
-* [post-production editing notes](#post-prod)
+* [story descriptions](#descriptions)
+* [Find-and-fix editing](#fnf)
+* [post-production editing](#post-prod)
 * [story 1 elements](#elements)
 * [style](#style)
 * On writing this book
@@ -12,7 +14,7 @@ Last modified: Sat May 01, 2021  05:48PM
 
 ## Notes and To dos:
 :notes:
-* [ ] move section headers to .md comments; create chapter breaks
+* [X] move section headers to .md comments
 * [ ] consider breaking chapters into their own files
 	* this might make them easier to manage, particular if you put what the contents of each chapter are in comments at the top
 	* you can edit from one chapter to the next with vim splits
@@ -34,6 +36,11 @@ Last modified: Sat May 01, 2021  05:48PM
 * [ ] Maybe post the unedited first full draft as a "preview edition" on Amazon?
 	* (Check if new editions can be distributed for free, and push that idea in a quest for new readers)
 	* (Or see if you can distribute the preview edition for free as a way to bring in new readers)
+* [ ] Maybe post the unedited firt full draft preview on the sub commander bulletin board page?
+	* Things to include in post:
+		* I was heavily influenced by playing sub commander; in many ways this book is a novelization of the game
+		* ...Except that it is about cargo subs, not war subs. (Still plenty of sub fighting though)
+		* Maybe the thing about mad max meets moby dick meets sub commander meets deadliest catch, etc? (you should really compose this line so you can use it --- feels like it will come up over and over again)
 * [ ] For the cover:
 	* have Dave do illustration
 	* It would be better, I think, to include illustrations of some of the characters ON the sub, rather than just the sub
@@ -52,12 +59,12 @@ Last modified: Sat May 01, 2021  05:48PM
 * [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
 	* [ ] Also if anything is leftover in this notes and todos section too
 	* [ ] and also draw anything out of post-production that applies to the whole world
-* [ ] Possible story (though not series) title:
+* [ ] Possible book (though not series) title:
 	* The Salted wound
 		* (referring to the never-healing damage from the ramming at the beginning)
 	* The Mouse's Wheel
 	* Echoes in the Deep / Echos From the Deep
-* Making the call: the pursuing sub is advanced diesel-electric, not nuclear. 
+* the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
 * [X] Add pigeon communication scene
@@ -65,36 +72,7 @@ Last modified: Sat May 01, 2021  05:48PM
 	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
 	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
-* [ ] For story description: 
-	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
-	* "Commerce always finds a way."
-	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
-	* {at front of book/preface}:
-		* Perhaps begin with a thing about petcocks:
-			* people familiar with old motorcycles know it well
-			* super simple mechanical device premised on the idea that the surest way to know you are running out of gas is to actually run out of gas
-			* any idiot who could ride a motorcycle could understand how it worked
-			* but beyond that, there was a sheer mechanical pleasure that came with swinging around the petcock --- that little bit of mehcanical control --- and having the engine roar back to life.
-		* _There was a generation that lived through a time up to, through, and a little beyond the great world wars. Like us, technology changed their world, and they lived every day of their lives with complex new industrial technologies. But the technology of that time was rooted in _mechanical_ things. Because of that, it was different from the technology of our time. In their time, anyone who wanted to understand how a piece of amazing new technology worked could simply take it apart. It had an intuitive --- though not necessarily simple --- structure. Because of its mechanical underpinnings, even those who did not fundamentally understand how technology worked, could depend on it to behave rationally and intuitively when they used it. Unlike our technology were even experts are often shocked by how it behaves._
-		* _This old mechanical technology also came with an aesthetic. The mechanical nature of it made the stuff dirty, greasy, and grimy. It was powered by air-fouling burning of things, and kept lubricated by chemical greases and cleaned with penetrating solvents. This aesthetic permeated our culture. The rich found ways to constantly clean it. The poor and the technology maintainers simply lived in and among it. Punks in the grime --- mechpunks or grimepunks, though they never would have referred to themselves that way._
-		* _The stories of the great wars were often compelling because the could be placed atop a clear moral ground. But I believe many of those stories were also compelling because they could be placed on top of amazing, but intuitively understood technology._ 
-		* _The story told here, lives in that world. It's confined to technology that is non-magical and through that technology I hope an amazing story emerges that anyone who is interested enough to take the time to understand, can FEEL how the machines behave, what they can and can't do, and ride along with those who try to live in and among them._
-		* _We live in a world today where technology is on the verge of magic. Only an elite few understand any given technology. It wasn't always like this. At one time technology was a rising force in our culture, but it was knowable. Any person of average intelligence who wanted to understand how things worked could figure it out. That isn't the world we live in today, and there is no way we could return to that world. However, it is possible to imagine a world where technology remained knowable. Such a world could be a setting for telling amazing stories. This is such a story._
-		* _Here in the 21st Century we live with technology that is almost magical in its complexity. But there was a time, not so long ago, when technology was ascendent but was also something that anyone could understand. It was complex but it's roots were electro-mechanical. Even the most complicated machine could be taken apart and comprehended through diligent common sense. We no longer live in that world, but there's no reason we couldn't have. This is a story from that other technological path we could have taken, but didn't._
-		* _This book is dedicated to those brave women and men who plied their trade under the waves of a world that, through historical hapenstance and the hubris of our own technological and political classes, never existed._
-		* _The world is what we make it quote from end of Adam Curtis_
-
-
-## Editing notes (be sure to hit these in post-production editing):
-:post-prod:
-* [ ] GO THROUGH AND HANDLE ITEMS IN THIS LIST _BEFORE_ YOU DO A COMPLETE DRAFT READ-THROUGH
-	* (Also go through ALL items in this entire file)
-	* So when you do a read-through you can make sure order and flow didn't get screwed up anywhere by these edits
-	* when you do this editing read through, do it all after your first cup of coffee in the morning, while working on your second.
-	* A few thousand words per day
-	* Have test readers start reading it even while you are doing this (since you already did one pass on the first 30k already anyway)
-		* Though make sure you include a draft of the technology-framing paragraph (above) at the beginning, and the diagrams for reference.
-* [ ] Questions for Cricket read:
+* [ ] Questions for Cricket/other test reads:
 	* Do the complicated sub mechanics make sense?
 	* Is the pacing ok?
 	* Is it fun and easy to read?
@@ -104,40 +82,54 @@ Last modified: Sat May 01, 2021  05:48PM
 	* Are the characters relatable, distinctive?
 	* Are the names (both boats and people) ok?
 	* Is there anything offensive that I'm not recognizing?
+
+
+## story descriptions: 
+:descriptions:
+* short lines:
+	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+	* "Commerce always finds a way."
+* more detailed description possibilities: 
+	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
+* At front of book/preface:
+	* Perhaps begin with a thing about petcocks:
+		* people familiar with old motorcycles know it well
+		* super simple mechanical device premised on the idea that the surest way to know you are running out of gas is to actually run out of gas
+		* any idiot who could ride a motorcycle could understand how it worked
+		* but beyond that, there was a sheer mechanical pleasure that came with swinging around the petcock --- that little bit of mehcanical control --- and having the engine roar back to life.
+	* _There was a generation that lived through a time up to, through, and a little beyond the great world wars. Like us, technology changed their world, and they lived every day of their lives with complex new industrial technologies. But the technology of that time was rooted in _mechanical_ things. Because of that, it was different from the technology of our time. In their time, anyone who wanted to understand how a piece of amazing new technology worked could simply take it apart. It had an intuitive --- though not necessarily simple --- structure. Because of its mechanical underpinnings, even those who did not fundamentally understand how technology worked, could depend on it to behave rationally and intuitively when they used it. Unlike our technology were even experts are often shocked by how it behaves._
+	* _This old mechanical technology also came with an aesthetic. The mechanical nature of it made the stuff dirty, greasy, and grimy. It was powered by air-fouling burning of things, and kept lubricated by chemical greases and cleaned with penetrating solvents. This aesthetic permeated our culture. The rich found ways to constantly clean it. The poor and the technology maintainers simply lived in and among it. Punks in the grime --- mechpunks or grimepunks, though they never would have referred to themselves that way._
+	* _The stories of the great wars were often compelling because the could be placed atop a clear moral ground. But I believe many of those stories were also compelling because they could be placed on top of amazing, but intuitively understood technology._ 
+	* _The story told here, lives in that world. It's confined to technology that is non-magical and through that technology I hope an amazing story emerges that anyone who is interested enough to take the time to understand, can FEEL how the machines behave, what they can and can't do, and ride along with those who try to live in and among them._
+	* _We live in a world today where technology is on the verge of magic. Only an elite few understand any given technology. It wasn't always like this. At one time technology was a rising force in our culture, but it was knowable. Any person of average intelligence who wanted to understand how things worked could figure it out. That isn't the world we live in today, and there is no way we could return to that world. However, it is possible to imagine a world where technology remained knowable. Such a world could be a setting for telling amazing stories. This is such a story._
+	* _Here in the 21st Century we live with technology that is almost magical in its complexity. But there was a time, not so long ago, when technology was ascendent but was also something that anyone could understand. It was complex but it's roots were electro-mechanical. Even the most complicated machine could be taken apart and comprehended through diligent common sense. We no longer live in that world, but there's no reason we couldn't have. This is a story from that other technological path we could have taken, but didn't._
+	* _This book is dedicated to those brave women and men who plied their trade under the waves of a world that, through historical hapenstance and the hubris of our own technological and political classes, never existed._
+	* _The world is what we make it quote from end of Adam Curtis_
+
+
+## Find-and-fix Editing (do these before full edit pass):
+:fnf:
+* [ ] GO THROUGH AND HANDLE ITEMS IN THIS LIST _BEFORE_ YOU DO A COMPLETE DRAFT READ-THROUGH
+	* (Also go through ALL items in this entire file)
+	* So when you do a read-through you can make sure order and flow didn't get screwed up anywhere by these edits
+	* when you do this editing read through, do it all after your first cup of coffee in the morning, while working on your second.
+	* A few thousand words per day
+	* Have test readers start reading it even while you are doing this (since you already did one pass on the first 30k already anyway)
+		* Though make sure you include a draft of the technology-framing paragraph (above) at the beginning, and the diagrams for reference.
+* [ ] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
+	* P felt right when I first started using it, but feels less right as I go along
+	* This might be a thing to ask test-reader's feedback on
 * [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
-* [ ] audit 'and's --- 'it was a dark and stormy night': multiple descriptors compete for attention.
 * [ ] find and make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
-* [ ] find 'map' replace with 'chart'
-* [ ] Add 'blatting' to description of authority announcements over ship-to-ship
-* [ ] find 'floor' should be 'deck'
-* [ ] remove contractions from Hemi dialog
-* [ ] more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
-* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
-	* a great round sound
-* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
-* [ ] hatch in Prospect sail is at top of _control room_ not sail
+* [ ] Add 'blatting' to description of authority announcement over ship-to-ship
 * [ ] fix the bumpers stored on deck outside pressure hull?
 	* Seems like maybe they should not be the inflatey kind
-* [ ] maybe they refer to the bottomless deep as 'the hole'
 * [ ] emphasize the weight of the crates with the warheads earlier
 	* (during the part where they are re-arranging the crates in the hold, seems like a good place for that)
-* [ ] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
-	* [ ] no god-damning either: there is no god
-* [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
-* diagrams revs:
-	* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
-	* [ ] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
-	* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
-	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
-	* [ ] make sure the Gnat has an airlock escape trunk
-	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
-	* [ ] move the Gnat motor switch lever labels aft of the engine
-	* [ ] add pigeon coop to Gnat? (don't forget pigeon hatch)
-	* [ ] change cargo 'bays' to cargo holds
-* [ ] review specs for Gnat in notes --- Pigeon access hole?
-	* deck gun will be added in a later story
+* [X] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
+	* [X] no god-damning either: there is no god
 * [ ] cargo bay or cargo hold? 
 	* I think it's a hold on a ship
 * [ ] revisions for Gregory death scene:
@@ -147,48 +139,80 @@ Last modified: Sat May 01, 2021  05:48PM
 	* tough maybe Hemi is the only one who calls her by it
 	* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
 * [ ] Have Percy address Hemi by his full name somewhere
-* [ ] does Shakes insist on being referred to as "Captain Shakes"?
-* [ ] Cassandra should always address percy as "Captain Percy"
-* [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
-* [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
-* [ ] When they make a random course decision, add:
-	* Rand legend has it that a submarine commander used the book to set unpredictable courses to dodge enemy ships.
-	* https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049
-* [ ] make sure you only explain active sonar once
-* [ ] make sure you make it clear early on that Hemi is the 'deck boss'
-* [ ] have the junior crew call hemi 'boss'
-* [ ] refer to bastian, gregory, and Owen as the 'deck crew'
-* [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
-* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
-	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
-		* (Maybe be sure to always refer to it as "the tank control panel")
-* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
-* [ ] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
-	* P felt right when I first started using it, but feels less right as I go along
-	* This might be a thing to ask test-reader's feedback on
+	* (I think she does when she introduces him to Cassandra --- check)
 * [ ] Give Hemi a beard, like he's captain Nemo. 
 	* The idea is that someone who didn't know better might mistake him for the captain
 	* or viking braids?
 	* Do Maori men grow beards? Maybe no beard
-* [ ] Add a minor misdirect at the beginning of the book where someone might mistake him for the captain
+* [ ] Add a minor misdirect at the beginning of the book where someone might mistake Hemi for the captain
 	* [ ] This could be where you add a clearer description of Hemi earlier in the book.
 	* [ ] Maybe he is the first one to climb up onto the bridge
-* [-] Change Owen to Owens?
-	* Leaning away from making this change
+* [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
+* [ ] When they make a random course decision, add:
+	* Rand legend has it that a submarine commander used the book to set unpredictable courses to dodge enemy ships.
+	* https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049
+* [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] 'crew quarters' not 'crew's quarters' (just because I like it better, not because I looked it up_
-* [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
-* [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
+* [ ] review specs for Gnat in notes --- Pigeon access hole?
+	* deck gun will be added in a later story
+	* (Not entirely sure what I meant by this note)
 * [ ] electric motors should be plural on the prospect --- it's a dual prop
+* [ ] The Gnat has only singular diesel engine; while the Prospect is always running multiple diesel engines
 * [ ] 'navigation station'? 'navigation table'?
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
+* [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
+* [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
+* [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
+* [ ] Would they waste electricity on cooking if they were very low on power?
+* [ ] make sure welding refers to 'rigs' not 'tanks'
+	* arc welding is used for underwater welding
+	* which means that like the stove, they have to be careful about fuel/power consumption
+	* the welding rig needs to run a generator or from boat power, I think
+* [ ] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
+* [ ] makes sure Shakes learns that Chips left the Prospect
+* [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
+* [X] Is it a 'mating collar' or a 'docking collar'?
+	* Let's say 'mating collar' --- docking collar feels like a bigger mechanism to me
+* [X] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
+* [X] find and remove 'inches' and 'feet' references
+* [X] find 'map' replace with 'chart'
+* [X] find 'floor' should be 'deck'
+* [-] Change Owen to Owens?
+	* Leaning away from making this change
+
+
+## Post production Editing (refer to these while doing full edit pass):
+:post-prod:
+* [ ] put in chapter breaks where they seem like they should go; even if you don't edit the text for the chapters until a later pass
+* [ ] audit 'and's --- 'it was a dark and stormy night': multiple descriptors compete for attention.
+* [ ] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
+* [ ] remove contractions from Hemi dialog
+* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
+	* a great round sound (probably not too HHGTTG)
+* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
+* [ ] hatch in Prospect sail is at top of _control room_ not sail
+* [ ] maybe they refer to the bottomless deep as 'the hole'
+* [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
+* [ ] does Shakes insist on being referred to as "Captain Shakes"?
+* [ ] Cassandra should always address Percy as "Captain Percy" and Shakes as "Captain Shakes"
+* [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
+	* (I think her standing station gets established later in the story, make sure it makes sense in the earlier parts of the book)
+	* maybe refer to it explicitly as the 'captain's station'? (akin to the sonar station and the navigation station)
+* [ ] make sure you only explain active sonar once
+* [ ] make sure you make it clear early on that Hemi is the 'deck boss'
+* [ ] have the junior crew call hemi 'boss'
+* [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'
+* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
+	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
+		* (Maybe be sure to always refer to it as "the tank control panel")
+* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
+* [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
+* [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 * [ ] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place)
 * [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
 	* decide, edit and then make sure it's reflected in the Prospect notes file
-* [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
-* [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
-* [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
 * [ ] Consider removing parts where Percy second-guesses herself.
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
 	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
@@ -197,30 +221,34 @@ Last modified: Sat May 01, 2021  05:48PM
 * [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 * [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
-* [ ] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
 * [ ] fix creeping towards the seamount:
 	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
-* [X] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
-	* Or cocaine? 
-	* coca leaves? (He did come from a coffee farm)
-	* also coca leaves give the suggestion of global commerce exchange
-* [ ] Would they waste electricity on cooking if they were very low on power?
-* [ ] make sure welding refers to 'rigs' not 'tanks'
-	* arc welding is used for underwater welding
-	* which means that like the stove, they have to be careful about fuel/power consumption
-	* the welding rig needs to run a generator or from boat power, I think
-* [ ] Is it a 'mating collar' or a 'docking collar'?
 * [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
-* [ ] The Gnat has only singular diesel engine; while the Prospect is always running multiple diesel engines
-* [ ] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
-* [ ] find and remove 'inches' and 'feet' references
-* [ ] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
-* [ ] makes sure Shakes learns that Chips left the Prospect
 * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the ramming sub's captain's wife.
 	* though maybe this human relations element is covered by the fight with Chips
+* [ ] consider using 'nominal' to mean anything you want it to.
+	* might be too on-the-nose
+* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
+* [ ] Need to include a description of Percy somewhere early in the book
+	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
+	* [ ] Subtly reinforce Percy's beauty in more places:
+		* Right now I think she reads more like the elder captain she will be in later stories
+		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
+		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
+* [ ] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
+* [ ] add the term 'scudding clouds' to description during storm
+* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+	* Maybe with shakes over ship-to-ship, just to keep it interesting
+	* Maybe Shakes wonders if it's moral to run weapons
+	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
+	* Though that rebel group might be the oppressors in 6 months
+	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
+	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 * General style stuff to address throughout:
+	* [ ] more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
+	* [ ] make sure the _fear_ is in there, particularly in the build up to big inflection points
 	* [ ] Do you need to do more to pump up the human relations in the story?
 		* Imagine that a resolution with Chips leads to something successfully happening at the end of the story
 		* Or more generally, Percy's has a stubborn insistence throughout the book that she's right, and it leads to some conflict that needs resolution.
@@ -243,33 +271,30 @@ Last modified: Sat May 01, 2021  05:48PM
 		* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
 		* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
 			* don't just montage over them, it makes it feel like things are moving too fast.
-	* [ ] make sure the _fear_ is in there, particularly in the build up to big inflection points
 	* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
 		* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
 		* And a lot more cursing might actually be a simple way to make it grittier.
 		* Also they're a bunch of fuckin sailors!
 		* ** Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
-			* Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."
-			* ** I think this is a good revision to make. do it!
+			* **Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."**
+			* I think this is a good revision to make. do it!
+		* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
+			* Chips: curses all the time
+			* Shakes: a lot
+			* Percy: When she's pissed
+			* Hemi: never
 	* [ ] Consider pulling back or deleting the metaphors
 	* [ ] Keep in mind that in this world, like the opening set piece, nature is deliberately cruel and evil, tormenting
 		* So at some point, it should be _pulling_ them to the depths
 		* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
 		* The only way they survive in nature's cruelty is through their grimey, rational machine, the submarine. the submarine which always makes sense, if you can just figure it out
-* [ ] consider using 'nautical' to mean awesome 
+* [X] Does Shakes smoke tons of pot? Is there a brick of weed on the Gnat?
+	* Or cocaine? 
+	* coca leaves? (He did come from a coffee farm)
+	* also coca leaves give the suggestion of global commerce exchange
+* [X] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
 	* might be too on-the-nose
-* [ ] consider using 'nominal' to mean anything you want it to.
-	* might be too on-the-nose
-* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
-* [ ] Need to include a description of Percy somewhere early in the book
-	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
-	* [ ] Subtly reinforce Percy's beauty in more places:
-		* Right now I think she reads more like the elder captain she will be in later stories
-		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
-		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
-* [ ] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
-* [ ] add the term 'scudding clouds' to description during storm
 * [X] maybe say somewhere that they should think about installing a snorkel?
 	* (So sub nerds who read the book understand that they don't have one)
 * [X] do you gap a diesel engine spark plug?
@@ -289,11 +314,6 @@ Last modified: Sat May 01, 2021  05:48PM
 	* Maybe it's just something simple and non-specific, using compounds, or dropped h's or something
 	* maybe it's too star treky cliche to have an engineer with an accent?
 	* The name Chips doesn't feel like it's working
-* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
-	* Chips: curses all the time
-	* Shakes: a lot
-	* Percy: When she's pissed
-	* Hemi: never
 
 
 ## Story elements specific to this story
@@ -301,7 +321,7 @@ Last modified: Sat May 01, 2021  05:48PM
 * [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
-* [ ] someone fishes from the deck of the ship
+* [X] someone fishes from the deck of the ship
 * [X] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
 * [X] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
 * [X] they separate from the gnat and have to give it a depth and location and time to meet for a rendezvous under silence
@@ -309,14 +329,6 @@ Last modified: Sat May 01, 2021  05:48PM
 	* "if you put a wheel in the woods, do you think mice would run on it?"
 	* "I'll bet they would --- for the sheer mechanical pleasure of it. Like a bicycle. Or a submarine"
 	* (I originally had this slated for book II though.. is it better there?)
-* [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
-* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
-	* Maybe with shakes over ship-to-ship, just to keep it interesting
-	* Maybe Shakes wonders if it's moral to run weapons
-	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
-	* Though that rebel group might be the oppressors in 6 months
-	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
-	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 * [X] My submarine book (at least this first one and the free 10k word story) will NOT have a 'running out of air' scene.
 * [X] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
 	* But under water every ten meters down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Grimlock_ plus the noble strength of the steel hull. When approaching the maxiumum depth of a sub, one small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of minutes.
