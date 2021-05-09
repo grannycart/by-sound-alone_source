@@ -1,5 +1,5 @@
 manuscript_draft-subworld_book1.md
-Last modified: Tue May 04, 2021  08:18PM
+Last modified: Sat May 08, 2021  10:35PM
 
 
 # Manuscript Draft --- Sub World Book 1
@@ -26,11 +26,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 The weight of the atmosphere pressed the black air of nighttime down onto the surface of the ocean. The atmosphere had pinned the air under a murky dome of heavy cloud, and held it down like a schoolyard miscreant torturing some stick-armed runt. The weight compressed the air to complete stillness, and flattened the water, until it was unable to raise more than a barely perceptible heave under its glassy smoothness. 
 
-A distant and feeble moon --- not visible and cast out by the atmosphere --- dimly lit the clouds to the color of the charred edges of a coal. The moon reclined, above and beyond, untormented by the pressure of the atmosphere but unable to muster enough warmth to intervene. It merely stood by helpless, feebly attempting to stir the ocean out from under it by the force of tide. It was all it could do to provide even the coldest dimmest light. The light that filtered down through layer upon layer of gray cloud til it was so diluted and refracted that it left the sky only a few shades of black lighter than the water. 
+A distant moon --- not visible and cast out by the atmosphere --- dimly lit the clouds to the color of the charred edges of a coal. The moon reclined, above and beyond, untormented by the pressure of the atmosphere but unable to muster enough warmth to intervene. It merely stood by helpless, feebly attempting to stir the ocean out from under it by the force of tide. It was all it could do to provide even the coldest, dimmest light. The light filtered down through layer upon layer of gray cloud til it was so diluted and refracted that it left the sky only a few shades of black lighter than the water. 
 
 The ocean was unquestionably black. A blackness that came up from the deep. Beyond the atmosphere rode heavenly bodies that radiated light and heat, and the thick gasses of the atmosphere carried some portion of that warmth down to the surface. Below the water was darkness and cold, and the viscous liquid transported that darkness up to the surface, carried on vast swells of cold. As hard as the atmosphere might press down, the darkness yielded not at all to the pressure above.
 
-On this surface, that stretched horizon to horizon, from the cupped edge of the dome in all directions without referent or feature, a point arose. A miniscule and meaningless point, like the first push of a needle through the underside of a new piece of fabric the workings of which would soon join the fabric irrevocably and forever to another with hundreds of gradually tightening, interwoven stitches. The point rose, a long thin wire sting extruded up, piercing through the surface. A thin V-shaped wake trailed behind it in the water marking its course. The wire bent back against the pressure of the air, as it grew up from the surface, it bent over more until it's tip was nearly horizontal to the surface of the water, held there in a long gracefully arcing line.
+On this surface, stretched horizon to horizon from the cupped edge of the dome in all directions without referent or feature, a point arose. A miniscule and meaningless point, like the first push of a needle through the underside of a new piece of fabric the workings of which would soon join the fabric irrevocably and forever to another with hundreds of gradually tightening, interwoven stitches. The point rose, a long thin wire sting extruded up, piercing through the surface. A thin V-shaped wake trailed behind it in the water marking its course. The wire bent back against the pressure of the air, as it grew up from the surface, it bent over more until it's tip was nearly horizontal to the surface of the water, held there in a long gracefully arcing line.
 
 At its base the wire rested on a short steel mast which broke through the surface a moment later, accompanied by a series of a half dozen other masts, each leaving a more significant wake behind it. The low string of wakes carved up the black surface behind the path of the masts with their nested Vs. For a minute they moved alone on the surface, and the nest Vs grew longer and longer, stretching out behind them in a very subtle but ever-widening trail.
 
@@ -312,7 +312,7 @@ Hemi stepped under the hatch up to the control room and looked up at Percy throu
 
 "Yes, I think we should dump the diesel. Even if we get to the surface, we could lose the boat if the cargo hold keeps flooding and we can't figure out how to empty it. That's a bigger risk than not having enough fuel to get to a port if we do manage to keep the boat on the surface."
 
-Captain Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. For a submarine captain, the situation she now faced was the single biggest nightmare: get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel in the ocean --- was not even one that had to be made.
+Captain Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. For a submarine captain, the situation she now faced was the single biggest nightmare: get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel fuel in the ocean --- was not even one that had to be made.
 
 "OK Hemi. Come up here. Keep her under control. I'll blow the fuel ballast myself."
 
@@ -1214,7 +1214,7 @@ Captain Percy waited for Gregory to climb down from the control room  --- on his
 
 "OK, Bastian. Give us a 2 knot creep. We want just enough to keep us steady against the motion of the water." Said Hemi. 
 
-Bastian nudged the throttle forward, and they heard the soft hum of the electric motor as it put the propeller under torque. 
+Bastian nudged the throttle forward, and they heard the soft hum of the electric motors as they put the propeller under torque. 
 
 Hemi pulled at the ship-to-ship mic. "Shakes, we're going to try this shallow dive now. If you see the sail disappear, this boat is never coming back up."
 
@@ -1381,7 +1381,7 @@ Chips broke the numbing silence. "Fuckin' got somethin'."
 
 Percy stepped back to the radar/sonar station and leaned over the scope. A small and distant blip was appearing and fading away with each pass of the _Prospect's_ radar. "Fuck. Well, it was probably too fucking much to hope the ocean would remain empty for us. OK, shut down the radar, switch to sonar."
 
-She watched to make sure Chips shut down the radar completely. It was possible for a surface ship to see their radar when it was running and not only discover they were there, but calculate exactly where they were. On the other hand passive sonar was just microphones in the water --- it didn't send any signal out by which they could be tracked. Of course their noisy diesel engine was sending out plenty of sound at the moment, if anyone got close enough to listen for it.
+She watched to make sure Chips shut down the radar completely. It was possible for a surface ship to see their radar when it was running and not only discover they were there, but calculate exactly where they were. On the other hand passive sonar was just microphones in the water --- it didn't send any signal out by which they could be tracked. Of course their noisy diesel engines were sending out plenty of sound at the moment, if anyone got close enough to listen for it.
 
 "Won't be able to hear fuckin' much on sonar with the fuckin' diesel running.
 
@@ -1399,7 +1399,7 @@ Captain Percy flipped some switches to engage filters, and the texture of the so
 
 Chips came back holding a tin coffee cup. She put on the second sonar headset and remained standing a few steps from where Percy was sitting.
 
-After half an hour or so, Percy called up to Hemi to shut down the diesels so they could have a listen, and a minute later a blessed silence came into the headset. A unsuppressible feeling of relief flowed through her as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly ate away at her soul. On top of the silence, there was no apparent sound of any other ships in sonar range. Percy flipped through a few filters, and the quality of the silence changed, from a deadening whoosh to a soft hiss. 
+After half an hour or so, Percy called up to Hemi to shut down the diesel so they could have a listen, and a minute later a blessed silence came into the headset. A feeling of relief flowed through her as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly ate away at her soul. On top of the silence, there was no apparent sound of any other ships in sonar range. Percy flipped through a few filters, and the quality of the silence changed, from a deadening whoosh to a soft hiss. 
 
 And then she heard a pulse. A distant, faint heartbeat in the ocean, accompanied by the slushing flow of circulation. She touched Chips arm, pointed to the softly fluttering signal-strength gauge.
 
@@ -1436,7 +1436,7 @@ Hemi flipped up the main ballast valve switches and there was again a rush of ai
 
 "Depends on what ya fuckin' mean by 'sunk'." Said Chips quietly to the sonar station.
 
-"We can't afford to take an evasive route to the depot Hemi, we gotta go straight at 'em. So we'll just have to hope our contact up there wasn't able to track us long enough to figure out our course. Put us back on the electric motor --- they won't be able to hear us unless they get right on top of us." Said Percy. "Um... also keep what Chips said in mind --- make sure we have a little something left in the batteries to get us back to the surface."
+"We can't afford to take an evasive route to the depot Hemi, we gotta go straight at 'em. So we'll just have to hope our contact up there wasn't able to track us long enough to figure out our course. Put us back on the electric motors --- they won't be able to hear us unless they get right on top of us." Said Percy. "Um... also keep what Chips said in mind --- make sure we have a little something left in the batteries to get us back to the surface."
 
 "These battery gauges are hardly very precise Percy. I would not push it beyond ten minutes remaining on the battery." Said Hemi.
 
@@ -1455,11 +1455,11 @@ On the surface, it was night. A waning moon above the cloud layer meant there wa
 
 "Fuck." Whispered Percy into the steel column of the periscope in front of her. She swung the scope slowly back and forth across the bearing.
 
-Minutes passed in silence, except for the faint hum of the one electric motor pushing them forward slowly through the water, and Chips occasionally calling out ranges. The contact was quickly marching towards them.
+Minutes passed in silence, except for the faint hum of the electric motors pushing them forward slowly through the water, and Chips occasionally calling out ranges. The contact was quickly marching towards them.
 
 "Fuckers are moving fast and loud." Called up Chips. "Like they ain't afraid of no fuckin' shit."
 
-"That's how armed ships behave." Said Hemi from the control seat. "Probably caught a whiff of us at a distance, and they are charging fast into a range where they can quiet down and take a listen; try to acquire the sound of our electric motor on sonar."
+"That's how armed ships behave." Said Hemi from the control seat. "Probably caught a whiff of us at a distance, and they are charging fast into a range where they can quiet down and take a listen; try to acquire the sound of our electric motors on sonar."
 
 Deep within Captain Percy she pushed down a primitive instinct urging her to run. A fresh young sub driver might crank on as she could on the throttle to get away from a threat. But evolution had moved submarines toward a different escape tactic: slink away silently. They were in a very, very slow-speed race: get out of range of the pursuer's sonar, as slowly and quietly as possible.
 
@@ -1478,9 +1478,9 @@ Percy scaled the ladder up to the control room quickly, and raised the periscope
 
 The pursuing submarine was two or three miles off, and running crosswise across the path the _Prospect_ had traveled along. So from where Percy was she could see the whole length of the boat. And mounted to its bow was the same medieval ramming contraption she had seen before. The same that had ripped a wound in her boat.
 
-"Fuck. It's that same fucking sub that rammed us. Shut down the motor Hemi. We're going silent, and hopefully they'll miss us."
+"Fuck. It's that same fucking sub that rammed us. Power down the motor Hemi. We're going silent, and hopefully they'll miss us."
 
-Hemi flipped some switches and the hum of the electric motor died away. Captain Percy watched the sub with the ram through the periscope. They had engaged their own electric motors and were moving forward again. The bow suddenly sunk under the black swells of the ocean, and the rest of the deck followed a few moments later. Streams of misted water were shooting up from its deck as Percy watched the sail sinking into the black line where the surface met the sky.
+Hemi flipped some switches and the hum of the electric motors died away. Captain Percy watched the sub with the ram through the periscope. They had engaged their own electric motors and were moving forward again. The bow suddenly sunk under the black swells of the ocean, and the rest of the deck followed a few moments later. Streams of misted water were shooting up from its deck as Percy watched the sail sinking into the black line where the surface met the sky.
 
 "They're diving." Percy told Hemi. "Chips! They went down. With our motors off, you should still be able to follow them on sonar. Track 'em, and let me know what the fuck they're doing."
 
@@ -1494,7 +1494,7 @@ Percy let the periscope sink down to its recess.
 
 They waited. It took maybe twenty minutes for Chips to give a report. She called Percy down to the navigation table.
 
-"Fuckin' look here," said Chips "I tracked the fuckers down from where we first fuckin' heard 'em. They shot right to the last location we were running the fuckin' diesels... a few fucking miles behind us now. But, after they submerged, they didn't fuckin' turn to follow us, they turned the other fucking way, and then kept turning." Chips marked out their path in a circle away from them on the chart.
+"Fuckin' look here," said Chips "I tracked the fuckers down from where we first fuckin' heard 'em. They shot right to the last location we were running the fuckin' diesel... a few fucking miles behind us now. But, after they submerged, they didn't fuckin' turn to follow us, they turned the other fucking way, and then kept turning." Chips marked out their path in a circle away from them on the chart.
 
 "Fucking search pattern eh?" Said Percy.
 
@@ -1524,7 +1524,7 @@ Captain Percy did some quick math. She knew the pursuing submarine's speed, and 
 
 "Hemi," she called up to the control room, "shut her down again. Let's make a hole in the water."
 
-The electric motor died away leaving the _Prospect_ completely silent. Hemi came down from the control room and ran his light over the chart, and immediately understood. "We weren't going to make it outside their search area in time, so instead we'll hide in the middle of it, eh?"
+The electric motors faded off leaving the _Prospect_ completely silent. Hemi came down from the control room and ran his light over the chart, and immediately understood. "We weren't going to make it outside their search area in time, so instead we'll hide in the middle of it, eh?"
 
 "Could be a stupid move." Percy replied. "Nothing preventing them from fucking taking on a zigzag course all of a sudden."
 
@@ -1564,7 +1564,7 @@ Hemi stood, pulling off the sonar headset. He tapped Shakes on the foot, and Sha
 Captain Percy stayed at the sonar station. She tracked the progress of the sub with the ram which had begun a third clover-leaf searching circle away from them. That sub was still moving relatively fast, and in 20 minutes they were far enough away that she wasn't able to track them any more over sonar. Their own track on the chart had pushed them out beyond the range of the other sub's circle pattern. It was always possible they would swing back around and intercept them again, but Percy was breathing normally again. Her guts told her they had sneaked out from under that one, though they still had a little ways to go to get across Shakes' supposed Authority control line.
 
 
-[//]: # (### They go back to sail-up and fire up the diesels)
+[//]: # (### They go back to sail-up and fire up the diesel)
 
 It was not long before Hemi called down to her again. "Captain, we don't have much battery left. Roughly, maybe 20 minutes."
 
@@ -1572,9 +1572,9 @@ It was not long before Hemi called down to her again. "Captain, we don't have mu
 
 "Eh," Shakes called down, "I wouldn't put too much stock in that line. Could be plus or minus by, like, eh, 50 fuckin' miles ya know."
 
-Percy climbed up to the control room. "Wherever the line is, we can't risk staying submerged anymore. Give us some upward dive plane Hemi, put our sail back over the surface. We'll have a good listen and then switch the diesels back on."
+Percy climbed up to the control room. "Wherever the line is, we can't risk staying submerged anymore. Give us some upward dive plane Hemi, put our sail back over the surface. We'll have a good listen and then switch the diesel back on."
 
-Hemi rotated the dive plane angle and indicated to Shakes he should give them just a little bit more throttle. The bow of the _Prospect_ rose, and the depth gauge worked it's way down toward its zero pin. Percy had Hemi go listen on the sonar rig, and when he reported no contacts, she shut down the electric motors, and switched the diesels on. With the extra power of the diesels running, she had them run the air compressors and pump air back into the main ballast tanks and trim tanks until the boat had enough buoyancy to stay at the surface even without the motors pushing them forward and the dive planes driving them upwards.
+Hemi rotated the dive plane angle and indicated to Shakes he should give them just a little bit more throttle. The bow of the _Prospect_ rose, and the depth gauge worked it's way down toward its zero pin. Percy had Hemi go listen on the sonar rig, and when he reported no contacts, she shut down the electric motors, and switched the diesel on. With the extra power of the diesel running, she had them run the air compressors and pump air back into the main ballast tanks and trim tanks until the boat had enough buoyancy to stay at the surface even without the motors pushing them forward and the dive planes driving them upwards.
 
 "With some luck boys, we can be at the depot in a few more hours, and maybe still with a few whiffs of fuel left to pump from the _Gnat_. Shakes, we're gonna owe you big for this." 
 
@@ -1586,7 +1586,7 @@ Hemi rotated the dive plane angle and indicated to Shakes he should give them ju
 
 When they crept under where the Authority Control line vaguely might be, Percy put the periscope up and scanned the horizon. She saw some aircraft off in the distance, but they weren't coming towards the _Prospect._ Soon, Percy felt like they must be in the new Authority's waters. But there was really no way to tell.
 
-They cruised easily with the sail up and the diesels running for the next few hours. Hemi repeatedly made the trek down through the _Prospect_ and into the _Gnat_ to check the remaining fuel. He didn't trust the _Gnat's_ fuel gauges, so each time he opened up the fuel tank and put in a dip stick and held it up to his flashlight by an oily rag to note the fuel level remaining. 
+They cruised easily with the sail up and the diesel running for the next few hours. Hemi repeatedly made the trek down through the _Prospect_ and into the _Gnat_ to check the remaining fuel. He didn't trust the _Gnat's_ fuel gauges, so each time he opened up the fuel tank and put in a dip stick and held it up to his flashlight by an oily rag to note the fuel level remaining. 
 
 On one of these trips through the boat he found Chips asleep in her rack, and got her up to go tend the engines. "Tune 'em to within a inch of their life for efficient fuel consumption!" he told her. And she spent the rest of the trip to the depot deep in the ship, carefully and continually trimming the diesel engine's fuel intake.
 
@@ -1695,7 +1695,7 @@ Hemi stepped a few steps back down the ladder until he was enough inside the _Pr
 
 The two of them appeared a quarter of an hour later or so. Captain Percy was carrying a beaten and cracked leather folio in which she kept the ship's books. Shakes was empty-handed, but had apparently freshly greased and pointed his hair for the big outing on the depot dock.
 
-Hemi had been waiting out on the deck of the docking bay. He gave them a hand up the ladder, and when they were all assembled they started off towards the far end of the docking bay where they saw a wooden sign painted white and with square hand-painted black letters said "Dock Office." Getting to the dock office was a matter of navigating around the big open holes in the deck which led down into the cargo bays of other docked subs, or the ladders hanging down from the subs above them, or stacks of crates waiting to be loaded into subs docked on either side. The places where no submarines were docked were typically used for storing cargo that was making its way down the docking bay in stages towards whatever sub they were destined to be loaded onto, or up the dock from where they had been unloaded. It made for slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine --- maybe 12 to 15 meters in circumference --- but still cramped and grimed. They felt right at home.
+Hemi had been waiting out on the deck of the docking bay. He gave them a hand up the ladder, and when they were all assembled they started off towards the far end of the docking bay where they saw a wooden sign painted white and with square hand-painted black letters said "Dock Office." Getting to the dock office was a matter of navigating around the big open holes in the deck which led down into the cargo holds of other docked subs, or the ladders hanging down from the subs above them, or stacks of crates waiting to be loaded into subs docked on either side. The places where no submarines were docked were typically used for storing cargo that was making its way down the docking bay in stages towards whatever sub they were destined to be loaded onto, or up the dock from where they had been unloaded. It made for slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine --- maybe 12 to 15 meters in circumference --- but still cramped and grimed. They felt right at home.
 
 
 [//]: # (### The dock office and the dock boss)
@@ -1735,7 +1735,7 @@ With a list of contacts from the deck boss and a few more passing words of thank
 
 [//]: # (### Percy walks up the exchange floor: description)
 
-The welded steel plating of the docking bay tube extended 10 meters or so beyond the dock office which marked the close end of the docking bay, where it was set against the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if a something major happened, say a docked submarine ripped away leaving a giant hole in the dock, this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure system. Of course, that wouldn't save anyone trapped on the other side of the door when it closed, or keep any open cargo bays in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures --- more of them than anyone would care to admit --- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person, since traditionally ports were associated with safety for ships.
+The welded steel plating of the docking bay tube extended 10 meters or so beyond the dock office which marked the close end of the docking bay, where it was set against the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if a something major happened, say a docked submarine ripped away leaving a giant hole in the dock, this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure system. Of course, that wouldn't save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures --- more of them than anyone would care to admit --- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person, since traditionally ports were associated with safety for ships.
 
 A little further up the ramp from the watertight bulkhead, the steel plating ended where it was bolted and sealed into the raw rock of the seamount. The space widened here. This whole part of the depot was hollowed out of the underground stone and the walls were left as raw, cut rock. In places the lines of drill holes could still be seen where explosives had been placed to more quickly open spaces for the chamber during its construction. This was all pretty unusual and expensive. Most depots with an underwater dock kept the underground construction to a minimum and moved as much of the operation to the surface as was practical. Percy sensed that there must be some discreet Authority funding behind this place.
 
@@ -1799,7 +1799,7 @@ The lady grinned a wide gapped-tooth smile. "I think I can work with such a pers
 Percy again put aside the suspicion that she was being set up. She needed the work. "Yes lets." Percy put down the box of clamps, and noticed that the shopkeeper watched her do so.
 
 
-[//]: # (### Negotiation with Trinity for the mines job)
+[//]: # (### Negotiation with Trinity for the explosives shipping job)
 
 "My name is Trinity." croaked the old lady as she hobbled along next to Percy.
 
@@ -2175,7 +2175,7 @@ By dinner time most of the critical repair and refueling work was wrapping up. M
 
 "What's left Hemi?"
 
-"We still have to charge the high and low pressure tank systems. It would be better to do that from the dock rather than from diesels while we're moving, if we can."
+"We still have to charge the high and low pressure tank systems. It would be better to do that from the dock rather than from diesel while we're moving, if we can."
 
 Percy nodded.
 
@@ -2234,7 +2234,7 @@ By the time this was done the dock crew already had the first crate in a sling a
 
 "Ay Cap." Bastian disappeared down the ladder into the cargo hold.
 
-With much relayed yelling, the men got the first crate lowered down into the hold, then cranked the chains back up, slung the second crate, and repeated the process. Soon they had a clanking and yelling rhythm going and the hold of the _Prospect_ steadily filled with crates. Hemi and Percy watched, looking down through the hatch into the hold. As the dock workers moved the crates into the cargo bay of the sub, they arranged them like puzzle pieces, and then lashed them with thumb-thick hemp rope to fixed loops welded to the walls of the submarine.
+With much relayed yelling, the men got the first crate lowered down into the hold, then cranked the chains back up, slung the second crate, and repeated the process. Soon they had a clanking and yelling rhythm going and the hold of the _Prospect_ steadily filled with crates. Hemi and Percy watched, looking down through the hatch into the hold. As the dock workers moved the crates into the cargo hold of the sub, they arranged them like puzzle pieces, and then lashed them with thumb-thick hemp rope to fixed loops welded to the walls of the submarine.
 
 Bastian was doing a reasonable job of making sure the crates were being stacked, stowed, and lashed down in such a way that the boat wasn't likely to dive bow-first into the globergerina ooze as soon as they separated it from the docking bay. But Percy and Hemi knew it didn't matter how good a job Bastian did, they would have to make some adjustments to the balance of the load later to get the boat trimmed in the most efficient way possible. The key job for Bastian was simply to make sure the crates were organized in a way that making those adjustment later while they were under way wouldn't be too difficult.
 
@@ -2281,7 +2281,7 @@ Hemi didn't fail to notice either. "Maybe..." was all he said before looking bac
 They finished loading the crates of explosives that evening. Hemi had Bastian, Gregory, and Owen go over every crate and make sure it was lashed securely enough that it couldn't shift once the _Prospect_ started moving. After that, most of the crew hit the rack, though Hemi and Percy were up late in the galley going over the details of their supplies and some questions in the details of the job contract that Hemi wanted Percy to consider.
 
 [//]: # (Morning: day 1, run to Stilt City)
-The next morning, Hemi was up first, and dragged Bastian out of the rack to help him track down some dock workers who would have the rig to get the compressed air tanks of the _Prospect_ recharged. This involved setting up a length of expandable rigid pipes that ran the docking bay, through the cargo hatch, and had to be connected up to pipe fittings mounted to the ceiling of the _Prospect's_ cargo bay. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_ and that air was under such an immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well by utilizing some valves on the tank ballast panel in the control room to bleed off some air from the high-pressure system to the low-pressure tanks.
+The next morning, Hemi was up first, and dragged Bastian out of the rack to help him track down some dock workers who would have the rig to get the compressed air tanks of the _Prospect_ recharged. This involved setting up a length of expandable rigid pipes that ran the docking bay, through the cargo hatch, and had to be connected up to pipe fittings mounted to the ceiling of the _Prospect's_ cargo hold. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_ and that air was under such an immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well by utilizing some valves on the tank ballast panel in the control room to bleed off some air from the high-pressure system to the low-pressure tanks.
 
 The docking bay had high-pressure pipes that were fed down from tanks and compressors in some equipment space up above the exchange floor of the depot. Mostly it was just kept ready for an emergency, if the docking bay got flooded and the water needed to be blown out. Most subs that docked there had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had equipment for it, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian looking for those people.
 
@@ -2289,7 +2289,7 @@ By the time they got back, the rest of the crew was out of their racks, fed and 
 
 Hemi and Bastian worked with the two men who knew how to rig the high-pressure pipes until they have a spindly and unwieldy-looking hook of pipe that arced through the air from the docking bay down into the _Prospect_. It took a while to get all the piping set up and double checked so that everyone working on it was confident it wasn't just going to explode and blow every submarine off the docking bay when they let the high-pressure air into it. But once it was set up, charging the high-pressure tanks only took a few minutes.
 
-With the compressed air systems recharged, the only thing left was to get food aboard. Gregory and Cassandra returned a couple of hours later with a cart full of yet more wooden crates, though these were filled with food stores. Gregory and Bastian got these crates lowered down to the cargo bay deck with Cassandra watching a learning. Once they were in the cargo bay, Bastian stowed and lashed the crate full of non-perishable and dry goods --- cans and dried meats, oatmeal, cornmeal, flour, apples, rice, eggs, cabbage, jars of spices, and citrus --- with the rest of the cargo, figuring they could move the contents up to the galley after they were under way. The frozen and perishable items --- sides of beef and pork, a couple of waxed-paper boxes of leafy vegetables they would need to cook in the next few days, frozen chicken carcasses, and ice cream sandwiches and bars among other things --- were all laboriously pully fom the crates immediately and carried up into the galley and freezers by the crew.
+With the compressed air systems recharged, the only thing left was to get food aboard. Gregory and Cassandra returned a couple of hours later with a cart full of yet more wooden crates, though these were filled with food stores. Gregory and Bastian got these crates lowered down to the cargo hold deck with Cassandra watching a learning. Once they were in the cargo hold, Bastian stowed and lashed the crate full of non-perishable and dry goods --- cans and dried meats, oatmeal, cornmeal, flour, apples, rice, eggs, cabbage, jars of spices, and citrus --- with the rest of the cargo, figuring they could move the contents up to the galley after they were under way. The frozen and perishable items --- sides of beef and pork, a couple of waxed-paper boxes of leafy vegetables they would need to cook in the next few days, frozen chicken carcasses, and ice cream sandwiches and bars among other things --- were all laboriously pully fom the crates immediately and carried up into the galley and freezers by the crew.
 
 
 [//]: # (### ready to embark)
@@ -2570,9 +2570,9 @@ Hemi tapped Owen on the shoulder and they climbed down to the sonar compartment 
 
 When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled a little damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was still seeping. They might never have a completely dry cargo hold again. That was OK, that's what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
 
-Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the skill needed. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo bay, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo bay while still leaving enough room for the crew to get through the crates.
+Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the skill needed. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo hold while still leaving enough room for the crew to get through the crates.
 
-Hemi had Owen rig a block and chain to sliding fixtures on the roof of the cargo bay. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain through the tackle while Owen guided it off the stack. The three of them would then pull the airborne crate up the length of the cargo bay, and Owen and Bastian would push it with poles while Hemi lowered it to it's new place.
+Hemi had Owen rig a block and chain to sliding fixtures on the roof of the cargo hold. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain through the tackle while Owen guided it off the stack. The three of them would then pull the airborne crate up the length of the cargo hold, and Owen and Bastian would push it with poles while Hemi lowered it to it's new place.
 
 [//]: # (Early-evening: day 1, run to Stilt City)
 It took a few hours to make a first pass at rearrangin the crates. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made adjustments to the trim of the boat and Hemi went back down to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
@@ -2614,7 +2614,7 @@ Cassandra nodded.
 
 "There's... a low rumble, a bit of a swishing sound..."
 
-"Good. We're running on the electric motor, underwater, at a modest speed. That's what it sounds like when the boat is moving like that. Later, when we're near the surface with the diesel engines running, it'll be a lot louder and you won't be able to hear much in the water beyond the engines. But while we're on the electric motor, we can hear more on sonar. Sonar requires immagination. You have to put your mind out there in the water. When you hear a sound, you have to match it to an image in your head that describes how the sound could be made. The more detail you can imagine in the image to fit it to the sound, the more accurate your assessement of the contact will be. That's what makes a top sonar person." 
+"Good. We're running on the electric motors, underwater, at a modest speed. That's what it sounds like when the boat is moving like that. Later, when we're near the surface with the diesel engines running, it'll be a lot louder and you won't be able to hear much in the water beyond the engines. But while we're on the electric motors, we can hear more on sonar. Sonar requires immagination. You have to put your mind out there in the water. When you hear a sound, you have to match it to an image in your head that describes how the sound could be made. The more detail you can imagine in the image to fit it to the sound, the more accurate your assessement of the contact will be. That's what makes a top sonar person." 
 
 Hemi pointed to the largest of a set of gauges further up the wall in front of them.
 
@@ -2656,7 +2656,7 @@ A few hours later the clocks and sun charts coordinated to tell them that it was
 
 Captain Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the disels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar --- on the surface they created a fairly strong radar signature. But they ran their own radar receiver while on the surface. If anyone else was tracking with radar, they would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
 
-The only other way they might be found is if an Authority ship heard the _Prospect's_ rumbling diesel on sonar. But to do that they would have to be within ten or twenty nautical miles of the _Prospect_, not an impossible scenario, but unlikely on any normal night of a cargo run.
+The only other way they might be found is if an Authority ship heard the _Prospect's_ rumbling diesels on sonar. But to do that they would have to be within ten or twenty nautical miles of the _Prospect_, not an impossible scenario, but unlikely on any normal night of a cargo run.
 
 Captain Percy also always kept one more ancient backup system for spotting any trouble early: she put someone up in the lookout ring with binoculars. As soon as the deck was above the surface of the water, Percy and Hemi went up through the top hatch in the control room and climbed to the bridge well at the top of the sail. Percy had the radar mast raised, which had two lookout rings mounted to it, one on either side, and called Owen up. As he came up onto the bridge she handed him binoculars and pointed to the lookout rings. Owen kept climbing.
 
@@ -2814,7 +2814,7 @@ He had them bring the boat about nearly 100 degrees to starboard. This was backt
 
 The next two hours were nealy silent and uneventful. Everyone had low early-morning energy and no one felt like much of a conversationalist after a long night with short sleep. This was improved after Gregory brought up the first pot of coffee and passed around tin mugs to the crew in the sonar compartment and the control room.
 
-They cruised to the rendezvous point, and then came up to 30 meters of depth. They shut down the electric motor entirely, and Hemi trimmed the boat until it sat perfectly still and silent in the water.
+They cruised to the rendezvous point, and then came up to 30 meters of depth. They shut down the electric motors entirely, and Hemi trimmed the boat until it sat perfectly still and silent in the water.
 
 Cassandra was just waking up from her sleep rotation, and groggily making her way from the crew quarters to the sonar compartment when Hemi found her and handed her a tin cup full of sweetened black coffee.
 
@@ -2994,9 +2994,9 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 "Strange." Said Hemi.
 
-"By the time they got far enough down the dock to talk to me they had already found out from other sub crew that you had definitely been there... and that you left with a load of magnetic mines."
+"By the time they got far enough down the dock to talk to me they had already found out from other sub crew that you had definitely been there... and that you left with a load of magnetic warheads."
 
-"They asked you about our cargo too huh?"
+"They asked you about our cargo too, eh?"
 
 "Ya. Fortunately, they didn't seem to know anything about me coming in with you. I guess the other sub crew are afraid enough of Authority goons with guns to give up someone who isn't around, but aren't such cowards as to go so far as to pointing at someone they can see in the same space."
 
@@ -3225,7 +3225,7 @@ Cassandra had her eyes closed and was concentrating intently on the sounds in he
 
 "Bastian," Percy called up to him, "throttle down. Stop the prop, Cassandra needs to hear what's behind us."
 
-A moment later the perennial resonance of the electric motor died away. Cassandra brought the sonar mics back to face the dead stern of the boat. The signal strength indicator immediately shot up to a definite contact. "Absolutely Captain Percy. I can hear the engine in the water. Sounds like another diesel."
+A moment later the perennial resonance of the electric motors died away. Cassandra brought the sonar mics back to face the dead stern of the boat. The signal strength indicator immediately shot up to a definite contact. "Absolutely Captain Percy. I can hear the engine in the water. Sounds like another diesel."
 
 Percy looked at the signal strength dial and knew immediately that the contact had snuck in under the sound of the _Gnat's_ diesel when it was running, and then a bit closer even by being dead astern of them where Cassandra couldn't hear very well over the sound of their own prop turning. The contact was probably far closer than Percy was comfortable with now --- maybe twenty nautical miles. "Fuck." Was all she said.
 
@@ -3291,7 +3291,7 @@ He and Cassandra tracked the two sound sources like this for over an hour. Then 
 
 "OK. We'll surface tonight, and you can send the pigeon out after Shakes then."
 
-Cassandra kept listening to the sonar for another half hour, occasionally reporting that she thought she could still hear them when the conditions were favorable. At that point Percy decided it was time to leave, and had Bastian throttle the electric motor up to 15 knots. They quickly motored off on a southerly course that Percy randomly selected to move them away from the area.
+Cassandra kept listening to the sonar for another half hour, occasionally reporting that she thought she could still hear them when the conditions were favorable. At that point Percy decided it was time to leave, and had Bastian throttle the electric motors up to 15 knots. They moved off on a southerly course that Percy randomly selected to move them away from the area.
 
 The rest of the hours of the day ticked by with nothing to break the monotony and no changes to make other than occasional minor adjustments to the trim of the boat. Whereas earlier Cassandra had been cursing the noise of the _Gnat's_ engine polluting the water, now she found she missed it. Somehow it had been comforting to know Shakes was up there on the surface. Not to mention that his hourly check-ins were at least a way to mark time and shift her attention. Now they were down in this dark cold pit of water, blind and alone, and it began to feel like they were doomed to remain like this until the end of their days. 
 
@@ -3492,7 +3492,7 @@ Chips's face immediately went red. "That's the second fucking time Percy. Two fu
 
 "Fuck you Chips! I'm the fucking captain of this boat. I have to make these calls. They aren't always going to be perfect or safe."
 
-"But with a fucking load of fucking explosives? You fucking ride out bad fucking storms submerged. Every stupid fucking green boat driver knows that. But apparently, you fucking think it's fine to surface with a hold full of TNT. We were a fucking mite's-dick away from being blown to the bottom of the fucking hole!"
+"But with a hold full of fucking explosives? You fucking ride out bad fucking storms submerged. Every stupid fucking green boat driver knows that. But apparently, you fucking think it's fine to surface with a hold full of TNT. We were a fucking mite's-dick away from being blown to the bottom of the fucking hole!"
 
 Percy leveled her emotions. "I don't fucking need this right now. I have bigger problems than you. Go cool the fuck down Chips." Percy turned and walked away.
 
@@ -3722,7 +3722,7 @@ Nobody said anything, instinctively listening to the space around them. After a 
 
 "Down, we have to get deeper," Percy whispered to herself in the control room. She reached past Bastian, and turned the dive planes to the stop so they had maximum angle. The boat dropped from under them.
 
-Where a moment before Owen was fearing some unknown depth at which the _Prospect_ would cease to exist, now he felt himself squeezed in the jaws of a closing vise: between an explosive torpedo that could end the _Prospect_ and the crushing pressure of water that could end them.
+Where a moment before Owen was fearing some unknown depth at which the _Prospect_ would cease to exist, now he felt himself squeezed in the jaws of a closing vise: between a torpedo that could end the _Prospect_ and the crushing pressure of water that could end them.
 
 Percy looked up. They were passing 200 meters. 
 
@@ -3798,7 +3798,7 @@ Hemi looked grim.
 
 "We need to get something between us and those fuckers up there, whether it's Shakes, other Authority craft, or some feature of the seascape. I just need something to hide my boat under." Said Percy, wracking her mind for options. "Owen! give us 3 knots."
 
-The quiet hum of the electric motor rose up through the silence.
+The quiet hum of the electric motors rose up through the silence.
 
 "Hemi, can you stay on sonar?" Percy jerked a thumb towards Cassandra. "Let the kid get in the rack for a few hours."
 
@@ -3812,7 +3812,7 @@ The ping prompted Owen to speak up. "Captain Percy, don't you think we should tr
 
 "The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection." Said Percy. "We aren't going to pass any inspections with our current cargo. And something tells me those guys aren't going be open to a bribe either..." She trailed off. "Besides, they are out of ship-to-ship range now --- probably trying to keep enough distance to fire a torpedo at us if we come back up above 200 meters.
 
-They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along through the deep, under 230 meters of water. The pursuing sub stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motor it didn't take very long for their fears to subside and be replaced with sleepy routine.
+They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along through the deep, under 230 meters of water. The pursuing sub stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motors it didn't take very long for their fears to subside and be replaced with sleepy routine.
 
 But every 15 minutes, like a grating and persistent alarm, another echoing ping broke through the silence. Each ping was always followed immediately after by Hemi's report from the sonar compartment that the pursuing submarine was maintaining nearly exactly the same distance behind them. This he can and did tell them with great precision.
 
@@ -4814,7 +4814,7 @@ As Percy and Owen were finishing trimming the tanks to hold the _Prospect_ stead
 
 It was very quiet in the sonar compartment. Cassandra yawned as she put the headset on, and powered up the sonar unit. She slowly scanned around them 360 degrees, and then back and forth behind them while flipping various filters on and off. All they did was change the tone of the silence. They had made enough distance during the night that there was nothing out there to be heard now.
 
-She listened to the empty hiss of static in her ears modulated by the swish of the _Prospect's_ prop when the sonar was pointed anywhere towards the back of the boat, and  underpinned by the low hum of the electric motors. She closed her eyes, and an hour passed while her mind was out beyond the boat floating in completely empty acoustic space.
+She listened to the empty hiss of static in her ears modulated by the swish of the _Prospect's_ prop when the sonar was pointed anywhere towards the back of the boat, and underpinned by the low hum of the electric motors. She closed her eyes, and an hour passed while her mind was out beyond the boat floating in completely empty acoustic space.
 
 Some time passed, and ~She may have even fallen asleep in her chair. But when she heard the growl of a long-off diesel engine coming through the sonar she suddenly became alert. Her mind snapped back from the ethereal world it had been floating in and its attention came down on the sonar contact the way a beam of light could go from wide to narrow as the focus of a lens changed. 
 
@@ -4875,7 +4875,7 @@ Hemi followed Percy up to the control room.
 
 Bastian had been sitting in the dive plane control seat while on wheel watch. Hemi had Owen take over the rudder station and he stood directly behind them with one hand on each of their shoulders. Percy stood at the Captain's station in the left rear portion of the small control room. From there she could see almost every gauge, dial, and setting of her boat.
 
-She had Owen throw the throttle all the way forward, and the boat rapidly accelerated until it reached its maximum underwater speed of 17 knots. At this speed the batteries were drained so fast she could almost see the needles on the battery charge gauges moving towards their zero pins. At this speed the boat also made much more noise. Even an electric motor could not be silent with the effort of pushing a huge piece of steel through dense water at high speed. And the water itself created enough noise as it rushed along the hull to be heard over sonar from any near distance.
+She had Owen throw the throttle all the way forward, and the boat rapidly accelerated until it reached its maximum underwater speed of 17 knots. At this speed the batteries were drained so fast she could almost see the needles on the battery charge gauges moving towards their zero pins. At this speed the boat also made much more noise. Even an electric motors could not be silent with the effort of pushing a huge piece of steel through dense water at high speed. And the water itself created enough noise as it rushed along the hull to be heard over sonar from any near distance.
 
 "What are they doing now Cassandra?" Percy called down.
 
@@ -5044,7 +5044,7 @@ From the front of the boat came another long groan --- one that sounded to Percy
 
 "Owen, shut down the motors." Said Percy.
 
-The quiet hum of the electric motors died away, and as the _Prospect_ settled into the weight of the water, they were left in the uncanny silence of the deep ocean. They listened intently to the silence. It seemed to be made even more silent by the cloud of smoke-filled red light in the control room. It was not even clear what they were listening for, perhaps the sound of the sub with the ram rushing past them over their heads, or at least a report from Hemi on the sonar.
+The quiet hum of the electric motors faded, and as the _Prospect_ settled into the weight of the water, they were left in the uncanny silence of the deep ocean. They listened intently to the silence. It seemed to be made even more silent by the cloud of smoke-filled red light in the control room. It was not even clear what they were listening for, perhaps the sound of the sub with the ram rushing past them over their heads, or at least a report from Hemi on the sonar.
 
 But the silence was broken by another long quaking groan from the depths of the _Prospect's_ hull.
 
@@ -5295,7 +5295,7 @@ Owen displayed an uncanny ability at bicycle handling. With the deck angled, he 
 
 They circled up and back repeatedly. With the boat otherwise completely shut down it was pleasantly quiet other than the ticking spin of pawls, and the occasional echoing shout followed by a metal-on-metal crash followed by laughing.
 
-Bastian, after breaking his first bicycle, selected a second one that was more upright and left his thin limbs less cramped and folded. He slowly pedaled up and down the cargo bay while chain-smoking cigarettes. He rarely touched the handlebars as other shot past him.
+Bastian, after breaking his first bicycle, selected a second one that was more upright and left his thin limbs less cramped and folded. He slowly pedaled up and down the cargo hold while chain-smoking cigarettes. He rarely touched the handlebars as other shot past him.
 
 Cassandra was very timid on the way down the slope, squeezing the brakes and skidding the whole way. She only tried the ramp once, and found the landing terrifyingly rough. But she could beat them all back up the slope with a high-speed spin and a surprising show of strength in heart and lung.
 
@@ -5609,13 +5609,13 @@ She heard Hemi's heavy step up off the ladder onto the bridge, but she did not l
 
 At this, Percy lowered the lenses and looked at him. "You have another option you have been holding out on me Hemi?"
 
-"_Extremely_ unlikely to work --- and likely to get us killed. The magnetic warheads... I let a couple of crates slip off the palettes when they were being unloaded in Stilt City. So I have a few dozen mines still stashed down in our cargo hold."
+"_Extremely_ unlikely to work --- and likely to get us killed. The magnetic warheads... I let a couple of crates slip off the palettes when they were being unloaded in Stilt City. So I have a few dozen warheads still stashed down in our cargo hold."
 
-"You want to try to hit them with a mine?"
+"You want to try to hit them with one of those explosives?"
 
 "They are the only weapon we have."
 
-"In-fucking-deed. But how do you deliver a fucking mine to the sub? They are just _part_ of a weapon, as Trinity mentioned a number of times. We can't just toss one over the water at them."
+"In-fucking-deed. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon, as Trinity mentioned a number of times. We can't just toss one over the water at them."
 
 "The part of my idea that might get us killed is that part --- I propose we use the _Gnat_."
 
@@ -5636,7 +5636,7 @@ Hemi got Herschel off with a note to Shakes attached to the bird's leg with inst
 
 The magenetic warheads were in the crates right where he left them. He selected a half dozen of the ones that were the least coated with dust and rust, and hauled them to a work table in the engine room. Each weighed about 25 kilograms and consisted of a cylinder containing high explosives that was about 300 milimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with the magnet that was strong enough to activate the switching mechanism, but weak enough that it was not likely to actually adhere itself to the target. The magnet was intended to be a trigger, not an attachment device.
 
-The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device would enable to understand how it worked, and thus handle it safely. Details were printed right on the side of the explosives cylinder, and it was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons of extinct microscopic sea creatures. It could not be exploded without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finnicky that it would not go off in the close presence of another high explosve. A fortunate thing, because Hemi estimated he needed at least two of these devices to detonate if he wanted to blow a hole through the pressure hull of a military submarine.
+The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device would enable to understand how it worked, and thus handle it safely. Details were printed right on the side of the explosives cylinder, and it was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons of extinct microscopic sea creatures. It could not be exploded without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finicky that it would not go off in the close presence of another high explosive. A fortunate thing, because Hemi estimated he needed at least two of these devices to detonate if he wanted to blow a hole through the pressure hull of a military submarine.
 
 He used large steel straps to join two of the cylinders together orienting them so the magnetic trigger plates faced out on both ends. He tracked down some batteries and wired them in to be the power supplies for the triggers. From a forgotten storage compartment for parts in the engine room he found a pile of old mechanical timed switches that could be wound up and then set before they closed the circuit. He wired these into the arming circuit on each warhead.
 
@@ -5656,7 +5656,7 @@ Still down in the _Gnat's_ control seat, Shakes could hear the PA message. "Hemi
 
 "I am coming with you. I will explain the plan on the way. If the sub with the ram is coming in, we need to get the _Gnat_ off as quickly as possible." Said Hemi.
 
-Hemi got Shakes to swap places with him, and standing down in the _Gnat_ recieved the heavy explosive units that a straining Owen and Shakes lowered down to him. After those it was only a matter of minutes to pass down all the odds and ends into the _Gnat_.
+Hemi got Shakes to swap places with him, and standing down in the _Gnat_ received the heavy explosive units that a straining Owen and Shakes lowered down to him. After those it was only a matter of minutes to pass down all the odds and ends into the _Gnat_.
 
 When it looked like everything was aboard, Shakes climbed down and joined Hemi in the _Gnat_.
 
@@ -5976,7 +5976,7 @@ Percy ignored Owen. "Cassandra, the next task is to find the fucking _Gnat_ and 
 
 "Find the _Gnat_ Cassandra! Quickly!"
 
-It was not an easy task. While the _Gnat_ made a racket running diesel on the surface, its small size and tiny electric motor made it nearly invisible under water. The noise from the _Prospect's_ electric motor at this speed also drowned out much chance of hearing a target as small as the _Gnat_. Her only chance was carefully filtering the _Prospect's_ motor noise out, and then somehow landing the sonar mics precisely on the bearing of the _Gnat_. She flipped filters on and off, and adjusted the fine-control dials carefully. Eventually she managed to limit the noise wash from the _Prospect_ to a degree that gave her some sense she might be able to hear around it.
+It was not an easy task. While the _Gnat_ made a racket running diesel on the surface, its small size and tiny electric motor made it nearly invisible under water. The noise from the _Prospect's_ electric motors at this speed also drowned out much chance of hearing a target as small as the _Gnat_. Her only chance was carefully filtering the _Prospect's_ motor noise out, and then somehow landing the sonar mics precisely on the bearing of the _Gnat_. She flipped filters on and off, and adjusted the fine-control dials carefully. Eventually she managed to limit the noise wash from the _Prospect_ to a degree that gave her some sense she might be able to hear around it.
 
 She scanned and scanned, back and forth. All the way around the bow too, but mostly focussing on the direction behind where she had last heard them. Her mind was out there, deep in the water behind her, but there was nothing but darkness there. She felt like she was blind, except for her sense of the _Prospect_, and the sub with the ram steadily gaining on them.
 
@@ -6005,7 +6005,7 @@ Another second passed. "Hemi says, get this: 'he will take your remaining batter
 Bastian reached one long finger up and uselessly tapped the battery gauge.
 
 
-[//]: # (### Back in the Gnat to lay the final mine)
+[//]: # (### Back in the Gnat to lay the final warhead)
 
 "We have to go deeper Shakes. 50 meters."
 
