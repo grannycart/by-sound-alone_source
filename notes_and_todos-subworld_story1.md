@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat May 08, 2021  10:35PM
+Last modified: Sun May 09, 2021  12:28PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -157,14 +157,14 @@ Last modified: Sat May 08, 2021  10:35PM
 -------------------------------------------------
 
 #### Beginning:
+* [ ] Give Hemi a beard, like he's captain Nemo. 
+	* The idea is that someone who didn't know better might mistake him for the captain
+	* Do Maori men grow beards? In the 19th C they would often grow them to cover facial tatoos. So Hemi with a beard would have some significance.
 * [ ] Add a minor misdirect at the beginning of the book where someone might mistake Hemi for the captain
 	* [ ] This could be where you add a clearer description of Hemi earlier in the book.
 	* [ ] Maybe he is the first one to climb up onto the bridge
 	* [ ] Seems like it would have to be Shakes who mistakes him for the captain
-* [ ] Give Hemi a beard, like he's captain Nemo. 
-	* The idea is that someone who didn't know better might mistake him for the captain
-	* Do Maori men grow beards? In the 19th C they would often grow them to cover facial tatoos. So Hemi with a beard would have some significance.
-* [ ] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
+* [X] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
 	* though maybe Hemi is the only one who calls her by it
 * [ ] Need to include a description of Percy somewhere early in the book
 	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
@@ -174,7 +174,7 @@ Last modified: Sat May 08, 2021  10:35PM
 		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
 
 #### Seamount:
-* [ ] Add 'blatting' to description of authority announcement over ship-to-ship
+* [X] Add 'blatting' to description of authority announcement over ship-to-ship
 * [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
 * [ ] fix creeping towards the seamount:
 	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
@@ -276,6 +276,7 @@ Last modified: Sat May 08, 2021  10:35PM
 * [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [ ] consider using 'nominal' to mean anything you want it to.
 	* might be too on-the-nose
+* [ ] Hemi calls Percy "Sylvia"; everyone else calls her captain
 * [ ] have the junior crew call hemi 'boss'
 * [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'
 * [ ] does Shakes insist on being referred to as "Captain Shakes"?
