@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun May 09, 2021  12:28PM
+Last modified: Thu May 13, 2021  11:34AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -157,7 +157,7 @@ Last modified: Sun May 09, 2021  12:28PM
 -------------------------------------------------
 
 #### Beginning:
-* [ ] Give Hemi a beard, like he's captain Nemo. 
+* [X] Give Hemi a beard, like he's captain Nemo. 
 	* The idea is that someone who didn't know better might mistake him for the captain
 	* Do Maori men grow beards? In the 19th C they would often grow them to cover facial tatoos. So Hemi with a beard would have some significance.
 * [ ] Add a minor misdirect at the beginning of the book where someone might mistake Hemi for the captain

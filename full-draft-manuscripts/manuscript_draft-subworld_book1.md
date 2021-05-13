@@ -1,5 +1,5 @@
 manuscript_draft-subworld_book1.md
-Last modified: Sun May 09, 2021  12:28PM
+Last modified: Thu May 13, 2021  11:34AM
 
 
 # Manuscript Draft --- Sub World Book 1
@@ -120,37 +120,36 @@ There was barely enough space in the control room for 4 people. They were all br
 
 "100 meters." Said Gregory.
 
-"OK. Level us off." Said Hemi. Gregory and Bastian spun closed some of the trim tank valves and rolled the dive planes level. The angle of the boat slowly eased upwards. Captain Percy pulled out another cigarillo and lit it. She nervously sucked at it, and then ashed it into a tin cup that smelled of her stale coffee from three hours earlier.
+"OK. Level us off." Said Hemi. Gregory and Bastian spun closed some of the trim tank valves and rolled the dive planes level. The angle of the boat slowly eased upwards. 
 
-Being underwater meant they had to run on batteries --- the diesel engines they used on the surface generated power both for the batteries and the propellers. But those engines breathed far more air than humans, and so could not be used underwater. The good thing about running on batteries with just the electric motors driving the propellers was that the boat was nearly completely silent --- electric motors only produced a hum that was audible inside the boat, but barely detectable by another vessel. The bad thing was that there was a limited amount of time they could run before they had to get back up on the surface and charge the batteries with the diesels.
+Hemi stood staring at the dials in front of Bastian and Gregory, his massive arms crossed in the rough rough wool of his tightly-fitted tweed suit jacket. He tapped the thick fingers of one hand against the leather elbow patches while his other hand stroked his wiry black beard.
 
-Hemi got them going slowly and silently at 100 meters down. The idea was to sneak quietly away --- the most routine tactic of all submarines. But being routine did not make it any less nerve-wracking. 
+The got moving slowly and silently at 100 meters down. The idea was to sneak quietly away --- the most routine tactic of all submarines. But being routine did not make it any less nerve-wracking. Captain Percy pulled out another cigarillo and lit it. She nervously sucked at it, and then ashed it into a tin cup that smelled of her stale coffee from three hours earlier. 
 
-[//]: # (Describe what Hemi and Percy are wearing here.
-
-Hemi stood silently staring at the dials in front of Bastian and Gregory, his massive arms crossed in the rough rough wool of his tightly-fitted tweed suit jacket. He tapped his thick fingers against the leather elbow patches.
-
-Captain Percy wiped he palms on her leather pants
+Being underwater meant they had to run on batteries. The diesel engines the submarine used while surfaced generated power that drove the propellers and charged the batteries. But those engines breathed far more air than humans, and so could not be used underwater. Running on batteries with just the electric motors driving the propellers made the boat was nearly completely silent --- electric motors produced a hum that was audible inside the boat, but barely detectable by another vessel. Eventually the batteries would run out though, and they would have to get back up on the surface to recharge the batteries with the diesels.
 
 
 [//]: # (### They realize there's something wrong)
 
-"Something isn't right." Said Captain Percy. Just like when she was on the bridge before, she knew something was wrong with her boat. There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the whole being of the boat. They had to be taken together, internalized, and combined with what you felt the boat doing. She would hold the depth in her head, while taking in the dive plane angle, and the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at this wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
+But Captain Percy's intuition was plaguing her again. "Something isn't right." She said aloud to no one in particular. 
 
-This feeling of internalizing what her boat was doing --- something she did a thousand times a day, if not continually --- wasn't working right now. 
+Just like when she was on the bridge before, she could feel something wrong with her boat. There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the total status of the boat. All the instruments had to be taken together, internalized, and combined with what one felt the boat doing. Percy would typically be holding the depth in her head, while taking in the dive plane angle, the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at this wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
 
-Her eyes scanned back and forth across the dials, but they didn't come together. She couldn't make sense of them and could not figure out what was happening to her boat. In this steel tube with no windows, for the first time ever, she was truly blind.
+This feeling of internalizing what her boat was doing --- something she did  continually, to the point where it felt like the boat was part of her body --- was not working right now. 
 
-"Hemi... what's going on...?" She was turning red with frustration and she could almost fear her eyes watering. Fortunately in the dim red lighting, no one would see that.
+Her eyes scanned back and forth across the dials, but they did not come together. There was no way to make sense of them and she could not figure out what was happening to her boat. In this steel tube with no windows, perhaps for the first time ever, she was truly blind.
+
+"Hemi... what the fuck is going on...?" She was turning red with frustration and she could almost feel her eyes watering. Fortunately in the dim red lighting, no one would see that.
 
 "I don't know..." He reached past Gregory and turned the rudder. The boat came along, slowly. "Sluggish?"
 
 
 [//]: # (### Captain Percy goes looking for what's wrong)
 
-"I need to go look her over. Let me know on the PA if something happens." Hemi nodded and Captain Percy slipped down the ladder to the deck below. She walked to the front of the navigation and sonar compartment and climbed down a steel ladder to the middle deck of the boat. This was crew quarters and their third deck-crew member, Owen, was snoring in his rack behind one of the moth-eaten old bed curtains since he was off watch. At the back end of crew quarters she lowered herself through a hatch and down another steel ladder to the lowest of the three main decks. If there were something physically wrong with her boat, this is the deck where it would be.
+"I need to go look her over. Let me know on the PA if something happens." 
+Hemi nodded and Captain Percy slipped down the ladder to the deck below. She walked to the front of the navigation and sonar compartment and climbed down a steel ladder to the middle deck of the boat. This was crew quarters and the third deck-crew member, Owen, was snoring in his rack behind one of the moth-eaten old bed curtains since he was off watch. She continued through a hatch at the rear end of crew quarters and down another steel ladder to the lowest of the three main decks. If there were something physically wrong with her boat, this deck was the most likely place to figure out what it was.
 
-She flipped on the lights. There was no red night lighting rigged down here, it was just bare white bulbs behind cages to keep them from being broken stretching off in a line. In this part of the boat, the entire lower deck was full of batteries, strung together with rat's nest of black cables as thick as her finger. The cables were grouped together with wire ties and slung along the racks in heavy bundles. The batteries were bolted with rusting steel straps to row upon row of steel shelves. 
+She flipped on the lights. There was no red night lighting rigged down here, it was just bare white bulbs behind cages to keep them from being broken. The lights stretched off in a line on the ceiling, forward and aft of her. In this part of the boat, the entire lower deck was full of batteries, strung together with rat's nest of black cables as thick as her finger. The cables were grouped together with wire ties and slung along the racks in heavy bundles. The batteries were bolted with rusting steel straps to row upon row of steel shelves. 
 
 The deck was steel grating. She got to her knees, the steel grating pushing through her brown leather overalls whose age was betrayed by all the cracks the joints where her knees bent them. She put her fingers through the grating and lifted it up and put it aside. She reached her hand down and felt the raw steel of the pressure hull. It was cold, damp, and greasy, but that was normal. She replaced the grate and went on to the next compartment forward.
 
