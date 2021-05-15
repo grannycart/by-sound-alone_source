@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu May 13, 2021  11:34AM
+Last modified: Sat May 15, 2021  12:30PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -172,6 +172,8 @@ Last modified: Thu May 13, 2021  11:34AM
 		* Right now I think she reads more like the elder captain she will be in later stories
 		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
+* [X] Does Percy need to tell Hemi about the ram on the sub? 
+	* She does.
 
 #### Seamount:
 * [X] Add 'blatting' to description of authority announcement over ship-to-ship
