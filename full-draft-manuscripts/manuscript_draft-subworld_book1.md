@@ -1,5 +1,5 @@
 manuscript_draft-subworld_book1.md
-Last modified: Mon May 17, 2021  11:18AM
+Last modified: Tue May 18, 2021  06:35PM
 
 
 # Manuscript Draft --- Sub World Book 1
@@ -407,11 +407,11 @@ Gregory glanced at Bastian quickly, but returned his eyes to the controls.
 
 "But your point is that it takes a long time on a sub..."
 
-"It takes a long fucking time. From the moment we read our doom on the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_ it would still take the better part of a fucking hour. And we'll be hearing the last throes of the boat the whole way down --- the groans of the hull, the creaking supports, the collapsing trim tanks... I like to think the last fucking failure, the big one that sends the wall of water through the boat, that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you --- that last failure, I like to think it will be fucking silent. I like the idea that the last thing we would hear is rushing water. Somehow that's a fucking comfort to me."
+"It takes a long fucking time. From the moment we read our doom on the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_ it would still take the better part of a fucking hour. And we'll be hearing the last throes of the boat the whole way down --- the groans of the hull, the creaking supports, the collapsing trim tanks... I like to think the last fucking failure, the big one that sends the wall of water through the boat that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you --- that last failure, I like to think it will be fucking silent. I like the idea that the last thing we would hear is rushing water. Somehow that's a fucking comfort to me."
 
 "You are one fucked up dude Bastian."
 
-"This is _your_ fucking lifestyle too Gregory. You should accept it instead of being afraid of it. Because having your skull caved in against the hull is the _good_ way to die on a sub. These boats are fucking way stronger than the engineers give them credit for --- sure the boat might get too deep, we might lose control of it, might sink to the bottom mostly filled with water... but you might also get lucky, lucky enough to end up in a compartment that holds on to its precious bubble of air. And then you'll sit in that compartment for days, maybe even more than a week, sucking up the last of your breathable oxygen. And there's nothing to do but sit around in the black, waiting to die."
+"This is _your_ fucking lifestyle too Gregory. You should accept it instead of being afraid of it. Because having your skull caved in against the hull is the _good_ way to die on a sub. Un-fucking-fortunately, these boats are fucking way stronger than the engineers give them credit for --- sure the boat might get too deep, we might lose control of it, might sink to the bottom mostly filled with water... But you might also get lucky --- lucky enough to end up in a compartment that holds on to its precious bubble of air. And then you'll sit in that compartment for days, maybe even more than a week, sucking up the last of your breathable oxygen. And there's nothing to do but sit around in the black, waiting to die."
 
 "Goddamn, fuck off Bastian!"
 
@@ -422,46 +422,46 @@ Bastian grinned and sucked at the last of his cigarette before stabbing it out i
 
 [//]: # (### staring at dials: depth vs the tablemount)
 
-"Now," Percy said to herself, "the most important question is: how fast are we sinking?"
+"Now," Percy said to herself, "the most important question we have to deal with is: how fast are we sinking?"
 
-It was nothing but staring at the dials. The wall of dials and gauges in front of them with their spindly little black fingers, all creeping slowly one way or another depending on what each particular gauge was tasked with monitoring. The individual parts the dials had to play all came together in a symphony that marked time towards their fate.
+This was a matter of nothing more than staring at the dials. The wall of dials and gauges in front of them with their spindly little black fingers, all creeping slowly one way or another depending on what each particular gauge was tasked with monitoring. The individual parts the dials had to play all came together in a symphony that marked time towards some unknown end
 
-Nearly every gauge mattered to Captain Percy right now. Nearly every one represented  a variable in the equation that controlled whether they lived or died: speed, battery charge, battery drain rate, the status of the trim tanks, course, rudder, ship angle, dive plane angle... everything mattered. But as in every equation some variables weighed more than others. The two that mattered most to Captain Percy right now were the depth of ship gauge (which mattered in every submarine maneuver of course) and depth under keel (which told them how far the ocean bottom was under them and rarely factored into a submarine maneuver, at least in the deep ocean).
+Nearly every gauge mattered to Captain Percy right now. As Bastian had insinuated, each represented a variable in the equation that controlled whether they lived or died: speed, battery charge, battery drain rate, the status of the trim tanks, course, rudder, ship angle, dive plane angle... everything mattered. But as in every equation some variables weighed more than others. The two that mattered most to Captain Percy right now were the depth of ship gauge, which featured in most submarine maneuvers, and the depth under keel, which told them how far below them the ocean bottom was and rarely factored into a submarine maneuver --- at least in the deep ocean.
 
-The depth of the boat was slowly, slowly creeping downwards. Percy stared at the black line of the needle on the dial, and willed it to stay still. She was pretty sure Gregory and Bastian were doing the same. But it never stopped its shaky wavering, and it persistently gained towards the deep end of the dial. It had already crept three quarters of the way around the dial --- on a dial that was graduated in such a way that the far end, where its tiny steel bounding needle poked up, was beyond the capabilities of what the ship could survive.
+The depth of the boat was slowly, slowly creeping downwards. Percy stared at the black line of the needle on the dial, and willed it to stay still. She was pretty sure Gregory and Bastian were doing the same. But it never stopped its shaky wavering, and it persistently made gains towards the deep end of the dial. It had already crept three quarters of the way around --- on a dial that was graduated in such a way that the far end, where its tiny steel bounding needle poked up, was theoretically beyond the capabilities of what the ship could survive.
 
-They had watched it travel that distance the way one might track a long journey on a map. It seemed they had traveled interminably far to get where they were, and they looked back at the three quarters of the dial they had passed the way one remembers days and days on the road in a long cross-country journey. In actual physical distance of course, their depth was no more of a distance than one might walk in a few minutes to buy a bottle of milk from the store.
+They had watched the needle traverse that distance the way one might track a long journey on a map. It seemed they had traveled interminably far to get where they were now, and they looked back at the three quarters of the dial they had passed the way one remembers days and days on the road in a long cross-country journey. In actual physical distance though, their depth was no more of a distance than one might walk to buy a bottle of milk from the corner store.
 
-But the gauge that mattered most to Captain Percy right now was that depth-under-keel gauge. The instrumentation that fed that gauge was only so sensitive. It could show the depth of the bottom far beyond what the submarine was capable of, but nowhere near the actual depths of the deep ocean. At the far end of that dial, it's bounding gauge was cutely labeled, in an ancient naval tradition: "Bottomless." 
+The even more critical gauge at the moment was that depth-under-keel gauge. The instrumentation that fed that gauge had a limit to its sensitivity. It could show the depth of the bottom far beyond what the submarine was capable of, but nowhere near the actual depths of the deep ocean. At the far end of that dial, its bounding pin was cutely labeled in an ancient naval tradition: "Bottomless." 
 
 And it really did not matter that somewhere down there might be an actual bottom. For this sub, for their pursuing sub, for any submarine that Captain Percy had ever heard about, the deep ocean was in all practical ways a never-ending hole. Anyone who went down there would never find a bottom, and could never come back up. They lived much of their submariner lives floating on delicate bubbles of gas over that black hole that never ceased in its efforts to suck them down. The needle of the depth-under-keel dial had been pegged at "Bottomless" for days now as they have been crossing deep ocean.
 
-Hemi came up through the hatch into the control room with a clipboard and a pencil, and leaned over the glowing red dials, raising his little glasses with his fingers to bring them into sharper focus. He jotted readings off the dials down onto his clipboard. 
+Hemi came up through the hatch into the control room with a clipboard and a pencil, and leaned over the glowing red dials, raising the tiny lenses of his glasses with his fingers to bring them into sharper focus. He jotted readings off the dials down onto his clipboard. 
 
 Captain Percy fished her hand around among the joists that supported the pressure hull wall, and found a rumpled pack of cigarillos. She shook one out and lit it. "Are we going to make it Hemi?"
 
-"It is a razor's work Captain. Numbers slide past numbers, and a decimal points worth of difference change whether we live or die here. And if the numbers _do_ work out in our favor, there's no saying whether --- should your plan succeed initially --- it doesn't simply perpetrate the complete failure of the pressure hull and doom us all anyway."
+"It is razor work Sylvia. Numbers slide past numbers, and a decimal points worth of difference changes whether we live or die. And if the numbers _do_ work out in our favor, there is no way to say whether --- should your plan succeed initially --- it does not simply perpetrate the complete failure of the pressure hull and leave us permanently on the bottom regardless."
 
-"I'm entirely open to other ideas here." This elicited a dead silence in the control room. "Alright, we keep pushing those numbers then. In a matter of an few more hours, we'll know whether our fates take us down into the hole, or grant us a short stay longer in this little bubble of ours." She sucked slowly on her cigarillo.
+Percy sucked slowly on her cigarillo as she parsed Hemi's assessment. "What you are really saying is that even though it looks fucking hopeless there is a goddamn fucking chance."
 
-A third gauge now entered as a heavy variable in Captain Percy's equation: the clock. The fact that the clock moved so steadily relative to all the rest of the glacially churning gauges did not provide any sense of relief. Hours ticked past, hardly registering their existence. She sucked down cigarillo after cigarillo, nervously stepping from foot to foot as she stood behind Gregory and Bastian, gripping the backs of their chairs hard enough to pale her knuckles. 
+"There is distinctly a chance, Sylvia."
 
-She stared intently at the clock, willing it to move slower. They desperately needed more time if they were going to make it. Her eyes wandered back and forth from it to the depth-under-keel gauge, where she stared at the needled and summoned all the metaphysical powers of the universe to move the needle up off the "Bottomless" pin. She thought she saw it writhe for a split instant, like the flash of a small bait fish seen catching the sun in a shallow pool of water. 
+A third gauge now entered as a heavy variable in Captain Percy's equation: the clock. The fact that the clock moved so steadily relative to all the rest of the glacially churning gauges did not provide any sense of relief. Hours ticked past, hardly registering their existence. She sucked down one cigarillo lit from the budded remains of the last. She nervously stepped from foot to foot as she stood behind Gregory and Bastian, gripping the backs of their chairs hard enough to pale her knuckles. 
+
+She willed the clock to to move slower. They desperately needed more time if they were going to make it. Her eyes wandered back and forth from the clock to the depth-under-keel gauge, where she stared at the needle and summoned all the metaphysical powers of the universe to move the needle up off the "Bottomless" pin. For a moment, she thought she saw it writhe, like the flash of a small bait fish seen catching the sun in a shallow pool of water. But with slightly more sharply focused eyes, the needle remained sitting comfortably on the pin.
 
 She stood and took a rag from a hook and reached over Gregory to wipe the condensing droplets of water off the glass of the gauge, then circled around the aging pitted chrome casing for good measure. She could feel the little spots of rust and degrading metal catching against the fibers of the rag. She tapped the glass with her finger.
 
 
 [//]: # (### They land on the tablemount)
 
-And the needle moved.
+And the needle moved. It just wavered, hovered for a second, and then returned to resting wearily on the pin. But it had definitely moved. Her eyes went back to the clock, more minutes passed. To their speed: steady at three knots. To their battery charge: painfully low. To their depth: too deep for comfort.
 
-It just wavered, hovered for a second above the pin, and then returned to resting wearily on the pin. But it had definitely moved. Her eyes went back to the clock, more minutes passed. To their speed: steady at three knots. To their battery charge: painfully low. To their depth: too deep for comfort.
+But the depth-under-keel needle moved again, rising up and falling back, like a dying crone trying to raise herself for one last curse at the world. And then it was wavering unsteadily above the "Bottomless" pin. The gap between the needle and the pin was tenuous, but real. 
 
-But the depth-under-keel needle moved again, rising up and falling back, like a dying crone trying to raise herself for one last curse at her hated relations. And again. And then it was wavering unsteadily above the "Bottomless" pin. The gap between the needle and the pin was tenuous, but real. 
+"Captain," said Bastian, his eyes on the depth-under-keel gauge, "the bottom seems to be coming the fuck up."
 
-"Captain," said Bastian, his eyes on the depth-under-keel gauge, "the bottom is coming up!"
-
-Captain Percy reached above her head for a strap. "Drive boys, Drive." The sea floor was moving, but still far, far below them, so far down that if the boat went down now the _Prospect_ would be crushed into nothing but a greasy stain on that bottom. But it was at least a measurable distance now instead of the unknowable nothingness of the hole.
+Captain Percy reached above her head for a strap. "Drive boys, Drive." The sea floor was moving, but still far, far below them, so far below that if the boat went down now the _Prospect_ would be crushed into nothing but a greasy stain on that bottom. But it was at least a measurable distance now instead of the unknowable nothingness of the hole.
 
 Minutes later the depth-under-keep gauge started rising steadily, like it had intention. It gave the impression that they were moving quickly, though in fact their speed remained steady and crawling, while the slope of the bottom had drastically increased, and was rapidly rising under them, a sheer undersea mountain wall. The depth-under-keel needle rose shockingly fast, in a way that might give the impression they were about to smack into a mountainside, and from there they would slide helplessly back into the black pit. Instead, the needle shot up and back to 250 meters, and then stayed hovering at that level.
 
