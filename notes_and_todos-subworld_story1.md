@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat May 15, 2021  12:30PM
+Last modified: Tue May 18, 2021  11:03PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -19,6 +19,7 @@ Last modified: Sat May 15, 2021  12:30PM
 --------------------------------------------------------------------------------
 :notes:
 * [X] move section headers to .md comments
+* [ ] move repo name on github from story1 to book1
 * [ ] consider breaking chapters into their own files
 	* this might make them easier to manage, particular if you put what the contents of each chapter are in comments at the top
 	* you can edit from one chapter to the next with vim splits
