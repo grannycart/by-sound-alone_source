@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Tue May 18, 2021  11:03PM
+Last modified: Sat May 22, 2021  11:48AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -178,26 +178,27 @@ Last modified: Tue May 18, 2021  11:03PM
 
 #### Seamount:
 * [X] Add 'blatting' to description of authority announcement over ship-to-ship
-* [ ] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
-* [ ] fix creeping towards the seamount:
+* [X] Go back and hit the symbolism of the boat landed on the mountaintop a little harder.
+* [X] fix creeping towards the seamount:
 	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
-* [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
+	* Though they would creep anyway because of the pursuing sub
 * [ ] Would they waste electricity on cooking if they were very low on power?
 * [ ] fix the bumpers stored on deck outside pressure hull?
 	* Seems like maybe they should not be the inflatey kind
+* [ ] make sure you only explain active sonar once
 * [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* a great round sound (probably not, too HHGTTG)
 * [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
 	* (I think her standing station gets established later in the story, make sure it makes sense in the earlier parts of the book)
 	* maybe refer to it explicitly as the 'captain's station'? (akin to the sonar station and the navigation station)
-* [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
-* [ ] make sure you only explain active sonar once
 * [ ] make sure you make it clear early on that Hemi is the 'deck boss'
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
 * [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
 	* decide, edit and then make sure it's reflected in the Prospect notes file
 
 #### Underwater depot
+* [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
+* [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
 * [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 * [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
 * [ ] emphasize the weight of the crates with the warheads earlier
@@ -258,6 +259,8 @@ Last modified: Tue May 18, 2021  11:03PM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
+* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
+	* [ ] It isn't capturing the grittiness enough, build that up
 * [ ] Electric motor(s):
 	* The Prospect has two, plural mostly, but there are places it runs on only one
 	* the Gnat has a single motor
@@ -269,8 +272,7 @@ Last modified: Tue May 18, 2021  11:03PM
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
 	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
-		* and Percy is NOT always right, just most of the time.* [X] 'navigation station'? 'navigation table'?
-	* Seems like this doesn't need to be corrected if it sounds right in text: there can be a navigation table at the navigation station
+		* and Percy is NOT always right, just most of the time.
 * [ ] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place)
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
@@ -314,8 +316,6 @@ Last modified: Tue May 18, 2021  11:03PM
 		* Think about how things play out on Deadliest Catch. Sometimes the motivational speech works... often it doesn't.
 * [ ] keep an eye out for military terms --- avoid
 	* [ ] like generally, you want to remove the word 'orders'
-* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
-	* [ ] It isn't capturing the grittiness enough, build that up
 * [ ] Consider adding more description of the spaces --- particularly inside the Prospect
 	* How is it decorated?
 	* What does it _feel_ like?
@@ -345,6 +345,8 @@ Last modified: Tue May 18, 2021  11:03PM
 	* So at some point, it should be _pulling_ them to the depths
 	* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
 	* The only way they survive in nature's cruelty is through their grimey, rational machine, the submarine. the submarine which always makes sense, if you can just figure it out
+* [X] 'navigation station'? 'navigation table'?
+	* Seems like this doesn't need to be corrected if it sounds right in text: there can be a navigation table at the navigation station
 * [X] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
 	* might be too on-the-nose
