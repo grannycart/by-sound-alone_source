@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat May 22, 2021  11:48AM
+Last modified: Sun May 23, 2021  11:44AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -131,6 +131,9 @@ Last modified: Sat May 22, 2021  11:48AM
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
 * [ ] The name Chips doesn't feel like it's working
+* [ ] Do a search on 'very' and consider removing any
+* [ ] Do a search on 'really' and consider removing any
+* [ ] Search for buoyancy and make sure it is spelled correctly
 * [X] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
 * [X] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
 	* [X] no god-damning either: there is no god
