@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sun May 23, 2021  11:44AM
+Last modified: Fri May 28, 2021  11:28AM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -164,10 +164,10 @@ Last modified: Sun May 23, 2021  11:44AM
 * [X] Give Hemi a beard, like he's captain Nemo. 
 	* The idea is that someone who didn't know better might mistake him for the captain
 	* Do Maori men grow beards? In the 19th C they would often grow them to cover facial tatoos. So Hemi with a beard would have some significance.
-* [ ] Add a minor misdirect at the beginning of the book where someone might mistake Hemi for the captain
-	* [ ] This could be where you add a clearer description of Hemi earlier in the book.
-	* [ ] Maybe he is the first one to climb up onto the bridge
-	* [ ] Seems like it would have to be Shakes who mistakes him for the captain
+* [X] Add a minor misdirect at the beginning of the book where someone might mistake Hemi for the captain
+	* [X] This could be where you add a clearer description of Hemi earlier in the book.
+	* Maybe he is the first one to climb up onto the bridge
+	* [X] Could also be Shakes who mistakes him for the captain
 * [X] bring Sylvia's first name into the story. it's too repetitive to refer to her without it.
 	* though maybe Hemi is the only one who calls her by it
 * [ ] Need to include a description of Percy somewhere early in the book
@@ -186,8 +186,9 @@ Last modified: Sun May 23, 2021  11:44AM
 	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
 	* Though they would creep anyway because of the pursuing sub
 * [ ] Would they waste electricity on cooking if they were very low on power?
-* [ ] fix the bumpers stored on deck outside pressure hull?
+* [X] fix the bumpers stored on deck outside pressure hull?
 	* Seems like maybe they should not be the inflatey kind
+	* Bastian inflates them from a low-pressure fixture. that seems like a cool solution
 * [ ] make sure you only explain active sonar once
 * [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* a great round sound (probably not, too HHGTTG)
@@ -201,6 +202,7 @@ Last modified: Sun May 23, 2021  11:44AM
 
 #### Underwater depot
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
+* [ ] add Shakes chewing coca leaves again
 * [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
 * [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 * [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
@@ -215,6 +217,7 @@ Last modified: Sun May 23, 2021  11:44AM
 	* as they dive, shave-and-a-haircut, shave-and-a-haircut, shave-and-a-haircut taps out above them on the sail.
 * [ ] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
 * [ ] add the term 'scudding clouds' to description during storm
+* [ ] add Shakes chewing coca leaves again
 * [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
 
 #### Stilt City:

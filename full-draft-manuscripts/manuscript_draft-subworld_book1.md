@@ -1,5 +1,5 @@
 manuscript_draft-subworld_book1.md
-Last modified: Thu May 27, 2021  02:44PM
+Last modified: Fri May 28, 2021  11:30AM
 
 
 # Manuscript Draft --- Sub World Book 1
@@ -42,28 +42,28 @@ At first it moved with near silence, other than the sound of the water pushing a
 
 The engines of the machine revved up, and then maintained a loud high pitch, generating energy to drive it forward with controlled and contained combustion and trailing blowing heat. The surfaced ship reached and maintained an unvarying speed.
 
-There was a recessed well set into the top of the dorsal fin. At the bottom of this well, there was the creak of a rusty wheel turning, followed by a crescent moon of red light that split the black well bottom and widened into a perfect circle as a hatch lifted open. The shadow of a figure climbed through it and up a short metal ladder to stand upright on the recessed deck. The smaller first shadow was followed by another much larger shadow. Both figures looked around at the darkness, lit only by the red glow below their feet. They leaned forward and rested against the fairing. The smaller figure made a few extra gestures in the darkness, and a match light glowed against the end of a stubby cigarillo.
+There was a recessed well set into the top of the dorsal fin. At the bottom of this well, rusty wheel creaked and turned. It was followed by a crescent moon of red light that split the black well bottom and widened into a perfect circle as a hatch lifted open. The shadow of a small figure climbed through it and up a short metal ladder to stand upright on the recessed deck. The smaller first shadow was followed by another much larger shadow. Both figures looked around at the darkness, lit only by the red glow below their feet. They leaned forward and rested against the fairing. The smaller figure made a few extra gestures in the darkness, and a match light glowed against the end of a stubby cigarillo.
 
-The glowing coal of the cigarillo swept a thin line in front of them as Captain Sylvia Percy gestured to the darkness. The figure next to her, dwarfing her in size, just nodded. There was no need to describe the all-consuming blackness aloud.
+The glowing coal of the cigarillo swept a thin line in front of them as she gestured to the darkness. The figure next to her, dwarfing her in size, just nodded. There was no need to describe the all-consuming blackness aloud.
 
-"Perfect night for a surface run." Said the giant figure.
+"Perfect night for a surface run." Said the giant figure, stroking his bearded face slowly.
 
-"Perfect night for contemplating your own doom, Hemi." Said Captain Percy.
+"Perfect night for contemplating your own doom, Hemi." Said the smaller figure.
 
-"It seems that in our business, we're always safest when our doom is closest by. Wear your doom like a blanket, Captain."
+"It seems that in our business, we're always safest when our doom is closest by. You should wear your doom like a blanket."
 
-"It's probably best if you keep your imaginative comparisons to yourself Hemi. After all a blanket keeps you warm --- our doom is unlikely to be very warm."
+"It's probably best if you keep your imaginative comparisons to yourself. After all a blanket keeps you warm --- our doom is unlikely to be very warm."
 
-"Perhaps so." Hemi paused breathing in the dense smell of Captain Percy's cigarillo; there was no reason to rush anything this night. "The usual plan for tonight then?"
+"Perhaps so." Hemi paused breathing in the dense smell of the cigarillo; there was no reason to rush anything this night. "The usual plan for tonight then?"
 
-"Same as every other fucking night Hemi. Charge up the batteries --- run on the surface til the light cracks the sky, and then we'll disappear back where we came from under the water. Make sure your keep those insolent fucking pissants at the controls awake though."
+"Same as every other fucking night. Charge up the batteries --- run on the surface til the light cracks the sky, and then we'll disappear back where we came from under the water. Make sure your keep those insolent fucking pissants at the controls awake though."
 
-Hemi put one huge hand on her shoulder and turned to climb down through the hatch. Captain Percy pulled on her cigarillo and the coal at the tip glowed in the darkness. Her doom would probably eventually be a doom of freezing, she knew that, but at least tonight it was warm enough to be up on the top of her ship. The blackness lay on it, and she did indeed find some comfort that in the blackness, nobody could see them. If she controlled all the levers of the universe, her boat would never be seen.
+Hemi put one huge hand on her shoulder and turned to climb down through the hatch. She pulled on her cigarillo and the coal at the tip glowed in the darkness. Her doom would probably eventually be a doom of freezing, she knew that, but at least tonight it was warm enough to be up on the top of her ship. The blackness lay on it, and she did indeed find some comfort that in the blackness, nobody could see them. If she controlled all the levers of the universe, her boat would never be seen.
 
 
 [//]: # (### They get rammed by a black sub)
 
-Captain Percy stayed on the bridge of the her submarine's sail for hours, smoking her way through one cigarillo after another and watching the empty nothingness go by while her thoughts spiraled without direction out into the darkness. For a long time she was surrounded by an environment disturbingly deprived of sensory input. The diesel engines were loud enough, but unvarying. So too the vibration that the engines sent up through the steel-grated deck and shook the rubber of her boot soles never varied in frequency or amplitude. The blackness around her was limitless, though the boat pushed relentlessly forward. It occurred to Captain Percy that when her boat, the _Prospect_ was submerged, this is what it must be like outside --- lightless, unvarying, and often silent. It felt like she had loosed the bonds of her corporal body and had floated beyond it, so she could experience what her boat was like when it was pushing through the icy blackness of an alien world where the pressure would collapse a corporal body into a sickening unrecognizable mush of hemoglobin and fats.
+Captain Sylvia Percy stayed on the bridge of the her submarine's sail for hours, smoking her way through one cigarillo after another and watching the empty nothingness go by while her thoughts spiraled without direction out into the darkness. For a long time she was surrounded by an environment disturbingly deprived of sensory input. The diesel engines were loud enough, but unvarying. So too the vibration that the engines sent up through the steel-grated deck and shook the rubber of her boot soles never varied in frequency or amplitude. The blackness around her was limitless, though the boat pushed relentlessly forward. It occurred to Percy that when her boat, the _Prospect_ was submerged, this is what it must be like outside --- lightless, unvarying, and often silent. It felt like she had loosed the bonds of her corporal body and had floated beyond it, so she could experience what her boat was like when it was pushing through the icy blackness of an alien world where the pressure would collapse a corporal body into a sickening unrecognizable mush of hemoglobin and fats.
 
 As with many things that seem interminable, the slow but persistent forward motion eventually forced the dome of clouds to relent, and they pushed through to crawl out under a sky of stars and a weak, low moon. Captain Percy could see her hand holding her cigarillo now and the long shadow of the _Prospect_ stretching out before her, parting the waters to allow her to pass as she rode astride this beast of hers. This was a pure and rare pleasure on a submarine, where they spent so much of their time in a steel tube staring at the same set of dials and few opportunities to focus one's eyes on anything beyond a meter in front of you.
 
@@ -811,13 +811,13 @@ The ship-to-ship crackled back to life. "Alright. I think I can risk pulling alo
 
 "Hemi," Percy called down to sonar, "we've got ourselves something, though I'm not sure what. You and Bastian come up on deck with me."
 
-Bastian unfolded his long skinny limbs from the control chair and climbed up the through the hatch and up the ladder to the bridge with Percy and Hemi following. The wind was blowing a little harder now and the chop had kicked up a bit. Bastian cupped his hands and lit another cigarette. Percy and Hemi shaded their eyes, scanning the water. It was a few minutes before they saw a small gray oblong object cutting through the choppy little waves. It was a tiny submarine sail, no more than a meter long and high, with a couple of thin whispy antennas trailing from the top in the wind. Unusual for a submarine sail, it had a small view port in the front of it through which the pilot could look. At the rear of the sail a thin stream of diesel smoke floated up and away behind it. The deck of the small sub was totally awash, running just at the surface of the water.
+Bastian unfolded his long skinny limbs from the control chair and climbed through the hatch and up the ladder to the bridge with Percy and Hemi following. The wind was blowing a little harder now and the chop had kicked up a bit more. Bastian cupped his hands and lit another cigarette. Percy and Hemi shaded their eyes, scanning the water. It was a few minutes before they saw a small gray oblong object cutting through the choppy little waves. It was a tiny submarine sail, no more than a meter long and high, with a couple of thin wispy antennas trailing from the top in the wind. Unusual for a submarine sail, it had a small view port in the front of it through which the pilot could look. At the rear of the sail a stream of diesel smoke floated up and away behind it. The deck of the small sub was totally awash, running just at the surface of the water.
 
-As it got closer they could see the big splotchy patches of rust all along the hull of the mini-sub, and a slight oil slick of a trail that it left behind in its very minimal wake. Bastian, Hemi, and Percy climbed over the fairing of the sail of the _Prospect_ and down to the deck. Standing here, Percy was discomforted to see the bow of her boat sitting much lower in the water than usual, still weighted down by the tons of excess ballast water.
+As it got closer they could see the big splotchy patches of rust all along the hull of the mini-sub, and a slight oil slick of a trail that it left behind in its minimal wake. Bastian, Hemi, and Percy climbed over the fairing of the sail of the _Prospect_ and down to the deck. Standing here, Percy was discomforted to see the bow of her boat sitting much lower in the water than usual, still weighed down by the tons of excess ballast water.
 
 A moment passed before a hatch opened at the top of the sail of the mini-sub and a head of a man with spiked yellow hair emerged. His arms were still inside the sail working controls and he was standing propped on something so he could see as he guided the boat alongside the _Prospect_. Bastian opened a wet-storage hatch on the deck and pulled out some large white rubber bumpers that were flat and deflated after being subjected to the pressures of underwater. He connected each to a fixture for the low-pressure compressed air system, and let a little puff of air into the bumpers until they had been restored to more or less their normal shape. Each bumper had a long line that he tied off on deck cleats and lowered down between the two subs.
 
-"Toss a line!" The guy in the sail yelled as he let the engine run on idle and climbed up over the fairing. He was wearing rubber boots as he ran up along the washed deck of the small sub. They were pulled over black leather pants that were cracked and gray at the seams and joints. From the left side of his ancient brown leather belt hung a couple of sizes of adjustable wrenches, the finish on the them beat away, matte and rusting in places from years of banging against each other on his belt, like chimes. He wore a worn black denim vest from which the sleeves had been inexpertly removed, leaving stray threads of denim trailing behind him in the breeze.
+"Toss a line!" The guy in the sail yelled as he let the engine run on idle and climbed up over the fairing. He was wearing rubber boots as he ran up along the washed deck of the small sub. They were pulled over black leather pants that were cracked and gray at the seams and joints. From the left side of his ancient brown leather belt hung a couple of sizes of adjustable wrenches, the finish on the them beat away, matte and rusting in places from years of banging against each other like chimes. He wore a worn black denim vest from which the sleeves had been inexpertly removed leaving stray threads of denim trailing behind him in the breeze and exposing a pair of sinewy pale arms.
 
 Bastian, still with a cigarette between his lips, threw across a line. The man made it fast to a recessed cleat in the hull of the mini-sub, and then repeated the move at the stern. He nimbly leaped across to the hand-holds on the side of the _Prospect_ and climbed up the curving side to the deck.
 
@@ -826,91 +826,99 @@ Bastian, still with a cigarette between his lips, threw across a line. The man m
 
 He looked around with a nervous twitch, and then motioned to Bastian for a cigarette, who cupped his hand and lit it off his own before handing it to the man.
 
-The man took the cigarette in a hand that shook slightly when he reached out, and brought it to his lips and sucked long and hard at it. "Ah fuck thanks. I ran out a couple of days ago. I go by Shakes." He held up his hand in front of them and they could see it tremble slightly in the air. "Ya can see why."
+The man took the cigarette in a hand that shook slightly when he reached out, and brought it to his lips and sucked long and hard at it. "Ah fuck thanks. I ran out a couple of days ago. I go by Shakes." He held up his hand level in front of them and they could see it tremble slightly in the air. "Ya can see why." Shakes looked at Hemi standing just ahead of Percy with his black beard wafting in the breeze. "You the captain?"
 
-"That's a hell of a craft ya got there Shakes." Said Hemi.
+Hemi nodded toward Percy who was still looking at the mini-sub. "That's a hell of a craft ya got there Shakes." She said.
 
-"Like it? I built it my fuckin self. Welded it together on the top of a mountain coffee farm from scraps. They had a bunch of land higher up where the coffee don't grow, and it seemed like a good place to build a boat. It was. Cept it wasn't a good place to launch a boat from. Getting it down to the water was more difficult than the buildin'."
+"Like it? I built it my fuckin' self. Welded it together on the top of a mountain coffee farm from rotting scraps of metal. They had a bunch of land higher up where the coffee don't grow, and it seemed like a good place to build a boat. It was. Cept it wasn't a good place to launch a boat from. Getting it down to the water was fucking way more difficult than the buildin'."
 
 "I could imagine." Said Hemi.
 
 "I've heard of this kind of thing," said Percy, "run fast and just below the surface. Basically invisible to any kind of radar, and too quiet for most sonar. Good for... small shipments?"
 
-"Ay, 'Specialty shipments' --- when stuff has to be got somewhere fast with no questions asked. Just not too much stuff. I also built in a few special modifications --- this here ship is the fastest and most versatile in its class!" Hemi looked doubtfully at the rusting bulbous hulk alongside. "Most of these kinds of homemade jobs just run at the surface; I added some batteries and some trim tanks, and this here boat, the _Gnat_ is the name, can _dive_. Run a bit under water, just enough to get away from any curious onlookers."
+"Ay, 'Specialty shipments' --- when stuff has to be got somewhere fast with no questions asked. Just not too much stuff. I also built in a few special modifications --- this here ship is the fastest and most versatile in its fucking class!" 
+
+Hemi looked at the rusting bulbous hulk alongside and doubted there was any class of vessel that would accept it. 
+
+Shakes continued. "Most of these homemade jobs just run at the surface; I added some batteries and some trim tanks, and this here boat, the _Gnat_ is the name, can _dive_. Run a bit under water, just enough to get away from any curious onlookers."
 
 "How deep?" Asked Hemi.
 
 "Maybe 30 meters on a good day. You don't have to go very deep to hide in something so small."
 
-"How fast?" Hemi's curiosity was peaked now.
+"How fast?" Hemi could not deny his curiosity now.
 
 Shakes grinned. "Faster than this fuckin' tub." He said kicking the toe of his rubber boot against the hull of the _Prospect_. 
 
-Percy frowned. "Welp, that's an impressive submersible hobby you got there, but have any of you got any ideas how this is going to help get my boat moving? You ain't carrying a load of diesel fuel are ya Mr. Shakes?"
+Percy frowned. "Welp, that's an impressive submersible hobby you got there. But has anyone here got an idea how how we're going to get my fucking boat moving? You ain't carrying a load of fucking diesel fuel are you Mr. Shakes?"
 
-"Can't say I am. And I can't say what I _am_ carrying, ceptin' that I can't see how any of it could help you. Still, if I can do anything to assist, I'm game. I'm pretty convinced y'all ain't some Authority ruse, and we smugglers gotta stick together, I say."
+"Captain Shakes, if you fuckin' please. And I certainly ain't got fucking fuel to spare. And I can't say what I _am_ carrying, ceptin' that I can't see how any of it could help you. Still, if I can do anything to assist, I'm game. I'm pretty convinced y'all ain't some Authority ruse, and we smugglers gotta stick together, I say."
 
 "We're not smugglers." Said Percy, her eye firmly locked on Shakes'. "We're independent logistics operators."
 
-"Ain't we all!" Said Shakes. "Honestly, I ain't got much in the way of ideas for ya. I was thinking maybe you was the smart ones. From what I can see y'all are fuckin' fucked. Best I can say is I could run into my destination port and send some friendly bigger boat back out for ya. But that'll probably take a couple of days."
+"Ain't we all!" Said Shakes. "Honestly, I ain't got much in the way of ideas for ya. I was thinking maybe you was the smart ones. From what I can see y'all are fuckin' fucked. Best I can say is I could run into my destination port and send some friendly bigger boat back out for ya. But that'll probably take a couple fuckin' days at least."
 
 
 [//]: # (### they find out about the depot from Shakes)
 
-"In a couple of days we'll either be sunk or in an Authority holding cell. There's gotta be a better option. Hemi?"
+"In a couple of days we'll either be sunk or in an Authority holding cell. There's gotta be a better option. Hemi?" Percy looked at up at him.
 
-"Well, nothing immediately comes to mind. But that's with limited information. If a new option has arisen, it will be aboard the _Gnat_. But to sort that out, I'll have to get in there and take a look at what resources you've got Shakes. I'm not sure how willing you are to let me do that."
+"Well, nothing immediately comes to mind. But that is with limited information. If a new option has arisen, it will be aboard the _Gnat_. But to sort that out, I would have to get in there and take a look at what resources you've got Shakes. I'm not sure how willing you are to let me do that."
 
-Shakes didn't say anything, but pulled on his cigarette and watched the exhaled smoke quickly sucked out over the water by the breeze.
+Shakes did not say anything, but pulled on his cigarette and watched the exhaled smoke quickly sucked out over the water by the breeze.
 
-"Mind if we ask where yer headed Shakes?" Asked Percy
+"Mind if we ask where yer headed Captain Shakes?" Asked Percy
 
-"Ay, I was about to fuckin say anyway: there's a mid-sea depot about 100 miles from here. It's just over the line in the waters of a different Authority. Somewhat more permissive folks; bit more friendly to commerce. That's why the Authority on this side of the line are such a bunch of aggressive motherfuckin' assholes though --- they don't want shit running through here to there. If you can get this tub of yers to the depot, you can definitely get fuel there, and probably some poorly executed and overpriced repairs as well."
+"Ay, I was about to fuckin' say anyway: there's a mid-sea depot about 100 miles from here. It's just over the line in the waters of a different Authority. Somewhat more permissive folks; bit more friendly to commerce. That's why the Authority on this side of the line are such a bunch of aggressive motherfuckin' assholes though --- they don't want shit running through here to there. If you can get this tub of yers to the depot, you can definitely get fuel there, and probably some fuckin' poorly executed and overpriced repairs as well."
 
-"Sounds like a fucking Eden." Said Percy. "Look, we aren't the type to ask for help, and I hate imposing on other folks business, just as I don't want 'em imposing on mine. But you can see we're more than a little desperate here. If you can allow Hemi --- and just Hemi --- aboard to take some specs of your boat, see if you're carrying anything he can use, we'll make it up to you at the depot. ...though honestly at the moment about all we can offer you is hot food."
+"Sounds like a fucking Eden." Said Percy. "Look, we aren't the type to ask for help, and I hate imposing on other folks business, just as I don't want 'em imposing on mine. But you can see we're more than a little desperate here. If you can allow Hemi --- and just Hemi --- aboard to take some specs of your boat, see if you're carrying anything he can use, we'll make it up to you at the depot. ...though at the current moment about all we can offer you is hot food."
 
 Shakes eyes brightened at that. "Hrm. Well I ain't been eating nothing but cold chow straight from the can for days now. A hot meal is a strong offer yer puttin' on the fuckin' table there. Alright. This big guy, and this big guy alone. And he don't look at nothing I don't want him to look at, and he don't get answers to no questions I don't want to answer. No pushin', right?"
 
 "No pushing." Said Hemi.
 
-"Right. Hang back a minute, let me go look around in there first, make sure all my pornography is put away. When I give you the signal, come across."
+"Right. Hang back a minute, let me go look around in there first, make sure all my fuckin' pornography is put away. When I give you the signal, come across."
 
 Percy grinned as Shakes lowered himself down the side and leapt nimbly over the dangerous gap between the two boats. He disappeared into the sail hatch of the _Gnat_.
 
 "Interesting character." Said Hemi.
 
-"Solo operators... nobody who is comfortable spending days or weeks at sea alone --- eating cold canned food, no less --- ever totally has their head screwed on fucking right. Anyway, it doesn't matter how pleasant a person he is. The question is, is there _anything_ you can do with that boat that's going to help us?"
+"Solo operators... nobody who is comfortable spending days or weeks at sea alone --- eating cold canned food, no fucking less --- ever totally has their head screwed on fucking right. Anyway, it doesn't matter how pleasant a person he is. The question is, is there _anything_ you can do with that boat that's going to help us?"
 
-"I'm not entirely hopeful. It's not much of a craft, and is not likely to have much in the way of resources aboard. Frankly, I'm surprised he isn't lost and dead in the water himself."
+"I'm not entirely hopeful. It's not much of a craft, and is not likely to have much in the way of resources aboard. Frankly, I am surprised he is not lost and dead in the water himself."
 
-"Find us something Hemi. And don't do anything to set off that tweaked motherfucker while you're over there though."
+"Find us something Hemi. But don't do anything to set off that fuckin' tweaked motherfucker while you're over there."
 
 "I shall be a lamb among the lions."
 
-From the sail of the _Gnat_ Shakes' head and arm popped up and gestured. "Come on over man-mountain. Mind the gap!"
+From the sail of the _Gnat_ Shakes' head and arm popped up and gestured. "Come on over man-mountain. Mind the fuckin' gap!"
 
-Hemi was just as nimble at hopping the gap as Shakes has been, but it was a more interesting move to watch because of his great size. Hemi was wearing conventional leather boots and the water washing the deck of the _Gnat_ was wetting the lower part of his legs, soaking his wools pants. He stepped up and over in the open hatch in the sail, and from where Percy was watching, it seemed for a moment like there was no way his bulk would get into that tiny hatch. But Hemi disappeared into the boat just as quickly as Shakes did.
+Hemi was just as nimble at hopping the gap as Shakes had been, but his size made it a more interesting move to watch. Hemi was wearing heavy but conventional leather boots and the water washing the deck of the _Gnat_ was wetting the lower part of his legs, soaking the tweed pants of his suit. He stepped up and over the open hatch in the sail, and from where Percy was watching, it seemed for a moment like there was no way his bulk would get into that tiny hatch. But Hemi disappeared into the boat just as quickly as Shakes did.
 
 Percy gave Bastian a pull on the sleeve, and he tossed a smoked-out butt into the ocean before they climbed up the sail and back inside the _Prospect_.
 
 
 [//]: # (### On board the _Gnat_)
 
-"So what do you think?" Asked Shakes. "Ain't it the finest boat ye ever had the pleasure of dropping inside of?" Shakes seemed genuinely proud.
+"So what do you think?" Asked Shakes. "Ain't it the finest fuckin' boat ya ever had the pleasure of dropping inside of?" Shakes seemed genuinely proud.
 
 "It's certainly a masterpiece of the genre." Even more evenly than usual.
 
-Hemi had spent nearly his entire life among and inside filthy machines, but he had never seen anything where the grime lay down as thickly as this. There was literal garbage all over the deck: empty cans rolling back back and forth with the swell, candy wrappers, and an ashtray that seemed like it hadn't been used for ash but merely as a target to toss used butts at, most of which had missed and were on the deck. 
+Hemi had spent nearly his entire life among and inside filthy machines, but he had never seen anything where the grime lay down as thickly as this. There was literal garbage all over the deck: empty cans rolling back back and forth with the swell, candy wrappers, various greasy machines parts, and an ashtray that seemed like it had not been used for ash but merely as a target to toss used butts at, most of which had missed and lay scattered about. 
 
 There were stacks of pornography --- Shakes had not bothered to hide any of it, or at least Hemi hoped that was true, because the stacks that were out were of a class so deviant that Hemi could not imagine what Shakes would have deigned feel needed to be hidden.
 
-In one space recessed between the supports of the pressure hull were stacks of greasy cans still unopened. The labels had been peeled off and the contents written on them in grease pencil. Most appeared to be of some variety of highly-salted pasta-and-sauce. In another recess was a bin with what must have been a hundred different types of puzzle games that all had the basic premise that required squares of color that to be to sorted. Every single last puzzle was solved. 
+In one space recessed between the supports of the pressure hull were columns of greasy cans still unopened. The labels had been peeled off and the contents written on them in grease pencil. Most appeared to be of some variety of highly-salted pasta-and-sauce. In another recess was a bin with what must have been a hundred different types of puzzle games that all had the basic premise of requiring squares of color to be sorted alike. Every single last puzzle was solved. 
 
-The controls to the sub were aligned with and partially inside of the sail. The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright in the sail, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section, and more behind the controls in about the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so they could get past the crates.
+[//]: # (Shakes has some kind of idiot-genius. Also a lot of time on his hands.)
 
-[//]: # (Somewhere in here: have Hemi comment on the airplane-style controls? Maybe move that to later when Hemi is riding with Shakes and the magnetic mines.)
+The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were arranged airplane-style: with a single yoke that controlled both the angle and direction of the boat, a pretty sophisticated system for a hand-built machine.
 
-"Y'all woke me from a nap with the ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the engines and batteries and whatnot? They're towards the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and began masticating them slowly.
+The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright in the sail, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More were arranges behind the controls in about the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so they could get past the crates.
+
+"Y'all woke me from a nap with the ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the engines and batteries and whatnot? They're toward the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and began masticating them slowly.
+
+[//]: # (Shakes chews coca leaves --- he got into them building sub on the coffee farm in the mountains.)
 
 "Yes, the engines first if you please." Hemi squeezed past the crates and pulled a small notebook and pencil from an inside pocket of his tweed jacket. The engine was massive and took up the entire rear third of the boat. Now Hemi was genuinely impressed. "That's a lot of engine for such a small boat."
 
