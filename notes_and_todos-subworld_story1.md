@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri May 28, 2021  11:28AM
+Last modified: Fri May 28, 2021  12:52PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -20,6 +20,7 @@ Last modified: Fri May 28, 2021  11:28AM
 :notes:
 * [X] move section headers to .md comments
 * [ ] move repo name on github from story1 to book1
+* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 * [ ] consider breaking chapters into their own files
 	* this might make them easier to manage, particular if you put what the contents of each chapter are in comments at the top
 	* you can edit from one chapter to the next with vim splits
@@ -55,6 +56,7 @@ Last modified: Fri May 28, 2021  11:28AM
 		* The worst thing you can do to an audience is mislead them about what a book might be;
 		* And the audience will punish anyone they feel mislead by
 	* If you do a preview edition, or even a first edition, you could make your own cover from the WWII Tang drawings
+	* If you come up with a symbol for the Prospect, make sure it is shown on an illustrated cover
 * [X] Draw diagrams of the Prospect and Gnat. Include with story.
 	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
 	* (No copyright problems, those are federal gov't drawings)
