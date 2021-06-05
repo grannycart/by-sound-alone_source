@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Fri May 28, 2021  12:52PM
+Last modified: Sat Jun 05, 2021  12:26PM
 
 # Subworld Story 1 --- general notes and todos
 * [notes and todos](#notes)
@@ -187,7 +187,8 @@ Last modified: Fri May 28, 2021  12:52PM
 * [X] fix creeping towards the seamount:
 	* I think creeping allows the batteries to last long, but if you're going for distance, you can probably go at speed.
 	* Though they would creep anyway because of the pursuing sub
-* [ ] Would they waste electricity on cooking if they were very low on power?
+* [X] Would they waste electricity on cooking if they were very low on power?
+	* I'm just not going to address this in the text
 * [X] fix the bumpers stored on deck outside pressure hull?
 	* Seems like maybe they should not be the inflatey kind
 	* Bastian inflates them from a low-pressure fixture. that seems like a cool solution
@@ -289,6 +290,7 @@ Last modified: Fri May 28, 2021  12:52PM
 * [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [ ] consider using 'nominal' to mean anything you want it to.
 	* might be too on-the-nose
+* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
 * [ ] Hemi calls Percy "Sylvia"; everyone else calls her captain
 * [ ] have the junior crew call hemi 'boss'
 * [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'

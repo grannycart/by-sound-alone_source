@@ -1,5 +1,5 @@
 manuscript_draft-subworld_book1.md
-Last modified: Fri May 28, 2021  11:30AM
+Last modified: Sat Jun 05, 2021  12:26PM
 
 
 # Manuscript Draft --- Sub World Book 1
@@ -914,29 +914,29 @@ In one space recessed between the supports of the pressure hull were columns of 
 
 The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were arranged airplane-style: with a single yoke that controlled both the angle and direction of the boat, a pretty sophisticated system for a hand-built machine.
 
-The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright in the sail, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More were arranges behind the controls in about the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so they could get past the crates.
+The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright in the sail, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More were arranged behind the controls located about the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so there was enough room to pass the crates.
 
-"Y'all woke me from a nap with the ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the engines and batteries and whatnot? They're toward the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and began masticating them slowly.
+"Y'all woke me from a nap with the ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the fuckin' engines and batteries and whatnot? They're toward the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and masticated them slowly.
 
 [//]: # (Shakes chews coca leaves --- he got into them building sub on the coffee farm in the mountains.)
 
 "Yes, the engines first if you please." Hemi squeezed past the crates and pulled a small notebook and pencil from an inside pocket of his tweed jacket. The engine was massive and took up the entire rear third of the boat. Now Hemi was genuinely impressed. "That's a lot of engine for such a small boat."
 
-"Took the fuckin' thing out of a tractor that had been rusting broken down in a field for years on the coffee farm. Had to build a gantry and borrow another tractor to haul it up the mountain to where I was building the _Gnat_ and get it installed. Direct-drive to the prop, none of that electric-motor shit."
+"Took the fuckin' thing out of a tractor that had been rusting broken down in a field for years on the coffee farm. Had to build a gantry and borrow another tractor to haul it up the mountain to where I was building the _Gnat_ and get it installed. Direct-drive to the prop, so it's a genuine boat engine, not just a glorified generator to power an electric motor."
 
 The configuration was obvious to Hemi. The grease-covered steel drive shaft came straight out the back end of the diesel running along the center-line of the boat and out through the stern, like an egg on its side, pierced by a needle.
 
 "But you said it's got batteries too, the boat can swim underwater?"
 
-"Ya, the direct-shaft--drive means I've gotta have a transmission of course, and I worked with a mechanical genius on the coffee farm to build this fancy-ass transmission that I can switch over to that electric motor to drive.  It's a fucking grind though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small --- it's fuckin' slow; though silent as a submerged graveyard."
+"Ya, the direct-shaft--drive means I've gotta have a transmission of course, and I worked with a fuckin' mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fucking grind though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small --- it's fuckin' slow; though silent as a sunken fuckin' graveyard."
 
-"It is the finest piece of mountain-top engineering I've ever seen on the sea." Said Hemi. 
+"It is the finest piece of mountain-top engineering I've ever seen on the sea." Said Hemi, honestly. 
 
 Shakes grinned.
 
 "And the batteries?"
 
-"Batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them, as they do right now, if that helps somehow. Obviously not enough to power your giant tub over there."
+"Batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them, as they do right now, if that helps somehow. Obviously not enough juice to power your giant fuckin' tub over there."
 
 "No, not nearly. How much fuel do you have?"
 
@@ -944,95 +944,105 @@ Shakes grinned.
 
 Hemi scribbled some calculations. "How much standard horse power does that engine have exactly? No, actually, how much horse power does your electric motor have?"
 
-"Fuck if I know. Hang on, I have a manual around here somewhere." Shakes pulled open a small steel door of a cabinet mounted on the wall and handed Hemi a manual covered with black finger prints and gray-stained pages. While Hemi flipped through it and jotted in his little notebook, Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil dripping from the diesel engine and ran it through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt.
+"Fuck if I know. Hang on, I have a manual around here somewhere." Shakes pulled open a small steel door of a cabinet mounted on the wall and handed Hemi a manual covered with black finger prints and gray-stained pages. While Hemi flipped through it and jotted in his little notebook, Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt.
 
-Hemi looked at him through the small frames of his glasses. "Can I borrow this manual? And do you have one for the diesel too?"
+Hemi looked up from the manual at Shakes through the small frames of his glasses. "Can I borrow this manual? And do you have one for the diesel too?"
 
-"Ya here." Said Shakes, handing Hemi an even fatter manual that was stained far more heavily, and had a couple of thick black lines along the ends of the pages of the sections most heavily used.
+[//]: # (Why is Hemi asking for the manual? Is it something about trying to calculate the Gnat's fuel consumption rates? Isn't the only thing he needs to know the remaining fuel and electricity?)
 
-"Alright, I need to and sit down with my numbers and do some figuring. I also want to look at the charts with you so you can show me where this depot is. I think its time to go back across to the _Prospect_.
+"Ya here." Said Shakes, handing Hemi an even fatter manual that was stained far more heavily, and had a couple of thick black lines along the page edges indicating the most heavily used sections.
 
-After making the jump back to the bigger boat, Shakes and Hemi settled down over the _Prospect's_ navigation charts. "OK, where's this depot Shakes?"
+"Alright, I need to and sit down with my numbers and do some figuring. I also want to look at the charts with you so you can show me where this depot is. I think it is time to go back across to the _Prospect_.
 
-Shakes pulled down the magnifier and scanned across the chart. "Wait, where are we now?" Hemi pointed to the obvious small x at the end of a string of grease pencil dashes. "Let's see.." Shakes tapped his wavering finger against the glass covering the chart, and rotated the magnified around in slow circles. "Ah, here!" Shakes said pointing to a small island marked on the chart and labeled only "deserted."
+After making the jump back to the bigger boat, Shakes and Hemi settled down over the _Prospect's_ navigation charts. "OK, where is this depot Captain Shakes?"
 
-"That's your major trade center?" Asked Hemi. "A deserted island?"
+Shakes pulled down the magnifier and scanned across the chart. "Wait, where are we now?" Hemi pointed to the obvious small x at the end of a string of grease pencil dashes. "Let's see.." Shakes tapped his black-stained, wavering finger against the glass covering the chart and rotated the magnifier around in slow circles. "Ah, here!" Shakes said pointing to a small island marked on the chart and labeled only "deserted."
 
-"Well, 'major' might be a bit fuckin' descriptive." Said Shakes. "But look." He took the grease pencil and drew a lightweight but long line across the ocean. "The Territorial Authority boundary is roughly about here. With total assholes on this side, and sort-of assholes on the other. So you can see how it makes sense to put a depot on that deserted island just across the line to help facilitate trade in, out, and through assolevania over here.
+"That is your major trade center?" Asked Hemi. "A deserted island?"
 
-"That's true." Said Hemi, taking a pair of calipers and measuring the distance from their current position to the deserted island.  "I hope you're right about there being a depot there. There's no way we'll make it any further than that."
+"Well, 'major' might be a bit fuckin' descriptive." Said Shakes. "But look." He took the grease pencil and drew a lightweight but long line across hundreds of miles of ocean. "The Territorial Authority boundary is roughly about here. With total assholes on this side we are currently on, and only sort-of assholes on the other. So you can see how it makes sense to put a depot on that deserted island just across the line to help facilitate trade in, out, and through assholevania over here.
 
-"It'll be there!" 
+"That is true." Said Hemi, taking a pair of calipers and measuring the distance from their current position to the deserted island.  "I hope you're right about a depot being there. We will not make it any further than that."
 
-Hemi sniffed. "Smells like there's probably some food ready. Want to eat?" Said Hemi. 
+"It'll fuckin' be there!" 
 
-"Shit yeah. I'm starved!"
+Hemi sniffed. "Smells like food may be ready. Want to eat?" Said Hemi. 
+
+"Shit yeah. My gut is fuckin' gaping."
 
 
 [//]: # (### A meal aboard the Prospect)
 
-Hemi and Shakes came into the galley of the _Prospect_ with Captain Percy and Bastian already there, crammed into the tight seating around the table. Gregory was working a giant cast iron pan at the stove that was so heavy with frying rice that he struggled to shake it with one hand --- a gesture he felt was necessary to keep the rice moving and frying evenly.
+Hemi and Shakes came into the galley of the _Prospect_ with Captain Percy and Bastian already there crammed into the tight seating around the table. Gregory was working a giant cast iron pan at the stove that was so heavy with frying rice that the wiry muscles of the arm controlling the pan bulged with the effort of shaking it --- a gesture he felt was necessary to keep the rice moving and frying evenly.
+
+[//]: # (Would they have a gas range on a sub? Or would it be electric. If electric, would they waste power cooking food?)
 
 Gregory looked up when Hemi and Shakes came in. Hemi introduced Shakes.
 
-"Fuck yeah," said Shakes eyeing the pile of frying rice. "I ain't eaten nothing but cold canned pasta for a week."
+"Fuck yeah," said Shakes eyeing the pile of frying rice. "I ain't eaten nothing but cold fucking canned pasta for a week."
 
-"None of your canned garbage food here, Shakes." Said Gregory, grinding the pan back and forth across the range. "This is real submariner's food. Everything good that can't go bad. Rice, eggs, cabbage..."
+"None of your canned garbage food here, Captain Shakes." Said Gregory, grinding the pan back and forth across the range. "This is real submariner's food. Everything good that can't go bad. Rice, eggs, cabbage..."
 
-"Are you putting that foul slimy-gray pickled cabbage in the rice Gregory?" Asked Bastian. "You'll be killing submariners if submariner's food is that real."
+"Are you putting that fucking foul slimy-gray pickled cabbage in the rice Gregory?" Asked Bastian. "You'll be killing submariners if submariner's food is that fucking real."
 
-Gregory huffed. "My ol' pap worked a galley in a submarine in the wars. He used to say 'if you can heat it, you can eat it.' And this shit's gonna be plenty hot." Gregory dumped in an entire container of the questionable pickled cabbage, and stirred it around as the sound of frying drowned out any conversation. He only stirred it for a few minutes mote. 
+Gregory huffed. "My ol' pap worked a submarine galley in the wars. He used to say 'if you can heat it, you can eat it.' And this shit's gonna be plenty fucking hot." Gregory dumped in an entire container of the questionable pickled cabbage, and stirred it around as the sound of frying drowned out any conversation. This process only lasted a few minutes more. 
 
-"Shakes, for helping us out, you're up first." Gregory cracked an egg onto an already heating smaller frying pan next to the giant one full of rice. As it sizzled on the slick black surface, Gregory dumped huge piles of rice into a big bowl and handed it to Shakes. The rice was browned by the black salty sauces Gregory had poured into it, and steaming bits of cabbage slithered through it. It was flecked with red and black pepper, and in a few places crusty black and somewhat burnt. Shakes was about to dig a fork in when Gregory slipped the fried egg on top with a spatula. Its white was stained an oily, slightly gray color, and the glowing orange yolk a wiggling skin with hot liquid about to burst from the inside.
+"Captain Shakes, for helping us out, you're up first." Gregory cracked an egg onto an already heating smaller frying pan next to the giant one full of rice. As it sizzled on the creosote surface, Gregory dumped huge piles of rice into a big bowl and handed it to Shakes. The rice was browned by the black salty sauces Gregory had poured into it, and burned to a crusty-black crunchiness in places. Steaming bits of cabbage slithered through flecked with red and black pepper. Shakes was about to dig a fork in when Gregory slipped the fried egg on top with a spatula. Its white was stained an oily, slightly gray color, and the glowing orange yolk was held in place by a wiggling skin with hot liquid about to burst from the inside.
 
 Shakes grinned before plunging the tines of his fork into the yolk and letting it run into his rice. He then started working his way into his bowl with an uninterrupted shoveling motion of his fork from the bowl to his mouth.
 
 Gregory served up the rest of the crew the same way. Captain Percy asked him to run up to the control room and get on the PA and tell Owen to come up for some grub.
 
-Hemi sat at the end of the table with Shakes electric motor manual open in front of him, eating his rice with one hand while scribbling down notes in the other.
+Hemi sat at the end of the table with Shakes' electric motor manual open in front of him, eating his rice with one hand while scribbling down notes in the other.
+
+[//]: # (Again, why is Hemi reading the manual here? I have no fucking idea.)
 
 Their hunger got the better of any conversation for a few minutes as they moved mounds of rice, egg, and cabbage. Gregory served himself and sat down, and got back up a few minutes later to fry another egg for Owen when he arrived. A few minutes later had to get up to make Shakes another egg. All told, every one of them had at least two servings and Owen and Shakes each ate three servings apiece. Gregory never got to sit for more than a minute, and when no more eggs were being demanded, he got up again to put coffee on.
 
 Between forkfuls of rice, Percy tried to get an assessment of the situation on her boat. "Owen, have you been down in the cargo hold?" Owen nodded, his crop fully loaded. "How's the patch looking?"
 
-Owen swallowed, and then swallowed again. "I'm hardly an expert on welding or repairs, but I'd say it looks pretty bad. The patches are an ugly mess, and I'm pretty sure the water level is rising again, though slowly."
+Owen swallowed, and then swallowed again. "I'm hardly an expert on welding or repairs, but I'd say it looks pretty bad. The patches are an ugly mess, and I'm pretty sure the water level is rising again, though more fucking slowly."
 
 "Can you work on it? Can you clean up those welds, get the leaking stopped?" Percy asked.
 
-"I can try. But you know it's delicate work that I'm just starting to figure out. There's a chance I could just make it worse --- burn a hole right through the hull. If you ask me, I think you need Chips to keep working on it."
+"I can try. But you know it's delicate work that I'm just starting to figure out. There's a chance I could just make it worse --- burn a hole right through the hull. If you ask me, I think you need Chips to work on it."
 
-Hemi looked at his food instead of the manual. Percy ground her fork against her tin plate. "I didn't ask your fucking opinion ya little shit. I asked if you can fix it."
+Hemi looked at his food instead of the manual. Percy ground her fork against her tin plate. "I didn't ask your fucking opinion you little shit. I asked if you can fucking fix it."
 
-"Yeah, Percy. No sweat." Owen poked at his food a little less hungrily.
+"Yeah, Captain Percy. No fuckin' sweat." Owen poked at his food a little less hungrily.
 
-"Finish your food and get your skinny ass back down there."
+"Finish your food and get your skinny ass back the fuck down there."
 
-"Percy," Hemi said, not looking up from his food. "I really think you need to do what you can to get Chips back down there and welding."
+"Sylvia," Hemi said, not looking up from his food. "I really think you need to do what you can to get Chips back down there and welding."
 
 She pounded the table, and looked up, breathing through her nostrils. "Fuck."
 
 
 [//]: # (### A plan)
 
-Owen took his coffee to go, and headed back down to try and keep reinforcing Chips' patch. When the rest of them finally all had a cup of coffee in front of them, and the empty bowls pushed into the middle of the table, Percy brought them to order. "Next agenda item: assuming we don't sink, how to get this boat moving again?"
+Owen took his coffee to go, and headed back down to try and keep reinforcing Chips' patch. When there was finally a cup of coffee in front of all of them, and the empty bowls pushed into the middle of the table, Percy brought them to order. "Next agenda item: assuming we don't fucking sink, how to get this boat moving again?" She looked at Hemi.
 
-Hemi put his pencil down. "Maybe some of you are familiar with the Angler fish?" Hemi asked. "In some species the female is enormous compared to the male, maybe like a hundred times bigger. The females are complex, highly evolved organisms, with sophisticated traps for catching and devouring other fish. The males are nothing but tiny sperm repositories. They swim around until they find a female, attach themselves to the female's underside, and then fuse with her body, essentially becoming nothing but a sperm organ for her."
+Hemi put his pencil down. "Perhaps in your time on the sea some of you became familiar with the Angler fish? In some species the female is enormous compared to the male, maybe a hundred times bigger. The females are complex, highly evolved organisms, with sophisticated traps for catching and devouring other fish. The males are nothing but tiny sperm repositories. They swim around until they find a female, attach themselves to the female's underside, and then fuse with her body, essentially becoming merely a sperm organ for her."
 
-"Hemi, let's try stepping around the metaphor and getting to the point." Said Captain Percy.
+"Hemi, let's try stepping around the fucking long-winded metaphor and getting to the fucking point." Said Captain Percy.
 
-"Here's what I propose," continued Hemi, "The _Prospect_ has a hatch with a mating collar on the bottom side of the boat. Normally we use that for underwater docking in situations where we need to dock on someone's topside hatch. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. Kinda like a male anglerfish..."
+"Here is what I propose," continued Hemi, "The _Prospect_ has a hatch with a mating collar on the bottom side of the boat. Normally we use that for underwater docking in situations where we need to dock on a topside hatch. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. Kinda like a male anglerfish..."
 
 "Got it." Percy interrupted. "And you think there's enough juice left in the _Gnat_ to take us both to the depot like that?"
 
 "We have to cut everything to the bone, but the math says we could make it. _Could_."
 
-"And what the fuck do I get from your biology lesson?" Asked Shakes. "This plan is really me casting my lot in with you losers. Basically I'm donating all my fuel to you and hoping I can piggyback in, right?"
+"And what the fuck do I get from your little fuckin' biology lesson?" Asked Shakes. "This fucking fundamentals of this plan is really me casting my lot in with you losers. Basically I'm donating all my fuel to you and hoping I can piggyback in, right?"
 
 "We can pay you for the fuel Shakes." Said Percy.
 
-"Plus we'll be fitting a nice mating collar onto the _Gnat_, you might find some use for that in the future." Said Hemi. "Think of it as a deluxe feature."
+"_Captain_ Shakes." Said Shakes.
 
-"And hot meals for til we get to the depot. I got a propane stove stowed somewhere, so we don't have to waste any more precious electricity on cooking." Added Gregory.
+"Plus we will need to fit a nice mating collar onto the _Gnat_. You may find that to be of some use in the future." Said Hemi. "Think of it as a deluxe feature."
+
+"And hot meals til we get to the depot." Added Gregory.
+
+[//]: # ("I got a propane stove stowed somewhere, so we don't have to waste any more precious electricity on cooking." --- could be something Gregory says here.)
 
 Shakes, perhaps more driven by his stomach than he cared to admit, considered. "I want double the value of the fuel."
 
@@ -1040,64 +1050,68 @@ Shakes, perhaps more driven by his stomach than he cared to admit, considered. "
 
 "And you're buying a dinner of _good_ food at the depot."
 
+"Fuck you!" Said Gregory.
+
 "Done." Said Percy.
 
 "And... I want you to keep a line open to me on any future job possibilities."
 
-"What.. like partners?" Bristled Percy.
+"What.. like fuckin' partners?" Percy bristled.
 
-"Fuck no. I work alone. But a man has to have a network in this game. I want you to be a big node on my network, feeding me future prospects."
+"Fuck no. I work alone. But an operator has to have a network in this fuckin' game. I want you to be a big node on my network, feeding me future prospects. That way I get long-term payoffs for my investment in your sorry-add fuckin' futures right now."
 
-"Alright. Any job that seems suitable for a specialty cargo hauler like yourself, I will happily send your way."
+"Alright. Any job that seems suitable for a specialty cargo hauler like yourself, I will happily send your fuckin' way."
 
-Shakes grinned. Now they were working in a space he understood --- the most profit came from future options. "So Hemi, what exactly are you going to do to my beautiful boat?"
+Shakes grinned. Now they were working in a space he understood --- most profit is future profit. "So Hemi, what exactly are you going to do to my beautiful fucking boat?"
 
-"Well," he said, looking at Percy, "first, we gotta rouse Chips. She's the only one on board who might know how to fit a mating collar that could work."
+"Well," Hemi said, looking at Percy, "first, we need to rouse Chips. She is the only one on board who might know how to fit a mating collar that could work."
 
-Percy was holding her fork in her fist, and grinding the tines back and forth against the tin plate, leaving deepening lines of scratches. Percy and Shakes both looked at her. "Alright, Fuck. Hemi, go see if you can rehire Chips on a _temporary_ and ad hoc basis to do some of this welding we need. I don't want to see her though, keep her out of my way or I might bodily throw her off the boat."
+Percy was holding her fork in her fist, and grinding the tines back and forth against the tin plate, leaving deepening scratch lines. Percy and Shakes both looked at her. "Alright, Fuck. Hemi, go see if you can rehire Chips on a _temporary_ and ad-fucking-hoc basis to do some of this welding we need. I don't want to see her though, keep her out of my way or I might bodily throw her off the fucking boat."
 
 
 [//]: # (### They reconcile with Chips and talk about fitting mating collar to the Gnat)
 
 Hemi loaded up another bowl of rice and led Shakes to the crew quarters where they found Chips in her rack with the curtains drawn. 
 
-"Chips," Hemi addressed the curtain, "I brought you some food, ya want it?"
+"Chips," Hemi addressed the curtain, "I brought you some food."
 
-"Ah fuck you and your gestures Hem'," came a muffled voice from behind the curtain. "Go spoon it into that twat you work for until she chokes on it."
+"Ah fuck you and your gestures Hem'," came a muffled voice from behind the curtain. "Go spoon it into that twat you work for until she fuckin' chokes on it."
 
-"Look Chips, you're a tough one, no one would deny that. And I think that toughness comes partly from a genuine mean streak in you, and partly from the fact that you believe you know how to do things right. Problem is that Percy has both of those qualities too, so just like you she's mean and not going to be the one to admit when she did something wrong."
+"Chips, you are a tough one, no one would deny that. And I think that toughness comes partly from a genuine mean streak in you, and partly from the fact that you believe you know how to do things right. The problem is that Captain Percy has both of those qualities too, so just like you she is both sometimes mean and also not going to be the one to admit when she did something wrong."
 
-"Spare me the fuckin' you're-both-so-fuckin'-alike speech Hemi! Just fuck off."
+"Spare me the fuckin' you're-both-so-fuckin'-alike speech Hemi. Just fuck off."
 
-"I'm just saying _why_ she's not going to come apologize, Chips. I'm also saying I totally think she was wrong, and risked your life by not warning you she was going to blow the tanks. You were right, and she _should_ apologize, but you know her --- she won't."
+"I am just explaining _why_ she is not going to come apologize, Chips. I am also going to tell you I believe she was entirely wrong, and risked your life by not warning you she was going to blow the tanks. You were right, and she _should_ apologize, but you know her --- she will not."
 
-"So fuckin' what? You think I care?"
+"So fuckin' what? You think I fuckin' give a shit?"
 
-"So I don't think you want to die out here just because she's too thick-headed to admit you were right. But that's what's going to happen Chips: we're going to sink and die on this ocean right here if you don't help us out. We need you to help keep the welds on that patch of yours together. Please."
+"So I do not believe  you want to die out here just because she is too thick-headed to admit you were right. But that is what is going to happen Chips: we are going to sink and die on this ocean right here if you do not help us. We need you to keep the welds on that patch of yours together. Please."
 
-There was a silence. Then a small, dirty hand stuck out from behind the curtain. "Give me that food, I'm starving." Hemi put the warm bowl of rice into the hand, and it withdrew. There was a clinking of the fork for a minute, and then Chips opened the curtain a little so she could look at Hemi so she could talk to him while she ate. That's when she saw Shakes. "Who the fuck is that?"
+There was a silence. Then a small, filthy hand stuck out from behind the curtain. "Give me that food, I'm fucking starving." Hemi put the warm bowl of rice into the hand, and it withdrew. There was a clinking of the fork for a minute, and then Chips opened the curtain a little so she could look at Hemi and talk to him while she ate. That's when she saw Shakes. "Who the fuck is that?"
 
 "I'm fuckin' Shakes." Said Shakes.
 
+"_Captain_ Shakes." Said Hemi.
+
 "Is that your name or how you reproduce?" Asked Chips.
 
-"Didn't they call you 'Chips'?"
+"Like you're one to fuckin' talk. Didn't they call you 'Chips'?"
 
-"Look," Hemi interrupted, "we found Shakes here on the surface. He's got a boat --- a small boat. I want to weld a mating collar onto the sail of his boat. It has to fit to the _Prospect's_ bottom mating collar. I want to attach his boat to the underside, and run with it like that and this is another project we can't do without you. Think you could rig something like that up?"
+"Look," Hemi interrupted, "we found Captain Shakes here on the surface. He has a boat --- a small boat. I want to weld a mating collar onto the sail of his boat. It has to fit to the _Prospect's_ bottom mating collar. I want to attach his boat to the underside, and run with it like that, and this is another project we cannot do without you. Think you could rig something like that up?"
 
-"Well fuck. I might have some spare steel that could do that. Depends on what the hatch on his boat looks like, so I'll have to eyeball that. Possible it could be done. But that's a fuckin' tricky bit of sonar listening to mate to that, steerin' the boat up from underneath, like. You think you can fuckin' do that Shakes?"
+"Well fuck. I might have some spare steel that could do that. Depends on what the hatch on his boat looks like, so I'll have to fuckin' eyeball that. Possible it could be done. But that's a fuckin' tricky bit of sonar listening to make that mating work, steerin' the boat up from underneath, like. You think you can fuckin' do that Captain Shakes?"
 
-"I've squeezed that boat through some narrow fuckin' gaps when pushing through Authority fencing. I'm as good a small-boat pilot as there ever was."
+"I've squeezed that boat through some narrow fuckin' gaps when pushing through Authority fencing. I'm as good a small-boat pilot as there ever fuckin' was."
 
-"His boat, The _Gnat_, has a view port in the sail. He should be able to see where he is to do the mating maneuver without sonar." Said Hemi.
+"His boat, The _Gnat_, has a view port in the sail. He should be able to see where he is to do the mating maneuver mostly without sonar." Said Hemi.
 
-"A fuckin' window on a submarine. Stupidest fuckin' thing I ever heard. Fuckin' crazy shit ya want to pull here. Look Hem', you're right about me not wanting to die out here. Way I figure it is to best push that priority forward, I gotta spend my time workin' on my fucking patch in the cargo hold. I may spend the rest of my life working on that fuckin' patch, really. I ain't got time to be up there fuckin' around with welding scrap steel onto what, and I'm just taking a wild fucking guess here, is some barely-afloat rusting sea-tractor." She paused. "You might get Owen to fuckin' do it."
+"A fuckin' window on a submarine. Stupidest fuckin' thing I ever heard. Fuckin' crazy shit ya want to pull here. Look Hem', you're right about me not wanting to die out here. Way I figure it is to best push that priority forward, I gotta spend my time workin' on my fucking patch in the cargo hold. I may in fact spend the rest of my fuckin' life working on that fuckin' patch. I ain't got time to be up there fuckin' around with welding scrap steel onto what --- and I'm just taking a wild fucking guess here --- is some barely-afloat rusting sea-tractor." She paused. "You might get Owen to fuckin' do it."
 
 "The kid?" Asked Shakes, "Fuck that. If there's welding to be done, I'll weld my own fucking boat."
 
-"She's right though." Said Hemi. "The patch in the _Prospect_ needs more work. If it fails, it could take both boats down. Before you do go back to your patch though Chips, get Owen and go out with Shakes and take a look at the _Gnat_. Make sure he has what he needs to get this done right. It isn't going to help us much if the mating collar leaks and floods the _Gnat_. Have Owen haul up the spare welding rig." 
+"She's right though." Said Hemi. "The patch in the _Prospect_ needs more work. If it fails, it could take both boats down. Before you do go back to your patch though Chips, get Owen and go out with Captain Shakes and take a look at the _Gnat_. Make sure they have what they need to get this done right. It is not going to help us much if the mating collar leaks and floods the _Gnat_. Have Owen haul up the spare welding rig." 
 
-"Ay Hem." She said, understanding that what Hemi really meant was she should tell Shakes how to do it right. She swung down from her bunk handing Hemi her empty food bowl. "Let's go find Owen, and have a look at this boat of yours." She said to Shakes.
+"Ay Hem." She said, understanding that what Hemi really meant was she should tell Shakes how to do it right. She swung down from her bunk handing Hemi her empty food bowl. "Let's go find the fuckin' kid, and have a look at this boat of yours." She said to Shakes.
 
 
 [//]: # (### Hemi and Percy put someone on radar)
@@ -1110,7 +1124,7 @@ Hemi found Percy sitting at the sonar station with the headset on, listening. Wh
 
 "Her senses had little to do with it."
 
-Percy ignored that. "What's next?"
+Percy ignored that. "What's fucking next?"
 
 "I wanted to look at the chart and run my numbers again."
 
@@ -1120,23 +1134,25 @@ Percy ignored that. "What's next?"
 
 "Yeah. Alright, I'll get Bastian in here. Better than nobody."
 
-"Send Gregory out to help Owen and Shakes. That's going to be a bit of a tricky operation."
+"Send Gregory out to help Owen and Shakes. That is going to be a bit of a tricky operation."
 
-"Good idea." Captain Percy headed to the galley to rouse the guys from their cold and empty coffee cups.
+"Right." Captain Percy headed to the galley to rouse the people from their cold and empty coffee cups.
 
 
 [//]: # (### Back on deck, with the cargo hold hatch open, lifting the welding rig and welding the Gnat mating collar)
 
-On the deck of the _Prospect_ Owen had lifted the big cargo hatch, which opened a gaping hole down into the big space of the cargo hold. It was the only way to get a heavy welding rig out of the boat. He had assembled a tripod gantry over the hole, from which was hanging a heavy block with a chain running through it. Gregory was down in the cargo hold hooking the end of the chain to a welding rig. When he had it secured Gregory gave Owen the thumbs up.
+On the deck of the _Prospect_ Owen had raised the big cargo hatch, which opened a gaping hole down into the big space of the cargo hold. It was the only way to get the heavy welding rig out of the boat. He had assembled a small tripod gantry over the hole, from which was hanging a heavy block with a chain running through it. Gregory was down in the cargo hold hooking the end of the chain to a welding rig. When he had it secured, Gregory gave Owen the thumbs up.
 
-"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up look around: we still need the material for the mating collar, the gangway so I can wheel this fucking thing across to the _Gnat_, heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_ with the chop washing over it. "Uh, better get those rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be fucking easy." He said to himself through the cigarette hanging from his lips.
+"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up take a look around: we still need the material for the mating collar, and the gangway so I can wheel this fucking thing across to the _Gnat_. Also some heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_ with the chop washing over it where Chips and Shakes were drawing lines on the top of the sail with a grease pencil. "Uh, better get those fucking rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be fucking easy." He said to himself through the cigarette hanging from his lips.
 
-When he got the welding rig suspended over the deck, he gave it a little kick, and when it swung back he let the chain out and grabbed the rig as it touched the deck and tilted back toward the hole. This was really a two-person job, a mistake would mean a 10 meter drop into the cargo hold. Chips and Shakes were over on the deck of the _Gnat_ drawing lines on the top of the sail with a grease pencil. Transport subs were perpetually under-crewed leaving a lot of work to be done by individuals that would be a lot safer with a few more people helping out.
+When he got the welding rig suspended over the deck, he gave it a little kick, and when it swung back he let the chain out and grabbed the rig as it touched the deck and tilted back toward the hole. This was really a two-person job, a mistake would mean a 10 meter drop into the cargo hold, and probably being maimed or killed. Transport subs were perpetually under-crewed leaving a lot of work to be done by individuals that would be much safer with a few more people helping out.
 
-Owen wheeled the weldling rig out of the way and aligned its wheels with the deck of the _Prospect_ so it wouldn't tilt off into the ocean. By the time he got back over the big open cargo hatch, Gregory was back underneath with the gangway. Lashed to the railings of the gangway were the various other things Owen had asked for. Owen dropped the end of the chain down to him, and Gregory clipped it to one end of the gangway. "Hold on, I'll come up and help you haul it up." And he disappeared.
+Owen wheeled the welding rig away from the cargo hatch and aligned its wheels with the deck of the _Prospect_ so it would not tilt off into the ocean. By the time he got back over the big open cargo hatch, Gregory was back underneath with the gangway. Lashed to the railings of the gangway were the various other things Owen had asked for. Owen dropped the end of the chain down to him, and Gregory clipped it to one end of the gangway. "Hold on, I'll come up and help you haul it up." He disappeared toward the stern of the boat.
 
 With Gregory helping to pull the chain through the block, they hauled the gangway vertically up to the mouth of the cargo hatch, out onto the deck, and got it lashed into place connecting the higher deck of the _Prospect_ to the low, wet deck of the _Gnat_.
 
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 [//]: # (### They plan the mating collar)
 
