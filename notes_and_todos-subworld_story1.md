@@ -1,7 +1,7 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Jun 05, 2021  12:26PM
+Last modified: Sat Jun 19, 2021  11:59AM
 
-# Subworld Story 1 --- general notes and todos
+# Subworld Book 1 --- general notes and todos
 * [notes and todos](#notes)
 * [story descriptions](#descriptions)
 * Post-production:
@@ -9,7 +9,7 @@ Last modified: Sat Jun 05, 2021  12:26PM
 	* [Scenes to fix](#scenes)
 	* [General stuff to keep in mind](#general)
 * [post-production editing](#post-prod)
-* [story 1 elements](#elements)
+* [Book 1 elements](#elements)
 * [style](#style)
 * On writing this book
 	* (Moved to shuttlebay)
@@ -19,7 +19,7 @@ Last modified: Sat Jun 05, 2021  12:26PM
 --------------------------------------------------------------------------------
 :notes:
 * [X] move section headers to .md comments
-* [ ] move repo name on github from story1 to book1
+* [X] move repo name on github from story1 to book1
 * [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 * [ ] consider breaking chapters into their own files
 	* this might make them easier to manage, particular if you put what the contents of each chapter are in comments at the top
@@ -364,7 +364,7 @@ Last modified: Sat Jun 05, 2021  12:26PM
 * [X] Black sub should probably be referred to as the sub with the ram. (virtually all subs are black, cept the ones that are gray)
 
 
-## Story elements specific to this story
+## Elements specific to this story
 --------------------------------------------------------------------------------
 :elements:
 * [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
