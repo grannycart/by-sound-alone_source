@@ -1,5 +1,5 @@
 manuscript_draft-subworld_book1.md
-Last modified: Sat Jun 05, 2021  12:26PM
+Last modified: Mon Jun 28, 2021  10:09PM
 
 
 # Manuscript Draft --- Sub World Book 1
@@ -9,9 +9,9 @@ by: Mort Rye
 
 ## Diagrams
 
-![Prospect diagram](../sub-diagrams/Prospect/Prospect-interior-diagram.png)
+![Prospect diagram](/subworld-book1/sub-diagrams/Prospect/Prospect-interior-diagram.png)
 
-![Gnat diagram](../sub-diagrams/Gnat/Gnat-interior-diagram.png)
+![Gnat diagram](/subworld-book1/sub-diagrams/Gnat/Gnat-interior-diagram.png)
 
 
 ## Preface
