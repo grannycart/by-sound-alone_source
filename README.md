@@ -26,6 +26,10 @@
 	* Your name here!
 
 
+## Other notes
+* github pages is built from the main branch. So all revisions and updates are availabile immediately for anyone to read on the github pages version of the book.
+
+
 ## License:
 * This pre-release version of this book is under a CC license:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
