@@ -1,8 +1,9 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Jun 28, 2021  09:13PM
+Last modified: Tue Jun 29, 2021  10:22AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
+* [file index](#index)
 * [story descriptions](#descriptions)
 * Post-production:
 	* [Find-and-fix editing](#fnf)
@@ -14,6 +15,22 @@ Last modified: Mon Jun 28, 2021  09:13PM
 * On writing this book
 	* (Moved to shuttlebay)
 
+
+## file index for submarine world story 1
+--------------------------------------------------------------------------------
+:index:
+* [README.md](README.md)
+	* general README for github repo
+* [notes_and_todos-subworld_story1](notes_and_todos-subworld_story1)
+	* List of notes specific to this book; and things to not forget to do; as well as post-production checklist
+* [draft1_pseudocode-subworld_story1](pseudocode-files/draft1_pseudocode-subworld_story1)
+	* First pass at pseudo-code: only short story version plot covered
+* [draft2_pseudocode-subworld_story1](pseudocode-files/draft2_pseudocode-subworld_story1)
+	* Long pseudocode with lots of inital detail/prose drafting for depot and first chase scene
+* [draft3_pseudocode-subworld_story1](pseudocode-files/draft3_pseudocode-subworld_story1)
+	* Pseudocode to cover plot of entire book, mostly without draft/prose drafts
+* [manuscript_draft-subworld_book1](full-draft-manuscripts/manuscript_draft-subworld_book1.md)
+	* First full-prose draft of book 
 
 
 ## story descriptions: 

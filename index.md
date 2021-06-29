@@ -1,17 +1,43 @@
-index.md
-Last modified: Sat May 01, 2021  05:39PM
+---
+layout: home
+title: Subworld: Pre-Release Book 1
+---
 
-# file index for submarine world story 1
-* [README.md](README.md)
-	* general README for github repo
-* [notes_and_todos-subworld_story1](notes_and_todos-subworld_story1)
-	* List of notes specific to this book; and things to not forget to do; as well as post-production checklist
-* [draft1_pseudocode-subworld_story1](pseudocode-files/draft1_pseudocode-subworld_story1)
-	* First pass at pseudo-code: only short story version plot covered
-* [draft2_pseudocode-subworld_story1](pseudocode-files/draft2_pseudocode-subworld_story1)
-	* Long pseudocode with lots of inital detail/prose drafting for depot and first chase scene
-* [draft3_pseudocode-subworld_story1](pseudocode-files/draft3_pseudocode-subworld_story1)
-	* Pseudocode to cover plot of entire book, mostly without draft/prose drafts
-* [manuscript_draft-subworld_book1](full-draft-manuscripts/manuscript_draft-subworld_book1.md)
-	* First full-prose draft of book 
+
+* [Full Draft Manuscript](full-draft-manuscripts/manuscript_draft-subworld_book1.md)
+* [More stuff from Mort Rye](https://mortrye.github.io/)
+
+## Some Information
+This is a pre-release of a complete draft of a novel. It is about
+submarines. Not nuclear submarines, or modern submarines, or any kind
+of submarine that actually existed. It is about cargo submarines.
+In a mid-century Earth where, due to the economic circumstances of the
+world having skewed off slightly from the path followed in real life,
+submarines ended up being recruited to do the trucking of cargo in
+around the world.
+
+Thus this novel became something that is part Das Boot, part Road
+Warrior, part Deadliest Catch, and part Smokey and the Bandit. So it
+is a novel that I had always wished existed. Maybe you do too.
+
+Currently it is a complete story, but unedited. There are a lot of
+typos, grammar, and style things remaining to be fixed. It is complete
+enough to be readable and enjoyable though. Since this is a pre-release
+version if you _do_ read it, or even part of it, I would appreciate your
+feedback. If you don't know how to contact me through github, just email
+me: mortrye@gmail.com.
+
+The book is currently lacking chapter breaks and a title. 
+Suggestions welcome!
+
+I have notes for a preface that I haven't written yet, that's why
+there's Lorem Ipsum there. There are many revisions I want to make to
+the diagrams too. The most important thing they are lacking right now is
+titles! The sub in the top diagram is the _Prospect_ the sub in the 2nd
+diagram is the _Gnat_.
+
+See the associated github repo for licensing information and development
+details, or if you want to compile an epub or pdf version for yourself.
+
+
 

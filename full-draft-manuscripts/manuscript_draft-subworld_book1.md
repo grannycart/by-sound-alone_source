@@ -1,5 +1,6 @@
-manuscript_draft-subworld_book1.md
-Last modified: Mon Jun 28, 2021  10:09PM
+---
+layout: default
+---
 
 
 # Manuscript Draft --- Sub World Book 1
