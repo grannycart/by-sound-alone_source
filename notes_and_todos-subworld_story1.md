@@ -1,8 +1,8 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Sat Jun 19, 2021  11:59AM
+Last modified: Mon Jun 28, 2021  09:13PM
 
 # Subworld Book 1 --- general notes and todos
-* [notes and todos](#notes)
+* notes and todos -- moved to shuttlebay
 * [story descriptions](#descriptions)
 * Post-production:
 	* [Find-and-fix editing](#fnf)
@@ -14,81 +14,6 @@ Last modified: Sat Jun 19, 2021  11:59AM
 * On writing this book
 	* (Moved to shuttlebay)
 
-
-## Notes and To dos:
---------------------------------------------------------------------------------
-:notes:
-* [X] move section headers to .md comments
-* [X] move repo name on github from story1 to book1
-* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
-* [ ] consider breaking chapters into their own files
-	* this might make them easier to manage, particular if you put what the contents of each chapter are in comments at the top
-	* you can edit from one chapter to the next with vim splits
-	* might make it just a bit harder for someone to read/compile from the source code without setting up pandoc and stuff.
-* [ ] add more comments in general to help explain meaning, motives, and subtleties --- make the 'source code' version of the book more source codey.
-	* Stuff like the malevolence of nature could be a comment in the source code text
-* [ ] secure Mark Tower domains and stuff:
-	* [ ] domain names
-	* [ ] github account
-	* [ ] protonmail account
-	* [ ] amazon account
-* [ ] Ask Aaron Reiss who I should have read this thing
-* [ ] possible readers:
-	* [ ] Cricket
-	* [ ] Clara
-	* [ ] Aaron
-	* [ ] Sam
-	* [ ] Xala
-* [ ] Maybe post the unedited first full draft as a "preview edition" on Amazon?
-	* (Check if new editions can be distributed for free, and push that idea in a quest for new readers)
-	* (Or see if you can distribute the preview edition for free as a way to bring in new readers)
-* [ ] Maybe post the unedited firt full draft preview on the sub commander bulletin board page?
-	* Things to include in post:
-		* I was heavily influenced by playing sub commander; in many ways this book is a novelization of the game
-		* ...Except that it is about cargo subs, not war subs. (Still plenty of sub fighting though)
-		* Maybe the thing about mad max meets moby dick meets sub commander meets deadliest catch, etc? (you should really compose this line so you can use it --- feels like it will come up over and over again)
-* [ ] For the cover:
-	* have Dave do illustration
-	* It would be better, I think, to include illustrations of some of the characters ON the sub, rather than just the sub
-		* (just a sub will only appeal to sub people. interesting-looking characters could appeal to lots of different kinds of people.
-	* Maybe even anime-ish? To pull in the anime folks who might enjoy this story?
-	* It's important that the cover, the title, and the description really capture what the story is and _feels_ like.
-		* The worst thing you can do to an audience is mislead them about what a book might be;
-		* And the audience will punish anyone they feel mislead by
-	* If you do a preview edition, or even a first edition, you could make your own cover from the WWII Tang drawings
-	* If you come up with a symbol for the Prospect, make sure it is shown on an illustrated cover
-* [X] Draw diagrams of the Prospect and Gnat. Include with story.
-	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
-	* (No copyright problems, those are federal gov't drawings)
-	* (People like me eat that ship up --- it lets you visualize where in the boat the people are at any time.)
-* [ ] credits and thanks (like test readers) can be listed in github repo README or github page
-* [ ] review files in this github repo and make sure there is nothing embarrasing (including this line!); then set it public.
-* [ ] be sure to return story elements and ideas that aren't used in this story to the general shuttlebay pile
-	* [ ] Also if anything is leftover in this notes and todos section too
-	* [ ] and also draw anything out of post-production that applies to the whole world
-* [ ] Possible book (though not series) title:
-	* The Salted wound
-		* (referring to the never-healing damage from the ramming at the beginning)
-	* The Mouse's Wheel
-	* Echoes in the Deep / Echos From the Deep
-* the pursuing sub is advanced diesel-electric, not nuclear. 
-	* They occasionally run on the surface to recharge as well.
-	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
-* [X] Add pigeon communication scene
-* [X] add something explaining that the Prospect has no torpedo tubes:
-	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
-* [X] do you want to have a more exciting opening ala Mickey Spillane --- start in the middle of some violence?
-	* If you want to try to sell it as a novel before finishing it, this might help pitch the book
-* [ ] Questions for Cricket/other test reads:
-	* Do the complicated sub mechanics make sense?
-	* Is the pacing ok?
-	* Is it fun and easy to read?
-	* Do you WANT to keep reading it to find out what happens?
-	* Does it FEEL like you are spending time in a different world?
-	* Does it have places where it bogs down?
-	* Are the characters relatable, distinctive?
-	* Are the names (both boats and people) ok?
-	* Is there anything offensive that I'm not recognizing?
 
 
 ## story descriptions: 
@@ -104,7 +29,7 @@ Last modified: Sat Jun 19, 2021  11:59AM
 		* people familiar with old motorcycles know it well
 		* super simple mechanical device premised on the idea that the surest way to know you are running out of gas is to actually run out of gas
 		* any idiot who could ride a motorcycle could understand how it worked
-		* but beyond that, there was a sheer mechanical pleasure that came with swinging around the petcock --- that little bit of mehcanical control --- and having the engine roar back to life.
+		* but beyond that, there was a sheer mechanical pleasure that came with swinging around the petcock --- that little bit of mechanical control --- and having the engine roar back to life.
 	* _There was a generation that lived through a time up to, through, and a little beyond the great world wars. Like us, technology changed their world, and they lived every day of their lives with complex new industrial technologies. But the technology of that time was rooted in _mechanical_ things. Because of that, it was different from the technology of our time. In their time, anyone who wanted to understand how a piece of amazing new technology worked could simply take it apart. It had an intuitive --- though not necessarily simple --- structure. Because of its mechanical underpinnings, even those who did not fundamentally understand how technology worked, could depend on it to behave rationally and intuitively when they used it. Unlike our technology were even experts are often shocked by how it behaves._
 	* _This old mechanical technology also came with an aesthetic. The mechanical nature of it made the stuff dirty, greasy, and grimy. It was powered by air-fouling burning of things, and kept lubricated by chemical greases and cleaned with penetrating solvents. This aesthetic permeated our culture. The rich found ways to constantly clean it. The poor and the technology maintainers simply lived in and among it. Punks in the grime --- mechpunks or grimepunks, though they never would have referred to themselves that way._
 	* _The stories of the great wars were often compelling because the could be placed atop a clear moral ground. But I believe many of those stories were also compelling because they could be placed on top of amazing, but intuitively understood technology._ 
@@ -122,13 +47,6 @@ Last modified: Sat Jun 19, 2021  11:59AM
 ### Find-and-fix Editing (do these before full edit pass):
 -------------------------------------------------
 :fnf:
-* [ ] GO THROUGH AND HANDLE ITEMS IN THIS LIST _BEFORE_ YOU DO A COMPLETE DRAFT READ-THROUGH
-	* (Also go through ALL items in this entire file)
-	* So when you do a read-through you can make sure order and flow didn't get screwed up anywhere by these edits
-	* when you do this editing read through, do it all after your first cup of coffee in the morning, while working on your second.
-	* A few thousand words per day
-	* Have test readers start reading it even while you are doing this (since you already did one pass on the first 30k already anyway)
-		* Though make sure you include a draft of the technology-framing paragraph (above) at the beginning, and the diagrams for reference.
 * [ ] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
@@ -165,7 +83,7 @@ Last modified: Sat Jun 19, 2021  11:59AM
 #### Beginning:
 * [X] Give Hemi a beard, like he's captain Nemo. 
 	* The idea is that someone who didn't know better might mistake him for the captain
-	* Do Maori men grow beards? In the 19th C they would often grow them to cover facial tatoos. So Hemi with a beard would have some significance.
+	* Maori men in the 19th C they would often grow them to cover facial tatoos. So Hemi with a beard would have some significance.
 * [X] Add a minor misdirect at the beginning of the book where someone might mistake Hemi for the captain
 	* [X] This could be where you add a clearer description of Hemi earlier in the book.
 	* Maybe he is the first one to climb up onto the bridge
@@ -194,7 +112,6 @@ Last modified: Sat Jun 19, 2021  11:59AM
 	* Bastian inflates them from a low-pressure fixture. that seems like a cool solution
 * [ ] make sure you only explain active sonar once
 * [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
-	* a great round sound (probably not, too HHGTTG)
 * [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
 	* (I think her standing station gets established later in the story, make sure it makes sense in the earlier parts of the book)
 	* maybe refer to it explicitly as the 'captain's station'? (akin to the sonar station and the navigation station)
@@ -235,7 +152,8 @@ Last modified: Sat Jun 19, 2021  11:59AM
 	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
 	* Though that rebel group might be the oppressors in 6 months
 	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
-	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run* [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
+	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
+	* * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do if they find out that Owen slept with the ramming sub's captain's wife.
 	* though maybe this human relations element is covered by the fight with Chips

@@ -1,13 +1,11 @@
-README.md
-Last modified: Sun May 02, 2021  11:22AM
 
 # Sub World Book 1 Manuscript
 * By Mort Rye
 
 
 ## How to read it:
-* Available for purchase on Amazon kindle:
-	* {url}
+* Available on github pages here:
+	* 
 * Or, compile from this source code using pandoc.
 	* (Or just read the markdown, available in source.) 
 
@@ -29,8 +27,10 @@ Last modified: Sun May 02, 2021  11:22AM
 
 
 ## License:
+* This pre-release version of this book is under a CC license:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE)
+* Future versions may be under some other license.
 
 
