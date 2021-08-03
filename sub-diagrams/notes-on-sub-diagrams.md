@@ -1,10 +1,17 @@
 notes-on-sub-diagrams.md
-Last modified: Sun Jul 04, 2021  03:05PM
+Last modified: Tue Aug 03, 2021  06:34PM
 
 
 # notes on sub diagrams
 
 ## diagram edits to make:
+* [ ] adjust sub layouts so engines are balanced around the middle of the boat. maybe cargo bays on both ends?
+	* in most subs, the rear ends are heavy with the engines, and they need to use leaded weight in the front --- at least until new equipment is installed
+	* does this sub have saddle tanks? or single hull? or double hull?
+	* see: https://www.scienceabc.com/innovation/how-does-a-submarine-dive-resurface-and-navigate-underwater.html
+* [ ] adjust sub layouts to get the bridge, control room, and conning tower right
+	* see notes below in style section
+* [X] add top-deck big cargo-loading hatch to big smuggler sub
 * diagrams revs (reminders from during initial book writing):
 	* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
 	* [ ] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
