@@ -5,7 +5,8 @@
 
 ## How to read it:
 * Available on github pages here:
-	* [index.md](index) 
+	* [Subworld Book 1](grannycart.net/subworld-book1/) 
+	* [Link for markdown](index)
 * Or, compile from this source code using pandoc.
 	* (Or just read the markdown, available in source.) 
 
@@ -26,7 +27,7 @@
 	* Your name here!
 
 ## Documentation:
-* [Notes and todos](notes_and_todos-subworld_story1)
+* [Notes and todos](documentation/notes_and_todos-subworld_story1)
 
 ## Other notes
 * github pages is built from the main branch. So all revisions and updates are availabile immediately for anyone to read on the github pages version of the book.
