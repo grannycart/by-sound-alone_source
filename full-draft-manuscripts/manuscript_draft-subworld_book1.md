@@ -4,7 +4,8 @@ layout: default
 
 
 # Manuscript Draft --- Sub World Book 1
-by: Mort Rye
+by: Mort Rye  
+
 --------------------------------------------------------------------------------
 
 
@@ -1157,7 +1158,7 @@ With Gregory helping to pull the chain through the block, they hauled the gangwa
 
 [//]: # (### They plan the mating collar)
 
-Chips waved Owen over. "Thanks for fuckin' doing that gangway. It'll be a lot easier gettin' back to the _Prospect_." She grinned her rarely-seen wide-mouthed grin at Owen. "Alright, look here, this is the plan Shakes and I get worked out, and ya should be glad Shakes is doing it. It's going to be a fuckin' nightmare if it works, and like a fuckin' wet, squirtin', languish in the head if it don't." She pointed to the top of the sail. "We fuckin' lucked out though, Shakes here made the sail fat enough that we can make the welds fuckin' flat. Ya just need a piece of steel cylinder cut even, then weld it around the hatch opening, and then weld the spare male docking clamps we got onto the sides of the fuckin' cylinder."
+Chips waved Owen over. "Thanks for doing that fuckin' gangway. It'll be a lot easier getting back to the _Prospect_." She grinned her rarely-seen, wide-mouthed, slightly gapped-tooth grin at Owen. "Alright, look here, this is the plan Shakes and I get worked out, and ya should be glad Shakes is doing it. It's going to be a fuckin' nightmare if it works, and like a fuckin' wet, squirtin', languish in the head if it don't." She pointed to the top of the sail. "We fuckin' lucked out though, Shakes here made the sail fat enough that we can make the welds fuckin' flat. Ya just need a piece of steel cylinder cut even, then weld it around the hatch opening, and then weld the spare male docking clamps we got onto the sides of the fuckin' cylinder."
 
 "How're you going to activate the docking clamps?" Asked Owen. "They're electro-magnetic, right?."
 
@@ -1191,6 +1192,7 @@ He proceeded to lay down the foulest globbing booger weld Owen had ever seen. Sm
 "Holy fuck." Said Owen quietly.
 
 Shakes welded, went back over his work, and welded more. It grew uglier and uglier, globs upon globs of congealed molten metal. The wash continually soaked the two men in cold water. Shakes had to constantly stop welding so Owen could move the clamps. Since the seam needed to be watertight, Owen wanted to keep it press-fit in place with the clamps at all times. Owen knew that that starting and stopping like that was bad for a welder who wanted to make a clean, strong weld. But since Shake's welds were about the worst he'd ever seen, that seemed like the least of his problems. The hot welds steamed when the water ran over them, which Owen was pretty sure would not contribute the strength of the weld.
+1kwords
 
 "You... built this boat?" Owen asked Shakes, when he raised his head up for a break. 
 
