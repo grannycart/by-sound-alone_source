@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Aug 04, 2021  03:05PM
+Last modified: Mon Aug 09, 2021  01:29AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -10,11 +10,11 @@ Last modified: Wed Aug 04, 2021  03:05PM
 	* [Scenes to fix](#scenes)
 	* [General stuff to keep in mind](#general)
 * [Book 1 elements](#elements)
-* [Diagrams notes and todos](sub-diagrams/notes-on-sub-diagrams)
+* [Diagrams notes and todos](notes-on-sub-diagrams)
 * [style](#style)
 * On writing this book
 	* (Moved to shuttlebay)
-
+/
 
 ## file index for submarine world story 1
 --------------------------------------------------------------------------------

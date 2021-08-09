@@ -11,9 +11,9 @@ by: Mort Rye
 
 ## Diagrams
 
-![Prospect diagram](/subworld-book1/sub-diagrams/Prospect/Prospect-interior-diagram.png)
+![Prospect diagram](/subworld-book1/sub-diagrams/Prospect/Prospect-interior-diagram.png){:width="100%"}
 
-![Gnat diagram](/subworld-book1/sub-diagrams/Gnat/Gnat-interior-diagram.png)
+![Gnat diagram](/subworld-book1/sub-diagrams/Gnat/Gnat-interior-diagram.png){:width="100%"}
 
 
 ## Preface
