@@ -4,10 +4,9 @@ layout: default
 
 
 # Manuscript Draft --- Sub World Book 1
-by: Mort Rye  
+## by: Mort Rye  
 
 --------------------------------------------------------------------------------
-
 
 ## Diagrams
 
@@ -15,6 +14,7 @@ by: Mort Rye
 
 ![Gnat diagram](/subworld-book1/sub-diagrams/Gnat/Gnat-interior-diagram.png){:width="100%"}
 
+--------------------------------------------------------------------------------
 
 ## Preface
 
@@ -34,6 +34,7 @@ It has often been commented that many of the stories from the great wars were co
 
 Today we live in a world where technology verges on the magical, and there's no way to put that technology back in the bottle. But it is possible in the context of fiction to imagine a world where the electro-mechanical remained the dominant root of our everyday technology for far longer than it did. It is possible to imagine that but for the geopolitical and economic winds blowing in a slightly different direction, the commerce and industry of our world could still be carried out by independent operators driving grease-coated machines steered by mechanical linkages, rather than corporations watching global satellite tracking on digital displays. This book is dedicated to those brave women and men who plied their trade under the waves of a world that, through historical happenstance and the hubris of our own technological and political classes, never existed.
 
+--------------------------------------------------------------------------------
 
 ## Chapter 1
 
