@@ -131,7 +131,7 @@ Hemi punched the mute button on the radio.
 
 "Likely some specialty-built Authority enforcer boat." Said Hemi.
 
-[//]: # ( Taking out these lines: Percy was pissed. "This wouldn't have happened if we had someone listening to the sonar mics while we were running on the surface." "We wouldn't have heard them coming over the diesels anyway." Replied Hemi.  "We would have known they were there soon enough to take some evasive action at least!" "Later! We have to deal with being understaffed later. First let's get out from under this.")
+[//]: # (Taking out these lines: Percy was pissed. "This wouldn't have happened if we had someone listening to the sonar mics while we were running on the surface." "We wouldn't have heard them coming over the diesels anyway." Replied Hemi.  "We would have known they were there soon enough to take some evasive action at least!" "Later! We have to deal with being understaffed later. First let's get out from under this.")
 
 There was barely enough space in the control room for 4 people. They were all breathing each other's air. Hemi took a rag from a hook and wiped condensation from the glass faces of the dials and gauges, and then wiped the nervous sweat from his hands with the rag. 
 
