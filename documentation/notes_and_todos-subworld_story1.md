@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Mon Aug 09, 2021  01:29AM
+Last modified: Wed Aug 11, 2021  08:57PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -56,7 +56,7 @@ Last modified: Mon Aug 09, 2021  01:29AM
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
 * [ ] Search for buoyancy and make sure it is spelled correctly
-* [ ] write out full draft for preface; revise; insert into book file
+* [X] write out full draft for preface; revise; insert into book file
 * [X] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
 * [X] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
 	* [X] no god-damning either: there is no god
@@ -69,9 +69,6 @@ Last modified: Mon Aug 09, 2021  01:29AM
 * [X] electric motors should be plural on the prospect --- it's a dual prop
 	* (Cept, annoyingly for fnf editing, there's a section where they run on a single motor to conserve power --- this is when they are running on the surface and trying to conserve _fuel_ though --- not battery)
 * [X] The Gnat has only singular diesel engine; while the Prospect is always running multiple diesel engines
-* [X] Is it a 'mating collar' or a 'docking collar'?
-	* Let's say 'mating collar' --- docking collar feels like a bigger mechanism to me
-* [X] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 * [X] find and remove 'inches' and 'feet' references
 * [X] find 'map' replace with 'chart'
 * [X] find 'floor' should be 'deck'
@@ -82,6 +79,8 @@ Last modified: Mon Aug 09, 2021  01:29AM
 ### Specific scenes to fix:
 :scenes:
 -------------------------------------------------
+#### Preface:
+* [ ] Do another pass through and edit -- it's only been through once so far and it's pretty rough
 
 #### Beginning:
 * [X] Give Hemi a beard, like he's captain Nemo. 
@@ -122,6 +121,9 @@ Last modified: Mon Aug 09, 2021  01:29AM
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
 * [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
 	* decide, edit and then make sure it's reflected in the Prospect notes file
+* [X] Is it a 'mating collar' or a 'docking collar'?
+	* Let's say 'mating collar' --- docking collar feels like a bigger mechanism to me
+* [X] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 
 #### Underwater depot
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise

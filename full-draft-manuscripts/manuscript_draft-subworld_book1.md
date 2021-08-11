@@ -1169,7 +1169,7 @@ Owen wheeled the welding rig away from the cargo hatch and aligned its wheels wi
 With Gregory helping to pull the chain through the block, they hauled the gangway vertically up to the mouth of the cargo hatch, out onto the deck, and got it lashed into place connecting the higher deck of the _Prospect_ to the low, wet deck of the _Gnat_.
 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=- first time editing, that is)
 
 [//]: # (### They plan the mating collar)
 
@@ -1207,7 +1207,6 @@ He proceeded to lay down the foulest globbing booger weld Owen had ever seen. Sm
 "Holy fuck." Said Owen quietly.
 
 Shakes welded, went back over his work, and welded more. It grew uglier and uglier, globs upon globs of congealed molten metal. The wash continually soaked the two men in cold water. Shakes had to constantly stop welding so Owen could move the clamps. Since the seam needed to be watertight, Owen wanted to keep it press-fit in place with the clamps at all times. Owen knew that that starting and stopping like that was bad for a welder who wanted to make a clean, strong weld. But since Shake's welds were about the worst he'd ever seen, that seemed like the least of his problems. The hot welds steamed when the water ran over them, which Owen was pretty sure would not contribute the strength of the weld.
-1kwords
 
 "You... built this boat?" Owen asked Shakes, when he raised his head up for a break. 
 
