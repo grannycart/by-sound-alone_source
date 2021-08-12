@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Wed Aug 11, 2021  08:57PM
+Last modified: Thu Aug 12, 2021  03:03AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -123,9 +123,11 @@ Last modified: Wed Aug 11, 2021  08:57PM
 	* decide, edit and then make sure it's reflected in the Prospect notes file
 * [X] Is it a 'mating collar' or a 'docking collar'?
 	* Let's say 'mating collar' --- docking collar feels like a bigger mechanism to me
-* [X] Fix that the Gnat's docking collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
+* [X] Fix that the Gnat's mating collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
 
 #### Underwater depot
+* [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
+* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
 * [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 * [ ] add Shakes chewing coca leaves again
 * [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
@@ -133,8 +135,6 @@ Last modified: Wed Aug 11, 2021  08:57PM
 * [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
 * [ ] emphasize the weight of the crates with the warheads earlier
 	* (during the part where they are re-arranging the crates in the hold, seems like a good place for that)
-* [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
-* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
 
 #### storm:
 * [ ] revisions for Gregory death scene:
@@ -158,9 +158,9 @@ Last modified: Wed Aug 11, 2021  08:57PM
 	* Though that rebel group might be the oppressors in 6 months
 	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-	* * [ ] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
+* [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
-	* I like that this will play in later when they decide what to do if they find out that Owen slept with the ramming sub's captain's wife.
+	* I like that this will play in later when they decide what to do when they find out that Owen slept with the ramming sub's captain's wife.
 	* though maybe this human relations element is covered by the fight with Chips
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
 * [X] When they make a random course decision, add:
@@ -205,28 +205,29 @@ Last modified: Wed Aug 11, 2021  08:57PM
 	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
 		* and Percy is NOT always right, just most of the time.
-* [ ] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place)
+* [ ] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place -- nav and sonar are _forward_ of the hatch to the control room.)
 * [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 		* (Maybe be sure to always refer to it as "the tank control panel")
-* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
+	* planesman is left, tank trim panel is to their left. throttle/rudder is the right seat. (facing towards the bow)
+	* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
 * [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
-* [ ] consider using 'nominal' to mean anything you want it to.
+* [-] consider using 'nominal' to mean anything you want it to.
 	* might be too on-the-nose
 * [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
 * [ ] Hemi calls Percy "Sylvia"; everyone else calls her captain
+	* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
 * [ ] have the junior crew call hemi 'boss'
 * [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'
 * [ ] does Shakes insist on being referred to as "Captain Shakes"?
 * [ ] Cassandra should always address Percy as "Captain Percy" and Shakes as "Captain Shakes"
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 * [ ] maybe they refer to the bottomless deep as 'the hole'
-* [ ] hatch in Prospect sail is at top of _control room_ not sail
+* [ ] hatch in Prospect sail is at top of _control room_ not bottom of sail bridge
 * [ ] make sure welding refers to 'rigs' not 'tanks'
 	* arc welding is used for underwater welding
 	* which means that like the stove, they have to be careful about fuel/power consumption
 	* the welding rig needs to run a generator or from boat power, I think
-* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
 * [ ] put in chapter breaks where they seem like they should go; even if you don't edit the text for the chapters until a later pass
 * [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 * [ ] audit 'and's --- 'it was a dark and stormy night': multiple descriptors compete for attention.
@@ -265,7 +266,7 @@ Last modified: Wed Aug 11, 2021  08:57PM
 	* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
 	* And a lot more cursing might actually be a simple way to make it grittier.
 	* Also they're a bunch of fuckin sailors!
-	* ** Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
+	* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
 		* **Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."**
 		* I think this is a good revision to make. do it!
 	* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
@@ -280,7 +281,7 @@ Last modified: Wed Aug 11, 2021  08:57PM
 	* The only way they survive in nature's cruelty is through their grimey, rational machine, the submarine. the submarine which always makes sense, if you can just figure it out
 * [X] 'navigation station'? 'navigation table'?
 	* Seems like this doesn't need to be corrected if it sounds right in text: there can be a navigation table at the navigation station
-* [X] consider using 'nautical' to mean awesome 
+* [-] consider using 'nautical' to mean awesome 
 	* (dark-awesome, like original meaning maybe)
 	* might be too on-the-nose
 * [X] does 'transport' indicate the transport of people? Should you more rigorously use 'cargo ship'?
@@ -362,7 +363,7 @@ Last modified: Wed Aug 11, 2021  08:57PM
 * Just make the first submarine novel GO: 
 	* Go for character-driven (fear) excitement through staring at dials 
 	* This first book should be the pop novel: readable, accessible, character-driven 
-	* an accessible novel is more likely to be something you could sell/build a fanbase 
+	* an accessible novel is more likely to be something that will build a fanbase 
 	* maybe keep the style experiments for reference when you later go back to write filthy scum 
 	* and the submarine novel is just accessible and readable, with occasional elements of that style?  
 	* a more stylized one is more likely to push you in a more award-winning type direction, but that can come later 
