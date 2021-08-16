@@ -248,8 +248,6 @@ Gregory looked at her as her head popped up through the hatch in the floor of th
 
 "Apparently we're fucking sinking." Answered Gregory. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 "Apparently..." She agreed. She scanned the dials. There was nothing immediate in their impending doom. It was written instead in subtle ways, spread across the dials, and only when the readings of the dials were taken altogether. The dive plane angle was too steep for the amount of forward drive they were giving the boat. The trim tanks too light. The depth deeper than she wanted to be.
 
 "Since that sub is going to know where we are anyway, you might as well crank the bilge pumps up to maximum power. Making a bunch of noise is better than sinking."
@@ -258,7 +256,7 @@ Gregory flipped some switches and another frequency of vibration was added to th
 
 "How's she handling generally?" Captain Percy asked.
 
-"The boat just doesn't seem normal. It doesn't respond how I want it to." Said Bastian.
+"The boat just doesn't seem fucking normal Cap. It doesn't respond how I want it to." Said Bastian.
 
 "Here, let me try the rudder." Captain Percy reached over him and turned the wheel hard over. The _Prospect_ came about slowly but surely, leaning over slightly, as she should, but after a short delay the whole boat took on a sudden heavy list. Percy counter-steered and brought the _Prospect_ back to the course they had been on.
 
@@ -271,17 +269,19 @@ Captain Percy knew it was worse than that. The sharp list after the delay was th
 
 "I... need to go check on fucking Chips." Percy slid back down the ladder from the control room, passed Hemi concentrating on listening to the headphones at the sonar station and continued forward until she got to the stairs down into the cargo hold. 
 
-Chips and Owen were at the far end, with bright work lamps rigged up. Owen was dragging a fat, grimy hose for an old mobile bilge pump from the pool of black water in the bow of the ship up the middle of the cargo hold with the intention to connect it up to one of the trim tanks. Chips had a whole set of the deck grates out and stacked up to expose the pond of scummy black water under them. She was wearing thick rubber waders and standing directly on the inside of the pressure hull in the fetid water. The water had pooled up above the grating level and was almost to Chips' chest, a distressing sight that was tempered in Percy's mind by the knowledge that Chips was not a very tall woman. Chips had heavy rubber welding gloves on and a mask so she could see what she was doing under the water. Above that mask she wore another dark-lensed mask for welding that could flipped up or down as required for doing the work. 
+Chips and Owen were at the far end, with bright work lamps rigged up. Owen was dragging one end of a fat gray, grimy hose for an old mobile bilge pump from the pool of black water in the bow of the ship up the middle of the cargo hold towards one of the trim tanks. Chips had a whole set of the deck grates out and stacked up to expose the pond of scummy black water under them. She was wearing thick rubber waders and standing directly on the inside of the pressure hull in the fetid water. The water had pooled up above the grating level and was almost to Chips' chest, a distressing sight that was tempered in Percy's mind by the knowledge that Chips was not a very tall woman. Chips had heavy rubber welding gloves on and a mask so she could see what she was doing under the water. Above the swim mask she wore another dark-lensed mask for welding that could flipped up or down as required for doing the work. 
 
 As Percy was walking down the cargo hold Chips' head was disappearing under the surface. Captain Percy stood on the grating above her watching. The welding rig next to her revved up with a groaning whine and a stream of bubbles and flashing blue light pierced through the turbid dark water. When Chips lifted her head up for air, water ran down her mask in rivulets, and drained in a greasy gray stream from her thick braid of hair. Percy asked her for her report.
 
-"Fuck ya, ya dominating fucking twat. This is delicate work here, and it needs fucking time. The hull's got hundreds of tiny cracks. It's split open the way ya might break off a piece of cheese --- tiny cracks all the fucking way along. If it were one big crack it would be much fucking simpler. Hand me that fuckin' patch piece by your feet."
+"Fuck you, ya dominating fucking twat. This is delicate fucking work here, and it needs fucking time. The hull's got hundreds of tiny cracks. It's split open the way ya might break off a piece of cheese --- tiny cracks all the fucking way along. If it were one big crack it would be much fucking simpler. Hand me that fuckin' patch piece by your feet."
 
-Captain Percy spat, and her spit tasted oily and gritty. She handed Chips the flat piece of sheet steel, which was coated with a slippery residue. Chips held it against the side of the hull and pulled a hammer from a loop on her waders. She hammered it against the side of the hull with heavy, ringing smacks of her hammer, shaping it to the curve of the boat. Percy was sure she could hear the ring of the hammer traveling along the steel pressure hull all the way to the stern. She could imagine the sound going out into the water, but that hardly mattered since those who pursued them would already know where they were anyway. 
+Captain Percy spat, and her spit tasted oily and gritty. She handed Chips the flat piece of sheet steel, which was coated with a slippery residue. Chips held it against the side of the hull and pulled a hammer from a loop on her waders. She hammered it against the side of the hull with heavy, ringing smacks, shaping it to the interior curve of the boat. Percy was sure she could hear the ring of the hammer traveling along the steel pressure hull all the way to the stern. She could imagine the sound going out into the water, which felt like a violation to her basic instinct to always keep her submarine quiet. Practically though it hardly mattered, since those who pursued them would already know their location anyway. 
 
 Chips took her now properly curved piece of patch steel and submerged into the filth again. 
 
-Percy watched her work for a quarter of an hour or so. Even in that short time the line of water on the hull have visibly risen, crawling its way up the grated deck, slowly consuming her boat. Owen came back and started up the rattly old bilge pump, and with a whine and a rush of water inside its hose it began a losing battle to take back some of the boat from the maw of the beast consuming it.
+Percy watched her work for a quarter of an hour or so. Even in that short time she could see the line of water on the hull had visibly risen, crawling its way up the grated deck, slowly consuming her boat. Owen came back and started up the rattly old bilge pump, and with a whine and a rush of water that gave a serpentine life to its hose, it began a losing battle to take back some of the boat from the maw of the beast consuming it.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 It was hopeless though. The water level in the cargo hold was rising more slowly, but relentlessly rising. By the next time Chips brought her head above water, Captain Percy had made a decision she didn't want to make. "Keep working." She told Chips.  "I'm going to blow the tanks and bring us up to the surface."
 
