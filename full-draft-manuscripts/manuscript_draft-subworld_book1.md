@@ -312,11 +312,11 @@ Hemi pushed his fat finger against the cracked black rubber coating of the emerg
 
 The expanding air in the pipes forced their temperature to drop. Their surfaces were instantaneously coated in condensate, which froze and sublimated to vapor, rising up and away from the pipes like two long otherworldly fingers passing through the compartment and gripping the ship. From where Hemi stood, the air in the pipes felt like the shot of a canon moving past him, leaving a trail of smoke marking its path. He had the sense of it pushing out through the ship in every direction. The hissing, flushing sound of compressed air pressing water out passed through the ship, and the very mass of the ship itself shifted under the force of it.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+"Take us up guys. Set the dive planes, and blow any trim tanks you haven't yet." Gregory and Bastian turned the control wheels. But within seconds Percy again felt her boat moving distressingly like a wounded animal. The stern was rising faster than the bow. The angle of the deck under her feet was leaning in the wrong direction. 
 
-"Take us up guys. Set the dive planes, and blow any trim tanks you haven't yet." Percy said to Gregory and Bastian. They turned the control wheels. But within seconds Percy again felt her boat moving distressingly like a wounded animal. The stern was rising faster than the bow. The angle the deck under her feet was in the wrong direction. "What's wrong?!" She shouted at Gregory. Her eyes scanning rapidly across the instruments. "Trim!" She started spinning open valves on the tank control panel, trying desperately to level the boat. Gregory's arms were bugling with tensed muscles as he his hands gripped thedive plane control wheel, trying to angle the bow upwards.  
+"What's wrong?!" She shouted at Gregory. Her eyes scanning rapidly across the instruments. "Trim!" She started spinning open valves on the tank control panel, trying desperately to level the boat. Gregory's arms were bulging with tensed muscles as he his hands gripped the dive-plane control wheel, trying to angle the bow upwards.  
 
-A hazard light lit on the tank status panel, accompanied by a foul buzzer. "Hemi!" Percy shouted down through the hatch. "The forward tanks didn't blow!"
+A hazard light lit on the tank status panel accompanied by a foul buzzer, the sonic equivalent of an odorized explosive gas. "Hemi!" Percy shouted down through the hatch. "The forward tanks didn't blow!"
 
 "The valve is wide open Sylvia." Hemi said, looking at the indicator on the nut to double-check his work. "The ramming must have pinched closed the high-pressure pipes to the forward ballast tanks."
 
@@ -327,29 +327,31 @@ Hemi stepped under the hatch up to the control room and looked up at Percy throu
 
 [//]: # (### Percy blows the fuel ballast)
 
-"The fuel ballast?" Percy asked Hemi.
+"The fuel ballast?" Percy asked Hemi. There was nothing else.
 
 "Yes, I think we should dump the diesel. Even if we get to the surface, we could lose the boat if the cargo hold keeps flooding and we can not figure out how to empty it. That is a bigger risk than not having enough fuel to get to a port if we do manage to keep the boat on the surface."
 
-Captain Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. For a submarine captain, the situation she now faced was was reduced to a single consideration: get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel fuel in the ocean --- did not require any time to weigh factors.
+Captain Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. For a submarine captain, the situation she now faced was was reduced to a single factor: get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel fuel in the ocean --- did not require any time to weigh options.
 
 "OK Hemi. Come up here. Keep her under control. I'll blow the fuel ballast myself."
 
-There were in fact two long thin toolboxes bolted to the wall at the emergency blow station. One had the main ballast tank blow wrench, which Hemi had already used. The second toolbox was padlocked. It contained the fuel ballast blow wrench. Just like the main ballast, the fuel tanks could be blown out with high pressure air as well. The difference being that blowing the fuel out of the boat might give them an emergency pocket of air to lift them to the surface, but it left them without fuel.
+There were in fact two long thin toolboxes bolted to the wall at the emergency blow station. One had the main ballast tank blow wrench, which Hemi had already used. The second toolbox was padlocked. It contained the fuel ballast blow wrench. Just like the main ballast, the fuel tanks could be blown out with high pressure air as well. The difference being that blowing the fuel out of the boat might give them an emergency pocket of air to lift them to the surface, but it left the boat stranded and unable to maneuver.
 
-Captain Percy was the only person who carried the key to this second toolbox, to ensure the fuel tanks would not ever be blow accidentally. She unlocked the toolbox and withdrew another wrapped wrench the same length as the tank blow wrench. But this one had a special 5-sided socket that would only fit the nut to open the air line into the fuel ballast tanks --- the fuel ballast could not be blown out with a normal wrench. 
+Captain Percy was the only person who carried the key to this second toolbox, to ensure the fuel tanks could never be blown accidentally. She unlocked the toolbox and withdrew another wrapped wrench the same length as the tank blow wrench. But this one had a special 5-sided socket that would only fit the nut to open the air line into the fuel ballast tanks --- the fuel ballast could not be blown out with a normal wrench. 
 
-She pushed the emergency blow alarm button again and with the klaxon whining fit the wrench onto one one of the special nuts controlling the valve in the air pipe. Percy was pretty sure these valves had never been turned before, not even in a drill. They had been painted over many times during the decades the _Prospect_ had been operating. She put all of her weight onto the end of the lever and let out a long groan, but couldn't budge it. She reached for a spare length of pipe kept in the main ballast wrench toolbox and slipped it over the handle of the wrench to get some more leverage.
+She pushed the emergency blow alarm button again and with the klaxon whining fit the wrench onto one one of the special nuts controlling the valve in the air pipe. Percy was pretty sure these valves had never been turned before, not even in a drill. They had been painted over many times during the decades the _Prospect_ had been operating. She put all of her weight onto the end of the lever and let out a long groan, but couldn't budge it. She reached for a spare length of pipe that lay mostly forgotten on top of one of the high-pressure pipes against the wall and slipped it over the handle of the wrench to get some more leverage.
 
-It slowly turned under all her weight, one-quarter turn to stop at the open position.
+It slowly turned under all her weight. One-quarter turn to the stop at the open position.
 
-Another rush of high pressure air pushed its tendrils through the ship. Their precious diesel fuel --- the only way to escape the lost emptiness of the ocean and return to port --- was pushed out into the deep waters of the ocean.
+Another rush of high pressure air pushed its tendrils through the ship. Their precious diesel fuel --- the only way to escape the lost emptiness of the ocean and return to port --- was thrown away from them, out into the deep waters of the ocean.
 
-Percy could feel the _Prospect_ respond immediately. The angled deck under her feet leveled off, and the bow came up. She climbed up into the control room, which was extremely cramped with three people and a giant filling it.
+Percy could feel the _Prospect_ respond immediately. The angled deck under her feet leveled off, and the bow came up. She climbed up into the control room, which was extremely cramped with three people and one giant filling it.
 
 "Now... now are we rising?" Percy asked after a few minutes. But she was looking at the same gauges as everyone else. She could read them as well as anyone else.
 
 Gregory was tentative. "We're... holding steady." He couldn't keep the fear out of his voice. 
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Hemi made a few adjustments on the tank trim control panel, and managed to get the _Prospect_ nice and level in the water, but could not get the depth gauge to move. They were still more than 90 meters from the surface.
 
@@ -362,7 +364,7 @@ Percy scanned her eyes back and forth over the gauges, dials and the settings of
 "They would have heard our emergency blow. They can see we aren't surfacing, so they will believe we are fucking sinking." Said Percy.
 
 "We _are_ sinking, aren't we?" Said Bastian. "Small comfort that they know it too."
-
+1k
 Owen, the youngest of the crew, stuck his head up through the hatch while he stood on the ladder to the control room. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks wider. The flooding in the cargo hold is getting worse."
 
 "The pit is black and filled with fucking poison spikes." Said Gregory.
