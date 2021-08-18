@@ -349,23 +349,21 @@ Percy could feel the _Prospect_ respond immediately. The angled deck under her f
 
 "Now... now are we rising?" Percy asked after a few minutes. But she was looking at the same gauges as everyone else. She could read them as well as anyone else.
 
-Gregory was tentative. "We're... holding steady." He couldn't keep the fear out of his voice. 
+Gregory was tentative. "We're... holding steady." He could not keep the fear out of his voice. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Hemi made a few adjustments on the tank trim control panel, and managed to get the _Prospect_ level in the water, but could not get the depth gauge to move. They were still more than 90 meters from the surface.
 
-Hemi made a few adjustments on the tank trim control panel, and managed to get the _Prospect_ nice and level in the water, but could not get the depth gauge to move. They were still more than 90 meters from the surface.
+Hemi gave his pragmatic analysis. "The fuel ballast tanks just aren't big enough to overcome half our main ballast being flooded."
 
-"The fuel ballast tanks just aren't big enough to overcome half our main ballast being flooded." Said Hemi pragmatically.
-
-Percy scanned her eyes back and forth over the gauges, dials and the settings of the switches, looking for something, anything, that could move her boat upward. She pulled a rag from a hook on the wall and reached over Bastian to wipe at the dials. Her hand was shaking.
+Percy scanned her eyes back and forth over the gauges, dials, and the settings of the switches looking for something, anything, that could move her boat upward. She pulled a rag from a hook on the wall and reached over Bastian to wipe at the dials. Her hand was shaking.
 
 "Even if we escape from this pit down here, there's fucking hunters waiting for us up there." Gregory said quietly. 
 
 "They would have heard our emergency blow. They can see we aren't surfacing, so they will believe we are fucking sinking." Said Percy.
 
 "We _are_ sinking, aren't we?" Said Bastian. "Small comfort that they know it too."
-1k
-Owen, the youngest of the crew, stuck his head up through the hatch while he stood on the ladder to the control room. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks wider. The flooding in the cargo hold is getting worse."
+
+Owen, the youngest of the crew, stuck his head up through the hatch while he stood on the ladder to the control room. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks in the hull wider. The flooding in the cargo hold is getting worse."
 
 "The pit is black and filled with fucking poison spikes." Said Gregory.
 
@@ -374,6 +372,8 @@ Owen looked at Gregory with a specific question on his face, but asked a differe
 "Go back and help Chips. Do anything she asks of you. Get the cargo hold patched and the flooding stopped."
 
 "Alrighty." And Owen's head disappeared back down below.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (### Percy decides to head for the bottom)
