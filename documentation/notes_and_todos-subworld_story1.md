@@ -1,5 +1,5 @@
 subworld_story1_notes-and-todos.wiki
-Last modified: Thu Aug 12, 2021  03:03AM
+Last modified: Thu Aug 19, 2021  04:27PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -149,7 +149,7 @@ Last modified: Thu Aug 12, 2021  03:03AM
 * [ ] make sure Shakes learns that Chips left the Prospect
 
 #### Not sure where:
-* [ ] Add? "They were only 100 meters under water, some people could kick a ball that distance"
+* [X] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 * [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
 	* Maybe with shakes over ship-to-ship, just to keep it interesting

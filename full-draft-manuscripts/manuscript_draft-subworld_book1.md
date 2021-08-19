@@ -373,16 +373,14 @@ Owen looked at Gregory with a specific question on his face, but asked a differe
 
 "Alrighty." And Owen's head disappeared back down below.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 
 [//]: # (### Percy decides to head for the bottom)
 
-Captain Percy was running out of ideas. It was easy to make the decision to get to the surface at all costs while there still remained some levers to pull and options to choose between. But now nothing remained that she could think of that would push them back towards the surface. 
+Captain Percy was running out of ideas. It was easy to make the decision to get to the surface at all costs while there still remained some levers to pull and options to choose between. But now nothing remained that she could think of that could move them upwards. 
 
-She cleared her mind. The surface seemed so far away. The surface wasn't her natural environment anyway. Up there was war, borderlines, treaties, enforcers and Authorities. Up there was conflict, nations, and bureaucracy. Underwater was where she belonged, where she could steer her boat in the direction she chose, and they were free to go where they liked, when they liked. This was a virtue of the exponentially larger amount of room provided by being able to move along the Z axis. Still, she had no desire to die down here. And no matter how safe and free underwater felt, there was always that yawning gulf under them. A black, cold, bottomless chasm. Once you go _too_ far down, you go down forever. She enjoyed her freedom, but she didn't want to wallow in its icy depths.
+She cleared her mind. The surface was less than 100 meters away --- there were people who could throw a ball that distance --- yet it seemed so far.  The surface wasn't her natural environment anyway. Up there was war, borderlines, treaties, enforcers and Authorities. Up there was conflict, nations, and bureaucracy. Underwater was where she belonged, where she could steer her boat in whatever direction she chose, free to go where she liked, when she liked. This was a virtue of the exponentially larger amount of room provided by being able to move along the Z axis available only to submarines. Still, she had no desire to die down here. And no matter how safe and free she felt underwater, there was always that yawning gulf underneath. A black, cold, bottomless chasm. Once you go _too_ far down, you go down forever. She enjoyed her freedom, but she didn't want to wallow in its icy depths.
 
-She put the idea of the surface out of her mind. What if she looked downwards instead of upwards? What if they could find safety in the deep?
+She put the idea of the surface out of her mind. What if she did look downwards instead of upwards? What was down there in the abyss? What if they could find safety in the deep?
 
 "Hemi, how far down is the bottom where we are now?" She asked.
 
@@ -392,24 +390,26 @@ She put the idea of the surface out of her mind. What if she looked downwards in
 
 The navigation station sat on top of a stack of flat files which held charts that were not of immediate use to them. Behind the flat files, rolls of charts that were more commonly used were stacked between upright stakes. When they had the white lights on, the charts showed their age, yellowed and flaking at the edges.
 
-Hemi had their current position marked with a grease pencil on a glass sheet laying over the chart showing the region they were moving through. The black smudges trailed up away from the shore they had left days before. They were in the middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. She pulled down a magnifier that hung from the ceiling by a retractable string. She looked closely at the grease markings on the chart, and the depth markings around them. "Hemi... come down here." 
+Hemi had their current position marked with a grease pencil on a glass sheet laying over the chart showing the region they were moving through. The black smudges trailed up away from the shore they had left days before. They were in the middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. 
+
+She pulled down a magnifier that hung from the ceiling by a retractable string. She looked closely at the grease markings on the chart, and the depth markings around them. "Hemi... come down here." 
 
 Hemi's bulk eased down the ladder from the control room a moment later. She pointed to a spot on the chart. "Figure out how to get us here --- assuming we can hold the boat over the pit and squeeze every last watt from our batteries."
 
 Hemi peered through the magnifier at the chart, then pulled his slide rule from his pocket. He made some adjustments and some marks with the grease pencil on the glass. He touched his fingertips with the point of the pencil while muttering some numbers out loud. "It's too close to call, mathematically. I don't know if we can do it."
 
-"If we can't fucking do it, it's a very long way to the fucking bottom."
+"If we can't fucking do it, it's a fucking long way to the bottom."
 
-Keep me informed of our exact depth, speed, battery status, and most importantly the rate at which we are sinking. As I get a sense of our rate of, uh... decline, I'll better be able to tell you what our chances are."
+"If I spend some time tracking our exact depth, speed, battery status, and most importantly the rate at which we are sinking, I can get a sense of our rate of, um... decline, I'll better be able to tell you what our chances are in a short while."
 
-"No chances Hemi. I just want you to figure out how to make those fucking numbers add up to us not finding the bottom a mile under water." She climbed up to the control room.
+"No chances Hemi. I just want you to figure out how to make those fucking numbers add up so we can find the bottom with the boat in tact, and not a mile under water." She climbed up to the control room.
 
 
 [//]: # (### They make the run for the tablemount )
 
 Captain Percy gave Bastian and Gregory a new heading, and Bastian brought the boat limping around to it by applying some rudder. 
 
-"You guys have to do everything you can to keep us up," she told the two men at the controls, "like gliding an airplane with a stalled engine. And I want to creep out of here. If we go too fast those fuckers above will hear us and know we are still moving. If we move away slowly and silently enough, they might just assume we disappeared down into the fucking hole. Three knots forward speed Bastian."
+"You guys have to do everything you can to keep us up," she told the two men at the controls, "like gliding an airplane with a stalled engine. And I want to creep out of here. If we go too fast those fuckers above will hear us and know we are still moving. If we are slow and silent, they might just assume we disappeared down into the fucking hole. Three knots forward speed Bastian."
 
 His long skinny arm moved the throttle controls forward until the speed needle hovered a few hashes above its zero pin, indicating 3 knots. He withdrew his hands from the controls and attempted to lean his body back in the stiff control seat. He pulled a cigarette from a pack sitting next to the throttle control and put it to his lips and lit it.
 
@@ -417,7 +417,9 @@ His long skinny arm moved the throttle controls forward until the speed needle h
 
 Gregory glanced at Bastian quickly, but returned his eyes to the controls.
 
-"Seriously. Fuck man. The worst thing about submarining is if something goes wrong, it usually isn't a fast fucking death. In an airplane, something goes wrong, you're gonna hit a fucking mountain in a matter of minutes --- that's if you don't get blown to fucking pieces at 30,000 feet in the first place. But on a fucking sub, you usually know your fate long before it fucking comes for you."
+"Seriously." Bastian continued in his droning quiet voice. "Fuck. The worst thing about submarining is if something goes wrong, it usually isn't a fast fucking death. In an airplane, something goes wrong, you're gonna splat against a fucking mountain in a matter of minutes --- that's if you don't get blown to fucking pieces at 30,000 feet in the first place. But on a fucking sub, you usually know your fate long before it fucking comes for you."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Shut the fuck up Bastian."
 
