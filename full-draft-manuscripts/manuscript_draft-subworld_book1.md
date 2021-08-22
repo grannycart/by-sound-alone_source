@@ -473,6 +473,7 @@ Percy could not reconcile the clock's glacial movement with the steady driving m
 For hours Percy's eyes blearily followed these tiny needles that wrote their fate as she sucked down one cigarillo lit from the budded remains of the last. No one in the control room would have been convinced that time was moving at all, except for the unassailable fact that the battery-remaining gauge had dipped into the red-hashed warning zone, and the depth gauge had passed their normal operating limit of 215 meters to find its own red-hatched warning zone. These two thin lines were undeniably converging towards an ending for them all.
 
 [//]: # (The fact that the clock moved so steadily relative to all the rest of the glacially churning gauges did not provide any sense of relief.  The slow speed of the clock weighed against the glacially slow churn of the other gauges. All except the battery levels --- that gauge appeared to be steadily dropping when measured against the clock, as if it were determined to show itself as the factor that would mark their doom.  Hours ticked past, hardly registering their existence. She sucked down one cigarillo lit from the budded remains of the last. She nervously stepped from foot to foot as she stood behind Gregory and Bastian, gripping the backs of their chairs hard enough to pale her knuckles.  She willed the clock to to move slower. They desperately needed more time if they were going to make it.)
+1k
 
 Captain Percy's eyes wandered wearily back and forth from the clock to their depth, to the battery remaining, to the depth-under-keel gauge. Their depth and battery were now squeezing hard up against the time they had remaining. She stared at the depth-under-keep needle and summoned all the superstitious powers of the universe to move the needle up off the "Bottomless" pin. From the picture of their situation that the gauges wrote into her mind, she knew it had to happen.
 
@@ -510,6 +511,7 @@ Slowly, slowly, the depth gauge needle eased to the right as the boat sank. And 
 "Fuck me." Said Bastian. "248 meters down, on the bottom. A fucking undersea mountain. We landed on the top, like some damned Noah crashing his ark into fucking Ararat."
 
 "Technically a tablemount." Said Hemi. "A relatively flat surface worn down from an ancient volcano. And yes, if you like, very much an antediluvian feature of the sea floor."
+2k
 
 "Quite a bit deeper than she's rated for," added Percy, "almost as deep as I've ever fucking had her. If the hull holds, we have bought ourselves a little time." 
 
