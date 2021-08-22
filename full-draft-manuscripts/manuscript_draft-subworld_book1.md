@@ -448,36 +448,35 @@ Nearly every gauge mattered to Captain Percy right now. Each represented a varia
 
 The depth of the boat was slowly, slowly creeping downwards. Percy stared at the black line of the needle on the dial, and willed it to stay still. She was pretty sure Gregory and Bastian were doing the same. But it never stopped its shaky wavering, and it persistently made gains towards the deep end of the dial. It had already crept three quarters of the way around --- on a dial that was graduated in such a way that the far end, where its tiny steel bounding needle poked up, was theoretically beyond the capabilities of what the ship could survive.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+They had watched the needle traverse that distance the way one might track a long journey on a map. It seemed they had traveled interminably far to get where they were now, and they looked back at the three quarters of the dial they had passed the way one remembers days and days on the road in a long cross-country journey. 
 
-They had watched the needle traverse that distance the way one might track a long journey on a map. It seemed they had traveled interminably far to get where they were now, and they looked back at the three quarters of the dial they had passed the way one remembers days and days on the road in a long cross-country journey. In actual physical distance though, their depth was no more of a distance than one might walk to buy a bottle of milk from the corner store.
+[//]: # (Deleting this line because it conflicts with the ball throwing line a bit further back: In actual physical distance though, their depth was no more of a distance than one might walk to buy a bottle of milk from the corner store.)
 
-The even more critical gauge at the moment was that depth-under-keel gauge. The instrumentation that fed that gauge had a limit to its sensitivity. It could show the depth of the bottom far beyond what the submarine was capable of, but nowhere near the actual depths of the deep ocean. At the far end of that dial, its bounding pin was cutely labeled in an ancient naval tradition: "Bottomless." 
+The even more critical gauge at the moment was that depth-under-keel gauge. The instrumentation that fed that gauge had a limit to its sensitivity. It could show the depth of the bottom far beyond what the submarine was capable of, but nowhere near the actual depths of the deep ocean. At the far end of that dial, its bounding pin was labeled in an ancient naval tradition: "Bottomless." 
 
-And it really did not matter that somewhere down there might be an actual bottom. For this sub, for their pursuing sub, for any submarine that Captain Percy had ever heard about, the deep ocean was in all practical ways a never-ending hole. Anyone who went down there would never find a bottom, and could never come back up. They lived much of their submariner lives floating on delicate bubbles of gas over that black hole that never ceased in its efforts to suck them down. The needle of the depth-under-keel dial had been pegged at "Bottomless" for days now as they have been crossing deep ocean.
+And it really did not matter that somewhere down there might be an actual bottom. For this sub, for their pursuing sub, for any submarine that Captain Percy had ever heard about, the deep ocean was in all practical ways a never-ending hole. Anyone who went down there would never find a bottom, and could never come back up. They each lived much of their submariner lives floating on delicate bubbles of gas over that black hole that never ceased in its efforts to suck them down. The needle of the depth-under-keel dial had been pegged at "Bottomless" for days now as they have been crossing deep ocean.
 
 Hemi came up through the hatch into the control room with a clipboard and a pencil, and leaned over the glowing red dials, raising the tiny lenses of his glasses with his fingers to bring them into sharper focus. He jotted readings off the dials down onto his clipboard. 
 
 Captain Percy fished her hand around among the joists that supported the pressure hull wall, and found a rumpled pack of cigarillos. She shook one out and lit it. "Are we going to make it Hemi?"
 
-"It is razor work Sylvia. Numbers slide past numbers, and a decimal points worth of difference changes whether we live or die. And if the numbers _do_ work out in our favor, there is no way to say whether --- should your plan succeed initially --- it does not simply perpetrate the complete failure of the pressure hull and leave us permanently on the bottom regardless."
+"It is razor work Sylvia. Numbers slide past numbers, and a decimal point worth of difference changes whether we live or die. And if the numbers _do_ work out in our favor, there is no way to say whether --- should your plan succeed initially --- it does not simply perpetrate the complete failure of the pressure hull and leave us permanently on the bottom regardless."
 
 Percy sucked slowly on her cigarillo as she parsed Hemi's assessment. "What you are really saying is that even though it looks fucking hopeless there is a goddamn fucking chance."
 
 "There is distinctly a chance, Sylvia."
 
-A third gauge now entered as an influencing variable in Captain Percy's equation: the clock. In the dramatic submarine stories from the wars, everything happened in quick actions: emergency maneuvers, incoming torpedoes, plunging dives, and explosions. Despite having been in a number of dangerous situations in her years working on cargo submarines, Percy could never relate to the speed of the old war stories. In her experience, most dangerous situations on submarines were like this one: permeated with slow, grinding terror. There were certainly dramatic moments aboard submarines, but most of what Percy retained in her memory of the dangerous events she had lived through was a sensation of extreme slowness. In many cases it was not just a sensation. As in the case of the current situation, many dramatic event on submarines required extremely slow movement. The _Prospect_ was currently barely making headway at 3 knots. That slowness gave them the protection of silence.
+A third gauge now entered as an influencing variable in Captain Percy's equation: the clock. In the dramatic submarine stories from the wars, everything happened in quick actions: emergency maneuvers, incoming torpedoes, plunging dives, and explosions. Despite having been in a number of dangerous situations in her years working on cargo submarines, Percy could never relate to the speed of the old war stories. In her experience, most dangerous situations on submarines were like this one: permeated through with slow, grinding terror. There were certainly dramatic moments aboard submarines, but most of what Percy retained in her memory of the dangerous events she had lived through was a sensation of extreme slowness. In many cases it was not just a sensation. As in the current situation, many dramatic event on submarines _required_ extremely slow movement. The _Prospect_ was currently barely making headway at 3 knots. That slowness gave them the protection of silence.
 
 Percy could not reconcile the clock's glacial movement with the steady driving movement of the other gauges that mattered. The remaining battery gauge appeared to be determined to get into the red zone. Their depth gauge found its way only towards larger numbers. These two gauges had apparently unmoored themselves from the restrictions of time. Meanwhile the depth-under-keel gauge and the distance they had covered --- which Percy almost subconsciously tracked in her head --- remained mired and unmoving.
 
 For hours Percy's eyes blearily followed these tiny needles that wrote their fate as she sucked down one cigarillo lit from the budded remains of the last. No one in the control room would have been convinced that time was moving at all, except for the unassailable fact that the battery-remaining gauge had dipped into the red-hashed warning zone, and the depth gauge had passed their normal operating limit of 215 meters to find its own red-hatched warning zone. These two thin lines were undeniably converging towards an ending for them all.
 
 [//]: # (The fact that the clock moved so steadily relative to all the rest of the glacially churning gauges did not provide any sense of relief.  The slow speed of the clock weighed against the glacially slow churn of the other gauges. All except the battery levels --- that gauge appeared to be steadily dropping when measured against the clock, as if it were determined to show itself as the factor that would mark their doom.  Hours ticked past, hardly registering their existence. She sucked down one cigarillo lit from the budded remains of the last. She nervously stepped from foot to foot as she stood behind Gregory and Bastian, gripping the backs of their chairs hard enough to pale her knuckles.  She willed the clock to to move slower. They desperately needed more time if they were going to make it.)
-1k
 
-Captain Percy's eyes wandered wearily back and forth from the clock to their depth, to the battery remaining, to the depth-under-keel gauge. Their depth and battery were now squeezing hard up against the time they had remaining. She stared at the depth-under-keep needle and summoned all the superstitious powers of the universe to move the needle up off the "Bottomless" pin. From the picture of their situation that the gauges wrote into her mind, she knew it had to happen.
+Captain Percy's eyes wandered wearily back and forth from the clock to their depth, to the battery-remaining, to the depth-under-keel gauge. Their depth and battery were now squeezing hard up against the time they had remaining. She stared at the depth-under-keep needle and summoned all the superstitious powers of the universe to move the needle up off the "Bottomless" pin. From the picture of their situation that the gauges wrote into her mind, she knew it had to happen.
 
-For a moment, she thought she saw it writhe, like the flash of a small bait fish seen catching the sun in a shallow pool of water. But with slightly more sharply focused eyes, the needle remained sitting comfortably on the pin.
+For a moment, she thought she saw the needle writhe, like the flash of a small bait fish seen catching the sun in a shallow pool of water. But with slightly more sharply focused eyes, the needle remained sitting comfortably on the "Bottomless" pin.
 
 She stood and took a rag from a hook and reached over Gregory to wipe the condensing droplets of water off the glass of the gauge, then circled around the aging pitted chrome casing for good measure. She could feel the little spots of rust and degrading metal catching against the fibers of the rag. She tapped the glass with her finger.
 
@@ -486,21 +485,21 @@ She stood and took a rag from a hook and reached over Gregory to wipe the conden
 
 And the needle moved. It just wavered, hovered for a second, and then returned to resting wearily on the pin. But it had definitely moved. Her eyes went back to the clock, more minutes passed. To their speed: steady at three knots. To their battery charge: painfully low. To their depth: too deep for comfort.
 
-But the depth-under-keel needle moved again, rising up and falling back, like a dying crone trying to raise herself for one last curse at the world. And then it was wavering unsteadily above the "Bottomless" pin. The gap between the needle and the pin was tenuous, but real. 
+But the depth-under-keel needle moved again, rising up and falling back, like a dying crone trying to raise herself for one last curse at the world. And then it was wavering unsteadily above the pin. The gap between the needle and the pin was tenuous, but real. 
 
 "Captain," said Bastian, his eyes on the depth-under-keel gauge, "the bottom seems to be coming the fuck up."
 
 Captain Percy reached above her head for a strap. "Drive boys, Drive." The sea floor was moving, but still far, far below them, so far below that if the boat went down now the _Prospect_ would be crushed into nothing but a greasy stain on that bottom. But it was at least a measurable distance now instead of the unknowable nothingness of the hole.
 
-Minutes later the depth-under-keep gauge started rising steadily, as if it had intention. It gave the impression that they were moving quickly, though in fact their speed remained steady and crawling, while the slope of the bottom had drastically increased, and was rising under them --- a sheer undersea mountain wall. The needle accelerated to show a shockingly quick rise in the sea floor, in such a way that gave the impression they were about to smack into a mountainside, from where they would slide helplessly down into the black pit. Instead, the needle shot up and fell back to 250 meters, and then stayed hovering at that level.
+Minutes later the depth-under-keep gauge started rising steadily, as if it had intention. It gave the impression that they were moving quickly, though in fact their speed remained steady and crawling, while the slope of the bottom had drastically increased, and was rising under them --- a sheer undersea mountain wall. The needle accelerated to show a shockingly quick rise in the sea floor, in such a way that gave the impression they were about to smack into a mountainside, from where they would slide helplessly down into the black pit.  Instead, the depth gauge needle rolled hard to the left and then rose back to show they had about 10 meters to the bottom. It stayed hovering at that level.
 
 "OK Gregory, now the stupid part: give me a gentle dive plane down angle." Percy said quietly.
 
-"You want to go _down_?"
+"You want to go fucking _down_?"
 
-"Down Gregory. Now. Take us to the sea floor."
+"Down Gregory. Right fucking now. Take us to the sea floor."
 
-The dive plane wheel slipped through Gregory's calloused hands, and the bow of the boat eased downwards. Captain Percy pressed the collision alarm button and a klaxon blared through the ship. She pulled the boat PA mic down from the array of radio mics whose cords swayed just above her head and pressed the talk button. "Chips: leave the leak. You and Owen get out of the cargo hold. Seal the bulkheads behind you. We're going to bottom the boat, and there's a reasonable chance it will split our wound wide open."
+The dive plane wheel slipped through Gregory's calloused hands, and the bow of the boat eased downwards. Captain Percy pressed the collision alarm button and a klaxon blared through the ship. She pulled the boat PA mic down from the array of radio mics whose cords swayed just above her head and pressed the talk button. "Chips: leave the leak. You and Owen get out of the cargo hold. Seal the bulkheads behind you. We're going to bottom the boat, and there's a reasonable chance it will split our wounded hull there wide fucking open."
 
 At the sound of the collision alarm Hemi came up through the hatch. His eyes passed over the gauges taking in their situation. "Gently Gregory." He almost whispered.
 
@@ -511,7 +510,6 @@ Slowly, slowly, the depth gauge needle eased to the right as the boat sank. And 
 "Fuck me." Said Bastian. "248 meters down, on the bottom. A fucking undersea mountain. We landed on the top, like some damned Noah crashing his ark into fucking Ararat."
 
 "Technically a tablemount." Said Hemi. "A relatively flat surface worn down from an ancient volcano. And yes, if you like, very much an antediluvian feature of the sea floor."
-2k
 
 "Quite a bit deeper than she's rated for," added Percy, "almost as deep as I've ever fucking had her. If the hull holds, we have bought ourselves a little time." 
 
@@ -529,6 +527,8 @@ Gregory glanced at Bastian with a dark look in his eyes.
 It was time for Captain Percy to survey the damage. She got on the ship PA and told Chips to meet her at the entrance to the cargo hold before heading down there herself.
 
 Percy found Chips waiting for her at the bulkhead entrance to the cargo hold in the forward battery room on the bottom deck of the boat. Chips had a large wrench with her and as soon as Percy arrived she banged with it on the bulkhead. "Well Capt, it sounds fuckin' hollow to me. Still air on the other side of the fuckin' bulkhead at least."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Percy nodded and cranked open the rusting sealing wheel, which squeaked painfully in her ears. The lights were out in the cargo hold, so they were looking into blackness, but the air smelled damp and they could hear dripping echoing in the huge empty space. This instinctively disturbed both of them. 
 
@@ -6178,7 +6178,7 @@ Hemi smacked a heavy fist against the hull above him.
 
 Shakes could hear the pounding in the pilot's seat. "Hemi. You have to get that open. If the device arms in the trunk, we're fucking done."
 
-"I am aware of that!" Hemi pressed his lips together, concentrating on revising his estimates of where the boats were in relation to each other, and at the same time a way to release the hatch. "Shakes, come shallow by a few meters --- that might be all we need." A second went by and Hemi knew they were getting out of position. "You also need to come left to 222 degrees, hard!Now!"
+"I am aware of that!" Hemi pressed his lips together, concentrating on revising his estimates of where the boats were in relation to each other, and at the same time a way to release the hatch. "Shakes, come shallow by a few meters --- that might be all we need." A second went by and Hemi knew they were getting out of position. "You also need to come left to 222 degrees, Hard! Now!"
 
 The boat leaned over dramatically as Shakes turned the yoke all the way left to its stop. The bow rose slowly in response to his gentle backwards pull on the yoke too.
 
