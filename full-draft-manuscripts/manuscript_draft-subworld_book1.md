@@ -528,15 +528,13 @@ It was time for Captain Percy to survey the damage. She got on the ship PA and t
 
 Percy found Chips waiting for her at the bulkhead entrance to the cargo hold in the forward battery room on the bottom deck of the boat. Chips had a large wrench with her and as soon as Percy arrived she banged with it on the bulkhead. "Well Capt, it sounds fuckin' hollow to me. Still air on the other side of the fuckin' bulkhead at least."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-Percy nodded and cranked open the rusting sealing wheel, which squeaked painfully in her ears. The lights were out in the cargo hold, so they were looking into blackness, but the air smelled damp and they could hear dripping echoing in the huge empty space. This instinctively disturbed both of them. 
+Percy nodded and cranked open the hatch with the rusting sealing wheel squeaking painfully in her ears. The lights were out in the cargo hold, so they were looking into blackness. But the air smelled damp and they could hear dripping echoing in the huge empty space. This instinctively disturbed them both. 
 
 Percy reached around and flipped on the lights. The white overheads glared down on her cargo hold. The steel grating led down a gentle slope and disappeared into an oily, black subterranean lake. A couple of empty wooden crates floated like lost viking craft on it, accompanied by a film of black frothing grease that wafted by in patches like bergs among the viking ships. Any sound Percy and Chips made echoed back and forth from hull to hull through the air, and out over the water. 
 
 "That's a fuckin' nightmare." Said Chips.
 
-"We probably did more damage to her when we pressed her bow into the sea floor ---  like levering apart the bones of a fowl. We don't have much time before this whole fucking hold is flooded and we'll never get off the bottom. What do you need Chips?"
+"We probably did more damage to her when we pressed her bow into the sea floor --- like levering apart the bones of a fowl. We don't have much time before this whole fucking hold is flooded and we'll never get off the bottom. What do you need Chips?"
 
 "Ah, just fuckin' send Owen back down. And now it fuckin' looks like I'll be breathing through a fuckin' hose while I'm doing the stitching back together."
 
@@ -549,34 +547,34 @@ Percy reached around and flipped on the lights. The white overheads glared down 
 
 Percy moved through the boat back up towards the control room. She found Gregory and Bastian crawling into their bunks in crew quarters having been released from control duty by Hemi. Their eyes were slitted and bleary and there was no grace in their attempt to climb into their racks.
 
-"Come'on, you can't sleep yet. Get some coffee and then go find some portable bilge pumps. We need to get this boat pumped out, or you'll never wake up from your little fucking naps."
+"Come'on, you can't fucking sleep yet. Get some coffee and then go find some portable bilge pumps. We need to get this boat pumped out, or you'll never wake up from your little fucking naps."
 
-She left them groaning and headed to the galley, thinking coffee sounded like a good idea. There was a tin cup sitting upside down in the drying rack. It was one of those blue tin cups with the white flecks. The outside of it had been dipped in rubber for use on submarines. Even when well-washed, the cups always added a particular piquant of metal and petroleum to the coffee. The one in the dish rack was relatively clean, just retaining the usual semi-permanent coffee stains. 
+She left them groaning and headed to the galley, thinking coffee sounded like a good idea. There was a metal cup sitting upside down in the drying rack. It was one of those blue tin cups with the white flecks. The outside of it had been dipped in rubber for use on submarines. Even when well-washed, the cups always added a particular piquant of metal and petroleum to the coffee. The one in the dish rack was relatively clean, just retaining the usual semi-permanent coffee stains. 
 
-The coffee in the pot had been on the warmer for hours. Maybe days. She poured it into her cup and added a couple of scoops of sugar. The taste was foul, like what she always imagined "sweet crude" must taste like. Her tastebuds rebelled, but the rest of her body knew better, and she felt an immediate wash of relief from the fatigue beginning to plague her.
+The coffee in the pot had been on the warmer for hours. Maybe days. She poured it into her cup and added a couple of scoops of sugar. The taste was foul, like what she always imagined "sweet crude" must taste like. Her taste buds rebelled, but the rest of her body knew better, and she felt an immediate wash of relief from the fatigue beginning to plague her.
 
-There situation was dire. They were still terribly unlikely to survive this. If being flooded and bottomed had been the worst thing that happened today, she would have been upset. But somehow the relative safety they had now compared to where they had been an hour before --- when they were slowly sinking over a bottomless hole --- made her feel surprisingly relaxed. Relaxed enough to enjoy a cup of burnt coffee at least.
+Their situation was dire. If being flooded and bottomed had been the worst thing that happened today, she would have been upset. But somehow their relative safety now compared to where they had been an hour before --- when they were slowly sinking over a bottomless hole --- made Percy feel surprisingly relaxed. Relaxed enough to enjoy a cup of burnt coffee at least.
 
 
 [//]: # (### Percy talks to Hemi about surviving their immediate futures)
 
 Percy found another relatively clean tin cup behind the rails of the dish cabinet and filled it with coffee. She brought it to Hemi at the navigation station.
 
-Hemi took the cup and held it to his lips blowing the burnt smell off the surface. His glasses steamed up. "Does Chips have a handle on the leak?"
+Hemi took the cup and held it to his lips blowing the acid smell off the surface. His glasses steamed up. "Does Chips have a handle on the leak?"
 
-"Eh. It's deep under water in the hold now. She's going to have to dive down there to weld it."
+"Eh. It's fucking deep under water in the hold now. She's going to have to dive down there to weld it."
 
 "Unpleasant."
 
 "That's one fucking word for it."
 
-"Even if we get it sealed," said Hemi, "even if we can manage to pump out, even if we get to the surface, it doesn't look good. That chart says we're _nowhere_ right now, and we have no fuel or battery remaining to speak of."
+"Even if we get it sealed," said Hemi, "even if we can manage to pump out, even if we get to the surface, things do not look good. I looked at the chart, and we are nowhere right now. And we have no fuel or battery remaining to speak of."
 
-"Still'd rather be nowhere on the surface than sunk on the bottom of somewhere --- in this case that 'somewhere' being a rarely-charted and never-visited undersea mountain."
+"Still'd rather be nowhere on the surface than sunk on the bottom of somewhere --- in this case that 'somewhere' being a fucking rarely-charted and never-visited undersea mountain."
 
-"I'm just trying to get ahead of the problem. We're in a situation where we need to overcome a whole series of challenges, each in their particular order. It would be an ignorant move to not think ahead."
+"We are in a situation where we need to overcome a whole series of challenges, each in their particular order. I am just trying to get ahead of the problem."
 
-"And you think I'm being ignorant? I'm tasking you with doing the thinking-ahead Hemi. You let me know if I'm not considering something that impacts our future survivability. But otherwise I need to focus on surviving our situation right now. And that currently means getting some of this foul black water out of my boat. Right?"
+"OK Hemi, you do the fucking thinking ahead. You let me know if I'm not considering something that impacts our future survivability. Otherwise, I need to focus on surviving our situation right now. And that currently means getting some of this foul black water out of my boat. Right?"
 
 Hemi nodded.
 
@@ -585,11 +583,13 @@ Hemi nodded.
 
 [//]: # (### repairing and pumping out the cargo hold)
 
-In the cargo hold, Bastian and Gregory were laying out heavy cloth-covered hoses down the center of the space and hooking them up to portable electric bilge pumps the size of small refrigerators.
+In the cargo hold, Bastian and Gregory were laying out the heavy cloth-covered hoses down the center of the space and hooking them up to portable electric bilge pumps the size of small refrigerators.
 
-Owen had his own electric pump, a smaller one, down at the edge of the black lake and was feeding an air hose to Chips who was in water over her head. She held a welding torch in one hand and was wearing a diving mask that was connected to the air hose. The welding torch was connected by thick wires to the welding rig mounted in a rack on wheels. The wheels had chocks keeping the rig from rolling into the lake.
+Owen had his own electric pump --- a smaller one that pumped air --- down at the edge of the black lake and he was feeding an air hose to Chips who was wearing a diving mask connected to the air hose. She was kicking to keep her head above water while holding up a welding torch with one hand. The welding torch was connected by thick wires to the welding rig mounted in a rack on wheels propped next to the pump at the edge of the lake. The wheels had chocks keeping the rig from rolling into the water.
 
-Chips dove down and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips' head broke back through the surface. She ripped off the diving mask. "Owen! I need another fucking piece of steel plate, and --- fuck it -- another brace too."
+Chips dove down, and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips' head broke back through the surface. She ripped off the diving mask. "Owen! I need another fucking piece of steel plate, and --- fuck it -- another brace too."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Alright Chips!" Called the kid from the shore. Owen was wearing the same greasy-slick rubber waders Chips had had on earlier. He selected some metal bits from a pile of scraps on the grating next to the welding rig and waded into the cloying bilge to hand them to Chips.
 
