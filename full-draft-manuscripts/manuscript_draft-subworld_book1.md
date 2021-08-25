@@ -18,6 +18,8 @@ layout: default
 
 ## Preface
 
+[//]: # (-=-=-=- PREFACE UNEDITED -=-=-=-)
+
 Anyone who has ever had the pleasure of riding an old motorcycle has had the experience of employing a 'petcock.' The petcock was a valve that sat on the bottom of the fuel tank and when in its normal run position allowed fuel to flow through it to the engine through a small pipe that stuck up a bit into the fuel tank. As the rider rode and the fuel burned down the petcock prevented the fuel from getting below the height of that small pipe. When the fuel reached that point, the motorcycle would cough, sputter, and for all intents of purposes be out of gas --- ever though there was still a pool of fuel sloshing around in the tank below the pipe level. The sputtering motor made it exceedingly clear to rider that they were running low on fuel. The rider would then flip the petcock over and the little valve would allow the sloshing remains of the fuel to run down to the engine. The rider had the reserve fuel left in the tank to let them ride long enough to find a place to refuel.
 
 The petcock was a super-simple mechanical device premised on the idea that the surest way to know you are running out of gasoline is to actually run out of gas. Any idiot who could manage riding a motorcycle could also manage the basic premise behind it. Any idiot who could take it apart could see how it worked. Today the same need --- to know when one is running low on fuel --- is met my a sophisticated sensor mounted in the tank, that feeds data to a black-box of a computer that calculates the remaining fuel and displays it on the dashboard in colored lights. The idiot riding the motorcycle needs to know less than ever about their bike to ride it. And the idiot could never figure out how to fix it if something went wrong.
@@ -34,7 +36,6 @@ It has often been commented that many of the stories from the great wars were co
 
 Today we live in a world where technology verges on the magical, and there's no way to put that technology back in the bottle. But it is possible in the context of fiction to imagine a world where the electro-mechanical remained the dominant root of our everyday technology for far longer than it did. It is possible to imagine that but for the geopolitical and economic winds blowing in a slightly different direction, the commerce and industry of our world could still be carried out by independent operators driving grease-coated machines steered by mechanical linkages, rather than corporations watching global satellite tracking on digital displays. This book is dedicated to those brave women and men who plied their trade under the waves of a world that, through historical happenstance and the hubris of our own technological and political classes, never existed.
 
-[//]: # (-=-=-=- PREFACE UNEDITED -=-=-=-)
 
 --------------------------------------------------------------------------------
 
@@ -618,9 +619,7 @@ The receding water level was everything. The boat didn't need power, or the high
 
 She waited for Chips to raise her head above the surface again. "Chips! The water level is dropping!" Percy shouted to her with one hand cupped to her mouth, while pointing at the black line of grit marked on the pressure hull.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-"Ah fuckin' sure. With the fuckin' quilt of patches I've laid down its about fuckin' time."
+"Ah fuckin' sure. With the fuckin' quilt of patches I've laid down it's about fuckin' time."
 
 "I have to go up to the control room --- there's really no way to know when we'll get buoyant again, and someone has to be there if we do."
 
@@ -629,22 +628,23 @@ She waited for Chips to raise her head above the surface again. "Chips! The wate
 
 [//]: # (### Percy back in the control room; staring at dials again)
 
-As Captain Percy passed through the crew quarters she shook the kid Owen awake again. "I have to go to the control room. Go down and watch Chips and make sure she doesn't die." It would be incredibly stupid to let someone, even someone as tough as Chips, do underwater welding without someone keeping watch.
+As Captain Percy passed through the crew quarters she shook the kid Owen awake again. "I have to go to the control room. Go down and watch Chips and make sure she doesn't fucking die." It would be incredibly stupid to let someone, even someone as tough as Chips, do underwater welding without another person keeping watch for safety.
 
 Owen didn't say anything but resignedly rolled out of his rack to his feet, and rubbed his eyes before stumbling back down to the cargo hold.
 
-Percy climbed up into the control room and sat at one of the maneuvering stations. The familiar dials and gauges spread out in front of her. The readings hadn't changed at all since she last left them, for the obvious reason that they had not moved. She took in the reading from each gauge separately, adding it to her holistic picture of the situation her boat was in. But the gauges were not telling her anything new.
+Percy climbed up into the control room and sat at one of the maneuvering stations with the familiar dials and gauges spread out in front of her. The readings had not changed at all since she last left them, for the obvious reason that they had not moved. She took in the reading from each gauge separately, adding it to her holistic picture of the situation her boat was in. But the gauges were not telling her anything new.
 
 It suddenly occurred to her that the gauges were the wrong place to look for input. She would know the boat was rising before any of the gauges showed it. The water was being drained out so slowly that it wasn't like the boat would just pop off the bottom. She would feel the slight incline it had taken on settling into the bottom come off first. The boat righting itself would be the first indication it was rising, and she would not need gauges to know that was happening.
 
-She returned to her feet, fished her control-room cigarillo pack from its nook in the wall and lit up. With nothing that mattered to look at, she started pacing unconsciously back and forth. How long now? She looked at her watch, but realized as soon as she did that that particular gauge did not matter either.
+She returned to her feet, fished her control-room cigarillo pack from its nook in the wall and lit up. With nothing that mattered to look at, she started pacing unconsciously back and forth. How long now? She looked at her watch, but realized immediately that that particular gauge did not matter either.
 
-She glanced over at the control gauges and just as she did, she saw the angle-of-the-boat gauge waver slightly back and forth in its little glass tube. Ah! She was wrong. The gauges might know first! Seconds later she did feel it. The deck under her feet changed inclination every so slightly, She reached up and grabbed a strap, and then the whole boat rolled a couple of degrees towards level, shaking off its lethargic repose. But coming up from a dead weight on the bottom of the sea was all she did. The boat hung there, relatively evenly trimmed, but the bulk of its weight still supported by the bottom.
+She glanced over at the control gauges despite herself. This time, just as she did, she saw the angle-of-the-boat gauge waver slightly back and forth in its little glass tube. Ah! She was wrong. The gauges might know first! Seconds later she did feel it. The deck under her feet changed inclination every so slightly, She reached up and grabbed a strap, and then the whole boat slowly rolled a couple of degrees towards level, shaking off its lethargic repose. But coming up from a dead weight on the bottom of the sea was all she did. The boat hung there, relatively evenly trimmed, but the bulk of its weight still supported by the bottom.
 
 "The fucking trim tanks!" Percy remembered they had been pumping bilge water into them, but that water was still physically inside the _Prospect_. She looked at the ballast control panel. The gauge for the high-pressure air showed the system was severely depleted after their ballast blows. But there was still some residual pressure in the system, and the trim tanks were very small compared to the big ballast and fuel tanks. She put her hand out to the valve on the ballast panel that would blow bilge water out the trim tanks and opened it.
 
-There was the usual loud hiss, Percy counted a beat, and then the bow of the boat jumped off the bottom, followed quickly by the stern. The depth-under-keel gauge snapped up to two meters. She could hear suddenly-wakened crew members cursing loudly up at her from the crew quarters. She grabbed the boat PA mic "Fellow submariners! We have positive fucking buoyancy."
+There was the usual loud hiss, Percy counted a beat, and then the bow of the boat jumped off the bottom, followed quickly by the stern. The depth-under-keel gauge snapped up to two meters. She could hear suddenly-wakened crew members cursing loudly up at her from the crew quarters. She grabbed the boat PA mic "Fellow motherfuckers! We have positive fucking buoyancy."
 
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 [//]: # (### A fight with Chips)
 
