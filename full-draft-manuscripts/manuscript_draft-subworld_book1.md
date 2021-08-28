@@ -650,27 +650,31 @@ There was the usual loud hiss, Percy counted a beat, and then the bow of the boa
 
 The sensation of moving up instead of down felt oddly terrific. A relief in the change of environmental accelerations that only someone who has acutely attuned themselves to three-dimensional space would recognize. 
 
-As soon as Percy had blown out the trim tanks, there was no stopping the _Prospect_. It was a slow rise, weighted down by the tons of extra weight in water still sloshing around in the cargo hold --- nothing like the violent rise that an emergency blow would illicit had the boat been functioning normally. But they were steadily rising.
+As soon as Percy had blown out the trim tanks, there was no stopping the _Prospect_. It was a slow rise, weighted down by the tons of extra weight in water still sloshing around in the cargo hold --- nothing like the violent rise that an emergency blow would illicit had the boat been functioning normally --- but they were steadily moving toward the surface.
 
 Hemi popped up in the control room and stood watching the gauges, smiling a quiet smile of intellectual and mechanical satisfaction. 
 
-"Hemi, don't just stand there like a fucking giant cow." Percy said to him. "Sit at the controls and make sure nothing stupid happens." Hemi nodded and lowered himself into the planes control chair while already turning the dive plane wheel for a more controlled angle of rise. Percy balanced the trim tanks at the tank control panel to keep them as level as possible. "Keep the bow slightly down Hemi, otherwise all that water still in the cargo hold is going to wash right back to the engine room."
+"Hemi, don't just stand there like a fucking giant cow." Percy said to him. "Sit at the controls and make sure nothing stupid happens." 
 
-A banging and cursing came up to them from the crew quarters, and a second later Chips climbed up into the control room, leaving a small puddle of black water at the base of the ladder, and a thin trail of the foul stuff behind her as she stepped up to Percy. She was holding a length of steel bracing pipe in her hand.
+Hemi nodded and lowered himself into the planes control chair while already turning the dive plane wheel for a more controlled angle of rise. 
 
-"Ya gaping and pustulated fucking twat! You torrid and rotting fucking asshole!  Ya almost killed me! What fucking stupid idea came to your head to blow the trim tanks with no warning? I was fuckin' washed half-way down the fucking boat!"
+Percy balanced the trim tanks at the tank control panel to keep them as level as possible. "Keep the bow slightly down Hemi, otherwise all that water still in the cargo hold is going to wash right back to the engine room."
 
-"Fuck off Chips. I gotta deal with surfacing my boat. We can talk about your proper emergency procedures later."
+A banging and cursing came up to them from the crew quarters, and a second later Chips climbed into the control room, leaving a small puddle of black water at the base of the ladder, and a thin trail of the foul stuff behind her as she stepped up to Percy. She was holding a length of steel bracing pipe in her hand.
+
+"Ya torrid and rotting fucking twat! You gaping and pustulated fucking asshole!  Ya almost killed me! What fucking stupid idea came to your head to blow the trim tanks with no warning? I was fuckin' washed half-way down the fucking boat!"
+
+"Back off Chips. I gotta deal with surfacing my boat. We can talk about your proper emergency procedures later." Percy replied to Chips, trying to keep her voice calm.
 
 "Ya fuck yourself and your fucking proper procedures. I'm talking about my fucking life you fucking swollen and carbuncled head of a syphilitic cock." Chips raised the pipe and pointed it at Percy.
 
-Percy didn't even look at Chips, instead keeping her eyes on the depth gauge that was steadily showing them coming shallower. "Put the fucking pipe down Chips."
+Percy didn't even look at Chips, instead keeping her eyes on the depth gauge that was steadily showing the boat coming shallower. "Put the fucking pipe down Chips."
 
-Chips snapped. She rushed at Percy taking the piece of pipe in a long swinging arc across the control room, just missing Hemi's head but connecting with Captain Percy's stomach. Percy doubled over immediately and fell to the cold metal of the deck.
+Chips snapped. She rushed at Percy taking the piece of pipe in a long swinging arc across the control room, just missing Hemi's head but connecting with Captain Percy's stomach. She doubled over immediately and fell to the cold metal of the deck.
 
 Hemi was out of his seat a second later, and had Chips' forearms taut in his huge fists, like bracing on the cables of some massive suspension bridge.
 
-Percy was not down long. She got up to one knee before she fired Chips. "You're off the fucking boat." Percy said quietly between gasping breaths. "We get to a port, you take your shit with you when you get off the boat, and never again befoul my boat with your black fungal fucking attitude."
+Percy was not down long. She got up to one knee before she fired Chips. "You're off the boat." Percy said quietly between gasping breaths. "We get to a port, you take your gear with you when you get off, and never again befoul my boat with your black fungal attitude."
 
 "Ya? Fuck you, you vegetatively stupid sow. I'll fucking be asleep in my rack while your fucking rusting shithole of a boat sinks around you. I don't fucking care anymore. I'd rather die than save your bulbous fucking ass one more time."
 
@@ -680,7 +684,7 @@ Hemi was steering Chips towards the hatch down out of the control room. He had t
 
 "I need it more than anyone, but you don't see me fucking swinging pipes at people." She was furious.
 
-Hemi nodded quietly. But he knew Chips was right on two counts: blowing the trim tanks without warning the boat was incredibly dangerous, and they would never get to a port without Chips' continuous help to patch the leaking hull.
+Hemi nodded quietly. But he knew Chips was right on two counts: blowing the trim tanks without warning the boat was incredibly dangerous. And they would never get to a port without Chips' continuous help to patch the leaking hull.
 
 
 ## Chapter 2
