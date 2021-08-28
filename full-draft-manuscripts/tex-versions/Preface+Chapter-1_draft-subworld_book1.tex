@@ -6,8 +6,11 @@
 
 \PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
 \PassOptionsToPackage{hyphens}{url}
-%
 \documentclass[]{article}
+\usepackage[top=3cm,bottom=3cm,nohead,nofoot]{geometry} % Added manually
+\pagestyle{plain} % Added manually
+\pagenumbering{gobble} % eats all page numbers % Added manually
+\usepackage{multicol} % Added manually
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -61,6 +64,8 @@
 \date{}
 
 \begin{document}
+
+\begin{multicols}{2} % Added manually
 
 \hypertarget{preface}{%
 \subsection{Preface}\label{preface}}
@@ -1753,5 +1758,10 @@ Hemi nodded quietly. But he knew Chips was right on two counts: blowing
 the trim tanks without warning the boat was incredibly dangerous. And
 they would never get to a port without Chips' continuous help to patch
 the leaking hull.
+
+
+ 
+\end{multicols} % Added manually
+
 
 \end{document}

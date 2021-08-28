@@ -9,4 +9,9 @@ build
 *.gif
 *.pdf
 *.html
+# Ignore basic tex cruft:
+*.log
+*.aux
+*.out
+
 
