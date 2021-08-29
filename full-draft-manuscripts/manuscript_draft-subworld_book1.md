@@ -644,8 +644,6 @@ She glanced over at the control gauges despite herself. This time, just as she d
 
 There was the usual loud hiss, Percy counted a beat, and then the bow of the boat jumped off the bottom, followed quickly by the stern. The depth-under-keel gauge snapped up to two meters. She could hear suddenly-wakened crew members cursing loudly up at her from the crew quarters. She grabbed the boat PA mic "Fellow motherfuckers! We have positive fucking buoyancy."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 [//]: # (### A fight with Chips)
 
 The sensation of moving up instead of down felt oddly terrific. A relief in the change of environmental accelerations that only someone who has acutely attuned themselves to three-dimensional space would recognize. 
@@ -692,17 +690,17 @@ Hemi nodded quietly. But he knew Chips was right on two counts: blowing the trim
 
 [//]: # (### Surfaced)
 
-The _Prospect_ rose slowly. It tilted a little on one axis, then the other as Captain Percy adjusted the trim of the tanks, but more or less the boat rose straight up, since they didn't have the motors running and it was being lifted by pure buoyancy alone.
+The _Prospect_ rose slowly. It tilted a little on one axis, then the other as Captain Percy adjusted the trim of the tanks, but more or less the boat rose straight up, since they didn't have the motors running and it was being lifted by buoyancy alone.
 
 Percy and Hemi watched the depth gauge slowly roll itself backwards, up past their test depth, up into what Percy would normally consider safe operating depth, then periscope depth, and then the sail broke through the surface. Those in the crew quarters could feel the boat bob like a cork to the surface, and at that they let out a small cheer and they arrived moments later at the bottom of the ladder up to the control room, obviously expecting to go out on deck.
 
 At first, Captain Percy wasn't even going to think about allowing that. Years of experience had reinforced the routine that the first action on surfacing a sub was to scan around with the periscope, if not the radar. There was always a chance that the only safe move was to dive right back down. But she fought back this instinct within herself --- there was nothing on the surface that could be more dangerous than attempting to dive her damaged boat again. She looked down at her crew --- minus Chips --- and waved them up through the control room.
 
-Owen, with his scrawny youthful energy, led the way and charged up the ladder, struggled with the tightly closed and somewhat rusted hatch-seal wheel for a moment before squeaking it open, and then pushed the hatch up.
+Owen, with his scrawny youthful energy, led the way and charged up the ladder, struggled with the tightly closed and somewhat rusted hatch-seal wheel for a moment before squeaking it open, and pushing the hatch up.
 
-On a submarine, one never realizes how stale and still the air can be until a moment like this. Daylight poured down through the hatch into the control room below. With it came cool, moving air. It was air that smelled of the open sea instead of the stench of warm human bodies, oil, and diesel exhaust. The crew followed Owen out onto the bridge.
+On a submarine, one never realizes how stale and still the air can be until a moment like this. Daylight poured down through the hatch into the control room below. With it came cool air in motion. It was air that smelled of the open sea instead of the stench of warm human bodies, oil, and diesel exhaust. The crew followed Owen out onto the bridge of the sail.
 
-It was a cool, breezy day. Gray clouds hung low overhead, and there was a mild chop on the water. It couldn't be more perfect, as far as they were concerned. Owen climbed over the fairing and down the rungs on the side of the sail to the main deck and ran up and down it shrieking like a small child. 
+It was a cool, breezy day. Gray clouds hung low overhead, and there was a mild chop on the water. It couldn't be more perfect, as far as they were concerned. Owen hopped over the fairing and down the rungs on the side of the sail to the main deck and ran up and down it shrieking like a small child. 
 
 After a few minutes of just enjoying the surface air, Percy got back to the situation at hand. "Hemi, you were looking at the charts: who controls this part of the surface these days?" Percy asked.
 
@@ -712,17 +710,17 @@ After a few minutes of just enjoying the surface air, Percy got back to the situ
 
 "We would be on our way... if we had any fuel or power." Said Percy. "That lovely sound you hear of gentle waves smacking against our hull is the sound of a boat not moving. We're dead in the water, and we're still a bit fucked folks."
 
-"Owen!" She called down to the deck. "Get back up here, we have to get back to work." As he ran over and started climbing back up the side of the sail she started laying out their next steps. "Hemi, get down to the navigation chart and see if there's any hope of any place we could limp to with what little fucking charge we have left on the battery."
+"Owen!" She called down to the deck. "Get back up here, we have to get back to work." As he ran over and climbed back up the side of the sail she laid out their next steps. "Hemi, get down to the navigation chart and see if there's any hope of any place we could limp to with what little fucking charge we have left on the battery."
 
-"Bastian, get on the radio and see if you can raise anyone on the Independent Operators frequency. Maybe we'll get extraordinarily lucky and find some help from someone who won't ask too many questions."
+"Bastian, get on the radio and see if you can raise anyone on the Independent Operators frequency. Maybe we'll get extraordinarily fucking lucky and find some help from someone who won't ask too many fucking questions."
 
 "Or try to sink us." Bastian put in.
 
-"Ya. If you do raise anyone don't actually talk to them. And don't _tell_ them anything. Just come get me and I'll try to gauge their reliability myself."
+"Ya. If you do raise anyone don't actually talk to them. And don't fucking _tell_ them anything. Just come get me and I'll try to gauge their reliability myself."
 
 "Sure Capt." Said Bastian.
 
-"Gregory... I'm starving, want to see if you can get something going in the galley?"
+"Gregory... I'm fucking starving, want to see if you can get something going in the galley?"
 
 "Sounds good."
 
@@ -736,6 +734,8 @@ They climbed back down into the control room, but left the hatch open and for th
 Inside, Captain Percy joined Hemi at the navigation table.
 
 "The most pressing problem" said Hemi, not even waiting for her to ask, "is the batteries are basically gone. Even running extremely judiciously, we have a range of a few nautical miles at best." He used a compass to draw a dotted line around their position showing what was within range. It was a completely barren section of the chart in the middle of the ocean. It was nowhere.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Not even close huh? Well, that just leaves us with the option of accepting help from someone."
 
