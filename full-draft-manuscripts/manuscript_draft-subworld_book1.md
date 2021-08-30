@@ -735,29 +735,27 @@ Inside, Captain Percy joined Hemi at the navigation table.
 
 "The most pressing problem" said Hemi, not even waiting for her to ask, "is the batteries are basically gone. Even running extremely judiciously, we have a range of a few nautical miles at best." He used a compass to draw a dotted line around their position showing what was within range. It was a completely barren section of the chart in the middle of the ocean. It was nowhere.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-"Not even close huh? Well, that just leaves us with the option of accepting help from someone."
+"Not even close huh? Well, that just leaves us with the less than ideal option of accepting help from someone."
 
 "Most folks in these neglected waters are not much inclined to help those they do not know."
 
-"We'll just have to hope we don't meet most folks then."
+"We'll just have to hope we don't meet most fucking folks then."
 
-She took a couple of steps back to look up through the hatch into the control room and see how Bastian was doing with his effort to achieve that goal. He had one stick-like arm up in the air, adjusting some dials on the radio mounted in the ceiling of the control room. His other hand held the mic that was attached by a curling black wire to the radio. He was giving out mayday requests on a couple of different frequencies known to be monitored by other independent shipping operators like themselves --- both legitimate cargo haulers and smugglers. Those frequencies were also often monitored by Authority vessels that might be engaged in policing shipping and transport traffic. 
+She took a couple of steps back to look up through the hatch into the control room and see how Bastian was doing with his effort to achieve that goal. He had one stick-like arm up in the air, adjusting some dials on the radio mounted in the ceiling of the control room. His other hand held the mic that was attached by an ancient curling wire to the radio. He was giving out mayday requests on a couple of different frequencies known to be monitored by other independent shipping operators like themselves --- both legitimate cargo haulers and smugglers. Those frequencies were also often monitored by Authority vessels that might be engaged in policing shipping and transport traffic through their control areas. 
 
 "Anything Bastian?"
 
-"Nothing. Nothing good or bad. This is one voided piece of open fucking ocean you raised us in."
+"Fucking nothing. Nothing good or bad. This is one voided piece of open fucking ocean you raised us in."
 
 "Alright. I'll check sonar and radar. Maybe someone's listening who just isn't interested in responding."
 
 She stepped over to the sonar station lifted the headphones over her ears. Without bothering to sit, she turned the directional control wheel with one hand, slowly back and forth, scanning for the sound of anything made by humans. One nice thing about being dead in the water was they weren't making any noise themselves. She could hear even the small waves against the hull of the _Prospect_. It was a rare pleasure to have such clean and uncompromised sound on sonar. But for all that silence, there wasn't anything to hear.
 
-The passive sonar was safer to use than the radar because it did not send out any signal that could be detected. You just listened with underwater microphones for the sound any other vessel might be making. It also had the advantage that it could be used while submerged. Radar on the other hand could only be used while they were on the surface, and it sent out a big loud radio beacon that could be seen by any other ship with a radar unit --- basically all of them. If there were any ships out there, the signal would bounce back to the _Prospect_ and they would know the location. But any other ship in range could detect the radar signal and also know the precise location of the _Prospect_. Generally when Percy used radar, her habit was to dive soon afterwards.
+The passive sonar was safer to use than the radar because it did not send out any signal that could be detected. You just listened with what were essentially underwater microphones for the sound any other vessel might be making. It also had the advantage that it could be used while submerged. Radar on the other hand could only be used while they were on the surface, and it sent out a big loud radio beacon that could be seen by any other ship with a radar unit --- basically all of them. If there were any ships out there, the signal would bounce back to the _Prospect_ and they would know the location. But any other ship in range could detect the radar signal and also know the precise location of the _Prospect_. Generally when Percy used radar, her habit was to dive soon afterwards.
 
-In this case the radar swung around to show a completely empty scope. There was nothing for miles in every direction. She left it scanning and eased herself into the sonar station chair and tried to get comfortable.
+In this case she thought turning on the radar was worth the risk. But the radar swung around to show a completely empty scope. There was nothing for miles in every direction. She left it scanning and eased herself into the sonar station chair and tried to get comfortable.
 
-For the next few hours she chain-smoked and listened to the emptiness of the ocean around them. It was a mind-numbing task that required concentration to try and pick out a signal from the muted hiss and rush that came down to her from the choppy surface. She swept the sonar mics in a circle covering every direction out from the _Prospect_ and back again. Having not found anything, she would start again. The continual effort at maintaining her attention on the search butted against the complete lack of any signal to focus on or track. She was beginning to think the best move might be to go check that they had enough food an water supplies to survive weeks of drifting on open ocean.
+For the next few hours she chain-smoked and listened to the emptiness of the ocean around them on the passive sonar. It was a mind-numbing task that required concentration to try and pick out a signal from the muted hiss and rush that came to her from the choppy surface. She swept the sonar mics in a circle covering every direction out from the _Prospect_ and back again. Having not found anything, she would start again. The continual effort at maintaining her attention on the search butted against the complete lack of any signal to focus on or track. She was beginning to think the best move might be to go check that they had enough food and water supplies to survive weeks of drifting on open ocean.
 
 Except then, way off their rear port side, a very soft throbbing came into her headset. She closed her eyes. It was faint and threaded, like the last heartbeats of a leviathan. She opened her eyes and glanced at the radar sweep, but it remained completely clean.
 
@@ -765,13 +763,15 @@ She called Hemi over. "Listen to this, and tell me what the fuck you think it is
 
 Hemi had exceptional ears for sonar. He stood next to her and put the headphones on and his eyes lost focus as he listened. The tips of his thick brown fingers rested on the top of the directional control wheel and eased it back and forth across the contact's heading.
 
-"Very small surface craft, and moving... unusual though, and not just because it is tiny and in the deep ocean. It seems like it has almost no hull sound. I don't really hear any wake running along it."
+"Very small surface craft, and moving... unusual though --- and not just because it is tiny and in the deep ocean. It seems like it has almost no hull sound. I do not hear any wake running along it."
 
 "Can you calculate a range?"
 
-"It is close. Let's see." He looked at the dials of the sonar unit and scribbled some numbers on a scrap paper. "2 nautical miles, thereabouts maybe? I think you should be able to see it with the scope."
+"It is close. Let me see." He looked at the dials of the sonar unit and scribbled some numbers on a scrap paper. "2 nautical miles, thereabouts maybe? I think you should be able to see it with the periscope."
 
 Percy nodded and climbed up into the control compartment. She raised the periscope up and spun it around to the bearing of the target. She rolled the scope barrel slowly back and forth along the horizon line, where the dark gray of the water press-fit up against the light gray of the sky. With the _Prospect_ on the surface, and the scope up, she could see something like ten nautical miles on a clear day. This was as good as vision ever got on a submarine.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Even if it were a fucking canoe... at two miles away I should be able to see it." There was nothing but unblemished gray fields in her scope. She double-checked the bearing with Hemi. 
 
