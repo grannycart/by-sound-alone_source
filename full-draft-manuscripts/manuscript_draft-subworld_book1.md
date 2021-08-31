@@ -771,56 +771,54 @@ Hemi had exceptional ears for sonar. He stood next to her and put the headphones
 
 Percy nodded and climbed up into the control compartment. She raised the periscope up and spun it around to the bearing of the target. She rolled the scope barrel slowly back and forth along the horizon line, where the dark gray of the water press-fit up against the light gray of the sky. With the _Prospect_ on the surface, and the scope up, she could see something like ten nautical miles on a clear day. This was as good as vision ever got on a submarine.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-"Even if it were a fucking canoe... at two miles away I should be able to see it." There was nothing but unblemished gray fields in her scope. She double-checked the bearing with Hemi. 
+"Even if it were a fucking canoe... at two miles away I should be able to see it." There was nothing but unblemished gray fields in her scope. She double-checked the bearing with Hemi, shouting down to the sonar station below. 
 
 She was pointed in the right direction, there was simply nothing there. 
 
-She had a hunch though. She felt confident about the sonar target. She was sure something was there despite the fact that underwater sound can sometimes play tricks. The lack of any visual on the surface narrowed down the possibilities of what it could be.
+She had a hunch though. She felt confident about the sonar target. She was sure something _was_ there despite the fact that underwater sound can sometimes play tricks. The lack of any visual on the surface narrowed down the possibilities of what it could be.
 
-"Hemi, I want to motor over closer to it."
+"Hemi," she called down again to the compartment below, "I want to motor over closer to it. Keep tracking it on sonar."
 
-"What ever it is, remember that it is very small. Even if we find something, and even if they are friendly, there might not be much the can do to help us."
-
-"Taking fucking risks has got us this far, Hem'. Stay here on sonar and track it."
-
-Captain Percy put Bastian back in the rudder/throttle control seat. She gave him a heading towards the sonar target and they put the electric motors in gear. Her eyes locked on the battery gauge, which waved slightly as the motors started turning, drawing amperage from the depleted battery banks. The needles on the battery gauges were deep in the red now. There was such a very little gap of air between them and the zero mark. They would only get one shot at this. 
+Captain Percy put Bastian back in the rudder/throttle control seat. She gave him a heading towards the sonar target and they put the electric motors in gear. Her eyes locked on the battery gauge, which waved slightly as the motors started turning, drawing the last amperage from the depleted battery banks. The needles on the battery gauges were deep in the red now. There was such a very little gap of air between them and the zero mark. They would only get one shot at this. 
 
 
 [//]: # (### Ship-to-ship)
 
-They crept --- two nautical miles an hour. After a quarter hour or so, Hemi called up from sonar, "We got lucky Percy, I'm tracking something like an intercept course. At our current rate there is no way we would ever have caught them if the object were heading away from us. They have pretty good speed on. But..." There was a gap, and Percy could hear him scratching a pencil on paper. "But, we need to go slightly faster, can you do four knots?"
+They crept --- two nautical miles an hour. After a quarter hour or so, Hemi called up from sonar, "We got lucky Sylvia. I am tracking something like an intercept course --- it is headed towards us at any rate. At our current speed there is no way we would ever have caught them if the object were heading away from us. It is moving fairly quickly. But..." There was a gap, and Percy could hear him scratching a pencil on paper. "But, we need to go slightly faster, can you do four knots?"
 
-Percy sighed. It didn't sound like much, but it was twice as much power consumption. "You heard the man Bastian, give her a little fuckin' gas."
+Percy sighed. It did not sound like much, but it was twice as much power consumption. "You heard the man Bastian, give her a little fuckin' gas."
 
 There was a burning cigarette between Bastian's bony fingers as they wrapped around the throttle and eased it slightly forward.
 
-A few minutes later Hemi called up, "That's good. We'll be within a quarter mile of it in a matter of minutes."
+A few minutes later Hemi called up, "Good. We will be within a quarter mile of it in a matter of minutes."
 
-"They must be able to see us. They haven't changed direction or speed?"
+"They must be able to fucking see us. They haven't changed direction or speed?"
 
-"Nope. They must not be looking, or they just don't care."
+"No. They must not be looking, or they just do not care."
 
 Captain Percy stayed on the periscope, slowly tracking across the bearing. Still nothing.
 
 "Sylvia!" Called up Hemi. "They are gone. No detectable signal on the sonar."
 
-"Stop the boat Bastian." The electric motors were very quiet when running this slow, but she wanted Hemi to have total silence for listening. "What was the last range Hemi?"
+"Stop the boat Bastian." The electric motors were very quiet when running this slow, but she wanted Hemi to have total silence for listening. "What was the last fucking range Hemi?"
 
 "About 500 meters. They are super close. I have to assume they are just sitting out there. We could ping them?"
 
-"Ah, that would fucking scare the shit out of them. They might think we were armed and about to fire on them. We're trying to make friends here. ...I'm going to try ship-to-ship radio, we're just close enough they might hear us, and the radio could be a little less threatening."
+"Ah, that would fucking scare the shit out of them. They might think we were armed and about to fucking fire on them. We're trying to make friends here. ...I'm going to try ship-to-ship radio. We're just fucking close enough they might hear us, and the radio could be a little less threatening."
 
 Percy reached over her head and flipped on the ship-to-ship radio. It wasn't really a radio, it was just acted like one. It used the sonar rig to push sound through the water to talk to other ships nearby. 500 meters was just about the limit of its range. Real radio transmissions were supposed to follow a set of protocols and rules, potentially enforced by agents of Authorities in their respective territories. Ship-to-ship had no rules other than an informal argot that had developed partially to obfuscate meaning for any other ship that might be listening, and partially just evolved from nautical cultural habit.
 
-Captain Percy took down the mic from the radio and brought it to her lips. She pushed the transmit button, and the needles on the gauges on the radio jumped to show how much power she was transmitting with. She whistled a series of five tones into the mic, and let go of the transmit button. The power needles died back to zero, and there was silence for a minute or two. Then she repeated the transmission of the tones. Another minute passed.
+Captain Percy took down the mic from the radio and brought it to her lips. She pushed the transmit button, and the needles on the radio unit's gauges jumped to show how much power she was transmitting with. She whistled a series of five tones into the mic, and let go of the transmit button. The power needles died back to zero, and there was silence for a minute or two. 
 
-Then a crackly male voice came over the radio. "I see you over there, you hulking ugly gray fuckin' submarine. And I guess you know I'm here. Why are ya sittin' on the fucking surface, and what ya want with me?"
+Then she repeated the transmission of the tones. Another minute passed.
 
-Percy hesitated, and then transmitted back. "Well, first let me state flat out that we're nothing but a cargo sub --- and let me emphasize: unarmed. Second, we've been severely damaged, and swam through an icy hell to get back to the surface. We're out of fuel and extremely low on power. Long and short is that we're in some desperate fucking need of help, and you are the only contact we've seen in these fucking desolate waters."
+Then a crackly male voice came over the radio. "I see you over there, you hulking ugly gray fuckin' submarine. And I guess you know I'm fucking here. Why are ya sittin' on the fucking surface, and what ya want with me?"
 
-Another moment passed. "Yea. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered a-holes who seem more interested in shooting down transports than letting any commerce commence. It's a bad place to be not moving and on the surface."
+Percy hesitated, and then transmitted back. "Well, first let me state flat out that we're nothing but a cargo sub --- and let me emphasize: un-fucking-armed. Second, we've been severely damaged, and swam through an icy hell to get back to the surface. We're out of fuel and extremely low on power. Long and short is that we're in some desperate fucking need of help, and you are the only contact we've seen in these fucking desolate waters."
+
+Another moment passed. "Yea. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered class A holes who seem more interested in shooting down transports than letting any commerce commence. It's a fucking bad place to be not moving and on the surface."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Not movin' is hardly typical for us. What are you sitting on there? We don't see any ship in the scope. Any assistance you can offer would be much fucking appreciated."
 
