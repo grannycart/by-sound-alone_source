@@ -818,32 +818,32 @@ Percy hesitated, and then transmitted back. "Well, first let me state flat out t
 
 Another moment passed. "Yea. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered class A holes who seem more interested in shooting down transports than letting any commerce commence. It's a fucking bad place to be not moving and on the surface."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-"Not movin' is hardly typical for us. What are you sitting on there? We don't see any ship in the scope. Any assistance you can offer would be much fucking appreciated."
+"Not moving is hardly fucking typical for us. What are you sitting on there? We don't see any ship in the scope. Any assistance you can offer would be much fucking appreciated."
 
 "Ehh, I'm not one who is much for offering fucking assistance, so for the next few minutes here I think I'm not going to show ya what I'm running. But if yer telling the truth, I don't envy your fucking dire-ass situation."
 
-"I absolutely fucking understand your unwillingness to give us any fucking stealth you might have. Being a sub operator, stealth is the main tool of our fucking trade.. Anything I can do to reassure you we aren't anything other than we say we are?"
+"I absolutely fucking understand your unwillingness to not tip your hand. Anything I can do to reassure you we aren't anything other than we fucking say we are?"
 
 "The territorial Authority motherfuckers around here generally just shoot first, check papers later. They're not much for mind games. So the fact that you haven't already shot at me says a lot." 
 
 There was a long pause of radio silence. Percy held the mic off-angle in her hand while listening. She began to worry that she had lost their only chance for help.
 
-The ship-to-ship crackled back to life. "Alright. I think I can risk pulling alongside ya, and poppin' the hatch. Don't send nobody onto my boat without my say-so, or I'll dive straight out from under ya, fucking' got it?"
+The ship-to-ship crackled back to life. "Alright. I think I can risk pulling the fuck alongside ya, and poppin' the hatch. Don't send nobody onto my boat without my say-so, or I'll dive straight out from under ya. Fucking' got it?"
 
-"We'll look for ya off the port side. Out."
+"We'll look for you --- for something --- off the port side. Out."
 
 
 [//]: # (### Shakes pulls alongside)
 
-"Hemi," Percy called down to sonar, "we've got ourselves something, though I'm not sure what. You and Bastian come up on deck with me."
+"Hemi," Percy called down to sonar, "we've got ourselves something, though I'm not sure fucking what. You and Bastian come up on deck with me."
 
-Bastian unfolded his long skinny limbs from the control chair and climbed through the hatch and up the ladder to the bridge with Percy and Hemi following. The wind was blowing a little harder now and the chop had kicked up a bit more. Bastian cupped his hands and lit another cigarette. Percy and Hemi shaded their eyes, scanning the water. It was a few minutes before they saw a small gray oblong object cutting through the choppy little waves. It was a tiny submarine sail, no more than a meter long and high, with a couple of thin wispy antennas trailing from the top in the wind. Unusual for a submarine sail, it had a small view port in the front of it through which the pilot could look. At the rear of the sail a stream of diesel smoke floated up and away behind it. The deck of the small sub was totally awash, running just at the surface of the water.
+Bastian unfolded his long skinny legs from the cramped-looking position where his feet were propped up on the control panel and climbed up through the hatch and via the ladder to the bridge of the sail with Percy and Hemi following. The wind was blowing a little harder now and the chop had kicked up some more. Bastian cupped his hands and lit another cigarette. Percy and Hemi shaded their eyes, scanning the water. It was a few minutes before they saw a small gray oblong object cutting through the choppy little waves. It was a tiny submarine sail, no more than a meter long and high, with a couple of thin wispy antennas trailing from the top in the wind. Unusual for a submarine, it had a small view port in the front of the sail through which the pilot could look. At the rear of the sail a stream of diesel smoke floated up and away behind it. The deck of the small sub was totally awash, running just at the surface of the water.
 
-As it got closer they could see the big splotchy patches of rust all along the hull of the mini-sub, and a slight oil slick of a trail that it left behind in its minimal wake. Bastian, Hemi, and Percy climbed over the fairing of the sail of the _Prospect_ and down to the deck. Standing here, Percy was discomforted to see the bow of her boat sitting much lower in the water than usual, still weighed down by the tons of excess ballast water.
+As it got closer they could see the big splotchy patches of rust all along the hull of the mini-sub, and a slight oil slick of a trail that it left behind in its minimal wake. Bastian, Hemi, and Percy climbed over the fairing of the sail of the _Prospect_ and down to the deck. Standing here, Percy was somewhat sickened to see the bow of her boat sitting much lower in the water than usual, still weighed down by the tons of excess ballast water.
 
-A moment passed before a hatch opened at the top of the sail of the mini-sub and a head of a man with spiked yellow hair emerged. His arms were still inside the sail working controls and he was standing propped on something so he could see as he guided the boat alongside the _Prospect_. Bastian opened a wet-storage hatch on the deck and pulled out some large white rubber bumpers that were flat and deflated after being subjected to the pressures of underwater. He connected each to a fixture for the low-pressure compressed air system, and let a little puff of air into the bumpers until they had been restored to more or less their normal shape. Each bumper had a long line that he tied off on deck cleats and lowered down between the two subs.
+A moment passed before a hatch opened at the top of the sail of the mini-sub and a head of a man with spiked yellow hair emerged. His arms were still inside the sail working controls and he was standing propped on something inside so he could get his head up high enough above the boat to see as he guided it alongside the _Prospect_. 
+
+Bastian opened the hatch to a wet-storage locker on the deck and pulled out some large white rubber bumpers that were flat and deflated after being subjected to the pressures of underwater. He connected each to a short hose that led to a fixture for the low-pressure compressed air system inside the wet-storage locker, and let a little puff of air into the bumpers until they had been restored to more or less their normal shape. Each bumper had a long line that he tied off on deck cleats and lowered down between the two subs.
 
 "Toss a line!" The guy in the sail yelled as he let the engine run on idle and climbed up over the fairing. He was wearing rubber boots as he ran up along the washed deck of the small sub. They were pulled over black leather pants that were cracked and gray at the seams and joints. From the left side of his ancient brown leather belt hung a couple of sizes of adjustable wrenches, the finish on the them beat away, matte and rusting in places from years of banging against each other like chimes. He wore a worn black denim vest from which the sleeves had been inexpertly removed leaving stray threads of denim trailing behind him in the breeze and exposing a pair of sinewy pale arms.
 
@@ -856,9 +856,11 @@ He looked around with a nervous twitch, and then motioned to Bastian for a cigar
 
 The man took the cigarette in a hand that shook slightly when he reached out, and brought it to his lips and sucked long and hard at it. "Ah fuck thanks. I ran out a couple of days ago. I go by Shakes." He held up his hand level in front of them and they could see it tremble slightly in the air. "Ya can see why." Shakes looked at Hemi standing just ahead of Percy with his black beard wafting in the breeze. "You the captain?"
 
-Hemi nodded toward Percy who was still looking at the mini-sub. "That's a hell of a craft ya got there Shakes." She said.
+Hemi nodded toward Percy who was still looking at the mini-sub. "That's a hell of a fucked-up craft ya got there Shakes." She said.
 
-"Like it? I built it my fuckin' self. Welded it together on the top of a mountain coffee farm from rotting scraps of metal. They had a bunch of land higher up where the coffee don't grow, and it seemed like a good place to build a boat. It was. Cept it wasn't a good place to launch a boat from. Getting it down to the water was fucking way more difficult than the buildin'."
+"Like it? I built it my fuckin' self. Welded it together on the top of a mountain coffee farm from rotting scraps of metal. They had a bunch of land higher up where the coffee don't grow, and it seemed like a good place to build a boat. It was. Cept it wasn't a good place to launch a boat from. Getting it down to the water was fucking way more difficult than the buildin' of it."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "I could imagine." Said Hemi.
 
