@@ -860,17 +860,15 @@ Hemi nodded toward Percy who was still looking at the mini-sub. "That's a hell o
 
 "Like it? I built it my fuckin' self. Welded it together on the top of a mountain coffee farm from rotting scraps of metal. They had a bunch of land higher up where the coffee don't grow, and it seemed like a good place to build a boat. It was. Cept it wasn't a good place to launch a boat from. Getting it down to the water was fucking way more difficult than the buildin' of it."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 "I could imagine." Said Hemi.
 
-"I've heard of this kind of thing," said Percy, "run fast and just below the surface. Basically invisible to any kind of radar, and too quiet for most sonar. Good for... small shipments?"
+"I've heard of this kind of thing," said Percy, "the boat runs fast and just below the surface. Basically invisible to any kind of radar, and too quiet for most sonar. Good for... small shipments?"
 
-"Ay, 'Specialty shipments' --- when stuff has to be got somewhere fast with no questions asked. Just not too much stuff. I also built in a few special modifications --- this here ship is the fastest and most versatile in its fucking class!" 
+"Ay, 'Specialty shipments' --- when stuff has to be got somewhere fast with no fucking questions asked. Just not too much stuff. I also built in a few special modifications --- this here boat is the fastest and most versatile in its fucking class!" 
 
 Hemi looked at the rusting bulbous hulk alongside and doubted there was any class of vessel that would accept it. 
 
-Shakes continued. "Most of these homemade jobs just run at the surface; I added some batteries and some trim tanks, and this here boat, the _Gnat_ is the name, can _dive_. Run a bit under water, just enough to get away from any curious onlookers."
+Shakes continued. "Most of these homemade jobs just run at the surface; I added some batteries and some trim tanks, and this here boat, the _Gnat_ is the fucking name, can _dive_. Run a bit under water, just enough to get away from any curious onlookers."
 
 "How deep?" Asked Hemi.
 
@@ -878,22 +876,22 @@ Shakes continued. "Most of these homemade jobs just run at the surface; I added 
 
 "How fast?" Hemi could not deny his curiosity now.
 
-Shakes grinned. "Faster than this fuckin' tub." He said kicking the toe of his rubber boot against the hull of the _Prospect_. 
+Shakes grinned. "Faster than this fuckin' barge." He said kicking the toe of his rubber boot against the hull of the _Prospect_. 
 
-Percy frowned. "Welp, that's an impressive submersible hobby you got there. But has anyone here got an idea how how we're going to get my fucking boat moving? You ain't carrying a load of fucking diesel fuel are you Mr. Shakes?"
+Percy frowned. "Welp, that's an impressive submersible fucking hobby you got there. But has anyone here got an idea how how we're going to get my fucking boat moving? You ain't carrying a load of fucking diesel fuel are you Mr. Shakes?"
 
-"Captain Shakes, if you fuckin' please. And I certainly ain't got fucking fuel to spare. And I can't say what I _am_ carrying, ceptin' that I can't see how any of it could help you. Still, if I can do anything to assist, I'm game. I'm pretty convinced y'all ain't some Authority ruse, and we smugglers gotta stick together, I say."
+"Captain Shakes, if you fuckin' please. And I certainly ain't got fucking fuel to spare. And I can't say what I _am_ carrying, ceptin' that I can't see how any of it could help you. Still, if I can do anything to assist, I'm game. I'm pretty convinced y'all ain't some Authority ruse, and we smugglers gotta stick together, I fucking say."
 
-"We're not smugglers." Said Percy, her eye firmly locked on Shakes'. "We're independent logistics operators."
+"We're not smugglers." Said Percy, her eye firmly locked on Shakes. "We're independent logistics operators."
 
-"Ain't we all!" Said Shakes. "Honestly, I ain't got much in the way of ideas for ya. I was thinking maybe you was the smart ones. From what I can see y'all are fuckin' fucked. Best I can say is I could run into my destination port and send some friendly bigger boat back out for ya. But that'll probably take a couple fuckin' days at least."
+"Ain't we fucking all!" Said Shakes. "Honestly, I ain't got much in the way of ideas for ya. I was thinking maybe you was the smart ones. From what I can see y'all are fuckin' fucked. Best I can say is I could run into my destination port and send some friendly bigger boat back out for ya. But that'll probably take a couple fuckin' days at least."
 
 
 [//]: # (### they find out about the depot from Shakes)
 
-"In a couple of days we'll either be sunk or in an Authority holding cell. There's gotta be a better option. Hemi?" Percy looked at up at him.
+"In a couple of days we'll either be sunk or in some fucking Authority holding cell. There's gotta be a better option. Hemi?" Percy looked at up at him.
 
-"Well, nothing immediately comes to mind. But that is with limited information. If a new option has arisen, it will be aboard the _Gnat_. But to sort that out, I would have to get in there and take a look at what resources you've got Shakes. I'm not sure how willing you are to let me do that."
+"Well, nothing immediately comes to mind. But that is with limited information. If a new option has arisen, it will be aboard the _Gnat_. But to sort that out, I would have to get in there and take a look at what resources you have got aboard Shakes. I'm not sure how willing you are to let me do that."
 
 Shakes did not say anything, but pulled on his cigarette and watched the exhaled smoke quickly sucked out over the water by the breeze.
 
@@ -901,21 +899,23 @@ Shakes did not say anything, but pulled on his cigarette and watched the exhaled
 
 "Ay, I was about to fuckin' say anyway: there's a mid-sea depot about 100 miles from here. It's just over the line in the waters of a different Authority. Somewhat more permissive folks; bit more friendly to commerce. That's why the Authority on this side of the line are such a bunch of aggressive motherfuckin' assholes though --- they don't want shit running through here to there. If you can get this tub of yers to the depot, you can definitely get fuel there, and probably some fuckin' poorly executed and overpriced repairs as well."
 
-"Sounds like a fucking Eden." Said Percy. "Look, we aren't the type to ask for help, and I hate imposing on other folks business, just as I don't want 'em imposing on mine. But you can see we're more than a little desperate here. If you can allow Hemi --- and just Hemi --- aboard to take some specs of your boat, see if you're carrying anything he can use, we'll make it up to you at the depot. ...though at the current moment about all we can offer you is hot food."
+"Sounds like a fucking Eden." Said Percy. "Look, we aren't the type to ask for help, and I hate imposing on other folks' business, just as I don't want 'em imposing on mine, but you can see we're more than a little fucking desperate here. If you can allow Hemi --- and just Hemi --- aboard to take some specs of your boat, see if you're carrying anything he can use, we'll make it up to you at the depot. ...Though at the current moment about all we can offer you is hot food."
 
-Shakes eyes brightened at that. "Hrm. Well I ain't been eating nothing but cold chow straight from the can for days now. A hot meal is a strong offer yer puttin' on the fuckin' table there. Alright. This big guy, and this big guy alone. And he don't look at nothing I don't want him to look at, and he don't get answers to no questions I don't want to answer. No pushin', right?"
+Shakes eyes brightened at that. "Hrm. Well I ain't been eating nothing but cold chow straight from the can for days now. A hot meal is a strong offer yer puttin' on the fuckin' table there. Alright. This big guy, and this big guy alone. And he don't look at nothing I don't want him to look at, and he don't get answers to no questions I don't want to answer. No fucking pushin', right?"
 
 "No pushing." Said Hemi.
 
 "Right. Hang back a minute, let me go look around in there first, make sure all my fuckin' pornography is put away. When I give you the signal, come across."
 
-Percy grinned as Shakes lowered himself down the side and leapt nimbly over the dangerous gap between the two boats. He disappeared into the sail hatch of the _Gnat_.
+Percy grinned as Shakes lowered himself down the side and leapt nimbly over the dangerous gap between the two boats where the chop occasionally ground the two walls of rusting steel against each other with nothing to brace them but the cracked old bumpers. He disappeared into the sail hatch of the _Gnat_.
 
 "Interesting character." Said Hemi.
 
-"Solo operators... nobody who is comfortable spending days or weeks at sea alone --- eating cold canned food, no fucking less --- ever totally has their head screwed on fucking right. Anyway, it doesn't matter how pleasant a person he is. The question is, is there _anything_ you can do with that boat that's going to help us?"
+"Solo operators... nobody who is comfortable spending days or weeks at sea alone --- eating cold canned food, no fucking less --- ever totally has their head screwed on fucking right. Anyway, it doesn't matter how pleasant a person he is. The question is, do you think there's anything you can do with that boat that's going to help us?"
 
 "I'm not entirely hopeful. It's not much of a craft, and is not likely to have much in the way of resources aboard. Frankly, I am surprised he is not lost and dead in the water himself."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Find us something Hemi. But don't do anything to set off that fuckin' tweaked motherfucker while you're over there."
 
