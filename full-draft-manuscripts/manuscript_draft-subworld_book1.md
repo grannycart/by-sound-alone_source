@@ -1184,46 +1184,42 @@ With Gregory helping to pull the chain through the blocks, they hauled the gangw
 
 [//]: # (### They plan the mating collar)
 
-Chips waved Owen over. "Thanks for doing that fuckin' gangway. It'll be a lot easier getting back to the _Prospect_." She grinned her rarely-seen, wide-mouthed, slightly gapped-tooth grin at Owen. "Alright, look here, this is the plan Shakes and I got worked out, and ya should be glad Shakes is doing it. It's going to be a fuckin' nightmare if it works, and like a fuckin' wet, squirtin', languish in the head if it don't." She pointed to the top of the sail. "We fuckin' lucked out though, Shakes here made the sail fat enough that we can make the welds fuckin' flat. Ya just need a piece of steel cylinder cut even, then weld it around the hatch opening, and then weld the spare male docking clamps we got onto the sides of the fuckin' cylinder."
-
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Chips waved Owen over. "Thanks for doing that fuckin' gangway. It'll be a lot easier getting back to the _Prospect_." She grinned her rarely-seen, wide-mouthed, slightly gapped-tooth grin at Owen. "Alright, look here, this is the plan Shakes and I got worked out, and ya should be glad Shakes is doing it. It's going to be a fuckin' nightmare if it works, and like a fuckin' wet, squirtin', languish in the head if it don't." She pointed to the top of the sail. "We fuckin' lucked out though, Shakes here built the sail fat enough that we can make the welds fuckin' flat. Ya just need a piece of steel cylinder cut even, then weld it around the hatch opening, and then weld those spare male docking clamps we got onto the sides of the cylinder."
 
 "How're you going to activate the docking clamps?" Asked Owen. "They're electro-magnetic, right?."
 
-"Yeah," said Shakes, "we'll need to drill some through-hull fittings. That sucks, but it shouldn't be too hard to make them water-tight to 30 meters, which is what I usually call the depth limit of the _Gnat_. And if the do happen to leak... well, they'll be pretty small leaks. A boat that doesn't leak isn't a boat, it's like, an airplane, or something."
+"Yeah," said Shakes, "we'll need to drill some fucking through-hull fittings. That sucks, but it shouldn't be too hard to make them water-tight to 30 meters, which is what I usually call the depth limit of the _Gnat_. And if they do happen to leak... well, they'll be pretty small leaks. A boat that don't leak isn't a boat, it's like, a fuckin' airplane, or something."
 
 "Since we're going to be dragging the _Gnat_ along by the mating collar," said Owen, "Seems like ya should also weld some supports on the outside of the collar, down the sail, and directly to the structural elements of the hull. It'll be ugly as fuck, but less likely to leave the _Gnat_ ripped away from the collar." 
 
 "Ugly-as-fuck is my other name." Said Shakes.
 
-"Listen to the kid, Shakes. He's gettin a touch for this stuff." Said Chips.
+"Listen to the kid, Shakes. He's gettin' a fuckin' touch for this stuff." Said Chips.
 
-"Hey, offer all the advice you want, but I'm the one who puts the torch to my boat, ya?"
+"Hey, offer all the advice you want, but I'm the one who puts the fuckin' torch to my boat, ya?"
 
-"Good by fuckin' me. I'll leave ya stupid fuckers too it. I got me own welding to do." Said Chips, giving them a casual salute and heading up the gangway to the _Prospect_.
+"Good by fuckin' me. I'll leave ya stupid fuckers too it. I got my own welding to do." Said Chips, giving them a casual salute and heading up the gangway to the _Prospect_.
 
-"We'll need some other pieces of steel to make this work, I'll get Gregory digging them up." Said Owen.
+"We'll need some more pieces of scrap steel to make this work, I'll get Gregory digging them up." Said Owen.
 
 
 [//]: # (### They weld the mating collar)
 
-This was going to be an extremely tough job. Not as tough as welding the pressure hull back together under water --- Owen reminded himself --- but nobody would do this job if they didn't have to. Owen had wheeled the welding rig across the gangway, and that  had only been modestly harrowing. Lashing it to the sloshing hull of the _Gnat_ had been somewhat more so. Owen set Shakes up with everything he needed, like a nurse handing a surgeon the tools for opening a consumptive ribcage.
+This was going to be an extremely tough job. Not as tough as welding the pressure hull back together under water like Chips was currently doing, Owen reminded himself --- but nobody would do this job on the _Gnat_ if they didn't have to. Owen had wheeled the welding rig across the gangway, and that had only been modestly harrowing. Lashing it to the sloshing hull of the _Gnat_ had been somewhat more so. Owen set Shakes up with everything he needed, like a nurse handing a surgeon the tools for opening a consumptive ribcage.
 
-The ocean chop wasn't horrendous, but it was enough that the _Gnat_ rolled back and forth under them. Owen had locked huge clamps in place that held the work material to the sail. The water washing over the deck would sometimes smack up against the sail and shoot up right where Shakes would be welding.
+The ocean chop wasn't horrendous, but it was enough that the _Gnat_ rolled back and forth under them. Owen had locked huge iron clamps in place that held the work material to the sail. The water washing over the deck would sometimes smack up against the sail and shoot up right where Shakes would be welding.
 
-Shakes stood astride his boat at precisely sea-level in the same way one might stand on a mountain top. He took a pinch of dried leaves from the pouch in his jack pocket and stuck them between his teeth. He lit a cigarette, and put it to his lips. He put the mask on his head, and slipped the heavy welding gloves onto his hands. He picked up the torch, and standing straight up, opened his arms wide and closed his eyes. He took long slow breathes, gapping his lips next to his cigarette, and his breaths rattling a little with the spittle coming up to enzymatically dismantle the dried leaves. He cleared his mind, focussed on his breathing. He felt the swell and rhythm of the ocean, the time of it marked out by the clink of the adjustable wrenches hanging from his belt. He called the gods of steady hands and perfect welds to him.
+Shakes stood astride his boat lolling in the surface of the sea in the same way one might stand on a mountain top. He took a pinch of dried leaves from the pouch in his jacker pocket and stuck them between his teeth. He lit a cigarette, and put it to his lips. He leveled the mask on his head, and slipped the heavy welding gloves onto his hands. He picked up the torch, and standing straight up, opened his arms wide and closed his eyes. He took long slow breathes, gapping his lips next to his cigarette, and his breaths rattling a little with the spittle coming up to enzymatically dismantle the dried leaves. He cleared his mind, focussed on his breathing. He felt the swell and rhythm of the ocean, the time of it marked out by the clink of the adjustable wrenches hanging from his belt. He called the gods of steady hands and perfect welds to him.
 
 He opened his eyes, spit the remaining half of cigarette off into the ocean, leaned over, and flipped the welding mask down. 
 
-He proceeded to lay down the foulest globbing booger weld Owen had ever seen. Smoking mass of material built up on top of smoking mass, curled over, and gooped around in carbon-coated black curves. Shakes gripped the welding stick fiercely, the muscles of his forearms tensed up. The tip wavered back and forth across the line the weld was supposed to follow that it looked like he might be trying to sign the work rather than repair it.
+And he proceeded to lay down the foulest, globbing booger-weld Owen had ever seen. Smoking masses of material built up on top of smoking masses, curled over, and gooped around in carbon-coated black curves. Shakes gripped the welding stick fiercely, the muscles of his forearms tensed up. The tip wavered back and forth across the line the weld was supposed to follow so that it looked like he might be trying to sign the work rather than repair it.
 
-"Holy fuck." Said Owen quietly.
-
-Shakes welded, went back over his work, and welded more. It grew uglier and uglier, globs upon globs of congealed molten metal. The wash continually soaked the two men in cold water. Shakes had to constantly stop welding so Owen could move the clamps. Since the seam needed to be watertight, Owen wanted to keep it press-fit in place with the clamps at all times. Owen knew that that starting and stopping like that was bad for a welder who wanted to make a clean, strong weld. But since Shake's welds were about the worst he'd ever seen, that seemed like the least of his problems. The hot welds steamed when the water ran over them, which Owen was pretty sure would not contribute the strength of the weld.
+Shakes welded, went back over his work, and welded more. It grew uglier and uglier, globs upon globs of congealed molten metal. The wash of the sea continually soaked the two men in cold water. Shakes had to constantly stop welding so Owen could move the clamps. Since the seam needed to be watertight, Owen wanted to keep it press-fit in place with the clamps at all times. Owen knew that that starting and stopping like that was bad for a welder who wanted to make a clean, strong weld. But since Shake's welds were about the worst he'd ever seen, that seemed like the least of his problems. The hot welds steamed when the water ran over them, which Owen was pretty sure would not contribute the strength of the weld.
 
 "You... built this boat?" Owen asked Shakes, when he raised his head up for a break. 
 
-"Ay ya. On a mountain top."
+"Ay fuckin' ya. On a mountain top."
 
 "And... it doesn't leak... too much?"
 
@@ -1233,11 +1229,13 @@ Shakes welded, went back over his work, and welded more. It grew uglier and ugli
 
 "Sometimes it seems like it's more patch than original boat. But then, since the boat was built from scraps, it has always been a fuckin' quilty kinda thing."
 
-By the time they finished welding the support struts down the side of the hull, the new mating collar looked like a bipedal birthday cake, frosted by a toddler using a mixture of coke and pitch. 
+By the time they finished welding the support struts down the side of the hull, the new mating collar looked like a bipedal birthday cake, frosted by a toddler using a cancerous mixture of coke and pitch. 
 
 "You think that'll hold?" Owen asked looking at the mess doubtfully.
 
-"Ah hell's ya. Look at how much material we welded into that thing! See, an engineer can build a thing to an exact fuckin' spec and if they're a good enginer that thing will perform they way they expect it to, in all the situations they expect it to. The thing is, that don't mean it will perform in situations the engineer _don't_ expect. That's why I always _overbuild_ things, far beyond any spec --- so I'll be ready for what I doesn't expect."
+"Ah hell's ya. Look at how much material we welded into that thing! See, an engineer can build a thing to an exact fuckin' spec and --- if they're a real right good fuckin' engineer --- that thing will perform they way they expect it to, in all the situations they expect it to. The thing is, that don't mean it will perform in situations the engineer _don't_ expect. That's why I always _overbuild_ things, far beyond any spec --- so I'll be ready for what I doesn't expect."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Owen wheedled his way up and down following the thread of that logic, and eventually decided it made absolute sense. "Well, nothing like holding a welding project underwater and dragging it along at a few knots to test the quality of your work."
 
