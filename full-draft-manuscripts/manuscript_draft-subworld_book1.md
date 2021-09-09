@@ -1235,57 +1235,59 @@ By the time they finished welding the support struts down the side of the hull, 
 
 "Ah hell's ya. Look at how much material we welded into that thing! See, an engineer can build a thing to an exact fuckin' spec and --- if they're a real right good fuckin' engineer --- that thing will perform they way they expect it to, in all the situations they expect it to. The thing is, that don't mean it will perform in situations the engineer _don't_ expect. That's why I always _overbuild_ things, far beyond any spec --- so I'll be ready for what I doesn't expect."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 Owen wheedled his way up and down following the thread of that logic, and eventually decided it made absolute sense. "Well, nothing like holding a welding project underwater and dragging it along at a few knots to test the quality of your work."
 
-"Ay that's fer fuckin' sure. Why don't ya go tell that big Hemi guy we're ready here."
+"Ay that's what we'll be fuckin' doing fer sure when once we got the _Gnat_ set up dragging under yer boat over there. Why don't ya go tell that big Hemi guy we're fucking ready here."
 
 
 [//]: # (### They lower the boat)
 
-Getting all the gear from the welding operation stowed back in the cargo hold took longer than expected. The chop was building a bit, and that made anything aboard the _Gnat_ difficult to do. Once Hemi saw all the odds and ends lowered back below, and checked the main cargo hatch seal, he went to the forward end of the cargo hold to check on Chips work.  She was welding yet more scraps of metal patches over the still-leaking wound in the pressure hull. Thankfully the water level was at least down enough that Chips was wading it it instead of swimming in it. 
+Getting all the gear from the welding operation stowed back in the cargo hold took longer than expected. The chop was building a bit, and that made anything aboard the _Gnat_ difficult to do. Once Hemi saw all the odds and ends stowed below and checked the main cargo hatch seal, he went to the forward end of the cargo hold to see how Chips was coming along on her work.  She was welding yet more scraps of metal patches over the still-leaking wound in the pressure hull. Thankfully the water level was at least down enough that Chips was wading it it instead of swimming in it. 
 
 Captain Percy came walking down the cargo hold and met up with Hemi standing at water's edge in the forward end. Chips looked up when she arrived and glared at her, but went immediately back to her welding.
 
-"We're ready to try this connecting up the _Gnat_ move." Hemi said to Percy when she stood next to him.
+"We are ready to try this connecting up the _Gnat_ move." Hemi said to Percy when she stood next to him.
 
-"Good." Said Percy, through an exhale of her cigarillo smoke. Her eyes were bloodshot and her entire face drooping and wane from lack of sleep. She had another cup of coffee in her other hand. "Need any else the from me when you try the mating?"
+"Good." Said Percy, through an exhale of her cigarillo smoke. Her eyes were bloodshot and her entire face drooping and wane from lack of sleep. She had another cup of coffee in her other hand. "Need anything else the from me when you try the fucking mating?"
 
-"I don't think so. But I think it will go easier a lot easier for Shakes if we can put the _Prospect_ in motion, and lower the deck under, just run sail-up. At that depth the waves will have a lot less affect on the motion of the boat." Chips looked up from her work again when she heard this.
+"I do not think so. But it will go much easier for Shakes if we can put the _Prospect_ in motion, and lower the deck under --- just run sail-up. At that depth the waves will have a lot less affect on the motion of the boat." 
 
-"Do we have the battery life left for that?"
+Chips looked up from her work again when she heard this.
 
-"Ten minutes at a creep speed maybe? I think we can just manage it. I'm more worried about whether we have enough control over the buoyancy to take her down like that."
+"Do we have the battery life left for that?" Asked Percy
 
-"But if we can run sail-up, we'll also be also be much harder to spot target as we head for the depot."
+"Ten minutes at a creep speed maybe? I believe we can just manage it. I am more worried about whether we have enough fine control over the buoyancy to lower the boat just a few meters like that."
 
-"Ah fuck ya both, ya weeping cunts!" Chips interrupted from where she was standing in the water. "Yer determined to sink us! Are ya forgetting the high-pressure system's depleted? I doubt there's enough fuckin' pressure left for a full blow if something goes wrong. Fuck --- there's probably also not enough fuckin' power in the batteries to bring us back to the surface with the fuckin' low-pressure system! We'll be lucky to fuckin be leapin' out the top of the sail as it lowers away under us heading for the bottom!"
+"But if we can run at just sail-up depth, we'll also be also be a much fucking harder to spot target as we head for the depot."
+
+"Ah fuck ya both, ya weeping cunts!" Chips interrupted from where she was standing in the water. "Yer determined to fuckin' sink us! Are ya forgetting the high-pressure system is fucking depleted? I doubt there's enough fuckin' pressure left for a full blow if something goes wrong. Fuck --- there's probably also not enough fuckin' power in the batteries to bring us back to the surface with the fuckin' low-pressure system! We'll be lucky to fuckin be leapin' out the top of the sail as it lowers away under us heading for the fuckin' bottom!"
 
 Captain Percy just stared down into her coffee cup.
 
-"I agree, Chips," Said Hemi, "it's dangerous. But so is running slow with engines blaring full-up on the surface if we manage to get the _Gnat_ attached. We'll be a big fat radar _and_ sonar target. We need the stealth lowering the boat down will give us."
+"I agree, Chips," Said Hemi, "it is dangerous. But so is running slow with engines blaring full-up on the surface if we manage to get the _Gnat_ attached. We'll be a big fat radar _and_ sonar target. We need the advantage lowering the boat down will give us."
 
-"Ay well, yer both fuckin' suicidal, and murder-fucking-cidal --- since yer trying to drag me down against my will. To lower the boat you gotta open the main ballast valves of course. What the fuck happens if they don't fuckin' close again though, eh? Then we are just letting all the fucking buoyancy out of the boat with no way to put it back."
+"Ay well, yer both fuckin' suicidal, and murder-fucking-cidal --- since yer trying to drag me down against my will. To lower the boat you gotta open the main fuckin' ballast valves, of course. What the fuck happens if they don't fuckin' close again though, eh? Then we are just letting all the fucking buoyancy out of the boat with no way to put it back."
 
-"There's no reason to think they won't." Said Hemi. 
+"There is no reason to think the valves will not close." Said Hemi. 
 
-"And you'll go double-check those fucking things our lives depend on before we try this operation." Said Percy, her eyes grinding away at Chips.
+"And you, Chips, willl go double-check those fucking devices our lives depend on before we try this operation." Said Percy, her eyes grinding away at Chips.
 
-"The fuckin' problem," Said Chips, furious and exasperated, "is there's no fucking back-up plan --- no failsafe, no redundancy. The boat works perfect like, or we all fuckin' die. Submarinin' is just too fuckin' dangerous with no backup-system."
+"The fuckin' problem," Said Chips, furious and exasperated, "is there's no fucking back-up plan --- no failsafe, no redundancy. The boat works perfect like, or we all fuckin' die. Submarinin' is just too fuckin' dangerous for no backup-system."
 
-"We're not disputing that Chips. But sinking is only one risk we face right now." Said Hemi as calm as always. "Go check the ballast tank valves --- make sure you're confident they will work they way they are supposed to. When you're happy with them, let me know, and we'll put the top deck underwater."
+"We're not disputing that Chips. But sinking is only one risk we face right now." Said Hemi, as calm as always. "Go check the ballast tank valves --- make sure you are confident they will work they way they are supposed to. When you are happy with them Chips, let me know, and we will put the top deck underwater."
 
 
 [//]: # (### Explaining the mating procedure)
 
-Ten minutes later Chips climbed up into the control room and reported to Hemi, through many curses, that the main ballast valves were working as expected. Hemi checked over the state of their batteries and other systems, and noted everything with a pencil on a clipboard. He got on the external PA and called Shakes to the control room.
+Ten minutes later Chips climbed up into the control room and reported to Hemi, between much swearing, that the main ballast valves were working as expected. Hemi checked over the state of their batteries and other systems, and noted everything with a pencil on a clipboard. He got on the external PA and called Shakes to the control room.
 
 Two minutes later Shakes' was on the bridge at the top of the _Prospect's_ sail. He looked down at Hemi through the open hatch into the control room and called to him.
 
 "Ya fuckin' ready Hemi?"
 
-"Just about. I need you to take the _Gnat_ off a hundred meters or so. We're going to bring the _Prospect_ down to just sail-out, and creep at two knots. We'll hold it steady. Then it's all you: dive the _Gnat_, come up underneath, you should see the mating collar just about under where the sail would be on the bottom --- about one-third of the way forward from the stern. Bring the _Gnat_ up under, and _gently_ pop your mating collar into ours, and if you boys didn't miss on the location of the docking clamps by too much, you should be able to lock into the hull of the _Prospect_... like a male angler fish."
+"Just about. I need you to take the _Gnat_ off a hundred meters or so. We are going to bring the _Prospect_ down to just sail-out, and creep at two knots. We will hold it steady. Then it is all you: dive the _Gnat_, come up underneath, you should see the mating collar just about under where the sail would be on the bottom --- about one-third of the way forward from the stern. Bring the _Gnat_ up under, and _gently_ pop your mating collar into ours, and if you boys didn't miss on the location of the docking clamps by too much, you should be able to lock into the hull of the _Prospect_... like a male angler fish."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Shakes gave him the finger.
 

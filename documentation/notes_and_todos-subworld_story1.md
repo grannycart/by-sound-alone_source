@@ -1,5 +1,5 @@
-subworld_story1_notes-and-todos.wiki
-Last modified: Thu Aug 19, 2021  04:27PM
+documentation/subworld_story1_notes-and-todos.wiki
+Last modified: Thu Sep 09, 2021  02:55PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -124,6 +124,7 @@ Last modified: Thu Aug 19, 2021  04:27PM
 * [X] Is it a 'mating collar' or a 'docking collar'?
 	* Let's say 'mating collar' --- docking collar feels like a bigger mechanism to me
 * [X] Fix that the Gnat's mating collar should be _inside_ the Prospect's --- so it can be welded by Chips when it leaks. Also, seems more likely, like fitting a lego piece together or something.
+	* Or like a _male_ anglerfish going into a _female_ socket.
 
 #### Underwater depot
 * [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
