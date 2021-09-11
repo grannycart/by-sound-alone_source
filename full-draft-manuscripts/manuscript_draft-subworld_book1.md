@@ -1351,11 +1351,9 @@ The boat held at a depth of one meter, the deck fully submerged, but most of the
 
 Hemi got on the ship-to-ship. "Shakes, we are holding at sail-out depth, two-knot forward creep. I think you can begin your dive now."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+"Fuckin' righto." Came Shakes crackling reply.
 
-"Righto." Shakes came Shakes crackling reply.
-
-Captain Percy raised the periscope and swiveled around until she could see the tiny, nearly-invisible gray sail of the _Gnat_ bobbing in the water off their port side. It picked up speed, and a little wake formed behind it. Then it shrank down and disappeared under the surface like a sun winking out at the horizon. She lowered the periscope back down.
+Captain Percy raised the periscope and swiveled around until she could see the tiny, nearly-invisible gray sail of the _Gnat_ bobbing in the gray water off their port side. It picked up speed, and a little wake formed behind it. Then it shrank down and disappeared under the surface like a sun winking out at the horizon. She lowered the periscope back down.
 
 "I'm gonna get on sonar." She said. 
 
@@ -1363,27 +1361,35 @@ Hemi nodded.
 
 Percy slipped down the ladder and tapped Chips on the shoulder. "Chips, I think it would be good if you joined Gregory in the bottom of the boat. Get a welding rig... just in case."
 
-"If you're fuckin' staying in this room, I'm happy to go fuckin' somewhere fucking else." Chips left forward toward the cargo hold to find her welding rig.
+"If you're fuckin' staying in this room, I'm happy to go somewhere fuckin' else." Chips left the sonar compartment moving forward toward the cargo hold to find her welding rig.
 
-Captain Percy sat in the seat Chips vacated and glanced at the empty radar scope to make sure it was staying empty. She put the sonar headphones on, and turned the directional control until she could hear the quiet electric motor of the _Gnat_. Shakes was lining up directly behind the _Prospect_, slightly deeper and with more speed, coming up underneath them. She could follow his progress with a fair amount of precision through the sonar and it's range finder. But he disappeared for a minute when he moved into their wake where the sonar couldn't hear anything. In another minute she expected to hear the _Gnat_ directly underneath the _Prospect_.
+Captain Percy sat in the seat Chips vacated and glanced at the empty radar scope to make sure it remained empty. She put the sonar headphones on, and turned the directional control until she could hear the quiet electric motor of the _Gnat_. Shakes was lining up directly behind the _Prospect_, slightly deeper and with more speed, coming up underneath them. She could follow his progress with a fair amount of precision through the sonar and it's range finder. But he disappeared for a minute when he moved into their wake where the sonar couldn't hear anything. In another minute she expected to hear the _Gnat_ directly underneath the _Prospect_.
 
-On board the _Gnat_ shakes held his head down at a painful angle, trying to see exactly where he was in relation to the hulking gray wall slowly stirring the waters above him.
+On board the _Gnat_ shakes leaned his head down at a painful angle, looking up and trying to see exactly where he was in relation to the hulking gray wall slowly stirring the waters above him.
 
-"Fuuuuuck. They should have mentioned that this would be stupidly fucking dangerous." Said Shakes to himself. "Like a backyard bully in a pool, holding some scrawny kid's head underwater... though I suppose some people must be into that sort of thing."
+"Fuuuuuck. They should have mentioned that this would be stupidly fucking dangerous." Said Shakes to himself. "Like a backyard bully in a pool, holding some scrawny kid's head underwater... though I suppose some people must be into that sort of thing." He glanced at his porno stacks, almost involuntarily.
 
-"Shakes," Hemi's voice came over the ship-to-ship with all the bass notes stripped out of it. "Don't forget that since we're moving, you're going to have to give it a little umph when you get within a meter of the _Prospect_ or so. We're going slow enough that it shouldn't be too dramatic, but you also don't want to get sucked back into the _Prospect's_ propellers."
+"Shakes," Hemi's voice came over the ship-to-ship with all the bass notes stripped out of it. "Do not forget that since we're moving, you are going to have to give your boat a little more motor when you get within a meter of the _Prospect_ or so. We are going slow enough that it should not be too dramatic, but you also do not want to get sucked back into the _Prospect's_ propellers."
 
 "Ay, fuck you all." He didn't bother to respond on the radio, his hands too busy with the controls of the _Gnat_. "This little fuckin' boat wasn't built for this shit. Handles like a fucking beachball underwater."
 
-He was pushing up from behind, moving slightly faster than the _Prospect_. He could just see the little black circle of the mating collar he was shooting for through his forward view port. He'd lose the ability to see it when he was close to it though. 
+He was pushing up from behind, moving slightly faster than the _Prospect_. He could just see the little black circle of the mating collar he was shooting for through his forward view port. He realized he would lose the ability to see it when he was close to it though. 
 
-He squeezed the ballast blow handle in a very short burst, and the _Gnat_ popped up an entire meter closer to the underside of the _Prospect_. "Ugh, too fuckin' much, too fast. _Gently_, gently..." He got within a meter of the hull of the _Prospect_ and lost sight of the mating collar just as he could feel the push of water from the moving hull of the big boat driving him backwards. It was also totally screwing up his sense of where he was, until the mating collar came into view in front of him.
+He squeezed the ballast blow handle in a very short burst, and the _Gnat_ popped up an entire meter closer to the underside of the _Prospect_. "Ugh, too fuckin' much, too fast. _Gently_ --- was what fuckin' Hemi said --- gently..." He got within a meter of the hull of the _Prospect_ and lost sight of the mating collar just as he could feel the push of water from the moving hull of the big boat driving him backwards. It was also ruining his instinctive awareness of where he was, until the mating collar came into the narrow viewport in front of him.
 
-He gave the _Gnat_ a little more power to the electric motor, and it moved forward through the streaming water. He held very close to the _Prospect_. The _Gnat_ crept slowly forward, the mating collar disappeared over his head again. He angled the small dive planes up a bit, and with a loud clang the mating collars of the two ships collided. Shake visualized what was happening in his head: the two mating collars were pressed against each other, but not aligned. He slowly eased the controls, a little rudder port, a little rudder starboard, a little forward power, a little off the throttle. He was moving the mating collar around in a circle, trying to get it to slip into the _Prospect's_ collar. There was the sound of steel ring grinding on steel ring, until with another big clang, the whole boat popped upwards. 
+He gave the _Gnat_ a little more power to the electric motor, and it moved forward through the streaming water. He held very close to the _Prospect_. The _Gnat_ crept slowly forward, the mating collar disappeared over his head again. He angled the small dive planes up a bit, and with a loud clang the mating collars of the two ships collided.
 
-It felt right. Shakes gave a tiny further squeeze on the main ballast blow so that the _Gnat_ would have good strong upward buoyancy against the bottom of the _Prospect_. He was pretty sure the two rings were mated, but the way to know for sure was the docking clamps. He flipped the exposed switch he and Owen had installed, and with a little blue electric spark connected the circuit that ran up the heavy wires through the holes they had drilled and sealed into the sail to the mating clamps. He heard a third loud clang, and a green light next to the switch lit. If he had missed the mating collar, the clamps wouldn't have closed, so he was on. To be sure he disengaged the electric motor to let the prop spin freely. When he did so, he could feel the bow of the _Gnat_ bend downward a small amount in a way that slightly sickened him, but the speed indicator didn't change. The _Gnat_ was being dragged by the _Prospect_. 
+Shakes squeezed the ballast blow handle again, for as short a burst as he could possibly get. This gave the _Gnat_ enough buoyancy to hold it firmly up against the bottom of the _Prospect_.
+
+He visualized what was happening in his head: the two mating collars were pressed against each other, held together but not aligned. If Shakes could correctly guess which direction to move the _Gnat_, the mating collar would pop into place. If he guessed wrong, the _Gnat_ would slip off the _Prospect's_ mating collar and crunch up against the bottom of the bigger boat. If that happened --- and he was lucky enough that his welds didn't get ripped apart and sink him --- he would have to being the whole maneuver over again.
+
+He slowly eased the controls, a little rudder port, a little rudder starboard, a little forward power, a little off the throttle. He was moving the mating collar around in a circle, trying to get it to slip into the _Prospect's_ collar. There was the sound of steel ring grinding on steel ring, until with another big clang, the whole boat popped upwards. All he could see out of his viewport was the long undistinguished gray hull of the _Prospect_ stretched out in front of him. Either he was in the mating collar, or had slipped off the front of it. 
+
+But it felt right. Shakes gave a tiny further squeeze on the main ballast blow so that the _Gnat_ would have good strong upward buoyancy against the bottom of the _Prospect_. He was pretty sure the two rings were mated, but the way to know for sure was the docking clamps. He flipped the exposed switch he and Owen had installed, and with a small blue electric spark it connected the circuit that ran up the heavy wires through the holes they had drilled and sealed into the sail to the mating clamps. He heard a third loud clang, and a green bulb next to the switch lit. If he had missed the mating collar, the clamps wouldn't have closed, so he was on. To be sure he disengaged the electric motor to let the prop spin freely. When he did so, he could feel the bow of the _Gnat_ bend downward a small amount in a way that slightly sickened him, but the speed indicator didn't change. The _Gnat_ was being dragged by the _Prospect_. 
 
 He picked up the ship-to-ship. "Hemi, I think I'm on."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Ya, we can see the drag up here. We're going to trim our tanks to adjust for the _Gnat_ hanging on, and then shut down our engines to save our batteries. Give a bang on your hatch and let's try opening it up."
 
