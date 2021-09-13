@@ -1432,49 +1432,53 @@ Shakes was grinning up at them as residual water dripped down on him. "Who's a f
 
 Shakes put his arms up through the hatch hole, found a place to grab that wasn't warm from welding, lifted his foot to some protruding bit of steel in the sail of the _Gnat_, and stepped up into the _Prospect_. Gregory pushed the ship intercom button and told Hemi they had Shakes aboard. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 "Right. _Now_ the hard part." Said Hemi over the intercom. Then got on the ship PA, and asked everyone to meet him down at the hatch to the _Gnat_.
 
 
 [//]: # (### Rigging up power to the Prospect)
 
-"So basically we're going to suck the life out of the _Gnat_ to keep the _Prospect_ going." Hemi told them all when they were all crammed in, assembled on both sides of the open hatch to the _Gnat_ below. 
+"So basically we are going to suck the life out of the _Gnat_ to keep the _Prospect_ going." Hemi told them when they were all assembled and standing crammed in on both sides of the open hatch to the _Gnat_ below. 
 
 Shakes squirmed. 
 
-"I'm going to set up some heavy jumpers between the _Gnat's_ battery banks and the battery rooms of the _Prospect_ where y'all are standing in right now. That should be pretty straightforward, and give us access to the _Gnat's_ remaining battery power. Not much, in terms of the _Prospect's_ power consumption.
+Hemi continued. "I am going to set up some heavy jumpers between the _Gnat's_ battery banks and the battery rooms of the _Prospect_, where we are standing right now. That should be pretty straightforward, and give us access to the _Gnat's_ remaining battery power. Though not much, in terms of the _Prospect's_ power consumption.
 
-"Chips, I need you to do the harder part and figure out how to get the fuel left in the _Gnat_ into the _Prospect's_ engines. I'm not sure if it's better to try to pump it up into the _Prospect's_ fuels tanks, or run it straight from the _Gnat's_ fuel tanks to the _Prospect's_ diesels."
+"Chips, I need you to do the harder part and figure out how to get the fuel that is left in the _Gnat_ up into the _Prospect's_ engines. I'm not sure if it would be better to try to pump it into the _Prospect's_ fuels tanks, or run it straight from the _Gnat's_ fuel tanks to the _Prospect's_ diesels."
 
 "Be fuckin' easier to just run a long hose up to the fuckin' _Prospect's_ fuckin' fuel pumps. Won't have to fuck around with the trim as much." Put in Chips.
 
-"If you think that'll work, it sounds OK to me." Said Hemi. "Cap, you want to weigh in with anything?"
+"If you think that will work, it sounds OK to me." Said Hemi. "Syl, you want to weigh in with anything?"
 
 "This fucking project is all you, Hem'." Said Captain Percy.
 
-"From this moment on, we need to shut down absolutely everything we aren't using. We should have been doing this already. We'll need every bit of power we can suck out of the _Gnat_ to get across the Authority line into vaguely friendlier waters. I'm even shutting down all the lighting, so you'll all need to carry light around with you. The good news is, if we get the diesels going, you can all take some rotations in the rack, since there will be no power to do anything else but sleep anyway."
+"From this moment," Hemi went on, "we need to shut down absolutely everything we are not using. We really should have done this already. We will need every bit of power we can suck out of the _Gnat_ to get across the Authority line into vaguely friendlier waters. I am even shutting down all the lighting, so you will all need to carry a light around with you. The good news is, if we get the diesels going, you can all take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
 
-"Chips, you take Owen and Gregory to work on fuel lines. Bastian, we'll go dig up those jumpers. Try to stay out of each other's way everyone." Finished up Hemi. He grabbed Bastian's skinny arm and led him away to stowage where he hoped he could find the long heavy jumper cables he remembered seeing there sometime in the last year.
+"Chips, you take Owen and Gregory to work on fuel lines. Bastian, we will go dig up those jumpers. Try to stay out of each other's way everyone." Hemi Finished up. 
+
+Grabbing Bastian's skinny arm, Hemi led him away to stowage where he hoped to find the long heavy jumper cables he remembered seeing there sometime in the past year.
 
 Chips took Owen and Gregory off to the engine rooms to get the long fuel hoses they normally used for refueling down off their racks on the wall and rigged up through the boat down to the _Gnat_.
 
-Captain Percy looked down at the mess of patches and foul blackened welds that lined the passageway down through the hole in the bottom of her boat, and for a moment couldn't believe they were still afloat. "Shakes," she said to the only person left with her, "let me buy you a cup of coffee."
+Captain Percy looked down at the mess of patches and foul blackened welds that lined the passageway down through the hole in the bottom of her boat, and for a moment could not believe they were still afloat. "Shakes," she said to the only person left with her, "let me buy you a cup of coffee."
 
 
 [//]: # (### Rigged up and running)
 
-In a matter of a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: power wired into the _Prospect's_ battery hold so that the _Gnat's_ batteries were now no more than an extra battery hold for the _Prospect_ --- conveniently with a nearly-full charge; and the thick fuel lines ran up to the engine room, where the fuel pumps were engaged and trimmed to gently suck the fuel up from the _Gnat's_ fuel ballast tanks.
+In a matter of a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power wired into the _Prospect's_ battery hold so that the _Gnat's_ batteries were now no more than an extra battery bank for the _Prospect_ --- conveniently with a nearly-full charge; and the thick fuel lines running up to the engine room, where the fuel pumps were engaged and tuned to gently suck the fuel up from the _Gnat's_ fuel ballast tanks.
 
-To conserve fuel they started only one of the _Prospect's_ multiply redundant diesel engines. And likewise started only one of the electric motors, driving only one of the propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. It was a filthy inelegant mess, but they were making headway.
+To conserve fuel they started only one of the _Prospect's_ multiply redundant diesel engines. And likewise started only one of the electric motors, driving only one of the _Prospect's_ two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. 
 
-Captain Percy insisted everyone who wasn't doing something actively should be in the rack, and Chips, Shakes, and Hemi didn't argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. They shut down the sonar figuring with the diesel running they wouldn't be able to hear anything until it was too close to do anything about it anyway, considering they couldn't dive or really perform any other evasive maneuver.
+It was a filthy inelegant mess, but they were making headway.
 
-But Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface enforcement ships. So Owen sat in the dark with his eye on the glowing radar screen, going a little insane watching it circle around endlessly and reflecting back nothing.
+Captain Percy insisted everyone who was not doing something actively should be in the rack. Chips, Shakes, and Hemi didn't argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. They shut down the sonar figuring with the diesel running they would not be able to hear the approach of any kind of threat until it was too close to do anything about it anyway. Particularly considering they could not dive or perform any other evasive maneuver.
 
-Percy made them all drink two cups of coffee, which she fixed for them in the dark by the light of a penlight.
+But as a safety measure, Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface enforcement ships. So Owen sat in the dark with his eye on the glowing radar screen, his mind turned to mush by watching it circle around endlessly, reflecting back nothing.
 
-After a few hours of running like this --- the ship humming and vibrating under them, the superstructure groaning with the stress of dragging along the _Gnat_ and being thrust in one direction by her one turning propeller, and the other direction by her rudder --- Percy decided she needed to see how far they'd gone. At the navigation table, she measured with the calipers and laid down a string of hashed marks from the x marking the spot where they had mated the _Gnat_. 
+Percy made everyone in the control room drink two cups of coffee, which she fixed for them in the dark galley by the light of a penlight.
+
+After a few hours of running like this --- the ship humming and vibrating under them, the superstructure groaning with the stress of dragging along the _Gnat_, and the continual course correction necessitated by running on a single propeller --- Percy decided she needed to see how far they had managed to travel. At the navigation table, she measured with the calipers and laid down a string of hashes from the X that marked the spot where they had mated the _Gnat_. 
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 It was terrifyingly slow going. With the calipers, she spun out the remaining distance to the line Shakes had drawn marking where they would be under a different, hopefully safer,  Authority. She estimated they still had something like eight hours to go. And that was assuming Shakes' line was at all accurate. In addition to just being a rough mark Shakes had laid down from memory, the Authorities might have battled or treatied the line into a totally different part of the ocean for all she knew. They wouldn't be really safe until they were docked at the depot, and even then who knew what the depot folks would be like. Somewhat friendlier to commerce was about all you could hope for with any confidence.
 
