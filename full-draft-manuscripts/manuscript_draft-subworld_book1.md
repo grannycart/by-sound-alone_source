@@ -1521,44 +1521,42 @@ Chips came back holding one of the tin coffee cups. She put on the second sonar 
 
 After half an hour of this silent watch, Percy called up to Hemi to shut down the diesel so they could have a better listen, and a minute later a blessed silence came into the headset. A feeling of genuine relief flowed through her as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly chewed away at her soul. On top of the silence, there was no apparent sound of any other ships within sonar range. Percy flipped through a few filters, and the quality of the silence changed, from a deadening whoosh to a soft hiss. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 And then she heard a pulse. A distant, faint heartbeat in the ocean, accompanied by the slushing flow of circulation. She touched Chips arm, pointed to the softly fluttering signal-strength gauge.
 
-"Ay." Confirmed Chips. "That's the right direction for our fuckin' contact. They just fuckin' moved into fucking sonar range."
+"Ay." Confirmed Chips. "That's the right direction for our fuckin' radar contact to approach us. They just fuckin' moved into fucking sonar range."
 
 "Fuck. We're gonna have to do something. Stay on it Chips."
 
 "Fuckin' ay."
 
-Percy scaled the ladder up to the control room, and raised the periscope, twisting it around as it rose to aim it at the heading of the contact, somewhere on their rear starboard quarter. She didn't expect to see anything, and she did not --- the distance was still too far. But a visual check was the practical and right thing to do first. She lowered the periscope.
+Percy scaled the ladder up to the control room, and raised the periscope, twisting it around as it rose to aim it at the heading of the contact --- somewhere on their rear starboard quarter. She did not expect to see anything, and there was nothing to see --- the distance was still too far. But a visual check was the practical and right thing to do first. She lowered the periscope.
 
 
 [//]: # (### They submerge to periscope depth)
 
-"Hemi," Percy hesitated, "I think we gotta fucking submerge to periscope depth --- get the sail underwater --- and run on the _Gnat's_ remaining batteries. How long can we fucking last like that?"
+"Hemi..." Percy hesitated, "I think we gotta submerge to periscope depth --- get the sail underwater --- and shut down the diesels. Run on the _Gnat's_ remaining batteries. How long can we fucking last like that?"
 
-"Well, putting aside the risk of again opening the main ballast valves to bring us lower in the water, the _Gnat_ has maybe an hour of battery we could use at this super slow creep rate we're going at. And I should also point out that when that's gone, we have no other way to hide if we don't lose this contact, or if we do come across another."
+"Well, putting aside the risk of again opening the main ballast valves to lower us even further into the water, the _Gnat_ has maybe an hour of battery we could use at this super-slow creep rate we are moving at. And I should also point out that once the _Gnat's_ batteries are fully depleted, we will have no more options for underwater maneuvering if we do not lose this contact. Or if we come across another."
 
 "I know. I'm going on instinct here, and fuck me if I'm wrong. Especially considering I haven't slept in days and my head is fucking killing me from eight cups of coffee a day. But I got a sense we don't want to see that fucker coming towards us up there."
 
-"Or, we don't want them to see us, you mean."
+"Or: we do not want them to see us, you mean."
 
-"Right."
+"Fucking Right."
 
 Hemi nodded. "Alright. I'll open the main ballast valves." He reached up and pushed the dive alarm.
 
 "Ah fuck ya all," Chips yelled up to them, pulling one earpiece of the headset off her ear when she heard the dive alarm, "yer fucking taking us down to periscope depth, ain't ya? We can't run the diesels at periscope, there's no way to feed 'em oxygen. So how the fuck are ya planning to get back on the surface if the batteries fucking die, eh? We'll have no way to steer the boat up to the surface, and we got no fuckin' way to pump the water out! We'll just be fucking sitting there with one fucking eyeball view above the surface, effectively fucking drowned."
 
-"Thank you for keeping us apprised of the risks Chips. I'm still the fucking captain though." Percy yelled back. "Hemi, take us down to periscope."
+"Thank you for keeping us apprised of the risks Chips." Percy yelled back. "I'm still fucking in charge though. Hemi, take us down to periscope."
 
-Hemi flipped up the main ballast valve switches and there was again a rush of air as more of it was released from the top of the ballast tanks, and water eased in from the vents open to the sea on the bottom. Hemi watched the glowing depth gauge until the needle got into the range marked 'periscope,' and then flipped the ballast valve switches down again. There was a clink and the rush of air and water stopped.
+Hemi flipped open the main ballast valve switches and there was again a rush of air as more of it was released from the top of the ballast tanks, and water eased in from the vents open to the sea on the bottom. Hemi watched the glowing depth gauge until the needle got into the range marked 'periscope,' and then flipped the ballast valve switches closed again. There was a clink that echoed through the hull and the rush of air and water stopped.
 
-"See Chips, the fucking valves are still working as they are supposed to, which we knew because of your inspection earlier. We aren't fucking sunk yet."
+"See Chips, the fucking valves are still working as they are supposed to, which we knew because of your inspection earlier. We aren't fucking sunk yet." Captain Percy gave the aside with enough volume that Chips would be able to hear her in the compartment below.
 
 "Depends on what ya fuckin' mean by 'sunk'." Said Chips quietly to the sonar station.
 
-"We can't afford to take an evasive route to the depot Hemi, we gotta go straight at 'em. So we'll just have to hope our contact up there wasn't able to track us long enough to figure out our course. Put us back on the electric motors --- they won't be able to hear us unless they get right on top of us." Said Percy. "Um... also keep what Chips said in mind --- make sure we have a little something left in the batteries to get us back to the surface."
+"We can't afford to take an evasive route to the depot Hemi, we gotta go straight at 'em. So we'll just have to hope our contact up there wasn't able to track us long enough to figure out our course. Put us back on the electric motors --- so they won't be able to hear us unless they get right on top of us." Said Percy. "Um... also keep what Chips said in mind --- make sure we have a little something left in the batteries to get us back to the surface."
 
 "These battery gauges are hardly very precise Percy. I would not push it beyond ten minutes remaining on the battery." Said Hemi.
 
@@ -1567,7 +1565,9 @@ Hemi flipped up the main ballast valve switches and there was again a rush of ai
 
 [//]: # (### Tracking the contact moving towards them)
 
-Sometimes new crew members thought it must be something of a mental relief to be able to look through the periscope after days or weeks inside a submarine --- the opportunity to have even a brief glimpse of the surface world. Captain Percy remembered believing this herself when she first started working on submarines as a teenager. And honestly, she would give her crew shifts on the periscope if she believed it would actually help keep them mentally steady. But the control room was already cramped, and more than that, she knew from years of experience sighting through periscopes that it didn't help. Sometimes it made the claustrophobia of the sub worse. At periscope depth, the viewport end of the device couldn't be more than a meter or two above the surface. There was rarely anything to see except a world entirely made up of an undifferentiated horizon of lighter gray against dark gray. It was almost always like that, and this moment was no exception.
+Sometimes new crew members thought it must be something of a mental relief to be able to look through the periscope after days or weeks inside a submarine --- the opportunity to have even a brief glimpse of the surface world, and to look off at range instead of objects that are never much more than a meter from your face. Captain Percy remembered believing this herself when she first started working on submarines as a teenager. And honestly, she would give her crew shifts on the periscope if she believed it would actually help keep them mentally steady. But the control room was already cramped, and more than that, she knew from the years of experience she now had sighting through periscopes that it did not do much for the clarity of one's mind. Sometimes it even made the claustrophobia of the sub worse. At periscope depth, the viewport end of the device could never be more than a meter or two above the surface. There was rarely anything to see except a world entirely made up of an undifferentiated horizon of lighter gray against dark gray. It was almost always like that, except during the brief periods when they were within sight of land, and this moment was no exception.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 On the surface, it was night. A waning moon above the cloud layer meant there was enough light to see the ocean swells. The swells were moderately significant, which was good --- the _Prospect_ would be harder to hear on sonar and almost impossible to spot visually. Through the scope Percy watched the black swells rise and fall around her, pushing up and easing down the lighter gray field of the sky with a tuned cadence. It was a little dizzying and almost nauseating. Every so often the swell would pass over the top of the periscope and she would have a few seconds of blackness as a relief.
 
