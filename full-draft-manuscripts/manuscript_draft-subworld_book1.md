@@ -1567,27 +1567,25 @@ Hemi flipped open the main ballast valve switches and there was again a rush of 
 
 Sometimes new crew members thought it must be something of a mental relief to be able to look through the periscope after days or weeks inside a submarine --- the opportunity to have even a brief glimpse of the surface world, and to look off at range instead of objects that are never much more than a meter from your face. Captain Percy remembered believing this herself when she first started working on submarines as a teenager. And honestly, she would give her crew shifts on the periscope if she believed it would actually help keep them mentally steady. But the control room was already cramped, and more than that, she knew from the years of experience she now had sighting through periscopes that it did not do much for the clarity of one's mind. Sometimes it even made the claustrophobia of the sub worse. At periscope depth, the viewport end of the device could never be more than a meter or two above the surface. There was rarely anything to see except a world entirely made up of an undifferentiated horizon of lighter gray against dark gray. It was almost always like that, except during the brief periods when they were within sight of land, and this moment was no exception.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-On the surface, it was night. A waning moon above the cloud layer meant there was enough light to see the ocean swells. The swells were moderately significant, which was good --- the _Prospect_ would be harder to hear on sonar and almost impossible to spot visually. Through the scope Percy watched the black swells rise and fall around her, pushing up and easing down the lighter gray field of the sky with a tuned cadence. It was a little dizzying and almost nauseating. Every so often the swell would pass over the top of the periscope and she would have a few seconds of blackness as a relief.
+On the surface, it was night. A waning moon above the cloud layer gave enough light to see the ocean swells. The swells were moderately significant, which was good --- the _Prospect_ would be harder to hear on sonar and almost impossible to spot visually. Through the scope Percy watched the black swells rise and fall around her, pushing up and easing down the lighter gray field of the sky with a steady cadence. It was a little dizzying and almost nauseating. Every so often the swell would pass over the top of the periscope and she would have a few seconds of blackness as a relief.
 
 "Chips!" Percy gave her voice a little more emphasis because she didn't remove her face from the periscope frame. "Make sure you stay on that fucking sonar contact. Track the direction and range. Let me know if they get within something like visual range."
 
 "Ay, I'ma fuckin' trackin' their fucking course already. Fuckin surprise! They're fucking coming towards us. Still out ten fuckin' miles or so."
 
-"Fuck." Whispered Percy into the steel column of the periscope in front of her. She swung the scope slowly back and forth across the bearing.
+"Fuck." Whispered Percy into the greasy steel column of the periscope in front of her face. She swung the scope slowly back and forth across the bearing of the contact.
 
-Minutes passed in silence, except for the faint hum of the electric motors pushing them forward slowly through the water, and Chips occasionally calling out ranges. The contact was quickly marching towards them.
+Minutes passed in silence, except for the faint hum of the electric motor pushing them forward slowly through the water, and Chips occasionally calling out ranges. The contact was quickly marching towards them.
 
 "Fuckers are moving fast and loud." Called up Chips. "Like they ain't afraid of no fuckin' shit."
 
-"That's how armed ships behave." Said Hemi from the control seat. "Probably caught a whiff of us at a distance, and they are charging fast into a range where they can quiet down and take a listen; try to acquire the sound of our electric motors on sonar."
+"That is how armed ships behave." Said Hemi from the control seat. "Probably caught a whiff of us at a distance, and they are charging fast into a range where they can quiet down and take a listen; try to acquire the sound of our electric motor on sonar."
 
-Deep within Captain Percy she pushed down a primitive instinct urging her to run. A fresh young sub driver might crank on as she could on the throttle to get away from a threat. But evolution had moved submarines toward a different escape tactic: slink away silently. They were in a very, very slow-speed race: get out of range of the pursuer's sonar, as slowly and quietly as possible.
+Deep within Captain Percy she pushed down a primitive instinct urging her to run. A fresh young sub driver might crank as hard as she could on the throttle to get away from a threat. But evolution had moved submarines toward a different escape tactic: slink away silently. They were in a very, very slow-speed race: get out of range of the pursuer's sonar, as slowly and quietly as possible.
 
-After a few more minutes of staring at black empty sea, seeing nothing and at the same time knowing they were out there, Percy could no longer stand just relying on Chips' range estimates. She lowered the periscope and slipped down the ladder and stepped over to the navigation table. Chips immediately understood what she was doing, and without saying anything handed Percy a piece of scrap paper on which she had written a list of ranges and bearings for the contact in pencil. 
+After a few more minutes of staring at an empty black sea, seeing nothing and at the same time knowing they were out there, Percy could no longer stand just relying on Chips' range estimates. She lowered the periscope and slipped down the ladder and stepped over to the navigation table. Chips immediately understood what she was doing, and without saying anything handed Percy a piece of scrap paper on which she had written a list of ranges and bearings for the contact in pencil. 
 
-Captain Percy leaned over the navigation table, holding her flashlight pointed at their location on the chart with one hand while reading the markings on Chips' paper and using her other hand to lay down the contact's course and times on the chart with a grease pencil. She then marked out their own progress since they picked up the contact on sonar, but it was so short it almost didn't merit marking on the chart.
+Captain Percy leaned over the navigation table, holding her flashlight pointed at their location on the chart with one hand.  At the same time she read the markings on Chips' paper and used her other hand to lay down the contact's course and times on the chart with a grease pencil. She then marked out their own progress since they picked up the contact on sonar, but it was so short it almost didn't merit marking on the chart.
 
 "Fuck they're moving fast." Said Percy to herself. "We might be able to fucking see them already."
 
@@ -1596,13 +1594,13 @@ Captain Percy leaned over the navigation table, holding her flashlight pointed a
 
 [//]: # (### Percy sees the sub with the ram through the periscope again)
 
-Percy scaled the ladder up to the control room quickly, and raised the periscope, spinning it to look out over their rear quarter as it rose. She scanned for just a moment, and then she saw a long, low dark shadow running across the black surface of the water. It kicked up whitecaps where it plowed through the swells, and left a string of white wake behind it. A large black fin rose from the body of the black shadow and from that fin a soft red glow followed by a long black stream of soot marking it's passage through the air in parallel to the wake it left marking its passage through the water. Even as Percy watched, the red glow faded, and the white wake died away. They were shutting down their diesels so they could hear better.
+Percy scaled the ladder up to the control room quickly, and raised the periscope, spinning it to look out over their rear quarter as it rose. She scanned for just a moment, and then she saw a long, low dark shadow running across the black surface of the water. It kicked up whitecaps where it plowed through the swells, and left a string of white wake behind it. A large black fin rose from the body of the black shadow and from that fin a soft red glow followed by a long black stream of soot marking its passage through the air in parallel to the wake it left marking its passage through the water --- a sub running on diesel. Even as Percy watched, the red glow faded, and the white wake died away. They were shutting down their diesels so they could hear better.
 
 The pursuing submarine was two or three miles off, and running crosswise across the path the _Prospect_ had traveled along. So from where Percy was she could see the whole length of the boat. And mounted to its bow was the same medieval ramming contraption she had seen before. The same that had ripped a wound in her boat.
 
-"Fuck. It's that same fucking sub that rammed us. Power down the motor Hemi. We're going silent, and hopefully they'll miss us."
+"It's that same sub that rammed us! Power down the motor Hemi. We're going silent, and hopefully they'll miss us."
 
-Hemi flipped some switches and the hum of the electric motors died away. Captain Percy watched the sub with the ram through the periscope. They had engaged their own electric motors and were moving forward again. The bow suddenly sunk under the black swells of the ocean, and the rest of the deck followed a few moments later. Streams of misted water were shooting up from its deck as Percy watched the sail sinking into the black line where the surface met the sky.
+Hemi flipped some switches and the hum of the electric motors died away. Captain Percy watched the sub with the ram through the periscope. They had engaged their own electric motors and were moving forward again. The bow suddenly sank under the black swells of the ocean, and the rest of the deck followed a few moments later. Streams of misted water were shooting up from its deck as Percy watched the sail sinking into the black line where the surface met the sky.
 
 "They're diving." Percy told Hemi. "Chips! They went down. With our motors off, you should still be able to follow them on sonar. Track 'em, and let me know what the fuck they're doing."
 
@@ -1612,13 +1610,13 @@ Percy let the periscope sink down to its recess.
 
 "Should we get moving?" Hemi asked.
 
-"No. Let's see if we can figure out what they're doing first. We'll hide silently and cower for the moment." Percy lit a cigarillo and pulled at it between her lips. "We'll fuckin' wait."
+"No. Let's see if we can figure out what they're doing first. We'll hide silently and cower for the moment." Percy lit a cigarillo and pulled at it between her lips. "We'll wait."
 
 They waited. It took maybe twenty minutes for Chips to give a report. She called Percy down to the navigation table.
 
 "Fuckin' look here," said Chips "I tracked the fuckers down from where we first fuckin' heard 'em. They shot right to the last location we were running the fuckin' diesel... a few fucking miles behind us now. But, after they submerged, they didn't fuckin' turn to follow us, they turned the other fucking way, and then kept turning." Chips marked out their path in a circle away from them on the chart.
 
-"Fucking search pattern eh?" Said Percy.
+"Search pattern eh?" Said Percy.
 
 "Fuck ya, if I ever seen one. They're lookin' for us, but don't know where to fuckin' look, is my fucking thinking."
 
@@ -1629,11 +1627,11 @@ They waited. It took maybe twenty minutes for Chips to give a report. She called
 
 The hum of the electric motors came back up, and the _Prospect_ steadily moved on. Percy sat with Chips at the sonar station and listened to the sound of the pursuing sub's screws off in the distance.  The signal grew very weak as the submarine got off to the far end of their search circle, but grew stronger as they returned towards their starting point. Percy continually marked their track on the navigation chart according their range finding calculations.
 
-"We're not out of this yet." Percy said to Chips. "They're moving fast. Makes it easy to fucking track 'em, but their next search circle will almost certainly be the other side of a figure-eight directly the opposite direction of their first --- and directly towards us." Chips nodded. "We gotta be out of range of their search circle before they go past."
+"We're not out of this yet." Percy said to Chips. "They're moving fast. Makes it easy to fucking track 'em, but their next search circle will almost certainly be the other side of a figure-eight, directly the opposite direction of their first --- and directly towards us." Chips nodded. "We gotta be out of range of their search circle before they go past."
 
 "They could fuckin' ping us with active sonar and fuckin' find us that way." Pointed out Chips.
 
-"And they might yet. But they might be not want to risk us being an armed enemy ship. Trying to get a soft sense of their target first, if they can."
+"And they might yet. But they might be not want to risk us being an armed enemy ship. They're trying to get a soft sense of their target first, if they can."
 
 "We're fuckin' screwed if they fucking ping us then."
 
@@ -1642,17 +1640,19 @@ The hum of the electric motors came back up, and the _Prospect_ steadily moved o
 
 [//]: # (### Percy decides to hold still and wait them out)
 
-Captain Percy did some quick math. She knew the pursuing submarine's speed, and in a few minutes of ranges from Chips, she knew the arc of their second search circle. The _Prospect_ was cutting almost directly across that circle, but so slowly compared to the speed of the other sub that there was no way they were going to get out of range in time. At their current rate they might just meet them at the far point of the circle at the same time they arrives. She stood back from the navigation table, holding her flashlight on the chart with one hand and sucking at her cigarillo with the other, the coal glowing in the dark with each puff. She leaned over and put a small x at the _Prospect's_ current location --- almost exactly in the middle of what would eventually be the other sub's completed search circle.
+Captain Percy did some quick math. She knew the pursuing submarine's speed, and with a few more ranges from Chips, she knew the arc of their second search circle. The _Prospect_ was cutting almost directly across that circle, but so slowly compared to the speed of the other sub that there was no way the _Prospect_ was going to pass out of the pursuing sub's search circle in time. At their current rate, both subs might arrive at the far point of the circle at the same time. Percy stood back from the navigation table, holding her flashlight on the chart with one hand and sucking at her cigarillo with the other. The coal of tobacco glowed in the dark with each puff. She leaned over and put a small x at the _Prospect's_ current location --- almost exactly in the middle of what would eventually be the other sub's completed search circle.
 
 "Hemi," she called up to the control room, "shut her down again. Let's make a hole in the water."
 
-The electric motors faded off leaving the _Prospect_ completely silent. Hemi came down from the control room and ran his light over the chart, and immediately understood. "We weren't going to make it outside their search area in time, so instead we'll hide in the middle of it, eh?"
+The electric motors faded off leaving the _Prospect_ completely silent. Hemi came down from the control room and ran his light over the chart, and immediately understood. "We were not going to make it outside their search area in time, so instead we will hide in the middle of it?"
 
-"Could be a stupid move." Percy replied. "Nothing preventing them from fucking taking on a zigzag course all of a sudden."
+"Could be a stupid move." Percy replied. "Nothing preventing them from taking on a zigzag course all of a sudden."
 
 "We're essentially counting on their sheer sense of symmetry."
 
-"You put it that way and it gives me a wisp of hope. Symmetry can be a powerful fucking thing sometimes."
+"You put it that way and it gives me a wisp of hope. Symmetry can be a powerful thing sometimes."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Chips, for once, was not listening to their conversation and instead had both headset pieces over her ears, concentrating on the contact. Every minute or so she scratched down range and bearing data on the finger-stained pad in front of her, while her callused hand slowly slipped the sonar directional wheel along to follow the contact. Percy tapped her on the shoulder, and she pulled back one of the earpieces. "I'm gonna have Hemi take over sonar tracking. We need our best ears for this. Go make sure everyone in the boat knows we need to stay absolutely silent. I don't want anyone deciding now is the time to take a huge shit and start flushing the head repeatedly trying to wash it down."
 
