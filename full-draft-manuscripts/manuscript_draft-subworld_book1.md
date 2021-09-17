@@ -1652,13 +1652,15 @@ The electric motors faded off leaving the _Prospect_ completely silent. Hemi cam
 
 "You put it that way and it gives me a wisp of hope. Symmetry can be a powerful thing sometimes."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Chips, for once, was not listening to their conversation and instead had both headset pieces over her ears, concentrating on the contact. Every minute or so she scratched down range and bearing data on the greasy-fingerprint stained pad in front of her, while her callused free hand slowly slipped the sonar directional wheel along to follow the contact. 
 
-Chips, for once, was not listening to their conversation and instead had both headset pieces over her ears, concentrating on the contact. Every minute or so she scratched down range and bearing data on the finger-stained pad in front of her, while her callused hand slowly slipped the sonar directional wheel along to follow the contact. Percy tapped her on the shoulder, and she pulled back one of the earpieces. "I'm gonna have Hemi take over sonar tracking. We need our best ears for this. Go make sure everyone in the boat knows we need to stay absolutely silent. I don't want anyone deciding now is the time to take a huge shit and start flushing the head repeatedly trying to wash it down."
+Percy tapped her on the shoulder, and Chips pulled back one of the earpieces. "I'm gonna have Hemi take over sonar tracking. We need our best ears for this. Go make sure everyone in the boat knows we need to stay absolutely silent. I don't want anyone deciding now is the time to take a huge shit and start flushing the head repeatedly trying to wash it down."
 
 "Fuck and good riddance. I fucking hate fucking sonar anyway. Melts yer fucking mind into a fucking lump of inanimate fucking rock." She set the headset down and picked up her nearly-empty tin cup of cold coffee and her flashlight and headed forward toward the crew quarters.
 
-Hemi sat down, and slid the sonar headset open as far as it would go before the earpieces went over the ears on his huge head. He handed the paper with Chips' bearings so far listed on it to her. Percy started plotting them down on the chart, the other submarine's search circle making its way steadily around in front of their location.
+Hemi sat down, and slid the sonar headset open as far as it would go before the earpieces went over the ears on his huge head. He handed the paper with Chips' bearings so far listed on it to Percy. She started plotting them down on the chart, the other submarine's search circle making its way steadily around in front of their location.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Give me bearing and range every minute or so, Hem'." She stretched the second sonar headset wire over to the navigation table, and put an earpiece over one ear so she could hear what Hemi was hearing. She left the other ear open so she could hear Hemi's direction and rage readings.
 
@@ -1746,6 +1748,7 @@ Hemi nodded. "So if it's the same sub, which seems likely, it seems very _unlike
 "Indeed." Said Hemi. "Though sometimes the pragmatic course of action is to leave the questions aside, and move in a different direction."
 
 "And the direction we're moving in right now is towards that depot, and away from the mystery of the sub with the ram." Said Percy.
+2k
 
 The silence settled back in on them. Captain Percy lit up yet another cigarillo and filled up the small space of the control room with smoke. Hemi slid back down to the navigation chart with his flashlight, and a few minutes later called up to Percy. "Hey Capt, the island with the depot on it should be coming in sight with the periscope soon."
 
