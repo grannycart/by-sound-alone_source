@@ -1660,19 +1660,17 @@ Percy tapped her on the shoulder, and Chips pulled back one of the earpieces. "I
 
 Hemi sat down, and slid the sonar headset open as far as it would go before the earpieces went over the ears on his huge head. He handed the paper with Chips' bearings so far listed on it to Percy. She started plotting them down on the chart, the other submarine's search circle making its way steadily around in front of their location.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+"Give me bearing and range every minute or so, Hem'." Percy stretched the second sonar headset wire over to the navigation table, and put an earpiece over one ear so she could hear what Hemi was hearing. She left the other ear open so she could hear Hemi's direction and range readings.
 
-"Give me bearing and range every minute or so, Hem'." She stretched the second sonar headset wire over to the navigation table, and put an earpiece over one ear so she could hear what Hemi was hearing. She left the other ear open so she could hear Hemi's direction and rage readings.
-
-The boat now was totally silent in a way that only submarines could be. Surface ships were constantly swamped with sound --- water moving, the never-ceasing racket of the wind passing over the boat, and of course the loud rumble of the engines was rarely ever stopped at sea. A submarine was held suspended in a medium that ironically both transmitted sound better than air, but also isolated human ears evolved for sound that moved through air. It was silent enough that Percy could hear Hemi controlling his steady breathing to keep it from impinging on his contact. 
+The boat now was totally silent in a way that only submarines could be. Surface ships were constantly swamped with sound --- water moving, the never-ceasing racket of the wind passing over the boat, and of course the loud rumble of the engines at an unvarying pitch that was rarely ever stopped at sea. A submarine was held suspended in a medium that ironically both transmitted sound better than air, but also isolated human ears evolved for sound that moved through air. It was silent enough that Percy could hear Hemi controlling his steady breathing to keep it from impinging on the sounds of his contact. 
 
 With the boat shut down and nothing to do, Shakes sat on the deck of the control room with his legs dangling down through the hatch, smoking a cigarette. Percy could hear his long draws on the cigarette, and the paper crackling as it was burned away by the coal lighting Shakes' face in the dark.
 
-Hemi had shut off all the filters they normally had to engage on the sonar to filter out any contact signal from their own noise. In the earpiece, Percy could hear an unusually rich cross-spectrum white noise that was the background sound of the deep ocean. Smack in the middle was the whirring and crackling of the contact's propellers stirring through the water. Hemi was extremely good at keeping the sonar mics tracking the source, so they rarely wavered in intensity.The signal was so clear she could almost see the propellers moving, her mind playing a strangely synaesthetic game of converting sound input into a visual stimulation. 
+Hemi had shut off all the sonar filters they normally had enabled to filter out any contact signal from the _Prospect's_ own noise. In the earpiece, Percy could hear an unusually rich cross-spectrum white noise that was the background sound of the deep ocean. Smack in the middle was the whirring and crackling of the contact's propellers stirring through the water. Hemi was extremely good at keeping the sonar mics tracking the source, so the sound rarely wavered in intensity. The signal was so clear she could almost see the propellers moving, her mind playing a strange game of converting sound input into a visual stimulation. 
 
-With syncopated regularity, Hemi broke the silence to give her the range and direction. Every time he did, she added a small dash to the chart. The sub with the ram had moved directly in front of them, mere miles away. If the _Prospect_ had still be running her motor, the other sub would definitely have heard them. And if that sub out there was willing to risk an active ping at this range, they would discover the _Prospect's_ location instantly. Percy had her boat hiding in plain sight, in submarine terms. The only tactic they had at the moment was grinding, tense patience.
+With syncopated regularity, Hemi broke the silence to give her the range and direction. Every time he did, Percy added a small dash to the chart. The sub with the ram had moved directly in front of them, only a few nautical miles ahead. If the _Prospect_ had still be running her motor, the other sub would definitely have heard them. And if that sub out there was willing to risk an active ping at this range, they would discover the _Prospect's_ location instantly. Percy had her boat hiding in plain sight, in submarine terms. The only tactic the _Prospect_ had available at the moment was grinding, tense patience.
 
-Percy matched her breathing to Hemi's. She focussed on the sound of the submarine's propellers in her ear piece. She raised up her own calm, and pushed down any fear she had. She slowly grew the dashed line on the chart as it lassoed them in, placing each dash with deliberate care. Each time she put the point down the pencil created a long thin shadow across the chart in the light of her flashlight. The little x marking their location on the chart made it look like she had rendered the eyeball of a cartoon dead man. When the sub with the ram had passed in front of them, and was moving on the final part of the arc to complete their search circle, she decided it was time for them to sneak away.
+Percy matched her breathing to Hemi's. She focussed on the sound of the searching submarine's propellers in her ear piece. She raised up her own calm, and pushed down all the fear she had. She slowly grew the dashed line on the chart as it lassoed them in, placing each dash with deliberate precision. Each time she put the point down the pencil created a long thin shadow across the chart in the light of her flashlight. The little x marking their location on the chart made it look like she had rendered the eyeball of a cartoon dead man. When the sub with the ram had passed in front of them, and was moving on the final part of the arc to complete their search circle, she decided it was time for them to sneak away.
 
 
 [//]: # (### They get moving again)
@@ -1685,70 +1683,71 @@ She put her hand on Hemi's shoulder and he looked over at her. "Get us moving."
 
 Hemi stood, pulling off the sonar headset. He tapped Shakes on the foot, and Shakes' dangling feet withdrew up into control room. Hemi climbed up and a few moments later, the hum of the _Prospect's_ electric motors returned, accompanied by an extremely mild sensation of acceleration.
 
-Captain Percy stayed at the sonar station. She tracked the progress of the sub with the ram which had begun a third clover-leaf searching circle away from them. That sub was still moving relatively fast, and in 20 minutes they were far enough away that she wasn't able to track them any more over sonar. Their own track on the chart had pushed them out beyond the range of the other sub's circle pattern. It was always possible they would swing back around and intercept them again, but Percy was breathing normally again. Her guts told her they had sneaked out from under that one, though they still had a little ways to go to get across Shakes' supposed Authority control line.
+Captain Percy stayed at the sonar station. She tracked the progress of the sub with the ram which had begun a third clover-leaf searching circle away from the _Prospect_. That sub was still moving relatively fast, and in 20 minutes they were far enough away that she was not able to continue tracking them over sonar. Their own track on the chart had pushed them out beyond the range of the other sub's circle pattern. It was always possible it would swing back around and intercept them, but Percy's breathing had returned to normal. Her guts told her they had sneaked out from under that one, though they still had to limp a bit of a distance further to get across Shakes' supposed Authority control line.
 
 
 [//]: # (### They go back to sail-up and fire up the diesel)
 
-It was not long before Hemi called down to her again. "Captain, we don't have much battery left. Roughly, maybe 20 minutes."
+It was not long before Hemi called down to her again. "Sylvia, we do not have much battery left. Roughly, maybe 20 minutes."
 
-"Fuck." Said Percy, standing at the navigation table, and using calipers to measure their remaining distance to the Authority Control line that Shakes had left on her chart. "We're still at least 10 minutes from getting under that Authority Control line."
+"Fuck." Said Percy, standing at the navigation table. By any sane margin 20 minutes of battery was already too little for safe underwater operation. She used the calipers to measure their remaining distance to the Authority Control line that Shakes had left on her chart. "We're still at least 10 minutes from getting under that Authority Control line."
 
 "Eh," Shakes called down, "I wouldn't put too much stock in that line. Could be plus or minus by, like, eh, 50 fuckin' miles ya know."
 
-Percy climbed up to the control room. "Wherever the line is, we can't risk staying submerged anymore. Give us some upward dive plane Hemi, put our sail back over the surface. We'll have a good listen and then switch the diesel back on."
+Percy climbed up to the control room. "Wherever the actual line is, we can't fucking risk staying submerged anymore. Give us some upward dive plane Hemi, put our sail back over the surface. We'll have a good fucking listen and then start the diesels back up."
 
-Hemi rotated the dive plane angle and indicated to Shakes he should give them just a little bit more throttle. The bow of the _Prospect_ rose, and the depth gauge worked it's way down toward its zero pin. Percy had Hemi go listen on the sonar rig, and when he reported no contacts, she shut down the electric motors, and switched the diesel on. With the extra power of the diesel running, she had them run the air compressors and pump air back into the main ballast tanks and trim tanks until the boat had enough buoyancy to stay at the surface even without the motors pushing them forward and the dive planes driving them upwards.
+Hemi rotated the dive plane wheel and indicated to Shakes he should give them just a little bit more throttle. The bow of the _Prospect_ rose, and the depth gauge worked its way down toward its zero pin. Percy had Hemi go listen on the sonar rig, and when he reported no contacts, she shut down the electric motors, and pressed the starter for the diesel. With the extra power of the diesel running, she had them run the air compressors and pump air back into the main ballast tanks and trim tanks until the boat had enough buoyancy to stay at the surface even without the motors pushing them forward and the dive planes driving them upwards.
 
-"With some luck boys, we can be at the depot in a few more hours, and maybe still with a few whiffs of fuel left to pump from the _Gnat_. Shakes, we're gonna owe you big for this." 
+"With some luck boys, we can be at the depot in a few more hours, and maybe still with a few whiffs of fuel left to pump from the _Gnat_. Shakes, we're gonna owe you fucking big for this." 
 
-"Normally I'd say I'm just happy to help, but fuck that," said Shakes, "y'all sucked the life out of my little boat. A little financial help when we get t' the depot would go a long way..."
+"Normally I'd say I'm just happy to help, but fuck that," said Shakes, "y'all sucked the life out of my little boat. A little financial help when we get t' the depot would be genuinely fucking appreciated."
 
-"It's going to be something of a layout for us to get the _Prospect_ repaired, refueled, and fitted up for another cargo run. We'll do what we can for the _Gnat_, but don't expect a major reward or anything. It ain't like you rescued some fuckin' Authority oligarchs out there."
+"It's going to be something of a layout for us to get the _Prospect_ repaired, refueled, and fitted up for another cargo run. We'll do what we can for the _Gnat_, but don't expect a major reward or anything. It ain't like you rescued some fuckin' Authority oligarch yacht out there."
 
-"Ya, fuck, I'll keep that in mind next time I stop to kinda help folks in need."
+"Ya, fuck, I'll keep that in mind next time I'm fuckin' stupid enough to stop and to help folks in need."
 
-When they crept under where the Authority Control line vaguely might be, Percy put the periscope up and scanned the horizon. She saw some aircraft off in the distance, but they weren't coming towards the _Prospect._ Soon, Percy felt like they must be in the new Authority's waters. But there was really no way to tell.
+When they crept under the place where the Authority Control line vaguely might be, Percy put the periscope up and scanned the horizon. She saw some aircraft off in the distance, but they were not coming towards the _Prospect._ Soon, Percy felt like they must surely be in the new Authority's waters. But there was really no way to tell.
 
-They cruised easily with the sail up and the diesel running for the next few hours. Hemi repeatedly made the trek down through the _Prospect_ and into the _Gnat_ to check the remaining fuel. He didn't trust the _Gnat's_ fuel gauges, so each time he opened up the fuel tank and put in a dip stick and held it up to his flashlight by an oily rag to note the fuel level remaining. 
+They cruised easily with the sail up and the diesel running for the next few hours. Hemi repeatedly made the trek down through the _Prospect_ and into the _Gnat_ to check the remaining fuel. He did not trust the _Gnat's_ fuel gauges. So each time he went down there he opened up the fuel tank and put in a dip stick and held it up to his flashlight by an oily rag to note the fuel level remaining. 
 
-On one of these trips through the boat he found Chips asleep in her rack, and got her up to go tend the engines. "Tune 'em to within a inch of their life for efficient fuel consumption!" he told her. And she spent the rest of the trip to the depot deep in the ship, carefully and continually trimming the diesel engine's fuel intake.
+On one of these trips through the boat he found Chips asleep in her rack and woke her up. "Chips, I need you to tune those engines to within a inch of their life for efficient fuel consumption." He told her. She spent the rest of the trip to the depot deep in the ship, carefully and continually trimming the diesel engine's fuel intake.
 
-No matter how parsimonious they were with the power usage and the fuel consumption though, the _Prospect_ was so much bigger that it was eating through the remaining fuel in the _Gnat_ at an insatiable rate. Back in the control room of the _Prospect_ Hemi calculated their fuel consumption rate by hand, and measured it against how far they had to go. He could not promise Percy that they would not be rowing the _Prospect_ the last few miles.
+No matter how parsimonious they were with the power usage and the fuel consumption though, the _Prospect_ was so much bigger that it was eating through the remaining fuel in the _Gnat_ at an insatiable rate. Back in the control room of the _Prospect_, Hemi calculated their fuel consumption rate by hand, and measured it against how far they had to go. He could not promise Percy that they would not be rowing the _Prospect_ the last few miles.
 
 
 [//]: # (### They talk about why the sub with the ram is pursuing them)
 
-By this time Hemi, Shakes, and Percy were exhaustedly staring at the wall of gauges in front of them. Most of the gauges were completely unmoving as they were not varying speed, direction, or depth, and the fuel gauge simply read zero, since it didn't reflect the fuel they were sucking up from the _Gnat_. Other than Hemi's occasional forays down to the _Gnat_ to check the hard numbers, they were simply going on hope that they had enough fuel to make it to the depot and not get left stranded once again over empty, and deep, seas.
+By this time Hemi, Shakes, and Percy were exhaustedly staring at the wall of gauges in front of them. Most of the gauges were completely unmoving as they were not varying speed, direction, or depth, and the fuel gauge simply read zero, since it could not reflect the fuel they were sucking up from the _Gnat_. Other than Hemi's occasional forays down to the _Gnat_ to check the hard numbers, they were simply going on hope that they had enough fuel to make it to the depot and not get left stranded once again over an empty --- and very deep --- part of the ocean.
 
-Hemi finally broke the bleary, smoke-filled silence. "Something bothers me Percy."
+Hemi finally broke the bleary, smoke-filled silence. "Something bothers me Sylvia."
 
 "We've been scraping our way on our bellies under the razor-wire fencing of hell's fucking perimeter for days now, and _now_ something bothers you Hem'?" Percy chuckled at him.
 
-"I think that's exactly it, we've been so on edge and so burned out that I haven't had a chance to step back and consider things."
+"I think that is exactly it: we have been so on edge and so burned out that I have not had a chance to step back and consider things."
 
-"Well, what is it that's eatin' ya big guy?"
+"Well, what the fuck is it that's eatin' ya big guy?"
 
-"The sub with the ram. You said the one hunting for us in circles back there was the same that rammed us, right? You're sure about that?"
+"The sub with the ram. You said the one hunting for us in circles back there was the same that rammed us, right? You are sure about that?"
 
-"Abso-fucking-certain. Lotta subs look the same through the scope, sure, but that ram is unique. Some kinda custom job, without the sleekness ya see on military machines usually. Looks like it was worked up as some ancient siege engine, for storming a stone fortress or something, and some crazy motherfucker bought it as scrap and welded the whole fucking heavy water-dragging thing onto the front of their submarine."
+"Abso-fucking-certain. Lotta subs look the same through the scope, sure, but that ram is unique. Some kinda custom job, without the sleek, expensive quality of gear ya see on military machines usually. Looks like it was worked up as some ancient siege engine, for storming a stone fortress or something. And some crazy motherfucker bought it as scrap and welded the whole fucking heavy water-dragging thing onto the front of their submarine."
 
-Hemi nodded. "So if it's the same sub, which seems likely, it seems very _unlikely_ to me that they just happened on us twice. This is what's bothering me: do ya think they are specifically pursuing _us_?"
+Hemi nodded. "So if it is the same sub, which seems likely, it seems very _unlikely_ to me that they just happened on us twice. This is what is bothering me: do you think they are specifically pursuing _us_?"
 
 "I had the same thought." Said Shakes. "But I didn't want to put my fucking nose into your business, just as I wouldn't want you askin' about mine. But since yer asking Hemi..."
 
-"It does seem odd. We're just a cargo sub." Percy said, looking steadily at Shakes. "We're always being harassed by various Authorities in general-like ways. But who among them has the inclination to _pursue_ a cargo sub? We're small potatoes by any measure you care to put to it. They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, fucking business."
+"It does seem odd. We're just a fucknig cargo sub." Percy said, looking steadily at Shakes. "Of course we're always being harassed by various Authorities in general-like ways --- that's just part of the business. But who among them has the inclination to _pursue_ a cargo sub? We're fuckin' small potatoes by any measure you care to put fuckin' to it. They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, fucking business."
 
 "And we are the commerce." Said Shakes.
 
-"If that sub with the ram was pursuing us particularly," continued Percy, "seems most likely they won't follow us across Authority lines, and they'll lay off the pursuit at this point. We'll just avoid coming back this way any time soon."
+"Even if that sub with the ram was pursuing us particularly," continued Percy, "seems most likely they won't fuckin' follow us across Authority lines, and they'll lay off the pursuit at this point. We'll just avoid coming back this way any time soon."
 
 "Leaves ya with a big fuckin' mystery as to _why_ though, don't ya think?" Asked Shakes.
 
 "Indeed." Said Hemi. "Though sometimes the pragmatic course of action is to leave the questions aside, and move in a different direction."
 
-"And the direction we're moving in right now is towards that depot, and away from the mystery of the sub with the ram." Said Percy.
-2k
+"And the direction we're moving in right now is towards that depot, and away from the fucking mystery of the sub with the ram." Said Percy.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 The silence settled back in on them. Captain Percy lit up yet another cigarillo and filled up the small space of the control room with smoke. Hemi slid back down to the navigation chart with his flashlight, and a few minutes later called up to Percy. "Hey Capt, the island with the depot on it should be coming in sight with the periscope soon."
 
