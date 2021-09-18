@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Thu Sep 09, 2021  02:55PM
+Last modified: Sat Sep 18, 2021  05:02PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -113,7 +113,7 @@ Last modified: Thu Sep 09, 2021  02:55PM
 	* Seems like maybe they should not be the inflatey kind
 	* Bastian inflates them from a low-pressure fixture. that seems like a cool solution
 * [ ] make sure you only explain active sonar once
-* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
+	* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 * [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
 	* (I think her standing station gets established later in the story, make sure it makes sense in the earlier parts of the book)
 	* maybe refer to it explicitly as the 'captain's station'? (akin to the sonar station and the navigation station)
@@ -127,11 +127,13 @@ Last modified: Thu Sep 09, 2021  02:55PM
 	* Or like a _male_ anglerfish going into a _female_ socket.
 
 #### Underwater depot
-* [ ] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
+* [X] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
 * [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
-* [ ] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
+* [X] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
+	* He doesn't
 * [ ] add Shakes chewing coca leaves again
-* [ ] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
+* [X] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
+	* He's in the control room when Hemi asks Percy about the weirdness of the sub with the ram pursuing them specifically 
 * [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 * [ ] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
 * [ ] emphasize the weight of the crates with the warheads earlier
