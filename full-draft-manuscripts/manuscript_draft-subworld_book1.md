@@ -1892,33 +1892,33 @@ About a third of the way up the hall, her eye was caught by one of the bigger sh
 
 [//]: # (### In the hardware store; Percy meets Trinity)
 
-Percy turned into the shop. It sold hardware. A wide array of tools and parts were stacked up among the hay and batting used as packing material in the crates. Some of the packing material had inevitably escaped the crates and was being crushed into the grime on the floor. 
+Percy turned into the shop. It sold hardware. A wide array of tools and parts were stacked up among the hay and batting used as packing material in the crates. Some of the packing material had inevitably escaped the crates and was crushed into the grime on the floor. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Larger items were stacked towards the front of the store, Percy realized that was probably because they were harder to steal. The crates at the front of the shop were left open face-up, and she could look down into them to see large motors, piping, valves, and hundreds of other large elements that went into making a submarine work. 
 
-The larger items were stacked towards the front of the store, presumably because they were harder to steal, Percy realized. The crates at the front of the shop tended to be opened face-up, and she could look down into them to see large motors, piping, valves, and hundreds of other large elements that went into making a submarine work. 
+As she moved towards the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks. 
 
-As she moved towards the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks. The shopkeeper somehow both managed to both show very little interest in the few customers poking around in the crates, and yet never stop watching them.
+The shopkeeper somehow both managed to both show very little interest in the few customers poking around in the crates, and yet never stopped watching them.
 
-Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a wide variety of screw-tightened clamp sizes that was being sold as a single unit and looked incredibly useful. It was not on her hardware list, so she regretfully didn't get to cross anything off. On the other hand, these clamps would already be aboard the _Prospect_ when they needed them, rather than waiting to be purchased on the list at the next stop.
+Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that was being sold as a single unit and looked incredibly useful. It was not on her hardware list, so she regretfully wouldn't get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than waiting to be purchased on the list at the next stop.
 
-Percy picked up the box of clamps and moved to look at some of the larger parts. She looked down into an open crate and there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It too was not actually on her list of needed parts, but was potentially so useful that she couldn't imagine not buying it. In such a condition it was, however, not cheap.
+Percy picked up the box of clamps and moved to look at some of the larger parts. She looked down into an open crate and there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she couldn't imagine not buying it. In the condition it was in, however, it would not be cheap.
 
-She leaned over the crate and ran her fingers under the cover to check for hidden grit and make sure it was actually in as good condition as it looked, and not just well-cleaned. As she did so an old crone who had been looking at a box of steel piping near her leaned in her direction as well to admire the pump motor. "That's a fine-looking piece of machine." The lady said to Percy, her voice croaking softly so it took Captain Percy a second to interpret what the lady had said.
+She leaned over the crate and ran her fingers under the cover to check for hidden grit and make sure it was actually factory-new, and not just well-cleaned old junk. As she did so, an old crone who had been looking at a box of steel piping near her leaned in her direction to admire the pump motor too. "That's a fine-looking piece of machine." The lady said to Percy, her voice croaking softly so it took Captain Percy a second to interpret what the lady had said.
 
 "I have a boat where I could use ten more of these." Percy replied.
 
-"Pretty expensive element for buying multiples of." The lady offered. She was frail and small. In this depot full of huge people, she was certainly the tiniest Percy had seen, or would even expect to see. She had big rubbery ears and a heavily-lined face with a tiny nose that wiggled when she talked. She was dressed in a wool cloak that was worn but clearly originally of thick high-quality material. Over it, she wore a fraying shawl with an intricate fair-isle pattern. She looked like a person who would never be quite warm enough in this hole-in-the-rock they were currently in.
+"Pretty expensive element for buying multiples of." The lady offered. She was frail and small. In this depot full of huge people, she was certainly the tiniest Percy had seen, or would even expect to see. She had big rubbery ears and a heavily-lined face with a tiny nose that wiggled when she talked. She was dressed in a wool cloak that was worn thin but clearly made of what was originally a high-quality material. Over it, she wore a fraying shawl with an intricate fair-isle pattern. She looked like a person who would never be quite warm enough in this hole-in-the-rock they were currently in.
 
 "The cost is the reason I'll be lucky to get a single one of these." Said Percy.
 
 "Hrmmm.... what if I told you I could set you up with a little cash?"
 
-Percy looked at the tiny stick-figure-in-a-sack skeptically. "Like a loan?" She asked.
+Percy looked at the tiny stick-figure-in-a-sack skeptically. "Like a loan?" She asked. Loan sharks certainly came in all shapes and sizes.
 
 "No no. I don't go in for usary. That's for the real criminals. I'm offering a job. But one that would pay exceptionally well."
 
-"Well, that's certainly a unlikely coincidence that you happen to offer me work when I was about to go groveling for some up and down the hall out there..."
+"Well, that's certainly a unlikely fucking coincidence that you happen to offer me work when I was about to go groveling for some up and down the hall out there..."
 
 "You did mention you have a boat. This job requires a boat."
 
@@ -1926,40 +1926,46 @@ Percy nodded.
 
 "To be transparent" the old lady continued, "I did receive a note that you might be a good fit for this particular work. It's not exactly coincidence that I found you in here."
 
-Percy put a couple of things together and realized the dock boss must have sent word to this lady. An awfully nice gesture --- if they weren't setting Percy up. She wondered what she had done to deserve a kind move from the dock boss. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidence would have suggested."
+Percy put a couple of things together and realized the dock boss must have sent word to this lady. An awfully nice gesture --- if they weren't setting Percy up. She wondered what she had done to deserve a kind move from the dock boss. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidence would have fucking suggested."
 
 "Ah," said the lady, "yes, it's easier to believe the plot and the happenings are motivated by someone's will, eh? That it isn't all just random chaos, and the coin-toss sometimes comes up in your favor?"
 
-"Oh I believe in the chaos," said Percy, "I just don't believe it comes up in my favor."
+"Oh I believe in the chaos," said Percy, "I just don't believe it comes up in my fucking favor."
 
 The lady grinned a wide gapped-tooth smile. "I think I can work with such a person. Would you be interested in coming back to my office and hearing the offer I have? It's... not really fit for public spaces."
 
-Percy again put aside the suspicion that she was being set up. She needed the work. "Yes lets." Percy put down the box of clamps, and noticed that the shopkeeper watched her do so.
+Percy again put aside the suspicion that she was being set up. She needed the work. "OK lady. I'll hear whatever the fuck is you've got to say." Percy put down the box of clamps, and noticed that the shopkeeper watching her do so.
 
 
 [//]: # (### Negotiation with Trinity for the explosives shipping job)
 
 "My name is Trinity." croaked the old lady as she hobbled along next to Percy.
 
-Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand. "That's an interesting name." 
+Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand. "That's an interesting fucking name." 
 
 "I had a very devout upbringing. Your name is Percy, right?"
 
-"Sylvia Percy, ya. So you know all about me already?
+"Captain Sylvia Percy, ya. So you know all the fuck about me already?
 
-"In my line of work, it is best to know a little something about those you hire. Though again, in the interest of transparency, all I really know is your name and that you have a boat."
+"My dear Captain Percy, would you mind toning down your colorful language a bit during our interactions?"
+
+"I'm a fucking sailor lady, what do you expect?"
+
+[//]: # (Why is there so much gratuitous cursing in this story? Your answer is above!)
+
+Trinity walked on silently --- and Percy thought somewhat reproachfully --- for a minute. "Anyway. In my line of work, it is best to know a little something about those you hire. Though again, in the interest of transparency, all I really know is your name and that you have a boat."
 
 "What's with all the transparency?" Percy asked.
 
 "Ah yes. Typically I play my cards somewhat closer. But this job is of some urgency, so I am hoping to build some trust with you quickly. I can only hope you respond reciprocally. 
 
-"Well then, in the interest of transparency you should know that my boat, as solid as she is, is currently in desperate need of some downtime for repairs. I'm not sure how much urgency we can put into picking up a job."
+"Well then, in the interest of transparency you should know that my boat, as solid as she is, is currently in desperate need of some downtime for repairs. There's a limited amount of urgency we can put into picking up a job."
 
 "With the amount I'll be offering you, I think you will be able to make the shortest possible downtime a priority."
 
-Percy didn't respond to that. This seemed too good to be true. This old lady was either senile, lying, or there was a catch yet to be revealed.
+Percy did not respond to that. This seemed too good to be true. This old lady was either senile, lying, or there was a catch yet to be revealed.
 
-"Here we are." Said Trinity, steering Percy towards a low creosoted wooden door set into the wall. The inside of Trinity's office had the same bare rock walls as all the other spaces, but was more warmly lit from sconces. There were wooden file cabinets along the walls. The center of the space had a few large heavily-stuffed leather chairs and a small table between them.
+"Here we are." Said Trinity, steering Percy towards a low creosoted wooden door set into the wall. The inside of Trinity's office had the same bare rock walls as all the other spaces, but was more warmly lit from sconces in place along the walls. Many wooden filing cabinets arrayed under the sconces also softened the feel of the space. The center of the space had a few large heavily-stuffed leather chairs and a small table between them that appeared to be constructed of some exotic wood.
 
 "I can offer you tea or coffee, Captain Percy."
 
@@ -1973,25 +1979,27 @@ Percy didn't respond to that. This seemed too good to be true. This old lady was
 
 "By all means then."
 
-Captain Percy sat in one of the leather chairs and accepted a ceramic cup with mud-colored contents with one hand. With the other hand she took a metal clipboard with chipping black paint and oil-stained pages that Trinity was holding out to her.  She scanned it while taking her first sip of coffee. It was the best coffee Percy had had in months. 
+Captain Percy sat in one of the leather chairs and accepted a ceramic cup with mud-colored contents with one hand. With the other hand she took a metal clipboard with chipping black paint and oil-stained pages that Trinity was holding out to her.  She scanned it while taking her first sip of coffee. 
+
+It was the best coffee Percy had had in months. 
 
 Trinity lowered herself groaning into the chair opposite Percy.
 
-"So you want us to ship magnetic mines?" Percy asked.
+"So you want us to transport magnetic mines?" Percy asked.
 
-"Please," said Trinity, "this shipping of mines is extremely restricted and mostly illegal. These are magnetically-activated industrial explosives."
+"Please," said Trinity, "the shipping of mines is extremely restricted and mostly illegal. These are magnetically-activated industrial explosives."
 
 "...For which the primary use would be mines, and thus still illegal to ship."
 
-"The units are absolutely agnostic about how they are used. Doesn't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth, and under, the surface of the sea, leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
+"The units are absolutely agnostic in their uses. They don't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth --- and under, of course --- the surface of the sea, leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
 
 "Is that why you need us? You can't get an Authority seal to ship these because they are going to a group that's trying to 'clean' up the oceans?"
 
-"You know as well as I do that the seal of one Authority just aggravates the aggression of another, regardless of where, or whom, they are going to." She sighed. "Unfortunately these days conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to, shall we say, interference from another protagonist. The most reliable way is to use a specialty shipping services unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
+"You know as well as I do that the seal of one Authority just aggravates the aggression of another, regardless of where, or whom, they are going to." She sighed. "Unfortunately these days conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to interference from another antagonist. The most reliable way is to use a specialty shipping services unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
 
 "Certainly if we were any less reliable, I wouldn't be standing here talking to you right now."
 
-"There's also the matter of speed. I really need to get these units out of this depot in the next couple of days. I'd rather not say why, so do not ask. But I do believe it will benefit us both if you do as I suggested earlier and make the repairs to your boat as quickly as possible and move on with this cargo."
+"There's also the matter of speed. I really need to get these units out of this depot in the next couple of days. I'd rather not say why, so do not ask. But I believe it will benefit us both if you do as I suggested earlier and make the repairs to your boat as quickly as possible and move on with this cargo."
 
 "Well, that brings us to the price. To make the repairs a priority is not going to be cheap, especially from what I hear about the workers available on the dock."
 
@@ -1999,13 +2007,17 @@ Trinity lowered herself groaning into the chair opposite Percy.
 
 Percy hesitated. "How about... three times a standard hull-load fee?"
 
+[//]: # (A "hull load" = the amount one average-sized cargo submarine could carry. It's an established norm, even though some small subs could only carry half a hull load, and bigger ones 1.5 hull loads on a run. The _Prospect_ carries a pretty typical hull load.)
+
 "Done. I can pay you two-thirds now and the remainder on delivery. I assume coin will be satisfactory?"
 
-"Absolutely." Said Percy, kicking herself that she didn't ask for more. Still she have never been paid triple for a hull load before.
+"Absolutely." Said Percy, kicking herself that she didn't ask for more. Still, she have never been paid triple for a hull load before.
 
-Trinity stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While counting she continued the conversation as if it were no effort. "This must be quite a bit of money for you Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you would have and settling down with a nice man somewhere?"
+Trinity stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While counting she continued the conversation as if it were no effort. "This must be quite a bit of money for you Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you will have and settling down with a nice man somewhere?"
 
-Percy smiled at the matronly side that had suddenly come out of Trinity. "Well, you know what the old cliche says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos it's bureaucracy. I'd rather stay underwater."
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+
+Percy smiled at the matronly side that Trinity had suddenly revealed. "Well, you know what the old cliche says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos it's bureaucracy. I'd rather stay underwater."
 
 Trinity nodded. "Unfortunately there's some truth to that. There's no sure future anywhere on the surface. Makes it hard to commit to settling down anywhere particular."
 
