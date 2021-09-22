@@ -2136,102 +2136,108 @@ The bartender put a knuckle to his gristly eyebrow in a mock salute as they turn
 
 "Here," said Percy handing Cassandra a few coins, "that's an advance on your next paycheck. Buy some tougher clothes."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 [//]: # (### Percy meal with Shakes --- hiring him long term.)
 
-Captain Percy left Cassandra in the middle of the hall. Cassandra went up the ramp towards the stairs to the next level up where the barracks were located. Percy turned down the ramp feeling like it was probably time to get back to her boat and see how things were going. She was warm from the liquor and had a bit of a sweat breaking in the still and humid underground air.
+With a shy smile Cassandra turned and walked up the ramp towards the stairs to the next level up, where the barracks were located. Percy turned down the ramp feeling like it was probably time to get back to her boat and see how repairs were proceeding. She was warm from the liquor and had a bit of a sweat breaking on her skin in the still and humid underground air.
 
-Walking down the ramp in the direction of the docks she saw the now-familiar clanking gate of Shakes climbing up the ramp. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
+Walking down the ramp in the direction of the docks she saw the now-familiar clanking gait of Shakes climbing up the ramp. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
 
-"Yeah, it's about that time, eh Shakes? Let me buy you that meal I promised you first."
+"Yeah, it's about time for it, eh Shakes? Let me buy you that fucking meal I promised you first."
 
-"Not going to say no to some grub."
+"Not going to say fuckin' no to some grub."
 
-They walked a short way back up the ramp of the exchange floor. Across from the saloon, set back in the opposite wall of the exchange floor was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
+Percy turned to join Shakes in the upward direction on the ramp, and they walked a short way back up the exchange floor. Across from the saloon, set back in the opposite wall was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
 
-Inside they got in line behind some other patrons dressed in dingy shades of wool. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming trays of food while tapping a long stamped-steel serving spoon against the tray.
+Inside they got in line behind some other patrons dressed in dingy shades of wool. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming trays of food while tapping a long stamped-steel serving spoon against the greasy metal tray.
 
-They got some of each, a mounded plate full of steaming long-grained rice with bits of clove and chopped peas and cardamom scattered in it. The plates were stacked on steel trays splotched with rust, and a couple of piece of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a couple of coins from her satchel and they sat down at a chipped formica table amid the hum of basso-voiced dock worker conversations.
+They got some of each, a mounded plate full of steaming long-grained rice with bits of clove and chopped peas and cardamom scattered in it. The plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a couple of coins from her satchel and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
 
-Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He passed the bread back to the first hand and then piled a good of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth.
+Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He passed the bread back to the first hand and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth.
 
 While he was chewing, Percy brought him up to speed. "So I've fallen ass-backwards into a job Shakes."
 
 He grunted acknowledgement and nodded, too busy eating to look up.
 
-"It pays well.... really well."
+"It pays well.... really fucking well."
 
 That got Shakes to look up at her, but not to stop eating.
 
-"Thing is, it's kinda risky. Might attract some attention from one Authority or another."
+"Thing is, it's fuckin' kinda risky. Might attract some attention from one Authority or another."
 
-"Mmmph," said Shakes through his mouthful of bread, "that's usually how it goes.I assumed a job in that class is why that sub rammed you."
+"Mmmph," said Shakes through his mouthful of bread, "that's usually how it goes.I assumed some kinda job in that class is why that sub fuckin' rammed you."
 
-"Actually, I still don't know why they rammed us. As you know, the hold was empty at the time, we were on a dry run. And we haven't been mixed up in anything for a while..." She drifted off a bit pondering that mystery that had been at the back of her mind while she ate her way along a bone of dry chicken.
+"Actually, I still don't know why they rammed us. The hold was fucking empty at the time! We were on a dry run. And we haven't been mixed up in anything questionable for a while..." She drifted off a bit pondering that mystery that had been at the back of her mind while she ate her way along a bone of dry chicken.
 
-"Anyway, this next job is going to require being a little more tactical, I think. A little more forethought and planning than the usual just trying to sneak under the radar and not be noticed."
+"Anyway, this next job is going to require being a little more fuckin' tactical, I think. A little more forethought and planning than the usual just trying to sneak under the radar and not be noticed."
 
-"I'm not much for tactics myself. I have just the one: stay small, stay low in the water, don't get seen. It's simple and it works. Not much to think about, and I like it that way."
+"I'm not much for fuckin' tactics myself. I have just the one: stay small, stay low in the water, don't get fuckin' seen. It's simple and it works. Not much to think about, and I like it that way."
 
-Percy nodded. "Something like that has always been my strategy too. But for this next job, I think I might need to add a somewhat more complex element." She shoveled a little rice into her mouth. "Remember part of our deal was that if I knew of any work I could connect you with I would?"
+Percy nodded. "Something like that has always been my strategy too. But for this next job, I think I might need to add a somewhat more complex facet." She shoveled a little rice into her mouth. "Remember part of our deal was that if I knew of any work I could connect you with I would?"
 
 "Sure. You got something already?"
 
-"Here's what I'm thinking: I'm hauling this risky load --- I won't get into details about it right now, just keep in mind that there's certain to be some Authorities who would be interested in checking the manifest. Now, I will of course, deploy the usual tactics of keeping my boat on the down low, running quiet, staying submerged during the day and only running on the surface at nice, and so on and whatnot. But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And their job was to be _un_stealthy. To run as a decoy around and above the _Prospect_. Draw the curious eye, or ear, away, so to speak. And they would be clean of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
+"Here's what I'm thinking: As I said, I'm gonna be hauling this risky fucking load --- I won't get into details about it right now, just remember that there's certain to be some Authorities who would be interested in checking the manifest. Now, I will, of course, deploy the usual tactics of keeping my boat on the down-low, running quiet, staying submerged during the day and only running on the surface at night, and so on and fuckin' whatnot."
 
-"Interesting. You want to buy some kind of surface transport or pleasure craft then?"
+She paused for a second, considering how to best present this idea she had to Shakes.
 
-"Naw. Surface craft are useless. The authorities know how to split their monitoring for a surface vessel and a submerged one. It has to be something that could be mistaken on sonar for the _Prospect_. Possibly a boat like the _Gnat_."
+"But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And the partner's job was to be _un_stealthy. To run as a decoy around and above the _Prospect_. Draw the curious eye, or ear, away, so to speak. And they would be fuckin' clean of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
 
-Shakes swallowed. "Interesting. So you want me to juice up the _Gnat_ so it sounds like it could be a big ol' fuckin' cargo sub, and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
+"Interesting. You want to buy some kind of surface transport or speed boat then?"
+
+"Naw. Surface craft are fucking useless. The authorities have different methods for monitoring surface vessels and submerged ones. It has to be something that could be mistaken on sonar for the _Prospect_. Possibly a boat like the _Gnat_."
+
+Shakes swallowed. "So... what? You want me to juice up the _Gnat_ so it fucking sounds like it could be a big ol' fuckin' cargo sub --- and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
 
 "Or maybe _not_ get caught... you said the _Gnat_ was fast, right? You could outrun them when they started pursuing you... and at the same time lead them away from the _Prospect_."
 
-Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and brash after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing though."
+Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and --- what's the fuckin' word? brash  ---after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing though."
 
-"I have a feeling you'd be a natural at it." Said Percy.
+"I have a feeling you'd be a fucking natural at it." Said Percy.
 
-"It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. Need to tune it up for speed." 
+"It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed." 
 
-Percy dropped the heavy satchel full of coins on the table in front of Shakes. Though when a couple of other patrons turned around too look for the source of that sound she realized it was kind of a dumb move. "Not to be dramatic, but this is only two-thirds of the payment for this job."
+Percy dropped the heavy satchel full of coins on the table in front of Shakes. Though when a couple of other patrons turned around to look for the source of that particular sound she realized it was stupid move, so she leaned in and whispered the next bit so only Shakes could hear. "Not to be dramatic, but this is only two-thirds of the payment for this fucking job."
 
-Shakes eyes widened. But he poked it with the handle end of his fork. "Better put that away. But what are you offering me exactly?"
+Shakes eyes widened. He poked at the satchel with the handle end of his fork. "Better put that the fuck away. What the fuck are you offering me exactly?"
 
 "How about two deck-crew share's worth? And a deck-crew share on this run should be pretty lucrative."
 
-Shakes nodded slowly, while chewing through another piece of bread. "Alright. Alright! But I want a stipend on top of that to cover the costs of any modifications to the _Gnat_. And enough to reverse them after we complete this run."
+[//]: # (A deck-crew share is kind of the 'standard' pay for a run on a cargo sub. Everyone gets paid per run, and the captain and the deck boss get a much bigger share. Deck-crew shares are what most of the crew makes, evenly divided. Green crew get a much smaller share, or a flat fee offer. The boat itself also gets a share: the boat-share. For maintenance and fuel.)
 
-"Done. I'll give you one share right now, and the other on delivery. You can write up the cost of the stipend at delivery too." Said Percy.
+Shakes nodded slowly, while chewing through another piece of bread. "Alright. Fuckin' alright! But I want a stipend on top of that to cover the costs of any modifications to the _Gnat_. And enough to reverse them after we complete this run."
 
-Shakes grinned through a mouthful of food. "Well --- partner --- who knew picking up a bunch of fucking dirty marooned scumbags in the middle of the ocean would lead to anything profitable! Sweet."
+"Done. I'll give you one share right now, and the other on delivery. You can write up the cost of the fucking stipend at delivery too." Said Percy.
 
-"Well if that's settled, I've been away from my boat for a couple of hours now, and that is enough for some damage to have been done. I feel like I need to be getting back there."
+Shakes grinned through a mouthful of food. "Well --- partner --- who knew picking up a bunch of fucking dirty marooned scumbags in the middle of the ocean would lead to anything profitable! Fuckin' Sweet."
+
+"Well if that's fucking settled, I've been away from my boat for a couple of hours now, and that is enough for some serious fucking damage to have been done. I feel like I need to be getting back there."
 
 "You go Captain Percy. I'm going to finish loading up on this chow."
 
 
 [//]: # (### Back at the Prospect in the docking slip; talking to Hemi about re-hiring Chips)
 
-At docking slip four, the hole in the deck that led down to the cargo hold of the _Prospect_ was like a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot. It now had a number of heavy black cables and hoses arcing into it, making it look a little like some kind of enormous dental maneuver was being worked on it. Captain Percy's eye scanned from where the hoses and wires were attached to pipes and terminals mounted on the walls of the docking bay, over the edge of the hole. She leaned over and looked down into the cargo hold where the cables and hoses were lashed together and ran in a hulking pile up the middle of the cargo hold back into the deeper parts of the ship where they were hopefully connected to the battery terminals and fuel tanks that so desperately needed to be topped up. At the front of the cargo hold, Chips was overseeing a repair crew from the dock that was working on redoing and reinforcing the desperate and messy repair welds Chips had made earlier.
+At docking slip four, the hole in the deck that led down to the cargo hold of the _Prospect_ was like a giant black maw, whose lips were pursed and sucked against the airlock dock of the depot. It now had a number of heavy black cables and hoses arcing into the hole, making it look a little like some kind of enormous dental maneuver was being worked on it. Captain Percy's eye scanned from where the hoses and wires were attached to pipes and terminals mounted on the walls of the docking bay over the edge of the hole. She leaned over and looked down into the cargo hold where the cables and hoses were lashed together and ran in a hulking pile up the middle of the cargo hold back into the deeper parts of the ship where they were hopefully connected to the battery terminals and fuel tanks that so desperately needed to be topped up. At the front of the cargo hold, Chips was overseeing a repair crew from the dock that was working on redoing and reinforcing the desperate and messy repair welds Chips had made earlier.
 
-She climbed down the ladder to the catwalk and made her way over and down to the deck of the cargo hold. From there she went aft into the forward battery room where she found Hemi with a dock worker trying to get cables hooked up to the battery bank so they could recharge the batteries from the docking bay power system.
+Percy climbed down the ladder to the catwalk and made her way over and down to the deck of the cargo hold. From there she went aft into the forward battery room where she found Hemi with a dock worker trying to get cables hooked up to the battery bank so they could recharge the batteries from the docking bay power system.
 
-"Hemi!" Percy yelled at him. "What is that woman still doing on this boat?" She said pointing forward to where Chips was standing. "Didn't I say she was to get off as soon as we hit the dock?"
+"Hemi!" Percy yelled at him. "What is that fucking woman still doing on this boat?" She said pointing forward to where Chips was standing. "Didn't I say she was to be off as soon as we hit the fucking dock?"
 
-"Come here," Hemi said calmly, leading her further back into the battery room. "I convinced her to stay long enough to oversee the repairs. She didn't want to be blamed if those guys did a lousy job and the seam burst open again later. So she's just making sure they fix it right."
+"Come here," Hemi said calmly, leading her further back into the battery room. "I convinced her to stay long enough to oversee the repairs. She did not want to be blamed if those guys did a lousy job and the seam burst open again later. So she is just making sure they fix it right."
 
 "Fuck Hemi! When I fire someone, they stay fucking fired!"
 
-"Captain, we need her. I cannot do all these jobs myself. I'm a middling welder at best. And I can't tell the difference in someone else's work between a good weld and a pile of dog waste."
+"Captain, we need her. I cannot do all these jobs myself. I am a middling welder at best. And I can not tell the difference in someone else's work between a good weld and a pile of dog waste."
 
 "Owen can take over the welding."
 
-"He's a kid! He can't tell these dock trolls what do to, even if he does know any better than them."
+"Owen is just a kid. He can not tell these dock trolls what do to, even if he does know any better than them."
 
-Percy considered. "OK... she oversees the repairs, we pay her up to date, and _then_ she's gone."
+Percy considered. "OK... she oversees the repairs, we pay her up to date, and _then_ she's fucking gone."
 
-"Percy," He said looking directly at her, "we need her. You need to apologize and re-hire her. We can't leave this depot with no engineer and no welder aboard. And in case you hadn't noticed, there's not exactly a surfeit of talented crew waiting to be hired around here."
+"Percy," Hemi said looking directly at her, "we need her. You need to apologize and re-hire her. We can not leave this depot with no engineer and no welder aboard. And in case you had not noticed, there is not exactly a surfeit of talented crew waiting to be hired around this depot."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Fuck." She kicked the battery shelving with her boot. "Fuck! You're right. You're always right and I fucking hate it when you're right. I'll go see if I can re-hire that little fucknut."
 
