@@ -2237,7 +2237,7 @@ Percy considered. "OK... she oversees the repairs, we pay her up to date, and _t
 
 "Percy," Hemi said looking directly at her, "we need her. You need to apologize and re-hire her. We can not leave this depot with no engineer and no welder aboard. And in case you had not noticed, there is not exactly a surfeit of talented crew waiting to be hired around this depot."
 
-"Fuck." She kicked the battery shelving with her boot. "Fuck! You're right. You're always fucking right and I fucking hate it when you're fucking right. I'll go see if I can re-hire that little fucknut."
+"Motherfucker." She kicked the battery shelving with her boot. "Fuck! You're right. You're always fucking right and I fucking hate it when you're fucking right. I'll go see if I can re-hire that little fucknut."
 
 "Do it humanely. We need her to actually _want_ to stay and work."
 
@@ -2358,9 +2358,9 @@ Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that la
 
 "I'm sure they have been thoroughly fucking packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you're sure they _won't_ go off if someone walks by a crate with a heavy socket wrench or something."
 
-There was a tap of someone's bony knuckles on the hatch to the galley, and Bastian swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those big trolls up at the slip with crates they say are to be loaded into the _Prospect_.
+There was a tap of someone's bony knuckles on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those fuckin' big trolls up at the slip with crates they say are to be loaded into the _Prospect_.
 
-"Thanks Bastian." Said Percy. "That is indeed our cargo. You can come help us get these things stowed properly. Hemi?"
+"Thanks Gregory." Said Percy. "That is indeed our cargo. You can come help us get these things stowed properly. Hemi?"
 
 Hemi forked his last bite of meat, and squeezed his bulk out of the tight galley seating.
 
@@ -2387,15 +2387,15 @@ Percy took the pen and scrawled her illegible name into the blank.
 
 Hemi adjusted his thin-framed glasses and more studiously scanned over the contract before he signed the witness blank. The man tore off a carbon copy and held it out to Percy. Hemi took it and folded it and put it into his inside jacket pocket.
 
-By the time this was done the dock crew already had the first crate suspended by chains in a sling and hanging out over the _Prospect's_ open cargo hold. The chain passed through a series of heavy iron blocks to a fat winch mounted to the wall of the docking bay. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' tension on the winch now!" He yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect's_ cargo hold.
+By the time this was done the dock crew already had the first crate suspended by chains in a sling and hanging out over the _Prospect's_ open cargo hold. The chain passed through a series of heavy iron blocks to a fat winch mounted to the wall of the docking bay. The chains looked like they were straining with tension at the edge of their capacity --- explosives were never a light cargo. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' winch now!" He yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect's_ cargo hold.
 
-"Bastian," Percy said, "go down to the cargo hold deck and make sure those goons are stowing things in a way that won't leave the boat totally fuckin' untrimmable."
+"Gregory," Percy said, "go down to the cargo hold deck and make sure those goons are stowing things in a way that won't leave the boat totally fuckin' untrimmable."
 
-"Aye Cap." Bastian disappeared down the ladder into the cargo hold.
+"Sure Cap." Gregory disappeared down the ladder into the cargo hold.
 
 With much relayed yelling, the men got the first crate lowered down into the hold, then cranked the chains back up, slung the second crate, and repeated the process. Soon they had a clanking and yelling rhythm going and the hold of the _Prospect_ steadily filled with crates. Hemi and Percy watched, looking down through the hatch into the hold. As the dock workers moved the crates into the sub, they arranged them like puzzle pieces, and then lashed them with thumb-thick hemp rope to fixed loops welded to the pressure-hull walls.
 
-Bastian was doing a reasonable job of making sure the crates were being stacked, stowed, and lashed down in such a way that the boat was not likely to dive bow-first into the globergerina ooze as soon as they separated it from the docking bay. But Percy and Hemi knew it did not matter how good a job Bastian did, they would have to make some adjustments to the balance of the load later to get the boat trimmed as efficiently as possible. The key priority for Bastian was simply to make sure the crates were organized so that making those adjustment later while they were underway would not be too difficult.
+Gregory was making sure the crates were being stacked, stowed, and lashed down in such a way that the boat was not going to dive bow-first into the globergerina ooze as soon as they separated it from the docking bay. But he was doing the job maybe a little too quickly, and Percy and Hemi knew even if Gregory stowed the crates carefully the crew would likely have to make some adjustments to the balance of the load later to get the boat trimmed as efficiently as possible. The key priority for Gregory was simply to make sure the crates were organized so that making those adjustment later while they were underway would not be too difficult.
 
 
 [//]: # (### Cassandra arrives at the Prospect)
@@ -2434,119 +2434,121 @@ Percy watched this approvingly. It was another good sign that Cassandra seemed s
 
 Hemi did not fail to notice either. "Maybe..." was all he said before looking back down at his clipboard and counting how many more crates remained to be loaded.
 
+They finished loading the crates of explosives that evening. Hemi had Bastian, Gregory, and Owen go over every crate and make sure it was lashed securely enough that it could not shift once the _Prospect_ started moving. 
+
+After that, most of the crew headed up to the canteen on the exchange floor to indulge in the kind of heavy drinking rarely on offer to a submarine crew, though Cassandra excused herself from this opportunity to get to knew her new crew mates better, suggesting politely that she had seen quite enough of that canteen. Hemi and Percy also skipped the canteen and were up late in the galley going over the state of their supplies and some questions Hemi had about the details of the job contract that Hemi wanted to be sure Percy had considered.
+
 
 [//]: # (### Next morning; loading compressed air)
 
-They finished loading the crates of explosives that evening. Hemi had Bastian, Gregory, and Owen go over every crate and make sure it was lashed securely enough that it could not shift once the _Prospect_ started moving. After that, most of the crew hit the rack, though Hemi and Percy were up late in the galley going over the state of their supplies and some questions Hemi had about the details of the job contract that Hemi wanted Percy to consider.
-
 [//]: # (Morning: day 1, run to Stilt City)
-The next morning, Hemi was up first, and dragged Bastian out of the rack to help him track down some dock workers who would have the rig to get the compressed air tanks of the _Prospect_ recharged. This involved setting up a length of expandable rigid pipes that ran down the docking bay, through the cargo hatch, and were connected up to pipe fittings mounted to the ceiling of the _Prospect's_ cargo hold. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_, and that air was under such an immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well by utilizing some valves on the tank ballast panel in the control room to bleed off air from the high-pressure system to the low-pressure tanks.
+The next morning, Hemi was up first, and dragged a bleary and aching Bastian out of the rack to help him track down some dock workers who would have the rig to get the compressed air tanks of the _Prospect_ recharged. This involved setting up a length of expandable rigid pipes that ran down the docking bay, through the cargo hatch, and were connected up to pipe fittings mounted to the ceiling of the _Prospect's_ cargo hold. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_, and that air was under such an immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well by utilizing some valves on the tank ballast panel in the control room to bleed off air from the high-pressure system to the low-pressure tanks.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+The docking bay had high-pressure pipes that were fed down from tanks and compressors in some equipment space up above the exchange floor of the depot. Mostly the depot's tanks were just kept ready for an emergency --- if the docking bay got flooded and the water needed to be blown out. Most subs that docked there already had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had equipment for it, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian and a bag full of money looking for those people.
 
-The docking bay had high-pressure pipes that were fed down from tanks and compressors in some equipment space up above the exchange floor of the depot. Mostly it was just kept ready for an emergency, if the docking bay got flooded and the water needed to be blown out. Most subs that docked there had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had equipment for it, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian looking for those people.
+By the time they got back, the rest of the crew had managed to crawl slowly and painfully out of their racks, got themselves fed and coffeed, and were doing odd jobs around the boat while waiting for Hemi to return with instructions for things that actually needed to get done. Hemi sent Gregory and Cassandra up to the exchange floor with a stack of coins to track down enough food and consumable supplies to get the crew through the run ahead of them. He figured Cassandra had been in this depot long enough that she might be able to help Gregory acquire some better-than-average submarine grub. Chips had Owen down in the engine room going over the diesels and the motors very carefully and Hemi was neither going to disrupt Chips in that process, nor take Owen from her for something else.
 
-By the time they got back, the rest of the crew was out of their racks, fed and coffeed, and doing odd jobs around the boat while waiting for Hemi to get back with instructions for things that actually needed to get done. Hemi sent Gregory and Cassandra up to the exchange floor with a stack of coins to track down enough food and consumable supplies to get them through the run ahead of them. He figured Cassandra had been in this depot long enough that she might be able to help Gregory acquire some better-than-average submarine grub. Chips had Owen down in the engine room going over the diesels and the motors very carefully and Hemi was neither going to disrupt Chips in that process, nor take Owen from her for something else.
+Hemi and Bastian worked with the two men from the depot who knew how to rig the high-pressure pipes until they had a spindly and unwieldy-looking hook of pipe that arced through the air from the docking bay down into the _Prospect_. It took a while to get all the piping set up and double checked so that everyone working on it was confident it wasn't just going to explode and blow every submarine off the docking bay when they let the high-pressure air into it. But once it was set up, charging the high-pressure tanks only took a few minutes.
 
-Hemi and Bastian worked with the two men who knew how to rig the high-pressure pipes until they have a spindly and unwieldy-looking hook of pipe that arced through the air from the docking bay down into the _Prospect_. It took a while to get all the piping set up and double checked so that everyone working on it was confident it wasn't just going to explode and blow every submarine off the docking bay when they let the high-pressure air into it. But once it was set up, charging the high-pressure tanks only took a few minutes.
-
-With the compressed air systems recharged, the only thing left was to get food aboard. Gregory and Cassandra returned a couple of hours later with a cart full of yet more wooden crates, though these were filled with food stores. Gregory and Bastian got these crates lowered down to the cargo hold deck with Cassandra watching a learning. Once they were in the cargo hold, Bastian stowed and lashed the crate full of non-perishable and dry goods --- cans and dried meats, oatmeal, cornmeal, flour, apples, rice, eggs, cabbage, jars of spices, and citrus --- with the rest of the cargo, figuring they could move the contents up to the galley after they were under way. The frozen and perishable items --- sides of beef and pork, a couple of waxed-paper boxes of leafy vegetables they would need to cook in the next few days, frozen chicken carcasses, and ice cream sandwiches and bars among other things --- were all laboriously pully fom the crates immediately and carried up into the galley and freezers by the crew.
+With the compressed air systems recharged, the only thing left was to get food aboard. Gregory and Cassandra returned a couple of hours later with a cart full of yet more wooden crates, though these were filled with food stores. Gregory and Bastian got these crates lowered down to the cargo hold deck with Cassandra watching and learning, but staying out of the way. Once they were in the cargo hold, Bastian stowed and lashed the crates full of non-perishable and dry goods --- cans and dried meats, oatmeal, cornmeal, flour, apples, rice, eggs, cabbage, jars of spices, and citrus --- with the rest of the cargo, figuring they could move the contents up to the galley after they were under way. The frozen and perishable items --- sides of beef and pork, a couple of waxed-paper boxes of leafy vegetables they would need to cook in the next few days, frozen chicken carcasses, and ice cream sandwiches among other things --- were all laboriously pulled from the crates immediately and carried up to be stowed in the galley and freezers by the crew.
 
 
 [//]: # (### ready to embark)
 
 [//]: # (Lunch time: day 1, run to Stilt City)
-With food aboard, Hemi found Captain Percy in the sonar compartment around lunch time and reported that all the various umbilicals had been withdrawn and the _Prospect_ was ready to swim under its own power agail. They could expect to be ready to embark from the depot sometime that day.
+With food aboard, Hemi found Captain Percy in the sonar compartment around midday and reported that all the various umbilicals had been withdrawn, and the _Prospect_ was ready to swim under its own power again. They could expect to be ready to embark from the depot sometime that day.
 
-"I don't know if you have any business left to take care of up on the exchange floor or anything," said Hemi to Captain Percy, "but the cargo is loaded, all the critical supplies are aboard, Chips says the engines are running cleanly enough, and the boat is more or less repaired."
+"I do not know if you have any business left to take care of up on the exchange floor or anything," said Hemi to Captain Percy, "but the cargo is loaded, all the critical supplies are aboard, Chips says the engines are running cleanly enough, and the boat is more or less repaired."
 
-"Nice work Hemi. Do we have any money left?"
+"Nice fuckin' work Hemi. Do we have any fucking money left?"
 
-"Well, we've been spending coin with a shovel to get this all done quickly. But even covering Shake's costs, we should still come out a bit ahead."
+"Well, we have been spending coin with a shovel to get this all done quickly. But even after covering Shake's costs, we should still come out a bit ahead."
 
-"Clandestine work does pay, don't it?" Percy smiled.
+"Clandestine work does fuckin' pay, don't it?" Percy smiled.
 
-"If it doesn't kill you in the process."
+"If it does not kill you in the process."
 
-Bastian's tall skinny form suddenly filled the hatchway forward to the next compartment. He stood aside and one of the scruffy young teenagers who hung around the depot looking for various quick jobs they could take stepped into the sonar compartment.
+Bastian's tall skinny form suddenly filled the hatchway forward to the next compartment. He stood aside and one of the scruffy young teenagers who hung around the depot looking for various quick jobs they could take on stepped into the sonar compartment.
 
 "Captain Percy, this kid says he has a message for you."
 
-The kid didn't say anything but handed Percy a scrap of paper and then stood to one side looking at the deck.
+The kid did not say anything but handed Percy a scrap of paper and then stood to one side looking at the deck.
 
 Percy unfolded the paper. Written in a slightly wavery hand with printed capital letters said: IT'S TIME TO LEAVE.
 
 Hemi put a couple of things together. "A message from our employer?"
 
-"Indeed." Said Percy. "Raise the blue peter Hemi. I think we need to be moving on from this place."
+"Indeed." Said Percy. "Raise the Blue Peter Hemi. I think it's time we fuckin' moved on from this place."
 
-Hemi nodded and climbed up to the control room. A second later his voice reverbrated through the ship on the PA telling the crew to prepare to embark.
+Hemi nodded and climbed up to the control room. A second later his voice reverberated through the ship as he told the crew to prepare to embark over the PA.
 
-"Bastian," said Percy, "get on the sonar rig and have a listen."
+"Bastian," said Percy, "get on the sonar rig and have a fuckin' listen."
 
-Bastian sat down at the sonar station, and put the headphones over his ears, and fipped on the power to the unit. "Is there anything in particular I'm listening for here Captain? We are docked after all. Probably not much to hear."
+Bastian sat down at the sonar station, and put the headphones over his ears, and flipped on the power to the unit. "Is there anything in particular I'm listening for here Captain? We are docked after all. Probably not fucking much out there to hear."
 
-"It's just a feeling, not something particular. But I'd like to keep the surprises to a minimum." Percy looked at the messenger. "Hang out a second kid. I think I've got another job for you."
+"It's just a feeling, not something particular. But I'd like to keep the surprises to a fucking minimum." Percy looked at the messenger. "Hang out a second kid. I think I've got another job for you."
 
 The kid spun the chair next to Bastian around and sat down in a long-legged slouch.
 
 "Hemi!" Percy called up to him in the control room. "Start working that embark checklist."
 
-"Already started it." He called back down.
+"Already started it Sylvia." He called back down.
 
 Gregory and Cassandra showed up in the sonar compartment a minute later, ready for instructions for prepping the boat to leave.
 
-"Gregory, take Cassandra and go find a dock crew who can work the other side of the slip hatch. Be ready to seal the _Prospect's_ cargo hatch when you hear from Hemi." She looked at the messenger. "But make sure this kid is off before you do."
+"Gregory, take Cassandra and go find a dock crew who can work the other side of the slip hatch. Be ready to seal the _Prospect's_ cargo hatch when you hear from Hemi." She jerked a thumb at the messenger. "But make sure this kid is off before you do."
 
 
 [//]: # (### the sinking of the inspection sub)
 
-As Gregory and Cassandra started making their way forward Bastian broke in. "Captain Percy, There's definitely something happening out there." He paused for a minute, listening. "There's a torpedo in the water!"
+As Gregory and Cassandra made their way forward, Bastian broke in. "Captain Percy, There's definitely something happening out there." He paused for a minute, listening. "There's a fucking torpedo in the water!"
 
 Percy pushed past the messenger kid and put on the spare sonar headset. She stood behind Bastian, concentrating on the sound in the headphones.
 
-She could hear the unmistakable high-pitched whine of a torpedo prop spinning quickly. She reached over Bastian, and adjusted the direction of the underwater mics. She looked at the readings from the sonar panel. "It's running just at the surface." She said. "It's not coming towards, us or the depot... some other target..."
+She could hear the unmistakable high-pitched whine of a torpedo prop spinning quickly. She reached over Bastian, and adjusted the direction of the underwater mics. She looked at the readings from the sonar panel. "It's running just at the surface." She said. "It's not coming towards us --- or the depot... some other target..."
 
 She slowed her breathing and listened to the sounds in the headset. It was a confused mix of white noises layered on top of one another. But there was more than one prop spinning in the water. Below the whine of the torpedo, she could hear the slow revolutions of a ship screw. It was nearly silent, and difficult to hear. She leaned over Bastian and flipped some switches adjusting the filters to try to muffle the torpedo whine.
 
-She could tell by the revolutions and the pitch that the other prop belonged to a relatively small craft. Had to be an electric motor it was so quiet, so that made it a submarine. It took her just a second longer to figure it out. "Someone fired on the depot's little inspection sub." She said.
+She could tell by the revolutions and the pitch that the other prop belonged to a relatively small craft. It was so quiet it could only be an electric motor --- that made it a submarine. It took her just a second longer to figure it out. "Someone fucking fired on the depot's little inspection sub." She said.
 
 "Maybe someone wasn't enamored with the quality of their hospitality." Said Bastian.
 
-The little inspection sub was pretty maneuverable, and they were taking evasive action. Percy could hear the pitch of the screw change in her headphones, as they turned and dove to try to escape the path of the incoming warhead. Then she heard the ping of the torpedo's sonar and the echo off the small submarine. 
+The little inspection sub was pretty maneuverable, and they were taking evasive action. Percy could hear the pitch of their screw change in her headphones, as they put on speed, turned and dove to try to escape the path of the incoming warhead. Then she heard the ping of the torpedo's sonar and the echo off the small submarine. 
 
 "The torpedo found them. It's homing." Bastian commented. A slow minute ticked by, every second the bouncing ping of the torpedo got faster in Percy's headset. She motioned to Bastian and they both took their headsets off. There was silence in the sonar room. The messenger kid managed to look bored. 
 
 Then they all heard a low-pitched rumble echo through the hull of the _Prospect_.
 
-"Sounded like they've been hit." Hemi shouted down from the control room.
+"Sounded like they were hit." Hemi shouted down from the control room.
 
-Percy put the headphones on and made some further adjustments to the filter switches. She could hear the creaking hull of the small submarine. She could hear streams of bubbles pouring out of it. She looked at the ranging readout on the sonar rig. The water was deep where they were. It was going down into the hole. 
+Percy put the headphones on and made some further adjustments to the filter switches. She could hear the creaking hull of the small submarine. She could hear welded seams splitting, and the streams of bubbles pouring out of it. She looked at the ranging readout on the sonar rig. The water was deep where the little sub was. It was going down into the hole. 
 
-"They've been sunk." Percy said, turning her head slightly and pitching her voice loud enough for Hemi to hear.
+"They've been fuckin' sunk." Percy said, turning her head slightly and pitching her voice loud enough for Hemi to hear.
 
 In her headphones the groaning hull's pitch changed as it dropped further down the water column into the colder, denser water where sound found new rules by which it could propagate itself. The groan turned to a low rattling whine.
 
-And then Percy heard a crunching pop. She could hear a huge bubble of air escape, the life-bubble of whoever was inside that submarine, squeezed out of it instantaneously as the broken little sub sank beyond its crush depth. The carcaoss of sub made no more sound, but she sat listening for a few seconds to the rush of the huge bubble climbing to the surface.
+And then Percy heard a crunching pop. She could hear a huge bubble of air escape, the life-bubble of whoever was inside that submarine, squeezed out of it instantaneously as the broken little sub sank beyond its crush depth. The compressed carcass of sub made no more sound, but she sat listening for a few seconds to the rushing sound of the huge bubble climbing the distance to the surface.
 
 
 [//]: # (### they throw lines)
 
-Captain Percy took of the sonar headset and laid it on its hook. "We gotta get out of here." She said. Then louder, so Hemi could hear. "Hemi! We need to get out of here!"
+Captain Percy took off the sonar headset and laid it on its hook. "We gotta get the fuck out of here." She said. Then louder, so Hemi could hear. "Hemi! We need to get out of here!"
 
 Bastian nodded, the other sonar headset still on his ears.
 
-"Right Percy. I concur." Said Hemi from above.
+"Right Sylvia. I concur." Said Hemi from above.
 
-"Here kid." Percy ripped a piece of scrap paper from the pad at Bastian's elbow. She scribbled on it with a pencil and handed it to the messenger. "That's for a guy who goes by 'Shakes.' He's got a small sub boat at one of the slips. Find him and give him that message." She dug a few coins from her pocket and handed them to him.
+"Here kid." Percy ripped a piece of scrap paper from the pad at Bastian's elbow. She scribbled on it with a pencil and handed it to the messenger. "That's for a guy who goes by 'Shakes.' He's got a small boat at one of the slips. Find him and give him that message." She dug a few coins from her pocket and handed them to him.
 
-The messenger was off with an energy one would never have suspected by the lethargy he had been sitting with just a few moments before.
+The messenger was off with an energy one would never have suspected by the lethargy that had engulfed his sitting form just a few moments before.
 
-Hemi's voice came over the PA. "Everyone be ready to toss lines. Gregory, get the cargo hatch buttoned up, and let me know when you're ready. Owen, come up to the control room."
+Hemi's voice came over the PA. "Everyone be ready to toss lines. Gregory, get the cargo hatch buttoned up, and let me know when you are ready. Owen, come up to the control room."
 
-"I hope we didn't forget anything." Bastian said.
+"I hope we didn't fuckin' forget anything." Bastian said.
 
-"I'd rather leave some stuff behind than be sucked onto a slip when whoever fired that torpedo arrives here." Said Percy.
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+
+"I'd rather leave some stuff behind than be sucked onto a fuckin' slip when whoever fired that torpedo arrives here." Said Percy.
 
 Gregory's voice came over the ship PA. "Hemi, the cargo hatch is sealed and flooded. You can let go the docking clamps whenever you're ready. Cassandra and I will head towards the sonar compartment."
 
@@ -2730,6 +2732,8 @@ At the shallower depth, Hemi stood at the tank trim control panel and made adjus
 Hemi tapped Owen on the shoulder and they climbed down to the sonar compartment where Bastian joined them on the trip down to the cargo hold.
 
 When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled a little damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was still seeping. They might never have a completely dry cargo hold again. That was OK, that's what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
+
+[//]: # (make sure to emphasize the weight of the crates/warheads in here --- 25kg for each warhead)
 
 Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the skill needed. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo hold while still leaving enough room for the crew to get through the crates.
 

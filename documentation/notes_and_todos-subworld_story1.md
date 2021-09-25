@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Tue Sep 21, 2021  02:23PM
+Last modified: Sat Sep 25, 2021  04:53PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -134,10 +134,12 @@ Last modified: Tue Sep 21, 2021  02:23PM
 * [ ] add Shakes chewing coca leaves again
 * [X] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
 	* He's in the control room when Hemi asks Percy about the weirdness of the sub with the ram pursuing them specifically 
-* [ ] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
+* [X] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
+	* On the depot, it's a canteen.
 * [X] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
-* [ ] emphasize the weight of the crates with the warheads earlier
+* [X] emphasize the weight of the crates with the warheads earlier
 	* (during the part where they are re-arranging the crates in the hold, seems like a good place for that)
+	* (added in-line note to add this)
 
 #### storm:
 * [ ] revisions for Gregory death scene:
