@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Tue Aug 03, 2021  06:34PM
+Last modified: Sun Sep 26, 2021  12:17PM
 
 
 # notes on sub diagrams
@@ -32,6 +32,7 @@ Last modified: Tue Aug 03, 2021  06:34PM
 	* [ ] label above engine rooms: piping and equipment run
 	* [ ] Add little X mark lines to trim tanks / fuel ballast, like US Subs does
 	* [ ] Add main ballast valves? (might be tough if the main ballast isn't shown)
+	* [ ] make fine adjustments to catwalk: should hang about 2 meters down/ 2/3s of a deck level
 	* [X] Add cargo hatch in deck, catwalk to cargo hatch
 	* [X] add stair down from third deck to cargo bay floor
 	* [X] add trim tanks/express down tank under cargo deck

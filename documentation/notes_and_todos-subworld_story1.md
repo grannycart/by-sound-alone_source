@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sat Sep 25, 2021  04:53PM
+Last modified: Sun Sep 26, 2021  01:08PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -117,7 +117,7 @@ Last modified: Sat Sep 25, 2021  04:53PM
 * [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
 	* (I think her standing station gets established later in the story, make sure it makes sense in the earlier parts of the book)
 	* maybe refer to it explicitly as the 'captain's station'? (akin to the sonar station and the navigation station)
-* [ ] make sure you make it clear early on that Hemi is the 'deck boss'
+* [ ] make sure you make it clear early on that Hemi is the 'Deck Boss'
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
 * [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
 	* decide, edit and then make sure it's reflected in the Prospect notes file
@@ -128,10 +128,9 @@ Last modified: Sat Sep 25, 2021  04:53PM
 
 #### Underwater depot
 * [X] when they arrive at the underwater dock, have the two beefy guys extract a docking fee.
-* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
 * [X] make sure Shakes doesn't give away that the depot is underwater earlier in the story since that's a mini-surprise
 	* He doesn't
-* [ ] add Shakes chewing coca leaves again
+* [X] add Shakes chewing coca leaves again
 * [X] make sure Shakes is fully informed of the sub with the ram when it chases them towards the depot --- he needs to know about it to fully report on it later
 	* He's in the control room when Hemi asks Percy about the weirdness of the sub with the ram pursuing them specifically 
 * [X] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
@@ -140,6 +139,7 @@ Last modified: Sat Sep 25, 2021  04:53PM
 * [X] emphasize the weight of the crates with the warheads earlier
 	* (during the part where they are re-arranging the crates in the hold, seems like a good place for that)
 	* (added in-line note to add this)
+* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
 
 #### storm:
 * [ ] revisions for Gregory death scene:
@@ -157,6 +157,7 @@ Last modified: Sat Sep 25, 2021  04:53PM
 #### Not sure where:
 * [X] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
+	* There is a line about how sound finds new and mysterious ways to propogate in the depths
 * [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
 	* Maybe with shakes over ship-to-ship, just to keep it interesting
 	* Maybe Shakes wonders if it's moral to run weapons
@@ -220,6 +221,7 @@ Last modified: Sat Sep 25, 2021  04:53PM
 * [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [-] consider using 'nominal' to mean anything you want it to.
 	* might be too on-the-nose
+	* I've deleted it in all places the prose has it. left it once in dialog
 * [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
 * [ ] Hemi calls Percy "Sylvia"; everyone else calls her captain
 	* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
@@ -297,7 +299,8 @@ Last modified: Sat Sep 25, 2021  04:53PM
 ## Elements specific to this story
 --------------------------------------------------------------------------------
 :elements:
-* [ ] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
+* [X] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
+	* Let's say this is the section where they go deep to escape the sub as they leave the depot
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
 * [X] someone fishes from the deck of the ship
