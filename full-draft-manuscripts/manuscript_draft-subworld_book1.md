@@ -3250,6 +3250,8 @@ Percy called Gregory down from the control room and sent Owen up to relieve him.
 
 "Maybe salmon manufacturers know mariners and submariners have a lot of salmon on board, and they shape them like that so our seagoing friends don't lose their precious cans in the corners of ships."
 
+[//]: # (This brilliant, but incorrect, idea comes from my friend Andrew Berman.)
+
 Hemi chuckled. "If you want to know the real reason, it is because the salmon canneries are all in remote parts of the north. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships moving the cans by nesting them."
 
 "Oh." Said Shakes, seeming somewhat disappointed.
