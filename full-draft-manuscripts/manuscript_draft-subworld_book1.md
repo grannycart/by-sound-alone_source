@@ -2870,11 +2870,9 @@ Percy lit a cigarillo. Hemi looked up at the dark gray sky, mostly obscured by c
 "And if we can rely on Shakes to know where he is..."
 
 [//]: # (Midnight: night 1, run to Stilt City)
-The night ground on with the unvarying drone of the diesel engines always under the foot of any crew members on deck, and relentlessly surrounding them anywhere below deck. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries and run the electric motors that actually propelled the boat, they were always run at the same, RPMs of optimum-efficiency for spinning the generators. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For the crew at the controls, with no depth to control while they were on the surface, and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
+The night ground on with the unvarying drone of the diesel engines always under the foot of any crew members on deck, and relentlessly surrounding anyone below deck. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries and run the electric motors that actually propelled the boat, they were always run at the same, RPMs of optimum-efficiency for spinning the generators. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For the crew at the controls, with no depth to control while they were on the surface, and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-Percy knew that this was the hardest part of the job --- keeping always ready to do something when there was absolutely nothing to do. They had to stay focussed on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything was not just a grime-coated gray accompanied by a background of lush and never-changing noise.
+Percy knew that this was the hardest part of the job --- remaining always ready to take action when there was absolutely nothing to do. The crew had to stay focussed on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything was not just a grime-coated gray accompanied by a background of lush and never-changing noise that managed to be the exact auditory equivalent to the bland color that surrounded them.
 
 She put the crew on rest rotations. Every three hours three of them would get three hours off. This kept two people in the control room at all times, one on lookout, and one at the radar/sonar station. The off-duty crew were free to spend their time on deck if they wanted. But since there was little to see up there but a black horizon tapped against a dark gray one, most of the crew came back down after a few minutes and ended up in their rack sleeping. Except for Bastian. He wrapped his long thin form in a rubber foul-weather slicker to keep the wind off and lay out on the forward deck, apparently finding sleep there as easily as warm puppy.
 
@@ -2884,78 +2882,80 @@ She put the crew on rest rotations. Every three hours three of them would get th
 [//]: # (3 am: night 1, run to Stilt City)
 Hours later, sometime during the third rotation, Hemi found Cassandra in the navigation and sonar compartment, listening intently to the sonar with the headphones on and her eyes closed.
 
-Hemi tapped her on the shoulder, and she jumped a little before smiling at him and pulling back a headphone.
+Hemi tapped her on the shoulder, and she jumped a little before smiling when she saw it was him and pulling back a headphone.
 
-"Aren't you supposed to be in your rack?"
+"Aren't you supposed to be in your rack?" Hemi asked.
 
-"I volunteered to take two rotations in a row, to keep the rotations even for everyone else...and since I'm new."
+"I volunteered to take two rotations in a row --- to keep the rotations even for everyone else...and since I'm new."
 
 "Are you hearing anything?" Hemi asked.
 
-"No, I try to imagine my mind going out into the water to listen, but I can't get past the sound of the diesels."
+"No. I try to imagine my mind going out into the water to listen to what's around us, but I can't get past the sound of the diesels."
 
-"Sonar is extremely limited with the engines running. But..." Hemi flipped some filter switches on the sonar control board, and adjusted some tone dials. Familiar settings he used when he was on sonar while the engines were running. "Try it like that."
+"Sonar is extremely limited with the engines running. But..." Hemi flipped some filter switches on the sonar control board, and adjusted some tone dials. These were familiar settings he used when he was on sonar while the engines were running. "Try it like that."
 
 Cassandra set the headphones back into their comfortable position on her ears, and listened for a minute. "That's much better. It's like the engines are at least not distracting my attention." She made some notes on a pad of the settings Hemi had made.
 
-"You're keeping an eye on radar too, right?" Hemi asked. "That's actually maybe more important while we're on the surface."
+"You are keeping an eye on radar too, right?" Hemi asked. "That is actually maybe more important while we are on the surface."
 
 "Yup. Owen showed me what to look for. The radar... has not done anything at all."
 
-"That's good."
+"That is good."
 
 "I didn't realize when I agreed to come on board that this job would be so mind-numbing... and boring."
 
-"That's actually what makes it so hard, and why only a certain type of person makes it as a submariner. I think on land sometimes there's this perception that it's this glorious job, where you're out from under the thumb of Authorities, free to pursue your own career. The people on land know it's dangerous, and that gets mixed into the legend of who a submariner is. But in reality, the people who make good submariners are the ones who can handle being in a cramped space for days on end with no changes in their environment at all, and still keep their mind sharp enough to snap into action when a situation presents itself. It's not a job that's an expression of physical acuity. It's a job that puts your mental toughness to the test."
+"That is what makes it so hard, and why only a certain type of person makes it as a submariner. I think on land the culture has a perception that it is this glorious job, where you are out from under the thumb of Authorities, free to pursue your own career, and helping to make world commerce go around. The people on land know it is dangerous, and that gets mixed into the legend of who a submariner is. But in reality, the people who make good submariners are the ones who can handle being in a cramped space for days on end with no changes in their environment at all, and still manage to keep their mind sharp enough to snap into action when a situation presents itself. It is not a job that is an expression of physical acuity. It is a job that puts your mental toughness to the test."
 
-"I certainly don't have much to offer in physical strengh..." Said Cassandra.
+"I certainly don't have much to offer in physical strength..." Said Cassandra.
 
-"People on land think it's a job for tough guys, so we're always getting men looking for jobs on submarines. Men who look like, well, like me. Big, muscled guys. And some of those guys are fine. But Percy and I have realized that mental toughness we need isn't correlated to physical toughness. We hire people who we anticipate might have that mental toughness, at least when we have an option in who we can hire. And we find that mental toughness in all kinds of people. It's not just me and Percy, most of the people who actually work in the submarine cargo industry these days look for that mental toughness in all types. The Authority subs are still full of big men, but the commercial subs are pretty diverse."
+"People on land think it is a job for tough guys. We are always getting men looking for jobs on submarines. Men who look like, well, like me. Hefty guys with a lot of muscles. And some of those guys are fine. But Captain Percy and I have realized over the years that the mental toughness we need is not correlated to physical toughness. We hire people who we anticipate might have that mental toughness, at least when we have an option in who we can hire. And we find that mental toughness in all kinds of people. It is not just me and Percy, most of the people who actually work in the submarine cargo industry these days look for that mental toughness in all types. The Authority subs are still full of big men, but the commercial subs are a pretty diverse crowd of workers."
 
 "The depot was full of big men..."
 
-"You know how that happens? Those men go looking for work on submarines thinking it's a good job for a strong fellow. But they can't handle the mental strain, and they wash out. They end up working the next job out from what the center of what they went looking for: _servicing_ submarines instead of working on them."
+"You know how that happens? Those men go looking for work on submarines thinking it is a good job for a strong fellow. But they find out they can not handle the mental strain, and they wash out. They end up working the next job out from what the center of what they went looking for: _servicing_ submarines instead of working on them."
 
 Cassandra's eyes widened. "Ah..." She said as large piece of her world that didn't quite make sense before fell into place in her mind.
 
-"Unlike work on land, there's few regulations or rules controlling our work out here. The job has strong evolutionary forces in play. The only people doing the work are the ones who _can_. Everyone else goes home, back to their Authorities, and policies, and networks of contacts. On land you get a job based on what you look like, and who you know. Out here, you get a job if you can do the job. We don't care who you know, where you came from, or what you look like."
+"Unlike work on land, there are few regulations or rules controlling our work out here. The job has strong evolutionary forces in play. The only people doing the work are the ones who _can_. Everyone else goes home, back to their Authorities, and policies, and networks of contacts. On land you get a job based on what you look like, and who you know. Out here, you get a job if you can do the job. We do not care who you know, where you came from, or what you look like."
 
 A smile cracked across Cassandra's face. "That's why you hired me?"
 
-"No, no no. Captain Percy hired you because she was desperate for someone to sit on sonar. But you should know that you have just as good a chance at doing this job well as any other person. And... you've done well on your first day working."
+"No, no no. Captain Percy hired you because she was desperate for someone to sit on sonar. But you should know that you have just as good a chance at doing this job well as any other person. And... you have done well on your first day working."
 
 Cassandra nodded.
 
 
-[//]: # (### Taking a siting by the stars)
+[//]: # (### Taking a sighting by the stars)
 
-"I want to learn as much as I can." Said Cassandra. "What are you up to at this hour of the night Hemi?"
+"I want to learn as much as I can." Said Cassandra. She paused, thinking about her future. "What are you up to at this hour of the night Hemi?"
 
-"I'm catching up on navigation. I have to do this every few hours. Come over here and look at the chart."
+"I am catching up on navigation. I have to do this every few hours. Come over here and look at the chart."
 
-Cassandra joined Hemi at the navigation table. She looked at the big chart, and the dotted line marking their course from the depot isladn, and the little x marking their current position. "How the heck do you know where we are?" She asked.
+Cassandra hung the sonar headphones on the hook and joined Hemi at the navigation table. She looked at the big chart, and the dotted line marking their course from the depot island, and the little x marking their current position. "How the fuck do you know where we are?" She asked.
 
-"Honestly, it's mostly just a guess. I keep track of our speed and direction very carefully. Then I just plot that onto the chart based on how long we have been traveling. That's called dead-reckoning. If the chart is accurate and there's not too many mitigating factors, like, say, a strong current that I can't account for, then we know roughly where we are and that we won't run into anything."
+"Honestly, it is mostly just a guess. I keep track of our speed and direction very carefully. Then I just plot that onto the chart based on how long we have been traveling. That is called dead-reckoning. If the chart is accurate and there are not too many mitigating factors, like, say, a strong current that I can not account for, then we know roughly where we are and that we will not run into anything."
 
 "What happens if there is a strong currently the pushes you off course and you don't realize it?"
 
-"That's why we need to sometimes fix our position. If we pass by an island  or other feature that we see while on the surface or with the periscope, and that feature is on the chart, then we know where we are. Sometimes there's undersea features that we can hear on the sonar or we know are there by changes we read in the gauge that mesures how far down the bottom is. If those are on the chart, we can fix our position that way. Normally, we don't have to be super-precise --- the ocean is large and mostly empty water --- especially this early into a run. I know exactly where we started from at the depot, so our position shouldn't be too far off. But we need to rendezvous with Shakes at dawn, and being precise about our location will help that go more smoothly. So I'm going up on the bridge to get a fix by the stars. Want to join me? If the stars are out, it might be worth the trip up the ladder."
+"That is why we need to sometimes fix our position. If we pass by an island  or other feature that we see while on the surface or with the periscope, and that feature is on the chart, then we know where we are. Sometimes there are undersea features that we can hear on the sonar, or we know are there by changes we read in the gauge that measures how far down the bottom is. If those are on the chart, we can fix our position that way. Normally, we do not have to be super-precise --- the ocean is large and mostly empty water --- especially this early into a run. I know exactly where we started from at the depot, so our position should not be too far off. But we need to rendezvous with Shakes at dawn, and being precise about our location will help that go more smoothly. So I am going up on the bridge to get a fix by the stars. Want to join me? If the stars are out, it might be worth the trip up the ladder."
 
 "Is it OK for me to leave the radar?"
 
 "Just for a few minutes. Make sure to check it as soon as you come back down."
 
-They climbed up through the control room and up the sail interior ladders to the bridge. Owen was back up in the lookout ring and greeted them when their heads shadowed the light coming up from the open hatch, happy to have something to break the monotony of being on lookout.
+They climbed up through the control room and up the interior ladders of the sail to the bridge. Owen was back up in the lookout ring and greeted them when their heads shadowed the red light coming up from the open hatch, happy to have something to break the monotony of being on lookout.
 
-Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that the number of times the _Prospect_ surfaced and he came out on deck to find a low, blanketing cloud cover occurred far more often than was statistically probable. He could hardly recall the last time they surfaced to a clear sky and his deeply-rational self was challenged by the sense that being on the open surface was in fact nature's opportunity to opress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres layin upon them.
+Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that the number of times the _Prospect_ surfaced and he came out on deck to find a low, blanketing cloud cover occurred far more often than was statistically probable. He could hardly recall the last time they surfaced to a clear sky and his deeply-rational self was challenged by the sense that being on the open surface was in fact nature's opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them.
 
-But not this night. The sky was clear from one horizon to the other, and the stars glowed in their visible tens-of-thousands, their appreciable numbers a hueristic suggesting the reality of the uncountable multiples of billions of other stars that existed invisibly in the universe above them. With no light over the horizon, the stars came right down to the horizon in every direction, an infinity compressed to a perfectly smooth dome that lay over them.
+But not this night. The sky was clear from one horizon to the other, and the stars glowed in their visible tens-of-thousands, their appreciable numbers a heuristic suggesting the reality of the uncountable multiples of billions of other stars that existed invisibly in the universe above them. With no light over the horizon, the stars came right down to the surface of the water in every direction, an infinity compressed to a perfectly smooth dome that lay over them.
 
 "Wow." Said Cassandra.
 
-"Yes, that's the mariner's priviledge." Said Hemi. "And the submariner occasionally gets to dip in as well."
+"Yes, that's the mariner's privilege." Said Hemi. "And the lucky submariner occasionally gets to dip in as well."
 
-Hemi took out his sextant, clipboard, and star charts and graphs. He took sitings on three or four know stars, measuring their precise height above the horizon. He scratched a number of notes onto the clipboard with a pencil.
+Hemi took out his sextant, clipboard, star charts, and graphs. He took sightings on three or four know stars, measuring their precise height above the horizon. He scratched a number of notes onto the clipboard with a pencil.
+
+[//]: # (It suddenly occurs to me that a sextant is both used for a sighting of a celestial object, and giving you a siting of where you are.)
 
 "How does that thing work?" Cassandra asked.
 
@@ -2963,15 +2963,15 @@ Hemi took out his sextant, clipboard, and star charts and graphs. He took siting
 
 Cassandra nodded.
 
-"Unlike mariners, the submariner doesn't often have the luxury of visual references to find their place in the world," Hemi continued, "we wander under the ocean, feeling our way by sound. And every once in a while poke our head up to secure our location in the swiriling mass by judging ourselves against the stars."
+"Unlike mariners, the submariner does not often have the luxury of visual references to find their place in the world," Hemi continued, "we wander under the ocean, feeling our way by sound. And every once in a while poke our head up to secure our location in the swirling mass by judging ourselves against the stars."
 
 "That's poetic." Said Owen, listening to their conversation from the lookout ring.
 
-[//]: # (give 'cliche' accent in next line)
-Hemi smiled, "And just a little bit of a cliche." He said more loudly for Owen's benefit. "I find a touch of the poetic gives some much-needed meaning to this black and gray metal world of ours. But if you let it go to your head, it could keep you from making the clear-minded assessments of situations that are necessary to remain alive as a submariner." Hemi took a siting of another star and marked its altitude down on his clipboard. "OK Cassandra. Back to your radar scope. I need to make some minor course adjustments in the control room."
-
+Hemi smiled. "And just a little bit of a cliché." He said more loudly for Owen's benefit. "I find a touch of the poetic gives some much-needed meaning to this black and gray metal world of ours. But if you let it go to your head, it could keep you from making the clear-minded assessments of situations that are necessary to remain alive as a submariner." Hemi took a sighting of another star and marked its altitude down on his clipboard. "OK Cassandra. Back to your radar scope. I need to make some minor course adjustments in the control room."
 
 Hemi and Cassandra climbed back down into the _Prospect_ leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (###  Listening for the Gnat)
@@ -4369,7 +4369,7 @@ The fog lasted until dark, which was all they needed. The plunged into the settl
 Hemi kept the chart accurate with their position, the dashed line straight and true and rapidly growing in the direction of the continental coast with its black dot showing the location of Stilt City. Around nightfall they had crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area that was contested by a number of different Authorities. With the fog lifted and the higher risk of Authority interference Percy put them back on 3 hour nighttime shifts and started keeping someone on lookout again.
 
 [//]: # (middle-night: night 4, run to Stilt City)
-Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody except Owen had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived on the bridge a few minutes later, and climbed up into the lookout ring with binoculars in hand. It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take siting of some stars and get a solid fix on their course.
+Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody except Owen had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived on the bridge a few minutes later, and climbed up into the lookout ring with binoculars in hand. It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take sighting of some stars and get a solid fix on their course.
 
 Hemi looked up at Chips from the bridge. "I was not entirely sure you would show for your lookout shift Chips."
 
@@ -4762,7 +4762,7 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 "Just another quarter mile or so. We have to slow the boat down even before we get there --- it is easy to miss a small lane like that, and no turnaround." 
 
-"OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the siting was lost in the windings of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The sub with the ram might be right behind them but she had no way of knowing.
+"OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the windings of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The sub with the ram might be right behind them but she had no way of knowing.
 
 A few minutes later Sturmey called down to _Bastian_ to slow the _Prospect_ to 5 knots. Sturmey scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
 
@@ -4974,7 +4974,7 @@ As much as Captain Percy wanted to cruise out of the area at high speed, she did
 
 Percy was feeling more and more confident. After they gained the full cover of darkness, she brought the boat to the surface, and they turned the diesels over. She pushed the _Prospect_ up to its full 15 knots. She wanted to cover as much of the distance across the continental shelf as she could under the cover of darkness.
 
-Hemi took a siting off a star with his sextant and he and Percy fixed their exact position on the chart. They measured the remaining distance to the edge of the continental shelf and realized they were not going to make it by sunrise, but they would be close. Percy could not let herself truly feel like they had lost their pursuers until they could get back to running in deep water during the day.
+Hemi took a sighting off a star with his sextant and he and Percy fixed their exact position on the chart. They measured the remaining distance to the edge of the continental shelf and realized they were not going to make it by sunrise, but they would be close. Percy could not let herself truly feel like they had lost their pursuers until they could get back to running in deep water during the day.
 
 They cruised through the blackness. Percy had the red night lighting on in the control room and sonar compartment, and she had them keep the control room hatch closed to minimize any chance of the red light escaping from the top of the sail and giving their position away. She even forbade smoking on the bridge of the sail for fear of the lit coal being spotted, depriving her crew of one of the very visceral pleasures of running a vessel on the surface in a warm climate. 
 
@@ -5327,7 +5327,7 @@ The western sky was starting to redden with late-day light. Percy decided to hol
 
 [//]: # (### Rendezvous with Shakes)
 
-With darkness Hemi was able to take a siting from a star, and he calculated they had made about 20 nautical miles from the point where they had dove to below 300 meters. Percy felt that was enough of cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. They soon had the diesels turned over and roaring away below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not running the radar, feeling that it was too likely to give them away.
+With darkness Hemi was able to take a sighting from a star, and he calculated they had made about 20 nautical miles from the point where they had dove to below 300 meters. Percy felt that was enough of cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. They soon had the diesels turned over and roaring away below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not running the radar, feeling that it was too likely to give them away.
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels and there was no sign of the sub with the ram.
 
