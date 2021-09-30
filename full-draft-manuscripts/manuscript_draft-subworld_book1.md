@@ -3149,8 +3149,6 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 "What sub? Was it the sub with the ram?" Hemi asked.
 
-[//]: # (And I managed to fucking avoid getting close enough to any of those meat shields filling the docking bay to ask them what fucking Authority they represented --- and visa fuckin' versa. -- delete this)
-
 "Well, I couldn't very well see whether it had a ram from inside the docking bay, could I?  But if you made me guess, I'd say sure: it was that same fuckin' sub that kept showing up in your 'scope. ...Word from some of the dock workers was they specifically asked about y'all."
 
 "They asked about the _Prospect_ by fucking name?" Percy was horrified that any Authority would know the name of her boat at all, never mind going around asking about it.
@@ -3167,6 +3165,8 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 "Strange." Said Hemi. "And you did not find out specifically what Authority they represented?"
 
+[//]: # (Since the sub with the ram is now operating outside of their own jurisdiction, they themselves want to be parsimonious with who knows exactly who they are.)
+
 "No fucking way. They did not seem fuckin' forthcomin' with that information, and I wasn't about to fuckin' ask. By the time they got far enough down the dock to talk to me they had already found out from other sub crews that you had definitely been there... And that you left with a load of magnetic warheads."
 
 "They asked you about our fucking cargo too, eh?"
@@ -3177,19 +3177,19 @@ Hemi picked up a spoon and stirred his coffee.
 
 Captain Percy lit a cigarillo. "Shit." She said. "If they know we've got weapons parts on board, I'm sure they'll consider that justification for shooting to sink us rather than trying to get us to surface for a fucking inspection."
 
+"Oh," said Shakes, "I didn't tell you the best fuckin' part yet... So after they finish questioning me, I discreetly --- and as quickly as I could --- started prepping the _Gnat_ to leave. And as I'm on the dock getting some cans of food to load into the hold, I see the commander of the Authority sub climb up out of their sub at the slip they had commandeered --- the commander is a real round guy, with only one fucking arm. He wears an Authority uniform with all the trimmings --- it looks as if he wears his full fucking dress uniform every day on board the sub! He takes a squad of goons --- maybe twenty of the fuckers --- and they go up the dock and out towards the exchange floor.
+
+"Here's the good fucking part: while he's up there on the exchange floor, the watertight bulkhead between the docking bay and the upper levels goes into an emergency-close procedure. You know, the whole fuckin' shebang --- the klaxon is blaring, the red lights are spinning. The fucking Authority goons start running around in a panic, probably most of them think the docking bay is flooding, hell I thought that myself for a minute."
+
+"Fuckin' wow." Said Percy half-grinning as she exhaled smoke.
+
+"Fuck Yeah. So it doesn't take long for the fuckin' goons to figure out that the docking bay _isn't_ flooding --- someone had just triggered the big watertight bulkhead to close just to fuck with all these Authority goons. The meat shields weren't much less panicked at that though because half their fuckin' muscle and their fuckin' commander were now separated from them by half a meter of air-tight steel doors!
+
 [//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-"Oh," said Shakes, "I didn't tell you the best part yet... So after they finish questioning me, I discreetly --- and as quickly as I could --- started prepping the _Gnat_ to leave. As I'm on the dock getting some cans of food to load into the hold, I see the commander of the Authority sub climb up out of their sub --- the commander is a real round guy, with only one arm. He wears an Authority uniform with all the trimmings, as if he wears it every day on board the sub. He takes a squad of goons --- maybe twenty of them --- and they go up the dock and out towards the exchange floor.
-
-"Here's the good part: while he's up there, he watertight bulkhead between the docking bay and the upper levels goes into an emergency-close procedure. You know, the whole fuckin' shebang --- the klaxon is blaring, the red lights are spinning. The fucking Authority goons start running around in a panic, probably most of them think the docking bay is flooding, hell I thought that myself for a minute."
-
-"Wow." Said Percy.
-
-"Yeah. So it doesn't take long for the goons to figure out that the docking bay _isn't_ flooding --- someone had just triggered the big watertight bulkhead to close to fuck with them. The goons weren't much less panicked at that though, because half their muscle and their commander were now separated from them by half a meter of air-tight steel doors.
 
 "I wasn't going to miss this wonderful opportunity of confusion --- I dumped whatever I could find laying around on the dock down into the _Gnat_, buttoned the boat up, and took off right then. Ran on battery as far as I could, then put the rest of the exhaust back together. Fortunately the diesel fired up no problem and I made my way here."
 
-"Hmm." Said Hemi curiously. "Who do you suppose was willing to piss them off by closing the watertight bulkhead?"
+"Hmm." Said Hemi curiously. "Who do you suppose was willing to anger them further by closing the watertight bulkhead?"
 
 "My guess," said Shakes, "is that it was that dock boss lady. She was the first one the Authority goons questioned, of course, and she didn't looked happy about it afterwards."
 
