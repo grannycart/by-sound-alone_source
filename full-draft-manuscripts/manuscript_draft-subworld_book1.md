@@ -3027,44 +3027,43 @@ Cassandra went off to the Galley leaving Percy listening to the contact. She cam
 
 "If that is Shakes, the job has been overdone..."
 
-"Shakes... overdone? You think that's fuckin' possible?" Percy grinned. "Maybe instead of the _Gnat_ being mistaken for the _Prospect_, the _Gnat_ will just fucking drown out _everything_ in a 10 mile radius." Said Percy.
+"Really? You think it's possible _Shakes_ fuckin' overdid it, do you?" Percy grinned at Hemi. "Maybe instead of the sound of the _Gnat_ masquerading for the _Prospect_, the _Gnat_ will just fucking drown out _everything_ in a 10 mile radius." Said Percy.
 
-"I just..." Hemi started, "just cannot believe that such a small boat could..." he paused listening again. "No, I am more sure of it now. The more detail I get the more it makes sense that it is a very _very_ loud small boat, not a big ship. Though he does have it tuned so low that from a distance anyone who is not skilled on sonar might easily be fooled into thinking that contact is displacing an enormous amount of water. Good job Cassandra."
+"I just..." Hemi started, "just cannot believe that such a small boat could..." he paused listening again. "No, I am more sure of it now. The more detail I can hear, the more it makes sense that it is a very _very_ loud, small boat, not a big ship. Though he does have it tuned so low that from a distance anyone who is not skilled on sonar might easily be fooled into thinking the contact is displacing an enormous amount of water. Good job with the identification Cassandra."
 
-Cassandra let go a genuine smile.
-
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Cassandra held onto a large and genuine smile.
 
 "OK then. So now what do we fuckin' do?" Asked Percy. "If we were on the surface, I'd try to raise him on the radio. But I arranged with Shakes to rendezvous at depth, so no one fucking sees us. I'd hate to blow our cover by surfacing now."
 
-"I don't know. He's well out of range of ship-to-ship. I'd guess something like 20 nautical miles off still or so. We could hit them with active."
+"I do not know." Said Hemi. "The contact is well out of range of ship-to-ship. I would guess something like still 20 nautical miles off or so. We could hit it with active."
 
-"If it turns out you're wrong and the contact is actually that sub with the ram on it's bow tearing it's way towards us, then active pinging them will be sending a signal telling them exactly where we are." Captain Percy paused. "We have the advantage of being completely hidden at the moment. I hate to just hand that away."
+"If it turns out you're fuckin' wrong and the contact is actually that sub with the ram on its bow tearing its way towards us, then active pinging them will be sending a loud fucking signal telling them exactly where we are." Percy paused. "We have the advantage of being completely fuckin' hidden at the moment. I hate to just fucking hand that away."
 
-Hemi shrugged. "That's why I leave that decision to you."
+Hemi shrugged. "That is why I leave that decision to you."
 
-Percy considered. "You are fairly certain it's Shakes?" She asked Hemi.
+Percy considered her options. "You are fairly certain it's fuckin' Shakes?" She asked Hemi.
 
 "I am fairly certain that contact is not the big ship it sounds like." Said Hemi.
 
-"OK, ping it."
+"OK, fuck it. Ping it."
 
-"Watch Cassandra. Remember I mentioned 'active' sonar during your first training session? I'm going to use that now." He powered up the active sonar unit. "Passive sonar is like listening quietly in a dark room to figure out where other people might be standing. Active sonar is like quickly turning a bright light on and then off again to see where people are standing. The principles behind it are much more sophisticated than passive. But it's easy enough to operate." He set the direction indicator to point towards the contact. "Push the PING button Cassandra."
+"OK. Cassandra, remember I mentioned 'active' sonar during your training session? I am going to use that now. Follow what I do." He powered up the active sonar unit. "Passive sonar is like listening quietly in a dark room to figure out where other people might be standing. Active sonar is like quickly turning a bright light on and then off again to see where people are standing. The principles behind it are much more sophisticated than passive. But it is easy enough to operate." He set the direction indicator to point towards the contact. "Push the PING button Cassandra."
 
-She reached out her small finger and crushed the button home. Even without the sonar headsets they could hear the ping echo through the hull and off into the water. A few seconds later the active unit calculated and displayed the range and direction to the contact.
+She held her small finger out flat, so as not to let the long fingernail on it get in the way, and crushed the button home. Even without the sonar headsets they could hear the ping echo through the hull and off into the water. A few seconds later the active unit calculated and displayed the range and direction to the contact.
 
-"The active sonar figures out very precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target." Hemi said, pointing to the readout on the active sonar unit. "That's very useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ doesn't have torpedoes, we don't often use it."
+"The active sonar figures out very precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target." Hemi said, pointing to the readout on the active sonar unit. "That is very useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ does not have torpedoes, we do not often have reason to use it."
 
-"The active ping also tells the target exactly where _we_ are." Added Percy. "Normally, we don't want to do that --- never use the active sonar without an explicit instruction from me or Hemi --- but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let them know where we are by hitting them with the active ping."
+"The active ping also tells the target exactly where _we_ are." Added Percy. "Normally, we would not want to fucking do that --- never use the active sonar without an explicit instruction from me or Hemi --- but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let them know exactly where the fuck we are by hitting them with the active ping."
 
-"Let's see what the contact does now." Said Hemi, putting the sonar headset back on as he powered down the active sonar unit.
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+
+"We shall see what the contact does now." Said Hemi, putting the sonar headset back on as he powered down the active sonar unit.
 
 Within a minute of the _Prospect's_ ping, the contact went silent.
 
 "They're gone?" Asked Cassandra, still listening to the other headset.
 
 "They have shut down their engine." Hemi said. "Which does not tell us anything."
-2k
 
 "Well how the fuck was he supposed to respond?" Percy asked Hemi. 
 
