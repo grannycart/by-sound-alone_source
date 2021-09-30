@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sun Sep 26, 2021  01:08PM
+Last modified: Thu Sep 30, 2021  11:38AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -22,7 +22,7 @@ Last modified: Sun Sep 26, 2021  01:08PM
 * [README.md](README.md)
 	* general README for github repo
 * [notes_and_todos-subworld_story1](notes_and_todos-subworld_story1)
-	* List of notes specific to this book; and things to not forget to do; as well as post-production checklist
+	* List of notes specific to the _story/writing_ of this book; and things to not forget to do; as well as post-production checklist
 * [draft1_pseudocode-subworld_story1](pseudocode-files/draft1_pseudocode-subworld_story1)
 	* First pass at pseudo-code: only short story version plot covered
 * [draft2_pseudocode-subworld_story1](pseudocode-files/draft2_pseudocode-subworld_story1)
@@ -155,6 +155,7 @@ Last modified: Sun Sep 26, 2021  01:08PM
 * [ ] make sure Shakes learns that Chips left the Prospect
 
 #### Not sure where:
+* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 * [X] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 	* There is a line about how sound finds new and mysterious ways to propogate in the depths
