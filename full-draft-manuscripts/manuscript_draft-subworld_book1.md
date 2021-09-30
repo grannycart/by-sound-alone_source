@@ -2971,71 +2971,71 @@ Hemi smiled. "And just a little bit of a cliché." He said more loudly for Owen'
 
 Hemi and Cassandra climbed back down into the _Prospect_ leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 
 [//]: # (###  Listening for the Gnat)
 
 [//]: # (pre-dawn: day 2, run to Stilt City)
-Early in the pre-dawn, Bastian was up in the lookout ring when the sky began to lighten in the east, blacking out the stars in that direction and creating an echo of light on the black disc of the ocean in that direction. When Bastian could see his hands gray in the gloom in front of him, he relayed down to the control room that it might be time to dive.
+Early in the pre-dawn, Bastian was up in the lookout ring when the sky began to lighten in the east, blacking out the stars in that direction and creating an echo of light on the black disc of the ocean. When Bastian could see his hands gray in the gloom in front of him, he climbed down to the bridge and cupping one hand around his mouth shouted down to the control room that it might be time to dive.
 
-Captain Percy came up on the bridge and looked around for a few minutes. She took some long breaths, taking in the last of the fresh air before the next twelve hours or so below deck, and then called Bastian to follw her back down into the sub.
+Captain Percy climbed up to join Bastian on the bridge and looked around for a few minutes. She took some long breaths, taking in the last of the fresh air before the next twelve hours or so below deck, and then told Bastian to follow her back down into the sub.
 
-They buttoned up the _Prospect_ and when all the hatches showed green lights on the board in the control room, they shut down the diesels and dove the boat down to 50 meters. After leveling off, Hemi had them adjust their course. After fixing their position earlier in the evening, he had slept his three hours, and now wanted to take the boat in a new direction as a precaution against the small chance that anyone had been tracking their course on the surface that they hadn't been aware of. With the cargo they were hauling, Hemi felt there was no reason not use to every stealth maneuver they had.
+They buttoned up the _Prospect_ and when all the hatches showed green lights on the board in the control room, they shut down the diesels and dove the boat down to 50 meters. When they had leveled off, Hemi had them adjust their course. After fixing their position earlier in the evening, Hemi had slept his three hours, and then returned immediately to the control room. Now that they were submerged again, he wanted to take the boat in a new direction as a precaution against the small chance that anyone had been tracking their course on the surface that they had not been aware of. With the cargo they were hauling, Hemi felt there was no reason not use to every stealth maneuver they had.
 
 He had them bring the boat about nearly 100 degrees to starboard. This was backtracking a bit, but they were now aimed directly at the rendezvous point for the _Gnat_, which they would reach in another two hours at their current speed.
 
-The next two hours were nealy silent and uneventful. Everyone had low early-morning energy and no one felt like much of a conversationalist after a long night with short sleep. This was improved after Gregory brought up the first pot of coffee and passed around tin mugs to the crew in the sonar compartment and the control room.
+Those two hours remained nearly silent and uneventful. Everyone had low early-morning energy and no one felt like much of a conversationalist after a long night with short sleep. This was improved after Gregory brought up the first pot of coffee and passed around tin mugs to the crew in the sonar compartment and the control room.
 
-They cruised to the rendezvous point, and then came up to 30 meters of depth. They shut down the electric motors entirely, and Hemi trimmed the boat until it sat perfectly still and silent in the water.
+They cruised to the rendezvous point, and then came up to 30 meters of depth. They shut down the electric motors entirely, and Hemi trimmed the boat until it sat hovering perfectly still and silent in the water.
 
-Cassandra was just waking up from her sleep rotation, and groggily making her way from the crew quarters to the sonar compartment when Hemi found her and handed her a tin cup full of sweetened black coffee.
+Cassandra was just waking up from her sleep rotation, and groggily making her way from the crew quarters to the sonar compartment where she found Hemi. He handed her a tin cup full of sweetened black coffee.
 
 [//]: # (Early morning: day 2, run to Stilt City)
-"Time to get back on sonar Cassandra. We've reached the spot where we're supposed to rendezvous with Shakes. I need you to listen for his boat, it's quite a small boat so it might be challenging to hear. But since we've got the _Prospect_ completely shut down you'll have total silence. If you hear Shakes --- or anything else in the water --- come get me, I'll be in the galley. The rest of the crew is going on break while there's nothing to do, so it's all you right now. "
+"Time to get back on sonar Cassandra. We have reached the spot where we are supposed to rendezvous with Shakes. I need you to listen for his boat. It is quite a small boat, so it may be challenging to hear. But since we have got the _Prospect_ completely shut down you will have total silence. If you hear Shakes --- or anything else in the water --- come get me. I will be in the galley. The rest of the crew is going on break while there is nothing to do, so it is all you right now."
 
 "That makes this sound important... you trust me with this?"
 
-"It's good practice for you, and the worst that could happen is if you miss him and we're a little delayed in the rendezvous. I'd be happier if we got moving again soon though, so... try not to miss him if he goes past."
+"It's good practice for you, and the worst that could happen is if you miss him and we are a little delayed in the rendezvous. I would be happier if we got moving again soon though, so... try not to miss him if he goes past."
 
-"OK Hemi." Cassandra sat down at the sonar rig, put the headphonees on, and took a sip of her coffee bwfore swinging the mics in a full circle to get her bearings.
+"OK Hemi." Cassandra sat down at the sonar rig, put the headphones on, and took a sip of her coffee before passing the mics around in a full circle to get her bearings.
 
 Hemi went off to the galley with his clipboard and notes, and the rest of the crew hit the racks to catch up on much-needed sleep, leaving the _Prospect_ dark and absolutely silent.
 
-Cassandra turned the directional control of the mics slowly around. She completed a full 360 circle, and then came back the other way. Her eyes closed and she could see the sounds in the water coming towards the _Prospect_. The water had slightly different qualities in different directions, so after a few times around she could tell generally which way the microphones were pointing without looking at the directional indicator. When they were forward towards the bow, she could hear the bilge water sloshing in the lowest parts of the ship. And towards the stern she could hear clearly, without the annoying interuption of the propellor sound that was always in that direction when the electric motors were running.
+Cassandra turned the directional control of the mics slowly around. She completed another full 360 circle, and then came back the other way. Her eyes closed and she could see the sounds in the water coming towards the _Prospect_. The water had slightly different qualities in different directions, so after a few times around she could tell generally which way the microphones were pointing without looking at the directional indicator. When they were forward towards the bow, she could hear the bilge water sloshing in the lowest parts of the ship. Towards the stern, she could hear clearly without the annoying interruption of the propeller sound that was always in that direction while the electric motors were running.
 
-The _Prospect_ was currently at absolute maximum sonar listening capacity, but there was nothing out there. The ocean was completely empty in every direction. Cassandra focused her mind and kept it out in the water. Every time she felt it grasping with some subject other than sonar, she took a deep breath, and forced her mind back out into the water. It was incredibly tiring work.
+The _Prospect_ was currently at absolute maximum sonar listening capacity, but there was nothing out there. The ocean was completely empty in every direction. Cassandra focused her mind and kept it out in the water. Every time she felt some subject other than sonar intruding on her consciousness, she took a deep breath, and forced her mind back out into the water. It was incredibly tiring work.
 
-Two hours later, there remained no sign of Shakes. Captain Percy could never sleep for very long, and so was soon back in the control room with a cup of coffee from the galley, smoking and making small adjustments to the trim of the boat. Each of these adjustements was acompanied by a brief rush of water or air through the piping of the ship, and each time this happened Cassandra got completely distracted for a few frustrating moments. Cassandra did not yet realize that the sonar operator could, in some instances, have some authority over even the captain on a submarine.
+Two hours later, there remained no sign of Shakes. Captain Percy could never sleep for very long, and so was soon back in the control room with a cup of coffee from the galley, smoking and making small adjustments to the trim of the boat. Each of these adjustments was adjustments by a brief rush of water or air through the piping of the ship, and each time this happened Cassandra got completely distracted for a few frustrating moments. Cassandra did not yet realize that the sonar operator could, in some instances, have some authority over even the captain on a submarine and request silence be maintained.
 
 [//]: # (Mid-morning: day 2, run to Stilt City)
-Another hour went by, Cassandra thought she was starting to crack, and considered asking Hemi to take over. She was worried that somehow Shakes had sneaked past her in his little boat, that she missed him and screwed up her first real job. Rationally, she knew that was unlikely though. She pushed herself to keep listening to the silence.
+Another hour went by. Cassandra thought she was starting to crack. She considered asking Hemi to take over. She was worried that somehow Shakes had sneaked past her in his little boat. That she had missed him and screwed up her first real job. Rationally, she knew that was unlikely though. She pushed herself to keep listening to the silence.
 
-Then, far off their port side, she heard an engine in the water. It wasn't like the other seacraft she had heard so far on sonar. It had a continuous popping sound, like a machine gun being fired off in the distance, accompanied by a low-frequency roar.
+Then, far off their port side, she heard an engine in the water. It was not like the other sea craft she had heard thus far in her limited experience on sonar. It had a continuous popping sound, like a machine gun being fired off in the distance, accompanied by a low-frequency roar.
 
-"Captain Percy!" Cassandra called up to the control room where Percy still sat fiddling with the controls to her boat. "I hear something."
+"Captain Percy!" Cassandra called up to the control room where Percy still sat still fiddling with the controls to her boat. "I hear something."
 
 Percy slid down the ladder and picked up the second sonar headset and put it on. Cassandara, rotated the mics back and forth across the direction of the contact, and settled them in on the strongest signal.
 
-"Is that Shakes' boat?" Cassandra asked doubtfully.
+"Is that Captain Shakes?" Cassandra asked doubtfully.
 
 "That can't be fucking Shakes." Said Percy. "That sounds like a supertanker or an aircraft carrier or something. Go get Hemi. I think he should hear this."
 
 Cassandra went off to the Galley leaving Percy listening to the contact. She came back with Hemi holding a tin up with the dregs of cold coffe in the bottom. He slipped the headphones on and stood there hold his coffee cup, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on, and listened again.
 
-"Well." Hemi said. "That's strange. It does sound like a tanker or something big just from sheer volume. But it's moving very fast, too fast for a big thip. It's closer now and I can hear the prop revolutions..." He paused listening again. "And the freqencies are all wrong. The prop is spinning too fast, and sounds small, not like a big ship screw.
+"Well." Hemi said. "That is strange. It does sound like a tanker or something big just from sheer volume. But it is moving very fast, too fast for a big ship...." He paused listening again. "It is closer now, and I can hear the prop revolutions... the frequencies are all wrong. The prop is spinning too fast, and sounds small, not like a big ship screw."
 
-"Shakes was planning to modify the _Gnat_ to be louder, you think that's him?" Percy asked.
+"Shakes was planning to modify the _Gnat_ to be fucking louder, you think that's him?" Percy asked.
 
-"If that's Shakes, I think he's probably overdone it..."
+"If that is Shakes, the job has been overdone..."
 
-"Well, maybe instead of the _Gnat_ being mistaken for the _Prospect_, instead the _Gnat_ will just drown out _everything_ in a 10 mile radius." Said Percy.
+"Shakes... overdone? You think that's fuckin' possible?" Percy grinned. "Maybe instead of the _Gnat_ being mistaken for the _Prospect_, the _Gnat_ will just fucking drown out _everything_ in a 10 mile radius." Said Percy.
 
-"I just..." Hemi started, "just can't believe that such a small boat could..." he paused listening again. "No, I'm more sure of it now. The more detail I get the more it makes sense that it's a very _very_ loud small boat, not a big ship. Though he does have it tuned so low that from a distance or to anyone who isn't skilled on sonar, they might easily be fooled into thinking that contact is displacing an enormous amount of water. Good job Cassandra."
+"I just..." Hemi started, "just cannot believe that such a small boat could..." he paused listening again. "No, I am more sure of it now. The more detail I get the more it makes sense that it is a very _very_ loud small boat, not a big ship. Though he does have it tuned so low that from a distance anyone who is not skilled on sonar might easily be fooled into thinking that contact is displacing an enormous amount of water. Good job Cassandra."
 
-She smiled.
+Cassandra let go a genuine smile.
 
-"OK then. Now what do we do?" Asked Percy. "If we were on the surface, I'd try to raise him on the radio. But I arranged with Shakes to rendezvous at depth, so no one sees us. I'd hate to blow our cover by surfacing now."
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+
+"OK then. So now what do we fuckin' do?" Asked Percy. "If we were on the surface, I'd try to raise him on the radio. But I arranged with Shakes to rendezvous at depth, so no one fucking sees us. I'd hate to blow our cover by surfacing now."
 
 "I don't know. He's well out of range of ship-to-ship. I'd guess something like 20 nautical miles off still or so. We could hit them with active."
 
@@ -3064,6 +3064,7 @@ Within a minute of the _Prospect's_ ping, the contact went silent.
 "They're gone?" Asked Cassandra, still listening to the other headset.
 
 "They have shut down their engine." Hemi said. "Which does not tell us anything."
+2k
 
 "Well how the fuck was he supposed to respond?" Percy asked Hemi. 
 
