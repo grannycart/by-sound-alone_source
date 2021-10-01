@@ -3311,11 +3311,14 @@ Shakes grinned at the thought of hot meals. "What happens if someone comes up on
 
 "Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive."
 
+[//]: # (change second reference to beer can here.)
+
 "OK, just remember if you take the _Gnat_ down with you, I'll have nothing but a crushed beer can for a boat." He scribbled a few notes. "What about sub with the ram and those guys who were after you? What if they are still following you?"
 
 "I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed cargo sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
 "I have no idea." Said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to observe any of that."
+2k
 
 Percy nodded.
 
