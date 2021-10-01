@@ -3310,11 +3310,9 @@ Shakes grinned at the thought of hot meals. "What happens if someone comes the f
 
 [//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
-"Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive."
+"Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive. I hate the fucking delay getting the _Gnat_ disconnected will cause, but I'd hate to deprive you of your precious hot meals."
 
-[//]: # (change second reference to beer can here.)
-
-"OK, just remember if you take the _Gnat_ down with you, I'll have nothing but a crushed beer can for a boat." He scribbled a few notes. "What about sub with the ram and those guys who were after you? What if they are still following you?"
+Shakes grinned. "No fuckin' doubt! Just don't fuckin' forget that if you dive too deep, I'll have a bunch of wet scrap metal instead of a boat." He scribbled a few notes. "What about sub with the ram and those fuckin' guys who were after you? What if they are still following you?"
 
 "I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed cargo sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
@@ -3408,9 +3406,10 @@ Cassandra had her eyes closed and was concentrating intently on the sounds in he
 
 A moment later the perennial resonance of the electric motors died away. Cassandra brought the sonar mics back to face the dead stern of the boat. The signal strength indicator immediately shot up to a definite contact. "Absolutely Captain Percy. I can hear the engine in the water. Sounds like another diesel."
 
-Percy looked at the signal strength dial and knew immediately that the contact had snuck in under the sound of the _Gnat's_ diesel when it was running, and then a bit closer even by being dead astern of them where Cassandra couldn't hear very well over the sound of their own prop turning. The contact was probably far closer than Percy was comfortable with now --- maybe twenty nautical miles. "Fuck." Was all she said.
+Percy looked at the signal strength dial and knew immediately that the contact had sneaked in under the sound of the _Gnat's_ diesel when it was running, and then a bit closer even by being dead astern of them where Cassandra couldn't hear very well over the sound of their own prop turning. The contact was probably far closer than Percy was comfortable with now --- maybe twenty nautical miles. "Fuck." Was all she said.
 
-She climbed up to the control room and got Shakes back on the ship-to-ship. "Defintely a contact Shakes. Now it's your turn. Fire up the _Gnat_ and see if you can lead them off and away from us. Let's see if this scheme of ours works!"
+She climbed up to the control room and got Shakes back on the ship-to-ship. "Definitely a contact Shakes. Now it's your turn. Fire up the _Gnat_ and see if you can lead them off and away from us. Let's see if this scheme of ours works!"
+2k
 
 "Abso-fucking-lutely! Motherfuck..." The end of his oath was cut off by the whining start of the _Gnat's_ diesel engine which came blaring over the ship-to-ship radio for a moment before Shakes took his thumb off the transmit button.
 
