@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Thu Sep 30, 2021  11:38AM
+Last modified: Fri Oct 01, 2021  12:55PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -139,7 +139,8 @@ Last modified: Thu Sep 30, 2021  11:38AM
 * [X] emphasize the weight of the crates with the warheads earlier
 	* (during the part where they are re-arranging the crates in the hold, seems like a good place for that)
 	* (added in-line note to add this)
-* [ ] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
+* [X] the sub with the ram probably identifies which Authority they are when they reach out the first time over ship-to-ship. But the crew acts like they don't know who they are later. Make sure this is consistent and makes sense.
+	* dealt with this by making the Authority goons unwilling to state where they are from when they are in the depot --- outside their own jurisdiction.
 
 #### storm:
 * [ ] revisions for Gregory death scene:
