@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Mon Oct 04, 2021  11:33AM
+Last modified: Mon Oct 04, 2021  12:32PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -155,6 +155,7 @@ Last modified: Mon Oct 04, 2021  11:33AM
 
 #### Stilt City:
 * [ ] make sure Shakes learns that Chips left the Prospect
+* [ ] make references to Shakes beginning to go deaf
 
 #### Not sure where:
 * [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
