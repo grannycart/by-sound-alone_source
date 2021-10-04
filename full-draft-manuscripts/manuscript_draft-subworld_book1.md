@@ -3552,6 +3552,7 @@ Owen and Bastian nodded. Owen slipped down the ladder to the sonar compartment a
 "OK Bastian, give us a little more throttle. I'm adjusting the planes for some up-angle."
 
 The bow of the boat rose slowly ahead of them, and Percy, being the only one standing, leaned into the angle. She found her pack of cigarillos tucked into the wall, and pulled one out to light it. Bastian slipped a cigarette from his shirt pocket and lit it off Percy's coal.
+2k
 
 "Hemi, Another degree on the bow, I think." Said Percy.
 

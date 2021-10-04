@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Fri Oct 01, 2021  12:55PM
+Last modified: Mon Oct 04, 2021  11:33AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -81,6 +81,7 @@ Last modified: Fri Oct 01, 2021  12:55PM
 -------------------------------------------------
 #### Preface:
 * [ ] Do another pass through and edit -- it's only been through once so far and it's pretty rough
+	* See in-line notes about shifting from generational focus to technology change focus
 
 #### Beginning:
 * [X] Give Hemi a beard, like he's captain Nemo. 
@@ -200,6 +201,19 @@ Last modified: Fri Oct 01, 2021  12:55PM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
+* [ ] Possible book (though not series) title:
+	* The Salted wound
+		* (referring to the never-healing damage from the ramming at the beginning)
+	* The Mouse's Wheel
+	* Echoes in the Deep / Echos From the Deep
+	* Deep Blue Fever
+		* (or something else that ties submarines and trucks together)
+* [X] the pursuing sub is advanced diesel-electric, not nuclear. 
+	* They occasionally run on the surface to recharge as well.
+	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
+* [X] Add pigeon communication scene
+* [X] add something explaining that the Prospect has no torpedo tubes:
+	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
 	* [ ] It isn't capturing the grittiness enough, build that up
 * [ ] Electric motor(s):
