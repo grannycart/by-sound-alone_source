@@ -26,6 +26,9 @@ The petcock was a super-simple mechanical device premised on the idea that the s
 
 [//]: # (Maybe the preface should be less/not about this first part of the 20th Century generation thing and more about motorcycles. You could talk about how motorcycles are on the verge of going almost entirely electric --- and I understand why given the performance metrics, quiet, and most of all simplicity. But what if the pure mechanical pleasure of riding a motorcycle gets lost? I always want to ask riders of electric motorcycles: don't you miss shifting? Don't you miss the oneness with the bike you have when you learn to use a clutch? Mechanical pleasure might be something far more deeply engrained in mammals than we suspect --- mice who choose to run on the wheel in the woods for instance. The bicycle and the old submarines totally tapped into this magic. This book is an attempt to capture the pure mechanical pleasures like that in novel form, and use it to tell a good story.)
 
+
+[//]: # (Maybe it's worth pointing out that the technology that drove old submarines is essentially the same that drives out newest hybrid cars. It's not the technology itself that is disappointing --- it will be hard to regret a shift away from fossil-fuel burning machines --- but the disassociation from mechanical things, and the rise of intelligent machines that don't require a human operator at the mechanical level.)
+
 There was a generation that lived through a time up to, through, and a little beyond the great world wars. Like us, technology changed their world. They lived every day of their lives with complex new industrial technologies. But the technology of that time was different than ours. It was rooted in mechanical and electrical things. In their time, anyone who wanted to understand how a piece of amazing new technology worked could simply take it apart. Most things had an intuitive structure. Mechanical solutions based on logical processes. This is not the same as being _simple_. Many things from that era were in fact far more complex than ours today. But learning how something worked --- and how to repair it --- only required a willingness to disassemble (and then a whole lot of experience doing it). If you take apart today's technology, all you will find is tiny components that cannot be repaired, only replaced.
 
 But because of its mechanical underpinnings, the technology of that first half of the 20th Century also just _behaved_ more rationally. Even for those who did not understand the fundamentals of how it worked, would learn through use how their machine would behave. When something unexpected happened, it meant something was going wrong, not that randomness in the system was manifesting itself. People could depend on their technology to behave intuitively when they used it. Unlike our modern digital-based technology, where even experts are often shocked by how it behaves and at a loss to explain why.
@@ -3664,6 +3667,7 @@ Hemi opened the hatch at the top of the control room, and wind immediately whipp
 "OK Bastian!" Hemi shouted down to the control room. "Left-rudder, three degrees."
 
 Bastian shouted the order back up to Hemi, repeating it like the pilot of a military ship would, knowing that Hemi had to be sure he was doing as he was asked.
+2k
 
 "I think you can start the diesels Percy." Hemi shouted down a moment later.
 
