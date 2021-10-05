@@ -3550,8 +3550,6 @@ Hemi and Captain Percy climbed up to the control room. Bastian and Owen were in 
 
 Owen stood and Hemi slipped his bulky form around him and down into the small boat planes control chair.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 "Not a full blow. On my signal I just want you to open the high pressure air into the main ballast for a few seconds. I want to pop the boat up onto the surface. If we use the normal low-pressure system to ease up, there is too much of a chance for the intakes to be swamped in these seas. You all understand the procedure?"
 
 Owen and Bastian nodded. Owen slipped down the ladder to the sonar compartment and they could hear him opening the toolbox that held the emergency blow wrench.
@@ -3599,31 +3597,31 @@ As on all ships, the crew generally kept objects secured by strap or rail agains
 
 The lights blinked a few times and then shorted out as bilge water made its way to places it did not belong. A few moments later the control room and sonar compartment were lit with the harsh white glare of the battery-backup emergency floodlights.
 
-From the sonar compartment, Cassandra screamed. "Holy shit. Holy shit. Holt shit. Is this it? Are we going down?" She shrieked.
+From the sonar compartment, Cassandra screamed. "Holy shit. Holy shit. Holy shit. Is this it? Are we fucking going down?" 
 
-Hemi responded to her with forceful strain, "Cassandra. Don't panic. Submarines are designed with all the weight at their bottoms. They always come upright eventually."
+Hemi responded to her with forceful strain, "Cassandra! Do not panic. Submarines are designed with all the weight at their bottoms. They always come upright eventually."
 
-"Except when they don't." Said Bastian, but only loud enough for Hemi to hear.
+"Except when they fuckin' don't." Said Bastian, but only loud enough for Hemi to hear.
 
 "Hemi." Said Percy flatly to him. "What about the cargo?"
 
-"Let's put our trust in the packing material." He said. "If one of them does explode, we'll know it immediately, and a few seconds after that, it won't matter."
+"We will put our faith in the packing material." He said. "If one of the warheads does explode, we will know it immediately. And a few seconds after that, it will not matter."
 
 Bastian coughed.
 
 "We could open the main ballast valves, try to submerge again." Suggested Hemi.
 
-"I'd be too worried about the tanks flooding unevenly. We could end up turning turtle." Said Percy. "I think we need to ride it out. She'll come up again..."
+"I'd be too worried about the tanks flooding unevenly. We could end up turning fuckin' turtle." Said Percy. "We need to ride it out. She'll come up again..."
 
-The boat rocked on it's side for minutes on end, sometimes rolling in a way that felt like they would go upside down. Occasionally the lights would flicker, but continually shorted out. They listened to the ongoing sounds of the boat's stores crashing and sliding through all the compartments.
+The boat rocked on its side for terrifying minutes on end, sometimes rolling in the wrong direction far enough that it seemed impossible they would not end upside down. Occasionally the lights would flicker, but continually shorted out. They listened to the ongoing sounds of the boat's stores crashing and sliding through all the compartments.
 
-Hemi began to doubt his own words. Maybe this was one of those times that the boat was not going to come back upright. And even if it did, coming upright could always be the thing that set off one of the magnetic warheads. Cassandra had been reduced to whimpering on the deck below them, though they could hear the Owen had made his way over to her and was telling her things in a low voice they couldn't hear but clearly had a reassuring tone. Bastian just kept saying "fuck!" every few seconds, with more and more frustration.
+As Hemi strained to hold himself in place and support Bastian in his, he began to doubt his own words. Maybe this was one of those times that the boat was not going to come back upright. And even if it did, coming upright could always be the final motion that set off one of the magnetic warheads. Cassandra had been reduced to whimpering on the deck below them, though they could hear the Owen had made his way over to her and was telling her things in a low voice they could not hear but clearly had a reassuring tone. Bastian just kept saying "fuck!" every few seconds, with more and more frustration.
 
-Captain Percy lay against the starboard wall. She spat, and her long experience of it arcing to the deck was defied by gravity which pulled it back against the side of the ship.
+Captain Percy lay against the starboard wall. She spat, and her deeply-held expectation of watching it arc to the deck was defied by gravity which pulled the brown goo back against the side of the ship.
 
-But as she was the first to feel the boat go wrong, Captain Percy was also the first to feel it begin to right itself. There was the slightest relaxing of the angle, she could feel a tiny bit more pressure from the deck through her boots. The _Prospect_ was telling her it was coming back up.
+But as she was the first to feel the boat go wrong, Captain Percy was also the first to feel it begin to right itself. There was the slightest relaxing of the angle, she could feel a tiny bit more pressure from the deck through her boots, and somehow she knew it was the beginning of a more substantive movement. The _Prospect_ was telling her it was coming back up.
 
-At first it was just a slow rotation, but then it gathered speed and soon the control room was whipped up into the air, and then came back again as the _Prospect_ found it's upright footing.
+At first it was just a slow rotation, but then it gathered speed and soon the control room was whipped up into the air, and then came back again as the _Prospect_ found its upright footing.
 
 
 [//]: # (### Hemi gets them straightened out; confrontation with Chips)
@@ -3634,40 +3632,41 @@ At first it was just a slow rotation, but then it gathered speed and soon the co
 
 From far below decks came the increasing hum of the motors spinning the props.
 
-"Motors have power, Cap." Said Bastian.
+"Fuckin' motors do have power, Cap." Said Bastian.
 
-"Small favors." Said Percy to herself. "OK Bastian, pick a bearing and keep us moving on it. Hemi! Get up on the bridge --- with a lifeline --- and get us steering into the waves so we don't roll over in the ditch again."
+"Small favors." Said Percy to herself. "OK Bastian, pick a bearing and keep us moving on it. Hemi! Get up on the bridge --- with a fuckin' lifeline --- and get us steering into the waves so we don't roll over in the fuckin' ditch again."
 
-"You don't want to dive?" Hemi asked.
+"You do not want to dive?" Hemi asked.
 
 "Not without regular power through the boat." Percy said.
 
-Hemi nodded, and slipped down the to the lower decks to go after gear he needed.
+Hemi nodded, and slipped down the to the lower decks to go after the gear he needed.
 
-Percy grabbed at the boat PA mic and thumbed the transmitter, but there was no power to any of the radios. She leaned over the hatch to the sonar compartment. "Owen! Go find Chips and help her get the power back on."
+Percy grabbed at the boat PA mic and thumbed the transmitter, but there was no power to any of the radios. She leaned over the hatch to the sonar compartment. "Owen! Go find Chips and help her get the main power back on."
 
 "Right Percy." Owen headed off quickly, nearly running into Gregory who was stumbling up from crew quarters.
 
 "You alright Gregory?" Percy asked.
 
-"Yah, I fucking fell out of the rack when we rolled, but I'm OK."
+"Ya, I fucking fell out of the rack when we rolled, but I'm O-fucking-K."
 
-"Good. Go down to the cargo hold and check the cargo --- make sure nothing's about to explode on us, and get it re-stowed, OK?"
+"Good. Go down to the cargo hold and check the cargo --- make sure nothing's about to fuckin' explode on us, and get it re-stowed, OK?"
 
-"Yah, I'm on it." Gregory pushed his way forward through the compartment against the rocking of the boat. Now that it was on the surface, it was clearly taking a beating from the weather.
+"Ya, I'm on it." Gregory pushed his way forward through the compartment against the sudden mountain grade he faced as the boat rocked. Now that it was on the surface, the _Prospect_ was clearly taking a beating from the weather.
 
-Hemi returned wearing a full-length rubber foul-weather slicked and carrying a coil of heavy rope over his arm.
+Hemi returned wearing a full-length rubber foul-weather slicker and carrying a coil of heavy rope over his arm.
 
-"We won't be able to see much up there Syl. We need to rig some floodlights."
+"We will not be able to see much up there Syl. We need to rig some floodlights."
 
-"I know, but we can't do that without power. Just do your best to feel your way out of the ditch. As soon as the power comes on, we'll send some clamp-lights up."
+"I know, but we can't do that without fucking power. Just do your best to feel your way out of the fucking ditch. As soon as the main power comes on, we'll send some clamp-lights up."
 
-Hemi opened the hatch at the top of the control room, and wind immediately whipped into the boat, driving rain with it. Hemi climbed up and tied the heavy line around himself and hitched it to secure rings behind the fairing of the bridge. The topside world was an environment of blackness pressing against blackness. Hemi was surrounded by huge moving mountains of dark, rolling upwards and trying to touch the black sky that hung just over them, pressing down. 
+Hemi opened the hatch at the top of the control room, and wind immediately whipped into the boat, driving rain with it. Hemi climbed up and tied the heavy line around himself and hitched it to secure rings behind the fairing of the bridge. The topside world was an environment of darkness pressing against blackness. Hemi was surrounded by huge moving mountains of pitch, rolling upwards and trying to touch the black sky that hung just over them, pressing down. 
 
 "OK Bastian!" Hemi shouted down to the control room. "Left-rudder, three degrees."
 
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+
 Bastian shouted the order back up to Hemi, repeating it like the pilot of a military ship would, knowing that Hemi had to be sure he was doing as he was asked.
-2k
 
 "I think you can start the diesels Percy." Hemi shouted down a moment later.
 
