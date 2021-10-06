@@ -3666,7 +3666,7 @@ Hemi opened the hatch at the top of the control room, and wind immediately whipp
 
 [//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
-Bastian shouted the order back up to Hemi, repeating it like the pilot of a military ship would, knowing that Hemi had to be sure he was doing as he was asked.
+Bastian shouted the order back up to Hemi, repeating it like the pilot of a military ship would, knowing that Hemi had to be sure he was executing exactly the move Hemi needed.
 
 "I think you can start the diesels Percy." Hemi shouted down a moment later.
 
