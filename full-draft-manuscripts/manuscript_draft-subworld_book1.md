@@ -3630,7 +3630,7 @@ At first it was just a slow rotation, but then it gathered speed and soon the co
 
 "Forward throttle Bastian!" Said Percy. "Do the motors have power?"
 
-From far below decks came the increasing hum of the motors spinning the props.
+From far below decks came the ramping-up hum of the electric motors spinning the props. The boat's capabilities were severely limited without main power, but power between the batteries and electric motors that drove the props was isolated from main power its own circuit as a safety precaution for an emergency situation such as this.
 
 "Fuckin' motors do have power, Cap." Said Bastian.
 
@@ -3638,11 +3638,11 @@ From far below decks came the increasing hum of the motors spinning the props.
 
 "You do not want to dive?" Hemi asked.
 
-"Not without regular power through the boat." Percy said.
+"Not without main power through the boat." Percy said.
 
 Hemi nodded, and slipped down the to the lower decks to go after the gear he needed.
 
-Percy grabbed at the boat PA mic and thumbed the transmitter, but there was no power to any of the radios. She leaned over the hatch to the sonar compartment. "Owen! Go find Chips and help her get the main power back on."
+Percy grabbed at the boat PA mic and thumbed the transmitter, but there was no power to any of the radios. She leaned over the hatch to the sonar compartment. "Owen! Go find Chips and help her get the power back on."
 
 "Right Percy." Owen headed off quickly, nearly running into Gregory who was stumbling up from crew quarters.
 
@@ -3664,79 +3664,80 @@ Hemi opened the hatch at the top of the control room, and wind immediately whipp
 
 "OK Bastian!" Hemi shouted down to the control room. "Left-rudder, three degrees."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 Bastian shouted the order back up to Hemi, repeating it like the pilot of a military ship would, knowing that Hemi had to be sure he was executing exactly the move Hemi needed.
 
-"I think you can start the diesels Percy." Hemi shouted down a moment later.
+"I think you can try starting the diesels Percy." Hemi shouted down a moment later.
 
-She stepped up behind Bastian to the engine control panel and flipped on the power to the diesels. The panels lit up, so she pushed and held the start buttons until she heard the hissing high-pressure air forcing the diesels to fire below her feet.
+She stepped up to the engine control panel located just behind Bastian. This panel was showing no power to the lights and indicators that usually glowed comfortably as they showed the core propulsion systems of the boat were working. Percy flipped the switch to turn on power to the diesels regardless --- that circuit was also isolated from the main power circuits as a safety precaution. She pushed and held the starter buttons for the diesels. These were mechanically rigged to valves in the high-pressure system that let air flow into the engines with enough force to turn over the crankshaft and the big cylinder bores. The diesels required no external electricity source to start or run. They were nearly entirely mechanical devices. 
 
-"A little more throttle Bastian!" Hemi called down after the diesels started bellowing their reassuring exhaust behind him. Now he felt like the _Prospect_ had the power to confront this big weather.
+After a few seconds of listening to the high-pitched hiss of air flowing through the boat and down to the engines, Percy heard the rumbling vibrations of the diesels firing down in the deep parts of the boat and released the starter buttons. 
 
-A few minutes later the lights came back on, and power started flowing through all the parts of the ship.
+"A little more throttle Bastian!" Hemi called down after the diesels started bellowing their confident exhaust behind him. Now he felt like the _Prospect_ had the power to confront this big weather they were driving into.
 
-Percy picked up the PA mic. "Nice work Chips." She waited a second but there was no reply over the ship PA. "Bastian, I'm going to the cargo hold to check on the load."
+A few minutes later the regular lights came back on, and the harsh shadows of the emergency floodlights faded away. Power returned to the ship panel by panel, along with the reassuring hums of all the electric motors, circuits, and filaments that bathed every moment of their lives onboard the boat.
 
-The ship was a mess. Percy made her way stepping over all the detritus of a working sub scattered all over every deck: tools, bedding, cans of food, cleaning supplies, scattered stacks of papers, half-unrolled charts, pencils, rags, parts, and equipment. For all the mess in the main decks though, the cargo hold wasn't too bad. Hemi's careful re-arrangement of the cargo crates earlier hand included strapping the crates against the wall, and the old cotton-web straps had mostly held. Only a couple of crates had broken loose. Gregory was using the block and tackle to move them out of the center area of the cargo hold. Chips had joined him, and was stowing equipment that had been shaken loose. She had one of the broken bicycles that had escaped from the rusty bicycle pile in her hands when she saw Percy.
+Percy picked up the PA mic. "Nice fuckin' work Chips." She waited a second but there was no reply over the ship PA. "Bastian, I'm going to the cargo hold to check on the fucking load."
 
-Chips's face immediately went red. "That's the second fucking time Percy. Two fucking times you almost fucking killed me now. You fucking surfaced the boat in a fucking storm? Fucking damn you to a cold fucking watery hell you fucking shit-faced twat."
+The ship was a mess. Percy made her way stepping over all the detritus of a working sub scattered over every deck: tools, bedding, cans of food, cleaning supplies, scattered stacks of papers, half-unrolled charts, pencils, rags, parts, and steel-encased equipment. For all the mess in the main decks though, the cargo hold was not too bad. Hemi's careful re-arrangement of the cargo crates earlier hand included strapping the crates hard up against the wall, and the old cotton-web straps had mostly held. Only a couple of crates had broken loose. Gregory was using the block and tackle to move them out of the center area of the cargo hold. Chips had joined him, and was stowing equipment that had been shaken loose. She had one of the broken bicycles that had escaped from the rusty bicycle pile in her hands when she saw Percy.
 
-"Fuck you Chips! I'm the fucking captain of this boat. I have to make these calls. They aren't always going to be perfect or safe."
+Chips' face immediately went red. "That's the second fuckin' time Percy. Two fuckin' times you almost fuckin' killed me now. You fuckin' surface the boat in a fuckin' storm? Fuckin' damn you to a cold fuckin' watery hell you fuckin' shit-faced twat."
 
-"But with a hold full of fucking explosives? You fucking ride out bad fucking storms submerged. Every stupid fucking green boat driver knows that. But apparently, you fucking think it's fine to surface with a hold full of TNT. We were a fucking mite's-dick away from being blown to the bottom of the fucking hole!"
+"Fuck you Chips! I'm the fucking captain of this boat. I have to make these calls. They aren't always going to be fucking perfect or safe."
+
+"But with a hold full of fuckin' explosives? You fuckin' ride out bad fuckin' storms submerged. Every stupid-fuckin' green boat driver knows that. But apparently, you fuckin' think it's fine to surface with a hold full of fuckin' TNT. We were a fuckin' mite's-dick away from being blown to the bottom of the fuckin' hole!"
 
 Percy leveled her emotions. "I don't fucking need this right now. I have bigger problems than you. Go cool the fuck down Chips." Percy turned and walked away.
 
-Chips threw the rusted bicycle frame into the corner with the other bicycles. The hollow tubes of thin steel crashed together.
+Chips threw the rusted bicycle frame into the corner with the other bicycles. The hollow tubes of thin steel crashed and locked together.
 
 
 [//]: # (### They drive through the storm)
 
-With the power restored, Captain Percy tracked down some powerful floodlights in the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this, where visibility was nearly nothing, but the boat still needed to be piloted visually from the top of the sail. Powering them required running heavy weather-proof electrical cables up from the control room to the bridge. 
+With the power restored, Captain Percy tracked down some powerful floodlights in the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this, where the boat needed to be piloted visually from the top of the sail, but visibility was nearly zero. Powering the lights required running heavy weather-proof electrical cables up from the control room to the bridge. 
 
-She called for Owen to come help her on the PA. Together they managed to get the heavy lights through the control room and up to the bridge of the sail. In the slashing rain Percy held each of the four lights in place while Owen clamped the lights onto the fairing by bolts tightened with a wet and slipping wrench. Owen draped the cables down through the sail and into the control room where he connected them to high-amperage power sockets.
+She called for Owen to come help her on the PA. Together they managed to get the heavy lighting units hauled through the control room and up to the bridge of the sail. In the slashing rain Percy held each of the four lights in place while Owen clamped the lights onto the fairing by bolts tightened with a wet and slipping wrench. Owen draped the cables down through the sail and into the control room where he connected them to high-amperage power sockets.
 
-Hemi had been mostly guessing from which way the big waves were at him, and having Bastian adjust the course to to keep them moving laterally across the trough of the waves, where they faced the most risk of rolling over again. Now he had the floodlights on he could actually see the black throbbing landscape around him. Huge mountains, the color of crude, slipped towards him and under the boat, lifting it high up among the spindrift blowing white from their peaks.
+So far, Hemi had been mostly guessing from which way the big waves were coming at him, and having Bastian adjust the course to to keep them moving laterally across the trough of the waves, where they faced the most risk of rolling over again. The powerful lights pushed back the darkness to reveal the black throbbing landscape surrounding him and stretching out in front of him. Huge mountains, the color of crude, slipped towards him and under the boat, lifting it high up among the spindrift blowing white from their peaks and violently twisting off deep into the ferocious darkness.
 
-Hemi tried to spot the big ones coming at him from a couple of waves away. WHen he saw one, he would have Bastian steer into them, driving up their sides splitting through the top and crashing down into the valley below. The wind blew without relent, carrying a mix of rain and blown water from which no distinction could be made whether it was moving upwards or downwards.
+Hemi tried to spot the big ones coming at him from a couple of waves away. When he saw one, he would have Bastian steer into them, driving up their sides splitting through the top and crashing down into the valley below. The wind blew without relent, carrying a mix of rain and blown water from which no distinction could be made whether it was moving upwards or downwards.
 
-The powerful lights pushed back the darkness only to reveal a landscape of blackness stretching out in front of Hemi. To the uninitiated it was a hellscape, an unstable surface on an alien world. Any ship in weather like this was a tiny figure on a vast plane, roamed by monsters the size of apartment buildings that arrived with stealth, and an ability and intent to crush even the most formidable intruders and drive them down into the bottomless hole they strode over.
+To the uninitiated, this was a hellscape, an unstable surface on an alien world. Any ship in weather like this was a tiny figure on a vast plane, roamed by monsters the size of apartment buildings that arrived with stealth, and an ability and intent to crush even the most formidable intruders and drive them down into the bottomless hole they effortlessly strode over.
 
-But Hemi felt no fear as long as the hum of the diesels shoot his boots, and the heat of the exhaust bellowed from the pipes behind him. He had been through weather like this many times over the years and knew a well-found ship with a strong engine should have no trouble. As old as the boat was, he had all faith in the _Prospect_. The storm could try its evil best to do them down, but Hemi wasn't going to go without a fight.
+But Hemi felt no fear as long as the hum of the diesels shook his boots, and the heat of the exhaust bellowed from the pipes behind him. He had been through weather like this many times over the years and knew a well-found ship with a strong engine should have no trouble. As old as the boat was, he had all faith in the _Prospect_. The storm could try its evil best to do them down, but Hemi was not going to go without a fight.
  
 [//]: # (First quarter of night: night 3, run to Stilt City)
-After an hour of charging into the storm Hemi was starting to feel it though. Hemi was not a loud man and his voice was already cracking from shouting directives down to the control room. It also took an enormous amount of energy to keep his concentration focussed on the nearly-featureless black seascape. Wild as it was, it became debilitatingly ugly and repetitive in a short time. It also took physical stamina just to stay standing on the bridge against the wind and roll of the boat. The most distressing thing to Hemi though was that he had only been at this for an hour. There was a chance they could be running through this storm until dawn, something like 10 hours away.
+After an hour of firing into the storm the giant on the bridge was starting to feel the wear of it though. Hemi was not a loud man and his voice was already cracking from shouting directives down to the control room. It also took an enormous amount of energy to keep his concentration focussed on the nearly-featureless black seascape. Wild as it was, it became debilitating repetitive in a short time. It also took physical stamina just to stay standing on the bridge against the wind and roll of the boat. The most distressing thing to Hemi though was that he had only been at this for an hour. There was a chance they could be running through this storm until dawn --- something like 10 hours away.
 
-Gregory, dressed in a black foul-weather slicker that covered him from crown to calf's, and heavy rain boots, climbed up through the sail to join Hemi on the bridge. 
+Gregory, dressed in a black foul-weather slicker that covered him from crown to calves, where it draped over heavy rain boots, climbed up through the sail to join Hemi on the bridge. 
 
-"Percy sent me up." Gregory shouted to Hemi through the wind. "She wants me in the lookout ring. Seems fucking stupid to me."
+"Captain Percy sent me up." Gregory shouted to Hemi through the wind. "She wants me in the lookout ring. Seems fucking stupid to me."
 
-Hemi nodded. "The sour prospects of fortune are determined by the winds that blow out of hell, Gregory. I do not believe there is more to see from the lookout ring than down here on the bridge. Still, I'll be glad to have help spotting incoming big ones... and someone to witness my end if I get blown overboard."
+Hemi nodded. "The sour prospects of fortune are determined by the winds that blow out of hell, Gregory. I do not believe there is more to see from the lookout ring than down here on the bridge. Still, I will be glad to have help spotting incoming big ones... and someone to witness my end if I get blown overboard."
 
-"Maybe that's the real reason she wanted me up here!" Gregory grinned at Hemi as the rain soaked his face.
+"Maybe that's the real fucking reason she wanted me up here!" Gregory grinned at Hemi as the rain soaked his face.
 
-Gregory clipped on a lifeline and climbed up to the lookout ring, his meaty hands almost glowing white where they came out from under the slicker and gripped the wet steel ladder. In the lookout ring, he doubled up his safety line. He withdrew a pair of binoculars from under his slicker, but they were nearly useless in a matter of minutes. He reverted to holding the brim of his hood down to shade his eyes, and least from the water that came down at him, little good it did against the water that rose up at him.
+Gregory clipped on a lifeline and climbed up to the lookout ring, his meaty hands almost glowing white where they peaked out from under the black slicker and gripped the wet steel ladder. In the lookout ring, he doubled up his safety line. He withdrew a pair of binoculars from under his slicker, but they were nearly useless in a matter of seconds. He reverted to holding the brim of his hood down to shade his eyes from the water that came down at him. Though little good it did against the water that rose up at him.
 
 
 [//]: # (### Cassandra on sonar in the storm)
 
 Down in the sonar compartment Cassandra's eyes were watery and red. She had been on sonar watch for more than 12 hours. 12 hours of staring at the same screen and set of gauges, which never showed the slightest change. While she had quickly adapted to the typically very gently motion of the submarine, now it was moving like the worst kind of low-riding surface ship. It lifted her up, and dropped her down, sometimes hard enough to lift her from her chair. Unlike a surface ship, the were no windows though. There was no way for her to see any kind of horizon by which she could orient her confused inner ear. Sickness rose up in her again and again, and she kept forcing it back down. The only relief was the occasional cool, wet breeze that found its way all the way down through the open hatch in the control room to her far corner of the sonar compartment. 
 
-She had expected to be in her rack hours ago, but Captain Percy had come by and asked her to stay on sonar. She had told Cassandra that, while it was unlikely they would meet any other vessels in a storm like this, sonar might be the only way they would know if another ship was coming at them.
+She had expected to be in her rack hours ago, but Captain Percy had come by and asked her to stay on sonar. She had told Cassandra that, while it was unlikely they would meet any other vessels in a storm like this, sonar might be the only way they would know if another ship was coming at them, despite the noise of the storm.
 
-So Cassandra literally hung on. She gripped the handles on either side of the sonar unit in her small hands, her fingers curling around the cold painted and chipped steel. The tension in her arms had passed from a searing ache to a dull background pain hours ago.
+So Cassandra literally hung on. She gripped the handles on either side of the sonar unit in her small hands, her fingers curling around the cold painted and chipped steel, her fingernails digging into the soft flesh of her palms. The tension in her arms had passed from a searing ache to a dull background pain hours ago.
 
-Cassandra closed her eyes and focused her mind on the sounds in hear headset. She left her body behind in the boat, and moved her mind out into the water. This was becoming easier and easier with practice, though overcoming the exhaustion and pain of a long shift made it somewhat more challenging.
+She closed her eyes and focused on the sounds in her headset. She left her body behind in the boat, and moved her mind out into the water. This had become easier and easier with practice, though overcoming the exhaustion and pain of a long shift made it more challenging now.
 
-The ocean was overwhelmed by the sounds of the storm on the surface, and the heavy drone of the diesel engines reverberating through the hull of the _Prospect_. With the diesels running up towards their max RPMs, the whole boat shook with the vibration of the grinding fuel burners. The engines provided a low frequency bass note that cut a never-varying line of deep sound through the sonar.
+The ocean was overwhelmed by the sounds of the storm on the surface, and the heavy drone of the diesel engines reverberating through the hull of the _Prospect_. With the diesels running up towards their max RPMs, the whole boat shook with the vibration of the grinding cylinders. The engines provided a low frequency bass note that cut a never-varying line of deep sound through the sonar.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Above the engines in pitch was the sound of the waves. This sound was white, but unlike the drone of the diesels was constantly changing and shifting. It was a heavy sound that curled and rolled, until a wave broke. When that happened the sound would change to a rushing wall which would overtake everything until it receded a few seconds later and the drone of the engines came back up underneath.
 
 When she concentrated, Cassandra could hear the whistle of the wind itself, pressing against the surface of the water and driving it with its vicious will.
 
 Those sounds all combined into a heavy repetitive groan that rose and fell depending on which source was taking over at any moment. But cut across that was the sound of the motion of the boat itself. Every minute or so, the bow would break out of a wave, accompanied by a new rush of wind on the sonar mics. Then it would be followed by the crunching sound of the boat plunging back under the water, which would run out in a long stream of the sounds of water rushing along the side of the hull.
-2k
 
 All of this came together to form something that, to Cassandra's ears, sounded like an almost spiritual music --- a drone music with variations that carried one off slightly to keep one's interest, but then always returned to a home place. The grinding roll of it all seemed like it could be an effort to raise the consciousness of someone lucky enough to be listening to a plane or a place in the mind where one could see out forever, out through thousands and thousands of miles of empty ocean, and pick out some particular particle or source, and understand what exactly its intentions were. Perhaps a sperm whale 3000 meters down in the blackness, closing its jaws around the expelling juices of an enormous cephalopod. Or the churning roll of a machine bit boring into the ocean floor.
 
