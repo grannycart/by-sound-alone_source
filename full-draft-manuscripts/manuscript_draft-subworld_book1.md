@@ -3736,6 +3736,7 @@ Above the engines in pitch was the sound of the waves. This sound was white, but
 When she concentrated, Cassandra could hear the whistle of the wind itself, pressing against the surface of the water and driving it with its vicious will.
 
 Those sounds all combined into a heavy repetitive groan that rose and fell depending on which source was taking over at any moment. But cut across that was the sound of the motion of the boat itself. Every minute or so, the bow would break out of a wave, accompanied by a new rush of wind on the sonar mics. Then it would be followed by the crunching sound of the boat plunging back under the water, which would run out in a long stream of the sounds of water rushing along the side of the hull.
+2k
 
 All of this came together to form something that, to Cassandra's ears, sounded like an almost spiritual music --- a drone music with variations that carried one off slightly to keep one's interest, but then always returned to a home place. The grinding roll of it all seemed like it could be an effort to raise the consciousness of someone lucky enough to be listening to a plane or a place in the mind where one could see out forever, out through thousands and thousands of miles of empty ocean, and pick out some particular particle or source, and understand what exactly its intentions were. Perhaps a sperm whale 3000 meters down in the blackness, closing its jaws around the expelling juices of an enormous cephalopod. Or the churning roll of a machine bit boring into the ocean floor.
 
