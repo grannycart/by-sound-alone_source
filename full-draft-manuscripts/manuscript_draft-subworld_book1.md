@@ -18,7 +18,7 @@ layout: default
 
 ## Preface
 
-[//]: # (-=-=-=- PREFACE UNEDITED -=-=-=-)
+[//]: # (-=-=-=- preface unedited -=-=-=-)
 
 Anyone who has ever had the pleasure of riding an old motorcycle has had the experience of employing a 'petcock.' The petcock was a valve that sat on the bottom of the fuel tank and when in its normal run position allowed fuel to flow through it to the engine through a small pipe that stuck up a bit into the fuel tank. As the rider rode and the fuel burned down the petcock prevented the fuel from getting below the height of that small pipe. When the fuel reached that point, the motorcycle would cough, sputter, and for all intents of purposes be out of gas --- ever though there was still a pool of fuel sloshing around in the tank below the pipe level. The sputtering motor made it exceedingly clear to rider that they were running low on fuel. The rider would then flip the petcock over and the little valve would allow the sloshing remains of the fuel to run down to the engine. The rider had the reserve fuel left in the tank to let them ride long enough to find a place to refuel.
 
@@ -3716,7 +3716,7 @@ Hemi nodded. "The sour prospects of fortune are determined by the winds that blo
 
 "Maybe that's the real fucking reason she wanted me up here!" Gregory grinned at Hemi as the rain soaked his face.
 
-Gregory clipped on a lifeline and climbed up to the lookout ring, his meaty hands almost glowing white where they peaked out from under the black slicker and gripped the wet steel ladder. In the lookout ring, he doubled up his safety line. He withdrew a pair of binoculars from under his slicker, but they were nearly useless in a matter of seconds. He reverted to holding the brim of his hood down to shade his eyes from the water that came down at him. Though little good it did against the water that rose up at him.
+Gregory clipped on a lifeline and climbed up to the lookout ring, his meaty hands almost glowing white where they peaked out from under the black slicker and gripped the wet steel ladder. In the lookout ring, he doubled up his safety line. From that modest height it looked like he could reach up and touch the long drifting tendrils of the low scudding clouds above his head. He withdrew a pair of binoculars from under his slicker, but they were nearly useless in a matter of seconds. He reverted to holding the brim of his hood down to shade his eyes from the water that came down at him. Though little good it did against the water that rose up at him.
 
 
 [//]: # (### Cassandra on sonar in the storm)
@@ -3727,17 +3727,17 @@ She had expected to be in her rack hours ago, but Captain Percy had come by and 
 
 So Cassandra literally hung on. She gripped the handles on either side of the sonar unit in her small hands, her fingers curling around the cold painted and chipped steel, her fingernails digging into the soft flesh of her palms. The tension in her arms had passed from a searing ache to a dull background pain hours ago.
 
-She closed her eyes and focused on the sounds in her headset. She left her body behind in the boat, and moved her mind out into the water. This had become easier and easier with practice, though overcoming the exhaustion and pain of a long shift made it more challenging now.
+She slowly closed her large eyes and focused on the sounds in her headset. She left her body behind in the boat, and moved her mind out into the water. This had become easier and easier with practice, though overcoming the exhaustion and pain of a long shift made it more challenging now.
 
-The ocean was overwhelmed by the sounds of the storm on the surface, and the heavy drone of the diesel engines reverberating through the hull of the _Prospect_. With the diesels running up towards their max RPMs, the whole boat shook with the vibration of the grinding cylinders. The engines provided a low frequency bass note that cut a never-varying line of deep sound through the sonar.
+The ocean was overwhelmed by the sounds of the storm on the surface, and the heavy drone of the diesel engines reverberating through the hull of the _Prospect_. With the diesels running up towards their maximum RPMs, the whole boat shook with the vibration of the grinding cylinders. The engines provided a low frequency bass note that cut a never-varying line of deep sound through the sonar.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-Above the engines in pitch was the sound of the waves. This sound was white, but unlike the drone of the diesels was constantly changing and shifting. It was a heavy sound that curled and rolled, until a wave broke. When that happened the sound would change to a rushing wall which would overtake everything until it receded a few seconds later and the drone of the engines came back up underneath.
+Above the engines in pitch was the sound of the waves. This sound was white, but unlike the drone of the diesels was constantly changing and shifting. It was a heavy sound that curled and rolled, until a wave broke. When that happened, the sound would change to a rushing wall which would overtake everything until it receded a few seconds later and the low drone of the engines came back up underneath.
 
 When she concentrated, Cassandra could hear the whistle of the wind itself, pressing against the surface of the water and driving it with its vicious will.
 
-Those sounds all combined into a heavy repetitive groan that rose and fell depending on which source was taking over at any moment. But cut across that was the sound of the motion of the boat itself. Every minute or so, the bow would break out of a wave, accompanied by a new rush of wind on the sonar mics. Then it would be followed by the crunching sound of the boat plunging back under the water, which would run out in a long stream of the sounds of water rushing along the side of the hull.
+Those sounds all combined into a heavy repetitive groan that rose and fell depending on which source was taking over at any moment. But cut across that was the sound of the motion of the boat itself. Every minute or so, the bow would break out of a wave, accompanied by a new rush of wind on the sonar mics. Then it would be followed by the crunching sound of the boat plunging back under the water, which would run out in the long stream of the sound of water rushing along the side of the hull.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 All of this came together to form something that, to Cassandra's ears, sounded like an almost spiritual music --- a drone music with variations that carried one off slightly to keep one's interest, but then always returned to a home place. The grinding roll of it all seemed like it could be an effort to raise the consciousness of someone lucky enough to be listening to a plane or a place in the mind where one could see out forever, out through thousands and thousands of miles of empty ocean, and pick out some particular particle or source, and understand what exactly its intentions were. Perhaps a sperm whale 3000 meters down in the blackness, closing its jaws around the expelling juices of an enormous cephalopod. Or the churning roll of a machine bit boring into the ocean floor.
 
@@ -3804,6 +3804,7 @@ This was followed by a long string of regional control organizations, treaty cla
 She screwed the squeaking hatch-sealing wheel down tight. The light on the hatch-status board went from red to green.
 
 More bits of lead smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily. There was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
+2k
 
 Owen looked up at Hemi with fear in his eyes.
 

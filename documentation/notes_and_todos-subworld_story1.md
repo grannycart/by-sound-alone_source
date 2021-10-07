@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Mon Oct 04, 2021  12:32PM
+Last modified: Thu Oct 07, 2021  10:47AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -144,13 +144,17 @@ Last modified: Mon Oct 04, 2021  12:32PM
 	* dealt with this by making the Authority goons unwilling to state where they are from when they are in the depot --- outside their own jurisdiction.
 
 #### storm:
+* [X] add Shakes chewing coca leaves again
 * [ ] revisions for Gregory death scene:
 	* blood rains down through the open hatch (though they don't see Gregory at all)
 	* as they dive, shave-and-a-haircut, shave-and-a-haircut, shave-and-a-haircut taps out above them on the sail.
-* [ ] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
-* [ ] add the term 'scudding clouds' to description during storm
-* [ ] add Shakes chewing coca leaves again
-* [ ] add something about Cassandra listening to music; her big eyes; operating the sonar with long fingernails
+* [X] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
+* [X] add the term 'scudding clouds' to description during storm
+* [o] add something about Cassandra:
+	* [ ] listening to music; 
+	* [X] her big eyes; 
+	* [X] operating the sonar with long fingernails
+		* (she grips the sonar handles during the storm with her nails digging into her palms)
 * [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
 
 #### Stilt City:
