@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Thu Oct 07, 2021  10:47AM
+Last modified: Thu Oct 07, 2021  01:02PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -145,9 +145,10 @@ Last modified: Thu Oct 07, 2021  10:47AM
 
 #### storm:
 * [X] add Shakes chewing coca leaves again
-* [ ] revisions for Gregory death scene:
+* [X] revisions for Gregory death scene:
 	* blood rains down through the open hatch (though they don't see Gregory at all)
 	* as they dive, shave-and-a-haircut, shave-and-a-haircut, shave-and-a-haircut taps out above them on the sail.
+		* I can't go there. the scene is too dramatic. 
 * [X] during the storm add something about the malevolent forces of nature trying to do them down (if it's not there already)
 * [X] add the term 'scudding clouds' to description during storm
 * [o] add something about Cassandra:

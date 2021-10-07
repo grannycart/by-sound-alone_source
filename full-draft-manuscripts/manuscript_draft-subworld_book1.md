@@ -3751,15 +3751,13 @@ Captain Percy and Chip's argument grew louder. Cassandra had the sense they migh
 
 She rested her elbows on the console, and cupped her hands over the metal and leather pieces of the earphones. She listened to the mechanical hum in the water, and tried to guess by the difference between her right and left ear how far away that sound was. But the white noise of the storm washed it all into one blended continuous sound. She stared at the signal strength indicator and dared it to move. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+And then it did. It jumped up, marked a point and floated there for half a second. It was accompanied by a rattling clink in the headphones --- metal on metal somewhere out in the liquid expanse. A dropped steel pot or piece of equipment perhaps. The sound was distinctive, carrying Cassandra back to her childhood, to playing on the floor of a kitchen while a meal was being prepared above her. She tried to hold on to the feeling of safeness that brought to her as in her earphones the rattling-pot sound took on an other-worldly echo. An echo that her mind processed for distance --- which brought the rising terror of how close she now knew that sound to be.
 
-And then it did. It jumped up, marked a point and floated there for half a second. It was accompanied by a rattling clink --- metal on metal somewhere out in that black expanse. A dropped piece of cutlery perhaps. The sound was distinctive, carrying Cassandra back to her childhood, to playing on the floor of a kitchen while a meal was being prepared above her. She tried to keep the feeling of safeness that brought to her as in her earphones the sound took on an other-worldly echo. An echo that her mind processed for distance --- which brought the rising terror of how close she now knew that sound to be.
-
-"Captain Percy! They're right on us!" She turned and yelled.
+"Captain Percy! They're right fucking on us!" She turned and yelled.
 
 Percy immediately broke off with the red-faced Chips and stared at Cassandra, her eyes going wide. It took her a second to process what Cassandra had said. "Oh fuck. A contact?" She asked Cassandra to confirm.
 
-"Yes!" Cassandra put all the conviction she could into it, worried that she wasn't conveying the seriousness of the situation quickly enough.
+"Yes!" Cassandra put all the conviction she could into this word, worried that she wasn't conveying the seriousness of the situation quickly enough.
 
 "How close?" Percy asked.
 
@@ -3768,17 +3766,17 @@ Percy immediately broke off with the red-faced Chips and stared at Cassandra, he
 
 [//]: # (### The pursuing sub rises and starts to shoot)
 
-Percy grabbed the painted steel rungs of the ladder up to the control room, feeling old paint fleck off under her fingers where she gripped the rungs excessively tightly. She flew up the ladder, cupped her hands around her mouth and yelled up to Hemi, "Contact! Rear port quarter!" She could hear Hemi repeating the information up to Gregory in the lookout ring.
+Percy grabbed the gray steel rungs of the ladder up to the control room, feeling the old paint fleck off under her fingers where she gripped the rungs excessively tightly. She flew up the ladder, cupped her hands around her mouth and yelled up to Hemi, "Contact! Close rear port quarter!" She could hear Hemi repeating the information up to Gregory in the lookout ring.
 
-Gregory made a motion to pull out the binoculars from under his slicker, but as he looked in the direction Hemi indicated, he realized he did not need them. There before him rose a shadowy leviathan, breaking out from the dropping curve of the next wave behind them. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as it's huge dorsal area split the surface, two holes appeared in it's back, from which poured out red light, like the eyes of some corrupted pet of hell. The shadows of people briefly caused those eyes to blink, and Gregory knew they were moving onto the deck of the sub that was so close it looked like the next wave could drop them on top of the _Prospect_.
+Gregory made a motion to pull out the binoculars from under his slicker, but as he looked in the direction Hemi indicated, he realized he did not need them. There before him rose a shadowy leviathan, breaking out from the dropping curve of the next wave behind them. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as its huge dorsal area split the surface, two holes appeared in it's back, from which poured out a bright red glow, like the eyes of some corrupted pet of hell. The shadows of people briefly caused those eyes to blink, and Gregory knew they were moving onto the deck of the sub that was so close it looked like the next wave could drop it on top of the _Prospect_.
 
-Gregory cupped one hand to his mouth and stretched his arm out to point in a gesture that dated back to the dawn of humans venturing out onto water. "Hemi! The Beast!"
+Gregory cupped one hand to his mouth and stretched his arm out to point in a gesture that dated back to the dawn of humans venturing out onto water. "Hemi! The foul fuckers with the ram are on us!"
 
-Hemi turned and looked, and instantly knew the _Prospect's_ only course of action. "Dive!" He shouted as he pressed the dive alarm button. He looked up at Gregory in the lookout ring. "We have to dive Gregory! Get below!" The alarm sounded up to him from below in the control room and all through the depths of the boat.
+Hemi turned and looked, and instantly knew the _Prospect's_ only course of action. "Dive!" He shouted downward as he pressed the dive alarm button. He looked up at Gregory in the lookout ring. "We have to dive Gregory! Get below!" The alarm sounded up to him from below in the control room and all through the depths of the boat.
 
-Long thin fingers of flame reached out from the submarine behind them and split the darkness between them. It was followed instantly by the low, fast cracking sound of heavy automatic weapon fire and the sickening thud of lead slamming into the thick steel of the _Prospect's_ sail and ringing with a clanging echo through the hull of the ship.
+Long thin fingers of flame reached out from the submarine behind them and split the darkness between them. It was followed instantly by the low, fast cracking sound of heavy automatic weapon fire and the sickening thud of lead slamming into the thick steel of the _Prospect's_ sail. It rang with a clanging echo down through the hull of the ship.
 
-Hemi immediately dropped his significant mass to the deck of the bridge, under the fairing of the sail and then lowered himself down through the interior of the sail and into the control room. He looked up through the open hatch and called loudly for Gregory.
+Hemi immediately dropped his significant mass to the deck of the bridge, below the protective ridge of the sail's fairing, and then lowered himself down through the interior of the sail and into the control room. He looked up through the open hatch and called loudly for Gregory.
 
 "Were they fucking firing on us? That same fucking sub?" Percy asked, furious.
 
@@ -3786,11 +3784,13 @@ Hemi immediately dropped his significant mass to the deck of the bridge, under t
 
 The depth gauge had already climbed off its zero pin. The deck of the _Prospect_ would be awash in a matter of seconds. The control room would be under shortly after that. Hemi looked up through the open hatch "Gregory! We're going down!" But all he could see was black rain blowing across the bridge. "He was pretty exposed up in the lookout ring when they started firing. He may have been hit." Hemi said to Percy.
 
-They suddenly all ducked involuntarily as more shrapnel hit the sail.
+They suddenly all made a coordinated, involuntarily, and wincing ducking motion as more shrapnel hit the sail. 
 
-Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the pursuing sub, so that all enunciation blended together into one long echoing drone of command, like the voice of a dog's possessing demons that drive the vulnerable mind to murder. "Do not submerge. Disengage your motors and prepared to be boarded." 
+A rain of blood driven by the wind sprayed down through the open hatch above them.
 
-This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed it's unshakeable and inviolable authority to issue such a command. 
+Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the pursuing sub, so that all enunciation blended together into one long echoing drone of command, like the voice of a demon possessing a dog that drives the vulnerable mind to murder. "Do not submerge. Disengage your motors and prepared to be boarded." 
+
+This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed its unshakeable and inviolable authority to issue such a command. 
 
 
 [//]: # (### They dive; Gregory dies)
@@ -3799,18 +3799,19 @@ This was followed by a long string of regional control organizations, treaty cla
 
 "I... I can not do that Sylvia." Said Hemi.
 
-"Fuck! We're going to be under in seconds!" She climbed up two rungs on the ladder to the bridge, reached up and pulled the hatch down without looking up, cutting off the echoing voice on the loudspeaking explicating an ever-expanding description of pyramidal powers. 
+"We're going to be under in seconds! This isn't a discussion." She climbed up two rungs on the ladder to the bridge, reached up and pulled the hatch down without looking up, cutting off the echoing voice on the loudspeakers explicating an ever-expanding description of pyramidal powers. 
 
 She screwed the squeaking hatch-sealing wheel down tight. The light on the hatch-status board went from red to green.
 
-More bits of lead smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily. There was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
-2k
+More bits of lead smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily again. There was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just such a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Owen looked up at Hemi with fear in his eyes.
 
 Hemi fixed the small frames of his glasses in front of his eyes and looked back at him steadily. "Don't worry. The boat will be safe from bullets underwater. Just get us down."
 
-They could hear the water rushing up the hull and rising around them now as the sail went under the waves. Then they heard the tapping. Not the loud thuds of bullets, but the soft rhythmic bump of someone banging on the hull over their head. A few thumps evenly spaced, as if someone was putting all their strength into them. This was followed by a double-bump, which let them know it wasn't mechanical.
+They could hear the water rushing up the hull and rising around them now as the sail went under the waves. Then they heard the tapping. Not the loud thuds of bullets, but the soft rhythmic bump of someone banging on the hull over their head. A few thumps evenly spaced, as if someone was putting all their strength into them. This was followed by a double-bump, which let them know for sure the source was not mechanical.
 
 "Gregory." Said Hemi, his face blank.
 
