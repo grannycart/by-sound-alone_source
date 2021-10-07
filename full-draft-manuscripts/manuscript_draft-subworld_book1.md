@@ -3770,7 +3770,7 @@ Percy grabbed the gray steel rungs of the ladder up to the control room, feeling
 
 Gregory made a motion to pull out the binoculars from under his slicker, but as he looked in the direction Hemi indicated, he realized he did not need them. There before him rose a shadowy leviathan, breaking out from the dropping curve of the next wave behind them. It was so dark that Gregory would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as its huge dorsal area split the surface, two holes appeared in it's back, from which poured out a bright red glow, like the eyes of some corrupted pet of hell. The shadows of people briefly caused those eyes to blink, and Gregory knew they were moving onto the deck of the sub that was so close it looked like the next wave could drop it on top of the _Prospect_.
 
-Gregory cupped one hand to his mouth and stretched his arm out to point in a gesture that dated back to the dawn of humans venturing out onto water. "Hemi! The foul fuckers with the ram are on us!"
+Gregory cupped one hand to his mouth and stretched his arm out to point in a gesture that dated back to the dawn of humans venturing out onto water. "Hemi!" And with the foreboding sense that they might be the last words he ever spoke, Gregory could not keep the note of mortal terror from his voice. "It has come through the waves and is on us now!"
 
 Hemi turned and looked, and instantly knew the _Prospect's_ only course of action. "Dive!" He shouted downward as he pressed the dive alarm button. He looked up at Gregory in the lookout ring. "We have to dive Gregory! Get below!" The alarm sounded up to him from below in the control room and all through the depths of the boat.
 
