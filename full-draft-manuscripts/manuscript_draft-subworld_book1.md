@@ -3805,21 +3805,27 @@ She screwed the squeaking hatch-sealing wheel down tight. The light on the hatch
 
 More bits of lead smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily again. There was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just such a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 Owen looked up at Hemi with fear in his eyes.
 
-Hemi fixed the small frames of his glasses in front of his eyes and looked back at him steadily. "Don't worry. The boat will be safe from bullets underwater. Just get us down."
+Hemi fixed the small frames of his glasses in front of his eyes and looked back at him steadily. "Do not worry. The boat will be safe from bullets underwater. Just get us down."
 
-They could hear the water rushing up the hull and rising around them now as the sail went under the waves. Then they heard the tapping. Not the loud thuds of bullets, but the soft rhythmic bump of someone banging on the hull over their head. A few thumps evenly spaced, as if someone was putting all their strength into them. This was followed by a double-bump, which let them know for sure the source was not mechanical.
+They could hear the water rushing up the hull and rising around them now as the sail went under the waves. 
+
+Then they heard the tapping. 
+
+Not the loud thunks of bullets, but the soft rhythmic bump of someone banging on the hull over their head. A few thumps evenly spaced, as if someone was putting all their strength into them. This was followed by a double-bump, which let them know for sure the source was not mechanical.
 
 "Gregory." Said Hemi, his face blank.
 
-"Fuck." Said Percy. "There's nothing we can do now." The thumps went on for another few seconds. There was a few weaker ones, and then they stopped.
+"There's nothing we can do now." Said Percy. The thumps went on for another few seconds. After a moment of silence, there were a few weaker ones. And then they stopped.
 
-Chips stood at the foot of the control room ladder looking up at Percy through the hatch. "Fuck you." She said softly. "The fucking judges in hell will fuck you for eternity for that, Percy." Chips turned and disappeared towards the stern of the boat.
+[//]: # (But nobody _saw_ Gregory die...)
 
-"Fuck." Said Percy again. She spat. Nobody else said anything. "Flood the fucking dive tanks."
+Chips stood at the foot of the control room ladder looking up at Percy through the hatch. "Fuck you." She said softly. "The fuckin' judges in hell will fuck you for eternity for that, Percy." Chips turned and disappeared towards the stern of the boat.
+
+Nobody else said anything. Percy spat. "Flood the fucking dive tanks."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Hemi reached over to the tank trim panel and opened valves that let more water into the boat. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them in streams of bubbles. Percy flipped the lights from white to red.
 
