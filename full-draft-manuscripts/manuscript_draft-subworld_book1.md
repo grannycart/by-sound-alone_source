@@ -127,7 +127,9 @@ Captain Percy stood on the metal rungs of the ladder just under the hatch set in
 
 "Give me full speed forward." Said Hemi. He put one large hand on each of the shoulders of the two men who sat at the controls of the sub and gave them orders to dive the boat. One of these men was a stick-figure of a man who went by moniker Bastian. The other, Gregory, had a meaty square forehead that echoed his meaty square body. Of the two of them, only Gregory looked like he belonged on a submarine.
 
-Diving the sub required delicacy even in the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements. Their eyes scanned continually over the wall of dials and gauges in front of them that reflected the red glow of the night lighting. Gregory and Bastian made adjustments according to Hemi's instructions, choosing carefully which of the dozens of valves mounted on the control panels in front and around them to open or close, or which switch to flip on or off. The submarine let out a long exhale of breath: the air that had held it aloft in the water column being pressed out by an onrush of water from below into the flooding tanks.
+Diving the sub required delicacy even in the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements. Their eyes scanned continually over the wall of dials, gauges, switches and valves in front of them that reflected the red glow of the night lighting. This wall at the front of the con told them the _Prospect's_ angle, depth, speed, systems settings, battery charge --- the whole picture of the boat's orientation and movement. Indeed, this wall plus some of the panels situated to their right and left were the _only_ way to know the status of the boat while it was submerged.  
+
+Gregory and Bastian made adjustments according to Hemi's instructions, choosing carefully which of the dozens of valves mounted on the control panels in front and around them to open or close, or which switches to flip on or off. The submarine let out a long exhale of breath: the air that had held it aloft in the water column being pressed out by an onrush of water from below into the flooding tanks.
 
 "Flood the express dive tank." Ordered Hemi. Bastian reached up and opened a valve and water thrust through thick old pipes into the deepest parts of the bow of the boat. It pitched steeply downwards in response and Captain Percy reached to grab cracked leather loops that hung overhead. She angled her feet against the incline and her eyes followed the needle of the depth gauge. 
 
@@ -145,7 +147,7 @@ Hemi punched the mute button on the radio.
 
 [//]: # (Taking out these lines: Percy was pissed. "This wouldn't have happened if we had someone listening to the sonar mics while we were running on the surface." "We wouldn't have heard them coming over the diesels anyway." Replied Hemi.  "We would have known they were there soon enough to take some evasive action at least!" "Later! We have to deal with being understaffed later. First let's get out from under this.")
 
-There was barely enough space in the control room for 4 people. They were all breathing each other's air and their breath condensed on the glass faces of the dials and gauges. Hemi took a rag from a hook and fastidiously wiped each of the round little windows clean. 
+There was barely enough space in the control room for 4 people. They were all breathing each other's air and their breath condensed on the glass faces of the dials and gauges. Hemi took a rag from a hook and fastidiously wiped each of the little round windows clean. 
 
 "100 meters." Said Gregory.
 
@@ -160,9 +162,11 @@ Being underwater meant they had to run on batteries. The diesel engines the subm
 
 [//]: # (### They realize there's something wrong)
 
-But Captain Percy's intuition was plaguing her again. "Something isn't right." She said aloud to no one in particular. 
+But Captain Percy's intuition was plaguing her again. "Something isn't fucking right." She said aloud to no one in particular. 
 
-She could again feel something was wrong with her boat. There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the total status of the boat. All the instruments had to be taken together, internalized, and combined with what one felt the boat doing. Percy would typically be holding the depth in her head, while taking in the dive plane angle, the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at this wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
+She could again feel something was wrong with her boat.
+
+There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the total status of the boat. All the instruments had to be taken together, internalized, and combined with what one physically felt the boat doing. Percy would typically be holding the depth in her head, while taking also taking into account the dive plane angle, the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at this wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
 
 This feeling of internalizing what her boat was doing --- something she did  continually, to the point where it felt like the boat was part of her body --- was not working right now. 
 
@@ -3904,14 +3908,9 @@ Bastian turned the dive plane control wheel to give the planes a steeper angle. 
 
 "It is tough Sylvia. Cassandra is right, there is a lot of background noise."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Owen reached up and wiped his sweating fingers on a rag hanging on the forward wall between the gauges. "I could never get used to going down fast like this, controlled or not." He said, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes rapidly scanned over the stacks of dozens and dozens of dials and readouts on the front wall of the con. What Owen read from those dials was that the sub was being put through the very limits of its endurable capabilities.  
 
-Owen reached up and wiped his fingers on a hanging rag. "I don't think I could ever get used to going down fast like this, controlled or no." He said, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes were focused on the larger depth gauge that stood next to their speed gauge at the top of the stacks of dozens and dozens of dials and readouts on the front wall of the con. 
-
-[//]: # (Next 3 grafs came straight from first experimental round draft of this scene: need editing relative to what the reader already knows. Earlier in the book it is established that Percy can read the condition of the boat from this wall, I think, so explaining that might be repetitive. On the other hand, there's some good stuff in these grafs that you might want to keep for mood and tension.)
-Along with some input from the navigation and sonar stations on the deck immediately below the control room, below periscope depth, this wall of dials was the only source of information about what was happening to the boat, and what was going on outside the boat. The depth, speed, health, status, mechanical settings, the whole picture of how the boat was doing could be read from this wall of dials. And what Owen was reading at the moment was that the sub was being put through the very limits of it's endurable capabilities.  
-
-The rising and falling needles on the dials, most of which moved most of the time with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line, the battery indicators were showing the batteries being drained so fast that he could see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle, and the ballast tank status indicators were rapidly pushing towards a completely flooded boat. 
+The rising and falling needles on the dials, which usually moved with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line. The battery indicators were showing the batteries being drained so fast that Owen could actually see the needles falling on the dials. The plane angle indicators were pinned at their steepest angle. And the ballast tank status indicators were rapidly pushing towards a completely flooded boat. 
 
 The depth indicator was the one that Owen's eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column.  It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity. Within a few minutes it was passing through the range of 175 and 180 meters. 
 
@@ -3920,16 +3919,17 @@ The depth indicator was the one that Owen's eyes kept coming back to though. He 
 
 Everyone silently gripped their stations.
 
-"They're turning Percy." Said Hemi. He tapped a light rhythm on Cassandra's shoulder to draw her attention to a new unique sound in their headsets. "Sounds like they are flooding torpedo tubes." 
+"They are turning Percy." Said Hemi from the sonar station. He tapped a light rhythm on Cassandra's shoulder to draw her attention to a new unique sound in their headsets. "Sounds like they are flooding torpedo tubes!" 
 
-A loud ringing ping echoed through the steel hull of the boat. It hit them broadside, and passed through. It rang off the opposite side of the _Prospect's_ hull and echoed back through the air to their ears. The ranging equipment lit up with the exact distance and direction of the pursuing sub. Hemi read the coordinates off the range display and relayed them to Percy. "Their ranging ping puts them at 612 meters of our rear port side." 
+A loud ping resonated from every steel piece of the boat. It hit broadside, and passed right through them. It rang off the opposite side of the _Prospect's_ hull and echoed back through the air to their ears. At the sonar station, the ranging equipment lit up with the exact distance and direction of the pursuing sub. Hemi read the coordinates off the range display and relayed them to Percy. "That ranging ping of theirs puts them at 612 meters off our rear port side." 
 
 "Now they have everything they need to fire on us." Percy said to herself.
-2k
 
 Half a minute later Hemi heard the unmistakable sound of a torpedo being pressed out of its tube. "Torpedo in the water!"
 
 Nobody said anything, instinctively listening to the space around them. After a few seconds the ping of the torpedo homing on the _Prospect_ started bouncing of the hull with the timed rhythm of a ticking clock.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "Take off your headset Cassandra." Said Hemi, pointing at the range-finding equipment that lit up with the direction and remaining distance between them and the torpedo. It updated immediately following each ping --- the torpedo was gaining about 100 meters between pings.
 
