@@ -1511,6 +1511,8 @@ Chips broke the numbing silence. "Fuckin' got somethin'."
 
 Percy stepped back to the radar/sonar station and lowered her head over the scope. A small and distant blip was appearing and fading away with each pass of the _Prospect's_ radar. "Fuck. Well, it was probably too fucking much to hope the ocean would remain empty for us. OK, shut down the radar, switch to sonar. They are pretty far fuckin' off. Hopefully they will just drive on by."
 
+[//]: # (blipblipbeep sadly faded off my radar too. I regret it to this day!)
+
 [//]: # (Does explanation of radar in next graf repeat earlier explanation?)
 
 She watched to make sure Chips shut down the radar completely. It was possible for a surface ship to see their radar when it was running and not only discover they were there, but calculate their exact location. On the other hand passive sonar was just microphones in the water --- it did not send any signal out by which they could be tracked. Of course their noisy diesel engines were sending out plenty of sound at the moment, if anyone got close enough to listen for it.
