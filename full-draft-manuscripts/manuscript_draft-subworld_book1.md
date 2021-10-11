@@ -145,7 +145,7 @@ Hemi punched the mute button on the radio.
 
 "Likely some specialty-built Authority enforcer boat." Said Hemi.
 
-[//]: # (Taking out these lines: Percy was pissed. "This wouldn't have happened if we had someone listening to the sonar mics while we were running on the surface." "We wouldn't have heard them coming over the diesels anyway." Replied Hemi.  "We would have known they were there soon enough to take some evasive action at least!" "Later! We have to deal with being understaffed later. First let's get out from under this.")
+[//]: # (Taking out these lines: Percy was pissed. This wouldnt have happened if we had someone listening to the sonar mics while we were running on the surface. We wouldnt have heard them coming over the diesels anyway. Replied Hemi.  We would have known they were there soon enough to take some evasive action at least! Later! We have to deal with being understaffed later. First lets get out from under this.)
 
 There was barely enough space in the control room for 4 people. They were all breathing each other's air and their breath condensed on the glass faces of the dials and gauges. Hemi took a rag from a hook and fastidiously wiped each of the little round windows clean. 
 
@@ -309,7 +309,7 @@ Percy climbed back up the stairs to the third deck, moving towards the control r
 
 "OK." Said Hemi, taking off the headset as he stood up from the sonar station.
 
-[//]: # (Deleting this line here: Up in the control room Percy told Gregory and Bastian her intention to blow the tanks. "Right." Said Gregory nervously. Bastian nodded stoically.) 
+[//]: # (Deleting this line here: Up in the control room Percy told Gregory and Bastian her intention to blow the tanks. Right. Said Gregory nervously. Bastian nodded stoically.) 
 
 The emergency blow station was at the back of the sonar & navigation compartment, where the equipment made a subtle shift from the technical to the mechanical. It consisted of a number of pipes mounted up against the wall of the compartment. The pipes ran forward and aft from the blow station, off into the many deep, complicated parts of the ship that controlled buoyancy. The pipes had the diameters of large soup cans. They had been re-painted many times, giving them a thick smoothed-over texture, except where the paint had chipped off with flecks of rust. They were stacked up, more than a dozen. Some passed through on their way up to the tank control panel in the control room. Others routed through this compartment simply for the convenience of the engineering of the boat. 
 
@@ -2021,7 +2021,7 @@ Trinity lowered herself groaning into the chair opposite Percy.
 
 Percy hesitated. "How about... three times a standard hull-load fee?"
 
-[//]: # (A "hull load" = the amount one average-sized cargo submarine could carry. It's an established norm, even though some small subs could only carry half a hull load, and bigger ones 1.5 hull loads on a run. The _Prospect_ carries a pretty typical hull load.)
+[//]: # (A hull load = the amount one average-sized cargo submarine could carry. It's an established norm, even though some small subs could only carry half a hull load, and bigger ones 1.5 hull loads on a run. The _Prospect_ carries a pretty typical hull load.)
 
 "Done. I can pay you two-thirds now and the remainder on delivery. I assume coin will be satisfactory?"
 
@@ -2216,7 +2216,7 @@ Shakes eyes widened. He poked at the satchel with the handle end of his fork. "B
 
 "How about two deck-crew share's worth? And a deck-crew share on this run should be pretty lucrative."
 
-[//]: # (A deck-crew share is kind of the 'standard' pay for a run on a cargo sub. Everyone gets paid per run, and the captain and the deck boss get a much bigger share. Deck-crew shares are what most of the crew makes, evenly divided. Green crew get a much smaller share, or a flat fee offer. The engineer gets an engineer's share which is a lot. Maybe equal to deck boss? The boat itself also gets a share: the boat-share. For maintenance and fuel.)
+[//]: # (A deck-crew share is kind of the standard pay for a run on a cargo sub. Everyone gets paid per run, and the captain and the deck boss get a much bigger share. Deck-crew shares are what most of the crew makes, evenly divided. Green crew get a much smaller share, or a flat fee offer. The engineer gets an engineers share which is a lot. Maybe equal to deck boss? The boat itself also gets a share: the boat-share. For maintenance and fuel.)
 
 Shakes nodded slowly, while chewing through another piece of bread. "Alright. Fuckin' alright! But I want a stipend on top of that to cover the costs of any modifications to the _Gnat_. And enough to reverse them after we complete this run."
 
@@ -3309,7 +3309,7 @@ Shakes reached into his denim vest and withdrew a small pencil and a notebook co
 
 "...The locals do not call it that." Put in Hemi.
 
-[//]: # ('Stilt City' is a white-people name for a city with a large indigenous population. The moniker fits so well that no matter what effort the natives of the city put in to have their city addressed by its actual name, the rest of the world can't help but know it by anything other than 'Stilt City.' This, of course, leaves the city vague and unspecified as a city in the real world in this story. It also has a pleasant dream-like quality.)
+[//]: # (Stilt City is a white-people name for a city with a large indigenous population. The moniker fits so well that no matter what effort the natives of the city put in to have their city addressed by its actual name, the rest of the world can't help but know it by anything other than Stilt City. This, of course, leaves the city vague and unspecified as a city in the real world in this story. It also has a pleasant dream-like quality.)
 
 Percy waved him off. "We estimate it will take three or four days and nights to fuckin' get there. That's running slow and deep during the day, and fast on the surface at night with all things fuckin' nominal."
 

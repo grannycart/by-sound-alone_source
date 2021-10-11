@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Fri Oct 08, 2021  12:16PM
+Last modified: Mon Oct 11, 2021  04:06PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -49,6 +49,7 @@ Last modified: Fri Oct 08, 2021  12:16PM
 ### Find-and-fix Editing (do these before full edit pass):
 -------------------------------------------------
 :fnf:
+* [ ] Do a pass through and search for # ( in the final published version -- comments: they have a habit of showing up with even just a 'ticks' and have low tolerance for any formatting or anything.
 * [ ] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
