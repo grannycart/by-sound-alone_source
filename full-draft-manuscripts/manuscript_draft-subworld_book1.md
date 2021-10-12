@@ -3929,30 +3929,29 @@ A loud ping resonated from every steel piece of the boat. It hit broadside, and 
 
 Half a minute later Hemi heard the unmistakable sound of a torpedo being pressed out of its tube. "Torpedo in the water!"
 
-Nobody said anything, instinctively listening to the space around them. After a few seconds the ping of the torpedo homing on the _Prospect_ started bouncing of the hull with the timed rhythm of a ticking clock.
+Nobody said anything, instinctively listening to the space around them. After a few seconds the ping of the torpedo homing on the _Prospect_ started bouncing off the hull with the timed rhythm of a ticking clock.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+"Take off your headset Cassandra." Said Hemi, pointing at the range-finding equipment that lit up with the direction and remaining distance between them and the torpedo. It updated immediately following each ping --- the torpedo was gaining about 100 meters between each ping.
 
-"Take off your headset Cassandra." Said Hemi, pointing at the range-finding equipment that lit up with the direction and remaining distance between them and the torpedo. It updated immediately following each ping --- the torpedo was gaining about 100 meters between pings.
+"Down, we have to get deeper," Percy whispered to herself in the control room. She reached past Bastian, and turned the dive planes wheel to the stop so they had maximum angle. The boat dropped from under them.
 
-"Down, we have to get deeper," Percy whispered to herself in the control room. She reached past Bastian, and turned the dive planes to the stop so they had maximum angle. The boat dropped from under them.
-
-Where a moment before Owen was fearing some unknown depth at which the _Prospect_ would cease to exist, now he felt himself squeezed in the jaws of a closing vise: between a torpedo that could end the _Prospect_ and the crushing pressure of water that could end them.
+Where a moment before Owen was fearing some unknown depth at which the _Prospect_ would cease to exist, now he felt himself squeezed in the jaws of a closing vise: between a torpedo that could blow the _Prospect_ open, and the pressure of water that could crush the boat flat.
 
 Percy looked up. They were passing 200 meters. 
 
 The pinging was fast enough that they all knew the torpedo was almost on them.
 
-And then there was a creeping silence where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
+And then there was a creeping silence in the moment where they had all expected the next sound to be their eardrums pressed in by the shock wave of an explosion.
 
-There was nothing but a long lingering silence no longer being split by the ping of the torpedo. The only sound was the groaning of the _Prospect's_ hull being pushed through the continued stress of fast diving.
+There was nothing but a long lingering quiet, no longer being split by the ping of the torpedo. The only sound was the groaning of the _Prospect's_ hull being pushed through the continued stress of fast diving.
 
 Owen looked at Percy, "What happened?"
 
-[//]: # (I don't think a torpedo has a pressurized hull, so it wouldn't implode, it would just fail.)
-"Most of the torpedoes on these Authority subs are older ones that they manufactured huge numbers of. They can't go below 200 meters or so. The one homing on us probably just stopped functioning when critical componenets failed under the pressure." She paused, thinking to herself. "It's entirely possible that they are loading a more modern torpedo into their tubes right now that can reach us at this depth, and all we've done is delayed the inevitable."
+[//]: # (I do not think a torpedo has a pressurized hull, so it would not implode, it would just fail.)
 
-"What are they doing Hemi now?" Percy asked loudly, with a slight tilt of her head. 
+"Most of the torpedoes on these Authority subs are older ones because they manufactured fuckin' huge numbers of them. They generally can't swim below 200 meters or so. The one homing on us probably just stopped functioning when critical components failed under the pressure." Percy paused, thinking to herself. "It's entirely fuckin' possible that they are loading a more modern torpedo into their tubes right now that can reach us at this depth, and all we've done is delayed the fuckin' inevitable."
+
+"What are they doing Hemi now?" Percy asked the sonar station loudly, with a slight tilt of her head. 
 
 Hemi and Cassandra had their headsets back on and were listening. "Sounds like they stopped moving Percy. They may have decided to wait us out." Said Hemi.
 
@@ -3961,37 +3960,39 @@ Hemi and Cassandra had their headsets back on and were listening. "Sounds like t
 
 "OK," she said to Bastian and Owen, "level us out. Hold us at this depth for the moment."
 
-Bastian eased back the wheel on the dive plane while Owen pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground.  Bastian open the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally held level at 232 meters down.
+Bastian eased back the wheel on the dive plane while Owen pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground.  Bastian opened the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally held level at 232 meters down.
 
-The stress Captain Percy was feeling changed in character. A few moments before her mind was working quickly in the desperate survival mode of flight. Now that immediate pressure was off, replaced by an almost overwhelming cloud of dread as they switched to a mode of silent hiding. 
+The stress Captain Percy was feeling changed in character. A few moments before her mind was working quickly in the desperate survival mode of flight. Now that immediate pressure was off, replaced by an almost overwhelming cloud of slow and helpless dread as they switched to a mode of silent hiding and no further action could be taken. 
 
-She looked around her in the crimson gloom. With the motors shut down her boat was completely silent. Their breathing pushed dampness into the air that condensed on the metal fixtures and gathered until it released a soft drip. The randomness of the dripping in the control room was intimidating. 
+She looked around her in the crimson gloom. With the motors shut down her boat was completely silent. Their breathing pushed dampness into the air that condensed on the metal fixtures and gathered until it released a soft drip. The randomness of the dripping in the control room was maddening --- like it was irregularly marking time towards absolutely nothing. 
 
 Bastian knew better than to ask, but Owen did not. "What's our plan Captain?"
 
 "Fuck Owen! Let me think." She stared at the depth gauge, unblinking.
 
-Bastian opened a valve on the tank trim control panel slightly to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out for the small control wheel.
+Bastian opened a valve on the tank trim control panel slightly further to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out for the palm-sized control wheel.
 
-Percy lit a cigarillo and put it between her lips. "Don't make any moves." She said to Owen and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the sub with the ram bounced off the _Prospect's_ hull and rang through the crew's ears.
+Percy lit a cigarillo and put it between her lips. "Do not make any moves." She said to Owen and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the sub with the ram bounced off the _Prospect's_ hull and rang through the crew's ears.
 
-"They are 734 meters behind us, rear port quarter. They are at 150 meters deep." Hemi told Percy, reading off the ranging equipment. "Do you think they are about to fire another torpedo?"
+"They are 734 meters behind us, rear port quarter. They are at 150 meters deep." Hemi told Percy, reading off the ranging equipment. "Do you think they will fire another torpedo?"
 
-Percy stepped over to the sonar console. "I think if they had a torpedo that could swim this deep they would have fired it already. No, I think they just want to be sure we haven't gone anywhere."
+Percy stepped over to the sonar console. "I think if they had a torpedo that could swim this deep they would have fired it already. No, I think they just want to be sure we have not fucking gone anywhere."
 
-"They likely learned we are an unarmed boat the depot as well." Said Hemi. "They no longer have any fear of pinging us."
+"They likely learned we are an unarmed boat at the depot as well." Said Hemi. "They no longer have any fear of pinging us."
 
-Percy nodded and thought. "Yes... but I wonder if they would be so quick to ping without a storm overhead. Right now they can reasonably assume there's no other Authority's craft around to hear them. If we can make our way out from under this storm, and into busier shipping channels, they might need to hide nearly as much as we do, and lay off the pings."
+Percy nodded and thought. "Yes... but I wonder if they would be so quick to ping without a storm overhead. Right now they can reasonably assume there's no other Authority's craft around to hear them. If we can make our way out from under this storm, and into busier shipping channels, they might need to hide nearly as much as we do --- and lay off the fucking pings."
 
 Cassandra took a rag hanging from a hook and wiped condensation off the sonar gauges.
 
-Percy pulled Hemi over to the navigation chart. Hemi didn't remove the sonar headset, instead stretching out the wire in the space between the sonar and navigation stations.
+Percy pulled Hemi over to the navigation chart. Hemi did not remove the sonar headset, instead stretching out the wire in the space between the sonar and navigation stations.
 
-"How much battery do we have?" Percy asked Hemi.
+"We did OK charging the batteries on the surface during the storm. We have about a half charge on them." Percy said, as a starting point for managing all the variables they needed to weigh.
 
-"We did OK charging the batteries on the surface during the storm. We have about a half charge on them. We can do a creeping speed for maybe 10 hours." Hemi didn't express his opinion aloud that having 10 hours of charge meant they could have, and maybe should have, submerged earlier. And if they had, the would never have encountered the sub with the ram.
+"So we can do a creeping speed for maybe 10 hours." Hemi did not express his opinion aloud that having 10 hours of charge --- a somewhat luxurious electrical hoard considering their current situation --- meant they could have, and maybe should have, submerged earlier. If they had, they would never have encountered the sub with the ram.
 
-"OK. 3 knots, 10 hours. Let's see." Percy measured a compass against a graduated straight edge and deftly spun the compass drawing an arced dashed line on the chart with the grease pencil. "That gets us somewhere along this line."
+"OK. 3 knots, 10 hours. Let's fuckin' see." Percy measured a compass against a graduated straight edge and then deftly spun the compass against the chart, drawing an arced dashed line with the grease pencil. "That gets us somewhere along this line."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Hemi nodded.
 
@@ -4046,6 +4047,7 @@ Half an hour later Owen's voice came over the PA saying food was ready. Captain 
 Percy held Bastian's bowl of food while he climbed the ladder to the control room. She realized how hungry she was with the smell of it.
 
 "Bastian, keep her going the way we're going. If anything changes, I'll be in the galley. Hemi, want to join me for food? Maybe we can come up with some kind of plan."
+2k 82k words
 
 "Absolutely. I am certainly ready to eat." Said Hemi. 
 
