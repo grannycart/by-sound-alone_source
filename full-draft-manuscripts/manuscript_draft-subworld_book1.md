@@ -3992,64 +3992,63 @@ Percy pulled Hemi over to the navigation chart. Hemi did not remove the sonar he
 
 "OK. 3 knots, 10 hours. Let's fuckin' see." Percy measured a compass against a graduated straight edge and then deftly spun the compass against the chart, drawing an arced dashed line with the grease pencil. "That gets us somewhere along this line."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 Hemi nodded.
 
-"Not very much in terms of ocean distances. We can probably get out from under the storm, but we're a long way from any kind of shipping channel."
+"Not very much in terms of ocean distances. We can probably get out from under the storm, but a long fucking way from any kind of shipping channel."
 
 "Any other features we can use? A relatively shallow place we can hide on the bottom again, like the tablemount?" Hemi asked.
 
-Percy took a long draft off her cigarillo and then leaned closely over the chart. She pulled down the magnifier and guided her vision through it with the tips of her fingers, holding the burning coal of the cigarillo just off the glass. "Ugh. there's nothing but deep sea. Bottomless in every direction. There's nothing for hundreds of miles."
+Percy took a long draft off her cigarillo and then leaned closely over the chart. She pulled down the magnifier and guided her vision through it with the tips of her fingers, holding the burning coal of the cigarillo just off the glass. "Ugh. there's nothing but fuckin' deep-sea. Bottomless for hundreds of miles in every direction."
 
-"They are likely looking at the same chart and figuring they can simply wait out our batteries. They know we don't have a full charge since they caught us on the surface." Said Hemi.
+"They are likely looking at the same chart and figuring they can simply wait out our batteries. They know we do not have a full charge since they caught us on the surface, and figure anything less than 20 hours comes out in their favor if they are patient about it." Said Hemi.
 
-"They might not be wrong." Percy stood upright and smoked. "Fuck it. Here's what we're going to do: we're going to creep on a direct course towards Stilt City. If we can lose them, even briefly, we'll surface and try to get in touch with Shakes --- we'll launch the pigeon." She waved her hand in the air in a way that might indicate a bird fluttering off.
+"They might not be wrong." Percy stood upright and smoked. "Fuck it. Here's what we're going to fucking do: we're going to creep on a direct course towards Stilt City. If we can lose them, even briefly, we'll surface and try to get in touch with Shakes --- we'll launch the fuckin' pigeon." She waved her hand in the air in a way that might indicate a bird fluttering off.
 
 "Herschel. And what if Herschel finds Shakes. Then what?"
 
-"Have him run interference or something. Whatever the hell it is we hired him for!"
+"Have him run interference or something. Whatever the fuck it is we hired him for!"
 
 Hemi looked grim.
 
-"We need to get something between us and those fuckers up there, whether it's Shakes, other Authority craft, or some feature of the seascape. I just need something to hide my boat under." Said Percy, wracking her mind for options. "Owen! give us 3 knots."
+"We need to get something between us and those fuckers up there, whether it's Shakes, other Authority craft, or some feature of the seascape. I just need something to hide my fucking boat." Said Percy, wracking her mind for options. "Owen! Give us 3 knots."
 
-The quiet hum of the electric motors rose up through the silence.
+The soft hum of the electric motors rose up through the silence.
 
 "Hemi, can you stay on sonar?" Percy jerked a thumb towards Cassandra. "Let the kid get in the rack for a few hours."
 
-Hemi nodded again. Cassandra heard Percy and looked at them with relief in her red-rimmed eyes.
+Hemi nodded again. Cassandra heard Percy and looked at them with relief in her bloodshot saucer-eyes.
 
-While Hemi let Cassandra off duty, Percy climbed back up into the control room and had Owen adjust their rudder so they were on a more direct route.
+While Hemi took over for Cassandra, Percy climbed back up into the control room and had Owen adjust their rudder so they were on a more direct route.
 
-Ten minutes later another ping echoed through the hull, piercing through the quiet drone of the slowly-moving _Prospect_. Hemi quoted the distance and direction of the ping source to the control room. Percy ground her teeth against the electrical noise that shook her nerves. She willed the pursuers to get lost in the storm that still raged above.
+Ten minutes later another ping echoed through the hull, piercing through the quiet drone of the slowly-moving _Prospect_. Hemi quoted the distance and direction of the ping source to the control room. Percy ground her teeth against the electrical ring that had shook her nerves. She willed the pursuers to get lost in the storm that still raged above.
 
 The ping prompted Owen to speak up. "Captain Percy, don't you think we should try talking them into _not_ shooting at us? Someone over there must be a reasonable person and realise we are an unarmed cargo sub."
 
 "The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection." Said Percy. "We aren't going to pass any inspections with our current cargo. And something tells me those guys aren't going be open to a bribe either..." She trailed off. "Besides, they are out of ship-to-ship range now --- probably trying to keep enough distance to fire a torpedo at us if we come back up above 200 meters.
 
-They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along through the deep, under 230 meters of water. The pursuing sub stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motors it didn't take very long for their fears to subside and be replaced with sleepy routine.
+They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along through the deep, beyond the depth in which it was designed to operate, under 230 meters of water. The pursuing sub stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motors it did not take long for their fears to subside, to be replaced with sleepy routine.
 
-But every 15 minutes, like a grating and persistent alarm, another echoing ping broke through the silence. Each ping was always followed immediately after by Hemi's report from the sonar compartment that the pursuing submarine was maintaining nearly exactly the same distance behind them. This he can and did tell them with great precision.
+But every 15 minutes, like a grating and persistent alarm, another echoing ping broke through the silence. Each ping was always followed immediately after by Hemi's report from the sonar compartment that the pursuing submarine was maintaining nearly the exact same distance behind them. This he could, and did, tell them with great precision.
 
 Each new ping reset their anxiety. And their eyes would tear up and their hands would start shaking again. The only relief was the passing of time, but that led inevitably towards the next alarm-ringing ping, and the cycle would start all over again.
 
 [//]: # (middle of night: night 3, run to Stilt City)
-This cycle repeated itself without change for hours. The storm continued to spin above them, and their ears rang from the pings and from the silence between them. 
+And the cycle repeated itself without change for hours. The storm continued to spin above them, and their ears rang from the pings and from the silence between them. 
 
 Cassandra showed back up in the sonar compartment, unable to sleep for the pings, and offered to sit at the sonar station again. When Hemi climbed into the control room, Percy had him relieve Owen at the throttle controls and sent Owen to make them a very late dinner.
 
 
 [//]: # (### late dinner; Owen realizes the sub commander is after him)
 
-Half an hour later Owen's voice came over the PA saying food was ready. Captain Percy offered to let Bastian and Cassandra eat first, but Cassandra preferred to stay at sonar. Bastian offered to bring a plate of food up to her and sit at the sub controls himself while he ate. He was back from the galley in a matter of minutes with heaping bowls of steaming food for Cassandra and himself.
+Half an hour later Owen's voice came over the PA saying food was ready. Captain Percy suggested Bastian and Cassandra should eat first, but Cassandra preferred to stay at sonar. Bastian offered to bring a plate of food up to her and sit at the sub controls himself while he ate. He was back from the galley in a matter of minutes with heaping bowls of steaming food for Cassandra and himself.
 
-Percy held Bastian's bowl of food while he climbed the ladder to the control room. She realized how hungry she was with the smell of it.
+Percy held Bastian's bowl of food while he climbed the ladder to the control room. She realized how hungry she was as the smell wafted up to her nostrils.
 
-"Bastian, keep her going the way we're going. If anything changes, I'll be in the galley. Hemi, want to join me for food? Maybe we can come up with some kind of plan."
-2k 82k words
+"Bastian, sit at the planes controls and keep her at this depths and going the way we're going. If anything fucking changes, I'll be in the galley. Hemi, want to join me for food? Maybe we can come up with some kind of fucking plan."
 
-"Absolutely. I am certainly ready to eat." Said Hemi. 
+"I am certainly ready to eat." Said Hemi. 
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Owen was not nearly the cook Gregory had been. Dinner was a white mush of crushed up hard biscuit mixed with water and fried with butter. He had stirred in bits of dried salted meat, and was making a pan of scrambled eggs to accompany the mush with at least a little nutrition. He kept making more eggs in small batches, so at least they would be hot for the crew coming to eat.
 
