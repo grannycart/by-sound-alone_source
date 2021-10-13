@@ -4044,59 +4044,59 @@ Half an hour later Owen's voice came over the PA saying food was ready. Captain 
 
 Percy held Bastian's bowl of food while he climbed the ladder to the control room. She realized how hungry she was as the smell wafted up to her nostrils.
 
-"Bastian, sit at the planes controls and keep her at this depths and going the way we're going. If anything fucking changes, I'll be in the galley. Hemi, want to join me for food? Maybe we can come up with some kind of fucking plan."
+"Bastian, sit at the planes controls and keep her at this depth and going the way we're going. If anything fucking changes, I'll be in the galley. Hemi, want to join me for food? Maybe we can come up with some kind of fucking plan."
 
 "I am certainly ready to eat." Said Hemi. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-Owen was not nearly the cook Gregory had been. Dinner was a white mush of crushed up hard biscuit mixed with water and fried with butter. He had stirred in bits of dried salted meat, and was making a pan of scrambled eggs to accompany the mush with at least a little nutrition. He kept making more eggs in small batches, so at least they would be hot for the crew coming to eat.
+Owen was not nearly the cook Gregory had been. Dinner was a white mush of crushed up hard biscuit mixed with water and fried with butter. He had stirred in bits of dried salted meat, and was making a pan of scrambled eggs to accompany the mush with at least a little nutrition. He kept making more eggs --- in small batches, so at least they would be hot for the crew coming to eat.
 
 Hemi and Percy loaded up bowls --- Hemi with twice as much as Percy --- of the hot glop, and filled two tin cups of coffee and sat down at the galley table. They ate in silence for a few minutes.
 
-Hemi had let Herschel out of his cage as soon as the bird had come aboard, and Herschel had made his home in the _Prospect's_ galley, claiming any crumb that made it to the deck. He wandered around their feet as they ate.
+Hemi had let Herschel out of his cage as soon as the bird had come aboard, and Herschel had made his primary home in the _Prospect's_ galley, claiming any crumbs that made it to the deck. He wandered around their feet as they ate.
 
 Another ping rang through the boat.
 
 "Fuck!" Said Percy. "You know Hemi, I just can't fucking figure what the deal is? Why the fuck are they so fucking persistent in coming after us?"
 
-"It is strange. The Authorities often aggressively patrol their own waters. But the tension between them means they don't cross each other's lines. Almost always when we see an Authority craft after us over a long distance it's simply because they have claimed new territory from another Authority, and we didn't know it. In this case... I am fairly certain they have chased us from one Authority territory into another, yet they mysteriously persist."
+"It is strange. The Authorities often aggressively patrol their own waters. But the tension between them means they do not cross each other's lines. Almost always when we see an Authority craft after us over a long distance it is simply because they have claimed new territory from another Authority, and we did not know it. In this case... I am fairly certain they have chased us from one Authority territory into another, yet they mysteriously persist."
 
-"And it looks like they have every intention of pursuing us into a third..."
+"And it looks like they have every fucking intention of pursuing us into a third..."
 
-"You think it is because they want to take this cargo we're hauling? Perhaps it is the strategic move for them: if we deliver, it undermines their position with another Authority somehow."
+"You think it is because they want to take this cargo we are hauling? Perhaps it is the strategic move for them: if we deliver, it undermines their position with another Authority somehow."
 
-"Even for weapons, it's just too fucking risky for one single Authority craft to cross deep into another Authority's area. And a boatload of magnetic warheads? That could be a real prize for a rebel group, but for an Authority it's pretty small potatoes. It's not like we're carrying nerve gas." She thought for a minute, stirring her mush. "Have you ever heard of this sub commander before? What did Shakes say... he had only one arm?"
+"Even for actual weapons --- nevermind weapons parts --- it's just too fucking risky for one single Authority craft to cross deep into another Authority's area. And a boatload of magnetic warheads? That could be a real prize for some rebel group maybe, but for an Authority it's pretty fuckin' small potatoes. It's not like we're carrying fucking nerve gas." She thought for a minute, stirring her mush. "Have you ever heard of this particular fucking sub commander before? What did Shakes say... he had only one fucking arm or something?"
 
-"And that he was very large." Hemi paused, unsure how he felt about charactering people by this quality that applied to himself as well.
+"And that he was very large." Hemi paused, unsure how he felt about pigeonholing people by this quality that applied to himself as well.
 
 Owen stopped stirring his egg mixture. "Fuck." He said slowly, drawing out the middle vowel in a long drag.
 
 Percy and Hemi turned to look at Owen standing at the galley range.
 
-"You have some input Owen?" Percy asked.
+"You have some fucking input Owen?" Percy asked.
 
 "I... may know why they are after us." Owen hesitated. "About a year ago, before I started working on the _Prospect_, I briefly dated an older woman. She was a submarine commander's wife..."
 
-"You fucked this guy's wife Owen?" Percy asked, starting to get angry. "And you didn't tell us earlier?"
+"You fucked this guy's wife Owen?" Percy jumped to the obvious conclusion and was already beginning to get angry. "And you didn't fucking tell us earlier?"
 
-"I didn't know it was the same guy!" Insisted Owen. "There's lots of submarine commanders in the world! What are the chances? Besides, it didn't seem like he cared that much at the time."
+"I didn't know it was the same fucking guy!" Insisted Owen. "There's lots of submarine commanders in the world! What are the fucking chances? Besides, it didn't seem like he cared that much at the time."
 
-"How so?" Percy interrogated.
+"How the fuck is that?" Percy interrogated.
 
-"Well, I used to meet her at their house --- a big old marble mansion with columns out front and stuff --- and the wife and I would be off in one wing while he was in another. I'm sure he knew what we were up to. She acted like it was totally normal."
+"Well, I used to meet her at their house --- a big old marble mansion with fucking columns out front and everything --- and Lisa and I would be off in one wing while he was in another. I'm sure he knew what we were up to. She acted like it was totally normal."
 
 "Odd. So why do you think he's the one after us?"
 
-"Well, that woman broke up with me after a few weeks. It was no big deal --- a fun little fling, no hard feelings. A few weeks later, I'm in a bar, standing at the bar, waiting to order a drink. And this huge guy, like as big as Hemi, maybe bigger, wearing a full dress uniform, decorated with medals all along the left side, epaulets and braid, everything --- this guy comes roaring into the bar. He's got a hatchet in his hand and he calls me out, and he says 'You slept with my wife. You're going to die bloody son.'"
+"Well, she broke up with me after a few weeks. It was no big deal --- a fun little fling, no hard feelings. A month or so later, I'm in a bar, waiting to order a drink. And this huge guy, like as big as Hemi, maybe bigger, wearing a full fucking dress uniform, decorated with medals all along the left side, epaulets and braid, everything --- this guy comes roaring into the bar. He's got a hatchet in his hand and he calls me out, and he says 'You slept with my wife. You're going to die fucking bloody son.'"
 
-"So," said Percy, "whatever happened, something changed and now he has the bloodlust for you?"
+"So," said Percy, "whatever it was that happened, something fucking changed, and now he has the bloodlust for you?"
 
-"You would think," said Owen, "but the thing is, even in that moment --- what should have been a moment of the most violent, heated passion, right? I mean, he's supposedly there to kill me in rage at my seducing his wife, like a classical play or something --- even then his voice was totally flat. It was like he didn't care, really. He was just going through the motions." Owen thought for a second. "My take is that he didn't care at all about his wife, revenge on me was just something to do. A thing to guide his life, maybe because all those years of executing the will of the Authority he worked for had started to seem pointless."
+"You would think," said Owen, "but the thing is, even in that moment --- what should have been a moment of the most violent, heated passion, fucking right? I mean, he's supposedly there to kill me in rage for seducing his wife, like a some fucking classical play or something --- even then his voice was totally flat. It was like he didn't care, really. He was just going through the motions." Owen thought for a second. "My take is that he didn't care at all about Lisa. Revenge on me was just something to do. A code to guide his life by, maybe because all those years of executing the will of the Authority he worked for had started to seem pointless."
 
-"So, you think he's going to pursue us around the great circle of the globe because of some sort of misplaced nihilistic existential crisis? Hemi asked.
+"So, you think he is pursuing us around the great circle of the globe because of some sort of misplaced nihilistic existential crisis?" Hemi asked.
 
-"Uh, sure. Whatever that means." Said Owen, nodding.
+"Uh, sure. Whatever the fuck that means." Said Owen, nodding.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings from his bowl and tossed it onto the table in front of the pigeon. Herschel pecked at the glob nonchalantly.
 
@@ -4160,6 +4160,7 @@ Percy stayed below the control room in the sonar compartment with Cassandra stil
 They sank quickly back into the mired boredom of the chase. Bastian lit one cigarette off another as he awkwardly tried to lean back in the control chair and put his feet up on the panel in front of him. Despite the casual repose, he was professional enough with his job that his eyes never left the gauges showing the status of the boat --- even though the array of dials and their indicating needles had not moved or changed for hours on end.
 
 The air thickened with smoke from Bastian and Percy, the condensation of their breathing, and the shallow flatness of having been pass through carbon-dioxide scrubbers. The control room and sonar compartment felt hazy and wet. Hemi continually wiped water droplets from the ballast gauges with a grimy red cotton rag.
+2k - 84k words
 
 [//]: # (very late night: night 3, run to Stilt City)
 Hours passed like this. Hemi and Percy would try to start conversations with Bastian and with each other, instintively knowing that talking was a way to keep alert, but the thick atmosphere and the grinding drone of the motors continually laid down over their conversations like a blanket and stifled them. Besides, every 15 minutes there was the piercing ping from their pursuers that reoriented their attention and their fear.
