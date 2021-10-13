@@ -2029,7 +2029,7 @@ Percy hesitated. "How about... three times a standard hull-load fee?"
 
 Trinity stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While counting she continued the conversation as if it were no effort. "This must be quite a bit of money for you Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you will have and settling down with a nice man somewhere?"
 
-Percy smiled at the matronly side Trinity had suddenly revealed. "Well, you know what the old cliche says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos, it's bureaucracy. I'd rather stay underwater."
+Percy smiled at the matronly side Trinity had suddenly revealed. "Well, you know what the old cliché says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos, it's bureaucracy. I'd rather stay underwater."
 
 Trinity nodded. "Unfortunately there's some truth to that. There's no sure future anywhere on the surface. Makes it hard to commit to settling down anywhere particular."
 
@@ -4096,22 +4096,20 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 "Uh, sure. Whatever the fuck that means." Said Owen, nodding.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings from his bowl and tossed it onto the table in front of the pigeon. Herschel pecked at the glob nonchalantly.
 
-"That's disturbing." Said Percy. "It's going to be difficult to predict the actions of a man motivated by nothing but a _vision_ of revenge. How did you get away from him in the bar?"
+"That's disturbing." Said Percy. "It's going to be difficult to predict the actions of a man motivated by nothing but a fucking _vision_ of revenge. How did you get away from him in the bar?"
 
-"Oh," said Owen, "that was easy. The bar was crowded, he was a big guy. I just ran out the back. He followed but couldn't even come close to keeping up. He just stood there, waving his hatchet in the air yelling cliched notions of revenge after me without putting any heart into it."
+"Oh," said Owen, "that was easy. The bar was crowded, he was a big guy. I just ran out the back. He followed but couldn't even come close to keeping up. He just stood there, waving his hatchet in the air yelling --- what's the word? --- _clichéd_ notions of revenge after me without putting any heart into it."
 
 
 [//]: # (### Chips comes in to tell them the bilge pump is broken)
 
-At that moment Chips appeared in the hatchway to the galley. She caught Hemi's eye and ignored Percy. "Hemi, the fucking welds along the crack in the fucking cargo hold are weeping pretty fucking aggressively."
+Chips appeared in the hatchway to the galley. She caught Hemi's eye and ignored Percy. "Hemi, the fucking welds along the fucking crack in the cargo hold are weeping pretty fucking aggressively."
 
 Percy's eyes followed Herschel.
 
-"I'm not surprised." Hemi replied. "Running this deep is putting a lot more pressure on the hull, so I'd expect more water coming in. Those welds were never going to be perfect. How bad is it?"
+"I am not surprised." Hemi replied. "Running this deep is putting a lot more pressure on the hull, so I would expect more water coming in. Those welds were never going to be perfect. How bad is it?"
 
 "Well, it would be no fucking problem," said Chips, "but one of the forward fucking bilge pumps has broke the fuck down. And the second forward pump isn't fucking keeping up. We're fucking flooding again."
 
@@ -4123,27 +4121,27 @@ Captain Percy suddenly remembered the pump motor in the depot hardware shop that
 
 "Ah. Well..." Hemi turned heftily to look at Owen, "Owen, leave your eggs aside and go down to the cargo hold with Chips. Rig up one or two of the portable bilges to pump into the trim tanks. Hopefully that will hold us until we can come shallower."
 
-"It's like we right fucking back where we started with this fucking mess before we even did any fucking repairs!" Said Chips angrily. She turned towards the cargo hold without waiting for Owen, who was a minute behind her after washing grease from his hands.
+"It's like we're right fucking back where we started with this fucking mess before we even did any fucking repairs!" Said Chips angrily. She turned towards the cargo hold without waiting for Owen, who was a minute behind her after washing fry grease from his hands.
 
 "Fuck Hemi," said Percy, "now we have another factor we need to be thinking about in the equation."
 
-"You mean the leaking hull? Or that Chips can't even look at you?"
+"You mean the leaking hull? Or that Chips cannot even look at you?"
 
-"The hull. I can't deal with Chips' fucking problems right now. We have a limited window --- that is how long our batteries will hold out --- to find a way to lose these fuckers. I'm open to suggestions."
+"The fucking hull. I can't deal with Chips' fucking problems right now. We have a limited window --- that is, how long our batteries will hold out --- to find a way to lose these fuckers following us. I'm open to suggestions."
 
 "We could try shutting down entirely --- maybe they will fly right over the top of us?" Suggested Hemi.
 
 At that moment another ping bounced through the hull of the _Prospect_.
 
-Percy rolled her eyes. "That, of course, is why shutting down and hiding quietly won't work. There's no fucking way they will get out of range of active sonar at the rate we are moving."
+Percy rolled her eyes. "That, of course, is why shutting down and hiding quietly won't work. There's no fucking way we will get out of range of active sonar at the rate we are moving."
 
-"We could speed up, get them to match our speed, then shut down and let them shoot past." Said Hemi.
+"We could speed up, get them to match our speed, then shut down and let them shoot past." Said Hemi. "That way they would be the ones moving out of range, as relieve us of the effort."
 
 "How fast would we have to get them going so that they are out of sonar range by their next ping?"
 
 "Assuming they keep pinging every 15 minutes..." Hemi did some quick calculations, touching his thumb to his forefinger as he counted. "Fairly fast. Perhaps 15 knots?"
 
-"We'd use up the entire charge left on our battery in something like a quarter hour at that speed."
+"We'd use up the entire charge left on our battery in something like a quarter of a fucking hour at that speed."
 
 "It does indeed seem like this commander knows his tactics." Said Hemi. "A less experienced sub driver would have made more mistakes. I do not see how we have any other option than to continue on our current course, and hope an opportunity presents itself."
 
@@ -4152,15 +4150,16 @@ Percy rolled her eyes. "That, of course, is why shutting down and hiding quietly
 
 [//]: # (### The scattering layer)
 
-Captain Percy and Hemi refilled their coffee cups and Hemi brought an extra one to Bastian in the control room, who gratefully accepted it into the long fingers of his hand that wasn't holding a smoldering cigarette. Hemi sat down in the planes control seat, and swiveled to review the tank ballast control panel. He made some small adjustments to the ballast to trim the boat more level --- probably to account for the water they were once again taking through the poorly-welded gash in the pressure hull, he thought to himself as part of his trim calculations.
+Captain Percy and Hemi refilled their coffee cups and Hemi brought an extra one to Bastian in the control room, who gratefully accepted it into the long fingers of the hand that wasn't holding a smoldering cigarette. Hemi sat down in the planes control seat, and swiveled to review the tank ballast control panel. He made some small adjustments to the ballast to trim the boat more level --- probably to account for the water they were once again taking through the poorly-welded gash in the pressure hull, he thought to himself as he went through his trim calculations.
 
 [//]: # (After midnight: night 3, run to Stilt City)
-Percy stayed below the control room in the sonar compartment with Cassandra still listening to the sonar. She confirmed with Cassandra that their situation had not changed at all, then stepped to the navigation table. She looked at the clock and then used a pair of calipers to measure against the ruler. She put the calipers to the chart, and marked down a single dash with the grease pencil to show the progress they had made in the last hour. Their progress was painfully slow.
+Percy stayed below the control room in the sonar compartment with Cassandra still listening to the sonar. She confirmed with Cassandra that their situation had not changed at all, then stepped to the navigation table. She looked at the clock and then used a pair of calipers to measure against the ruler. She put the calipers to the chart, and marked down a single dash with the grease pencil to show the progress they had made in the last hour. The progress was painfully small and slowly achieved.
 
-They sank quickly back into the mired boredom of the chase. Bastian lit one cigarette off another as he awkwardly tried to lean back in the control chair and put his feet up on the panel in front of him. Despite the casual repose, he was professional enough with his job that his eyes never left the gauges showing the status of the boat --- even though the array of dials and their indicating needles had not moved or changed for hours on end.
+They sank quickly back into the mired boredom of the chase. Bastian lit one cigarette off another as he awkwardly tried to lean back in the control chair and put his feet up on the panel in front of him. Despite the casual repose, he was professional enough with his job that his eyes never left the gauges showing the status of the boat --- even though the array of dials and their indicating needles had not moved in any substantial way for hours on end.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 The air thickened with smoke from Bastian and Percy, the condensation of their breathing, and the shallow flatness of having been pass through carbon-dioxide scrubbers. The control room and sonar compartment felt hazy and wet. Hemi continually wiped water droplets from the ballast gauges with a grimy red cotton rag.
-2k - 84k words
 
 [//]: # (very late night: night 3, run to Stilt City)
 Hours passed like this. Hemi and Percy would try to start conversations with Bastian and with each other, instintively knowing that talking was a way to keep alert, but the thick atmosphere and the grinding drone of the motors continually laid down over their conversations like a blanket and stifled them. Besides, every 15 minutes there was the piercing ping from their pursuers that reoriented their attention and their fear.
