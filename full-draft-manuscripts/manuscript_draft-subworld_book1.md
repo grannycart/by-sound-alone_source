@@ -4200,32 +4200,30 @@ Owen turned the dive plane control wheel, spinning the polished stainless wheel 
 
 It was a sound they heard all the time, but at this depth it reminded Owen how unique this sound was to submarines --- on any other ship it was the sound of death. He was not convinced that in this particular case it would not also be the sound of the _Prospect's_ death --- at the hands of a captain who had snapped under the strain of days without sleep and on a constant edge of terror.
 
-After hours of staring at the walls of dials in front of him stubbornly refusing to move, suddenly it seemed like all the dials were climbing or falling --- all in a directions that communicated nothing but doom for the boat. The depth was rapidly increasing, their speed was increasing, the ballast tanks were filling with water, and the bottom --- Owen could see it in his head: black and thick, gooey enough that the boat might sink meters into it, yet hard enough that it might break the _Prospect's_ spine when it hit. The bottom was simply flying up at them. Perspiration ran freely down Owen's temples.
+After hours spent staring at the wall of dials in front of him, with little black needles stubbornly refusing to move, suddenly it seemed like all the dials were climbing or falling --- all in a directions that communicated nothing but doom for the boat. The depth was rapidly increasing, their speed was increasing, the ballast tanks were filling with water, and the bottom --- Owen could see it in his head: black and thick, gooey enough that the boat might sink meters into it, yet hard enough that it might break the _Prospect's_ spine when it hit. The bottom was simply flying up at them. Perspiration ran freely down Owen's temples.
 
 Bastian quietly wrapped his long thin fingers around the throttle control, ready to yank it back to reverse the motors... perhaps before Percy even asked him to. His other hand reached out in front of him and pressed palm-forward against the steel of the console, in a near-subconscious gesture to brace himself.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Captain Percy stood behind them, one arm slung above her with her wrist twisted into the overhead strap. Her other hand held the cigarillo, aflame, with a long thin string of smoke rising upwards at a slant angle relative to the orientation of the control room in the steeply diving boat. She stared at the depth-under-keel gauge.
 
-Captain Percy stood behind them, one arm slung above her with her wrist entangled in the overhead strap. her other hand held the cigarillo, aflame with a long thin string of smoke rising upwards at a slant angle relative to the orientation of the control room in the steeply diving boat. She stared at the depth-under-keel gauge.
-
-Seconds later the depth-under-keel gauge tapped the zero pin. 
+Seconds later that gauge tapped the zero pin. 
 
 Owen and Bastian winced, waiting for the breaking, popping shudder that would be what the end of the _Prospect_ felt like.
 
-Another second after that, the gauge spun wildly and pegged itself against 'bottomless' on the other side of the dial. It flipped over wtih such force that Owen could hear the tap of thin needle against the pin in the quiet of the control room. The depth gauge next to the depth-under-keel gauge continued to rise steadily past 250 meters.
+Another second after that, the gauge spun wildly and pegged itself against 'bottomless' on the other side of the dial. It flipped over with such force that Owen could hear the hair-tap of the needle against the pin in the quiet of the control room. The depth gauge next to the depth-under-keel gauge continued to rise steadily past 250 meters.
 
-The _Prospect_ let out a long low groan that echoed through the whole boat.
+The _Prospect_ let out a long low groan that tortured every surface of the boat.
 
 
 [//]: # (### Hiding under the scattering layer)
 
-"Level her off!" Said Percy. She had calmly and confidently driven her ship through the false bottom, but now they were up against the very limits of the depths the boat was capable of. A few more seconds of descending, and they would fall into the hole, and never see the surface again.
+"Level her off!" Said Percy. She had calmly and confidently driven her ship through the false bottom, but now they were up against the very limits of the depths the boat was capable of. A few more seconds of descending, and they would fall unstoppably into the hole, and never see the surface again.
 
-Bastian immediately reversed the throttle, and Owen spun the dive plane control wheel around in the opposite direction to steer the bow back upwards with one hand while at the same time he flipped shut the main ballast valve switches on the tank control panel with the other.
+Bastian immediately yanked the throttle into reverse, and Owen spun the dive plane control wheel around in the opposite direction to steer the bow back upwards with one hand while at the same time he flipped shut the main ballast valve switches on the tank control panel with the other.
 
-The engineers who designed the _Prospect_ intended the boat to operate normally down to 215 meters. But Percy had pushed the boat beyond that many times, and despite the age of the boat had full confidence in its ability to withstand 250 meters of depth, though she was only willing to test that confidence in an emergency. Beyond that was the mystery of the death zone. The original engineers anticipated full collapse of the boat at 300m. But terrible things could happen in that range between 250 and 300 meters that they were passing into at the moment.
+The engineers who designed the _Prospect_ intended the boat to operate normally down to 215 meters. But Percy had pushed the boat beyond that many times, and despite the age of the boat had full confidence in its ability to withstand 250 meters of depth --- though she generally only tested that confidence in an emergency. Beyond that was the mystery of the death zone. The original engineers anticipated full collapse of the boat at 300m. But terrible things could happen in that range between 250 and 300 meters that they were passing into at the moment.
 
-Every 10 meters further down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Prospect_, reinforced with the strength of the steel pressure hull. On a boat 100 meters long like the _Prospect_, in a steep dive like this, the bow could easily already be under an entire atmosphere more pressure than what the depth gauge (that measured from the sail) was showing Percy. A small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of seconds. Percy knew they were within meters of cross the unknowable line where critical parts of the _Prospect_ would fail, and they would never get the boat to rise again.
+Every 10 meters further down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Prospect_, reinforced with the strength of the steel pressure hull. On a boat 100 meters long like the _Prospect_, in a steep dive like this, the bow could easily already be under an entire atmosphere more pressure than what the depth gauge (that measured from the sail) was showing Percy. A small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down the last critical meters beyond what the boat could stand in a matter of seconds. Percy knew they were within meters of crossing that unknowable line where critical parts of the _Prospect_ would fail, and they would never get the boat to rise again.
 
 The _Prospect's_ motors were spinning the propeller in reverse now, pulling hard against the fall of the boat.
 
@@ -4237,12 +4235,13 @@ The climb of the depth gauge had slowed dramatically, and was now only barely mo
 
 "The ballast!" Yelled Percy. She stepped to the tank control panel and flipped switches and spun open a selection of the dozen of small valve control wheels in front of her. There was a hiss of air from deep in the boat as the high pressure system blew water out of some of the trim tanks. The boat came back to almost completely level. Percy continued to work the tank ballast panel, putting air back into the main ballast.
 
-The depth guage came to a slow stop at 263 meters.
+The depth gauge came to a slow stop at 263 meters.
 
-Hemi climed up from sonar. He looked at the depth. "New record?" He asked as his eyes found Percy's.
+Hemi claimed up from sonar. He looked at the depth. "New record?" He asked as his eyes found Percy's.
 
-"Nope. But a close second. I had her down to 267 once." As if to remind Percy of the stress it was currently bearing the _Prospect_ let a long slow groan rise from the guts of the boat. "My poor girl." Said Percy. "Sorry baby, we'll take some of the weight off soon."
-2k; 86k
+"Nope. But a close fucking second. I had her down to 267 once." As if to remind Percy of the stress it was currently bearing the _Prospect_ let a another slow groan rise from the guts of the boat. "My poor girl." Said Percy. "Sorry baby, we'll take some of the fucking weight off soon."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "What happened back there?" Asked Owen. "I thought we were going to hit the bottom for sure." 
 
