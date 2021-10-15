@@ -4076,7 +4076,9 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 "I... may know why they are after us." Owen hesitated. "About a year ago, before I started working on the _Prospect_, I briefly dated an older woman. She was a submarine commander's wife..."
 
-"You fucked this guy's wife Owen?" Percy jumped to the obvious conclusion and was already beginning to get angry. "And you didn't fucking tell us earlier?"
+"You had sex with this guy's wife Owen?" Percy jumped to the obvious conclusion and was already beginning to get angry. "And you didn't fucking tell us earlier?"
+
+[//]: # (Everything else is fuck this and fuck that, but when it comes to the actual deed its: have sex!)
 
 "I didn't know it was the same fucking guy!" Insisted Owen. "There's lots of submarine commanders in the world! What are the fucking chances? Besides, it didn't seem like he cared that much at the time."
 
@@ -4237,23 +4239,21 @@ The climb of the depth gauge had slowed dramatically, and was now only barely mo
 
 The depth gauge came to a slow stop at 263 meters.
 
-Hemi claimed up from sonar. He looked at the depth. "New record?" He asked as his eyes found Percy's.
+Hemi climbed up from sonar. He looked at the depth. "New record?" He asked as his eyes found Percy's.
 
 "Nope. But a close fucking second. I had her down to 267 once." As if to remind Percy of the stress it was currently bearing the _Prospect_ let a another slow groan rise from the guts of the boat. "My poor girl." Said Percy. "Sorry baby, we'll take some of the fucking weight off soon."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 "What happened back there?" Asked Owen. "I thought we were going to hit the bottom for sure." 
 
-"False bottom." Said Percy. "The deep scattering layer --- billions and billions of tiny bony fish come up from the depths in the night to feed --- such a mass of them together that they reflect sonar back up, and they look like the bottom. We swam right through them, and came out underneath."
+"False bottom." Said Percy. "The deep scattering layer --- billions and billions of tiny bony fish come up from the depths in the night to feed --- such a fucking mass of them together that they reflect sonar back up, making them look like the bottom. We swam right through them, and came out underneath."
 
-"Just when you think there's nothing new to learn on a submarine..." Said Bastian.
+"Just when you think submarining is fucking boring..." Said Bastian.
 
 Another ping from the pursuing submarine hit the _Prospect_, but this time it had a different quality to it --- not just less powerful, but also diffuse and muted, as if it were coming from much further away than the last ping.
 
-"So... they can't see us now because of the layer of fish between us and then?" Owen asked.
+"So... they can't see us now because of the layer of fish between us and them?" Owen asked.
 
-"With any luck their active sonar is nothing more than a fishfinder now." Percy replied. "And we'll just keep ourselves very quiet for a few minutes here."
+"With any luck their active sonar is nothing more than a damned fishfinder now." Percy replied. "And we'll just keep ourselves very fucking quiet for a few minutes here."
 
 "Maybe I should go back to my bunk then?" Cassandra asked, looking up at Percy from the compartment below, having returned from her short and harrowing break.
 
@@ -4265,25 +4265,27 @@ Another muted ping rang through the _Prospect_.
 
 A few seconds passed and another ping rang out.
 
-"They've lost us." Said Hemi. "Now they're searching."
+"They have lost us." Said Hemi. "Now they are searching."
 
 The gaps between the pings became a few seconds, with no regular intervals.
 
 "Cassandra, can you tell what they're doing?"
 
-"They've got their motors going --- pretty loud." Cassandra listened for another second as a ping passed through them. " They're moving at a good clip... It sounds like they're starting to turn in a circle?"
+"They've got their motors going --- pretty fucking loud." Cassandra listened for another second as a ping passed through them. "They're moving at a good clip... It sounds like they're starting to turn in a circle?"
 
 "Starting a search pattern." Said Hemi.
 
-"And they're moving quickly and loudly because they are relying on active sonar. I think I might go so far as to describe it as somewhat desperate in character too. They've definitely lost us." Percy added.
+"And they're moving quickly and loudly because they are relying on active sonar. I think I might go so far as to describe it as somewhat fucking desperate in character too. They've definitely fucking lost us." Percy added.
 
-"So, when do we make our move? Can we sneak away?" Asked Hemi.
+"So when do we make our move? Can we sneak away?" Asked Hemi.
 
-"Go down to navigation and start tracking them from their pings. We'll move when they are furthest from us."
+"Go down to navigation and start tracking them from their fucking pings. We'll move when they are furthest from us."
 
-"Alright." Hemi moved down to the navigation table. For the next 15 minutes every time he heard a ping from the sub with the ram he looked at the ranging equipment on the sonar and marked down the searching sub's precise location on the chart. Some of his dots were wildly off in random directions because the deep scattering layer was interfering with the ranging equipment. But they sub with the ram sent out so many active pings that Hemi was able to chart a precise course of their movement. It was a circle that began where the _Prospect_ had dropped through the deep scattering layer, and turned in a long 3 mile arc away from that point.
+"OK." Hemi moved down to the navigation table. For the next 15 minutes every time he heard a ping from the sub with the ram he looked at the ranging equipment on the sonar and marked down the searching sub's precise location on the chart. Some of his dots were wildly off in random directions because the deep scattering layer was interfering with the ranging equipment. But the sub with the ram sent out so many active pings that Hemi was able to chart a accurate course of their movement. It was a circle that began where the _Prospect_ had dropped through the deep scattering layer, and turned in a miles-long arc away from that point.
 
 "Percy." Hemi called up to the control room as the latest ping showed their pursuers at nearly 5 nautical miles away. "It looks like they are at the apogee of their search arc. Now might be a good time to move."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (### They run under the scattering layer)
@@ -4346,7 +4348,7 @@ Hemi opened the hatch of the control room and climbed up to the bridge followed 
 A blinding fog was not a challenge for a submarine though --- which spent most of its time running blind anyway --- but a useful resource, turning the surface into a similar dense covering medium as the deep ocean.
 
 Percy called down to Bastian to start the diesels and to push the boat up to its maximum surface speed of 15 knots, and to come around to a direct course for Stilt City. A moment later came the loud hiss and roll of the high-pressure air system turning over the diesel engines until they were firing on their own, lifting the shutters and letting out a stream of black exhaust from the rear end of the sail. A minute later Bastian engaged the motors and Percy felt a jolt as the _Prospect_ picked up speed.
-
+2k; 88k words
 
 [//]: # (### They launch Herschel)
 
