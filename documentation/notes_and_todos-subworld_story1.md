@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Mon Oct 11, 2021  04:06PM
+Last modified: Sat Oct 16, 2021  01:39PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -57,6 +57,10 @@ Last modified: Mon Oct 11, 2021  04:06PM
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
 * [ ] Search for buoyancy and make sure it is spelled correctly
+* [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
+	* Maybe the electric motors are only 'powered down'
+* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
+* [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 * [X] write out full draft for preface; revise; insert into book file
 * [X] make sure you are consistent about 'explosive mines' 'explosive warheads' 'magnetic explosives' etc
 * [X] remove any references to jesus or christ or heaven --- there is no heaven, only hell. A submariner either ends up in hell, or escapes it.
@@ -213,6 +217,7 @@ Last modified: Mon Oct 11, 2021  04:06PM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
+* [ ] After full draft revisions are complete: scan through with spell check on (maybe on different software like libreoffice writer or something?) and make sure all listed spelling errors are intentional.
 * [ ] Possible book (though not series) title:
 	* The Salted wound
 		* (referring to the never-healing damage from the ramming at the beginning)
@@ -228,64 +233,60 @@ Last modified: Mon Oct 11, 2021  04:06PM
 	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
 	* [ ] It isn't capturing the grittiness enough, build that up
-* [ ] Electric motor(s):
+* [X] Electric motor(s):
 	* The Prospect has two, plural mostly, but there are places it runs on only one
 	* the Gnat has a single motor
-* [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
-	* Maybe the electric motors are only 'powered down'
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
 * [ ] Consider removing parts where Percy second-guesses herself.
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
-	* On the other, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
+	* On the othe hand, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
 		* and Percy is NOT always right, just most of the time.
-* [ ] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place -- nav and sonar are _forward_ of the hatch to the control room.)
-* [ ] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
+* [X] make sure you keep the navigation table and sonar oriented correctly to the control room (in my vision it was kinda in the wrong place -- nav and sonar are _forward_ of the hatch to the control room.)
+* [X] Be clear about which person at the controls is the planesman and tank trimmer, and which is the throttle/rudder
 	* (Tank trim panel should be reachable by the planesman, but also accessible by the deck boss)
 		* (Maybe be sure to always refer to it as "the tank control panel")
 	* planesman is left, tank trim panel is to their left. throttle/rudder is the right seat. (facing towards the bow)
-	* [ ] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
-* [ ] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
+	* [X] Make sure you don't have the throttle/rudder seat control the dive planes anywhere
+* [X] make sure you are consistent about crew quarters and galley being on the middle deck (see diagram)
 * [-] consider using 'nominal' to mean anything you want it to.
 	* might be too on-the-nose
 	* I've deleted it in all places the prose has it. left it once in dialog
-* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
-* [ ] Hemi calls Percy "Sylvia"; everyone else calls her captain
-	* [ ] Hemi uses Sylvia as a whole name exclusively, not Syl.
+* [X] Hemi calls Percy "Sylvia"; everyone else calls her captain
+	* [X] Hemi uses Sylvia as a whole name exclusively, not Syl.
 * [ ] have the junior crew call hemi 'boss'
 * [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'
-* [ ] does Shakes insist on being referred to as "Captain Shakes"?
-* [ ] Cassandra should always address Percy as "Captain Percy" and Shakes as "Captain Shakes"
+* [X] does Shakes insist on being referred to as "Captain Shakes"?
+* [X] Cassandra should always address Percy as "Captain Percy" and Shakes as "Captain Shakes"
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
-* [ ] maybe they refer to the bottomless deep as 'the hole'
-* [ ] hatch in Prospect sail is at top of _control room_ not bottom of sail bridge
-* [ ] make sure welding refers to 'rigs' not 'tanks'
+* [X] maybe they refer to the bottomless deep as 'the hole'
+* [X] hatch in Prospect sail is at top of _control room_ not bottom of sail bridge
+* [X] make sure welding refers to 'rigs' not 'tanks'
 	* arc welding is used for underwater welding
 	* which means that like the stove, they have to be careful about fuel/power consumption
 	* the welding rig needs to run a generator or from boat power, I think
-* [ ] put in chapter breaks where they seem like they should go; even if you don't edit the text for the chapters until a later pass
-* [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
-* [ ] audit 'and's --- 'it was a dark and stormy night': multiple descriptors compete for attention.
-* [ ] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
+* [X] put in chapter breaks where they seem like they should go; even if you don't edit the text for the chapters until a later pass
+* [X] audit 'and's --- 'it was a dark and stormy night': multiple descriptors compete for attention.
+* [X] make sure the 'Said [someone]s' are only where you absolutely need them for clarity of who is talking.
 * [ ] make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
 	* maybe the rule is: 
 		* for numbers that are part of the 'language' of the piece (including one through ten, or maybe twenty? --- twenty is where you have to start hyphenating after all) you write them out
 		* And numbers that are actual measurements of things (off gauges or whatever) are numerals
-* [ ] remove contractions from Hemi dialog
-* [ ] when they call Hemi Hem' for short, make sure it has an apostrophe
+* [X] remove contractions from Hemi dialog
+* [X] when they call Hemi Hem' for short, make sure it has an apostrophe
 * [ ] more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
 * [ ] make sure the _fear_ is in there, particularly in the build up to big inflection points
-* [ ] Do you need to do more to pump up the human relations in the story?
+* [X] Do you need to do more to pump up the human relations in the story?
 	* Imagine that a resolution with Chips leads to something successfully happening at the end of the story
 	* Or more generally, Percy's has a stubborn insistence throughout the book that she's right, and it leads to some conflict that needs resolution.
 	* On the other hand, I don't like the idea that human actions/emotions are rational, follow a path, or are even knowable; or that conflict can be resolved with a motivating speech or resolution between two characters. Beyond just seeming cliche, life never works like that.
 	* How then to assure the human interest, and at the same time avoid a cliche character conflict arc?
 		* Think about how things play out on Deadliest Catch. Sometimes the motivational speech works... often it doesn't.
-* [ ] keep an eye out for military terms --- avoid
-	* [ ] like generally, you want to remove the word 'orders'
+* [X] keep an eye out for military terms --- avoid
+	* [X] like generally, you want to remove the word 'orders'
 * [ ] Consider adding more description of the spaces --- particularly inside the Prospect
 	* How is it decorated?
 	* What does it _feel_ like?
@@ -298,7 +299,7 @@ Last modified: Mon Oct 11, 2021  04:06PM
 	* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
 	* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
 		* don't just montage over them, it makes it feel like things are moving too fast.
-* [ ] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
+* [X] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
 	* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
 	* And a lot more cursing might actually be a simple way to make it grittier.
 	* Also they're a bunch of fuckin sailors!

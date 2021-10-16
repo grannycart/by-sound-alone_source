@@ -4343,11 +4343,9 @@ Hemi flipped some switches on the ballast control panel and the hum of compresso
 
 Hemi opened the hatch of the control room and climbed up to the bridge followed closely behind by Captain Percy. The air on the bridge was warm and wet. It sat on the surface of the water without moving, and left droplets forming rapidly on the pilled wooly fabric of Hemi and Percy's clothes. The fog was the color of purgatory, lit from somewhere far off above them to a flat dim nothingness. At some moments it was so thick they could not see beyond the top of the sail, and at others it pushed back just enough to see down to the bow of the boat.
 
-A blinding fog was not a challenge for a submarine though --- which spent most of its time running blind anyway --- but a useful resource, transforming the surface into a similar dense covering medium as the deep ocean.
+A blinding fog was not a challenge for a submarine though --- which spent most of its time moving sightlessly through the world anyway --- but a useful resource, transforming the surface into a similar dense covering medium as the deep ocean.
 
-Percy called down to Bastian to start the diesels, push the boat up to its maximum surface speed of 15 knots, and come around to a direct course for Stilt City. A moment later came the loud hiss and roll of the high-pressure air system turning over the diesel engines until they were firing on their own. The exhaust shutters lifted and let out a stream of black froth into the gray fog from the rear end of the sail. A minute later Bastian engaged the motors and Percy felt a jolt as the _Prospect_ picked up speed.
-
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Percy called down to Bastian to start the engines, push the boat up to its maximum surface speed of 15 knots, and come around to a direct course for Stilt City. A moment later came the loud hiss and roll of the high-pressure air system turning over the diesel engines until they were firing on their own. The exhaust shutters lifted and let out a stream of black froth into the gray fog from the rear end of the sail. A minute later Bastian engaged the motors and Percy felt a jolt as the _Prospect_ picked up speed.
 
 
 [//]: # (### They launch Herschel)
@@ -4356,9 +4354,9 @@ Percy called down to Bastian to start the diesels, push the boat up to its maxim
 
 "Herschel." Corrected Hemi.
 
-"'Herschel.'" Percy repeated. "Do you think that little fella will be able to find Shakes in this fog?"
+"'Herschel.'" Percy repeated. "Do you think that little fella will be able to find Shakes in this fuckin' fog?"
 
-"He has a better chance in this fog than he would have if we had sent him up into that storm. Though the truth is I am fairly skeptical about Shakes' claims that Herschel can find a boat on the surface of the ocean. My understanding of homing pigeons is that they know instinctively how to fly home --- I'm not sure that works if 'home' is a moving target."
+"He has a better chance in this fog than he would have if we had sent him up into that storm. Though the truth is I am fairly skeptical about Shakes' claims that Herschel can find a boat on the surface of the ocean. My understanding of homing pigeons is that they know instinctively how to fly home --- I am not sure that works if 'home' is a moving target."
 
 "Shakes said the pigeon had special training."
 
@@ -4366,84 +4364,88 @@ Percy called down to Bastian to start the diesels, push the boat up to its maxim
 
 "So we might just be sending the bird off to die on the fucking ocean?" For the first time Percy's face showed concern about the small animal.
 
-"If I thought that I would not send Herschel out. The other thing I have heard about homing pigeons is they are capable of flying extraordinary distances. I am confident Herschel will eventually find some place to land. I am just not convinced we will ever see him again. Of course I am not convinced we will see Shakes again either."
+"If I thought that, I would not send Herschel out. The other thing I have heard about homing pigeons is they are capable of flying extraordinary distances. I am confident Herschel will eventually find some place to land. I am just not convinced we will ever see him again. Of course I am not entirely convinced we will ever see Shakes again either."
 
-"OK Hemi, if you think the bird will be alright, and there's a chance it will help us reconnect with Shakes, let's launch him."
+"OK Hemi, if you think the bird will be alright, and there's a chance it will help us reconnect with Shakes, let's fuckin' launch him."
 
 "What shall the message Herschel carries say?"
 
-"I noted on the chart the dock in Stilt City where we're supposed to drop the cargo. I guess we're close enough that at this point, you should should just give him the dock info, and our expected arrival 24 hours or so from now. We'll meet him there, if possible."
+"I noted on the chart the dock in Stilt City where we're supposed to drop the cargo. I guess we're close enough that at this point, you should should just give him the fucking dock info, and that our expected arrival is 24 hours or so from now. We'll meet him there, if it's at all fucking possible."
 
-"Alright." Said Hemi. "I'll be back in a few minutes with Herschel."
+"Alright." Said Hemi. "I will be back in a few minutes with Herschel."
 
-Percy watched Hemi's wet, tweed-covered bulk disappear down the ladder and through the hatch into the control room. She lit a cigarillo and took in deep breaths of damp, smokey air. A sudden wave of exhaustion passed through her.  She looked at her hands gripping the fairing of the sail, the black grime of her work ground into the seams of her knuckles and the cigarillo smoking between her fingers, glowing robustly now that the _Prospect's_ movement was pushing some wind at them..  She'd had only a few hours of sleep and no relent from the tension of being pursued since they left the depot days ago. The warm fog enveloped her and gave her a sense of cover and safety that she realized now she had missed and desperately needed.
+Percy watched Hemi's wet, tweed-covered bulk disappear down the ladder and through the hatch into the control room. She lit a cigarillo and took in deep breaths of damp, smokey air. A sudden wave of exhaustion passed through her.  She looked at her hands gripping the fairing of the sail --- the black grime of her work ground into the seams of her knuckles and the cigarillo smoking between her fingers. The coal of the tobacco glowed robustly now that the _Prospect's_ movement was pushing some wind across it. She'd had only a few hours of sleep and no relent from the tension of being pursued since they left the depot days ago. The warm fog enveloped her and gave her a sense of cover and safety that she realized now she had missed and desperately needed.
 
-Hemi reappeared on the bridge of the sail, cupping Herschel in one big brown hand as he awkwardly climbed the ladder. The bird looked quite content there. One of Herschel's feet hung out through Hemi's fingers, and had a small steel band with an even tinier cylinder attached to it. Percy instantly had a vision of how a few moments ago huge Hemi must have been hunched over the galley table printing extremely tiny letters with a very sharp pencil on a very small piece of paper. She regretted missing that.
+Hemi reappeared on the bridge of the sail, cupping Herschel in one big brown hand as he awkwardly climbed the ladder. The bird looked quite content there. One of Herschel's feet hung out through Hemi's fingers and had a small steel band with an even tinier cylinder attached to it. Percy instantly had a vision of how a few moments ago huge Hemi must have been hunched over the galley table printing extremely small letters with a very sharp pencil on a short roll of thin paper. She regretted missing that.
 
-"OK." Said Hemi. "Herschel's ready to go."
+"OK." Said Hemi. "Herschel is ready to go."
 
-Percy watched him. "So... do you have to give the bird any instructions or anything?"
+Percy watched him. "So... do you have to give the fuckin' bird any instructions or anything?"
 
 "Assuming Shakes is right about Herschel's training, all we have to do is throw him up in the air."
 
 Percy nodded.
 
-Hemi swung Herschel with both hands up into the air. There was a wild flapping for an instant, then Herschel steadied, circled the sail of the _Prospect_ once as he selected a course, and the disappeared straight into the fog.
+Hemi swung Herschel with both hands and released him at the highest point of the arc his arms made. There was a wild flapping for an instant, then Herschel steadied, circled the sail of the _Prospect_ once as he selected a course, and the disappeared straight into the fog.
 
 "I do hope we see Herschel again." Said Hemi.
 
-"I know you say that because you've grown attached to that bird," said Percy, "but it would be pretty nautical if it works... and we find Shakes at the dock in Stilt City."
+[//]: # (I really wanted to use nautical to mean amazing/cool in the next line like the deadliest catch guys do, but I could not make it feel right.)
+
+"I know you say that because you've grown attached to that little fuckin' bird," said Percy, "but it would be pretty miraculous if it works... and we find Shakes at the dock in Stilt City."
 
 
 [//]: # (### Daytime running in the fog)
 
 [//]: # (~Midday: day 4, run to Stilt City)
-They ran at full speed on the surface for the rest of the day. The fog held out for them, laying in varying but unbroken thickness on the water they traveled through for all the daylight hours. Percy put them on 6-hour daytime rotations despite the fact that they were running on the surface, and they all finally managed to get some meaningful sleep. Down a crew member and with limited visibility due to the fog, Percy skipped posting a lookout. It was somewhat risky to run at full speed with no lookout on the surface, especially since the fog also played havoc with the radar --- which was also useful for them since it would foul up anyone looking for them with radar as well. Percy kept either Cassandra or Hemi on sonar at all times, and counted on them to hear another vessel above the sound of the _Prospect's_ diesels soon enough that they would be able to stop the boat if was necessary to avoid a collision.
+They ran at full speed on the surface for the rest of the day. The fog held out for them, laying in varying but unbroken thickness on the water they traveled through for all the daylight hours. Percy put them on 6-hour daytime rotations despite the fact that they were moving on the surface, and they all finally managed to get some meaningful sleep. Down a crew member and with limited visibility due to the fog, Percy skipped posting a lookout. It was somewhat risky to charge ahead on the surface at full speed with no lookout. Especially since the fog also played havoc with the radar. But that was also useful, since it would foul up anyone searching for them with radar as well. Percy kept either Cassandra or Hemi on sonar at all times, and counted on them to hear another vessel above the sound of the _Prospect's_ diesels soon enough that they would be able to take action if was necessary to avoid a collision.
 
-Even with no official lookout posted in the ring, there was almost always someone on the bridge anyway, since the crew were free to spend their off hours on deck, and most of them did choose to spend at least part of it there.
+Even with no official lookout posted in the ring, there was almost always someone on the bridge anyway. Since the crew were free to spend their off hours on deck, most of them chose to spend at least part of it in the open air.
 
 [//]: # (Early-evening: night 4, run to Stilt City)
-The fog lasted until dark, which was all they needed. The plunged into the settling darkness with the stacks blowing flame. The fog began to gave way with the cooler air of night, and the came out under a dome of stars, cutting their way across the surface of the planet and leaving an open gash of white wake behind them in the blackness of the water.
+The fog lasted until dark, which was all they needed. The plunged into the settling darkness with the stacks streaking flames above. The fog gave way to the cooler air of night, and the _Prospect_ came out under a dome of stars. The boat cut its way across the surface of the planet and left an open gash of white wake behind through the black of the water.
 
 
 [//]: # (### Hemi and Chips conversation about Gregory)
 
-Hemi kept the chart accurate with their position, the dashed line straight and true and rapidly growing in the direction of the continental coast with its black dot showing the location of Stilt City. Around nightfall they had crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area that was contested by a number of different Authorities. With the fog lifted and the higher risk of Authority interference Percy put them back on 3 hour nighttime shifts and started keeping someone on lookout again.
+Hemi kept the chart accurate with their position, the dashed line straight and true, and rapidly growing in the direction of the continental coast, marred by the large black dot showing the location of Stilt City. Around nightfall they had crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area that was contested by a number of different Authorities. With the fog lifted and the higher risk of Authority interference, Percy put them back on 3 hour nighttime shifts and started keeping someone on lookout again.
 
 [//]: # (middle-night: night 4, run to Stilt City)
-Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody except Owen had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived on the bridge a few minutes later, and climbed up into the lookout ring with binoculars in hand. It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take sighting of some stars and get a solid fix on their course.
+Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody except Owen had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived in the control room on her way to the bridge a few minutes later. She climbed upwards with binoculars in hand and without a word. It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take sighting of some stars and get a solid fix on their course.
 
 Hemi looked up at Chips from the bridge. "I was not entirely sure you would show for your lookout shift Chips."
 
-"I'm a fucking professional Hemi. I may not be fucking happy about working on this fucking demon-infested boat, but I'm going to do the job I was fucking hired to do until we hit the fucking dock."
+"I'm a fuckin' professional Hemi. I may not be fucking happy about working on this fucking demon-infested boat, but I'm going to do the fuckin' job I was fuckin' hired to do until we hit the fuckin' dock."
 
 "And then what?"
 
-"As soon as this fucking cursed boat bumps, I'm stepping the fuck off Hemi. And not looking the fuck back at all. If you had any fucking sense you'd be fucking leaving with me. The whole fucking crew should be leaving with me. How many fucking times do I have to be fucking pushed right up to the fucking edge of the abyss for my job? How many fucking times do I have to look fucking death in his cold and ugly fucking face? How many times do I have to watch people I fucking care about fall off that abyss Hemi?"
+"As soon as this fuckin' cursed boat bumps, I'm stepping the fuck off Hemi. And not looking the fuck back at all. If you had any fuckin' sense you'd be fuckin' leaving with me. The whole fuckin' crew should be leaving with me. How many fuckin' times do I have to be fuckin' pushed right up to the fuckin' edge of the abyss for my job? How many fuckin' times do I have to look fuckin' death in his cold and ugly fuckin' face? How many times do I have to watch people I fuckin' care about fall off that abyss Hemi?"
 
 "What happened with Gregory could not be helped Chips. I was there, Sylvia had to make a tough choice without a clearly correct answer, and she did. I regret what happened to Gregory, I really do, but this job is dangerous."
 
-"Don't you fucking defend that fucking twat with your fucking burden-of-command bullshit Hemi. This isn't a fucking war boat, it's a commercial fucking cargo sub. She had plenty of fucking choices that could have ended with Gregory fucking alive. I'm all for moving cargo under the fucking attention of Authorities, but not at the fucking cost of people's fucking lives! She could have turned this fucking boat over to them. It's not like they would fucking execute us. We'd just be fucked back to land for a while. Eventually go the fuck back out on some other fucking boat. There's no fucking reason for anyone to fucking die!"
+"Don't you fuckin' defend that fuckin' twat with your fuckin' burden-of-command bullshit Hemi. This isn't a fuckin' war boat, it's a commercial fuckin' cargo sub. She had plenty of fuckin' choices that could have ended with Gregory fuckin' alive. I'm all for moving cargo under the fuckin' attention of Authorities, but not at the fuckin' cost of people's fuckin' lives! She could have turned this fuckin' boat over to them. It's not like they would fuckin' execute us. We'd just be fucked back to land for a while. Eventually go the fuck back out on some other fuckin' boat. There's no fuckin' reason for anyone to fuckin' die!"
 
 "They fired at us first Chips. Gregory was probably hit in the first barrage."
 
-"But he wasn't fucking dead, was he Hemi? He was not fucking dead. And She fucking knew it --- we _all_ fucking knew it Hemi. And as soon as we did we should have aborted the fucking dive and saved fucking Gregory!"
+"But he wasn't fuckin' dead, was he Hemi? He was not fuckin' dead. And She fuckin' knew it --- we _all_ fuckin' knew it Hemi. And as soon as we knew it we should have aborted the fuckin' dive and saved fuckin' Gregory!"
 
 "You know she could never turn over this boat like that."
 
-"_That_ is why that's the fucking _hard_ call Hemi. That's the fucking burden of fucking command." Chips was fuming now breathing hard through her nostrils, barely able to keep the binocular raised, and repeatedly interrupting her scanning arc of the horizon and starting again. "You're guilty too Hemi. Don't fucking think this is all on fucking Percy. You could have easily aborted the dive."
+"_That_ is why that's the fuckin' _hard_ call Hemi. That's the fucking burden of fuckin' command." Chips was fuming now breathing hard through her nostrils, barely able to keep the binoculars raised, and repeatedly interrupting her scanning arc of the horizon and starting again. "You're guilty too Hemi. Don't fuckin' think this is all on fuckin' Percy. You could have easily aborted the dive."
 
 Hemi looked off at the ocean. "But I did not. I made the decision I did in the moment. Aborting the dive did not even occur to me. I did what I was supposed to do as the Deck Boss."
 
-"And that right fucking there is why I'm leaving this fucking boat Hemi. I respect you Hemi Howell, and I like working with you. But this boat is hers from bridge to keel, and she's a fucking stubborn piece of fucking dried shit that fouling the fucking air of my fucking life. Yours too. Fuck."
+"And that right fuckin' there is why I'm leaving this fuckin' boat. I respect you Hemi Howell, and I like workin' with you. But this boat is hers from fuckin' bridge to fuckin' keel, and she's a fuckin' stubborn piece of fuckin' dried shit that foulin' the fuckin' air of my fucking life. Yours too... Fuck."
 
-Hemi looked through the sextant and adjusted it slowly and smoothly, watching the bright star in the finder fall from the sky to meet the rising black depths of the horizon line.
+Hemi looked through the sextant and adjusted it slowly and smoothly, watching the bright star in the finder fall from the sky to meet the rising black depths of the horizon line. He noted their position on his clipboard, and climbed silently down off the bridge.
 
 
 [//]: # (### They enter Stilt City)
 
 [//]: # (day: day 5, run to Stilt City)
-They ran at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they ran slowly under the remaining contested territory, following the very gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led to the rapid growth of what had come to be known worldwide as Stilt City in the previous 20 years. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
+They continued to run at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they moved slowly under the remaining contested territory, following the very gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led in the last 20 years to the rapid growth of what had come to be known worldwide as Stilt City. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
 
