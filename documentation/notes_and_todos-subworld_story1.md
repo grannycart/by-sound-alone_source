@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sat Oct 16, 2021  01:39PM
+Last modified: Sat Oct 16, 2021  05:13PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -233,6 +233,7 @@ Last modified: Sat Oct 16, 2021  01:39PM
 	* "Can't we fire a torpedo at them?" Asked a naive youngster. "We're not a warship, we don't have torpedo tubes!" Replied Percy
 * [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
 	* [ ] It isn't capturing the grittiness enough, build that up
+	* The scene where Percy is looking at her hands and contemplates the grime worn into the creases of her knuckles is a good example of _seeing_ the grime. I need more of that.
 * [X] Electric motor(s):
 	* The Prospect has two, plural mostly, but there are places it runs on only one
 	* the Gnat has a single motor
