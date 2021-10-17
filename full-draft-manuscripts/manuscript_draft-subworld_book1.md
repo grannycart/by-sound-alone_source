@@ -520,6 +520,8 @@ At the sound of the collision alarm Hemi came up through the hatch. His eyes pas
 
 Slowly, slowly, the depth gauge needle rotated to the right as the boat sank. And equally slowly, the depth-under-keep gauge turned to the left as the bottom rose. The depth gauge showed 248 meters. The depth-under-keel gauge came to rest on its other limit pin, labeled '0'. And at that moment the whole _Prospect_ trembled as the bow touched the bottom. Captain Percy felt the slight angle under her feet relax as the stern came down slowly to rest on the bottom as well.
 
+[//]: # (In Stilt City, when they ground the boat, an alarm goes off. Include that here?)
+
 "Fuck me." Said Bastian. "248 meters down, on the bottom. A fucking undersea mountain. We landed on the top, like some damned Noah crashing his ark into fucking Ararat."
 
 "Technically a tablemount." Said Hemi. "A relatively flat surface worn down from an ancient volcano. And yes, if you like, very much an antediluvian feature of the sea floor."
@@ -4516,28 +4518,26 @@ The man looked it over. "Sure. That's no great fucking way from here."
 
 Hemi agreed and paid him right there. Sturmey made a move to go retrieve his canoe, but Hemi asked Cassandra to do it while he showed Sturmey the control room. Even though Bastian and Owen would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+Sturmey took over command of the _Prospect_. He stood on the bridge, and with borrowed binoculars read the numbers of the channels and water lanes they passed by. After a quarter mile or so he had Bastian bring the bow around and without slowing speed, and with a great deal of confidence, plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
 
-Sturmey took over command of the _Prospect_, standing on the bridge and with borrowed binoculars reading the numbers of the channels and water lanes they passed by. After a quarter mile or so he had Bastian bring the bow around and without slowing speed and with a great deal of confidence plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
+They passed along this narrow channel for a long way through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed up under and smacked against the floorboards of the huts. In places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
 
-They passed along this narrow channel for a long way through a more residential area with densely clustered huts on either side, the gentle wake from the passing ship washing up under and smacking against the floorboards. In places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were passing close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children took any interest in the passing submarine.
+Captain Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sturmey.
 
-Captain Percy was beginning to find it hard to imagine how their could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sturmey.
+"This is a short way." He told her. "We will come out in a larger channel soon, but it is longer around to follow that way all the way from the main channel."
 
-"This is a short way." He told her. "We'll come out in a larger channel soon, but it is longer around to follow that way all the way from the main channel."
-
-The _Prospect_, which so often felt like a small cramped place, suddenly seemed to take on enormous proportions relative to the huts around them. The bow was the length of dozens of huts in front of them, and from the sail they towered over the thatched roofs that spread out on either side of them in a huge field of homes. The passage they were taking that cut through the dense huts reminded Percy of rowing a canoe on clear paths through reed patches on a small lake.
+The _Prospect_, which so often felt like a small cramped place, suddenly seemed to take on enormous proportions relative to the huts around them. The bow was the length of dozens of huts put together, and from the sail they towered over the thatched roofs that spread out on either side of them in a huge field of sprouted homes. The passage they were taking that cut through the dense huts reminded Percy of rowing a canoe on clear paths through reed patches on a small lake.
 
 
 [//]: # (### The Prospect gets stuck in shallow water)
 
 Bastian called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow --- 2 meters."
 
-"Umm, Sturmey... are you sure there's enough water here?" Percy asked him."
+"Umm, Sturmey... are you sure there's enough fuckin' water here?" Percy asked him."
 
-"Plenty of water. I've taken many ships through here."
+"Plenty of water. I have taken many ships through here."
 
-"But subs... we draft deeper you know."
+"But subs... we draft a little fucking deeper you know."
 
 "Sub marines. Ya ya."
 
@@ -4545,46 +4545,48 @@ At that moment the grounding alarm started buzzing loudly in the control room. P
 
 "Sturmey!" She called up to the bridge. "There is very very little water under us..."
 
-"It's OK!" He shouted back just as the _Prospect_ came to an abrupt stop. 
+"It's OK!" He shouted back just as the _Prospect_ came to an abrupt stop. Even at the careful speed they had been moving at, the stop was violent enough to jolt them all forward. Empty tin coffee cups fell and clanked along the deck while clipboards fluttered through the air.
 
-Even at the slow careful speed they had been moving at, it was enough to jolt them all forward. Empty tin coffee cups fell and clanked along the deck while clipboards fluttered through the air.
+The alarm started sounding again and a second red light lit on the depth-under-keel gauge indicating they were firmly wedged on the bottom.
 
-The alarm started sounding again and a second red light lit on the depth-under-keel gauge indicating they were on the bottom.
+"Fuck!" Percy yelled, punching the alarm-silence button a second time. "Fucking fuck! Sturmey you fucking amateur, what the fuck did you do? Bastian, power down the fucking motor before we're driven deeper into the muck."
 
-"Fuck!" Percy yelled, punching the alarm silence button a second time. "Fucking fuck! Sturmey you fucking amateur, what the fuck did you do? Bastian, shut down the motor before we're driven deep into the muck."
+Bastian pulled the throttle back to zero. Percy could hear Hemi and Sturmey discussing the situation on the bridge. Sturmey's voice was aggravated. Hemi was talking in his usual even tone. But Percy could not quite make out what they were saying. She climbed to the bridge.
 
-Bastian pulled the throttle back to zero. Percy could hear Hemi and Sturmey discussing the situation on the bridge. Sturmey's voice was aggravated. Hemi was talking in his usual even tone. But couldn't quite make out what they were saying. She climbed back up to the bridge.
+"Captain Percy, this never happened before." Sturmey said as she came through the hatch. "The silt underneath sometimes moves around. This channel has always been deep enough."
 
-"Captain Percy, this never happened before." Sturmey said as she was climbing up through the hatch. "The silt underneath sometimes moves around. This channel has always been deep enough before."
+"For a fucking _loaded_ submarine? Or have you just brought fucking empty transport ships through here before?" Percy was turning red.
 
-"For a fucking _loaded_ submarine Sturmey? Or have you just brought fucking empty transport ships through here before?" Percy was turning red.
+"I'll get you off, do not worry Captain Percy." He leaned over the hatch and cupped one small hand to the side of his mouth. "'Hoy! You at the throttle controls: reverse motor, 2 knots." 
 
-"I'll get you off, do not worry Captain Percy. Bastian below: reverse motor, 2 knots." 
-
-"And then what Sturmey? Fucking back the whole way out to the main channel? It's not like there's room to fucking turn around here."
+"And then what? Fucking back the whole way out to the main channel? It's not like there's room to fucking turn around here."
 
 "If we have to do that, we can." Said Hemi, trying to calm the situation. "But Sturmey pointed out we probably have some water in the main ballast and trim tanks we can blow out. If we can get the boat up even half a meter or so, we might be able to clear the silt bar."
 
-"Fuck." Said Percy as the _Prospect_ slowly reversed, stirring the water behind them and pushing it forward along the hull. It washed outwards and under the nearby huts on either side where people had realized something was wrong and come out to the platforms in front of their homes to watch. One local saw a stuck ship as an opportunity and rowed his dugout canoe full of fish up to the side of the _Prospect_. Hemi sent Cassandra down with a few coins to buy some.
+"Fuck." Said Percy as the _Prospect_ slowly reversed, stirring the water behind them and pushing it forward along the hull. It washed outwards and under the nearby huts on either side where people had realized something was amiss and come out to the platforms in front of their homes to watch. 
 
-Reversing the motors did get them off the bottom. As soon as Bastian reported they had some water under the keel again they carefully forwarded the throttle to try to bring the _Prospect_ to a dead stop, but it was impossible to have that much control over such a large ship in such a tight space. The _Prospect_ very slowly but with a lot of inertia bumped into a cluster of huts, and the whole cluster leaned over against the push from the ship with a sickening crack of the pylons that supported the huts from underneath. People came out and started cursing at gesturing at towards the bridge of the _Prospect_ in a variety of languages. The huts were well built and the pylons held, but the residents and Hemi knew from the sound that deep structural damage had been done. Hemi didn't know what else to do, so he sent Cassandra down with more coins that she distributed among the residents until the cursing had mostly died away.
+One local saw a stuck ship as an opportunity and rowed his dugout canoe full of fish up to the side of the _Prospect_. Hemi sent Cassandra down with a few coins to buy some.
+
+Moving backwards did get them off the bottom. As soon as Bastian reported they had some water under the keel again, they carefully forwarded the throttle to try to bring the _Prospect_ to a dead stop, but it was impossible to have that much control over such a large ship in such a tight space. The _Prospect_ very slowly --- but with a lot of inertia --- bumped into a cluster of huts, and the whole cluster leaned over against the push from the ship with a sickening crack of the pylons that supported the huts from underneath. A surprising number of people poured out of the huts, cursing and gesturing towards the bridge of the _Prospect_ in a variety of languages. The huts were well built and the pylons held, but the residents knew from the sound that deep structural damage had been done. Hemi also knew they had damaged the foundations of the huts, so he sent Cassandra down with more coins that she distributed among the residents until the cursing had mostly died away.
 
 Percy just put her face into her hands, both too embarrassed and angry to look at anyone at that moment.
 
-Sturmey had Owen throw the main ballast blow switches and the high-pressure  air system blew out whatever water was left in the main ballast along with a lot of excess bubbles that burbled up the side of the boat and which the children who were now climbing up the side of the _Prospect_ and running around on the deck found entertaining. Sturmey also had Owen empty every trim tank the boat had, and to turn on all the bilges. Long streams of foul water poured out from the side of the hull of the _Prospect_, in one case smashing squarely against the wall of a hut, and requiring yet another payment from Cassandra to ease the cursing.
+Sturmey had Owen throw the main ballast blow switches and the high-pressure  air system blew out whatever water was left in the main tanks along with a lot of excess bubbles that burbled up the side of the boat to the delight of the children who were now climbing up the side of the _Prospect_ and running around on the deck. Sturmey also had Owen empty every trim tank the boat had, and turn on all the bilges. Long streams of foul water poured out from the side of the hull of the _Prospect_, in one case a cataract that squarely landed against the wall of a hut, and required yet another payment from Cassandra to ease the cursing.
 
-Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Sturmey had them slowly move forward again. Percy went back down to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounded alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot and the gauge showed a clear 4 meters of water under them.
+Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Sturmey had them slowly move forward again. Percy went back down to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounding alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft, sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot and the gauge showed a clear 4 meters of water under them.
 
 
 [//]: # (### They arrive at the dock)
 
-They had to squeeze the _Prospect_ over two more shallow spots before Sturmey finally turned them out into a somewhat larger channel --- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic on the water. Sturmey steamed the _Prospect_ up this channel for another mile or so, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some did not. Some were stacked high with cargo waiting on a ship to be loaded onto, and others were cleared waiting for a ship to come in. The platforms either had one side set with a row of docking pylons, or were connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left free of construction so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. There only a few people about though, since this area was far more heavily populated with cargo than people.
+They had to squeeze the _Prospect_ over two more shallow spots before Sturmey finally turned them out into a somewhat larger channel --- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic on the water. Sturmey steamed the _Prospect_ up this channel for another mile or so, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some were open to the sky. Some were stacked high with cargo waiting for a ship to be loaded onto, and others were cleared waiting for a loaded ship to come in. The platforms either had one side set with a row of docking pylons, or were otherwise connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left as open water so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. There only a few people about though, since this area was far more heavily populated with cargo than people.
 
-Finally Sturmey pointed to a bay off their port side while looking through the binoculars. He turned the _Prospect_ into the bay and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign with a dock number that matched the one on the paper he had shown to Sturmey. As Sturmey and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Owen to meet him on the deck. The three of them brought big docking hawsers up from the cargo hold and secured them to cleats on the deck. Owen made a daring leap from the handholds on the side of the _Prospect_ to the dock over the sloshing water in the closing gap. Hemi and Chips tossed the lines over to him so he could secure them around the docking pylons.
+Finally Sturmey pointed to a bay off their port side while looking through the binoculars. He turned the _Prospect_ into the bay and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign with a dock number that matched the one on the paper he had shown to Sturmey. As Sturmey and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Owen to meet him on the deck. The three of them brought thick docking hawsers up from the cargo hold through the big deck hatch and secured them to cleats on the deck. Owen made a daring leap from the handholds on the side of the _Prospect_ to the dock over the sloshing water in the closing gap. Hemi and Chips tossed the lines over to him so he could secure them around the docking pylons.
 
-The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. About halfway out, the dock widened to accomodate the base of a rusty and flimsy looking crane which was left angled at its pinions in such a way that it looked like a giant crooked finger of a crone cursing the fates before her. Further out from the crane, the dock narrowed even more.
+The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. About halfway out, the dock widened to accommodate the base of a rusty and flimsy looking crane which was left angled at its joints in such a way that it looked like a giant crooked finger of a crone cursing the fates before her. Further out from the crane, the dock narrowed again to just enough space for a single person to walk.
 
 The dock ran into a large and mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through them in many places. At the far end of the platform was a squat little cube of an office, with a few stacks of crates near it, from which the business of the platform and dock was executed.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (### Chips quits)
