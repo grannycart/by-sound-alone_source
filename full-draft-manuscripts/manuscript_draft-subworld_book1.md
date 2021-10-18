@@ -4767,7 +4767,7 @@ Percy was annoyed that she had to leave the junk. Those heavy hawsers were not c
 
 [//]: # (### Shakes rams the Gnat into the sub with the ram --- taste its own medicine, motherfuckers!)
 
-On the _Gnat_, Shakes had thrown the levers to switch the power system from diesel to battery. He stood with his head out of the sail, and backed his boat at a high throttle from the dock, being careful to clear the stern of the _Prospect_ before shifting to forward throttle.  
+On the _Gnat_, Shakes had thrown the levers to switch the power system from diesel to battery so he would not have to waste time starting the diesel engine. He stood with his head out of the sail, and backed his boat at a high throttle from the dock, being careful to clear the stern of the _Prospect_ before shifting to forward throttle.  
 
 The sub with the ram had moved quickly up the channel towards them. Defying the local convention of moving through the channels with no wake, it was cruising at an open-ocean speed, swamping small boats on both sides and sending heavy wake up over the platform and through the lintels of the small huts on either side of the channel. It had clearly spotted the _Prospect_ at dock, and was now moving to the other side of the channel, maneuvering to angle in at its current rate of speed and bear the ram onto the _Prospect_ while the boat was stuck in the turnaround bay.
 
