@@ -5316,6 +5316,9 @@ Percy felt her boat through her feet and knew it was telling her that the weight
 Bastian turned his control chair to face the tank panel squarely, and he locked his eyes on the tank fill gauges.
 
 
+## Chapter 7
+
+
 [//]: # (### They drift away on a current)
 
 Percy lowered herself down to the sonar compartment and stepped up to the navigation table.
@@ -5826,6 +5829,9 @@ By the third hour the fear of being found started to convert into a somewhat saf
 After hours of standing in reeking bilge water, Owen finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the substantial part of the leaking in the cargo hold. She reached over and patted his head, and then wiped her palm on her pants. By now the bow of the _Prospect_ leaned down about 5 degrees into the water. She opened a couple of valves on the trim tank control panel and let water into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was another derelict.
 
 Long hours of this stagnant situation turned into even longer hours. While Captain Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping, the reason so much cargo now crawled across the face of the globe underwater. But the success of using hiding as a technique depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the sub with the ram felt the same way.
+
+
+## Chapter 8
 
 
 [//]: # (### Hemi comes up with a plan)
@@ -6389,6 +6395,9 @@ Hemi picked up the mic from the front of the glowing box, and squeezed the trans
 "Those fuckers are on their way down the hole Hemi, dragged by their black fuck ram first, I hope. Cassandra said she heard the boat split, and the bulkheads failing, and then the two biggest pieces went down."
 
 There was now light coming through the view port around the streams of water coming from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect's_ sail out there in the gloom.
+
+
+## Epilogue
 
 
 [//]: # (### Fishing and grilling)
