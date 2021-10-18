@@ -4584,32 +4584,32 @@ Finally Sturmey pointed to a bay off their port side while looking through the b
 
 The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. About halfway out, the dock widened to accommodate the base of a rusty and flimsy looking crane which was left angled at its joints in such a way that it looked like a giant crooked finger of a crone cursing the fates before her. Further out from the crane, the dock narrowed again to just enough space for a single person to walk.
 
-The dock ran into a large and mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through them in many places. At the far end of the platform was a squat little cube of an office, with a few stacks of crates near it, from which the business of the platform and dock was executed.
-
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+The dock ran into a large and mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through in many places. At the far end of the platform was a squat little cube of an office, with a few stacks of crates near it, from which the business of the platform and dock was executed.
 
 
 [//]: # (### Chips quits)
 
-As soon as the lines were secured Chips hauled two large and frayed black canvas duffels containing all her gear up from the cargo hold catwalk and onto the deck. From there she threw the duffels across to the dock where Owen made sure they landed without falling off into the water on the other side. She left Hemi with an awkward hug on the deck of the _Prospect_, then made the jump across to the dock where she hefted her bags and patted Owen on the back affectionately before walking up the dock towards the platform. Hemi and Owen watched her until she got to the far side of the platform, where it did not take long for her to hail a passing boat that would take her into the center-city shipping labor yards.
+As soon as the lines were secured Chips hauled two large and frayed black canvas duffels containing all her gear up from the cargo hold catwalk and onto the deck. From there she threw the heavy bags across to the dock where Owen made sure they landed without falling off into the water on the other side. She left Hemi with an awkward hug on the deck of the _Prospect_, then made the jump across to the dock where she hefted her bags and patted Owen on the back affectionately before walking up the dock towards the platform. Hemi and Owen watched her until she got to the far side of the platform, where it did not take long for her to hail a passing boat that would take her into the center-city shipping labor yards.
 
 After Chips had disappeared off the far side of the platform, Owen was ready to get to work. "Should we set up the gangway Hemi?"
 
-"Yes. But rather than messing with our own winch, let's ask them if we can use the crane." Said Hemi, pointing to the crane leaning above their heads. Hemi retrieved a clipboard full of papers that he had left on the catwalk, and climbed down the side of the _Prospect_ and jumped over to the dock to join Owen. They made their way up the dock and onto the platform. Nobody had yet come out to greet them. Hemi knocked heavily on the door of the little square building.
+"Yes. But rather than messing with our own winch, let's ask if we can use the crane." Said Hemi, pointing to the crane leaning above their heads. 
+
+Hemi retrieved a clipboard full of papers that he had left on the catwalk, climbed down the side of the _Prospect_, and jumped over to the dock to join Owen. They made their way up the dock and onto the platform. Nobody had yet come out to greet them. Hemi knocked heavily on the door of the little square building.
 
 A few minutes later it was opened by a squat, fat man wearing pince-nez. "Who are you?" He asked Hemi.
 
 "Hemi Howell, Deck Boss on the _Prospect_." Hemi nodded towards the boat. "We have a delivery." Hemi handed the fat man the clipboard.
 
-"Ah. I'm the dock boss here." Said the man as he scanned the top page, lifted it, and ran a bulbous finger down the center of the second page. Unlike most of the residents in Stilt City, the dock boss looked like he had spent most of his working life inside. "Ah, Trinity. We expected you two days ago." He looked disappointed. "Authority trouble?"
+"Ah. I'm the dock boss here." Said the man as he scanned the top page, lifted it, and ran a bulbous finger down the center of the second page. Unlike most of the residents in Stilt City, the dock boss looked like he had spent most of his working life inside. "Ah, Trinity. We expected you two fucking days ago." He looked disappointed. "Authority trouble?"
 
-"An Authority boat took its toll on our speed." Hemi confirmed.
+"An Authority boat took its toll on our progress." Hemi confirmed.
 
-The man let out a small sound of indignation. "Well, you can start unloading if you want to. I'll have my crew come in to help. It'll take them an hour or two to assemble."
+The man let out a small sound of indignation. "Well, you can start unloading if you want to. I'll bring my crew come in to help. It'll take them an hour or two to assemble though."
 
 "Can we use your crane?"
 
-"Sure, if you think you know how to drive it. I'm not responsible if you damage your boat in any way though, got it?"
+"Sure, if you think you know how to drive it. I'm not fucking responsible if you damage your boat in any way though, got it?"
 
 Hemi nodded.
 
@@ -4617,21 +4617,23 @@ Hemi nodded.
 
 "OK... thank you." Said Hemi as he took Owen's arm and turned him back towards the dock.
 
-"And, uh, be careful," continued the dock boss, "If you damage the platform, or say, blow it up, _you_ are responsible, understood?"
+"And, uh, be careful," continued the dock boss, "If you damage the platform, or say, blow it up, _you_ are fucking responsible, understood?"
 
-Hemi waved an acknowledgement but didn't bother turning to look back at the man.
+Hemi waved an acknowledgement but did not bother turning to look back at the man.
 
-Out of earshot, Owen asked quietly, "Are we going to start unloading the _Prospect_ by ourselves Hemi?"  He was thinking about the hundreds of heavy wooden crates in the hold.
+Out of earshot, Owen asked quietly, "Are we going to start unloading the _Prospect_ by ourselves Hemi?"  Imagining the total weight of the hundreds of heavy wooden crates in the hold.
 
-"No. That's their responsibility. They want the cargo, they need to move it. You and I are going to set up the gangway."
+"No. That is their responsibility. They want the cargo, they need to move it. You and I are going to set up the gangway."
 
-Hemi got the engine for the crane started and when it was pouring black diesel smoke at a nice consistent rate out over the water, he lowered the boom, and dropped the hook into the cargo hold of the _Prospect_. Owen, down on the deck of the cargo hold, rigged the gangway to it, and Hemi lifted it up and settled it down on deck. Hemi waited for Owen to appear on deck, and then moved the gangway out over the gap between the boat and the dock, while Owen guided it into place, and then lashed it down.
+Hemi got the engine for the crane started and when it was pouring black diesel smoke at a nice consistent rate out over the water, he lowered the boom, and dropped the hook into the cargo hold of the _Prospect_. Owen, down on the deck in the cargo hold, rigged the gangway to it, and Hemi lifted it up and settled it down on deck. Hemi waited for Owen to appear on deck, and then moved the gangway out over the gap between the boat and the dock, while Owen guided it into place, and then lashed it down.
 
-With the gangway set, Hemi shut down the crane and made his way back aboard the _Prospect_. He found Percy and advised her they should lay low inside the boat until the dock boss' crew got there. So Captain Percy, Hemi, Bastian, Owen and Sturmey rounded up in the galley around a new pot of coffee. Cassandra had gone off to her rack to catch up on sleep.
+With the gangway set, Hemi shut down the crane and made his way back aboard the _Prospect_. He found Percy and advised her they should lay low inside the boat until the dock boss' crew got there. So Captain Percy, Hemi, Bastian, Owen, and Sturmey rounded up in the galley around a new pot of coffee. Cassandra had gone off to her rack to catch up on sleep.
 
-They dranks two and a half pots of coffee as a couple of hours went by, but eventually they could hear feet on the _Prospect's_ deck and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people --- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing --- were already rigging crates onto the hook of the crane and preparing to unload.
+They proceeded to drink two and a half pots of coffee as a couple of hours went by, but eventually there was the sound of feet on the _Prospect's_ deck abover and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people --- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing --- were already rigging crates onto the hook of the crane and preparing to unload.
 
-The dock and platform that had been so quiet and empty was now full of noise and people. The crates were hoisted out of the cargo hold one-by-one, carefully stacked four to a cart. Then a team of dockworkers hauled the heavy carts up to the platform where the team would unload the crates and stack them by hand.
+The dock and platform that had been so quiet and empty was now full of noise and people. The crates were hoisted out of the cargo hold one-by-one, carefully stacked four to a cart. Then a team of dockworkers hauled the creaking carts up to the platform where the team would unload the crates and stack them by hand.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 The dock crew worked steadily at it for a few hours, with Percy and Hemi observing from the bridge of the sail where they could keep an eye on things without getting in the way. Generally there wasn't much to say. Percy was getting sleepy in the warm and still afternoon air.
 
@@ -4695,6 +4697,7 @@ Percy went on to fill Shakes in on running into the sub with the ram on the surf
 "Motherfucker." Said Shakes. "You've all had it rough. I feel like I had the easy part of the job, came through, and now I'm here to collect my due!"
 
 "It looks like the dockworkers have finished unloading." Hemi noticed that small groups of them had begun to clump up in various places around the platform, idly smoking. "Let's go find that dock boss and settle up."
+2k;96k
 
 "You two go on," said Percy, "I'm going to go check the cargo hold and make sure they didn't fuck when they were swinging that heavy hook around down there."
 
