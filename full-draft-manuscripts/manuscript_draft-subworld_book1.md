@@ -4702,8 +4702,6 @@ Percy went on to fill Shakes in on running into the sub with the ram on the surf
 
 "You two go on," said Percy, "I'm going to check my fuckin' cargo hold and make sure they didn't fuck any shit up when they were swinging that iron hook around down there."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 
 [//]: # (### Hemi settles up with the dock boss)
 
@@ -4715,50 +4713,52 @@ Hemi and Shakes found the dock boss with a clipboard counting the crates that ha
 
 "No it clearly is not. I will adjust the payment based on your delivery." He scribbled some figures with his pencil on the clipboard for a minute and showed it to Hemi. "Does that look right?"
 
-Hemi nodded when he saw that the amount agreed with the calculations he had previously done himself in his head, The dock boss emptied a heavy leather sack of coins onto a crate in front of them and counted out and arranged stacks of coins. When he finished counting, with Hemi double checking every stack of coins, Hemi swept all the stacks off the crate with one swipe of his big hand into a canvas bag he pulled from the inside pocket of his tweed jacket. Hemi thanked the dock boss gruffly. As he and Shakes walked back to the _Prospect_ Hemi counted out Shakes second deck-hand share he was owed. They agreed to leave the payment for the modifications for the _Gnat_ for a later time when Shakes could calculate the cost more precisely.
+Hemi nodded when he saw that the amount agreed with the calculations he had previously done himself in his head. The dock boss emptied a heavy leather sack of coins onto a crate in front of them and counted out and arranged stacks of coins. When he finished counting, with Hemi double checking every stack of coins, Hemi swept all the stacks off the crate with one swipe of his big hand into a canvas bag he pulled from the inside pocket of his tweed jacket. Hemi thanked the dock boss gruffly. As he and Shakes walked back to the _Prospect_ Hemi counted out Shakes second deck-hand share he was owed. They agreed to leave the payment for the modifications for the _Gnat_ for a later time when Shakes could figure the cost more precisely.
 
-They had just stepped onto the dock when Shakes shaded his eyes and looked far up the channel that led to the dock. "What's going on up there?"
+They had just stepped onto the dock when Shakes shaded his eyes and looked far up the channel that led to the dock. "What the fuck is going on up there?"
 
 
 [//]: # (### The sub with the ram approaches; the Prospect and the Gnat leave)
 
-A black shadow had formed, pushing itself between the brown line of the water and wooden structures and the gray sky. The shadow rapidly grew and spouted a fin, and then it was like some ancient serpent from the deep, come to menace the shores of human endeavors. A thin stream of exhaust rose from it and climbed up into the still air.
+A black shadow had formed, pushing itself between the brown line of the water and wooden structures and the gray sky. The shadow rapidly grew and spouted a fin, and then it was like some ancient serpent from the deep, come to menace the shores corrupted with human endeavors. A thin stream of exhaust rose from it and climbed up into the still air.
 
-"It's them." Said Hemi.
+"It is them." Said Hemi.
 
 "Are you fucking kidding me?" Shakes exclaimed.
 
 "We have to get the boats off Shakes."
 
-"Right."
+"Fuckin' right we do."
 
-They two of them started running up the dock. With the landing of each of Hemi's heavy steps the length of the rickety dock shook. Shakes jumped from the dock to the deck of the _Gnat_ and had the bow line undone and tossed to the dock in a few seconds.
+They two of them started running up the dock. The length of the rickety dock shook with the landing of each of Hemi's heavy steps. Shakes jumped from the dock to the deck of the _Gnat_ and had the bow line undone and tossed back to the dock in a few seconds.
 
-Hemi was a few steps behind Shakes and was about to turn up the gangway when Shakes called to him. He turned to look at the _Gnat_ and Shakes was leaning over from the _Gnat_ with both hands cupping a bundle of feathers. "Take Herschel."
+Hemi was a few strides behind Shakes and was about to turn up the gangway when Shakes called to him. He turned to look at the _Gnat_ and Shakes was leaning over from the _Gnat_ with both hands cupping a bundle of feathers. "Take Herschel."
 
-Hemi nodded as he accepted the bird into his big hands. He held Herschel in one hand as he ran up the gangway shouting to Percy on the bridge. Percy turned to look up the channel and from her height could easily see the approaching black sub. She could even see the strange oblong shape of the ram mounted to the bow.
+Hemi nodded as he accepted the bird into his big hands. He held Herschel in one hand as he ran up the gangway shouting to Percy on the bridge. Percy turned to look up the channel and from her height could easily see the approaching black sub. She could even see the strange fiercely-angled shape of the ram mounted on the bow.
 
-Hemi leaned over the open cargo hatch as he passed it and saw Owen down on the deck of the cargo hold securing pieces of equipment that the dockworkers had moved while unloading the cargo.
+Hemi leaned over the open cargo hatch as he came up to it on the deck and saw Owen down in the cargo hold securing pieces of equipment that the dockworkers had moved while unloading the cargo.
 
 "Owen!" Hemi called down to him through the hatch. "We have to leave immediately. Come up here and throw the lines, then get the cargo hatch closed." Hemi turned towards the sail but Owen hailed him.
 
-"Hemi! What about the gangway?"
+"Hemi! What about the fucking gangway?"
 
-Hemi looked at the rusted and dented ramp leading from the deck of the _Prospect_ to the dock, then back to Owen. "Just undo the securing lines. We're going to leave it here." 
+Hemi looked at the rusted and dented ramp leading from the deck of the _Prospect_ to the dock, then back to Owen. "Just undo its securing lines. We are going to leave it here." 
 
-Hemi turned back towards the sail, hearing a distant 'fuck' rise up from the depths of the cargo hold. He was up on the bridge of the sail a few seconds later asking Percy to make sure Owen got the deck cleared for leaving dock. A few seconds after that he was on the PA in the control room, calling Sturmey and Bastian up to meet him immediately. They both arrived from the galley a few seconds after that.
+Hemi turned back towards the sail, hearing a distant 'fuck' rise up from the depths of the cargo hold. He was up on the bridge of the sail a few seconds later asking Percy to make sure Owen got the deck cleared for leaving dock. A few seconds after that he was on the PA in the control room, calling Sturmey and Bastian to meet him immediately. They both arrived from the galley shortly after that.
 
-"Our pursuing sub problem has arrived once again Bastian. Get the diesels started, we're leaving. Sturmey: if you can pilot us back to the main channel in a hurry, there will be a significant bonus for you."
+"Our pursuing sub problem has arrived once again Bastian. Get the diesels started, we are leaving. Sturmey: if you can pilot us back to the main channel in a hurry, there will be a significant bonus for you."
 
-"Alright Mr. Hemi." Sturmey climbed the ladder up to the bridge from where his piloting was done.
+"Alright Mr. Hemi." Sturmey climbed the ladder up to the bridge from where his piloting would be carried out.
 
-Bastian didn't ask any questions. He turned to the motor panel and flipped the starters. A moment after that the hiss of the high-pressure air system blew through the ship as it turned the diesels over. The diesels came to life, filling the _Prospect_ with the reassuring and familiar rumble of its core power.
+Bastian did not ask any questions. He turned to the motor panel and flipped the starters. A moment after that came the hiss of the high-pressure air turning the diesels over. The engines came to life, filling the _Prospect_ with the reassuring and familiar rumble of its core power.
 
-Sturmey joined Percy On the bridge. Percy and Owen established through some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Owen a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing line into the water. The gangway scraped with a loud steel-on-steel sound along the deck and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
+Sturmey joined Percy On the bridge. Percy and Owen established via some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Owen a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing lines into the water. The gangway scraped with a loud steel-on-steel sound along the deck and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
 
-The round dock boss and the dockworkers were standing on the platform watching this procedure, a little stupified. When the gangway hit the water the dock boss called out to Percy and Sturmey on the sail. "What are you doing? You can't leave that junk here!"
+The round dock boss and the dockworkers were standing on the platform watching this procedure, a little stupefied. When the gangway hit the water the dock boss called out to Percy and Sturmey on the sail. "What are you doing? You can't leave that fucking junk here!"
 
 Percy was annoyed that she had to leave the junk. Those heavy hawsers were not cheap.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (### Shakes rams the Gnat into the sub with the ram)
