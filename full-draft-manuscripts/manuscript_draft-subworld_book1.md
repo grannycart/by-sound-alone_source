@@ -3393,6 +3393,7 @@ Shakes handed Hemi a small leather case with tiny papers and a steel band. "This
 
 "I expect to, though I'll miss having my copilot with me."
 
+## Chapter 5
 
 [//]: # (### Shakes leads off the sub with the ram )
 
@@ -4397,6 +4398,9 @@ Hemi swung Herschel with both hands and released him at the highest point of the
 "I know you say that because you've grown attached to that little fuckin' bird," said Percy, "but it would be pretty miraculous if it works... and we find Shakes at the dock in Stilt City."
 
 
+## Chapter 6
+
+
 [//]: # (### Daytime running in the fog)
 
 [//]: # (~Midday: day 4, run to Stilt City)
@@ -4761,7 +4765,7 @@ Percy was annoyed that she had to leave the junk. Those heavy hawsers were not c
 [//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
-[//]: # (### Shakes rams the Gnat into the sub with the ram)
+[//]: # (### Shakes rams the Gnat into the sub with the ram --- taste its own medicine, motherfuckers!)
 
 On the _Gnat_, Shakes had thrown the levers to switch the power system from diesel to battery. He stood with his head out of the sail, and backed his boat at a high throttle from the dock, being careful to clear the stern of the _Prospect_ before shifting to forward throttle.  
 
