@@ -4633,73 +4633,76 @@ They proceeded to drink two and a half pots of coffee as a couple of hours went 
 
 The dock and platform that had been so quiet and empty was now full of noise and people. The crates were hoisted out of the cargo hold one-by-one, carefully stacked four to a cart. Then a team of dockworkers hauled the creaking carts up to the platform where the team would unload the crates and stack them by hand.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+The dock crew worked steadily at it for a few hours, with Percy and Hemi observing from the bridge of the sail, where they could keep an eye on things without getting in the way. Generally there was not much to say. Percy was getting sleepy in the warm and still afternoon air.
 
-The dock crew worked steadily at it for a few hours, with Percy and Hemi observing from the bridge of the sail where they could keep an eye on things without getting in the way. Generally there wasn't much to say. Percy was getting sleepy in the warm and still afternoon air.
-
-Then Percy asked, "so Chips is gone Hemi?"
+Then Percy asked, "so Chips is fucking gone Hemi?"
 
 "Yes, gone."
 
-"What are we going to do about that? We really need an engineer."
+"What are we going to do about that? We need a fucking engineer."
 
-"I think we will feel the loss of Chips poignantly." Hemi said with only the tiniest trace of blame in his voice. "We'll have to hire someone qualified eventually. But for the moment, I think Owen will make do. He has spent a lot of time working with Chips since he came on, and has learned very quickly."
+"I think we will feel the loss of Chips poignantly." Hemi said with only the tiniest trace of blame in his voice. "We will have to hire someone qualified eventually. But for the moment, I think Owen will make do. He has spent a lot of time working with Chips since he came on, and has learned very quickly."
 
-"About that... I was thinking maybe we leave him here. If that sub commander wants Owen, and Owen is not on our boat, then they will leave the _Prospect_ alone and stop following us. That's logical, right?"
+"About that... I was thinking maybe we leave him the fuck here. If that sub commander wants Owen, and Owen is not on our boat, then they will leave the _Prospect_ fuckin' alone and stop fuckin' following us. That's fucking logical, right?"
 
-"That only works if there's a way to communicate to the sub commander that Owen is not on board. I don't see how we can do that. At least not without also just giving Owen up to them. Are you willing to do that?"
+Hemi stroked his beard. "That only works if there is a way to communicate to the sub commander that Owen is not on board. I do not see how we can do that. At least not without also just giving Owen up to them. Are you willing to do that?"
 
-"I suppose that is going too far."
+"I suppose that is going a bit too fucking far."
 
 "We also need his engineering skills. My advice is we keep him on."
 
 "Alright. But that almost certainly means we are nowhere near the end of being pursued by that fucking sub."
 
-"I think our next goal is to figure out how to end that pursuit. We will need to resolve that, one way or another, before we get back to routine cargo-hauling work."
+"The next thing we need to do is end that pursuit. We need to resolve that, one way or another, before we can get back to routine cargo-hauling work."
 
 
 [//]: # (### Shakes arrives)
 
-The hold was about three-quarters empty when Hemi and Percy heard the heavy diesels of a large ship moving up the channel. When a horn sounded they turned to find there was no ship coming from the diretion of the engine sound. Hemi lifted his binoculars and scanned his way up the channel until he saw the familiar low outline of the _Gnat's_ sail with a spikey-haired head sticking out of it and a stream of diesel exhaust flowing out from behind it.
+The hold was about three-quarters empty when Hemi and Percy heard the heavy diesels of a large ship moving up the channel. When a horn sounded they turned to find there was no ship coming from the direction of the engine sound. Hemi lifted his binoculars and scanned his way up the channel until he saw the familiar low outline of the _Gnat's_ sail with a spikey-haired head sticking out of it, and a stream of diesel exhaust flowing out from behind.
 
-"Percy," said Hemi, "it is the _Gnat_."
+"Sylvia," said Hemi, "it is the _Gnat_."
 
-"Shakes!" Percy shouted to him and waved her arm in the air.
+"Fuckin' Shakes!" Percy shouted to him and waved her arm in the air.
 
 Shakes waved one arm back at them.
 
 Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat_ in carefully along the opposite side from the _Prospect_. He put the engine in neutral and hopped out of the sail to catch a line tossed to him from Hemi which he secured to the deck cleats.
 
-"How y'all be fucking doing?" He asked them while still standing on the deck of the _Gnat_.
+"How y'all be fuckin' doing?" He asked them while still standing on the deck of the _Gnat_.
 
-"Mission acomplished and unloading, as you can see." Said Percy. "How'd you find us Shakes?"
+"Mission fuckin' accomplished, and unloading; as you can see." Said Percy. "How'd you fucking find us Shakes?"
 
-"Herschel of course! Hang on..." He disappeared into the sail and came back up with a litte gray puff of feathers in his hand. Once he got his arms up above the sail, he tossed Herschel into the air. Herschel flapped and then flew circles around the _Gnat_ excitedly while Shakes leapt over to the dock to rejoin Hemi and Percy.
+"Captain Shakes, if you please. As for finding you: it was fuckin' Herschel of course! Hang on..." He disappeared into the sail and came back up with a little gray puff of feathers in his hand. Once he got his arms up above the sail, he tossed Herschel into the air. Herschel flapped and then flew circles around the _Gnat_ excitedly while Shakes leapt over to the dock to join Hemi and Percy.
 
-"So the bird actually fucking worked?" Percy asked, unable to totally get the skepticism out of her voice.
+"So the bird actually fucking worked?" Percy asked, unable to totally get the skepticism out of her voice as her eyes continued to follow the bird above.
 
-"Herschel was a total fucking champ! Found me cruising out in the middle of fucking endless expanse of blue water. He gave me your message with the dock number. But Herschel was the easy part. The hard part was finding the dock on the way into Stilt City here. Had to stop and ask people probably a dozen times --- and folks around here speak a strange mix of languages I don't fuckin' understand, mostly."
+"Herschel was a total fucking champ! Found me cruising out in the middle of fucking endless expanse of green water. He gave me your message with the dock number... But Herschel was the easy part. The hard part was finding the dock on the way into Stilt City here. Had to stop and ask people probably a dozen fuckin' times --- and folks around here speak a strange fuckin' mix of languages I don't fuckin' understand, mostly."
 
-"It is good to see you." Said Hemi. "And Herschel. What happened after you left us?"
+"It is good to see you Captain Shakes." Said Hemi. "And Herschel. What happened after you left us?"
 
-"Well, there's not much to tell of it, really. I drove the _Gnat_ hard in a sorta random northerly direction, away from the _Prospect's_ location. Did some weaving back and forth and shit, just in case they fired a torp or soemthing, but kept the throttle up the whole time. With the volume of the _Gnat's_ engines, I couldn't really be listening to sonar or anything, so I just kept pinging them every 10 minutes or so to see how far behind me they were."
+"Well, there's not much to fuckin' tell of it, really. I drove the _Gnat_ hard in a sorta random northerly direction --- away from the _Prospect's_ location. Did some weaving back and forth and shit, just in case they fired a torp or something, but kept the fuckin' throttle up the whole time. With the volume of the _Gnat's_ engines, I couldn't really be listening to sonar or anything, so I just kept pinging them every 10 minutes or so to see how far behind me they were."
 
 "Ah," Hemi interrupted, "So the _Gnat_ does have an active sonar system?"
 
-"Of course! I don't cheap out on anything on my boat." Said Shakes, "So: I kept them a few miles off and ran them northwards for three or four hours. But by that time the sea was starting to chop up from the storm. The _Gnat_ was taking green water right up against the sail. I figured we were probably far enough from the _Prospect_, so I went silent and dove the _Gnat_ and disappeared under the waves for the duration of the storm. Lost track of the pursuing sub at that point. How'd you all do in that fucking storm?"
+"Say again? I seem to fuckin' be harder of fuckin' hearing these days."
 
-"Hemi brought the _Prospect_ up to the surface in the ditch of a 10 meter wave, rolled her right over. She was completely on her side for a bit, but eventually came upright again." Said Percy.
+Hemi repeated his question.
 
-Shakes whistled. "Shit, I never saw weather that big. You must have been much more toward the center of the storm."
+"Of course! I don't cheap out on anything on my fuckin' boat." Said Shakes, "So: I kept them a few miles off and ran them northwards for three or four hours. But by that time the sea was starting to chop up from the storm. The _Gnat_ was taking frothy green water right up against the sail. I figured we were probably far enough from the _Prospect_, so I went silent and dove the _Gnat_ and disappeared under the waves for the duration of the storm. Lost track of the pursuing sub at that point. How'd you all do in that fucking storm?"
+
+"Hemi brought the _Prospect_ up to the surface in the ditch of a 10 meter wave, rolled her right the fuck over. She was completely on her side for a bit, but eventually came upright again." Said Percy.
+
+Shakes whistled. "Shit, I never saw weather that fuckin' big on this trip. You must have been much more toward the fuckin' center of the storm."
 
 Percy went on to fill Shakes in on running into the sub with the ram on the surface during the storm, and the loss of Gregory. Hemi also added that Chips had quit the boat.
 
-"Motherfucker." Said Shakes. "You've all had it rough. I feel like I had the easy part of the job, came through, and now I'm here to collect my due!"
+"Motherfucker." Said Shakes. "You've all had it rough. I feel like I had the easy part of the job. Yet here I fuckin' am to collect my due!"
 
 "It looks like the dockworkers have finished unloading." Hemi noticed that small groups of them had begun to clump up in various places around the platform, idly smoking. "Let's go find that dock boss and settle up."
-2k;96k
 
-"You two go on," said Percy, "I'm going to go check the cargo hold and make sure they didn't fuck when they were swinging that heavy hook around down there."
+"You two go on," said Percy, "I'm going to check my fuckin' cargo hold and make sure they didn't fuck any shit up when they were swinging that iron hook around down there."
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (### Hemi settles up with the dock boss)

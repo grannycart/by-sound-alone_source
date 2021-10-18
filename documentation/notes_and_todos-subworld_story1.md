@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sat Oct 16, 2021  05:13PM
+Last modified: Mon Oct 18, 2021  12:11PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -165,11 +165,13 @@ Last modified: Sat Oct 16, 2021  05:13PM
 	* [X] her big eyes; 
 	* [X] operating the sonar with long fingernails
 		* (she grips the sonar handles during the storm with her nails digging into her palms)
-* [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
 
 #### Stilt City:
-* [ ] make sure Shakes learns that Chips left the Prospect
-* [ ] make references to Shakes beginning to go deaf
+* [X] make sure Shakes learns that Chips left the Prospect
+* [X] make references to Shakes beginning to go deaf
+* [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
+	* Could be around like 4700, where they fill Shakes in on what he missed
+	* But it feels like it would be better coming later as part of another convo
 
 #### Not sure where:
 * [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
