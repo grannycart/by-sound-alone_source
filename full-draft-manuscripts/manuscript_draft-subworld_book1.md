@@ -4769,13 +4769,21 @@ Percy was annoyed that she had to leave the junk. Those heavy hawsers were not c
 
 On the _Gnat_, Shakes had thrown the levers to switch the power system from diesel to battery. He stood with his head out of the sail, and backed his boat at a high throttle from the dock, being careful to clear the stern of the _Prospect_ before shifting to forward throttle.  
 
-The sub with the ram had moved quickly up the channel towards them. Defying the local convention of moving through the channels with no way, it was cruising at an open-ocean speed, swamping small boats on both sides and sending heavy wake up over the platform and through the lintels of the small huts on either side of the channel. It had clearly spotted the _Prospect_ at dock, and was now moving to the other side of the channel, maneuvering to angle in at its current rate of speed and bear the ram onto the _Prospect_ while the boat was stuck in the turnaround bay.
+The sub with the ram had moved quickly up the channel towards them. Defying the local convention of moving through the channels with no wake, it was cruising at an open-ocean speed, swamping small boats on both sides and sending heavy wake up over the platform and through the lintels of the small huts on either side of the channel. It had clearly spotted the _Prospect_ at dock, and was now moving to the other side of the channel, maneuvering to angle in at its current rate of speed and bear the ram onto the _Prospect_ while the boat was stuck in the turnaround bay.
 
-With his head above the sail of the _Gnat_ Shakes could see what the monstrous black sub was planning. He lowered himself down to sit in the _Gnat's_ control seat and pulled the sail hatch closed above his head and sealed it. He opened the valves to flood the _Gnat's_ ballast and gave the boat a little more forward throttle. It picked up speed as it dove, the low sail like a shark fin leaving a thin wake just before it sank under the surface of the brown water.
+With his head above the sail of the _Gnat_ Shakes could see what the monstrous black sub was planning. He lowered himself down to sit in the _Gnat's_ control seat and pulled the sail hatch closed above his head and sealed it. He opened the valves to flood the _Gnat's_ ballast.
+
+He started counting to himself. He lit a cigarette, sucked on it for a second, and then resting it between his fingers used the same hand to give the boat some more throttle. The _Gnat_ picked up speed as it dove, the low sail like a shark fin leaving a thin wake just before it sank under the surface of the brown water.
 
 Through the viewport of the sail, Shakes could see nothing but sludgy brown water ahead. He steered the boat on instinct and a subconscious sense of the mathematics involved in the intercept course he planned.
 
-Far faster than he had anticipated a black wall arose before him. With a last-second hope that it was the charging sub with the ram, and not some random dock, he threw the throttle all the way forward and with a last burst of speed smashed the _Gnat_ straight into the black underwater wall.
+Far faster than he had anticipated a black wall arose before him. 
+
+He sucked in a deep breath, and from his diaphragm put all he could into his battle cry: "Ramming speed!" With a last-second hope that he was the charging sub with the ram, and not some random dock, he thrust the throttle lever all the way forward to its stop.
+
+He stuck the cigarette back between his lips. With his lips half closed, he said to himself out loud, "I always wanted to fucking say that."
+
+The electric motor whined loudly and with a last burst of speed the _Gnat_ smashed straight into the black underwater wall.
 
 From the sail of the _Prospect_ Percy had watched the _Gnat_ back behind her boat's stern, and then plow forward and dive. That was the last she saw of the _Gnat_ because the water was so silted and brown. The black sub was just starting to come around to an angle where they could maintain the speed they had gained moving up the channel and drive into the turnaround bay. The ram turned towards the _Prospect_, and just as they had the angle right so the ram would split the rear quarter of the _Prospect_, just as Percy was imagining the crazy one-armed sub commander giving the order to put on a turn of the throttle, the distinctive low crunching sound of an underwater collision came up to her ears, and she watched the bow of the black sub turn unnaturally away from the bay, and back into the channnel. Percy knew immediately what Shakes had done to save them. The black sub carved an awkward path, its forward momentum carrying them up the channel until they collided with a cargo platform, which split in two, a splintering crack widening along the sharp line of the ram. The black sub ground its way to a stop there.
 
