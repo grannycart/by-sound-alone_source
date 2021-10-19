@@ -4841,65 +4841,65 @@ She nodded. "None too fucking soon." She said with another glance behind. Still 
 
 As Sturmey brought the _Prospect_ into the narrow way of the shortcut, they could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the already loud sounds of the _Prospect's_ own engines underneath them. As Sturmey began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub had not come into sight. Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 
-The _Prospect_ moved quickly into the narrow channel between the huts, backtracing the route it had come in by. Sturmey had them moving more quickly, kicking up enough wake as they passed to slosh up against the bottoms of the huts, but just short of driving water into the huts. That didn't prevent residents from coming out and cursing their passing though.
+The _Prospect_ moved into the narrow channel between the huts, backtracing the route it had come in by. Sturmey had them moving faster this time though, kicking up enough wake to slosh up against the bottoms of the huts, but just short of driving water into the huts. That did not prevent residents from coming out and cursing their passing though.
 
-As before, they wound their way through the small homes and huts. Sturmey faced forward and scanned the path in front of them with binoculars. Occasionally he cupped a hand around his mouth and yelled forward loudly in various local languages to try to get a local fisherman or kids rowing tiny coracles to make way for the _Prospect_ to pass. He kept up a never ending stream of instructions to Hemi and Bastian below, making tiny corrections in their course to keep them in the center of the narrow passage.
+As before, they wound their way through the small homes. Sturmey faced the bow and scanned the path in front of them with binoculars. Occasionally he cupped a hand around his mouth and yelled forward loudly in various local languages to try to get a local fisherman or kids rowing tiny coracles to make way for the _Prospect_ to pass. He kept up a never ending stream of instructions to Hemi and Bastian below, making tiny corrections in their course to keep them in the center of the narrow passage.
 
-Percy rode her boat facing backwards, on the lookout for the thing she feared --- the black shadow of the sub with the ram rising up somewhere back there in their wake among the densely-clustered huts. 
+Percy rode her boat facing the stern, on the lookout for the thing she feared --- the black shadow of the sub rising up somewhere back there in their wake among the densely-clustered huts. 
 
-She was just beginning to believe they may have gone for the bait and followed Shakes instead when she heard the loud sound of a thump followed by crunching wood bouncing over the thatched roofs of the huts to her ears. She lifted her binoculars in the direction of the sound. There she saw long boards and splinters of wood shooting up into the air. The path of destruction was moving rapidly towards them.
+It was just as she was beginning to believe the other sub may have gone for the bait and followed Shakes when she heard the loud sound of a thump followed by crunching wood. The strange sound bounced over the thatched roofs of the huts to her ears. She lifted her binoculars in the direction of the sound. There she saw long boards, clumps of thatch, and huge splinters shooting up into the air. A path of monstrous destruction, moving rapidly towards them.
 
 The sub with the ram was on their path, and coming at them at a high speed, with no regard for any structure or home that stood in their way.
 
-"Sturmey, that sub that was after us? They are, um, kinda coming this way." Said Percy. "Is there any way we can move faster through here?"
+"Sturmey, that sub that was after us? They are, um, kinda coming this fucking way." Said Percy. "Is there any way we can move faster through here?"
 
 Sturmey looked behind him and saw the rampaging destruction headed towards them."
 
 "Sorry Captain Percy, I am not destroying my neighbors homes for the sake of your boat."
 
-"You aren't going to ground us again, are you? We're finished if we get stopped."
+"You aren't going to fucking ground us again, are you? We're fucking finished if we get stopped."
 
 "No no. No fucking way! Your boat was loaded before. It is unloaded now --- lots of clearance."
 
 "Unless the tide went out..." Said Percy.
 
-Sturmey did not reply. He returned to shouting directions down to the control room.
+Sturmey did not reply. He resumed shouting directions down to the control room.
 
 
 [//]: # (### The pursuing sub gets stuck)
 
-Captain Percy did not have nearly as much faith as Sturmey that they would clear the bars of shallow muck so easily, even with her boat now unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if a warning light came on.
+Captain Percy did not have nearly as much faith as Sturmey that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if a warning light came on.
 
-It was only moments later that she could see ahead of them them darker brown shade of water with a distintively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sturmey pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down til it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
+It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sturmey pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down til it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
 
 She climbed back up to the bridge with a smile on her face and patted Sturmey on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them, suggested to her that the _Prospect_ might have an opportunity coming.
 
-She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessless up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. Sure enough, it drove into the shallow bar at a clip, the sharp front edge of the ram driving deep enough in that it plowed the muck up from the bottom in a black morraine that rose until it cleared the surface, driving a small tsunami of brown water turbid with black muck forward up the small channel in front of it.
+She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessly up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. And it drove into the shallow bar with no relent in its speed. The sharp front edge of the ram plowed deep enough into the sludgey ground that the muck erupted up from the bottom in a black moraine that rose until it cleared the surface. A small tsunami of brown water turbid with black muck rose and traveled up the small channel in front of it.
 
-Their pursuers were stopped dead in the passage. Through her binoculars Percy imagined she could almost see the shadows of the men directing the boat from the top of the sail thrust forward against the forward edge of the fairing as the momentum suddenly came off the boat. She could see an arm raised in anger and virtriol spilling off the top of the black sub's sail.
+Their pursuers were stopped dead in the passage. Through her binoculars Percy imagined she could almost see the shadows of the men directing the boat from the top of the sail thrust forward against the forward edge of the fairing as the momentum suddenly came off the boat. She could see an arm raised in anger and hear the vitriol spilling off the sub's sail.
 
-As soon as the residents in the surrounding area realized what happened, they attacked the grounded sub, throwing rotting food and scraps of wood and rusted metal at the black monster that had been tearing up their neighborhood so recklessly.  
+As soon as the residents in the surrounding area realized what happened, they attacked the grounded sub, throwing rotting food, scraps of wood, and rusted pieces of oily metal at the black monster that had been tearing up their neighborhood.  
 
-The sub with the ram was shooting jets of bilge water out of the sides, and presumably blowing any remaining water out of their ballast tanks as well. Through the binoculars she could see they were driving forward at full throttle as well, hoping to push through the shallow spot on main power. The screws were kicking up a tremendous frothy wash of white water behind the sub, enough that nearby huts leaned back from the pressure against their stilts. This just angered the residents still more. They began to land on the black sub, beating on the deck with long metal poles and trying to pry up hatches. One local tried to climb the hand holds to the sail. That was when Percy saw the thin shadow of an arm extend and then a flash, followed a moment later by the report of a small-caliber pistol reaching her ears. The body of the climber fell back through the air, hit the curved deck of the sub and slid into the brackish water.
+The sub with the ram began shooting jets of bilge water out of its sides, and presumably blowing any remaining water out of their ballast tanks as well. Captain Percy could see they were also driving forward at full throttle, hoping to push through the shallow spot on main power. The screws were kicking up a tremendous frothy wash of white water behind the sub, enough that nearby huts leaned back from the pressure against their stilts. This just angered the residents still more. They began to land on the black sub, beating on the deck with long metal poles and trying to pry up hatches. One local tried to climb the hand holds to the sail. That was when Percy saw the thin shadow of an arm extend and then a flash, followed a moment later by the report of a small-caliber pistol reaching her ears. The body of the climber fell back through the air, hit the curved deck of the sub and slid into the brackish water.
 
-After that, the men on the sail opened up on the locals and there was shot after shot. Figures fell to the deck amid the mass of locals scrambling to get off the deck and back to their small boats and canoes alongside. 
+After that, the men on the sail opened up on the locals and there was shot after shot. Figures fell to the deck amid the mass of residents scrambling to get off the deck and back to their small boats and canoes alongside. 
 
 
 [//]: # (### Into the main channel; pay off Sturmey)
 
-The _Prospect_ was now gaining crucial ground on their pursuers, quickly finding their way through the winding way. Percy could see the main channel ahead of them now. Further behind now, it did appear that the black sub was making headway against its bottoming. Percy estimated they might push clear in just a few minutes more.
+The _Prospect_ was now gaining crucial ground on their pursuers, quickly finding their path through the winding way. Percy could see the main channel ahead of them. Further behind, it did appear that the sub with the ram was making headway against its bottoming. Percy estimated they might push clear with just a few minutes more.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+
 
 The _Prospect_ turned out into the main channel and Percy took over command. She immediately had Bastian throttle up to the _Prospect's_ full surface speed of 15 knots. 
 
 "Careful Captain Percy." Said Sturmey. "I cannot recommend all this speed in the channel full of big heavy ships and small wobbly boats. If any Authority vessel spots the _Prospect_ they will try to stop you."
 
 "I know it. But those fuckers behind us are certainly not going to take it easy up the channel."
-3k; 100k
 
 "That seems true enough. Here I must leave you then. If an Authority catches me piloting a craft at this speed in the channel, I will no longer be a pilot. Besides, there's 50 meters of water in the channel, you don't need me any more --- as long as you manage not to smash into any other boats."
 
