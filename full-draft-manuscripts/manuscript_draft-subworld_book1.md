@@ -4789,58 +4789,59 @@ He sucked in a deep breath, and from his diaphragm put all he could into his bat
 
 The electric motor whined with a pitch that pierced right to the center of Shakes' head. With a last burst of speed, the bow of the _Gnat_ smashed straight into the looming black underwater wall.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+From the sail of the _Prospect_ Percy had watched the _Gnat_ back behind her boat's stern, and then plow forward and dive. That was the last she saw of the _Gnat_ because the water was so brown and silted. The sub with the ram was just starting to come around to an angle where they could maintain the speed they had gained moving up the channel and still drive into the turnaround bay. The ram turned towards the _Prospect_, and just as they had the angle set so the ram would split the rear quarter of the _Prospect_, just as Percy was imagining the crazy one-armed sub commander giving the order to put on a turn of the throttle, the sickening low crunching sound of an underwater collision came up to her ears, and she watched the bow of the ramming sub divert away from the bay, and back into the channel. As the big submarine came around it took on an unnatural list to one side, its sail hanging clean out over the water. Percy knew immediately what Shakes had done to save them. The sub with the ram carved an awkward path, its forward momentum carrying it up the channel until the ram on the bow collided with a cargo platform, which split in two, a splintering crack widening along the sharp line of the ram. The sub ground its way to a stop there.
 
-From the sail of the _Prospect_ Percy had watched the _Gnat_ back behind her boat's stern, and then plow forward and dive. That was the last she saw of the _Gnat_ because the water was so silted and brown. The black sub was just starting to come around to an angle where they could maintain the speed they had gained moving up the channel and drive into the turnaround bay. The ram turned towards the _Prospect_, and just as they had the angle right so the ram would split the rear quarter of the _Prospect_, just as Percy was imagining the crazy one-armed sub commander giving the order to put on a turn of the throttle, the distinctive low crunching sound of an underwater collision came up to her ears, and she watched the bow of the black sub turn unnaturally away from the bay, and back into the channnel. Percy knew immediately what Shakes had done to save them. The black sub carved an awkward path, its forward momentum carrying them up the channel until they collided with a cargo platform, which split in two, a splintering crack widening along the sharp line of the ram. The black sub ground its way to a stop there.
+"Fuck!" Percy called down to the control room. "Hemi, Shakes just drove the _Gnat_ into our fuckin' pursuers! See if you can get him on ship-to-ship." 
 
-"Fuck!" She called down to the control room. "Hemi, Shakes just drove the _Gnat_ into our pursuers! See if you can get him on ship-to-ship." 
-
-But she didn't have to wait for Hemi's report. The _Gnat_ floated to the surface out in the channel, it's bow heavily dented, but the boat was clearly still afloat. A moment later from the top of the sail came Shake's familiar spikey-haired form waving to the _Prospect_.
+But she did not have to wait for Hemi's report. The _Gnat_ floated to the surface out in the channel, its bow heavily dented, but clearly still afloat. A moment later from the top of the sail came Shakes' familiar spikey-haired form waving to the _Prospect_.
 
 
 [//]: # (### Running back to the main channel in pursuit)
 
-"OK Sturmey." Percy said. "It's all you now my new friend. Can you get us back to the main channel?"
+"OK Sturmey." Percy said. "It's all on you now my new fuckin' friend. Can you get us back to the main channel?"
 
-"Abso-fucking-lutely. You think this is the first pursuit I've done through Stilt City? I have a few tricks up my suit sleeves." Said Sturmey.
+"Yes yes. You think this is the first pursuit I have done through Stilt City? I have a few tricks up my fucking suit sleeves." Said Sturmey.
 
-Calling commands down to the control room, he backed the _Prospect_ into the turnaround bay, and then pushed the boat out into the channel. They got a good view of the sub with the ram as they passed. Black-uniformed crew were running back and forth on the deck with 2 meter pry bars, pushing detritus from the platform off the deck. The channel was too narrow for a ship that size to turn around. They would have to maneuver into the turnaround bay before they could begin to follow the _Prospect_ and the _Gnat_.
+Calling commands down to the control room, he backed the _Prospect_ into the turnaround bay, and then pushed out into the channel. They got a good view of the sub with the ram as they passed. Black-uniformed crew were running back and forth on the deck with 2 meter pry bars, pushing detritus from the platform off the deck. The channel was too narrow for a ship that size to turn around. If they could get unstuck, they would still have to maneuver into the turnaround bay before they could begin to follow the _Prospect_ and the _Gnat_.
 
-Once Sturmey had the _Prospect_ out in the channel, he had them put on as much speed as he thought they could without adding to the swamping of the structures along the channel, and without risking the boat accidentally driving into one of those structures. Behind them Percy could see the sub with the ram was already freeing itself from its stuck position and maneuvering backwards towards the turnaround bay.
+Once Sturmey had the _Prospect_ out in the channel, he had them put on as much speed as he thought they could without adding to the swamping of the structures along the channel, and without risking accidentally driving into one of those structures. Behind them Percy could see the sub with the ram was already freeing itself from its stuck position and maneuvering backwards towards the turnaround bay.
 
-With the _Prospect_ successfully underway, Hemi climbed up to the bridge to consul with Captain Percy.
+With the _Prospect_ successfully underway, Hemi climbed up to the bridge to consult with Captain Percy.
 
-"How the fuck did they find us in Stilt City Hemi?" Percy asked. "The place is a fucking vast labyrinth!"
+"How the fuck did they find us in Stilt City Hemi?" Percy asked. "The place is a fucking labyrinth!"
 
 "Either they have exceptional intelligence in a foreign Authority's port --- which seems unlikely --- or, they followed the dulcet sounds of the _Gnat's_ ridiculously loud engines."
 
-"Fuck. Yeah. They must have picked Shakes up somewhere on his approach to Stilt City, and then just quietly followed him into port and through the city."
+"Fuck. Yeah. They must have picked Shakes up somewhere on his approach to Stilt City, and then just quietly followed him into fucking port and through the city."
 
-"With him constantly stopping to ask directions it must not have been very difficult to do."
+"With Shakes constantly stopping to ask directions, it may not have been very difficult to do."
 
-"Well, maybe we can get them to follow him back out again --- Sturmey, can we take your shortcut back out to the main channel again?"
+"Well, maybe we can get them to follow him the fuck back out --- Sturmey, can we take your shortcut back out to the main channel again?"
 
 "That is maybe not such a good idea. Faster overall, but the boat has to go much slower through there." Said Sturmey.
 
-"I'm willing to go slower if we can lose our pursuers though." Said Percy. "Hemi, let's ask Shakes to start the diesel on the _Gnat_ and we'll leave him to go back up the channel he came in from. We'll turn into the shortcut, and with some luck, maybe the sub with the ram will follow him again."
+"I'm willing to go slower if we can lose our fucking pursuers though." Said Percy. "Hemi, let's ask Shakes to start the diesel on the _Gnat_, and we'll leave him to go back up the bigger channel he came in from. We'll turn into the shortcut, and with some luck, maybe the sub with the ram will follow his loud ass instead of us." In one way it felt like a lot to ask of Shakes, who had just risked his boat for them. But one of Percy's principles of leadership was that if someone shows initiative, give them more responsibility.
 
 "Alright," Hemi said, "I will raise him on the ship-to-ship and let him know the plan."
 
 "There's too much of a risk that those fuckwads will overhear it if you use ship-to-ship. You should probably just flag Shakes down and shout across to him."
+[//]: # (Remember, the Gnat is still running on the electric motor.)
 
-"Alright." Said Hemi again, and climbed over the fairing of the sail and down to the deck. Percy watched him shout for Shakes' attention and when Shakes heard him he pulled the _Gnat_ alongside the _Prospect_ and he and Hemi ironed out the details of the plan by shouting over the gap between the two boats. When he was done Hemi climbed up to the sail and back down into the control room.
+"Alright." Said Hemi again, and climbed over the fairing of the sail and down to the deck. Percy watched him shout for Shakes' attention and when Shakes heard him he pulled the _Gnat_ alongside the _Prospect_ and he and Hemi ironed out the details of the plan by yelling across the gap between the two boats. When he was done Hemi climbed up to the sail and back down into the control room.
 
-"How much further do we have to go to the shortcut Sturmey?" asked Percy.
+"How much further do we have to go to the shortcut?" Percy asked Sturmey.
 
-"Just another quarter mile or so. We have to slow the boat down even before we get there --- it is easy to miss a small lane like that, and no turnaround." 
+"Just another quarter mile or so. We have to slow the boat down even before we get there --- it is easy to miss a small fucking lane like that, and also no turnaround." 
 
 "OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the windings of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The sub with the ram might be right behind them but she had no way of knowing.
 
-A few minutes later Sturmey called down to _Bastian_ to slow the _Prospect_ to 5 knots. Sturmey scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
+A few minutes later Sturmey called down to Bastian to slow the _Prospect_ to 5 knots. Sturmey scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
 
-She nodded. "None too fucking soon." She said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood.
+She nodded. "None too fucking soon." She said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
-As Sturmey brought the _Prospect_ into the narrow way of the shortcut, they could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the noise of the _Prospect's_ own engines underneath them. As Sturmey began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub hadn't come into sight. Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
+As Sturmey brought the _Prospect_ into the narrow way of the shortcut, they could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the already loud sounds of the _Prospect's_ own engines underneath them. As Sturmey began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub had not come into sight. Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
