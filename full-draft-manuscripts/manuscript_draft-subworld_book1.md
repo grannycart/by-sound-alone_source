@@ -822,6 +822,8 @@ Captain Percy stayed on the periscope, slowly tracking across the bearing. Still
 
 Percy reached over her head and flipped on the ship-to-ship radio. It wasn't really a radio, it was just acted like one. It used the sonar rig to push sound through the water to talk to other ships nearby. 500 meters was just about the limit of its range. Real radio transmissions were supposed to follow a set of protocols and rules, potentially enforced by agents of Authorities in their respective territories. Ship-to-ship had no rules other than an informal argot that had developed partially to obfuscate meaning for any other ship that might be listening, and partially just evolved from nautical cultural habit.
 
+[//]: # (Is the ship-to-ship radio actually a 1970s trucker CB? You fucking know it.)
+
 Captain Percy took down the mic from the radio and brought it to her lips. She pushed the transmit button, and the needles on the radio unit's gauges jumped to show how much power she was transmitting with. She whistled a series of five tones into the mic, and let go of the transmit button. The power needles died back to zero, and there was silence for a minute or two. 
 
 Then she repeated the transmission of the tones. Another minute passed.
@@ -2199,6 +2201,8 @@ Percy nodded. "Something like that has always been my strategy too. But for this
 She paused for a second, considering how to best present this idea she had to Shakes.
 
 "But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And the partner's job was to be _un_stealthy. To run as a decoy around and above the _Prospect_. Draw the curious eye, or ear, away, so to speak. And they would be fuckin' clean of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
+
+[//]: # (Is this the plot to Smokey and the Bandit? You fucking know it!)
 
 "Interesting. You want to buy some kind of surface transport or speed boat then?"
 
@@ -5607,6 +5611,8 @@ Percy looked away from the periscope viewfinder at Hemi, who was holding the shi
 
 "Like a fucking ship graveyard." Said Bastian.
 
+[//]: # (Is the garbage gyre the Zone from Stalker? Abso-fucking-lutely! But is not everything the Zone?)
+
 "A walk among those lost souls might be an opportunity for a pair of boats that don't want to be found." Said Percy. "Hemi, see if you can work out a way with Shakes that we might traverse this graveyard safely."
 
 Hemi and Shakes chatted for a few minutes over the ship-to-ship. They decided that if they kept the speed of the boats low, they should be able to navigate through the sea of derelicts. 
@@ -6422,6 +6428,8 @@ All those whistling splits in the _Gnat's_ hull were the reason they could not s
 Shakes spent quite a while on the _Prospect's_ deck that morning, going over the damage to his boat. It was beginning to look like the _Gnat_ might end up being more weld than plate --- if it even could be repaired. Even now, as the _Prospect_ rolled on a larger swell, water from the bilge would come streaming out of the _Gnat_ in long greasy lines where the hull was split. It was enough to bring tears to Shake's eyes.
 
 Hemi was far less upset about the damage to the _Gnat_, and instead found himself unusually jubilant. He had been through close calls before, but never before had he given up and been ready to die. He was glad to be out of the _Gnat_. And he was glad to be outside on the deck of the _Prospect_. Since they couldn't submerge without doing further damage to the _Gnat_ and they were going to be running on the surface through all the lovely daylight hours of this day, he decided some grilling was in order. He opened up the hatch to the cargo hold, and winched up the soot-covered black grill that had been made by cutting a steel drum in half and then welding legs on and hinges to make the top a lid.
+
+[//]: # (Maybe they haul a platform with a hanging swim ladder -- imply swimming for a future story -- up from the cargo hold, and have them mount it so they can stand over the water to fish, instead of dealing with the curve side of the hull.)
 
 Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some very old and damp wood he found stashed in the cargo hold. Fortunately the breeze kept the fire hot enough that the dampness was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
