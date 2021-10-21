@@ -5079,6 +5079,7 @@ A few minutes later Cassandra and Percy's entrance to the sonar compartment was 
 "I can not quite tell if they are explicitly seeking us, but unquestionably they are back in our vicinity." Said Hemi, pointing to the steady rise of the signal strength indicator. "Also, from the last few minutes of listening, I would estimate that they are headed generally in our direction."
 
 "Fuckng!" Percy kicked the panel under the sonar unit. She climbed up to the control room. A second later the _Prospect_ listed slightly to starboard. "New course Hemi!" Percy yelled down to him. "I'm making it...  27.5 degrees."
+2k; 104k
 
 In the sonar compartment, Hemi stood and moved to the navigation table without removing the sonar headset. He made some marks on the chart with the grease pencil to make sure he wouldn't lose track of their position.
 
