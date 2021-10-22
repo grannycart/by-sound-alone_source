@@ -29,6 +29,8 @@ The petcock was a super-simple mechanical device premised on the idea that the s
 
 [//]: # (Maybe it's worth pointing out that the technology that drove old submarines is essentially the same that drives out newest hybrid cars. It's not the technology itself that is disappointing --- it will be hard to regret a shift away from fossil-fuel burning machines --- but the disassociation from mechanical things, and the rise of intelligent machines that don't require a human operator at the mechanical level.)
 
+[//]: # (Or maybe you should use this space to tie it to how exciting staring at dials can be --- maybe even reference China Syndrome. Actually, that seems pretty strong --- use that as an argument for why mechanical-based stories are compelling?)
+
 There was a generation that lived through a time up to, through, and a little beyond the great world wars. Like us, technology changed their world. They lived every day of their lives with complex new industrial technologies. But the technology of that time was different than ours. It was rooted in mechanical and electrical things. In their time, anyone who wanted to understand how a piece of amazing new technology worked could simply take it apart. Most things had an intuitive structure. Mechanical solutions based on logical processes. This is not the same as being _simple_. Many things from that era were in fact far more complex than ours today. But learning how something worked --- and how to repair it --- only required a willingness to disassemble (and then a whole lot of experience doing it). If you take apart today's technology, all you will find is tiny components that cannot be repaired, only replaced.
 
 But because of its mechanical underpinnings, the technology of that first half of the 20th Century also just _behaved_ more rationally. Even for those who did not understand the fundamentals of how it worked, would learn through use how their machine would behave. When something unexpected happened, it meant something was going wrong, not that randomness in the system was manifesting itself. People could depend on their technology to behave intuitively when they used it. Unlike our modern digital-based technology, where even experts are often shocked by how it behaves and at a loss to explain why.
@@ -5074,45 +5076,43 @@ Hemi turned and lifted the spare headset the long distance up to his head. He he
 
 A few minutes later Cassandra and Percy's entrance to the sonar compartment was preceded by a string of oaths Percy was sending out ahead of her as she made her way through her boat.
 
-"Fuck me Hemi," Percy said, squinting her sleepy eyes against the bright white daytime lighting of the sonar compartment. "Is it really that same ugly fuckin' sub full of those ugly fuckers --- after us again? I just don't fucking believe it."
+"Fuck me Hemi," Percy said, squinting her sleepy eyes against the bright white daytime lighting of the sonar compartment. "Is it really that same ugly fuckin' sub full of those fuckers who apparently have no fuckin' purpose to their lives --- after us again? I just don't fucking believe it."
 
-"I can not quite tell if they are explicitly seeking us, but unquestionably they are back in our vicinity." Said Hemi, pointing to the steadily hovering signal strength indicator. "Also, from the last few minutes of listening, I would estimate that they are headed generally in our direction."
+"I can not quite tell if they are explicitly seeking us at the moment, but unquestionably they are back in our vicinity." Said Hemi, pointing to the steadily hovering signal strength indicator. "And, from the last few minutes of listening, I would estimate that they are generally making headway in our direction."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+"Fucking fuck!" Percy kicked the panel under the sonar unit. She climbed up to the control room. A second later the _Prospect_ listed slightly to starboard. "New fuckin' course Hemi!" Percy yelled down to him. "I'm making it...  27.5 degrees."
 
-"Fucking fuck!" Percy kicked the panel under the sonar unit. She climbed up to the control room. A second later the _Prospect_ listed slightly to starboard. "New course Hemi!" Percy yelled down to him. "I'm making it...  27.5 degrees."
+In the sonar compartment, Hemi stood and moved to the navigation table without removing the sonar headset. He made some marks on the chart with the grease pencil to make sure he would not lose track of their position.
 
-In the sonar compartment, Hemi stood and moved to the navigation table without removing the sonar headset. He made some marks on the chart with the grease pencil to make sure he wouldn't lose track of their position.
-
-For the next hour Hemi and Cassandra sat at the sonar tracking the contact following them. Despite their course change, it steadily gained on them. Captain Percy spent most of the hour standing directly behind Hemi and Cassandra at the sonar station, dreading the updates coming from Hemi. By the end of the hour, Hemi reported to Percy that the contact was virtually on top of them in terms of open sea space: within half a nautical mile, still running on the surface, though the contact had slowed to match the _Prospect's_ 5 knot speed. This last fact was the thing that finally made it absolutely clear to Hemi that the sub with the ram had found them again.
+For the next hour Hemi and Cassandra sat at the sonar tracking the contact following them. Despite their course change, the contact steadily gained on them. Captain Percy spent most of the hour standing directly behind Hemi and Cassandra at the sonar station, dreading the updates coming from Hemi. By the end of the hour, Hemi reported to Percy that the contact was virtually on top of them in terms of open sea space: within half a nautical mile. The contact was still running on the surface, thought slower, matching the _Prospect's_ 5 knot speed. This last fact was the thing that finally made it absolutely clear to Hemi that the sub with the ram had found them again.
 
 "Fucking fuck Hemi! How could they have fucking found us again? That's beyond dumb fucking luck. That's just strategically fucking unfair is what that is."
 
 Hemi considered for a moment. "It does seem to defy probability."
 
-"If it is them --- and I believe you that it is --- then why aren't they fucking pinging us again? Hell, why haven't they fucking shot us down?" Percy asked.
+"If it is them --- and, honestly, who else could it even fucking be --- then why aren't they fucking pinging us again? Hell, why haven't they fucking shot us down?" Percy asked.
 
-"It is likely they are not pinging because they learned their lesson from the attention it brought them from the Stilt City Authorities last time they were actively pinging. As for shooting..." Hemi tapped his pencil against the rusting metal of the sonar console. "We know the contact we are listening to is the sub with the ram. But they might not know they have us. One can see through the water here clear to the bottom. An airplane flying over could easily have spotted our shadow at this depth, and there are a number of Authorities that might have air patrols through here. I suppose if the sub with the ram had received or intercepted a report from one of those aircraft, they would have a strong suspicion that it might be us." He paused, thinking some more. "Now they are close enough they might be tracking us visually just from their lookout on their sail --- but they might not have a way to know for sure what boat they are following. And if they sink a Stilt City boat, the Stilt City Authorities will come down on them with a vengeance."
+"It is likely they are not pinging because they learned their lesson from the attention it brought them from the Stilt City Authorities last time they were actively pinging. As for shooting..." Hemi tapped his pencil against the rusting metal of the sonar console. "We know the contact we are listening to is the sub with the ram. But they might not know they have us. One can see through the water here clear to the bottom. An airplane flying over could easily have spotted our shadow at this depth, and there are a number of Authorities that might have air patrols through here. This is just a guess, but I suppose if the sub with the ram had received or intercepted a report from one of those aircraft, they would have a strong suspicion that it might be us." He paused, thinking some more. "Now they are close enough they might be tracking us visually just from their lookout on their sail --- but they might not have a way to know for sure what boat they are following. And if they sink a Stilt City boat, the Stilt City Authorities will come down on them with a vengeance."
 
 "Fuck me again! You think they can literally _see_ us?" Percy cursed and spat. "We have to get off the shelf and go deep."
 
-"The water is _exceptionally_ clear in this part of the ocean. It does seem like our only course is to get over the edge of the shelf." Said Hemi. "And let us hope they do not change their mind and choose to simply fire a torpedo at this range. They could not miss from where they are now. One of our defenses is that they are probably not sure which boat they are following."
+"The water is _exceptionally_ clear in this part of the ocean. It does seem like our only course is to get over the edge of the shelf." Said Hemi. "And let us hope they do not change their mind and choose to simply fire a torpedo at this range. They could not miss from where they are now. Our only defense may be that they are not sure which boat they are following."
 
 "Couldn't they just listen to the sonar and identify us by our sound, like you do when you listen to them Hemi?" Cassandra asked.
 
 "That ram they have makes the sound of their boat extremely unique. There are many submarines that are very similar to the _Prospect_, and they all more or less sound the same."
 
-"The blessing of being indistinguishably average." Said Percy. "Hemi, what if we try to outrun them? The _Prospect_ is fast underwater, we might be able to get off the shelf in under an hour."
+"The blessing of being indistinguishably fucking average." Said Percy. "What if we try to outrun them? The _Prospect_ is fast underwater, we might be able to get off the shelf in under an hour."
 
-Hemi stood up from the sonar station and stepped to the navigation table with Percy. He used the calipers to measure from their current position to the end of the continental shelf. "The batteries still are still mostly charged. If we run at full speed --- 17 knots in an hour --- we could clear the shelf in a matter of half an hour or so. We will have about a 1/3 charge left at that point. Not much reserve if we need to manuever for any length of time."
+Hemi stood up from the sonar station and stepped to the navigation table with Percy. He used the calipers to measure from their current position to the end of the continental shelf. "The batteries still are still mostly charged. If we run at full speed --- 17 knots in an hour --- we could clear the shelf in a matter of half an hour or so. We will have about a 1/3 charge left at that point. Not much reserve if we need to maneuver for any length of time."
 
-"If we're deep enough that they can't fire a torpedo at us, I'll feel much the fuck safer though. I think it's worth the tradeoff." Said Percy. 
+"If we're deep enough that they can't fire a torpedo at us, I'll feel much fuckin' safer though. I think it's worth the trade-off." Said Percy. 
 
 "I would also remind you that running along the bottom at that speed is risky --- if we hit anything, it will undoubtedly cripple the _Prospect_ permanently." Hemi warned.
 
-"Oh I fucking know. Get everyone up here, we're going to need to be fully staffed up for this." Percy said as she was climbing up the ladder to the control room.
+"Oh, I fucking know. Get everyone up here, we're going to need to be fully staffed up for this." Percy said as she was climbing up the ladder to the control room.
 
-Hemi stepped over to the ship PA and called Owen up to the control room, since he was the only crew not already there. Then he turned to Cassandra, and she looked up at him from the sonar seat with her big eyes. "You're on sonar Cassandra. It is up to you to tell us what they do."
+Hemi stepped over to the ship PA and called Owen up to the control room, since he was the only crew not already there. Then he turned to Cassandra, and she looked up at him from the sonar seat with her big eyes. "You are on sonar Cassandra. It is up to you to tell us what they do."
 
 "Not a problem, Hemi." She said, almost smiling through the fear that was creeping over her face.
 
@@ -5121,9 +5121,9 @@ Hemi followed Percy up to the control room.
 
 [//]: # (### High speed to the shelf)
 
-Bastian had been sitting in the dive plane control seat while on wheel watch. Hemi had Owen take over the rudder station and he stood directly behind them with one hand on each of their shoulders. Percy stood at the Captain's station in the left rear portion of the small control room. From there she could see almost every gauge, dial, and setting of her boat.
+Bastian had been sitting in the dive plane control seat while on wheel watch. Hemi had Owen take over the rudder station and he stood directly behind them with one hand on each of their shoulders. Percy stood at the captain's station in the left rear portion of the small control room. From there she could see almost every gauge, dial, and setting of her boat.
 
-She had Owen throw the throttle all the way forward, and the boat rapidly accelerated until it reached its maximum underwater speed of 17 knots. At this speed the batteries were drained so fast she could almost see the needles on the battery charge gauges moving towards their zero pins. At this speed the boat also made much more noise. Even an electric motors could not be silent with the effort of pushing a huge piece of steel through dense water at high speed. And the water itself created enough noise as it rushed along the hull to be heard over sonar from any near distance.
+She had Owen throw the throttle all the way forward, and the _Prospect_ rapidly accelerated until it reached its maximum underwater speed of 17 knots. At this speed the batteries were drained so fast she could see the needles on the battery charge gauges moving towards their zero pins. At this speed the boat also made much more noise. Even electric motors could not be silent with the effort of pushing a huge piece of steel through dense water at high speed. And the water itself created enough noise as it rushed along the hull to be heard over sonar from any near distance.
 
 "What are they doing now Cassandra?" Percy called down.
 
@@ -5133,17 +5133,17 @@ She had Owen throw the throttle all the way forward, and the boat rapidly accele
 
 "Give her a minute Percy. She will find them."
 
-A few minutes of absolute silence passed. Then Cassandra called up. "Oh! I've got them --- sounds like they submerged. They are running on electric motors.... pretty loudly compared to other boats I've heard underwater. I guess that means fast, right Hemi?"
+A few tense minutes with no one speaking. Then Cassandra called up. "Oh! I've got them --- sounds like they submerged. They are running on electric motors.... pretty loudly compared to other boats I've heard underwater. I guess that means fast, right Hemi?"
 
 "That is correct Cassandra." Hemi turned to look at Percy. "They are following submerged, trying to match our speed."
 
-"OK." Said Percy. "Two boats going in the same direction are _always_ in a race anyway... so let's race."
+"OK." Said Percy. "Two boats going in the same direction are _always_ in a race anyway... so let's fucking race."
 
 The _Prospect_ hummed with life under their feet. Something about the electric motors putting out all they could without the ungainly and all-encompassing sound of the diesels running at the same time made the _Prospect_ feel more alive, like a giant sea mammal enjoying the exhilaration and pure rush of being free to move at top speed through the water. The _Prospect_ was rarely unleashed like this.
 
 Hemi kept a very close eye on Bastian's dive plane angle and the depth-under-keel gauge. Constant attention was required at this speed along with tiny adjustments to keep the boat from plowing into the bottom, or shooting up to the surface. Hemi trimmed the tanks so the _Prospect_ was just slightly heavier in the bow, that way Bastian could adjust the dive planes to err on the side of the boat moving towards the surface --- definitely the lesser of the two evil mistakes Bastian could make.
 
-Captain Percy was also diligently watching the depth-under-keel gauge. She never looked away. It was, for the moment, the only gauge that mattered. With Hemi and Bastian's careful depth control, it hovered stubbornly at 2 meters. 2 measly meters between them and the bottom, and nowhere else she could put her boat.
+Captain Percy was also diligently watching the depth-under-keel gauge. She never looked away. It was, for the moment, the only gauge that mattered. With Hemi and Bastian's careful depth control, it hovered stubbornly at 2 meters. 2 measly meters between them and the bottom --- Hemi could not even stand in the space between the bottom and her keel.
 
 "Cassandra!" Percy called down. "How are they doing?"
 
@@ -5155,13 +5155,13 @@ Hemi had a tip for her. "Cassandra, use the grease pencil to mark the location o
 
 Ten minutes later she got the control room's attention again. "Captain Percy, they are definitely gaining on us, but very slowly."
 
-"Fuck." Percy said to Hemi. "They must be running at their maximum underwater speed as well, and it sounds like it's a fuckin' hair faster than ours. How far to the end of the shelf Hemi?"
+"Fuck." Percy said to Hemi. "They must be running at their maximum underwater speed as well, and it sounds like it's a fuckin' hair faster than ours --- un-fuckin'-believable with that ram on the front. How far to the end of the shelf Hemi?"
 
 Hemi shrugged. "10, 20 minutes maybe?"
 
-Percy took her pack of cigarillos from the wall and put one to her lips and lit it. She smoked it rapidly from the hand that held it. She put her other hand up and tightly wrapped it in the hanging leather strap. She never looked away from the depth-under-keel gauge, willing it to climb.
+Percy took her pack of cigarillos from the wall and put one to her lips and lit it. She smoked it rapidly, repeatedly raising and lowering the hand that held it. She put her other hand up and tightly wrapped it in the hanging leather strap. She never looked away from the depth-under-keel gauge --- willing it to climb.
 
-Bastian took one hand off the shining stainless steel dive plane control wheel at a time and wiped the moisture of his palms on his pants. Hemi patted his shoulder with a heavy hand.
+Bastian took one hand off the stainless dive plane control wheel at a time and wiped the moisture of his palms on his pants. Hemi patted his shoulder with a heavy hand.
 
 Suddenly the ship-to-ship radio lit up. "To unidentified submarine running north-north-east at 27.5 degrees. You are herby notified that you are required to stop your boat and surface for inspection." This announcement was followed by the string of generalized Authority rights and treaties they were familiar with from previous encounters with the sub with the ram.
 
@@ -5169,13 +5169,15 @@ Suddenly the ship-to-ship radio lit up. "To unidentified submarine running north
 
 The ship-to-ship radio continued to blare over Percy's head, the light of its dial quavering with the power of the voice coming over it. "This is your only notice. If you do not stop your forward movement immediately, you will be fired on."
 
-"They must _just_ be within ship-to-ship range." Percy thought aloud. "We could reasonably claim we haven't heard them. After all, they may have been broadcasting that for the last half hour and we just heard it now."
+"They must _just_ be within ship-to-ship range." Percy thought aloud. "We could reasonably claim we haven't fucking heard them. After all, they may have been broadcasting that for the last half hour and we just heard it now."
 
-"A risky gambit with this hair-trigger sub commander Syl." Said Hemi.
+"A risky gambit with this hair-trigger sub commander." Said Hemi.
 
 Percy lifted a stopwatch that hung on the wall next to her and pressed the button to start it. The soft clicking filled the quiet control room.
 
 5 minutes precisely had passed when the ship-to-ship lit up again, repeating the same message as before. At the same moment, the depth-under-keel gauge rapidly began to climb. By the time the overly long announcement from the sub with the ram had been read, the _Prospect_ had passed off the end of the continental shelf and the depth-under-keel gauge had tapped its 'bottomless' pin.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 
 [//]: # (### Over the end of the shelf, dive below 200m)
