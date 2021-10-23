@@ -5177,31 +5177,31 @@ Percy lifted a stopwatch that hung on the wall next to her and pressed the butto
 
 5 minutes precisely had passed when the ship-to-ship lit up again, repeating the same message as before. At the same moment, the depth-under-keel gauge rapidly began to climb. By the time the overly long announcement from the sub with the ram had been read, the _Prospect_ had passed off the end of the continental shelf and the depth-under-keel gauge had tapped its 'bottomless' pin.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 
 [//]: # (### Over the end of the shelf, dive below 200m)
 
 Percy grinned, and took the mic down from the ship-to-ship radio over her head. She squeezed the transmit button. "To pursuing Authority boat, sub running north-north-west acknowledging. Stopping motor and surfacing." As soon as she released the transmit button, Percy punched the dive alarm next to her. As the klaxon wound up she gave Hemi his order. "Dive Hemi! Drive us down!" She flipped the light switch to turn on the red glow of the night lighting.
 
-Bastian didn't even wait for Hemi to tap his shoulder. He turned the dive plane to a full descent angle. Hemi stepped to the tank trim board and started trimming the boat's weight forward. He hung one hand through the strap above his head and leaned against the angle of the boat. 
+Bastian did not even wait for Hemi to tap his shoulder. He turned the dive plane to a full descent angle. Hemi stepped to the tank trim board and started trimming the boat's weight forward with one hand. His other hand hung through the strap above his head, and he leaned against the angle of the boat. 
 
 "Open the main ballast valves Hemi, til we're under 200 meters." The great gaping maw of the deep sea had opened up beneath them, and Percy was going to drive her boat right down its throat.
 
-Hemi nodded, and flipped up the big black switches that opened the main ballast valves with his one free hand. Air rushed out of the tanks in long streams of bubbles above them. Percy knew the sub with the ram would be able to hear this and know they were diving. But the _Prospect_ was going down so fast, driven by weight, angle, and speed, that it was only a matter of minutes before the depth gauge floated upwards past the 200 meter mark.
+Hemi nodded, and flipped up the big black switches that opened the main ballast valves with his free hand. Air rushed out of the tanks in long streams of bubbles above them. Percy knew the sub with the ram would be able to hear this and know the _Prospect_ was diving. But the _Prospect_ was going down so fast, driven by weight, angle, and speed, that it was only a matter of minutes before the depth gauge was approaching the 200 meter mark.
 
-Hemi was watching the depth gauge carefully and as it passed 200 meters he shut the main ballast valves, which closed with an electrically-activated clunk that they could hear resonating through the hull in front of the control room.
+A light lit on the tank trim panel indicating the main ballast had released all the air it had contained a few moments before. Hemi shut the main ballast valves, which closed with an electrically-activated clunk that they could hear resonating through the hull in front of the control room.
 
-The _Prospect_ let out a long groan, rising slowly in pitch, as the hull adjusted to the rapidly applied weight of water.
+Hemi watched the depth gauge carefully. It passed 200 meters.
+
+The _Prospect_ let out a long groan, rising slowly in pitch, as the hull adjusted to the weight of water that had been so rapidly dropped upon it.
 
 
 [//]: # (### The sub with the ram attempts to ram them at depth)
 
 "Level us off." Percy said. "Bring us to 5 knots."
 
-Hemi had Bastian level the dive planes and Owen reverse the prop for a moment to take the speed off. They were all thrust gently forward by the reverse acceleration, and the angle of the deck came slowly up until it was level again. 
+Hemi had Bastian level the dive planes and Owen reverse the prop for a moment to take the speed off. Hemi opened valves that allowed compressed air to start creating a new void in the main ballast to replace the one they had so recently released to the atmosphere above. They were all thrust gently forward by the reverse acceleration, and the angle of the deck came slowly up until it was even under their feet again. 
 
-"Level at 210 meters Percy." Said Hemi, scanning across the gauges. "5 knots of headway."
+"Level at 210 meters Percy." Said Hemi, scanning across the gauges. "5 knots of headway. I am working on trimming the buoyancy."
 
 Dead silence passed through the boat.
 
@@ -5215,9 +5215,9 @@ Dead silence passed through the boat.
 
 "I guess they learned to not waste their torpedos." Percy said to Hemi.
 
-"Sylvia, you should consider the possibility that this sub commander may intend to ram us at depth." Said Hemi. "He knows he can't get us this deep with a torpedo, and he knows he lost us last time we dove. He might not be willing to let that happen a second time."
+"Sylvia, you should consider the possibility that this sub commander may intend to ram us at depth." Said Hemi. "He knows he cannot get us this deep with a torpedo, and he knows he lost us last time we dove. He might not be willing to let that happen a second time."
 
-"It's a fucking good point Hemi. How do we know if that's his move?"
+"That's a terrifying fucking point Hemi. How will we know if that's his move?"
 
 "If they match our depth and do not reduce speed, I would say that it is very likely."
 
@@ -5225,7 +5225,7 @@ Dead silence passed through the boat.
 
 "As close as they are now, I should be able to estimate it by the soundscape with their motor noise reflecting back to us off the surface."
 
-"Well get the fuck down there then, and tell me what you think they are going to do." Said Percy.
+"Well get the fuck down to sonar then, and tell me what you fucking think they are going to do." Said Percy.
 
 Hemi climbed down and joined Cassandra at the sonar station. A minute later he reported to Captain Percy. "Sylvia, they have definitely tried to match our depth, and are still moving at full speed. They are only about 500 meters off. You have to make a move now."
 
@@ -5233,19 +5233,19 @@ Percy stared at the depth gauge, and hesitated. But she knew there was only one 
 
 Without comment, Bastian turned the dive wheel again. The boat was still trimmed heavy toward the bow, so it sank almost immediately. Percy grabbed the leather strap again. The depth gauge began a rapid climb, pushing quickly past 215 meters --- the normal operating limit of the _Prospect_.
 
-Percy lit up yet another cigarillo and stared at the depth gauge without blinking. At 225 meters she called out to Hemi. "Are they still coming Hemi."
+Percy lit up yet another cigarillo and stared at the depth gauge without blinking. At 225 meters she called out to Hemi. "Are they still coming Hemi?"
 
-"Straight on Sylvia." Said Hemi from below. "They are coming down at us. About 300 meters away from us now. They'll be on us in less than 30 seconds."
+"Straight on Sylvia." Said Hemi from below. "They are coming down at us. About 300 meters away from us now. They will be on us in less than 30 seconds."
 
 The needle on the depth gauge had a steady, relentless upward movement, winding its way towards the higher triple digit numbers on the right side of the gauge. It maxed out at 300 meters --- the depth at which _Prospect's_ original engineers estimated it would collapse.
 
 The depth gauge passed 250 meters.
 
-"They've turned off Sylvia!" Hemi called up. "They went hard port, and are heading away."
+"They have turned off Sylvia!" Hemi called up. "They went hard port, and are heading away."
 
 "Level us Bastian, now!" Percy commanded.
 
-Bastian spin the dive plane wheel rapidly and the bow came up. The boat leveled out with the depth gauge reading 254 meters. Bastian was breathing quickly. He lifted his shaking hands from the dive plane wheel and lit a cigarette.
+Bastian spun the dive plane wheel rapidly and the bow came up. The boat leveled out with the depth gauge reading 254 meters. Bastian was breathing quickly. He lifted his shaking hands from the wheel and lit a cigarette.
 
 Owen looked up at Percy with the look of prey having fully consumed his eyes.
 
@@ -5264,25 +5264,27 @@ Owen looked up at Percy with the look of prey having fully consumed his eyes.
 
 "Sylvia!" Hemi yelled up from sonar, "they are coming around for another pass!"
 
-"I thought they turned off in a different fucking direction Hemi!" She replied.
+"I thought they turned off in a different direction!" She replied.
 
 "They did. They went out to about 1000 meters, dove to our depth, and are on approach again... 500 meters and closing at high speed. I guess that sub commander changed his mind about pushing the limits of his boat."
 
-"Fuck! OK boys," she took a deep breath, "we're going deeper." She pressed the dive alarm once again. "Bastian, full dive plane down, again."
+"OK boys," she said quietly before taking a deep breath, "we're going deeper." She pressed the dive alarm once again. "Bastian, full dive plane down, again."
 
 Bastian stuck his cigarette between his lips, wiped his palms on his pants, and grabbed the dive plane control wheel. He spun it all the way to the stop.
 
-The bow of the _Prospect_ once again fell away in front of them. The depth gauge rounded into the final quadrant of the dial, where the ink of the graduations changed from black to numbers outlined in red.
+The bow of the _Prospect_ once again fell away in front of them. The depth gauge rounded into the final quadrant of the dial, where the ink of the graduations changed from thin black numbers to bold warning numbers. Were it not for the red light, those numbers would also be sitting in a red field on the dial.
 
-"Passing 275 meters Hemi!" Percy called out to him.
+"Passing 275 meters!" Percy called out so Hemi could hear.
 
-"They are still coming Sylvia. Adjusted their course and diving. They'll be on us in seconds."
+"They are still coming Sylvia. Adjusted their course and diving. They will be on us in seconds."
 
-Captain Percy had never dreamed of taking her boat this deep. The sounds of her boat under stress escaped throughout the length of the boat, and traveled up to Percy's sensitive ears in the control room. A long, weak sigh that went on and on was followed by prickly cracking sounds. A low rumble fell underneath those in registers that echoed the very bones of the ship straining to accept the weight of 10 atmospheres. Her boat was very much alive now, and suffering. And it pained Captain Percy. 
+Captain Percy had never dreamed of taking her boat this deep. The sounds of her boat under stress rolled back and forth repeatedly throughout the length of the boat, and traveled up to Percy's empathetically sensitive ears in the control room. A long, weak sigh that went on and on was followed by prickly cracking sounds. A low rumble fell underneath those in registers that echoed the very bones of the ship straining to accept the weight of 10 atmospheres. Her boat was very much alive now, and suffering. And it pained Captain Percy. 
 
 The depth gauge needle tapped against the far right pin at 300 meters.
 
-"They leveled out and passed just over us!" Hemi yelled his update.
+[//]: # (I know it is a cliche at this point. But at the same time, I feel like it just is not a _real_ submarine story unless they test the depth-limits of their boat! It just _has_ to be there, like Arnold saying I will be back.)
+
+"They leveled out and passed just over us!" Hemi roared his update.
 
 "Level her Bastian." Said Percy calmly.
 
@@ -5298,13 +5300,13 @@ The quiet hum of the electric motors faded, and as the _Prospect_ settled into t
 
 But the silence was broken by another long quaking groan from the depths of the _Prospect's_ hull.
 
-Percy put one hand out to the wall, laying her palm flat against the curve, and felt the cold dampness of the steel pressure hull of her boat under her hand. "Hold together baby..." she said softly enough that Bastian and Owen wouldn't be able to hear.
+Percy put one hand out to the wall, laying her palm flat against the curve. She felt the cold dampness of the steel pressure hull of her boat under her hand. "Hold together baby..." she said softly enough that Bastian and Owen wouldn't be able to hear.
 
-The sub with the ram... they would have heard that sound from the hull... wouldn't they?" Owen asked, his voice shaking. "It was so loud..."
+"The sub with the ram... they would have heard that sound from the hull... wouldn't they?" Owen asked, his voice shaking. "It was so loud..."
 
 "It doesn't matter." Said Percy. "Even if they know where we are, they won't follow us down here." Though then she doubted herself. "Hemi, where are they?"
 
-"Trying to figure it out Sylvia." Hemi paused. "They are off about 1000 meters again, reduced speed, and are turning back in this direction."
+"Trying to figure it out..." Hemi paused. "They are off about 1000 meters again, reduced speed, and are turning back in this direction."
 
 "To submerged submarine." The ship-to-ship lit up again. "You are in violation of..." Percy flipped off the ship-to-ship unit.
 
@@ -5312,13 +5314,15 @@ More minutes passed with no sound except their breathing and the aggravatingly r
 
 "Owen," Percy said quietly, "go down to the cargo hold and check on the repaired seam --- see how bad its leaking."
 
-Owen nodded and silently climbed down the ladder out of the control room.
+Owen nodded and quietly climbed down the ladder out of the control room.
 
-Percy stepped up to the trim tank control panel. The boat was slowly settling with the bow dipping down, and that was extra stress on the hull that Percy didn't need. She gingerly opened some of the high-pressure valves that would force air into the forward trim tanks. There was a long his that ran up the length of the boat from behind them forward into the deeper darkness.
+Percy stepped up to the trim tank control panel. The boat was slowly settling with the bow dipping down, and that was extra stress on the hull that Percy did not need. She gingerly opened some of the high-pressure valves that would force air into the forward trim tanks. There was a long his that ran up the length of the boat from behind them forward into the deeper darkness.
 
-She kept an eye on the trim. The tank gauges were not showing any water leaving. It was possible they were so deep --- so far beyond where her boat was normally designed to operate --- that the high-pressure air system didn't have enough pressure to push the water out of the tanks. She slowly opened the valve further and further, and when it hit the stop --- all the way open --- the trim tank gauges slowly turned towards their zero pins as some of the water in them was forced out.
+She kept an eye on the trim. The tank gauges were not showing any water leaving. It was possible they were so deep --- so far beyond where her boat was normally designed to operate --- that the high-pressure air system did not have enough pressure to push the water out of the tanks. She slowly opened the valve further and further, and when it hit the stop --- all the way open --- the trim tank gauges slowly turned towards their zero pins as at least some of the water in them was forced out.
 
 Percy made a few further adjustments to the trim tanks, desperately tending the delicate balloon that held them aloft over the black sucking pit that so hungrily wanted to consume them.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 She got the boat trimmed perfectly level, and then stood silently in the middle of the control room with a slight gap between her feet. She measured her own center of gravity against her boat's. In its current configuration it should be absolutely still. But she could feel some kind of movement. Very slow movement.
 
