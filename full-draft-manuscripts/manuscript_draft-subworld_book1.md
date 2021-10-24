@@ -5412,45 +5412,55 @@ They ran through the night on too much coffee and not enough sleep. But they saw
 
 Even as the sun rose in front of them, Percy kept the boat on the surface wanting to make up some of the time they had lost during the previous day. She was hoping to make the rendezvous with Shakes more or less on time. The sun was well up above the horizon and they had clear visibility for something like 10 miles from the lookout ring before Percy finally called for the submarine to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them very precisely to the correct spot.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-A few hours later Hemi announced they were on top of the rendezvous point. They leveled the boat at 20 meters down, and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
+A few hours later Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters down, and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
 
 A few miles off the sound of the diesel disappeared, and Cassandra assumed Shakes was diving before approaching the rendezvous point. She called Hemi up to the control room. An hour later Shakes voice came over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
 
-Hemi sent Bastian down to the lowest deck of the _Prospect_ to get the hatch opened to the _Gnat_. Even as he climbed up through the hatch, helped by a strongly gripping hand from Bastian, Shakes was already thinking about food.
+Hemi sent Bastian down to the lowest deck of the _Prospect_ and open the hatch to the _Gnat_. Even as he climbed up through the hatch, helped by a strongly gripping hand from Bastian, Shakes was already thinking about food.
 
-"Bastian! Good to see you again. It's about dinner time on this vessel, ain't it?"
+"Bastian! Good to fuckin' see you again. It's about dinner time on this fuckin' vessel, ain't it?"
 
-"Sure fucking is Captain Shakes." Said Bastian, through a cigarette in his mouth. " I think I smelled Owen working on some fucking sticky glop or other in the galley, when I was making my way down here. You're hungry?"
+"Sure it fucking is, Captain Shakes." Said Bastian, through a cigarette in his mouth. "I think I smelled Owen working on some fucking sticky glop or other in the galley, when I was making my way down here. You're hungry?"
 
 "Submarining is fucking hungry work Bastian. Let's go see what that fucking kid is burning."
 
-They made their way up the decks with the wrenches hanging from Shakes' belt clanking loudly each time they ascended. In the Galley Hemi and Percy were sitting at the table and Owen had a big curved steel pan smoking. They all sat and ate a heavy meal of boiled oats and cabbage with small bits of slightly charred canned ham sprinkled throughout. The oats had enough texture still left to them that the little grains popped between their teeth when ground between molars. Hemi brought a bowl in to Cassandra who was still on sonar duty.
+They made their way up the decks with the wrenches hanging from Shakes' belt clanking loudly each time they ascended one of the ladders or steep stairways. In the galley, Hemi and Percy were sitting at the table and Owen had a big curved steel pan from which smoke was rising upwards. They all sat and ate a heavy meal of boiled oats and cabbage with small bits of slightly charred canned ham sprinkled throughout. The oats had enough texture still left to them that the little grains popped between their teeth. Hemi brought a bowl in to Cassandra who was still on sonar duty.
 
 After Shakes ate his third bowl, Owen poured them all a cup of the requisite coffee that came after every meal, and Percy leaned back into the corner of the galley bench, stretching her arms.
 
-"I see you made it out of Stilt City," said Shakes, "when that sub turned off the channel to follow the _Prospect_ into that narrow waterway, I thought maybe our partnership was done for."
+"I see you made it out of that fuckin' Stilt City," said Shakes, "when that sub turned off the channel to follow the _Prospect_ into that narrow waterway, I thought maybe our partnership was fuckin' done for."
 
-"Yet you still managed to make the rendezvous point." Said Captain Percy.
+"Yet you still fuckin' managed to make the rendezvous point." Said Captain Percy.
 
-"Well that last job working for you was so profitable, I wasn't just going to let that go because I thought y'all we fucking dead."
+"Well that last job working for you was so fuckin' profitable, I wasn't just going to let that go because I thought y'all were fucking dead."
 
 Percy laughed.
 
-"So what's the plan now? Is there a next job?" Asked Shakes.
+"So what's the fuckin' plan now? Is there a next job?" Asked Shakes.
 
-"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking sub as possible. We have to lose those fuckers for good if we're going to resume business as usual --- I see that now. I can cut you loose if you like Shakes --- this is mostly a problem for us, not you. Though I'd be happy to have you along if you're willing. Having the _Gnat_ around could prove useful again."
+"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking sub as possible. We have to lose those fuckers for good if we're going to resume business as usual --- I see that now. I can cut you loose if you like Shakes --- this is mostly our fuckin' headache, not yours. Did we tell you that we figured out the reason they are after us is because the kid Owen slept with that fuckin' sub commander's wife?"
 
-"So you'll keep me on retainer?"
+"Your shittin' me --- this whole fuckin' life-and-fuckin'-death hassle is because of your young fuckin' cook?" Shakes grinned at Owen.
+
+"Fuckin' turns out. Ain't that a fuckin' bitch?"
+
+"Aww fuckin' come on." Said Owen. "Yes that happened, but we've already been through this --- the fucking dude is way the fuck over-reacting. That, right there, is our fuckin' problem. Not some coupla fuckin' nights I spent with his wife."
+
+Shakes stirred his coffee with a raised eyebrow and a half-skeptical nod.
+
+Percy picked up the conversational thread with Shakes. "Regardless of what fouled spring from which our continuous fuckin' bad luck flows, I'd be happy to have you along if you're fuckin' willing. Having the _Gnat_ around could prove useful again."
+
+"So you'll keep me on fuckin' retainer?"
 
 "Sure, if you like."
 
-"Alright." Said Shakes. "If the plan is to hang on to Owen to feed me, I'll fucking stick with y'all for now."
+"Alright." Said Shakes. "If your plan includes keeping Owen in the kitchen to feed me, I'll fucking stick with y'all for now."
 
-"And once it seems like we've gotten ourselves some distance, we'll put into a port somewhere and start looking for work again."
+"You know I do take care of a few other things on this boat besides the fuckin' food." Said Owen. "Cooking is in fact a relatively recent addition to my duties."
 
-For the next 3 days and nights the two boats ran next to each other. They sank back into the steady routine of a cargo run, moving fast with the power of diesels at night, and slowly crawling along underwater during the day. They crossed almost a thousand miles of ocean, and Percy was starting to feel like they could start thinking about heading into port somewhere and getting back to normal work. 
+Percy ignored Owen. "Once it seems like we've gotten ourselves some distance, we'll put into a port somewhere and start looking for work again. And hopefully we'll be able to include the _Gnat_ in whatever new fuckin' endeavor we take up."
+
+For the next 3 days and nights the two boats ran next to each other. They fell back into the steady routine of a cargo run, moving fast with the power of diesels at night, and slowly crawling along underwater during the day. They crossed almost a thousand miles of ocean, and Percy was feeling like they might soon be able to consider heading into a port somewhere and getting back to normal work. 
 
 
 [//]: # (### underwater bicycle race)
@@ -5461,39 +5471,43 @@ But first, she felt like they all needed a bit of a break. At the breakfast tabl
 
 [//]: # (2021-09-26: Half-asleep this morning I suddenly had the terrible thought that the cargo hold was nowhere big enough for a bicycle race. Something someone had said to me at a picnic in the park last night about how they used to store food in cans on the floor of submarines and walk on them, slowly eating their floor level lower made me think that my whole sense of the cargo hold space might be wrong. It's a submarine, submarines are always cramped, tight spaces, right? Even with a cargo hold, maybe that space feels more like being in the trailer of a semi truck than the cavernous cleared factory floor where I had experienced a bicycle race like this myself. You _could_ do a bike race on small bikes in a semi trailer, but the fun would be pretty limited --- unless the truck were moving! Anyway, with this thought I was worried I might have to re-write whole sections of the book. I had dreamed up the cargo hold as this big, dark, dank, creepy underwater space. But maybe I needed to rewrite it to be a long space jam-filled with stuff, and it felt like that even when it was empty of cargo? And I would have to delete this lovely surreal underwater bicycle race scene --- which I am very fond of even though it might have to be cut in the end anyway. I got out of bed and re-examined my diagrams and reassured myself that my original sense of the space was alright. The _Prospect_ is a big sub. That makes sense, cargo subs would have evolved larger the way cargo ships on the surface have, and the cargo hold in it would feel like the cargo hold of a ship, not a semi trailer. The cargo hold isn't a quarter mile long like today's cargo ships might have, but its still a big empty space. This is a wonderful thing about an imaginative fictional work: visualizing a huge underwater cargo space that doesn't exist anywhere, but certainly _could_, and how it feels to be in that space, and the things that one could do with that space --- like a bike race.)
 
-Hemi nodded, but Shakes was deeply confused. "A bicycle race? Is that some kind of code for something Captain Percy?"
+Hemi nodded, but Shakes was deeply confused. "A bicycle race? Is that some kind of code for some fucked-up submariner thing?"
 
-"Well, the 'race' part might be a bit of a stretch, but the bicycle part is literal Captain Shakes. Hemi, want to lead our guest down to the hold and show him how we do exercise on this boat?"
+"Well, the 'race' part might be a bit of a stretch, but the bicycle part is literal. Hemi, want to lead our guest down to the hold and show him how we do exercise on this boat?"
 
 "Captain Shakes," said Hemi, "allow me to formally invite you to the only undersea bicycle race in the world." Hemi stood and swept his arm forward toward the cargo hold.
 
-They made their way forward to the cargo hold where Hemi unchained the pile of rusty bicycles from the tie-down bolts on the wall.
+In the cargo hold, Hemi unchained the pile of rusty bicycles from the tie-down points on the wall.
 
-"As you may be aware," said Percy looking at the bit of a gut Shakes was showing after stashing away his giant portion of Owen's meal, "submarining is maybe not the healthiest of occupations --- even when we're not being fucking shot at. As a captain, it is my duty to look after all aspect of the welfare of my crew. For that reason I encourage time spent on deck for the fresh air --- when possible --- and require participation in all _Prospect_ bicycle races." She pointed down the empty cargo hold. "Generally, we conduct races when... well, when the fucking hold is empty enough that we can."
+"As you may be aware," said Percy looking at the bit of a gut Shakes was showing after stashing away his giant portion of Owen's meal, "submarining is maybe not the healthiest of occupations --- even when we're not being fucking shot at. As a captain, it is my duty to look after all aspects of the welfare of my crew. For that reason I encourage time spent on deck for the fresh air --- when fuckin' possible --- and require participation in all _Prospect_ bicycle races." She pointed down the empty cargo hold. "Generally, we conduct races when... well, when the fucking hold is empty enough that we can."
 
-"Cool." Said Shakes. "What's the rules?"
+"Fuckin' Cool." Said Shakes. "What's the rules?"
 
-"The rule: don't get fucking hurt... badly." Said Percy.
+"The single rule is: don't get fucking hurt... badly." Said Percy.
 
-"That's it?"
+"That's fuckin' it?"
 
-'That's fucking it." Percy pointed over to the pile of bicycles that Hemi was untangling and tossing one-by-one towards them. "Select your steed. Choose carefully, most have a surprise or two."
+'That's fuckin' it." Percy pointed over to the pile of bicycles that Hemi was untangling and tossing one-by-one towards them. "Select your steed. Choose carefully, most have a surprise or two."
 
-Shakes looked over the bicycles, which could only be called 'bicycles' if the only thing you knew about bicycles was that they had two wheels. Piled on the grating of the deck, they looked more like a giant rusting Mikado set laid out to play. Any individual bicycle appeared to be missing some critical part or another: a seat, or handle bars, or one of the wheels would have a giant dent in it so there was no chance it would roll smoothly. One or two appeared to be missing structural tubes and looked like they would collapse under the weight of an adult. Some were clearly kids bikes, with tiny wheels and faded and ripped streamers hanging from their tiny handlebars. On one someone had welded a motorcycle fork with a motorcycle wheel. Shakes guessed that 'bicycle' must weigh more than 50 kilograms.
+Shakes looked over the bicycles, which could only be called 'bicycles' if the only thing you knew about bicycles was that they had two wheels. Piled on the grating of the deck, they looked more like a giant rusting Mikado set laid out to play. Any individual bicycle appeared to be missing some critical part or another: a seat, or handle bars, or pedals. Or one of the wheels would have a giant dent in it so there was no chance it would roll smoothly. One or two appeared to be missing structural tubes and looked like they would collapse under the weight of an adult. Some were clearly bikes intended for children, with tiny wheels and faded and ripped streamers hanging from their tiny handlebars. On one someone had welded a motorcycle fork with a motorcycle wheel. Shakes guessed that particular 'bicycle' must weigh more than 50 kilograms.
 
 Shakes selected a promising looking machine from the pile Hemi was still adding to. An simple small steel frame with upright bars and fenders, and the rusting remains of a steel basket, bent and crushed but still hanging on the front of the bicycle. Shakes stepped over it and looked at Percy. "OK, now what?"
 
 "Now? There and back, and there again!" Said Percy, pointing down to the end of the cargo hold.
 
-"Come on," said Bastian, picking up one of the kid's bikes and folding his long skinny legs into position on it. "I'll race you."
+"Come on," said Bastian, picking up one of the kid's bikes and folding his long skinny legs into position on it. "I'll fuckin' race you."
 
 "I thought the only rule is don't get hurt?" Shakes asked.
 
-"Don't get hurt _badly_. Fucking yeah." Bastian lit a cigarette, and started pedaling away madly down the grating of the cargo hold. After 10 meters or so he slapped the pedals backwards and skidded for 5 more meters. "Fucking deck is still wet from the flooding! Good skidding." He said looking towards Percy with the cigarette still between his lips
+"Don't get hurt, _badly_. Fucking yeah." Bastian lit a cigarette, and started pedaling away madly down the grating of the cargo hold. After 10 meters or so he slapped the pedals backwards and skidded for 5 more meters. "Fucking deck is still wet from the flooding! Good skidding." He said looking towards Percy with the cigarette still between his lips.
 
-Shakes took off after Bastian and since he was riding a bigger bicycle easily caught Bastian who was now spinning the tiny bicycle at a high cadence. But as Shakes tried to come around, Bastian swerved hard into him and drove Shakes into one of the old crates pushed up against the hull wall. 
+Shakes took off after Bastian and, since he was riding a bigger bicycle, easily caught Bastian who was now spinning the tiny bicycle at a high cadence. But as Shakes tried to come around, Bastian swerved hard into him and drove Shakes into one of the old crates pushed up against the hull wall. 
 
-Shakes shuffled and regained his perch on the bike. He ripped his way down the deck, getting more speed as he flew past Bastian. He approached the far end, and squeezed the brakes to take some speed off before he had to make the turn to reverse direction. The brake levers clapped easily against the bars. Brakes were not a feature of this particular bicycle
+Shakes shuffled and regained his perch on the bike. He ripped his way down the deck, getting more speed as he flew past Bastian. He approached the far end, and squeezed the brakes to take some speed off before he had to make the turn to reverse direction. The brake levers clapped easily against the bars. 
+
+Brakes apparently were not a feature of the bicycle he was riding.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Shakes slapped his boots flat and the slipped along with the grating uselessly rumbling beneath his boots. There was nothing that was going to prevent him from plowing into the puddle of black and oily bilge water that still filled the bow of the boat. A great spray of oozing and stinking water flew up and soaked him through.
 
