@@ -5609,6 +5609,7 @@ Percy flipped off the radar. "Let's not give away our position more than we alre
 Hemi reached over Cassandra and pressed the ping button on the active sonar. A second lated the unit lit up.
 
 "Captain Percy, the active unit is showing dozens of contacts _underwater_ as well as on the surface." Cassandra kept one hand against the sonar earpiece. "Shakes did shut down --- I still don't hear anything though. It's completely silent now."
+2k; 114k
 
 "It is extremely unlikely that there is a fleet of dozens of ships and subs just floating without engines running." Said Hemi. "Something else is going on here..."
 
