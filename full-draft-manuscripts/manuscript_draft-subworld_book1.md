@@ -5606,9 +5606,7 @@ Percy flipped off the radar. "Let's not give away our position more than we alre
 
 Hemi reached over Cassandra and pressed the ping button on the active sonar. A second later the unit lit up.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
-"Captain Percy, the active unit is showing dozens of contacts _underwater_ as well as on the surface." Cassandra kept one hand against the sonar earpiece. "Shakes did shut down --- I still don't hear anything though. It's completely silent now."
+"The active unit is showing dozens of contacts _underwater_ as well as on the surface." Cassandra kept one hand against the sonar earpiece. "Shakes did shut down --- I still don't hear anything though. It's completely silent now."
 
 "It is extremely unlikely that there is a fleet of dozens of ships and subs just floating without engines running." Said Hemi. "Something else is going on here..."
 
@@ -5616,15 +5614,15 @@ In the sonar compartment they could hear Shakes' voice crackling questions over 
 
 "I suggest we make our friend Shakes a resource." Hemi said.
 
-"Send the reckless risk-taker to check it out? That's my kind of plan Hemi." Percy climed up to the control room and took over the conversation with Shakes from Bastian. She explained the situation to him and they came up with a plan where Shakes would move forward on battery and check out the radar contacts while the _Prospect_ submerged to periscope depth and stayed within ship-to-ship range of the _Gnat_.
+"Send the reckless risk-taker to check it out? That's my kind of fuckin' plan Hemi." Percy climbed up to the control room and took over the conversation with Shakes from Bastian. She explained the situation to him and they came up with a plan where Shakes would move forward on battery and check out the radar contacts while the _Prospect_ submerged to periscope depth and followed behind, staying within ship-to-ship range of the _Gnat_.
 
-In a matter of 15 minutes or so, the _Gnat_ was coming up on the first of the radar contacts. Percy watched the blackness where the _Gnat_ was located ahead of them through the periscope. Soon a beam of light shot out from the water, and in the reflection of it she could see Shakes' spikey head atop of the sail of the _Gnat_. Shakes ran the light beam forward and back off of a black wall that rolled up and down on the ocean swell.
+15 minutes later, the _Gnat_ was coming up on the first of the radar contacts. Percy watched the blackness where the _Gnat_ was located ahead of them through the periscope. Soon a beam of light shot out from the water, and in the reflection of it she could see Shakes' spikey head at the top of the sail of the _Gnat_. Shakes ran the light beam forward and back along a black wall that road up and down on the ocean swell ahead of him.
 
 At this range Cassandra could hear the object on the sonar --- water slapping against a steel void with the random regularity of ocean chop --- Cassandra was convinced it was a ship. 
 
-It was only a few minutes later that Shakes confirmed her guess over ship-to-ship. "Yeah _Prospect_, the object is a big empty cargo vessel. Rusting away and half sunk, it looks like. You think all those contacts are abandoned ships?"
+It was only a few minutes later that Shakes confirmed her guess over radio. "Yeah _Prospect_, the object is a big empty cargo vessel. Rusting away and half sunk, it looks like. You think all those contacts are abandoned ships?"
 
-Percy looked away from the periscope viewfinder at Hemi, who was holding the ship-to-ship mic. "What do you think Hemi?"
+Percy looked away from the periscope viewfinder at Hemi, who was holding the ship-to-ship radio mic. "What do you think Hemi?"
 
 "It is possible. I have heard rumors of such things: abandoned ships and garbage float into some kind of slow gyre in the middle of the ocean, where they sometimes circle for decades before they weaken enough for the ocean to draw them down."
 
@@ -5632,11 +5630,15 @@ Percy looked away from the periscope viewfinder at Hemi, who was holding the shi
 
 [//]: # (Is the garbage gyre the Zone from Stalker? Abso-fucking-lutely! But is not everything the Zone?)
 
-"A walk among those lost souls might be an opportunity for a pair of boats that don't want to be found." Said Percy. "Hemi, see if you can work out a way with Shakes that we might traverse this graveyard safely."
+"A walk among those lost souls might be an fucking opportunity for a pair of boats that don't want to be found." Said Percy. "Hemi, see if you can work out a way with Shakes that we might traverse this graveyard safely."
 
-Hemi and Shakes chatted for a few minutes over the ship-to-ship. They decided that if they kept the speed of the boats low, they should be able to navigate through the sea of derelicts. 
+Hemi and Shakes chatted for a few minutes over the ship-to-ship. They decided that if they kept the speed of the boats low, they should be able to navigate through the sea of derelicts safely. 
 
-The _Prospect_ surfaced and they pushed forward at 3 knots, with the _Gnat_ running 100 meters or so behind. Shakes kept the _Gnat's_ diesel off as he followed in the _Prospect's_ wake so he could keep in constant contact with the _Prospect_ over the ship-to-ship.
+The _Prospect_ surfaced and they pushed forward at 3 knots. The _Gnat_ took up a position 100 meters or so behind. Shakes kept the _Gnat's_ diesel off as he followed in the _Prospect's_ wake so he could keep in constant contact with the _Prospect_ over the ship-to-ship.
+
+[//]: # (Does the ship-to-ship work with the diesels running? Lets say yes, but a much more limited distance.)
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 At first, Cassandra was able to steer them around the big pieces of flotsam using the sonar. Since the ocean was very quiet, she could hear the sound of the _Prospect's_ diesel engines bouncing off the bigger floating pieces. But soon they entered an area so densely packed with wrecked ship hulks that they needed to use the active sonar to chart their way precisely through it. They started pinging at regular intervals a few minutes apart, and Cassandra would report obstructions ahead. Hemi noted her reports on a clipboard and worked out a safe route forward. 
 
@@ -5671,6 +5673,7 @@ By the end of the day, Cassandra's confidence was rapidly growing. Sonar was rap
 With confidence came a love of her job, and the long shift that Percy was currently asking her to do without breaks seemed like less of a burden than it had at first. She found time passed rapidly when her mind was out there in the sea of sound.
 
 By the clock, it was just after dark when Captain Percy suggested they might want to move up to periscope depth and have a look around at the garbage patch. The _Prospect's_ batteries were about half discharged and if they could move on the surface, they could run the diesels and recharge the batteries as usual. She asked Cassandra to have one last listen before they started moving toward the surface. Percy shut down the motors entirely so Cassandra could hear as far as possible.
+2k; 116k
 
 In this complete silence Cassandra swung the sonar mics around in a slow 360, listening to the sounds of the ocean in every direction. Into this complete silence that soft far-off motorized sound came again as the mics came around the rear of the boat.
 
