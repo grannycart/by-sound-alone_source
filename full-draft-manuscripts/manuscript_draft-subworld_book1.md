@@ -5668,48 +5668,48 @@ Throughout the day they slowly proceeded through the refuse gyre. Their active-s
 
 By the end of the day, Cassandra's confidence was rapidly growing. Sonar was becoming second-nature to her. She would close her eyes, and her mind would travel out into the water. It would be all blackness at first, but she would relax and open her mouth slightly to minimize the sound of her own breathing. Her heart rate would slow. Her mind would go out searching in the water. Without opening her eyes she could turn the directional wheel, and she found her mind could follow the direction as if she were seeing out through the microphones. She no longer need to look at the directional indicator to know whether the mics were oriented to the front, sides or rear of the boat, she just _knew_. The black pitch of the deep sea fell away, and in her mind it would all light up around her with a midday brightness that was entirely contained within her small skull. 
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 With confidence came a love of her job, and the long shift that Percy was currently asking her to do without breaks seemed like less of a burden than it had at first. She found time passed rapidly when her mind was out there in the sea of sound.
 
-By the clock, it was just after dark when Captain Percy suggested they might want to move up to periscope depth and have a look around at the garbage patch. The _Prospect's_ batteries were about half discharged and if they could move on the surface, they could run the diesels and recharge the batteries as usual. She asked Cassandra to have one last listen before they started moving toward the surface. Percy shut down the motors entirely so Cassandra could hear as far as possible.
+By the clock, it was just after dark when Captain Percy suggested they might want to move up to periscope depth and have a look around at the garbage patch. The _Prospect's_ batteries were about half discharged and if it was safe to run on the surface, they could run the diesels and recharge the batteries as usual. She asked Cassandra to have one last listen before she started raising the boat. Percy shut down the motors entirely so Cassandra could hear as far as possible.
 
-In this complete silence Cassandra swung the sonar mics around in a slow 360, listening to the sounds of the ocean in every direction. Into this complete silence that soft far-off motorized sound came again as the mics came around the rear of the boat.
+In this complete silence Cassandra swung the sonar mics slowly around 360 degrees, listening to the sounds of the ocean in every direction. Into this complete silence that soft far-off motorized sound came again as the mics came around the rear of the boat.
 
 Suddenly all her doubts came flooding back, and Cassandra felt her ears go warm inside the headphones. She instinctively _knew_ that motor off in the water was the sub with the ram, still behind them, still pursuing; perhaps never having left. She also knew instantly that she should have known it was the sub with the ram when she heard the first faint wavering contact hours ago in the early part of the day. She realized she had made a mistake, potentially a large one, and that made her afraid to say anything.
 
-She listened to the sound for a few minutes, only just barely easing the directional wheel back and forth across the signal, trying to lock in on the strongest direction of the signal. It was only when Hemi put his heavy hand on her shoulder that she realized that he had been standing behind her watching. Even without hearing he was capable of reading the gauges and knowing she was on something. Cassandra looked up at him. She wrestled down her fear about the mistake she had made, and decided to put her trust in him.
+She listened to the sound for a few minutes, only just barely easing the directional wheel back and forth across the signal, trying to lock in on the strongest bearing for the signal. It was only when Hemi put his heavy hand on her shoulder that she realized that he had been standing behind her watching. Even without hearing he was capable of reading the gauges and knowing she was on something. Cassandra looked up at him. She wrestled down her fear about the mistake she had made.
 
 She slipped a headphone off one ear. "Something's there Hemi."
 
 "It does look like it, does it not?" He said. "Let me listen." He picked up the second headset and adjusted the volume. He paused for a second, the flipped a couple of filters on and listened again.
 
-"That's them, isn't it Hemi?" Cassandra asked.
+"That's them, isn't it Hemi?" Cassandra asked. "I... I think I heard them earlier."
 
-Hemi nodded as he patted Cassandra's shoulder again. "Percy!" He bellowed up to the control room, as he stepped backwards, stretching out the wire of the headset. He looked up through the hatch to the control room. 
+Hemi nodded as he patted Cassandra's shoulder again. "Sylvia!" He bellowed upwards as he stepped backwards, stretching out the wire of the headset. He looked up through the hatch to the control room. 
 
-Percy was squatting on her haunches, her face a meter above Hemi's. "Hemi. What the fuck is it this time?"
+Percy was squatting on her haunches, her face a meter above Hemi's. "What the fuck is it this time?"
 
 "The sub with the ram... it is back again."
 
-"Sweet motherfucking fuck Hemi! How fucking far away are they?
+"Sweet motherfucking fuck! How fucking far away are they?
 
-"The contact is faint and far off. That is why Cassandra did not hear them earlier." His eye caught Cassandra's grateful face. "They are far enough away that the active ping is not returning a distance to them --- or at least the active unit can not sort it out from all the other refuse in the water."
+"The contact is faint and far off. That is why Cassandra did not hear them before." His eye caught Cassandra's grateful face. "They are far enough away that the active ping is not returning a distance to them --- or at least the active unit can not sort it out from all the other refuse in the water."
 
-"Though the pinging we've been doing has probably been leading them along through this garbage patch I mistakenly believed would provide us covered --- like fucking breadcrumbs through some fucking black forest. I can't fucking believe that shitfaced fucker is _still_ after us!"
+"But the pinging we've been doing has probably been leading them along through this garbage patch I fuckin'  mistakenly believed would provide us cover --- like fucking breadcrumbs through some fucking black forest. I know I've said it before, but I can't fucking _believe_ that fucking _ugly_ fucking boat is _still_ after us!"
 
 "_Round Good Hope, and round the Horn, and round perdition's flames..._" Hemi said quietly to himself.
 
-But Percy heard him quite clearly. "Oh, so the _Prospect_ is the fucking white whale now Hemi?"
+But Percy heard him quite clearly. "Oh, so the _Prospect_ is the fucking white whale now?"
 
 He looked up at her. "You must admit, there is almost a kind of classic literary insanity to his actions."
 
-"Fuck that... Alright, are they gaining on us? How long before we have to start worrying about them putting a torpedo in the water?"
+"You stifle that fucking tendency of yours toward layered meanings expressed through overwritten symbolism right now Hemi. The Ocean is plenty fucking dramatic enough without having to spread some kind of pretentious icing of bullshit modern literary sludge on top of it. ...Alright, are they gaining on us? How long before we have to start worrying about them putting a torpedo in the water?"
 
 "No way to tell just yet. They are likely facing the same issue we have --- moving fast through the surface garbage puts them at risk of hitting something."
 
 "On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through all this heavy shit. With that in mind --- we run like the fearful fucking bitch-offspring we are. Bastian, 7 knots. Fuck! No, wait. Owen --- first go find fucking Shakes and get that leaching boat of his detached from my _Prospect_."
 
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 [//]: # (### They are pursued through the night)
 
@@ -5761,6 +5761,7 @@ Hemi did not reply.
 Bastian was climbing up through the hatch into the sonar compartment when Owen reported to Percy that the _Prospect_ was losing bouyancy in the bow again. Percy had already known it through the feeling of the angle of the deck against her feet, but the thought had yet to register itself in the conscious part of her mind.
 
 Percy looked down and saw Bastian standing at the foot of the ladder up to the control room. "Bastian, get up here. Owen, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up again with that last little tussle."
+2k; 118k
 
 A few minutes later Owen's voice came crackling over the PA radio in the control room. "Fuck Captain Percy, you're right. Those welds are failing. There's already about a fucking foot of water in the bilge."
 
