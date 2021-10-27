@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Mon Oct 18, 2021  12:11PM
+Last modified: Wed Oct 27, 2021  04:08PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -227,6 +227,12 @@ Last modified: Mon Oct 18, 2021  12:11PM
 	* Echoes in the Deep / Echos From the Deep
 	* Deep Blue Fever
 		* (or something else that ties submarines and trucks together)
+	* The turning screw
+	* As the screw turns
+	* A turn of the wheel
+	* As the wheel turns
+		* (wheel as in propeller)
+	* propellerheads
 * [X] the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
