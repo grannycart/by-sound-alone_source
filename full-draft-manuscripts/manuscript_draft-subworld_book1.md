@@ -5742,21 +5742,21 @@ While he was on the ladder, the crunching sound of an impact --- a recapitulatio
 
 "No Captain Percy!" Cassandra wailed with the deep-grained panic of someone who knows they had made a mistake, "it definitely wasn't them! They're still miles and miles off."
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
-
 Percy looked down at Hemi, who still clung to the ladder, his huge stone form held by tense-hard muscles. "Hemi, you get that little fucking whore off my sonar immediately and tell me what the fuck is going on with my boat!" 
 
-Hemi slowly lowered himself to the deck of the sonar comparment, and nodded to Cassandra. She stood, wobbily on her feet, and handed him the sonar headset. Hemi looked towards the hatch that led to the crew quarters and Cassandra followed his eyes, first with her own eyes and then her whole body. She disappeared silently below decks.
+Hemi slowly lowered himself to the deck of the sonar compartment, and nodded to Cassandra. She stood, wobbly on her feet, and handed him the sonar headset. Hemi looked towards the hatch that led to the crew quarters and Cassandra followed his eyes, first with her own eyes and then her whole body. She disappeared silently below decks.
 
-Hemi put the sonar headset on and listened closely for a minute. "It was just a derelict Sylvia... Cassandra was right, the pursuing sub is still close to 10 miles behind us."
+Hemi put the sonar headset on and listened closely for a minute. "It was just a derelict... Cassandra was right, the pursuing sub is still close to 10 miles behind us."
 
-"She still fucked us Hemi. A competent operator would have heard that derelict coming on."
+"She still fucked us Hemi. A competent operator would have fucking heard that derelict coming on."
 
-"She was just tired Sylvia. She had been at the sonar station for nearly 20 hours. I could have made the same mistake in that condition."
+"She was just tired Sylvia. She had been at the sonar station for nearly 20 hours. You or I could have made the same mistake in that condition."
 
-"I can't fucking use her in critical situations Hemi. It's too fucking risky."
+"I can't use her in critical fucking situations, Hemi. It's too fucking risky."
 
 Hemi did not reply.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 Bastian was climbing up through the hatch into the sonar compartment when Owen reported to Percy that the _Prospect_ was losing bouyancy in the bow again. Percy had already known it through the feeling of the angle of the deck against her feet, but the thought had yet to register itself in the conscious part of her mind.
 
