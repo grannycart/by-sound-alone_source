@@ -3,6 +3,7 @@ layout: home
 title: Subworld: Pre-Release Book 1
 ---
 
+[//]: # (A test comment before main body text.)
 
 * [Full Draft Manuscript](full-draft-manuscripts/manuscript_draft-subworld_book1.md)
 * [More stuff from Mort Rye](https://mortrye.github.io/)

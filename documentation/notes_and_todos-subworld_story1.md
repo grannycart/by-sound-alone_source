@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Wed Oct 27, 2021  04:08PM
+Last modified: Wed Oct 27, 2021  10:11PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -169,7 +169,7 @@ Last modified: Wed Oct 27, 2021  04:08PM
 #### Stilt City:
 * [X] make sure Shakes learns that Chips left the Prospect
 * [X] make references to Shakes beginning to go deaf
-* [ ] make sure Shakes knows that Owen is the reason the sub with the ram is after them
+* [X] make sure Shakes knows that Owen is the reason the sub with the ram is after them
 	* Could be around like 4700, where they fill Shakes in on what he missed
 	* But it feels like it would be better coming later as part of another convo
 
