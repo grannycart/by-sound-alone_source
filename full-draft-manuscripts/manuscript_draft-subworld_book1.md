@@ -5866,9 +5866,9 @@ By the third hour, the fear of being found started to convert into a somewhat sa
 
 After hours alone in the empty cargo hold standing in reeking bilge water, Owen finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the substantial part of the leaking. She reached over and patted his head, and then wiped her palm on her pants. By now the bow of the _Prospect_ leaned down about 5 degrees. She opened a couple of valves on the trim tank control panel and let water flow into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was another derelict.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+[//]: # (5 degree slope on a 300 meter ship puts the bow... how far under water? Is 5 degrees dramatic enough here?)
 
-Long hours of this stagnant situation turned into even longer hours. While Captain Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping, the reason so much cargo now crawled across the face of the globe underwater. But the success of using hiding as a technique depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the sub with the ram felt the same way.
+Long hours of this stagnant situation turned into even longer hours. While Captain Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping this was the reason so much cargo now crawled across the face of the globe underwater. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the sub with the ram would intuit the same conclusion.
 
 
 ## Chapter 8
@@ -5876,64 +5876,64 @@ Long hours of this stagnant situation turned into even longer hours. While Capta
 
 [//]: # (### Hemi comes up with a plan)
 
-Around mid-afternoon Hemi joined Percy on the bridge of the sail. Bastian had been sent off for much-needed rest, and Owen was temporarily covering sonar for Hemi, who needed a break to clear his mind of the endless streams of sound. Hemi would have asked Cassandra to cover for him, but there was no way to know how Percy would react if she found Cassandra back at the sonar station.
+Around mid-afternoon Hemi joined Percy on the bridge of the sail. Bastian had been sent off for much-needed rest, and Owen was temporarily covering sonar for Hemi, who needed a break to clear his mind after the endless streams of noise. Hemi would have asked Cassandra to cover for him, but there was no way to know how Percy would react if she found Cassandra back at the sonar station.
 
 Percy was squinting into binoculars as she scanned around the horizon. She was unused to the brightness of the ocean under high daylight. 
 
-She heard Hemi's heavy step up off the ladder onto the bridge, but she did not look away from the horizon. "Hemi, we have to make a move. The surface is an unnatural place for a submarine to hide. They are going to fucking find us eventually."
+She heard Hemi's heavy step up off the ladder onto the bridge, but she did not look away from the horizon while she spoke to him. "We have to make a move. The surface is an unnatural place for a submarine to hide. They are going to fucking find us eventually."
 
 "Having charted their search pattern, I agree. They are following an extremely systematic course, and that suggests to me that sub commander has high confidence that he will find us eventually, and is willing to take the time to do it."
 
-"We need to end this Hemi. We can't fucking run and hide from them forever. That fucker might think he's fighting a fucking entrenched battle, and will go on fighting with all the deep-pocketed resources of an Authority, but we have got to get back to work. We have no margin that covers working in these kinds of conditions."
+"We need to end this. We can't fucking run and hide from them forever. That fucker might be under the delusion he's fighting a fucking entrenched battle, and will go on fighting with all the deep-pocketed resources of an Authority. But we have got to get back to work. We have no fucking margin that covers operating in these kinds of conditions."
 
 "I have had the same thought. And I have an idea we could try --- though I warn you it is extremely unlikely to work."
 
-At this, Percy lowered the lenses and looked at him. "You have another option you have been holding out on me Hemi?"
+At this, Percy lowered the lenses and looked at him. "You have another option you have been fuckin' holding out on me?"
 
 "_Extremely_ unlikely to work --- and likely to get us killed. The magnetic warheads... I let a couple of crates slip off the palettes when they were being unloaded in Stilt City. So I have a few dozen warheads still stashed down in our cargo hold."
 
-"You want to try to hit them with one of those explosives?"
+"You want to try to hit them with one of those fuckin' explosives?"
 
 "They are the only weapon we have."
 
-"In-fucking-deed. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon, as Trinity mentioned a number of times. We can't just toss one over the water at them."
+"Indeed. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon, as Trinity mentioned a number of times. We can't just underhand one over the water at them."
 
-"The part of my idea that might get us killed is that part --- I propose we use the _Gnat_."
+"That is the part of my idea that might get us killed --- I propose we use the _Gnat_."
 
-"I don't think Shakes is going to appreciate you turning his boat into a torpedo, Hemi. As small and shittily made as it is."
+"I don't think Shakes is going to appreciate you turning his boat into a torpedo. As small and shittily made as it is."
 
 Hemi laid out a plan for her that, though likely to end with the destruction of the _Gnat_, did at least not intentionally involve blowing the _Gnat_ up. It did, however, use the _Prospect_ as bait. It took some convincing on Hemi's part for Percy to fully come around to supporting the idea.
 
-"OK Hemi. We're going to fucking try your insane plan to take out a military submarine with nothing but leftover parts hanging around my darling _Prospect_. Go ahead and get Shakes on the pigeon."
+"OK. We're going to fucking try your insane plan to take out a military submarine with nothing but leftover parts hanging around my darling _Prospect_. Go ahead and get Shakes on the pigeon."
 
 "You mean Herschel."
 
-"I don't care what the fucking bird's name is. Just make sure Shakes heads back here as silently as possible."
+"I don't care what the fuckin' bird's name is. Just make sure Shakes heads back here as silently as fuckin' possible."
 
 
 [//]: # (### Loading the Gnat)
 
-Hemi got Herschel off with a note to Shakes attached to the bird's leg with instructions to return to the _Prospect_ submerged and running slowly on battery power. It was going to take a while for Herschel to find Shakes, and then a while longer for Shakes to motor slowly back. Hemi figured he had a couple of hours at least to gather the things he needed.
+Hemi got Herschel off with a note to Shakes attached to the bird's leg containing instructions to return to the _Prospect_ submerged and running slowly on battery power. It was going to take a while for Herschel to find Shakes, and then a while longer for Shakes to motor slowly back. Hemi figured he had a couple of hours at least to gather the things he needed.
 
-The magenetic warheads were in the crates right where he left them. He selected a half dozen of the ones that were the least coated with dust and rust, and hauled them to a work table in the engine room. Each weighed about 25 kilograms and consisted of a cylinder containing high explosives that was about 300 milimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with the magnet that was strong enough to activate the switching mechanism, but weak enough that it was not likely to actually adhere itself to the target. The magnet was intended to be a trigger, not an attachment device.
+The magnetic warheads were in the crates he had left in the cargo hold. He selected a half dozen of the ones that were the least coated with dust and rust, and hauled them to a work table in the engine room. Each weighed about 25 kilograms and consisted of a cylinder containing high explosives that was about 300 millimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with the magnet that was strong enough to activate the switching mechanism, but weak enough that it was not likely to actually adhere itself to the target. The magnet was intended to be a trigger, not an attaching component.
 
-The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device would enable to understand how it worked, and thus handle it safely. Details were printed right on the side of the explosives cylinder, and it was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons of extinct microscopic sea creatures. It could not be exploded without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finicky that it would not go off in the close presence of another high explosive. A fortunate thing, because Hemi estimated he needed at least two of these devices to detonate if he wanted to blow a hole through the pressure hull of a military submarine.
+The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device would enable any idiot seaman to understand how it worked, and thus handle it safely. Details were printed right on the side of the explosives cylinder. It was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons from extinct microscopic sea creatures. It could not be exploded without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finicky that it would not go off in the close presence of another high explosive. A fortunate thing, because Hemi estimated he needed to chain at least two of these devices for detonation if he wanted to blow a hole through the pressure hull of a military submarine.
 
-He used large steel straps to join two of the cylinders together orienting them so the magnetic trigger plates faced out on both ends. He tracked down some batteries and wired them in to be the power supplies for the triggers. From a forgotten storage compartment for parts in the engine room he found a pile of old mechanical timed switches that could be wound up and then set before they closed the circuit. He wired these into the arming circuit on each warhead.
+He used large steel straps to join two of the cylinders together orienting them so the magnetic trigger plates faced out on both ends. He tracked down some batteries and wired them in as the power supplies for the triggers. From a forgotten storage compartment for parts in the engine room he found a pile of old mechanical timed switches that could be wound up and then set before they closed the circuit. He wired these into the arming circuit on each warhead.
 
-He made three more units like this. Each weighed 50 kilograms. Then he plundered the many storage compartments throughout the boat looking for the rest of the parts he needed: some old boat bumpers, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips. So a screwdriver went on his list of things to find too.
+He made three more units like this. With two magnetic warhead strapped together, each weighed more than 50 kilograms. Then he plundered the many storage compartments throughout the boat looking for the rest of the parts he needed: some old boat bumpers, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips. So a screwdriver went on his list of things to find too.
 
-He had most of the parts he needed gathered together by the time he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Owen to help him move all the parts he had gathered down to the battery compartment near the hatch that opened down to the _Gnat_.
+He had most of the parts he needed gathered together when he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Owen to help him move all the parts he had gathered down to the _Prospect's_ battery compartment near the hatch that opened down to the _Gnat_.
 
 As Owen opened the hatch to see Shakes' greasy-haired visage grinning up at them Percy's voice came back on the _Prospect's_ PA. "Hemi, Bastian is telling me that he is tracking the sub with the ram closing on us. He thinks they picked up the _Gnat_ and followed Shakes in."
 
-[//]: # (Put Herschel back aboard the Prospect here --- in case they want to contact the Gnat)
-
 Still down in the _Gnat's_ control seat, Shakes could hear the PA message. "Hemi, there's no way man --- I was ultra fucking slow and quiet on my approach. I could have passed through a sleeping baby's bedroom without fucking waking it."
 
-"They were pinging widely." Hemi replied, leaning over the hatch down to the _Gnat_. "They may have simply caught you moving and followed the only moving object in the water. It can't be helped now. Owen, help me get this stuff down to the _Gnat_."
+"They were pinging widely." Hemi replied, leaning over the hatch down to the _Gnat_ to accept the small package of feathers, feet, and beak that Shakes was holding up to him. "They may have simply caught you moving and followed the only moving object in the water. It cannot be helped now. Here Owen, stow Herschel somewhere safe and then help me get these parts down to the _Gnat_."
 
 "What's the plan?" Shakes asked as he accepted some filthy old boat bumpers down through the hatch and tossed them backward into the cargo space behind him.
+
+[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 "I am coming with you. I will explain the plan on the way. If the sub with the ram is coming in, we need to get the _Gnat_ off as quickly as possible." Said Hemi.
 
@@ -5964,6 +5964,7 @@ Hemi nodded and paused for a second before continuing. "Sylvia, this plan has a 
 She shook her head. "No fucking way Hemi. I'll grant you that she has learned fast enough to be perfectly capable of doing the job I hired her for --- I saw her potential first you know --- but in this situation where we live or die depending on what the sonar operator hears... uh uh. That little fucking shit stays in her rack."
 
 "Have you not noticed that with me on the _Gnat_ you are down yet another crew member? You are running a full-sized 100 meter cargo sub with a crew of four --- and that is including Cassandra. During the wars a boat this size would have had a crew of 70."
+2k; 122k
 
 "I'll put Bastian on sonar, it will be fine."
 
