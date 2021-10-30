@@ -6073,29 +6073,29 @@ The silence only lasted a second before Shakes' suddenly nasally-sounding voice 
 
 "Shortly, Captain Shakes. We must check the sonar first, and I am sure you can appreciate the pragmatism of that order to things."
 
-[//]: # (----- EDITED TO HERE ------)
+Hemi pulled the levers in reverse order to before to disengage the drive from the diesel and re-engage the electric motor. Unlike the diesel the electric motor did not have to be started. Shakes just pushed the throttle forward and the much softer hum of the electric drive motor increased in pitch along with the slight sense of acceleration.
 
-Hemi pulled the levers in reverse order to before to disengage the drive from the diesel and re-engage the electric motor. Unlike the diesel the electric motor didn't have to be started. Shakes just pushed the throttle forward and the much softer hum of the electric drive motor increased in pitch along with the slight sense of acceleration.
+Hemi stepped forward and powered up the passive sonar unit. He put the headset on and listened to the quiet ocean around them. He could not hear the _Prospect_ at all --- Percy must be running very slowly. But swinging the mics around he found the sub with the ram easily --- a few nautical miles off to the west of the _Gnat_. Even though the pursuing sub had to be much further away than the _Prospect_, and even though they were running submerged on electric motors, the sub with the ram was running fast enough to be easily tracked. They did not care who knew where they were.
 
-Hemi stepped forward and powered up the passive sonar unit. He put the headset on and listened to the quiet ocean around them. He couldn't hear the _Prospect_ at all --- Percy must be running very slowly. But swinging the mics around he found the sub with the ram easily a few nautical miles off to the west of the _Gnat_. Even though the pursuing sub had to be much further away than the _Prospect_, and even though they were running submerged on electric motors, the sub with the ram was running fast enough to be easily tracked. They did not care who knew where they were.
+It took Hemi about 15 minutes of listening to get a grasp on the situation. The sub with the ram had given up the pursuit of the _Gnat_, probably not long after Shakes and Hemi had started the engines. Hemi assumed they had quickly realized the _Gnat_ was once again playing a decoy. But the _Gnat's_ run had apparently thrown just enough confusion into the water for the sub with the ram to have lost their bead on the _Prospect_. They had taken up a search pattern again, and Hemi tracked them turning through a multi-mile diameter circle searching for the _Prospect_. They were pinging regularly, so if _Percy_ was moving, there was a good chance they would find the _Prospect_ soon.
 
-It took hemi about 15 minutes of listening to get a grasp on the situation. The sub with the ram had given up the pursuit of the _Gnat_, probably not long after Shakes and Hemi had started the engines. Hemi assumed they quickly realized the _Gnat_ was once again playing a decoy. But the _Gnat's_ run had apparently thrown just enough confusion into the water for the sub with the ram to have lost their bead on the _Prospect_. They had taken up a search pattern again, and Hemi tracked them slowly turning through a multi-mile diameter circle searching for the _Prospect_. They were pinging regularly, so if _Percy_ was moving, there was a good chance they would find the _Prospect_ soon.
+Hemi pulled back one earpiece and turned to Shakes. "There is not much time. Give us all the speed the _Gnat_ has got underwater. We have to get between the sub with the ram and the _Prospect._"
 
-"There's not much time Shakes. Give us all the speed the _Gnat's_ got under water. We have to get between the sub with the ram and the _Prospect._"
-
-"Ya, OK Hemi. But... now you absolutely fuckin' have to tell me what the fucking plan is!"
+"Ya, OK Hemi. But... now you absolutely fuckin' have to tell me what the fuckin' plan is."
 
 "Well..." Hemi made a wide gesture towards his devices piled up in the _Gnat's_ rear cargo space, "the plan is pretty simple, really. I intend to suspend some of the magnetic warheads I saved from the last shipment in the water column. With some careful calculations, I hope to set them in such a way that the sub with the ram will move into one and set it off, hopefully disabling the submarine."
 
-"Ah." Said Shakes. "So it's just a little fucking matter of flushing one of those bad boys out the escape trunk at precisely the right depth and in the path of that big ugly fucking sub, eh?"
+"Ah." Said Shakes. "So it's just a little fuckin' matter of flushing one of those bad boys out the escape trunk at precisely the right depth and in the path of that big ugly fucking sub, eh?"
 
 "I can control the depth with the amount of air in these old boat bumpers. I have calculated the pressure needed in the bumpers with enough precision, I believe, so that they should float at precisely 25 meters deep. That should take care of the Z axis, but I need you to navigate us across the path of the sub with the ram."
 
 "That may not be so fucking easy."
 
-"I am aware. I will be listening on sonar though. I am fairly confident the _Gnat_ is capable of doing the job."
+"I am aware. I will be listening on sonar though. I am confident the _Gnat_ is capable of doing the job."
 
-"Well fucking of course this boat can do it!"
+"Well of course this boat can fuckin' do it! ...I just never thought I'd be using the _Gnat_ to play fuckin' chicken with a full-sized full-speed ram-headed military sub."
+
+[//]: # (----- EDITED TO HERE ------)
 
 
 [//]: # (### Getting the boats and the devices into position)
