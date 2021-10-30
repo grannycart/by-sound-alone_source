@@ -1416,7 +1416,7 @@ In the deepest part of the _Prospect_, in the narrow hall between the forward an
 
 Gregory seemed a little nervous. "Ehhh, Chips, should we close and seal this watertight bulkhead door behind me here? Seems like if Shakes' welds fail completely when we open this hatch --- and worse case, say, the _Gnat_ tears the fuck away or something --- we'll be flooding the whole fucking _Prospect_ from this hole we're opening in the bottom of the boat, eh?"
 
-"I got my fucking bulkhead hatch closed and fuckin' sealed on this side. If it starts fuckin' flooding fast, we are going out your door and sealing it fuckin' behind us. There's no fuckin' way we're sealing our fuckin' selves in here and risking being fuckin' heroes to save this fucking ship."
+"I got my fucking bulkhead hatch closed and fuckin' sealed on this side. If it starts fuckin' flooding fast, we are going out your door and closing it the fuck behind us. There's no fuckin' way we're sealing our fuckin' selves in here and risking being fuckin' heroes to save this fucking ship."
 
 "Alright, I'm following you then Chips."
 
@@ -1436,15 +1436,15 @@ Chips nodded to Gregory, and he reached down into the hatch well, and cranked op
 
 While Gregory got the hoses for the bilge pump connected, Chips got on the PA with Hemi. "We gotta fucking fix these shitty fuckin' welds or it'll flood the fucking _Gnat_ when we open its fuckin' hatch, Hemi. Tell Shakes to sit fuckin' tight, and not to do a fuckin' thing." Hemi acknowledged, and she started putting her welding gear on.
 
-It was cold, frustrating, cramped work. But such had been all of Chips work on this trip. Maybe her whole life, she reflected. She let out a never-slowing stream of curses, attempting to damn down to a permanent watery hell not just all materials and work processes, but all the societal systems and turns of fate that had conspired against her to bring her to this particular misery. 
+It was cold, frustrating, cramped work. But such had been all of Chips work on this trip --- maybe her whole life, she reflected. She let out a never-slowing stream of curses, attempting to damn down to a permanent watery hell not just all materials and work processes, but all the societal systems and turns of fate that had conspired against her to bring her to this particular misery. 
 
 Shakes' welds were horrifically ugly, like stitch work on a revivified 19th Century cadaver. Stopping the leaks required hammering metal sheet patches into place, and welding them until they no longer leaked. Chips felt nothing but lucky when the leaking started to slow without her having made the situation worse by cutting through the mating ring or the hull of the _Gnat_.
 
-Eventually Chips had welded enough patching material in place that the leak slowed to a seep, and then finally stopped altogether. The pump sucked the last of the water out the well, leaving them looking at the recessed domed top hatch of the _Gnat_. The whole mess was holding, though Chips hoped she would never have to test it at any depth deeper than they already were.
+Eventually Chips had welded enough patching material in place that the leak slowed to a seep, and then finally stopped altogether. The pump sucked the last of the water out the well, leaving them looking at the domed top hatch of the _Gnat_ down in the recess. The whole mess was holding, though Chips hoped she would never have to test it at any depth deeper than they already were.
 
 Chips banged on the hatch with the end of the welding stick. "Eh Shakes ya fucker. You can open this fuckin' thing up now." She yelled into the empty metal well, her voice bouncing the curses back at her. There was the sound of the rusty sealing gears squeaking open and the hatch lifted up. 
 
-Shakes was grinning up at them as residual water dripped down on him. "Who's a fuckin' anglerfish now, eh motherfuckers?"
+Shakes was grinning up at them as residual water rained down on him. "Who's a fuckin' anglerfish now, eh motherfuckers?"
 
 "Don't touch them fucking welds when ya come through, the fuckers are still hellish fuckin' hot."
 
@@ -5929,57 +5929,83 @@ As Owen opened the hatch to see Shakes' greasy-haired visage grinning up at them
 
 Still down in the _Gnat's_ control seat, Shakes could hear the PA message. "Hemi, there's no way man --- I was ultra fucking slow and quiet on my approach. I could have passed through a sleeping baby's bedroom without fucking waking it."
 
-"They were pinging widely." Hemi replied, leaning over the hatch down to the _Gnat_ to accept the small package of feathers, feet, and beak that Shakes was holding up to him. "They may have simply caught you moving and followed the only moving object in the water. It cannot be helped now. Here Owen, stow Herschel somewhere safe and then help me get these parts down to the _Gnat_."
+"They were pinging constantly." Hemi replied, leaning over the hatch down to the _Gnat_ to accept the small package of feathers, feet, and beak that Shakes was holding up to him. "They may have simply caught you in motion and followed the only moving object in the water. It cannot be helped now. Here Owen, stow Herschel somewhere safe, and then help me get these parts down to the _Gnat_."
 
-"What's the plan?" Shakes asked as he accepted some filthy old boat bumpers down through the hatch and tossed them backward into the cargo space behind him.
+"What's the fuckin' plan?" Shakes asked as he accepted some filthy old boat bumpers down through the hatch and tossed them backward into the cargo space behind him.
 
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
+"I am coming with you. If the sub with the ram is coming in, we need to get the _Gnat_ off as quickly as possible. I will explain the plan on the way." Said Hemi.
 
-"I am coming with you. I will explain the plan on the way. If the sub with the ram is coming in, we need to get the _Gnat_ off as quickly as possible." Said Hemi.
-
-Hemi got Shakes to swap places with him, and standing down in the _Gnat_ received the heavy explosive units that a straining Owen and Shakes lowered down to him. After those it was only a matter of minutes to pass down all the odds and ends into the _Gnat_.
+Hemi had Shakes swap places with him, and standing down in the _Gnat_ received the heavy explosive units that a straining Owen and Shakes lowered down to him. After those it was only a matter of minutes to pass down all the odds and ends into the _Gnat_.
 
 When it looked like everything was aboard, Shakes climbed down and joined Hemi in the _Gnat_.
 
-"I hope you didn't forget anything." Shakes said, looking at the pile of what appeared to be garbage that could hardly be distinguished from all the foul junk floating around on the surface of the sea around them.
+"I hope you didn't fuckin' forget anything." Shakes said, looking at the pile of what appeared to be just garbage in the middle of his boat's cargo space.
 
-"If we need anything, I am sure the copious bounty of the _Gnat's_ hold will provide." Hemi replied.
+"If we need anything else, I am sure the copious bounty of the _Gnat's_ hold will provide." Hemi replied.
 
-Shakes grinned. At the same time Captain Percy leaned her head down into the hatch and called Hemi over. Hemi moved to stand under the _Gnat's_ sail and look up at Percy while she spoke.
+Shakes grinned. 
 
-[//]: # (Possibly, it's too much to believe that Percy would walk away from the control room to talk to Hemi here with the sub with the ram closing. Below convo maybe needs to be moved up to before Hemi starts assembling?)
+"If y'all have everything, I'm going to seal these fuckin' hatches." Owen called down from the _Prospect_.
 
-"Hemi, you think this fucking idea of yours will work?
+Hemi shuffled his big body forward in the cramped space and looked up at Owen. Owen reached out his still-boyish hand and Hemi lifted one meaty mitt to meet it. Shakes watched them shake.
 
-"Frankly I give it about 1 chance in 5."
+"Don't fuckin' die down there Captain Shakes." Owen said, angling his head so his voice reached back to where Shakes was standing.
+
+"If I do, fuckin' take care of Herschel!" Shakes called back as Owen seated and sealed the _Gnat's_ hatch.
+
+Shakes shimmied forward and slithered into the _Gnat's_ control seat. He unclipped one of the bigger wrenches from his hip and gave the hatch above his head a ringing double-tap to let Owen know they were about to disconnect. As his hand with the wrench came down, he put out a finger and snapped open the switch that made the circuit to the docking clamps. It was immediately followed by a low thump from the outside of the _Gnat's_ hull.
+
+Hemi was still wedged into the small space next to the control chair."If you're going to take up that space there big guy, would you mind workin' the fuckin' trim? Give us a little flood."
+
+Shakes had left the _Gnat_ a little over-buoyant while it was attached to the _Prospect_, so even with the docking clamps disengaged the boat's mating collar was still pressed firmly against the _Prospect's_. Hemi twisted open a valve and they could hear water pouring into the _Gnat_. It was only seconds later that the boat dropped a meter or two. Shakes gave the electric motor some throttle and most of the dials in front of the two men suddenly came to life with their little fingers of fate wagging at them.
+
+"_Gnat_, _Gnat_. You boys fuckin' listening?" Captain Percy's voice lit up the ship-to-ship radio.
+
+Hemi closed the trim tank valves and picked up the ship-to-ship mic from in front of Shakes. "We have you Sylvia."
+
+"I couldn't let you two shitheads just go off and try this dumb-ass fuckin' idea of yours without a proper send-off Hemi."
+
+"Uh, Hemi. When are you going to fill me in on the fuckin' details of your little plan here?" Shakes asked. "I'm not so sure I like the vibe I'm gettin' from the rest of yer fuckin' crew."
+
+Percy's voice came back over the ship-to-ship. "How does your inhumanly calculating mind put the odds that this plan will fuckin' actually work?" 
+
+"Frankly, I give it about 1 chance in 5." Said Hemi into the mic while holding up a finger to Shakes.
 
 "And what are the chances that you will blow up either the _Gnat_ or the _Prospect_ or both?"
 
-"At least one? I'd say 1 chance in 4. But I also think it is very likely that one way or another the plan will bring this pursuit to an end."
+"At least one of the two boats? I would say 1 chance in 4."
 
-"Counting blowing us up as one way the pursuit could end."
+"One in fuckin' four?!" Shouted Shakes.
 
-Hemi nodded and paused for a second before continuing. "Sylvia, this plan has a better chance of working if you put Cassandra on sonar again."
+"But I also think it is very likely that one way or another the plan will bring this pursuit to an end." Hemi continued.
 
-She shook her head. "No fucking way Hemi. I'll grant you that she has learned fast enough to be perfectly capable of doing the job I hired her for --- I saw her potential first you know --- but in this situation where we live or die depending on what the sonar operator hears... uh uh. That little fucking shit stays in her rack."
+"Counting blowing us up as one way the pursuit could end?" Asked Percy.
 
-"Have you not noticed that with me on the _Gnat_ you are down yet another crew member? You are running a full-sized 100 meter cargo sub with a crew of four --- and that is including Cassandra. During the wars a boat this size would have had a crew of 70."
-2k; 122k
+"That is right." Hemi paused for a second before continuing. "I would like to also point out that this plan has a better chance of succeeding if you put Cassandra on sonar again."
 
-"I'll put Bastian on sonar, it will be fine."
+"No fucking way Hemi. I'll grant you that she has learned fast enough to be perfectly capable of doing the sittin' sonar watch job I hired her for --- I saw her potential first you know --- but in this situation where we live or die depending on what the sonar operator hears... nope. That little fucking shit stays in her rack."
 
-"You need Bastian to run the trim tanks and Owen to steer the boat. You need to keep yourself free to think about tactics --- tactics are what will make this plan successful, or not."
+"Have you not noticed that with me on the _Gnat_ you are down yet another crew member? You are running a full-sized 100 meter cargo sub with a crew of four --- and that is including Cassandra. During the wars a boat the size of the _Prospect_ would have had a crew of 70."
 
-Percy looked down at Hemi's big brown face without saying anything.
+"I'll put Bastian on sonar. It will be fucking fine."
 
-"Besides," Hemi continued, "Cassandra can do this."
+"You need Bastian to run the trim tanks and Owen to steer the boat. You need to keep yourself free to think about tactics --- tactics are what will make this plan successful, or not." Hemi paused. "Besides, Cassandra can do this."
 
-Percy sighed. "Alright Hemi. It's your plan, I defer to you. I'll put her back on sonar. If she kills us all, just know my last thought will be that you were fucking wrong."
+There was silence from the radio for a minute. Then: "alright Hemi. It's your fuckin' plan, I fuckin' defer to you. I'll put her back on sonar. If she kills us all, just know my last thought will be that you were fucking wrong."
 
-Hemi reached his big meaty hand up, and Percy met it with her small and calloused hand. They shook, and Percy closed the hatch over Hemi and Shakes. A moment later she heard the thump of the _Gnat's_ hatch setting into place, and then the clang of a crescent wrench indicating that the _Gnat_ was sealed and ready to push off from the _Prospect_.
+"I can die with that."
+
+"Seriously. Do you're fuckin' best not to die boys."
+
+
+[//]: # (----- EDITED TO HERE ------)
+
+[//]: # (Seems like Shakes would now insist on hearing the plan, you need to either have that happen here, or have Hemi put Shakes off for a bit)
 
 
 [//]: # (### The Gnat runs on the surface; leads the sub with the ram away)
+
+
 
 "Bring us up to the surface Shakes. The first thing we have to do is try to confuse that sub into following the _Gnat_, even if just for a little bit. We are not ready to use the _Prospect_ for bait... yet."
 
