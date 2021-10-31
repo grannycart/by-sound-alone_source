@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Sun Sep 26, 2021  12:17PM
+Last modified: Sun Oct 31, 2021  05:05PM
 
 
 # notes on sub diagrams
@@ -46,7 +46,10 @@ Last modified: Sun Sep 26, 2021  12:17PM
 	* [ ] add/adjust scale
 	* [ ] add mating collar
 	* [ ] add pigeon hatch
+	* [ ] make sure top hatch opens upward
 	* [ ] Remove sonar array and replace with deck and keel hydrophones
+	* [ ] Add escape trunk
+		* [ ] bottom hatch of escape trunk opens upwards 
 	* [X] find a diagram in US Subs to scan that could be a base frame for the Gnat
 		* Possibly use the exterior line of the midget sub on pg 223
 			* crop out sail extension
