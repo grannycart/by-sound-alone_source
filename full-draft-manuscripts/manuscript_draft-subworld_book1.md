@@ -3401,7 +3401,9 @@ Shakes handed Hemi a small leather case with tiny papers and a steel band. "This
 
 "I expect to, though I'll miss having my copilot with me."
 
+
 ## Chapter 5
+
 
 [//]: # (### Shakes leads off the sub with the ram )
 
@@ -5399,9 +5401,7 @@ Percy put the periscope up and scanned around an empty sea. The western sky was 
 But it was not long before Percy had the crew back below deck to start the bilge pumps that would finally remove the water from the cargo hold, and run  the low-pressure air compressors to get the boat fully surfaced. She also decided it was time to risk a little more noise and they started the electric motors --- she would hold off on starting the diesels until after dark, even though they were moving on the surface now. She selected an eastern course to take them away from the sub with the ram and towards their rendezvous point with Shakes.
 
 
-
 ## Chapter 7
-
 
 
 [//]: # (### Rendezvous with Shakes)
