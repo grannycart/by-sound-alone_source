@@ -6185,42 +6185,44 @@ Shakes initial feeling of excitement that such a claptrap device actually worked
 
 "The device worked, but I am not hearing any sign that they were damaged." From where he was standing below, Hemi's voice did not reveal any sense of disappointment. "They just passed under us, still tracking the _Prospect_." 
 
-[//]: # (----- EDITED TO HERE ------)
+"So that's fucking it? Impenetrable fuckin' hull?"
 
-"So that's fucking it? Impenetrable fucking hull?"
+"They hit my explosive with their ram, which is probably a very well-reinforced part of the ship." Hemi hesitated. "We need to figure out how to deliver a charge to a weaker part of the ship."
 
-"They hit the device with the ram, which is likely a well-reinforced part of the ship." Hemi hesitated. "We need to figure out how to deliver a charge to a weaker part of the ship."
+"Yeah, and while you are pondering that tiny fuckin' challenge, they are closing in for a shot on the _Prospect_."
 
-"Yeah, and while you are pondering that tiny fucking challenge, they are closing in for a shot on the _Prospect_."
+"Hopefully Captain Percy can manage one close pass by the sub with the ram and give us time to get another device into position. We need to get the _Gnat_ back under water."
 
-"Hopefully Captain Percy can manage at least one close pass by the sub with the ram to give us time to get another device into position. We need to get the _Gnat_ back under water."
+"Hang on, don't forget we need to reset the fuckin' escape trunk first."
 
-"Hang on, don't forget we need to reset the escape trunk first."
+"How do you pump the water out of the flooded trunk?"
 
-"How do you pump the water out?"
-
-"Pump! Ha. Just open the fucking hatch down there, and let it run into the bilge. Then run the bilge pumps to pump it out."
+"Pump! Ha. Just open the fuckin' bottom hatch down there, and let it run into the bilge. Then we'll turn on the bilge pumps to toss the water off the boat."
 
 "Elegant." Hemi slid his big body back past the engine again, and a minute later Shakes saw the water in the escape trunk drop away into the bottom of the _Gnat_.
 
-Shakes stepped out of the sail and leaned over the now empty escape trunk where Hemi's round face was looking up at him. "Maybe I should rig some kind of pump for the escape trunk." Shakes said to him. "I actually have to do that more often than I like. The fucking hatch opens sometimes while diving, just from the fucking stresses on the hull I Guess. Fucking pain in the ass."
+Shakes stepped out of the sail and leaned over the now empty escape trunk where Hemi's round, black-bearded face was looking up at him. "Maybe I should rig some kind of pump for the escape trunk." Shakes said to him. "I actually have to do that emptying maneuver more often than I like. The fucking hatch opens sometimes while diving, just from the fucking stresses on the hull I guess. Fucking pain in my ass."
 
-"You could just fix the latch to make sure it only opens when it is supposed to." Hemi said.
+"You could just fix the latch to make sure it only opens when it is supposed to." Hemi said. "When we are done with this project, I can help you with that."
+
+"You mean if we _live_ through this fuckin' scare-quotes _project_."
+
+------
 
 
 [//]: # (### In the Prospect)
 
-In the control room of the _Prospect_, Captain Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through the boat's hull.
+In the control room of the _Prospect_, Captain Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through her boat's hull.
 
-"Cassandra!" Percy shouted down to the sonar compartment. "Tell me what happened!"
+"Cassandra!" Percy shouted down to the sonar compartment. "Tell me what they fuck just happened!"
 
 Cassandra nervously fumbled with the directional control wheel for the sonar mics and flipped switches controlling filters on and off. "There was an explosion..."
 
-Percy sighed. "I know that Cassandra. Did it hit the sub with the ram? Are those fuckers sinking?"
+Percy sighed. "I fucking know that Cassandra. Did the explosion hit the sub with the ram by any chance? Are those fuckers sinking right now?"
 
-"I... I can't tell. There's nothing but silence out there now."
+"I... I can't tell. There's nothing but silence out there at the moment."
 
-"Figure it out Cassandra! I'm fucking depending on you here."
+"Fucking figure it out Cassandra! I'm fuckin' depending on you here."
 
 "The explosion definitely came from the pursuing sub --- I'd say they hit Hemi's device. But..."
 
@@ -6228,22 +6230,22 @@ A full minute passed.
 
 "But what Cassandra? I need to know what is fucking happening!"
 
-Cassandra sighed. "I can hear them now. The pursuing sub is still after us. It is definitely not sinking. As far as I can tell, it isn't even damaged."
+Cassandra sighed. "I can hear them now. The pursuing sub is still after us. It is definitely not sinking. As far as I can tell, it isn't even fucking damaged."
 
-"Fuck!" Percy spat and lit a cigarillo. "It sounded so good. I thought we'd at least have taken a bit of wind out of their sails." She said mostly to herself.
+"Fuck me!" Percy spat and lit a cigarillo. "It sounded so fuckin' good. I thought we'd at least have taken a bit of wind out of their fuckin' sails." This she said mostly to herself.
 
 
 [//]: # (### Another torpedo fired at the prospect; hits derelict)
 
-"Captain Percy!" Cassandra was shouting now. "There's a torpedo in the water! They've fired on us!"
+"Captain Percy!" Cassandra was shouting now. "There's a torpedo in the water! They've fired at us!"
 
 "Stay calm Cassandra." Percy's kept her voice very even. "This is very important: has the torpedo acquired us? Is it pinging us? If so, we have to dive _now_. And if we dive, this plan is over."
 
 "I don't know Captain Percy!"
 
-"Figure it out Cassandra. Listen until you can see what's happening in your head. Then tell me what I need to do."
+"Figure it out Cassandra. You know what a pinging torpedo sounds like. Listen until you can see what's happening in your head. Then tell me what I need to do."
 
-Cassandra slowly closed her big eyes. The earphones of the sonar pumped sound into her head and her mind passed out of the _Prospect_ and into the water. She searched around with it, looking to port, then to starboard behind the _Prospect_, passing over the dead zone where the prop wash made her deaf. She found the torpedo --- a high whining electric motor just off their rear port side. She wrapped her head around it, and in her mind she could see the machine, long and steel and slipping through the water at a speed that was far faster than anything else she'd ever heard. It was coming directly toward her.
+Cassandra slowly closed the lids over her large eyes. The earphones of the sonar pumped sound into her head and her mind passed out of the _Prospect_ and into the water. She searched around with it, looking to port, then to starboard behind the _Prospect_, passing over the dead zone where the prop wash made her deaf. She honed in on the torpedo --- a high whining electric motor just off their rear port side. She wrapped her head around it, and in her mind she could see the machine --- a long, slick steel tube slipping through the water at a speed that was far faster than anything else she'd ever heard. It was coming directly toward her.
 
 It started pinging. The round ringing echo of it almost hurt her ears.
 
@@ -6251,17 +6253,17 @@ It started pinging. The round ringing echo of it almost hurt her ears.
 
 "That means it's probably armed. Now tell me if it seems like it is tracking the _Prospect_. Bastian, come port 20 degrees."
 
-Bastian spun the rudder control wheel and the boat listed slightly over to the left side as it made it's turn.
+Bastian spun the rudder control wheel and the boat listed slightly over to the left side as it made its turn.
 
 Cassandra did not hear any corresponding change to the torpedoes direction. "It doesn't seem to be tracking us Percy --- no change to direction."
 
 "OK, it hasn't acquired us... yet. What's the range?"
 
-Cassandra looked at the sonar rig readout. "1.3 miles."
+Cassandra looked at the active sonar rig readout. "1.3 miles."
 
 "That's not very much room to play with Cap." Said Bastian, nervously fingering the throttle control.
 
-"No fucking shit Bastian."
+"No shit Bastian."
 
 Bastian lit a cigarette and blew smoke out from one side of his mouth.
 
@@ -6271,9 +6273,11 @@ Cassandra scanned back and forth in wider arcs around the _Prospect_ with the so
 
 "Captain Percy! The torpedo is tracking a derelict!" She announced confidently.
 
-"Are you fucking sure?"
+"Are you sure?"
 
-"Absolutely. It will hit any..." In her earpieces the explosion suddenly pierced through her mind, and she yanked the headset off. A second later the detonation rumbled through the hull of the _Prospect_.
+"Absolutely. It will hit at any..." In her earpieces the explosion suddenly pierced through her mind, and she yanked the headset off, but she was too slow to save her ears from being swamped with a painful and enduring ringing sound.
+
+A second later the detonation rumbled through the hull of the _Prospect_.
 
 Percy smiled. "Nice fucking work Cassandra! I don't think they will risk another torpedo on us in these waters. They wasted two already, and those fucking things are expensive."
 
@@ -6284,68 +6288,71 @@ Percy smiled. "Nice fucking work Cassandra! I don't think they will risk another
 
 Percy ignored Owen. "Cassandra, the next task is to find the fucking _Gnat_ and figure out what Hemi is doing.
 
-"Right Captain Percy."
+"Right, Captain Percy."
 
 "And don't forget to track those fuckers pursuing us at the same time. What's the range?"
 
 "2.3 nautical miles. And they are increasing speed now."
 
-"They're trying to close on us. You might be right Owen." Percy looked at the battery gauges. They were moving fast enough at 10 knots that she could almost see them moving. They had passed into the hatched red zone. They only had a matter of 20 minutes or so of battery remaining. Then they would be forced to surface --- and they would be an easy target for a final ramming.
+"They're trying to close on us. You might be right Owen." Percy glanced at the battery gauges. They were moving fast enough at 10 knots that she could almost see the batteries draining. Those gauges had passed into the hatched red zone. They only had a matter of 20 minutes or so of battery remaining. Then they would be forced to remain stationary or surface --- either was they would be an easy target for a final ramming.
 
 "Find the _Gnat_ Cassandra! Quickly!"
 
-It was not an easy task. While the _Gnat_ made a racket running diesel on the surface, its small size and tiny electric motor made it nearly invisible under water. The noise from the _Prospect's_ electric motors at this speed also drowned out much chance of hearing a target as small as the _Gnat_. Her only chance was carefully filtering the _Prospect's_ motor noise out, and then somehow landing the sonar mics precisely on the bearing of the _Gnat_. She flipped filters on and off, and adjusted the fine-control dials carefully. Eventually she managed to limit the noise wash from the _Prospect_ to a degree that gave her some sense she might be able to hear around it.
+It was not an easy task. While the _Gnat_ created an earth-shaking amount of noise while running diesel on the surface, its small size and tiny electric motor made it nearly invisible under water. And even though it was relatively quite, the noise from the _Prospect's_ electric motors at this speed also drowned out much chance of hearing a target as small as the _Gnat_. The only way it could be done was by carefully filtering the _Prospect's_ motor noise out, and then somehow landing the sonar mics precisely on the bearing of the _Gnat_. Cassandra flipped filters on and off, and adjusted the fine-control dials carefully. Eventually she managed to limit the noise wash from the _Prospect_ to a degree that gave her some sense she might be able to hear her way around it.
 
-She scanned and scanned, back and forth. All the way around the bow too, but mostly focussing on the direction behind where she had last heard them. Her mind was out there, deep in the water behind her, but there was nothing but darkness there. She felt like she was blind, except for her sense of the _Prospect_, and the sub with the ram steadily gaining on them.
+She scanned and scanned, back and forth. All the way around the bow too, but mostly focussing on the direction behind where she had last heard the little boat moving. Her mind was out there, deep in the water behind her, but there was nothing but darkness there. She felt like she was blind to everything except for her sense of the _Prospect's_ position, and the sub with the ram steadily gaining on them.
 
 Then she heard the faintest rhythmic pumping noise, off to the starboard side. It had to be mechanical, and the _Gnat_ was the only other machine in the area. She locked in on it, and tracked it carefully for a minute. "I've got them Captain Percy! 30 meters down, almost directly off our starboard side. About a quarter mile off."
 
 "Excellent. They might hear us on ship-to-ship." Percy pulled down the radio mic and called out into the water for Shakes.
 
-"_Prospect!_ Captain Shakes here. I fucking read you. Nice to hear you didn't go down with that last fucking torpedo."
+"_Prospect!_ Captain Shakes here. I fucking read you. Nice to hear you didn't go down with that last fucking torp."
 
-"Indeed. Though unfortunately Owen here has a theory that now those fuckers are after us for another ramming. Based on the speed they've put on, I'm inclined to agree with Owen. So... what's the plan now?"
+"Indeed. Unfortunately Owen here has a theory that now those fuckers are after us for another ramming. Based on the speed they've put on, I'm inclined to agree with him. So... what's the plan now?"
 
-"Ay, fuck. Well Hemi says he still thinks he can take them down. He just needs to deliver to device to a weaker part of their sub than the ram --- which is what they detonated the last one with."
+"Aye, fuck. Well Hemi says he still thinks he can take them down. He just needs to deliver one of his devices to a weaker part of their sub than the ram --- which is what they detonated the last one with."
 
 "And how is he going to do that?"
 
 "Fuck if I know. I'm just steering the boat the way the Boss says. Hang on..." A few seconds of static came across the radio, and then Shakes picked up again. "Hemi says you should just keep running --- make evasive moves if you can. He's going to maneuver us into position to deliver a second device."
 
-"OK Shakes. But keep in mind we're down to maybe 15 minutes on the battery here. As soon as we're out, we're a dead target for a boat with an intention to ram."
+"OK Shakes. But keep in mind we're down to maybe 15 minutes on the battery here. As soon as we're out, we're a dead-still target for a boat with an intention to ram."
 
-Another second passed. "Hemi says, get this: 'he will take your remaining battery into his calculations.'"
+Another second passed. "Hemi says --- fuckin' get this --- 'he will take your remaining battery into his calculations.'"
 
 "If anyone beside Hemi had said that to me, I would not be able to take it as any kind of fucking reassurance. Don't fucking sink Shakes --- I need Hemi back."
 
-"Don't you fuckers sink either --- I've gotten used to your hot fuckin' food! Out." Shakes clicked off.
+"Don't you fuckers sink either --- I've gotten used to the fuckin' hot meals on your boat! Out." Shakes clicked off.
 
-Bastian reached one long finger up and uselessly tapped the battery gauge.
+As Percy hung the mic back up above her head, Bastian reached one long finger out and fruitlessly tapped the battery gauge.
 
+------
 
 [//]: # (### Back in the Gnat to lay the final warhead)
 
 "We have to go deeper Shakes. 50 meters."
 
-"Can't fuckin' do that Hemi. The fuckin' _Gnat_ was built at altitude man! Below 30 and the seams start splitting. 50 is out of the question."
+"Can't fuckin' do that Hemi. The fuckin' _Gnat_ was built at altitude man! Below 30 and the seams start splitting. 50 is out of the fuckin' question."
 
-"If we lay the mines shallow, the sub with the ram hits them head on. As you could see from the first device, the ram essentially acts as heavy plated armor. We're not going to do any damage if their boat hits the mine with the ram. If we can get the device _under_ their boat though --- if we can get it to detonate right in the middle of their sub --- the upward force of the explosion will will blow through the middle and break the boat's back. Snap it in half. And all the watertight compartments in the world will not help them at that point. At least in theory."
+"If we lay the mines shallow, the sub with the ram hits them head on. As you could see from the first device, the ram essentially acts as heavy plated armor. We are not going to do any damage if their boat hits the mine with the ram. If we can get the device _under_ their boat though --- if we can get it to detonate right in the middle of their sub --- the upward force of the explosion will blow through the middle and break the sub's back. Snap it in half. And all the watertight compartments in the world will not help them at that point. At least in theory."
 
 "That sounds to me like the _Gnat_ would have to be directly under them, release the mine, and have it go off almost immediately. How are we fucking surviving that Hemi?"
 
-"Not quite. I will set the arming timer. We can leave the mine under their path, and if I get the timer right, it will arm just as the middle of the sub passes over it, and detonate immediately. We would have a few minutes at least to move the _Gnat_ to safety, probably the surface again."
+"Not quite. I will set the arming timer. We can leave the mine under their path, and if I get the timer right, the weapon will arm just as the middle of the sub passes over it --- and detonate immediately. We would have a few minutes at least to move the _Gnat_ to safety, probably the surface again."
 
 "You can calculate the timing that precisely?"
 
 "I believe so. It is just a refined use of dead reckoning."
 
-"Never was very fucking good at dead reckoning myself."
+"Never was very fuckin' good at dead reckoning myself."
 
-"All you have to do is drive the boat Shakes."
+"All you have to do is drive the boat Captain Shakes."
 
-"...To a depth I never intended to take it."
+"...Down beyond a depth I never intended to take it."
 
-Hemi pounded on one of the roughly-welded thwarts. "It is a good boat, Shake. I think it is capable of more than you give it credit for."
+[//]: # (----- EDITED TO HERE ------)
+
+Hemi pounded on one of the roughly-welded thwarts. "It is a good boat . I think it is capable of more than you give it credit for."
 
 "I'd have more fucking faith in that statement if it came at a time when you were not trying to convince me to do something incredibly fucking stupid with the _Gnat_."
 
