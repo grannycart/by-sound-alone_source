@@ -6132,9 +6132,7 @@ It was difficult to get the heavy warhead package to balance on it, but he did m
 
 Finally, Hemi reached back up into the escape trunk and wound the mechanical timers that would close the circuit to arm the warheads when the timer reached zero. He set them to a frighteningly-short 5 minutes --- hardly enough time for the _Gnat_ to drive clear of the amount of explosive the combined warheads packed. But he could not risk the devices being unarmed when the sub with the ram came within range of them. 
 
-Time was compressing down on Hemi. The little mechanical timers buzzed away, the sound reverberating around inside the circular steel walls of the escape trunk. The rickety little devices strove desperately to count out their 5 minutes with some precision. Hemi gingerly lowered the escape trunk hatch door down and spun the sealing wheel closed, which cut off the quick ticking of the timers, and left him in silence.
-
-[//]: # (----- EDITED TO HERE ------)
+Time was compressing down on Hemi. The little mechanical timers buzzed away with their sound reverberating around inside the circular steel walls of the escape trunk. The rickety little devices strove desperately to count out their 5 minutes with some precision. Hemi gingerly lowered the escape trunk hatch down and spun the sealing wheel closed, which cut off the quick ticking of the timers and left him in silence.
 
 [//]: # (### Releasing the devices; breaching the Gnat)
 
@@ -6142,51 +6140,52 @@ Hemi looked around the outside of the escape trunk for a control that would floo
 
 "Shakes, how do you flood the escape trunk?"
 
-"Flood? Hemi this ain't no fucking commercial sub with some kind of specs-mandated flood-and-pump escape trunk for getting a crew of 50 off a boat. The _Gnat_ has a normal crew complement of just 1, so the escape trunk is a one-time use only. That big ugly lever above your head releases the escape trunk topside hatch. There's another lever inside the escape trunk just like it. I rigged the hatch with a giant fucking spring. The hatch opens and the ocean floods in. That's fucking it."
+"Flood? Hemi this ain't no fucking commercial sub with some kind of specs-mandated flood-and-pump escape trunk for getting a crew of 50 off a boat. The _Gnat_ has a normal crew complement of just one, so the escape trunk is a one-time use only. That big ugly lever above your head releases the escape trunk topside hatch which is rigged a giant fucking spring to open it. There's another lever inside the escape trunk just like it that does the same thing. The hatch opens and the ocean pours in. That's fucking it."
 
 "So it cannot be reset underwater then?"
 
-"Hells the fuck no. Fuck, the only reason I even put in an escape trunk was so I could flush out any problematic cargo if I got into a sticky situation with an Authority vessel. That... and I was fucking terrified of being stuck on the bottom of the ocean and unable to open the sail hatch."
+"Hells the fuck no. Fuck, the only reason I even put in an escape trunk was so I could flush out any problematic cargo if I got into a sticky situation with a fuckin' Authority vessel. That... and I was fuckin' terrified of being stuck on the bottom of the ocean and unable to open the fuckin' sail hatch."
 
 "Alright. It will have to do. Be ready, I will open the escape trunk in another minute or so."
 
-Hemi held the stopwatch up in front of his eyes and the second hand rapidly screwed itself across the face of the watch. In his head Hemi could see their position in the water, see where the _Prospect_ should be off to their port side, and see the sub with the ram --- all black and fiercly toothy in the front in an way that was unnatural for a submarine --- charging towards Shakes' rickety little craft from starboard. The boats all moved relative to each other in his head, driven into position by the second hand on the stopwatch. He put his hand up to the heavy iron lever covered with flecks of rust above his head.
+Hemi held the stopwatch up in front of his eyes and the second hand rapidly screwed itself across the face of the watch. In his head Hemi could see their position in the water, see where the _Prospect_ should be off to their port side, and see the sub with the ram --- all black and fiercely toothy in the front in an way that was entirely unnatural for a submarine --- charging towards Shakes' rickety little craft from starboard. The boats all moved relative to each other in his head, driven into position by the second hand on the stopwatch. He put his hand up to the heavy iron lever covered with flecks of rust above his head.
 
-The second hand curled around and came up level. In Hemi's head the boats were all in the exact position. His thick fist tightened on the lever and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
+The second hand curled around and came up level. In Hemi's head the boats were all in the exact position. His thick fingers tightened on the lever and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
 
-But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and back against the deck of the _Gnat_. Hemi could almost feel the intense weigh of the water under the pressure of 3 atmospheres pushing into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
+But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of 3 atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
 
 "The device is away Shakes!" Hemi called forward.
 
-"...Are you sure about that? I'd hate to find out it's stuck in there and arming itself."
+"...Are you sure about that? I'd hate to find out it's stuck in there and fuckin' arming itself."
 
 "I am as sure as I can be. Blow the tanks --- the surface is going to be the safest place for us in the next few minutes."
 
-"Ay Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water globbed heavily out of the boat into the surrounding ocean. The Gnat started upwards --- slowly for a second --- and then a second later gained speed. "Hang on to something Hemi!"
+"Fuckin' aye Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water burbled heavily out from the boat's ballast tanks into the surrounding ocean. The Gnat started upwards --- slowly for a second --- and then a moment later gaining speed. "Hang the fuck on to something Hemi!"
 
 Hemi could feel his stomach dropping and grabbed one of the freezing pipes that ran along the hull next to him. He gripped the pipe with his hard fists, his knuckles whitening through his cracked skin. The pipe was so cold the moisture of his palms froze and his skin stuck to the metal.
 
-Hemi had ridden submarine ballast blows up hundreds of times, but the tiny _Gnat_ was a different experience from a big cargo sub like the _Prospect_. In the _Prospect_ it was a dramatic but graceful manuever, something akin to a calving glacier. The _Gnat_ was another matter entirely, like a bird of prey diving on a small sparrow. The whole boat shook with the strain of it, the hull made sounds like it was cracking apart --- it was by no means clear to Hemi that it was not. When the bow popped through the surface a second later, the boat came down hard and Hemi was forced to rip one hand from the pipe and throw it up to keep his head from being driven into the escape trunk lever.
+Hemi had ridden submarine ballast blows up hundreds of times, but the tiny _Gnat_ was a different experience from a big cargo sub like the _Prospect_. In the _Prospect_ it was a dramatic but graceful maneuver, with the power and dynamism of a calving glacier. The _Gnat_ was another matter entirely. More like a bird of prey diving on a small sparrow. The whole boat shook with the strain of it, the hull made sounds like it was cracking apart --- and it was by no means clear to Hemi that it was not. When the bow popped through the surface a second later, the boat came down hard and Hemi was forced to rip one hand from the pipe and throw it up to keep his head from being driven up into the escape trunk lever.
 
-On the surface, the bow of the boat, which had taken on a dramatic upward angle from the ballast blow, settled slowly in front of the two men. The _Gnat_ leveled out and a sense of calm flowed through the craft. As soon as he was sure the maneuver was complete, Hemi moved rapidly past the engine and pushed in next to the sonar unit. He had the headset on and was tracking the sub with the ram in a few seconds.
+On the surface, the bow of the boat, which had taken on a dramatic upward angle from the ballast blow, settled slowly ahead of the two men. The _Gnat_ leveled out and a sense of calm flowed through the craft. As soon as he was sure the maneuver was complete, Hemi moved rapidly past the engine and pushed in next to the sonar unit. He had the headset on and was tracking the sub with the ram in a few seconds.
 
 
 [//]: # (### The first explosion)
 
-Shakes cut the throttle to the motor and caught Hemi's eye. He pointed to the hatch at the top of the sail with a questioning look, and Hemi nodded. Shakes lifted himself up, unscrewed the hatch and sat up on the sail scanning the flat gray water behind the _Gnat_. With little wind there was almost no noise. It was just a stifling silence, broken only by the soft slap of water against the drifting hull of the _Gnat_. The sea was mottled in places with black oil that reflected back the gray of the sky, making Shakes feel like they were floating in bath of concrete slurry.
+Shakes cut the throttle to the motor and caught Hemi's eye. He pointed to the hatch at the top of the sail with a questioning look, and Hemi nodded. Shakes lifted himself up, unscrewed the hatch and sat up on the sail scanning the flat gray water behind the _Gnat_. With little wind there was almost no noise. There was only a stifling silence, broken by nothing except the soft slap of water against the drifting hull. The sea was mottled in places with black oil that reflected back the gray of the sky, making Shakes feel like they were floating in bath of concrete slurry.
 
 Nothing moved as one minute passed under that silent dome of sky, then another. Shakes shaded his eyes against the brightness of the sky and scanned the water between him and the horizon line, looking for any surface manifestation of the movements going on below.
 
-Another minute passed. And then, much closer than Shakes had anticipated, the heavy thud of an underwater explosion broke through the surface, and a plume of water, driven forward by explosive momentum shot upwards and dropped a gray oily rain onto the deck of the _Gnat_. The rain passed up in a rapid squall line from stern to bow, soaking Shakes where he sat on the sail.
+Another minute passed. And then, much closer than Shakes had anticipated, the heavy thud of an underwater explosion broke through the surface, and a plume of water, driven up and forward by explosive momentum shot upwards and dropped a gray oily rain onto the deck of the _Gnat_. The rain passed up in a rapid squall line from stern to bow, soaking Shakes where he sat on the sail.
 
-"Ha ha! Fuck Hemi! It fucking worked!"
+"Ha ha! Fuck Hemi! It fuckin' worked!"
 
-"Hold on Shakes." Hemi's voice came up darkly from below. "I am tracking the sub on sonar."
+"Hold on." Hemi's voice came up darkly from below. "I am tracking the sub on sonar."
 
 Shakes initial feeling of excitement that such a claptrap device actually worked subsided to be replaced by the more rational thought that detonating the device was one thing, actually damaging the sub with the ram was another. He stared into the water next to the _Gnat_ for a moment, and saw a long black shadow --- endlessly long and thin, it seemed to him --- pass under his boat down there in the depths below.
 
 "The device worked, but I am not hearing any sign that they were damaged." From where he was standing below, Hemi's voice did not reveal any sense of disappointment. "They just passed under us, still tracking the _Prospect_." 
-2k; 127k
+
+[//]: # (----- EDITED TO HERE ------)
 
 "So that's fucking it? Impenetrable fucking hull?"
 
