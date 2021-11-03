@@ -2,6 +2,23 @@
 [//]: # (3_Chapter.md)
 
 
+[//]: # (### They approach the depot island, are inspected)
+[//]: # (### They dock at the underwater dock)
+[//]: # (### Description of the docking bay)
+[//]: # (### The dock office and the dock boss)
+[//]: # (### Percy walks up the exchange floor: description)
+[//]: # (### In the hardware store; Percy meets Trinity)
+[//]: # (### Negotiation with Trinity for the explosives shipping job)
+[//]: # (### To the bar; hiring Cassandra)
+[//]: # (### Percy meal with Shakes --- hiring him long term.)
+[//]: # (### Back at the Prospect in the docking slip; talking to Hemi about re-hiring Chips)
+[//]: # (### re-hiring Chips)
+[//]: # (### disconnecting the Gnat)
+[//]: # (### Hemi and Percy have dinner)
+[//]: # (### Loading the magnetic warheads)
+[//]: # (### Cassandra arrives at the Prospect)
+
+
 ## Chapter 3
 
 
