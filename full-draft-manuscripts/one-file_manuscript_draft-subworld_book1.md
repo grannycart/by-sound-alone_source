@@ -46,8 +46,6 @@ Today we live in a world where technology verges on the magical, and there's no 
 
 --------------------------------------------------------------------------------
 
-[//]: # (looks like it's coming out to between 12-20k words per chapter)
-
 
 ## Chapter 1
 

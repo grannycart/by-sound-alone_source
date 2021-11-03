@@ -1,29 +1,30 @@
 
+[//]: # (1_Chapter.md)
 
 
+[//]: # (### Opening scene --- night on a black dead calm sea)
+[//]: # (### They get rammed by a black sub)
+[//]: # (### They crash dive)
+[//]: # (### They realize there's something wrong)
+[//]: # (### Captain Percy goes looking for what's wrong)
+[//]: # (### Hemi deals with the pursuing sub in the control room)
+[//]: # (### Captain Percy goes to recruit Chips to help fix the leak)
+[//]: # (### Percy looks at the situation in the conn)
+[//]: # (### Percy goes to check on Chips' progress)
+[//]: # (### Hemi blows the tanks)
+[//]: # (### Percy blows the fuel ballast)
+[//]: # (### Percy decides to head for the bottom)
+[//]: # (### They make the run for the tablemount )
+[//]: # (### staring at dials: depth vs the tablemount)
+[//]: # (### They land on the tablemount)
+[//]: # (### Repairs on the bottom)
+[//]: # (### Percy goes back upstairs, rouses the boys, gets coffee)
+[//]: # (### Percy talks to Hemi about surviving their immediate futures)
+[//]: # (### repairing and pumping out the cargo hold)
+[//]: # (### Percy inspects the damage)
+[//]: # (### Percy back in the control room; staring at dials again)
+[//]: # (### A fight with Chips)
 
-## Preface
-
-[//]: # (-=-=-=- PREFACE UNEDITED -=-=-=-)
-
-Anyone who has ever had the pleasure of riding an old motorcycle has had the experience of employing a 'petcock.' The petcock was a valve that sat on the bottom of the fuel tank and when in its normal run position allowed fuel to flow through it to the engine through a small pipe that stuck up a bit into the fuel tank. As the rider rode and the fuel burned down the petcock prevented the fuel from getting below the height of that small pipe. When the fuel reached that point, the motorcycle would cough, sputter, and for all intents of purposes be out of gas --- ever though there was still a pool of fuel sloshing around in the tank below the pipe level. The sputtering motor made it exceedingly clear to rider that they were running low on fuel. The rider would then flip the petcock over and the little valve would allow the sloshing remains of the fuel to run down to the engine. The rider had the reserve fuel left in the tank to let them ride long enough to find a place to refuel.
-
-The petcock was a super-simple mechanical device premised on the idea that the surest way to know you are running out of gasoline is to actually run out of gas. Any idiot who could manage riding a motorcycle could also manage the basic premise behind it. Any idiot who could take it apart could see how it worked. Today the same need --- to know when one is running low on fuel --- is met my a sophisticated sensor mounted in the tank, that feeds data to a black-box of a computer that calculates the remaining fuel and displays it on the dashboard in colored lights. The idiot riding the motorcycle needs to know less than ever about their bike to ride it. And the idiot could never figure out how to fix it if something went wrong.
-
-There was a generation that lived through a time up to, through, and a little beyond the great world wars. Like us, technology changed their world. They lived every day of their lives with complex new industrial technologies. But the technology of that time was different than ours. It was rooted in mechanical and electrical things. In their time, anyone who wanted to understand how a piece of amazing new technology worked could simply take it apart. Most things had an intuitive structure. Mechanical solutions based on logical processes. This is not the same as being _simple_. Many things from that era were in fact far more complex than ours today. But learning how something worked --- and how to repair it --- only required a willingness to disassemble (and then a whole lot of experience doing it). If you take apart today's technology, all you will find is tiny components that cannot be repaired, only replaced.
-
-But because of its mechanical underpinnings, the technology of that first half of the 20th Century also just _behaved_ more rationally. Even for those who did not understand the fundamentals of how it worked, would learn through use how their machine would behave. When something unexpected happened, it meant something was going wrong, not that randomness in the system was manifesting itself. People could depend on their technology to behave intuitively when they used it. Unlike our modern digital-based technology, where even experts are often shocked by how it behaves and at a loss to explain why.
-
-This old mechanical technology also came with an aesthetic. The mechanical nature of it made the stuff dirty, greasy, and grimy. It was powered by the air-fouling burning of things, and kept lubricated by chemical greases, and cleaned with penetrating solvents. This aesthetic permeated our culture. The rich found ways to constantly clean it. The poor and the technology maintainers simply lived in and among it. Punks in the grime --- mechpunks or grimepunks, though they never would have referred to themselves that way.
-
-The story told here, lives in that world. It is confined to technology that is _non-magical_ and through that technology I hope an amazing story emerges that anyone who is interested enough to take the time, can understand how the technology works. More than that I hope the reader can _feel_ how the machines behave, what they can and can't do, and ride along with those who try to live in and among them.
-
-It has often been commented that many of the stories from the great wars were compelling because they could be placed atop clear moral ground. But less remarked upon is that many compelling stories from the wars were compelling because they told stories of average people achieving amazing things with the exciting new tools they were given. Often they achieved things far beyond the original intended use of those technologies and tools. To this day we are drawn not only to stories about achievements of technology from that time, but even today our culture is more engaged with electro-mechanical stories than with stories of modern technology. Nearly everyone would rather hear about the building of a custom motorcycle than the latest achievements in a microchip clean-room. For that reason, the story here dispenses with the moral high-ground and zeroes in on living --- surviving --- within the limits of mechanical and electrical technologies. 
-
-Today we live in a world where technology verges on the magical, and there's no way to put that technology back in the bottle. But it is possible in the context of fiction to imagine a world where the electro-mechanical remained the dominant root of our everyday technology for far longer than it did. It is possible to imagine that but for the geopolitical and economic winds blowing in a slightly different direction, the commerce and industry of our world could still be carried out by independent operators driving grease-coated machines steered by mechanical linkages, rather than corporations watching global satellite tracking on digital displays. This book is dedicated to those brave women and men who plied their trade under the waves of a world that, through historical happenstance and the hubris of our own technological and political classes, never existed.
-
-
---------------------------------------------------------------------------------
 
 ## Chapter 1
 
@@ -105,7 +106,9 @@ Captain Percy stood on the metal rungs of the ladder just under the hatch set in
 
 "Give me full speed forward." Said Hemi. He put one large hand on each of the shoulders of the two men who sat at the controls of the sub and gave them orders to dive the boat. One of these men was a stick-figure of a man who went by moniker Bastian. The other, Gregory, had a meaty square forehead that echoed his meaty square body. Of the two of them, only Gregory looked like he belonged on a submarine.
 
-Diving the sub required delicacy even in the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements. Their eyes scanned continually over the wall of dials and gauges in front of them that reflected the red glow of the night lighting. Gregory and Bastian made adjustments according to Hemi's instructions, choosing carefully which of the dozens of valves mounted on the control panels in front and around them to open or close, or which switch to flip on or off. The submarine let out a long exhale of breath: the air that had held it aloft in the water column being pressed out by an onrush of water from below into the flooding tanks.
+Diving the sub required delicacy even in the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements. Their eyes scanned continually over the wall of dials, gauges, switches and valves in front of them that reflected the red glow of the night lighting. This wall at the front of the con told them the _Prospect's_ angle, depth, speed, systems settings, battery charge --- the whole picture of the boat's orientation and movement. Indeed, this wall plus some of the panels situated to their right and left were the _only_ way to know the status of the boat while it was submerged.  
+
+Gregory and Bastian made adjustments according to Hemi's instructions, choosing carefully which of the dozens of valves mounted on the control panels in front and around them to open or close, or which switches to flip on or off. The submarine let out a long exhale of breath: the air that had held it aloft in the water column being pressed out by an onrush of water from below into the flooding tanks.
 
 "Flood the express dive tank." Ordered Hemi. Bastian reached up and opened a valve and water thrust through thick old pipes into the deepest parts of the bow of the boat. It pitched steeply downwards in response and Captain Percy reached to grab cracked leather loops that hung overhead. She angled her feet against the incline and her eyes followed the needle of the depth gauge. 
 
@@ -121,9 +124,9 @@ Hemi punched the mute button on the radio.
 
 "Likely some specialty-built Authority enforcer boat." Said Hemi.
 
-[//]: # (Taking out these lines: Percy was pissed. "This wouldn't have happened if we had someone listening to the sonar mics while we were running on the surface." "We wouldn't have heard them coming over the diesels anyway." Replied Hemi.  "We would have known they were there soon enough to take some evasive action at least!" "Later! We have to deal with being understaffed later. First let's get out from under this.")
+[//]: # (Taking out these lines: Percy was pissed. This wouldnt have happened if we had someone listening to the sonar mics while we were running on the surface. We wouldnt have heard them coming over the diesels anyway. Replied Hemi.  We would have known they were there soon enough to take some evasive action at least! Later! We have to deal with being understaffed later. First lets get out from under this.)
 
-There was barely enough space in the control room for 4 people. They were all breathing each other's air and their breath condensed on the glass faces of the dials and gauges. Hemi took a rag from a hook and fastidiously wiped each of the round little windows clean. 
+There was barely enough space in the control room for 4 people. They were all breathing each other's air and their breath condensed on the glass faces of the dials and gauges. Hemi took a rag from a hook and fastidiously wiped each of the little round windows clean. 
 
 "100 meters." Said Gregory.
 
@@ -138,9 +141,11 @@ Being underwater meant they had to run on batteries. The diesel engines the subm
 
 [//]: # (### They realize there's something wrong)
 
-But Captain Percy's intuition was plaguing her again. "Something isn't right." She said aloud to no one in particular. 
+But Captain Percy's intuition was plaguing her again. "Something isn't fucking right." She said aloud to no one in particular. 
 
-She could again feel something was wrong with her boat. There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the total status of the boat. All the instruments had to be taken together, internalized, and combined with what one felt the boat doing. Percy would typically be holding the depth in her head, while taking in the dive plane angle, the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at this wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
+She could again feel something was wrong with her boat.
+
+There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the total status of the boat. All the instruments had to be taken together, internalized, and combined with what one physically felt the boat doing. Percy would typically be holding the depth in her head, while taking also taking into account the dive plane angle, the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at this wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
 
 This feeling of internalizing what her boat was doing --- something she did  continually, to the point where it felt like the boat was part of her body --- was not working right now. 
 
@@ -283,7 +288,7 @@ Percy climbed back up the stairs to the third deck, moving towards the control r
 
 "OK." Said Hemi, taking off the headset as he stood up from the sonar station.
 
-[//]: # (Deleting this line here: Up in the control room Percy told Gregory and Bastian her intention to blow the tanks. "Right." Said Gregory nervously. Bastian nodded stoically.) 
+[//]: # (Deleting this line here: Up in the control room Percy told Gregory and Bastian her intention to blow the tanks. Right. Said Gregory nervously. Bastian nodded stoically.) 
 
 The emergency blow station was at the back of the sonar & navigation compartment, where the equipment made a subtle shift from the technical to the mechanical. It consisted of a number of pipes mounted up against the wall of the compartment. The pipes ran forward and aft from the blow station, off into the many deep, complicated parts of the ship that controlled buoyancy. The pipes had the diameters of large soup cans. They had been re-painted many times, giving them a thick smoothed-over texture, except where the paint had chipped off with flecks of rust. They were stacked up, more than a dozen. Some passed through on their way up to the tank control panel in the control room. Others routed through this compartment simply for the convenience of the engineering of the boat. 
 
@@ -492,7 +497,9 @@ At the sound of the collision alarm Hemi came up through the hatch. His eyes pas
 
 "Yes fuckin' gently," followed up Percy, "as gentle as you've ever been, like you're laying down a fucking fevered child. Bastian, disengage the motor. Lets use only what's left of our forward momentum, and let our leaking boat take us down the way she wants to."
 
-Slowly, slowly, the depth gauge needle eased to the right as the boat sank. And equally slowly, the depth-under-keep gauge turned to the left as the bottom rose. The depth gauge showed 248 meters. The depth-under-keel gauge came to rest on its other limit pin, labeled '0'. And at that moment the whole _Prospect_ trembled as the bow touched the bottom. Captain Percy felt the slight angle under her feet relax as the stern came down slowly to rest on the bottom as well.
+Slowly, slowly, the depth gauge needle rotated to the right as the boat sank. And equally slowly, the depth-under-keep gauge turned to the left as the bottom rose. The depth gauge showed 248 meters. The depth-under-keel gauge came to rest on its other limit pin, labeled '0'. And at that moment the whole _Prospect_ trembled as the bow touched the bottom. Captain Percy felt the slight angle under her feet relax as the stern came down slowly to rest on the bottom as well.
+
+[//]: # (In Stilt City, when they ground the boat, an alarm goes off. Include that here?)
 
 "Fuck me." Said Bastian. "248 meters down, on the bottom. A fucking undersea mountain. We landed on the top, like some damned Noah crashing his ark into fucking Ararat."
 
@@ -629,8 +636,6 @@ She glanced over at the control gauges despite herself. This time, just as she d
 "The fucking trim tanks!" Percy remembered they had been pumping bilge water into them, but that water was still physically inside the _Prospect_. She looked at the ballast control panel. The gauge for the high-pressure air showed the system was severely depleted after their ballast blows. But there was still some residual pressure in the system, and the trim tanks were very small compared to the big ballast and fuel tanks. She put her hand out to the valve on the ballast panel that would blow bilge water out the trim tanks and opened it.
 
 There was the usual loud hiss, Percy counted a beat, and then the bow of the boat jumped off the bottom, followed quickly by the stern. The depth-under-keel gauge snapped up to two meters. She could hear suddenly-wakened crew members cursing loudly up at her from the crew quarters. She grabbed the boat PA mic "Fellow motherfuckers! We have positive fucking buoyancy."
-
-[//]: # (-=-=-=- EDITED TO HERE -=-=-=-)
 
 [//]: # (### A fight with Chips)
 
