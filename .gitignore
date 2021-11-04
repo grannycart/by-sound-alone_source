@@ -7,11 +7,12 @@ build
 *.tiff
 *.tif
 *.gif
-*.pdf
-*.html
 # Ignore basic tex cruft:
 *.log
 *.aux
 *.out
-
+# Ignore book outputL:
+*.epub
+*.html
+*.pdf
 
