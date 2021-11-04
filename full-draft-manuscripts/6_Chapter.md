@@ -2,6 +2,32 @@
 [//]: # (6_Chapter.md)
 
 
+[//]: # (### Daytime running in the fog)
+[//]: # (### Hemi and Chips conversation about Gregory)
+[//]: # (### They enter Stilt City)
+[//]: # (### They hire Sturmey, the pilot)
+[//]: # (### The Prospect gets stuck in shallow water)
+[//]: # (### They arrive at the dock)
+[//]: # (### Chips quits)
+[//]: # (### Shakes arrives)
+[//]: # (### Hemi settles up with the dock boss)
+[//]: # (### The sub with the ram approaches; the Prospect and the Gnat leave)
+[//]: # (### Shakes rams the Gnat into the sub with the ram --- taste its own medicine, motherfuckers!)
+[//]: # (### Running back to the main channel in pursuit)
+[//]: # (### The pursuing sub after the Prospect in the shortcut)
+[//]: # (### The pursuing sub gets stuck)
+[//]: # (### Into the main channel; pay off Sturmey)
+[//]: # (### Navigating out of the channel)
+[//]: # (### They drop to the bottom and try to hide along the continental shelf.)
+[//]: # (### They think they are finally sneaking away from the pursuers)
+[//]: # (### The sub with the ram is after them on the surface; they continue the run along the shelf)
+[//]: # (### High speed to the shelf)
+[//]: # (### Over the end of the shelf, dive below 200m)
+[//]: # (### The sub with the ram attempts to ram them at depth)
+[//]: # (### The sub with the ram comes around for another pass)
+[//]: # (### They drift away on a current)
+
+
 ## Chapter 6
 
 

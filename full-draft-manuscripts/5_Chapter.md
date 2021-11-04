@@ -2,6 +2,27 @@
 [//]: # (5_Chapter.md)
 
 
+[//]: # (### Shakes leads off the sub with the ram )
+[//]: # (### they hear the storm above, decide whether to surface)
+[//]: # (### they surface in a storm)
+[//]: # (### The Prospect rolls over)
+[//]: # (### Hemi gets them straightened out; confrontation with Chips)
+[//]: # (### They drive through the storm)
+[//]: # (### Cassandra on sonar in the storm)
+[//]: # (### The pursuing sub rises and starts to shoot)
+[//]: # (### They dive; Gregory dies)
+[//]: # (### Figuring out what the pursuing sub is going to do)
+[//]: # (### The sub with the ram fires a torpedo at them)
+[//]: # (### Hiding deep)
+[//]: # (### late dinner; Owen realizes the sub commander is after him)
+[//]: # (### Chips comes in to tell them the bilge pump is broken)
+[//]: # (### The scattering layer)
+[//]: # (### Hiding under the scattering layer)
+[//]: # (### They run under the scattering layer)
+[//]: # (### They come up in a fog bank)
+[//]: # (### They launch Herschel)
+
+
 ## Chapter 5
 
 

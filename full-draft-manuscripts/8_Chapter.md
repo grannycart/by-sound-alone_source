@@ -2,6 +2,22 @@
 [//]: # (8_Chapter.md)
 
 
+[//]: # (### Hemi comes up with a plan)
+[//]: # (### Loading the Gnat)
+[//]: # (### The Gnat runs on the surface; leads the sub with the ram away)
+[//]: # (### The Gnat dives; assembling the devices; the plan)
+[//]: # (### Getting the boats and the devices into position)
+[//]: # (### Releasing the devices; breaching the Gnat)
+[//]: # (### The first explosion)
+[//]: # (### In the Prospect)
+[//]: # (### Another torpedo fired at the prospect; hits derelict)
+[//]: # (### Cassandra finds the Gnat, they talk over ship-to-ship about the new plan)
+[//]: # (### Back in the Gnat to lay the final warhead)
+[//]: # (### The sub with the ram is exploded; the Gnat is sinking)
+[//]: # (### Rescued by the Prospect, lifted from underneath)
+[//]: # (### Fishing and grilling)
+
+
 ## Chapter 8
 
 

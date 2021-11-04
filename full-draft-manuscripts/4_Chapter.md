@@ -2,6 +2,25 @@
 [//]: # (4_Chapter.md)
 
 
+[//]: # (### Next morning; loading compressed air)
+[//]: # (### ready to embark)
+[//]: # (### the sinking of the inspection sub)
+[//]: # (### they throw lines)
+[//]: # (### They escape under the pursuing sub)
+[//]: # (### looking at the charts)
+[//]: # (### trimming the boat to handle the cargo load)
+[//]: # (### Training Cassandra on sonar)
+[//]: # (### they surface at night)
+[//]: # (### Hemi and Cassandra in navigation talking about what it takes to be a submariner)
+[//]: # (### Taking a sighting by the stars)
+[//]: # (###  Listening for the Gnat)
+[//]: # (### Rendezvous with the Gnat)
+[//]: # (### Shakes back on board; explanation of his escape from the depot; his modifications to make the _Gnat_ louder; his introduction of Herschel the pigeon.)
+[//]: # (### They eat a meal; salmon can conversation)
+[//]: # (### Planning the run with Shakes)
+[//]: # (### Uneventful run through the day and the night)
+[//]: # (### Herschel comes aboard the _Prospect_ for the first time.)
+
 
 ## Chapter 4
 

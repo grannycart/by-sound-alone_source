@@ -2,6 +2,17 @@
 [//]: # (7_Chapter.md)
 
 
+[//]: # (### Rendezvous with Shakes)
+[//]: # (### underwater bicycle race)
+[//]: # (### Into the garbage gyre)
+[//]: # (### Through the dense part of the garbage patch at night; then in the morning they dive, and Cassandra hears the pursuing sub)
+[//]: # (### moving through the garbage patch the next day, confirmation that the sub with the ram is following them again)
+[//]: # (### They are pursued through the night)
+[//]: # (### They hit an obstruction in the water)
+[//]: # (### They run diesels on the surface, with the bilge pumps --- noisily)
+[//]: # (### The Prospect hangs out silently on the surface while the sub with the ram searches)
+
+
 ## Chapter 7
 
 
