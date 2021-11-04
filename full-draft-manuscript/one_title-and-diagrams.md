@@ -9,9 +9,9 @@
 
 ## Diagrams
 
-![Prospect diagram](/subworld-book1/sub-diagrams/Prospect/Prospect-interior-diagram.png){:width="100%"}
+![Prospect diagram](./sub-diagrams/Prospect/Prospect-interior-diagram.png){:width="100%"}
 
-![Gnat diagram](/subworld-book1/sub-diagrams/Gnat/Gnat-interior-diagram.png){:width="100%"}
+![Gnat diagram](./sub-diagrams/Gnat/Gnat-interior-diagram.png){:width="100%"}
 
 --------------------------------------------------------------------------------
 

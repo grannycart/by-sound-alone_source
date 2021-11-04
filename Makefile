@@ -1,15 +1,15 @@
 # Note: modified from original source from maintainer
-BUILD = build
+BUILD = built-files
 BOOKNAME = Subworldbook1
 # This BOOKNAME variable is the output file name, not the title
 TITLE = title.txt
 METADATA = metadata.xml
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file
-CHAPTERS = full-draft-manuscripts/manuscript_draft-subworld_book1.md
+CHAPTERS = full-draft-manuscript/one_title-and-diagrams.md full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md
 # TOC = --toc --toc-depth=2
 # uncomment above line if you want a TOC; and uncomment pandoc lines below that includes TOC; comment line that doesn't
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
-COVER_IMAGE = cover/cover-final.jpg
+COVER_IMAGE = cover/cover-tang-temp.jpg
 # I think the cover pic works better if you use a .png or a .jpg
 # But upload a .tif to Amazon's cover pic
 LATEX_CLASS = report
