@@ -97,7 +97,7 @@ As the _Prospect_ made its way up the main channel, more and more sea craft move
 
 Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that swarmed around them. He called maneuvers down through the hatch to Owen and Bastian who sat at the controls.
 
-"So this entire place is built on stilts?" Asked Cassandra
+"So this entire place is built on stilts?" Asked Cassandra.
 
 "That's why they call it fuckin' Stilt City." Said Percy.
 
