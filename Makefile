@@ -9,7 +9,7 @@ CHAPTERS = full-draft-manuscript/one_title-and-diagrams.md full-draft-manuscript
 # TOC = --toc --toc-depth=2
 # uncomment above line if you want a TOC; and uncomment pandoc lines below that includes TOC; comment line that doesn't
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
-COVER_IMAGE = cover/cover-tang-temp.jpg
+COVER_IMAGE = cover/cover-Prospect-temp.png
 # I think the cover pic works better if you use a .png or a .jpg
 # But upload a .tif to Amazon's cover pic
 LATEX_CLASS = report
