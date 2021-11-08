@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Wed Oct 27, 2021  10:11PM
+Last modified: Mon Nov 08, 2021  03:20PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -175,7 +175,6 @@ Last modified: Wed Oct 27, 2021  10:11PM
 
 #### Not sure where:
 * [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
-* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 * [X] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 	* There is a line about how sound finds new and mysterious ways to propogate in the depths
