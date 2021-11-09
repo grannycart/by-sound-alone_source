@@ -10,8 +10,11 @@
 	* (Or just read the straight markdown, available in source.)
 
 ## Repo contents:
-* *full-draft-manuscript*: Current version of book in markdown, broken out into separate files for each chapter.
-* *sub-diagrams*: Digrams of protaganist submarines in book.
+* **cover/**: The cover graphic files.
+* **documentation/**: Todo lists and other documentation.
+* **full-draft-manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
+* **pseudocode-files/**: Early non-prose drafts.
+* **sub-diagrams/**: Digrams of protaganist submarines in book.
 
 
 ## Compilation notes:
