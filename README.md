@@ -6,7 +6,7 @@
 ## How to read it:
 * Available on github pages here:
 	* [Subworld Book 1](grannycart.net/subworld-book1/) 
-	* [Link for markdown](index)
+	* [HTML readable version](grannycart.net/subworld-pages/content/Subworldbook1.html)
 * Or, compile from this source code using pandoc.
 	* (Or just read the markdown, available in source.) 
 
@@ -19,18 +19,15 @@
 ## Credits:
 * Compiled using pandoc-ebook-template:
 	* https://github.com/evangoer/pandoc-ebook-template
-* Cover from covervault:
-	* https://covervault.com/
 * Test readers:
 	* Your name here!
-	* Your name here!
-	* Your name here!
+	* Or your name here!
+	* Or your name here!
+
+[//]: # (* Cover from covervault: * https://covervault.com/)
 
 ## Documentation:
 * [Notes and todos](documentation/notes_and_todos-subworld_story1)
-
-## Other notes
-* github pages is built from the main branch. So all revisions and updates are availabile immediately for anyone to read on the github pages version of the book.
 
 
 ## License:
