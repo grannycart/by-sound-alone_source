@@ -700,6 +700,8 @@ Another ping rang through the boat.
 
 "Even for actual weapons --- nevermind weapons parts --- it's just too fucking risky for one single Authority craft to cross deep into another Authority's area. And a boatload of magnetic warheads? That could be a real prize for some rebel group maybe, but for an Authority it's pretty fuckin' small potatoes. It's not like we're carrying fucking nerve gas." She thought for a minute, stirring her mush. "Have you ever heard of this particular fucking sub commander before? What did Shakes say... he had only one fucking arm or something?"
 
+[//]: # (One arm... Without resting on some offensive notion that I needed a distinguishing feature for Owen to recognize and chose a visible disabilitiy --- which I did --- the primary reference here is not The Fugitive, but Moby Dick. In the whale book, they keep encountering captains who lost limbs in their work.)
+
 "And that he was very large." Hemi paused, unsure how he felt about pigeonholing people by this quality that applied to himself as well.
 
 Owen stopped stirring his egg mixture. "Fuck." He said slowly, drawing out the middle vowel in a long drag.
@@ -722,7 +724,9 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 "Odd. So why do you think he's the one after us?"
 
-"Well, she broke up with me after a few weeks. It was no big deal --- a fun little fling, no hard feelings. A month or so later, I'm in a bar, waiting to order a drink. And this huge guy, like as big as Hemi, maybe bigger, wearing a full fucking dress uniform, decorated with medals all along the left side, epaulets and braid, everything --- this guy comes roaring into the bar. He's got a hatchet in his hand and he calls me out, and he says 'You slept with my wife. You're going to die fucking bloody son.'"
+"Well, she broke up with me after a few weeks. It was no big deal --- a fun little fling, no hard feelings. A month or so later, I'm in a pub, waiting to order a drink. And this huge guy, like as big as Hemi, maybe bigger, wearing a full fucking dress uniform, decorated with medals all along the left side, epaulets and braid, everything --- this guy comes roaring into the pub. He's got a hatchet in his hand and he calls me out, and he says 'You slept with my wife. You're going to die fucking bloody son.'"
+
+[//]: # (The pub Owen is in might be Vickers Gringo Bastards Nub Pub --- where all the people with nubs of limbs hang out. Though that might be a different pub in a different story. Why would Owen be there after all?)
 
 "So," said Percy, "whatever it was that happened, something fucking changed, and now he has the bloodlust for you?"
 
@@ -734,9 +738,9 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings from his bowl and tossed it onto the table in front of the pigeon. Herschel pecked at the glob nonchalantly.
 
-"That's disturbing." Said Percy. "It's going to be difficult to predict the actions of a man motivated by nothing but a fucking _vision_ of revenge. How did you get away from him in the bar?"
+"That's disturbing." Said Percy. "It's going to be difficult to predict the actions of a man motivated by nothing but a fucking _vision_ of revenge. How did you get away from him in the pub?"
 
-"Oh," said Owen, "that was easy. The bar was crowded, he was a big guy. I just ran out the back. He followed but couldn't even come close to keeping up. He just stood there, waving his hatchet in the air yelling --- what's the word? --- _clichéd_ notions of revenge after me without putting any heart into it."
+"Oh," said Owen, "that was easy. The pub was crowded, he was a big guy. I just ran out the back. He followed but couldn't even come close to keeping up. He just stood there, waving his hatchet in the air yelling --- what's the word? --- _clichéd_ notions of revenge after me without putting any heart into it."
 
 
 [//]: # (### Chips comes in to tell them the bilge pump is broken)
