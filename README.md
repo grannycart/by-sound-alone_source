@@ -1,13 +1,17 @@
 
 # Sub World Book 1 Manuscript
-* By Mort Rye
+* By 
 
 
 ## How to read it:
-* Available on github pages here:
-	* [HTML readable version](http://grannycart.net/subworld-pages/content/Subworldbook1.html)
+* Available to read on github pages here:
+	* [Subworld Pages](http://grannycart.net/subworld-pages/)
 * Or, compile from this source code using pandoc.
-	* (Or just read the markdown, available in source.) 
+	* (Or just read the straight markdown, available in source.)
+
+## Repo contents:
+* *full-draft-manuscript*: Current version of book in markdown, broken out into separate files for each chapter.
+* *sub-diagrams*: Digrams of protaganist submarines in book.
 
 
 ## Compilation notes:
