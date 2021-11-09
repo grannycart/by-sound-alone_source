@@ -5,8 +5,7 @@
 
 ## How to read it:
 * Available on github pages here:
-	* [Subworld Book 1](grannycart.net/subworld-book1/) 
-	* [HTML readable version](grannycart.net/subworld-pages/content/Subworldbook1.html)
+	* [HTML readable version](http://grannycart.net/subworld-pages/content/Subworldbook1.html)
 * Or, compile from this source code using pandoc.
 	* (Or just read the markdown, available in source.) 
 
