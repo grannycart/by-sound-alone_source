@@ -21,7 +21,7 @@ CSS = epub.css
 
 all: book
 
-book: epub html pdf
+book: epub html pdf latex
 
 clean:
 	rm -r $(BUILD)
@@ -32,7 +32,7 @@ html: $(BUILD)/html/$(BOOKNAME).html
 
 pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 
-latex: $(BUILD)/pdf/$(BOOKNAME).tex
+latex: $(BUILD)/latex/$(BOOKNAME).tex
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
