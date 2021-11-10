@@ -32,6 +32,8 @@ html: $(BUILD)/html/$(BOOKNAME).html
 
 pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 
+latex: $(BUILD)/pdf/$(BOOKNAME).tex
+
 $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
 #	pandoc $(TOC) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
@@ -41,14 +43,20 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
 
 $(BUILD)/html/$(BOOKNAME).html: $(CHAPTERS)
 	mkdir -p $(BUILD)/html
-#	pandoc --from markdown+smart $(TOC) --to=html5 -o $@ $^
+#	pandoc $(TOC) --from markdown+smart --to=html5 -o $@ $^
 #	above with TOC
 	pandoc --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
-#	pandoc --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+#	pandoc $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 #	above with TOC
-	pandoc --from markdown+smart $(TOC) --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+	pandoc --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+
+$(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
+	mkdir -p $(BUILD)/latex
+#	pandoc $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+#	above with TOC
+	pandoc --from markdown+smart --pdf-engine=pdflatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 
 .PHONY: all book clean epub html pdf
