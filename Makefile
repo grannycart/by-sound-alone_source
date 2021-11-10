@@ -13,6 +13,10 @@ COVER_IMAGE = cover/cover-Prospect-temp.png
 # I think the cover pic works better if you use a .png or a .jpg
 # But upload a .tif to Amazon's cover pic
 LATEX_CLASS = report
+# While it seems like it would make sense to use 'book' for LATEX_CLASS,
+# book sets up the file for book printing -- putting end-of-book pages on the reverse of the front-of-book pages.
+# (There's probably a latex option to change that, but that is the default for book.)
+# Use 'report' for now to get pages in reading order.
 CSS = epub.css
 # This corresponds to the --css switch in the epub pandoc command
 # It is critically important because it centers the titles and separators among other things. It vastly improves the epub output.
@@ -21,7 +25,7 @@ CSS = epub.css
 
 all: book
 
-book: epub html pdf latex
+book: epub html pdf latex txt
 
 clean:
 	rm -r $(BUILD)
@@ -33,6 +37,8 @@ html: $(BUILD)/html/$(BOOKNAME).html
 pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 
 latex: $(BUILD)/latex/$(BOOKNAME).tex
+
+txt: $(BUILD)/txt/$(BOOKNAME).txt
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
@@ -55,8 +61,15 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/latex
-#	pandoc $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+#	pandoc $(TOC) --from markdown+smart --pdf-engine=pdflatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 #	above with TOC
 	pandoc --from markdown+smart --pdf-engine=pdflatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+
+$(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) $(CHAPTERS)
+	mkdir -p $(BUILD)/txt
+#	pandoc $(TOC) --from markdown+smart --to=txt -o $@ $^
+#	above with TOC
+	pandoc --from markdown+smart -o $@ $^
+
 
 .PHONY: all book clean epub html pdf

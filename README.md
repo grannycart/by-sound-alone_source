@@ -20,6 +20,11 @@
 ## Compilation notes:
 * Compiled using pandoc-ebook-template. For instructions see:
 	* https://github.com/evangoer/pandoc-ebook-template
+	* Also see Makefile for details.
+* Basically: 
+	1. on a linux box 
+	2. make sure you have pandoc and latex installed 
+	3. then just run make
 
 
 ## Credits:
