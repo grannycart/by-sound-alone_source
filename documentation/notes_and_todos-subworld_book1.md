@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Mon Nov 08, 2021  03:20PM
+Last modified: Wed Nov 10, 2021  09:18AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -232,6 +232,7 @@ Last modified: Mon Nov 08, 2021  03:20PM
 	* As the wheel turns
 		* (wheel as in propeller)
 	* propellerheads
+	* Oceans of Oil
 * [X] the pursuing sub is advanced diesel-electric, not nuclear. 
 	* They occasionally run on the surface to recharge as well.
 	* (in later stories, snorkels and nuclear subs come into play, but those are not widespread technologies yet) 
