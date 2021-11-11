@@ -1,6 +1,6 @@
 
-# Sub World Book 1 Manuscript
-* By 
+# Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)
+* By Mark Torrey
 
 
 ## How to read it:
@@ -32,40 +32,10 @@
 	* more or less works as compiled by pandoc, but it's not pretty
 * pdf:
 	* more or less works as compiled by pandoc
-* latex:
-	* pandoc creates just raw latex that has to be put into the context of a latex document. Here are the steps I took:
-		1. Add this latex document stuff to the top of the .tex file:
-		
-		```
-		%%% PREAMBLE %%%
-
-
-		\documentclass[letterpaper,twoside]{report}
-
-		%%% PACKAGES %%%
-
-		\usepackage[pdftex]{graphicx} % Add graphics capabilities
-		\usepackage[colorlinks=true,linkcolor=red]{hyperref} % Hyperlink capabilities
-
-		\usepackage[landscape,twocolumn]{geometry} % landscape, twocolumns
-		% \usepackage[small,compact]{titlesec} % Don't use the ridiculous latex sized sections
-
-		%%% BODY OF THE DOCUMENT: %%%
-		\begin{document}
-		```
-		
-		2. Add this to the end of the document:
-		
-		```
-		\end{document}
-		```
-		
-		3. copy the sub diagrams (.png files) from the appropriate sub-diagrams/ directories into the directory with the .tex file. Change the path for the figures to point to the correct diagram files.
-		4. do a find in the .tex file for \section and change it to \section* to get rid of latex's section numbering
-		
 * txt:
 	* more or less works as compiled by pandoc
-
+* latex:
+	* I experimented with creating latex with pandoc and then editing the latex by hand. It was not entirely useful. See [notes here](experiments-with-latex-formatting.md).
 
 ## Credits:
 * Compiled using pandoc-ebook-template:

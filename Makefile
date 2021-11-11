@@ -5,7 +5,8 @@ BOOKNAME = Subworldbook1
 TITLE = title.txt
 METADATA = metadata.xml
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file
-CHAPTERS = full-draft-manuscript/one_diagrams.md full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md
+CHAPTERS = full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md
+# For now, removed diagrams from above line and am compiling them separately. See sub-diagrams/ directory and README.md
 # TOC = --toc --toc-depth=2
 # uncomment above line if you want a TOC; and uncomment pandoc lines below that includes TOC; comment line that doesn't
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
