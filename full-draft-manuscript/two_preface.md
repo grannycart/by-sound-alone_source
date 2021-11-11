@@ -5,6 +5,7 @@
 [//]: # (This is _two_ underscore preface because it should come after the diagrams.)
 
 # Preface
+## (Note: this preface is very much a rough draft and might change dramatically)
 
 [//]: # (-=-=-=- preface unedited -=-=-=-)
 

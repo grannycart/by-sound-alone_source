@@ -199,7 +199,7 @@ She climbed up a deck, and passed out the back of crew quarters, through the gal
 
 The clanking sound stopped and the face of the _Prospect's_ engineer appeared below the open hatch a moment later, peering up at her. Chips wore her hair tied back in a thick black braid, to keep it from getting into her work. Her hands were black with grease that had also created a grimy patch on the leather apron she wore. In her hands she held the body of a deconstructed piece of machinery the size of a baseball, as if she had been butchering some small game animal for dinner.
 
-"What the Fuck's up?" Chips asked.
+"What the fuck's up?" Chips asked.
 
 "There's a leak." These were words no submariner ever wanted to hear. But Chips had fixed leaks before. It was the answer to the next question that Captain Percy did not want to have to give her.
 
@@ -209,7 +209,7 @@ The clanking sound stopped and the face of the _Prospect's_ engineer appeared be
 
 "And it's fucking bad, eh?"
 
-"Pretty... bad. Authority sub rammed us on the surface."
+"Pretty... bad. An Authority sub rammed us on the surface."
 
 "So we're fuckin' fucked then, eh? Fuckin' fucked, because the cargo hold's too fucking big, and the boat won't fuckin' float if it's flooded, eh Capt' Percy? Fuckin' fucked!" She threw her piece of machinery at the wall where its loosely-held assembly collapsed and sent small part flying into the far black corners of the lower engine room.
 
