@@ -284,7 +284,9 @@ Percy hesitated. "How about... three times a standard hull-load fee?"
 
 "Absolutely." Said Percy, kicking herself that she didn't ask for more. Still, she have never been paid triple for a hull load before.
 
-Trinity stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While counting she continued the conversation as if it were no effort. "This must be quite a bit of money for you Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you will have and settling down with a nice man somewhere?"
+Trinity stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While watching Trinity's fingers pick apart the coins, Percy noticed for the first time that she only had three fingers on her right hand.
+
+Trinity continued the conversation while counting as if it were no effort. "This must be quite a bit of money for you Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you will have and settling down with a nice man somewhere?"
 
 Percy smiled at the matronly side Trinity had suddenly revealed. "Well, you know what the old cliché says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos, it's bureaucracy. I'd rather stay underwater."
 

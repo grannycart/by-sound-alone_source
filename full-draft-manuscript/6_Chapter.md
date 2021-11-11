@@ -339,7 +339,7 @@ Percy went on to fill Shakes in on running into the sub with the ram on the surf
 
 [//]: # (### Hemi settles up with the dock boss)
 
-Hemi and Shakes found the dock boss with a clipboard counting the crates that had come off the _Prospect_.
+Hemi and Shakes found the dock boss stomping around the dock on a crude prosthetic foot, counting the crates that had come off the _Prospect_ and checking them against a list on a greasy clipboard.
 
 "Hmm. Mr. Howell. The manifest says 215 crates, but I only count 212." The dock boss gestured towards the stacks of crates.
 

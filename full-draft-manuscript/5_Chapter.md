@@ -714,9 +714,9 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 "You had sex with this guy's wife Owen?" Percy jumped to the obvious conclusion and was already beginning to get angry. "And you didn't fucking tell us earlier?"
 
-[//]: # (Everything else is fuck this and fuck that, but when it comes to the actual deed its: have sex!)
+[//]: # (Everything else is fuck this and fuck that, but when it comes to the actual deed it is: have sex!)
 
-"I didn't know it was the same fucking guy!" Insisted Owen. "There's lots of submarine commanders in the world! What are the fucking chances? Besides, it didn't seem like he cared that much at the time."
+"I didn't know it was the same fucking guy!" Insisted Owen. "There's lots of submarine commanders in the world! What are the fucking chances? But the guy I'm talking about: I heard he lost a chunk of his arm in the fuckin' bight of a docking line years ago. ...And it didn't seem like he cared that much about his wife at the time."
 
 "How the fuck is that?" Percy interrogated.
 
@@ -724,13 +724,13 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 "Odd. So why do you think he's the one after us?"
 
-"Well, she broke up with me after a few weeks. It was no big deal --- a fun little fling, no hard feelings. A month or so later, I'm in a pub, waiting to order a drink. And this huge guy, like as big as Hemi, maybe bigger, wearing a full fucking dress uniform, decorated with medals all along the left side, epaulets and braid, everything --- this guy comes roaring into the pub. He's got a hatchet in his hand and he calls me out, and he says 'You slept with my wife. You're going to die fucking bloody son.'"
+"Well, she broke up with me after a few weeks. It was no big deal --- a fun little fling, no hard feelings. A month or so later, I'm in a pub, waiting to order a drink. And this huge guy, like as big as Hemi, maybe bigger, wearing a full fucking dress uniform, decorated with medals all along the left side, epaulets and braid, everything --- this guy comes roaring into the pub. He's got a hatchet in one hand and the sleeve of his other arm pinned up, and he calls me out, and he says 'You slept with my wife. You're going to die fucking bloody son.'"
 
 [//]: # (The pub Owen is in might be Vickers Gringo Bastards Nub Pub --- where all the people with nubs of limbs hang out. Though that might be a different pub in a different story. Why would Owen be there after all?)
 
 "So," said Percy, "whatever it was that happened, something fucking changed, and now he has the bloodlust for you?"
 
-"You would think," said Owen, "but the thing is, even in that moment --- what should have been a moment of the most violent, heated passion, fucking right? I mean, he's supposedly there to kill me in rage for seducing his wife, like a some fucking classical play or something --- even then his voice was totally flat. It was like he didn't care, really. He was just going through the motions." Owen thought for a second. "My take is that he didn't care at all about Lisa. Revenge on me was just something to do. A code to guide his life by, maybe because all those years of executing the will of the Authority he worked for had started to seem pointless."
+"You would think," said Owen, "but the thing is, even in that moment --- what should have been a moment of the most violent, heated fucking passion, right? I mean, he's supposedly there to kill me in rage for seducing his wife, like a some fucking classical play or something --- even then his voice was totally flat. It was like he didn't care, really. He was just going through the motions." Owen thought for a second. "My take is that he didn't care at all about Lisa. Revenge on me was just something to do. A code to guide his life by, maybe because all those years of executing the will of the Authority he worked for had started to seem pointless."
 
 "So, you think he is pursuing us around the great circle of the globe because of some sort of misplaced nihilistic existential crisis?" Hemi asked.
 
