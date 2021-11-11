@@ -13,7 +13,7 @@
 [//]: # (### The Prospect hangs out silently on the surface while the sub with the ram searches)
 
 
-## Chapter 7
+# Chapter 7
 
 
 [//]: # (### Rendezvous with Shakes)

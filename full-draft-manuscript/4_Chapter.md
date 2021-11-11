@@ -22,7 +22,7 @@
 [//]: # (### Herschel comes aboard the _Prospect_ for the first time.)
 
 
-## Chapter 4
+# Chapter 4
 
 
 [//]: # (### Next morning; loading compressed air)

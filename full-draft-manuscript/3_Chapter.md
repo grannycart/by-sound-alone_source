@@ -19,7 +19,7 @@
 [//]: # (### Cassandra arrives at the Prospect)
 
 
-## Chapter 3
+# Chapter 3
 
 
 [//]: # (### They approach the depot island, are inspected)

@@ -1,9 +1,7 @@
 
-[//]: # (one_title-and-diagrams.md)
+[//]: # (one_diagrams.md)
 
 
-# Manuscript Draft --- Sub World Book 1 (pre-release version)
-## by: Mort Rye  
 
 --------------------------------------------------------------------------------
 

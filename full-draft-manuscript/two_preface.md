@@ -1,7 +1,7 @@
 
 [//]: # (./two_preface.md)
 
-## Preface
+# Preface
 
 [//]: # (-=-=-=- preface unedited -=-=-=-)
 

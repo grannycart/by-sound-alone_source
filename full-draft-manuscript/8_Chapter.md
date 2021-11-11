@@ -18,7 +18,7 @@
 [//]: # (### Fishing and grilling)
 
 
-## Chapter 8
+# Chapter 8
 
 
 [//]: # (### Hemi comes up with a plan)
@@ -634,7 +634,7 @@ Hemi picked up the mic from the front of the glowing box, and squeezed the trans
 There was now light coming through the view port around the streams of water coming from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect's_ sail out there in the gloom.
 
 
-## Epilogue
+# Epilogue
 
 
 [//]: # (### Fishing and grilling)

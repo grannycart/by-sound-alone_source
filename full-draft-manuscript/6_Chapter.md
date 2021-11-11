@@ -28,7 +28,7 @@
 [//]: # (### They drift away on a current)
 
 
-## Chapter 6
+# Chapter 6
 
 
 [//]: # (### Daytime running in the fog)

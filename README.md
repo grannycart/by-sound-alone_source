@@ -24,7 +24,47 @@
 * Basically: 
 	1. on a linux box 
 	2. make sure you have pandoc and latex installed 
-	3. then just run make
+	3. then just run make. This will create an epub, html, pdf, latex, and plain txt version of the book.
+	4. These files can be cleaned up a bit by hand. See notes below.
+* epub:
+	* formatting notes to come
+* html:
+	* more or less works as compiled by pandoc, but it's not pretty
+* pdf:
+	* more or less works as compiled by pandoc
+* latex:
+	* pandoc creates just raw latex that has to be put into the context of a latex document. Here are the steps I took:
+		1. Add this latex document stuff to the top of the .tex file:
+		
+		```
+		%%% PREAMBLE %%%
+
+
+		\documentclass[letterpaper,twoside]{report}
+
+		%%% PACKAGES %%%
+
+		\usepackage[pdftex]{graphicx} % Add graphics capabilities
+		\usepackage[colorlinks=true,linkcolor=red]{hyperref} % Hyperlink capabilities
+
+		\usepackage[landscape,twocolumn]{geometry} % landscape, twocolumns
+		% \usepackage[small,compact]{titlesec} % Don't use the ridiculous latex sized sections
+
+		%%% BODY OF THE DOCUMENT: %%%
+		\begin{document}
+		```
+		
+		2. Add this to the end of the document:
+		
+		```
+		\end{document}
+		```
+		
+		3. copy the sub diagrams (.png files) from the appropriate sub-diagrams/ directories into the directory with the .tex file. Change the path for the figures to point to the correct diagram files.
+		4. do a find in the .tex file for \section and change it to \section* to get rid of latex's section numbering
+		
+* txt:
+	* more or less works as compiled by pandoc
 
 
 ## Credits:

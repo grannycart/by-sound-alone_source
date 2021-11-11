@@ -26,7 +26,7 @@
 [//]: # (### A fight with Chips)
 
 
-## Chapter 1
+# Chapter 1
 
 
 [//]: # (### Opening scene --- night on a black dead calm sea)
