@@ -35,7 +35,10 @@
 * txt:
 	* more or less works as compiled by pandoc
 * latex:
-	* I experimented with creating latex with pandoc and then editing the latex by hand. It was not entirely useful. See [notes here](experiments-with-latex-formatting.md).
+	* I experimented with creating latex with pandoc and then editing the latex by hand. It was not entirely useful, so I removed this target from the Makefile. See [notes here](experiments-with-latex-formatting.md).
+* Diagrams:
+	* Eventually these will have to go into Makefile for epub compilation. At the moment that isn't working so great.
+	* There is a quick layout in an Inkscape .svg file in the sub-diagrams/ directory. Just open that in Inkscape, save it as a pdf, and then do what you like with it.
 
 ## Credits:
 * Compiled using pandoc-ebook-template:
