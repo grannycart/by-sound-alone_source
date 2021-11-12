@@ -40,12 +40,13 @@ pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 
 txt: $(BUILD)/txt/$(BOOKNAME).txt
 
-$(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
+$(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
+# the .epub target includes one_diagrams.md so the diagrams get included in the .epub
 #	pandoc $(TOC) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 #	above with TOC
+# Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
 	pandoc --css=$(CSS) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
-	# Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead.
 
 $(BUILD)/html/$(BOOKNAME).html: $(CHAPTERS)
 	mkdir -p $(BUILD)/html

@@ -37,8 +37,8 @@
 * latex:
 	* I experimented with creating latex with pandoc and then editing the latex by hand. It was not entirely useful, so I removed this target from the Makefile. See [notes here](experiments-with-latex-formatting.md).
 * Diagrams:
-	* Eventually these will have to go into Makefile for epub compilation. At the moment that isn't working so great.
 	* There is a quick layout in an Inkscape .svg file in the sub-diagrams/ directory. Just open that in Inkscape, save it as a pdf, and then do what you like with it.
+	* For .epub the diagrams have to go into the file, so there is an extra file in the Makefile pandoc compilation: full-draft-manuscript/one_diagrams.md that includes the diagrams. This file only applies to the .epub compilation.
 
 ## Credits:
 * Compiled using pandoc-ebook-template:
