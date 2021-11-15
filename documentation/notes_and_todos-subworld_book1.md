@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Wed Nov 10, 2021  09:18AM
+Last modified: Sun Nov 14, 2021  12:37PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -404,25 +404,16 @@ Last modified: Wed Nov 10, 2021  09:18AM
 * fitzcorraldo: hauling explosive parts over a mountain
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head.  
 	* build a map in their head for them.  
-* See notes on memory house in writing 
-* there is an underlaying idea that the machines of this world are rational and knowable. There is order to them, and the transparency of most people being able to understand how they work because they are logical. The world of machines makes sense. It is not wicked.
+* there is an underlaying idea that the machines of this world are rational and knowable. There is order to them, and the accessibility for most people to be able to understand how they work because they are logical. The world of machines makes sense. It is not wicked.
 	* The layer above that is the world of the human mind: infinitely complex and unknowable. No person's motivation can be relied upon to be rational or logical (this is the untruth at the heart of so many novels and the discipline of acting --- writers/storytellers use simplified/simplistic human motivation as a shorthand to drive stories. It's not very real at all. ...On the other hand I think it makes it easier to create compelling characters (Shakes?) and drive them through a plot.) 
 * Just make the first submarine novel GO: 
 	* Go for character-driven (fear) excitement through staring at dials 
 	* This first book should be the pop novel: readable, accessible, character-driven 
-	* an accessible novel is more likely to be something that will build a fanbase 
-	* maybe keep the style experiments for reference when you later go back to write filthy scum 
-	* and the submarine novel is just accessible and readable, with occasional elements of that style?  
-	* a more stylized one is more likely to push you in a more award-winning type direction, but that can come later 
-	* do both?!  
 	* Go for descriptive renderings of sounds, and on the rare occasions it merits it, sights 
-	* I'm not sure the sub novel can be all the things you want it to be 
-	* also, different sub books/stories/chapters could have different styles as you go 
-	* better to produce than to get stuck trying to get the perfect style 
 	* accessibility is more important than style: 
 		* do NOT fall into the trap of keeping things abstract for the sake of style. those books are often (and often rightfully) unpopular.
 		* on the other hand layering style on top of accessibility is the dream: like Batman
-* maybe with the engine running full blast, it SOUNDS heavy and grimey, like dopesmoker.
+* maybe with the engine running full blast, it SOUNDS heavy and grimey, like Dopesmoker.
 	* try to think about what a listener to dopesmoker would want to read. 
 * think carefully about where you "dive" into description:
 	* character's clothing, for example, should just be mentioned in casual passing: "she placed the pencil into the front pocket of her cracking leather overalls."

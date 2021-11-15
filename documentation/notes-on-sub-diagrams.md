@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Sun Oct 31, 2021  05:05PM
+Last modified: Sun Nov 14, 2021  09:01PM
 
 
 # notes on sub diagrams
@@ -7,30 +7,31 @@ Last modified: Sun Oct 31, 2021  05:05PM
 ## diagram edits to make:
 * [ ] adjust sub layouts so engines are balanced around the middle of the boat. maybe cargo bays on both ends?
 	* in most subs, the rear ends are heavy with the engines, and they need to use leaded weight in the front --- at least until new equipment is installed
+	* this issue can also be addressed through trim and main ballast tanks 
+		* the cargo subs could/SHOULD be designed to run empty with flooded forward tanks to counter-balance the engines, and empty those tanks when there's a full cargo load.
 	* does this sub have saddle tanks? or single hull? or double hull?
 	* see: https://www.scienceabc.com/innovation/how-does-a-submarine-dive-resurface-and-navigate-underwater.html
-* [ ] adjust sub layouts to get the bridge, control room, and conning tower right
-	* see notes below in style section
+* [X] adjust sub layouts to get the bridge, control room, and conning tower right
 * [X] add top-deck big cargo-loading hatch to big smuggler sub
 * diagrams revs (reminders from during initial book writing):
 	* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
 	* [ ] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
 	* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
 	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
-	* [ ] make sure the Gnat has an airlock escape trunk
 	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
-	* [ ] move the Gnat motor switch lever labels aft of the engine
-	* [ ] add pigeon coop to Gnat? (don't forget pigeon hatch)
-	* [ ] change cargo 'bays' to cargo holds
 * Prospect:
-	* [ ] add title for diagram
+	* [X] change cargo 'bays' to cargo holds
+	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
-	* [ ] add/adjust scale
-	* [ ] add stairs up from forward battery room to cargo bay
-	* [ ] change 'cargo bay' label to 'cargo hold'
-	* [ ] make a line used for stairs that looks more like a steep ladder
+	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
+	* [X] add/adjust scale
+	* [X] add stairs up from forward battery room to cargo bay
+	* [ ] create stairs and ladders to replace sketch lines
+		* [ ] make a line used for stairs that looks more like a steep ladder
+	* [X] change 'cargo bay' label to 'cargo hold'
 	* [ ] label above engine rooms: piping and equipment run
 	* [ ] Add little X mark lines to trim tanks / fuel ballast, like US Subs does
+	* [ ] add dive plane outline?
 	* [ ] Add main ballast valves? (might be tough if the main ballast isn't shown)
 	* [ ] make fine adjustments to catwalk: should hang about 2 meters down/ 2/3s of a deck level
 	* [X] Add cargo hatch in deck, catwalk to cargo hatch
@@ -38,18 +39,25 @@ Last modified: Sun Oct 31, 2021  05:05PM
 	* [X] add trim tanks/express down tank under cargo deck
 	* [X] add smugglers hold (stern room?)
 	* [X] add note about main ballast being in saddle tanks on the side of the pressure hull
-	* [X] add sonar array in bow
+	* [ ] Change sonar array to be top and bottom boxes near bow rather than whole-nose thingy
 	* [X] make sure there's enough room in the engine rooms for an equipment room (air compressors, tanks other odds and ends)
+	* [ ] Add battery banks
 * Gnat:
-	* [ ] add title for diagram
+	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
-	* [ ] add/adjust scale
-	* [ ] add mating collar
-	* [ ] add pigeon hatch
-	* [ ] make sure top hatch opens upward
-	* [ ] Remove sonar array and replace with deck and keel hydrophones
-	* [ ] Add escape trunk
-		* [ ] bottom hatch of escape trunk opens upwards 
+	* [X] add/adjust scale
+	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
+	* [X] add pigeon hatch
+	* [ ] add pigeon coop to Gnat?
+	* [ ] add dive plane outline?
+	* [X] move the Gnat motor switch lever labels aft of the engine
+	* [X] make sure top hatch opens upward
+	* [X] add mating collar
+	* [X] change cargo 'bays' to cargo holds
+	* [X] Remove sonar array and replace with deck hydrophone (keep sonar label though)
+	* [X] Add escape trunk
+		* bottom hatch of escape trunk opens upwards 
+		* escape trunk is located behind engines in the book.
 	* [X] find a diagram in US Subs to scan that could be a base frame for the Gnat
 		* Possibly use the exterior line of the midget sub on pg 223
 			* crop out sail extension
