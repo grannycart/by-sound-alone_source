@@ -7,7 +7,7 @@ METADATA = metadata.xml
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file
 CHAPTERS = full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
-TOC = --toc --toc-depth=2
+TOC = --toc --toc-depth=1
 COVER_IMAGE = cover/cover-Prospect-temp.png
 # I think the cover pic works better if you use a .png or a .jpg
 # But upload a .tif to Amazon's cover pic
@@ -61,7 +61,7 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
-# the .txt target needs the title.txt YAML metadata block for title, subtitle, author etc fields.
+# the .txt target uses the title.txt YAML metadata block for title, subtitle, author etc fields --- even though it only includes it without formatting for a txt file.
 #	pandoc -s $(TOC) --from markdown+smart --to=txt -o $@ $^
 #	above with TOC
 	pandoc -s --from markdown+smart -o $@ $^
