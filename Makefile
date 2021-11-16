@@ -6,10 +6,8 @@ TITLE = title.txt
 METADATA = metadata.xml
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file
 CHAPTERS = full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md
-# For now, removed diagrams from above line and am compiling them separately. See sub-diagrams/ directory and README.md
-# TOC = --toc --toc-depth=2
-# uncomment above line if you want a TOC; and uncomment pandoc lines below that includes TOC; comment line that doesn't
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
+TOC = --toc --toc-depth=2
 COVER_IMAGE = cover/cover-Prospect-temp.png
 # I think the cover pic works better if you use a .png or a .jpg
 # But upload a .tif to Amazon's cover pic
@@ -48,23 +46,25 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $
 # Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
 	pandoc --css=$(CSS) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
-$(BUILD)/html/$(BOOKNAME).html: $(CHAPTERS)
+$(BUILD)/html/$(BOOKNAME).html: title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/html
-#	pandoc $(TOC) --from markdown+smart --to=html5 -o $@ $^
-#	above with TOC
-	pandoc --from markdown+smart --to=html5 -o $@ $^
+# the .html target needs the title.txt YAML metadata block for title, subtitle, author etc fields.
+#	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
+	pandoc -s $(TOC) --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
-	mkdir -p $(BUILD)/pdf
+	mkdir $(BUILD)/pdf
 #	pandoc $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 #	above with TOC
+#	Below with some latex options (-V) added.
 	pandoc --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 
-$(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) $(CHAPTERS)
+$(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
-#	pandoc $(TOC) --from markdown+smart --to=txt -o $@ $^
+# the .txt target needs the title.txt YAML metadata block for title, subtitle, author etc fields.
+#	pandoc -s $(TOC) --from markdown+smart --to=txt -o $@ $^
 #	above with TOC
-	pandoc --from markdown+smart -o $@ $^
+	pandoc -s --from markdown+smart -o $@ $^
 
 
 .PHONY: all book clean epub html pdf
