@@ -449,6 +449,7 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 "Alright," Hemi said, "I will raise him on the ship-to-ship and let him know the plan."
 
 "There's too much of a risk that those fuckwads will overhear it if you use ship-to-ship. You should probably just flag Shakes down and shout across to him."
+
 [//]: # (Remember, the Gnat is still running on the electric motor.)
 
 "Alright." Said Hemi again, and climbed over the fairing of the sail and down to the deck. Percy watched him shout for Shakes' attention and when Shakes heard him he pulled the _Gnat_ alongside the _Prospect_ and he and Hemi ironed out the details of the plan by yelling across the gap between the two boats. When he was done Hemi climbed up to the sail and back down into the control room.
