@@ -409,7 +409,7 @@ Far faster than he had anticipated, a black wall arose before him.
 
 With a last-second hope that he was the charging sub with the ram, and not some random dock, he thrust the throttle lever all the way forward to its stop.
 
-He sucked in a deep breath, and from his diaphragm put all he could into his battle cry: "Ramming speed!" He stuck the cigarette back between his lips. With his lips half closed, he said to himself out loud, "I always wanted to fucking say that."
+He sucked in a deep breath, and from his diaphragm put all he could into his battle cry: "Ramming speed!" He stuck the cigarette back between his lips. Staring intently out the viewport and with his mouth half-closed, he said, "I always wanted to fucking say that."
 
 The electric motor whined with a pitch that pierced right to the center of Shakes' head. With a last burst of speed, the bow of the _Gnat_ smashed straight into the looming black underwater wall.
 
