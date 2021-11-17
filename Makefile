@@ -25,7 +25,7 @@ CSS = epub.css
 
 all: book
 
-book: epub html pdf latex txt
+book: epub html pdf latex txt md 
 
 clean:
 	rm -r $(BUILD)
@@ -39,6 +39,8 @@ pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 latex: $(BUILD)/latex/$(BOOKNAME).tex
 
 txt: $(BUILD)/txt/$(BOOKNAME).txt
+
+md: $(BUILD)/markdown/$(BOOKNAME).md
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
@@ -70,10 +72,18 @@ $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
-# the .txt target uses the title.txt YAML metadata block for title, subtitle, author etc fields --- even though it only includes it without formatting for a txt file.
+# the .txt target uses the title.txt YAML metadata block for title, subtitle, author etc fields --- even though it only includes it as YAML without formatting for a txt file.
 #	pandoc -s $(TOC) --from markdown+smart --to=txt -o $@ $^
 #	above with TOC
 	pandoc -s --from markdown+smart -o $@ $^
 
+$(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) title.txt $(CHAPTERS)
+	mkdir -p $(BUILD)/markdown
+# the .md target uses the title.txt YAML metadata block for title, subtitle, author etc fields --- even though it only includes it as YAML without formatting for a md file.
+# markdown target just turns the chapters into a single, cleaned up md file --- good for github pages.
+#	pandoc -s --from markdown+smart -o $@ $^
+#	above without TOC
+	pandoc -s $(TOC) --from markdown+smart --to=markdown -o $@ $^
 
-.PHONY: all book clean epub html pdf
+
+.PHONY: all book clean epub html pdf latex txt md
