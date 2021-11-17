@@ -25,7 +25,7 @@ CSS = epub.css
 
 all: book
 
-book: epub html pdf txt
+book: epub html pdf latex txt
 
 clean:
 	rm -r $(BUILD)
@@ -35,6 +35,8 @@ epub: $(BUILD)/epub/$(BOOKNAME).epub
 html: $(BUILD)/html/$(BOOKNAME).html
 
 pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
+
+latex: $(BUILD)/latex/$(BOOKNAME).tex
 
 txt: $(BUILD)/txt/$(BOOKNAME).txt
 
@@ -58,6 +60,13 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 #	above with TOC
 #	Below with some latex options (-V) added.
 	pandoc --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+
+$(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
+	mkdir $(BUILD)/latex
+#	pandoc -s $(TOC) --from markdown+smart -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+#	above with TOC
+#	Below with some latex options (-V) added.
+	pandoc -s --from markdown+smart -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
