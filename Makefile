@@ -66,9 +66,9 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/latex
 #	pandoc -s $(TOC) --from markdown+smart -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
-#	above with TOC
+#	above with TOC, twocolumn, landscape, and letterpaper
 #	Below with some latex options (-V) added.
-	pandoc -s --from markdown+smart -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+	pandoc -s --from markdown+smart -V documentclass=$(LATEX_CLASS) -o $@ $^
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
