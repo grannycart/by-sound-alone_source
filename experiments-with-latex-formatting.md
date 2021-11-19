@@ -1,5 +1,5 @@
-subworld-book1/experiments-with-latex-formatting.md
-Last modified: Fri Nov 19, 2021  12:58PM
+[subworld book1 experiments with latex formatting](subworld-book1/experiments-with-latex-formatting.md)
+Last modified: Fri Nov 19, 2021  04:09PM
 
 * the Makefile has pandoc create a (standalone) raw latex file. But it needs a little polish. I'm using this latex file to format the book for print-on-demand. Here are the steps I took:
 
@@ -13,7 +13,9 @@ Last modified: Fri Nov 19, 2021  12:58PM
 		* (This might happen from pandoc automatically if you include images in the .md, so look for it.)
 	* Add an carriage return and \includegraphics call to \author line:
 		* \author{Mark Torrey\\[5mm] \includegraphics[width=1in]{../../cover/pigeon-logo.png}}
-5. Use pdftk or some other pdf manipulation software to add the diagram pages to the beginning of the file.
+5. Review compiled file:
+	* Consider putting a carriage return\\ in the title if it is not breaking in a good place. (Note: there is a pdftitle field that is not the same as \title. \title{} edits the actual compiled title.)
+6. Use pdftk or some other pdf manipulation software to add the diagram pages to the beginning of the file.
 	* Alternatively: edit the latex to compile with the diagrams in place.
 
 

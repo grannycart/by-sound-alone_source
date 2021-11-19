@@ -1,7 +1,7 @@
 ---
-title: Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)
+title: A Novel With Some Submarines In It (pre-release version)
 author: Mark Torrey
-subtitle: Submarines under the ocean. Also a pigeon.
+subtitle: Some submarines under the ocean. Also a pigeon.
 rights: Edition 1. © 2021 Mort Rye, CC BY-NC. This is a rough first draft of this book. Email me to let me know what you think! grannycart@protonmail.com
 description: A couple of submarines chase each other through the ocean. Hilarity ensues.
 cover-image: ./cover/cover.png
