@@ -5,9 +5,10 @@
 [//]: # (This is _two_ underscore preface because it should come after the diagrams.)
 
 # Preface
-## (Note: this preface is very much a rough draft and might change dramatically)
 
 [//]: # (-=-=-=- preface unedited -=-=-=-)
+
+_(Note: this preface is very much a rough draft and might change dramatically.)_
 
 Anyone who has ever had the pleasure of riding an old motorcycle has likely employed a device called the 'petcock.' The petcock was a valve that sat on the bottom of the fuel tank and when in its normal run position allowed fuel to flow through it to the engine via a small pipe that stuck up a bit into the fuel tank. As the rider rode and the fuel burned down, there was no way the fuel level could fall below the height of that small pipe. When the fuel reached that point, the motorcycle would cough, sputter, and for all intents of purposes be out of gas --- even though there was still a pool of fuel sloshing around in the tank below the mouth of the little pipe. The sputtering motor made it exceedingly clear to rider that they were running low on fuel. The rider would then flip the petcock over and the valve would turn to open a hole at the very bottom of the fuel tank and allow the sloshing remains of the fuel to run down to the engine. The rider had the reserve fuel left in the tank to let them ride long enough to find a place to refuel.
 
