@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Sun Nov 14, 2021  09:01PM
+Last modified: Thu Nov 18, 2021  10:13PM
 
 
 # notes on sub diagrams
@@ -14,12 +14,12 @@ Last modified: Sun Nov 14, 2021  09:01PM
 * [X] adjust sub layouts to get the bridge, control room, and conning tower right
 * [X] add top-deck big cargo-loading hatch to big smuggler sub
 * diagrams revs (reminders from during initial book writing):
-	* [ ] add 'sail' label to diagrams (since it's a technical term you use often in the book)
-	* [ ] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
-	* [ ] make sure label diagram for sonar compartment includes navigation and radar as well
+* Prospect:
+	* [X] add 'sail' label to diagrams (since it's a technical term you use often in the book)
+	* [X] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
+	* [X] make sure label diagram for sonar compartment includes navigation and radar as well
 	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
 	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
-* Prospect:
 	* [X] change cargo 'bays' to cargo holds
 	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
@@ -46,6 +46,7 @@ Last modified: Sun Nov 14, 2021  09:01PM
 	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
 	* [X] add/adjust scale
+	* [ ] add 'sail' label
 	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
 	* [X] add pigeon hatch
 	* [ ] add pigeon coop to Gnat?

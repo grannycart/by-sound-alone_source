@@ -1859,6 +1859,20 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="scale(0.4)" />
     </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-4-2-5-1-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1388-8-2-9-7-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1867,14 +1881,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="134.28571"
-     inkscape:cy="385"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="441.43666"
+     inkscape:cy="283.34779"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1912"
-     inkscape:window-height="1172"
+     inkscape:window-width="1358"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -2705,6 +2719,26 @@
        sodipodi:nodetypes="cc" />
     <flowRoot
        xml:space="preserve"
+       id="flowRoot1511-0-1-7-5-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-79.201845,-76.578157)"><flowRegion
+         id="flowRegion1513-6-7-7-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch'"><rect
+           id="rect1515-8-2-1-6-3"
+           width="101.13815"
+           height="47.324924"
+           x="657.85712"
+           y="444.41507"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch'" /></flowRegion><flowPara
+         id="flowPara1517-9-7-1-2-5">SAIL</flowPara></flowRoot>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-4-2-5-1-3)"
+       d="m 100.10513,44.913595 10.98413,19.718041"
+       id="path1241-7-6-7-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
        id="flowRoot1511-0-1-7-5-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,-40.973775,-63.490008)"><flowRegion
@@ -2739,7 +2773,7 @@
          id="flowPara1517-9-7-1-2-1-8">SONAR/RADAR &amp; NAVIGATION</flowPara></flowRoot>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-4-2-5-1-8-8)"
-       d="m 136.7955,71.134273 -11.55095,9.99838"
+       d="M 139.32695,70.726558 121.26774,80.940887"
        id="path1241-7-6-7-8-9-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2906,9 +2940,9 @@
        style="font-weight:bold;font-size:53.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect5076)"><tspan
          x="28.943359"
          y="89.037081"
-         id="tspan10362"><tspan
+         id="tspan5914"><tspan
            style="font-style:italic;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold Italic'"
-           id="tspan10360">Prospect</tspan></tspan></text>
+           id="tspan5912">Prospect</tspan></tspan></text>
     <path
        d="m 277.79507,94.802349 c -0.0153,-0.0067 -0.0304,-0.15915 -0.034,-0.338787 0.0405,-0.63328 -0.001,-1.065486 0.035,-1.401327 0.0133,0.0059 0.7448,-0.01015 2.46954,-0.0025 0.4384,0.0019 0.81758,0.0042 0.84265,0.005 0.025,6.36e-4 0.0562,0.08687 0.0695,0.109587 0.0217,0.0376 0.0614,1.426742 0.044,1.539257 -0.004,0.02631 -0.0215,0.104443 -0.0389,0.112373 -0.0387,0.01764 -3.34904,0.04342 -3.38758,0.02637 z m 3.22754,-0.08983 c 0.0855,-0.0011 0.12182,-0.009 0.1091,-0.02383 -0.01,-0.01226 -0.0301,-0.35043 -0.0433,-0.751433 -0.0132,-0.400998 -0.0344,-0.73366 -0.047,-0.739245 -0.0303,-0.01338 -1.0217,-0.02453 -2.20937,-0.02479 l -0.95643,-1.68e-4 0.005,0.785752 0.005,0.785754 1.50333,-0.01527 c 0.8268,-0.0083 1.561,-0.01595 1.63153,-0.01673 z"
        style="display:inline;fill:#000000;stroke-width:0.0224015"
