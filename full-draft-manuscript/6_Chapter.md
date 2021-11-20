@@ -142,7 +142,7 @@ The man looked it over. "Sure. That's no great fucking way from here."
 
 "Abso-fuckin'-lutely. I piloted lots of sub marines in and out." He pronounced 'sub marine' like it was two separate words. "I even had my pilot's license --- back when they used to be more strict about issuing them."
 
-"How much money will it cost to hire you?" Hemi Asked.
+"How much money will it cost to hire you?" Hemi asked.
 
 "Depends on what kind of money you have."
 
@@ -239,7 +239,7 @@ A few minutes later it was opened by a squat, fat man wearing pince-nez. "Who ar
 
 "An Authority boat took its toll on our progress." Hemi confirmed.
 
-The man let out a small sound of indignation. "Well, you can start unloading if you want to. I'll bring my crew come in to help. It'll take them an hour or two to assemble though."
+The man let out a small sound of indignation. "Well, you can start unloading if you want to. I'll bring my crew in to help. It'll take them an hour or two to assemble though."
 
 "Can we use your crane?"
 
@@ -263,7 +263,7 @@ Hemi got the engine for the crane started and when it was pouring black diesel s
 
 With the gangway set, Hemi shut down the crane and made his way back aboard the _Prospect_. He found Percy and advised her they should lay low inside the boat until the dock boss' crew got there. So Captain Percy, Hemi, Bastian, Owen, and Sturmey rounded up in the galley around a new pot of coffee. Cassandra had gone off to her rack to catch up on sleep.
 
-They proceeded to drink two and a half pots of coffee as a couple of hours went by, but eventually there was the sound of feet on the _Prospect's_ deck abover and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people --- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing --- were already rigging crates onto the hook of the crane and preparing to unload.
+They proceeded to drink two and a half pots of coffee as a couple of hours went by, but eventually there was the sound of feet on the _Prospect's_ deck above and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people --- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing --- were already rigging crates onto the hook of the crane and preparing to unload.
 
 The dock and platform that had been so quiet and empty was now full of noise and people. The crates were hoisted out of the cargo hold one-by-one, carefully stacked four to a cart. Then a team of dockworkers hauled the creaking carts up to the platform where the team would unload the crates and stack them by hand.
 
@@ -347,7 +347,7 @@ Hemi and Shakes found the dock boss stomping around the dock on a crude prosthet
 
 "No it clearly is not. I will adjust the payment based on your delivery." He scribbled some figures with his pencil on the clipboard for a minute and showed it to Hemi. "Does that look right?"
 
-Hemi nodded when he saw that the amount agreed with the calculations he had previously done himself in his head. The dock boss emptied a heavy leather sack of coins onto a crate in front of them and counted out and arranged stacks of coins. When he finished counting, with Hemi double checking every stack of coins, Hemi swept all the stacks off the crate with one swipe of his big hand into a canvas bag he pulled from the inside pocket of his tweed jacket. Hemi thanked the dock boss gruffly. As he and Shakes walked back to the _Prospect_ Hemi counted out Shakes second deck-hand share he was owed. They agreed to leave the payment for the modifications for the _Gnat_ for a later time when Shakes could figure the cost more precisely.
+Hemi nodded when he saw that the amount agreed with the calculations he had previously done himself in his head. The dock boss emptied a heavy leather sack of coins onto a crate in front of them and counted out and arranged stacks. When he finished counting, with Hemi double checking every stack of coins, Hemi swept all the stacks off the crate with one swipe of his big hand into a canvas bag he pulled from the inside pocket of his tweed jacket. Hemi thanked the dock boss gruffly. As he and Shakes walked back to the _Prospect_, Hemi counted out Shakes second deck-hand share he was owed. They agreed to leave the payment for the modifications for the _Gnat_ for a later time when Shakes could figure the cost more precisely.
 
 They had just stepped onto the dock when Shakes shaded his eyes and looked far up the channel that led to the dock. "What the fuck is going on up there?"
 
@@ -386,7 +386,7 @@ Hemi turned back towards the sail, hearing a distant 'fuck' rise up from the dep
 
 Bastian did not ask any questions. He turned to the motor panel and flipped the starters. A moment after that came the hiss of the high-pressure air turning the diesels over. The engines came to life, filling the _Prospect_ with the reassuring and familiar rumble of its core power.
 
-Sturmey joined Percy On the bridge. Percy and Owen established via some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Owen a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing lines into the water. The gangway scraped with a loud steel-on-steel sound along the deck and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
+Sturmey joined Percy on the bridge. Percy and Owen established via some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Owen a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing lines into the water. The gangway scraped with a loud steel-on-steel sound along the deck and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
 
 The round dock boss and the dockworkers were standing on the platform watching this procedure, a little stupefied. When the gangway hit the water the dock boss called out to Percy and Sturmey on the sail. "What are you doing? You can't leave that fucking junk here!"
 
@@ -473,7 +473,7 @@ The _Prospect_ moved into the narrow channel between the huts, backtracing the r
 
 As before, they wound their way through the small homes. Sturmey faced the bow and scanned the path in front of them with binoculars. Occasionally he cupped a hand around his mouth and yelled forward loudly in various local languages to try to get a local fisherman or kids rowing tiny coracles to make way for the _Prospect_ to pass. He kept up a never ending stream of instructions to Hemi and Bastian below, making tiny corrections in their course to keep them in the center of the narrow passage.
 
-Percy rode her boat facing the stern, on the lookout for the thing she feared --- the black shadow of the sub rising up somewhere back there in their wake among the densely-clustered huts. 
+Percy rode her boat facing the stern, on the lookout for the thing she feared --- the black shadow of the sub rising up somewhere back in their wake among the densely-clustered huts. 
 
 It was just as she was beginning to believe the other sub may have gone for the bait and followed Shakes when she heard the loud sound of a thump followed by crunching wood. The strange sound bounced over the thatched roofs of the huts to her ears. She lifted her binoculars in the direction of the sound. There she saw long boards, clumps of thatch, and huge splinters shooting up into the air. A path of monstrous destruction, moving rapidly towards them.
 
@@ -570,7 +570,7 @@ The sub with the ram was not within visual range. It was possible it had gotten 
 
 She focused the periscope forward and spoke without pulling back from the viewfinder. "Hemi, there's a big fuckin' outward bound cargo hauler about a quarter mile up the channel. I think I want to put the _Prospect_ under it, and hide in its shadow until we're well the fuck out."
 
-"It is a dangerous maneuver in these relatively shallow waters Percy." Said Hemi.
+"It is a dangerous maneuver in these relatively shallow waters Sylvia." Said Hemi.
 
 "That's why I need you on sonar. And we have the fact that their speed is pretty fuckin' slow working in our favor."
 
@@ -707,7 +707,7 @@ A few minutes later Cassandra and Percy's entrance to the sonar compartment was 
 
 In the sonar compartment, Hemi stood and moved to the navigation table without removing the sonar headset. He made some marks on the chart with the grease pencil to make sure he would not lose track of their position.
 
-For the next hour Hemi and Cassandra sat at the sonar tracking the contact following them. Despite their course change, the contact steadily gained on them. Captain Percy spent most of the hour standing directly behind Hemi and Cassandra at the sonar station, dreading the updates coming from Hemi. By the end of the hour, Hemi reported to Percy that the contact was virtually on top of them in terms of open sea space: within half a nautical mile. The contact was still running on the surface, thought slower, matching the _Prospect's_ 5 knot speed. This last fact was the thing that finally made it absolutely clear to Hemi that the sub with the ram had found them again.
+For the next hour Hemi and Cassandra sat at the sonar tracking the contact following them. Despite their course change, the contact steadily gained on them. Captain Percy spent most of the hour standing directly behind Hemi and Cassandra at the sonar station, dreading the updates coming from Hemi. By the end of the hour, Hemi reported to Percy that the contact was virtually on top of them in terms of open sea space: within half a nautical mile. The contact was still running on the surface, though slower, matching the _Prospect's_ 5-knot speed. This last fact was the thing that finally made it absolutely clear to Hemi that the sub with the ram had found them again.
 
 "Fucking fuck Hemi! How could they have fucking found us again? That's beyond dumb fucking luck. That's just strategically fucking unfair is what that is."
 
