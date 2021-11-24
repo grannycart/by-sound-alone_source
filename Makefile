@@ -5,7 +5,7 @@ BOOKNAME = Subworldbook1
 TITLE = title.txt
 METADATA = metadata.xml
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file
-CHAPTERS = full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md
+CHAPTERS = full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md ./LICENSE.txt
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
 TOC = --toc --toc-depth=1
 COVER_IMAGE = cover/cover-Prospect-temp.png

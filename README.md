@@ -62,7 +62,7 @@
 * This pre-release version of this book is under a CC license:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
-	* See: [LICENSE](./LICENSE)
+	* See: [LICENSE](./LICENSE.txt)
 * Future versions may be under some other license.
 
 

@@ -1,5 +1,5 @@
-[subworld book1 experiments with latex formatting](subworld-book1/experiments-with-latex-formatting.md)
-Last modified: Sat Nov 20, 2021  05:59PM
+subworld-book1/experiments-with-latex-formatting.md
+Last modified: Wed Nov 24, 2021  11:05AM
 
 * the Makefile has pandoc create a (standalone) raw latex file. But it needs a little polish. I'm using this latex file to format the book for print-on-demand. Here are the steps I took:
 
