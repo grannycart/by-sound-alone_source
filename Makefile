@@ -48,34 +48,34 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $
 #	pandoc $(TOC) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 #	above with TOC
 # Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
-	pandoc --css=$(CSS) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
+	pandoc --css=$(CSS) --from markdown+smart --epub-metadata=$(METADATA) -M date="Version date - `date "+%B %e, %Y"`" --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
 $(BUILD)/html/$(BOOKNAME).html: title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/html
 # the .html target needs the title.txt YAML metadata block for title, subtitle, author etc fields.
 #	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
-	pandoc -s $(TOC) --from markdown+smart --to=html5 -o $@ $^
+	pandoc -s $(TOC) -M date="Version date - `date "+%B %e, %Y"`" --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/pdf
-#	pandoc $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+#	pandoc -s $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 #	above with TOC
 #	Below with some latex options (-V) added.
-	pandoc --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+	pandoc -s --from markdown+smart --pdf-engine=xelatex -M date="Version date - `date "+%B %e, %Y"`" -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/latex
 #	pandoc -s $(TOC) --from markdown+smart -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 #	above with TOC, twocolumn, landscape, and letterpaper
 #	Below with some latex options (-V) added.
-	pandoc -s --from markdown+smart --top-level-division=chapter -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
+	pandoc -s --from markdown+smart --top-level-division=chapter -M date="Version date - `date "+%B %e, %Y"`" -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
 # the .txt target uses the title.txt YAML metadata block for title, subtitle, author etc fields --- even though it only includes it as YAML without formatting for a txt file.
 #	pandoc -s $(TOC) --from markdown+smart --to=txt -o $@ $^
 #	above with TOC
-	pandoc -s --from markdown+smart -o $@ $^
+	pandoc -s --from markdown+smart -M date="Version date - `date "+%B %e, %Y"`" -o $@ $^
 
 $(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) title.txt $(CHAPTERS)
 	mkdir -p $(BUILD)/markdown
@@ -83,7 +83,7 @@ $(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) title.txt $(CHAPTERS)
 # markdown target just turns the chapters into a single, cleaned up md file --- good for github pages.
 #	pandoc -s --from markdown+smart -o $@ $^
 #	above without TOC
-	pandoc -s $(TOC) --from markdown+smart --to=markdown -o $@ $^
+	pandoc -s $(TOC) --from markdown+smart -M date="Version date - `date "+%B %e, %Y"`" --to=markdown -o $@ $^
 
 
 .PHONY: all book clean epub html pdf latex txt md

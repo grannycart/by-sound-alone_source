@@ -24,7 +24,8 @@
 * Basically: 
 	1. on a linux box 
 	2. make sure you have pandoc and latex installed 
-	3. then just run make. This will create an epub, html, pdf, latex, and plain txt version of the book.
+	3. then just run make. This will create an epub, html, pdf, latex, and plain txt version of the book.:
+		* Note: for draft versions I've added -M date="Version date - `date "+%B %e, %Y"`" to the pandoc compile lines in the Makefile so the compiled files have a reference date included in the title blocks. (Requires date command on the computer --- all unix boxes. -M adds the content to the metadata. This line should be removed from final published version.)
 	4. These files can be cleaned up a bit by hand. See notes below.
 * epub:
 	* formatting notes to come
