@@ -1,5 +1,5 @@
 subworld-book1/experiments-with-latex-formatting.md
-Last modified: Wed Nov 24, 2021  03:08PM
+Last modified: Thu Nov 25, 2021  01:39PM
 
 * the Makefile has pandoc create a (standalone) raw latex file. But it needs a little polish. I'm using this latex file to format the book for print-on-demand. Here are the steps I took:
 
@@ -18,6 +18,7 @@ Last modified: Wed Nov 24, 2021  03:08PM
 	* Consider putting a carriage return\\ in the title or subtitle if it is not breaking in a good place. (Note: there is a pdftitle field that is not the same as \title. \title{} edits the actual compiled title.)
 6. Use pdftk or some other pdf manipulation software to add the diagram pages to the beginning of the file.
 	* pdftk ./sub-diagrams/Prospect/Prospect-interior-diagram_5.5x8.25-rotated.pdf ./sub-diagrams/Gnat/Gnat-interior-diagram_5.5x8.25-rotated.pdf ./built-files/latex/Subworldbook1.pdf cat output ~/Subworldbook1+diagrams.pdf
+	* If outputting for a downloadable pdf, consider using the standalone diagrams pdf instead.
 	* Alternatively: edit the latex to compile with the diagrams in place.
 7. Review pdf; pad with blank pages where necessary:
 	* Extract a blank page (assume page 4 is a blank page):
