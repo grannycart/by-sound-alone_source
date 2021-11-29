@@ -8,9 +8,8 @@ METADATA = metadata.xml
 CHAPTERS = full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md ./LICENSE.txt
 # I believe separate chapter files are just separated by a space --- see maintainer version to check
 TOC = --toc --toc-depth=1
-COVER_IMAGE = cover/cover-Prospect-temp.png
+COVER_IMAGE = cover/pre-release-draft-front-cover-layout.png
 # I think the cover pic works better if you use a .png or a .jpg
-# But upload a .tif to Amazon's cover pic
 LATEX_CLASS = article
 # While it seems like it would make sense to use 'book' for LATEX_CLASS,
 # book sets up the file for book printing -- putting end-of-book pages on the reverse of the front-of-book pages.

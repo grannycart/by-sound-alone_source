@@ -4,13 +4,6 @@ author: Mark Torrey
 subtitle: Pre-release version. For more information visit --- grannycart.net/subworld-pages/ 
 rights: Pre-release version. © 2021 Mark Torrey, CC BY-NC-SA --- see license attached at end of file. This is a rough first draft of this book. Email me to let me know what you think! grannycart@protonmail.com
 description: A couple of submarines chase each other through the ocean. Hilarity ensues.
-cover-image: ./cover/cover.png
-# stuff below is all set in the Makefile. Not sure why it's here too.
-# documentclass:
-#     - article
-# header-includes:
-#     - \usepackage{hyperref}
-#    - \usepackage[margin=0.8in]{geometry}
-# above line give Word-like wide text
+cover-image: ./cover/pre-release-draft-front-cover-layout.png
 ...
 
