@@ -64,5 +64,6 @@
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE.txt)
 * Future versions may be under some other license.
+* Original Makefile is under an [MIT LICENSE](makefile-maintainer/MIT-LICENSE-original-maintainer.txt)
 
 
