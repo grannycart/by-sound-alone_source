@@ -52,7 +52,8 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $
 $(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/html
 #	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
-	pandoc -s $(TOC) -M date="Version date - `date "+%B %e, %Y"`" --from markdown+smart --to=html5 -o $@ $^
+#	The --self-contained tells pandoc to include the css in the html file, rather than just referencing it.
+	pandoc -s $(TOC) --css=$(CSS) --self-contained -M date="Version date - `date "+%B %e, %Y"`" --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/pdf
