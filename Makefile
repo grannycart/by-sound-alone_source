@@ -42,12 +42,10 @@ md: $(BUILD)/markdown/$(BOOKNAME).md
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
-# the .epub target includes one_diagrams.md so the diagrams get included in the .epub
-#	pandoc $(TOC) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
-#	above with TOC
+# 	the .epub target includes one_diagrams.md so the diagrams get included in the .epub
 # 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
 # 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
-	pandoc --css=css/epub.css --from markdown+smart --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
+	pandoc $(TOC) --css=css/epub.css --from markdown+smart --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
 $(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/html
@@ -57,29 +55,25 @@ $(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/pdf
-#	pandoc -s $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
-#	above with TOC
 #	Below with some latex options (-V) added.
-	pandoc -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+	pandoc $(TOC) -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/latex
-#	pandoc -s $(TOC) --from markdown+smart -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
-#	above with TOC, twocolumn, landscape, and letterpaper
+#	I use this target for prepping for paper version of the book 
+#	(so, scrbook latex class is used here and page it set to 5.5x8.25)
+#	No TOC for book printing file
 #	Below with some latex options (-V) added.
 	pandoc -s --from markdown+smart --top-level-division=chapter $(DATE) -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
-#	pandoc -s $(TOC) --from markdown+smart --to=txt -o $@ $^
-#	above with TOC
+#	No TOC for txt file
 	pandoc -s --from markdown+smart $(DATE) -o $@ $^
 
 $(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/markdown
-# markdown target just turns the chapters into a single, cleaned up md file --- good for github pages.
-#	pandoc -s --from markdown+smart -o $@ $^
-#	above without TOC
+# 	markdown target just turns the chapters into a single, cleaned up md file.
 	pandoc -s $(TOC) --from markdown+smart $(DATE) --to=markdown -o $@ $^
 
 
