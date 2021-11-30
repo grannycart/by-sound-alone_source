@@ -16,11 +16,10 @@ LATEX_CLASS = article
 # (There's probably a latex option to change that, but that is the default for book.)
 # 'report' puts in annoying chapter numbers that I can't figure out how to get rid of with pandoc.
 # This document is fairly simple, so 'article' works well --- though see notes in README.md on compiling.
-CSS = epub.css
-# This corresponds to the --css switch in the epub pandoc command
-# It is critically important because it centers the titles and separators among other things. It vastly improves the epub output.
-# It is not included in the original maintainer's version.
-# The -css switch doesn't seem to have an impact on html or pdf output.
+CSS = css/clean-html.css
+# This corresponds to the --css switch in the pandoc command
+DATE = -M date="Version date - `date "+%B %e, %Y"`" 
+# This line puts a version date into the compiled pandoc file using the -M metadata switch. The default setup puts in today's date
 
 all: book
 
@@ -46,41 +45,42 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $
 # the .epub target includes one_diagrams.md so the diagrams get included in the .epub
 #	pandoc $(TOC) --from markdown+smart --epub-metadata=$(METADATA) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 #	above with TOC
-# Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
-	pandoc --css=$(CSS) --from markdown+smart --epub-metadata=$(METADATA) -M date="Version date - `date "+%B %e, %Y"`" --epub-cover-image=$(COVER_IMAGE) -o $@ $^
+# 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
+# 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
+	pandoc --css=css/epub.css --from markdown+smart --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
 $(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/html
 #	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
 #	The --self-contained tells pandoc to include the css in the html file, rather than just referencing it.
-	pandoc -s $(TOC) --css=$(CSS) --self-contained -M date="Version date - `date "+%B %e, %Y"`" --from markdown+smart --to=html5 -o $@ $^
+	pandoc -s $(TOC) --css=$(CSS) --self-contained $(DATE) --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/pdf
 #	pandoc -s $(TOC) --from markdown+smart --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 #	above with TOC
 #	Below with some latex options (-V) added.
-	pandoc -s --from markdown+smart --pdf-engine=xelatex -M date="Version date - `date "+%B %e, %Y"`" -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+	pandoc -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 	mkdir $(BUILD)/latex
 #	pandoc -s $(TOC) --from markdown+smart -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 #	above with TOC, twocolumn, landscape, and letterpaper
 #	Below with some latex options (-V) added.
-	pandoc -s --from markdown+smart --top-level-division=chapter -M date="Version date - `date "+%B %e, %Y"`" -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
+	pandoc -s --from markdown+smart --top-level-division=chapter $(DATE) -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/txt
 #	pandoc -s $(TOC) --from markdown+smart --to=txt -o $@ $^
 #	above with TOC
-	pandoc -s --from markdown+smart -M date="Version date - `date "+%B %e, %Y"`" -o $@ $^
+	pandoc -s --from markdown+smart $(DATE) -o $@ $^
 
 $(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/markdown
 # markdown target just turns the chapters into a single, cleaned up md file --- good for github pages.
 #	pandoc -s --from markdown+smart -o $@ $^
 #	above without TOC
-	pandoc -s $(TOC) --from markdown+smart -M date="Version date - `date "+%B %e, %Y"`" --to=markdown -o $@ $^
+	pandoc -s $(TOC) --from markdown+smart $(DATE) --to=markdown -o $@ $^
 
 
 .PHONY: all book clean epub html pdf latex txt md
