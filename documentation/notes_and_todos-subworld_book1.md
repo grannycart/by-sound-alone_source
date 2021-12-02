@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sun Nov 14, 2021  12:37PM
+Last modified: Thu Dec 02, 2021  09:35AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -337,6 +337,8 @@ Last modified: Sun Nov 14, 2021  12:37PM
 ## Elements specific to this story
 --------------------------------------------------------------------------------
 :elements:
+* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
+	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.) 
 * [X] Maybe in some battle situation, they can use 3D thinking to outwit some smart enemy who is limited to 2D thinking. (ala kahn in star trek 2)
 	* Let's say this is the section where they go deep to escape the sub as they leave the depot
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
