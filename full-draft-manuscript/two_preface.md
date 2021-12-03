@@ -8,7 +8,7 @@
 
 This first 500 words isn't the preface. It's the preface to the Preface to The Pre-release Draft.
 
-This book is going to need that preface. 
+But This book is going to need a preface. 
 
 The problem is it does not comfortably fit into one of the categories most books are jammed into. It is about submarines, but it is not about _war_ submarines. It is not _The Hunt For Red October_. If what you want from your submarine story is a "taut political thriller," you'll have to find it elsewhere. (Though you should still read this book!)
 
@@ -16,7 +16,7 @@ The main submarines in this book (the ones in the diagrams) are cargo submarines
 
 It is unquestionably speculative fiction. But it is not science fiction. (Science, such as it is in the story, is purely science-fact.) It is not an alternative history --- at least not in the way that term is usually defined (that is, Hitler has not won the war in this book). It's also not steam punk. It might have submarines, but there's no steam. Maybe more importantly, the alternative-history world it is set in is about 100 years later than the alternative-history world steam punk stories are set in.
 
-Besides, I think genres should be defined more by aesthetics than technology. This story is entirely driven by the world the characters live in. A world of filthy, noisy, all-encompassing, mechanical machines, on which their lives and their livelihoods both depend. The grit and dirt permeate through. Maybe the genre could be "grime punk," though that is not a real genre either.
+Besides, I think genres should be defined more by aesthetics than technology. This story is entirely driven by the world the characters live in. A world of filthy, noisy, all-encompassing, mechanical machines, on which their lives and their livelihoods both depend. The grit and dirt permeate through. Maybe the genre could be "grime punk," though that is not yet a real genre either.
 
 With no genre that appropriately short-hands what the book might be about, the preface has to do a lot of work. It has to set up expectations for the story, without getting involved in the story itself. It is also the only place any intended meta-narratives (of which there are a few) can be made explicit. (I have nothing to say about _unintended_ meta-narratives.) The following preface is merely a draft of one possibility for how to introduce the book. There's a number of other directions that it could take. Read it, read the book, and then come back and check the preface again. Let me know if you think it is working.
 
