@@ -1,20 +1,28 @@
 
 [//]: # (./two_preface.md)
 
-
 [//]: # (This is _two_ underscore preface because it should come after the diagrams.)
+
 
 # Preface to The Pre-release Draft
 
-This book is going to need a preface. Mostly because it does not comfortably fit into one of the categories most books fit into. It is about submarines but it is not _Hunt For Red October_. It is (mostly) not about war submarines, it's about cargo submarines. It has more in common with 1970s trucker movies than 1990s submarine movies. If what you want from your submarine story is a "taut political thriller," you'll have to find it elsewhere. (Though you should still read this book!) It is unquestionably speculative fiction. But it is not science fiction. (Science, such as it is in the story, is purely science-fact.) It is not an alternative history, or at least not in the way that term is usually defined (that is, Hitler has not won the war in this book).
+This first 500 words isn't the preface. It's the preface to the Preface to The Pre-release Draft.
 
-With no genre that appropriately short-hands what the book might be about, the preface has to do a lot of work. It has to set up expectations for the story, without getting involved in the story itself. It is also the only place any intended meta-narratives (of which there are a few) can be made explicit. (I have nothing to say about _unintended_ meta-narratives.) And the biggest meta-narrative of all is whatever the heck the genre for this book is.
+This book is going to need that preface. 
 
-The story is entirely driven by the world the characters live in. A world of filthy, noisy, all-encompassing, mechanical machines, on which their lives and their livelihoods both depend. I keep floating the idea that maybe the genre should be called "grime punk," since it is not entirely unlike steam punk, but instead of steam there's a lot of grease, grit, and grime. The following preface is merely a draft of one possibility for the book. There's a number of other directions that I think it could take. Read it, read the book, and then come back and check the preface again. Let me know if you think it works.
+The problem is it does not comfortably fit into one of the categories most books are jammed into. It is about submarines, but it is not about _war_ submarines. It is not _The Hunt For Red October_. If what you want from your submarine story is a "taut political thriller," you'll have to find it elsewhere. (Though you should still read this book!)
 
-One final note: on the number of literal "fucks" given --- there is an excessive amount of cursing in the dialog of this early version of the story. It was an experiment. It's probably not working, and a lot of the cursing will be first on the chopping block when the book goes through the next round of edits. But at least you can tell people, "I read an early version --- when it still had all the cursing in it!"
+The main submarines in this book (the ones in the diagrams) are cargo submarines. This means the book probably has more in common with 1970s trucker movies than 1990s submarine movies. "Submarine truckers" is not a category that exists on Amazon (yet).
 
-Without any further delay, the draft preface...
+It is unquestionably speculative fiction. But it is not science fiction. (Science, such as it is in the story, is purely science-fact.) It is not an alternative history --- at least not in the way that term is usually defined (that is, Hitler has not won the war in this book). It's also not steam punk. It might have submarines, but there's no steam. Maybe more importantly, the alternative-history world it is set in is about 100 years later than the alternative-history world steam punk stories are set in.
+
+Besides, I think genres should be defined more by aesthetics than technology. This story is entirely driven by the world the characters live in. A world of filthy, noisy, all-encompassing, mechanical machines, on which their lives and their livelihoods both depend. The grit and dirt permeate through. Maybe the genre could be "grime punk," though that is not a real genre either.
+
+With no genre that appropriately short-hands what the book might be about, the preface has to do a lot of work. It has to set up expectations for the story, without getting involved in the story itself. It is also the only place any intended meta-narratives (of which there are a few) can be made explicit. (I have nothing to say about _unintended_ meta-narratives.) The following preface is merely a draft of one possibility for how to introduce the book. There's a number of other directions that it could take. Read it, read the book, and then come back and check the preface again. Let me know if you think it is working.
+
+One final note --- on the number of literal "fucks" given: there is an excessive amount of cursing in the dialog of this early version of the book. It was an experiment. It's probably not working, and a lot of the cursing will be first on the chopping block when the book goes through the next round of edits. But if you read it now, you can tell people: "I read an early version --- back when it still had all the cursing in it!"
+
+Without any further delay, the draft Preface to The Pre-release Draft...
 
 --------------------------------------------------------------------------------
 
