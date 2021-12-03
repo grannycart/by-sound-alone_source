@@ -1,12 +1,12 @@
 subworld-book1/experiments-with-latex-formatting.md
-Last modified: Thu Dec 02, 2021  07:27PM
+Last modified: Fri Dec 03, 2021  01:48PM
 
 * the Makefile has pandoc create a (standalone) raw latex file. But it needs a little polish. I'm using this latex file to format the book for print-on-demand. Here are the steps I took:
 
 1. Run make to output a .tex file in the built-files/latex directory.
 	* (There will also be a finished pdf in the built-files/pdf/ directory, but it won't be properly formatted for book printing.)
 2. add \small before the body to make the main text a smaller font (reduces final book size by like 40 pages or something)
-	* Consider setting CC license at end of file to \footnotesize (particularly if printing)
+	* Consider setting CC license at end of file to \footnotesize or even \tiny (particularly if printing)
 3. do vim command --- :%s/chapter{/chapter\*{/g to make chapter headers not display numbering
 	* There's a global way to do this in Latex, but I don't remember it.
 4. Add small pigeon graphic to title page:
