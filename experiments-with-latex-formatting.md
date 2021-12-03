@@ -1,9 +1,10 @@
 subworld-book1/experiments-with-latex-formatting.md
-Last modified: Thu Dec 02, 2021  05:06PM
+Last modified: Thu Dec 02, 2021  07:27PM
 
 * the Makefile has pandoc create a (standalone) raw latex file. But it needs a little polish. I'm using this latex file to format the book for print-on-demand. Here are the steps I took:
 
-1. Run make to output a .tex file in the built-files/ directory.
+1. Run make to output a .tex file in the built-files/latex directory.
+	* (There will also be a finished pdf in the built-files/pdf/ directory, but it won't be properly formatted for book printing.)
 2. add \small before the body to make the main text a smaller font (reduces final book size by like 40 pages or something)
 	* Consider setting CC license at end of file to \footnotesize (particularly if printing)
 3. do vim command --- :%s/chapter{/chapter\*{/g to make chapter headers not display numbering
@@ -22,7 +23,7 @@ Last modified: Thu Dec 02, 2021  05:06PM
 	* Alternatively: edit the latex to compile with the diagrams in place.
 7. Review pdf; pad with blank pages where necessary:
 	* Extract a blank page (assume page 4 is a blank page):
-		* pdftk ./Subworldbook1+diagrams.pdf cat 4 output ~/blank-page.pdf
+		* pdftk ./Subworldbook1.pdf cat 2 output ~/blank-page.pdf
 	* Then add blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
 		* pdftk ~/blank-page.pdf ./sub-diagrams/Prospect/Prospect-interior-diagram_5.5x8.25-rotated.pdf ./sub-diagrams/Gnat/Gnat-interior-diagram_5.5x8.25-rotated.pdf ~/blank-page.pdf ./built-files/latex/Subworldbook1.pdf ~/blank-page.pdf cat output ~/Subworldbook1+diagrams.pdf
 
