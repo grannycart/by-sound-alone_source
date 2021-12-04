@@ -1,5 +1,5 @@
 subworld-book1/experiments-with-latex-formatting.md
-Last modified: Fri Dec 03, 2021  02:39PM
+Last modified: Fri Dec 03, 2021  07:22PM
 
 * the Makefile has pandoc create a (standalone) raw latex file. But it needs a little polish. I'm using this latex file to format the book for print-on-demand. Here are the steps I took:
 
@@ -22,10 +22,10 @@ Last modified: Fri Dec 03, 2021  02:39PM
 	* pdftk ./sub-diagrams/Prospect/Prospect-interior-diagram_5.5x8.25-rotated.pdf ./sub-diagrams/Gnat/Gnat-interior-diagram_5.5x8.25-rotated.pdf ./built-files/latex/Subworldbook1.pdf cat output ~/Subworldbook1+diagrams.pdf
 	* If outputting for a downloadable pdf, consider using the standalone diagrams pdf instead.
 	* Alternatively: edit the latex to compile with the diagrams in place.
-7. Review pdf; pad with blank pages where necessary:
+7. Review pdf; gather all the other necessary pdfs into a single directory
 	* Extract a blank page (assume page 4 is a blank page):
-		* pdftk ./Subworldbook1.pdf cat 2 output ~/blank-page.pdf
-	* Then add blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
-		* pdftk ~/blank-page.pdf ./sub-diagrams/Prospect/Prospect-interior-diagram_5.5x8.25-rotated.pdf ./sub-diagrams/Gnat/Gnat-interior-diagram_5.5x8.25-rotated.pdf ~/blank-page.pdf ./built-files/latex/Subworldbook1.pdf ~/blank-page.pdf cat output ~/Subworldbook1+diagrams.pdf
+		* pdftk ./Subworldbook1.pdf cat 2 output ./blank-page.pdf
+	* Then assemble the final pdf, adding blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
+		* pdftk ./blank-page.pdf ./Prospect-interior-diagram_5.5x8.25-rotated.pdf ./Gnat-interior-diagram_5.5x8.25-rotated.pdf ./blank-page.pdf ../built-files/latex/Subworldbook1.pdf  ./blank-page.pdf cat output ./Subworldbook1+diagrams.pdf
 
 
