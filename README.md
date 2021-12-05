@@ -48,6 +48,7 @@
 * Compiled using pandoc-ebook-template:
 	* https://github.com/evangoer/pandoc-ebook-template
 * Test readers:
+	* Clark Smeltzer
 	* Your name here!
 	* Or your name here!
 	* Or your name here!

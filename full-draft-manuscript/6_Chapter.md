@@ -89,7 +89,7 @@ The moniker 'Stilt City' might have been somewhat pejorative, but it was accurat
 
 The _Prospect_ floated into the main channel that led into the city. It was nearly a mile wide for much of its passage, forming an artificial equivalent to the large river that bisects so many coastal cities. 
 
-The rapid growth of Stilt City had brought wealth in, but the wealth did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of fire and axe blade. The most common craft, of which there must have been thousands, was an angular homebuilt wooden boat, driven either by singular canvas sails taught on rough wood masts and booms, or by long thin oars that were used to row the boats in deep waters and pole the boats through shallower waters.
+The rapid growth of Stilt City had brought wealth in, but the wealth did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of fire and ax blade. The most common craft, of which there must have been thousands, was an angular home-built wooden boat, driven either by singular canvas sails taught on rough wood masts and booms, or by long thin oars that were used to row the boats in deep waters and pole the boats through shallower waters.
 
 Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people were trading goods across the networks of hulls.
 
@@ -140,7 +140,7 @@ The man looked it over. "Sure. That's no great fucking way from here."
 
 "Have you ever piloted a submarine before Sturmey?" Percy asked. "It's not totally like fuckin' surface ships."
 
-"Abso-fuckin'-lutely. I piloted lots of sub marines in and out." He pronounced 'sub marine' like it was two separate words. "I even had my pilot's license --- back when they used to be more strict about issuing them."
+"Fuckin' absolutely. I piloted lots of sub marines in and out." He pronounced 'sub marine' like it was two separate words. "I even had my pilot's license --- back when they used to be more strict about issuing them."
 
 "How much money will it cost to hire you?" Hemi asked.
 
@@ -253,7 +253,7 @@ Hemi nodded.
 
 "And, uh, be careful," continued the dock boss, "If you damage the platform, or say, blow it up, _you_ are fucking responsible, understood?"
 
-Hemi waved an acknowledgement but did not bother turning to look back at the man.
+Hemi waved an acknowledgment but did not bother turning to look back at the man.
 
 Out of earshot, Owen asked quietly, "Are we going to start unloading the _Prospect_ by ourselves Hemi?"  Imagining the total weight of the hundreds of heavy wooden crates in the hold.
 
@@ -292,7 +292,7 @@ Hemi stroked his beard. "That only works if there is a way to communicate to the
 
 [//]: # (### Shakes arrives)
 
-The hold was about three-quarters empty when Hemi and Percy heard the heavy diesels of a large ship moving up the channel. When a horn sounded they turned to find there was no ship coming from the direction of the engine sound. Hemi lifted his binoculars and scanned his way up the channel until he saw the familiar low outline of the _Gnat's_ sail with a spikey-haired head sticking out of it, and a stream of diesel exhaust flowing out from behind.
+The hold was about three-quarters empty when Hemi and Percy heard the heavy diesels of a large ship moving up the channel. When a horn sounded they turned to find there was no ship coming from the direction of the engine sound. Hemi lifted his binoculars and scanned his way up the channel until he saw the familiar low outline of the _Gnat's_ sail with a spiky-haired head sticking out of it, and a stream of diesel exhaust flowing out from behind.
 
 "Sylvia," said Hemi, "it is the _Gnat_."
 
@@ -417,7 +417,7 @@ From the sail of the _Prospect_ Percy had watched the _Gnat_ back behind her boa
 
 "Fuck!" Percy called down to the control room. "Hemi, Shakes just drove the _Gnat_ into our fuckin' pursuers! See if you can get him on ship-to-ship." 
 
-But she did not have to wait for Hemi's report. The _Gnat_ floated to the surface out in the channel, its bow heavily dented, but clearly still afloat. A moment later from the top of the sail came Shakes' familiar spikey-haired form waving to the _Prospect_.
+But she did not have to wait for Hemi's report. The _Gnat_ floated to the surface out in the channel, its bow heavily dented, but clearly still afloat. A moment later from the top of the sail came Shakes' familiar spiky-haired form waving to the _Prospect_.
 
 
 [//]: # (### Running back to the main channel in pursuit)
@@ -458,18 +458,18 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 "Just another quarter mile or so. We have to slow the boat down even before we get there --- it is easy to miss a small fucking lane like that, and also no turnaround." 
 
-"OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the windings of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The sub with the ram might be right behind them but she had no way of knowing.
+"OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the winding ways of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The sub with the ram might be right behind them but she had no way of knowing.
 
 A few minutes later Sturmey called down to Bastian to slow the _Prospect_ to 5 knots. Sturmey scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
 
 She nodded. "None too fucking soon." She said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
-As Sturmey brought the _Prospect_ into the narrow way of the shortcut, they could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the already loud sounds of the _Prospect's_ own engines underneath them. As Sturmey began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub had not come into sight. Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
+As Sturmey brought the _Prospect_ into the narrow way of the shortcut, they could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the already loud sounds of the _Prospect's_ own engines underneath them. As Sturmey began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub had not come into sight.  Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
 
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 
-The _Prospect_ moved into the narrow channel between the huts, backtracing the route it had come in by. Sturmey had them moving faster this time though, kicking up enough wake to slosh up against the bottoms of the huts, but just short of driving water into the huts. That did not prevent residents from coming out and cursing their passing though.
+The _Prospect_ moved into the narrow channel between the huts, backtracking the route it had come in by. Sturmey had them moving faster this time though, kicking up enough wake to slosh up against the bottoms of the huts, but just short of driving water into the huts. That did not prevent residents from coming out and cursing their passing though.
 
 As before, they wound their way through the small homes. Sturmey faced the bow and scanned the path in front of them with binoculars. Occasionally he cupped a hand around his mouth and yelled forward loudly in various local languages to try to get a local fisherman or kids rowing tiny coracles to make way for the _Prospect_ to pass. He kept up a never ending stream of instructions to Hemi and Bastian below, making tiny corrections in their course to keep them in the center of the narrow passage.
 
@@ -502,7 +502,7 @@ It was only moments later that she could see ahead the shade of water with a dis
 
 She climbed back up to the bridge with a smile on her face and patted Sturmey on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them, suggested to her that the _Prospect_ might have an opportunity coming.
 
-She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessly up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. And it drove into the shallow bar with no relent in its speed. The sharp front edge of the ram plowed deep enough into the sludgey ground that the muck erupted up from the bottom in a black moraine that rose until it cleared the surface. A small tsunami of brown water turbid with black muck rose and traveled up the small channel in front of it.
+She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessly up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. And it drove into the shallow bar with no relent in its speed. The sharp front edge of the ram plowed deep enough into the sludgy ground that the muck erupted up from the bottom in a black moraine that rose until it cleared the surface. A small tsunami of brown water turbid with black muck rose and traveled up the small channel in front of it.
 
 Their pursuers were stopped dead in the passage. Through her binoculars Percy imagined she could almost see the shadows of the men directing the boat from the top of the sail thrust forward against the forward edge of the fairing as the momentum suddenly came off the boat. She could see an arm raised in anger and hear the vitriol spilling off the sub's sail.
 
@@ -786,7 +786,7 @@ Percy took her pack of cigarillos from the wall and put one to her lips and lit 
 
 Bastian took one hand off the stainless dive plane control wheel at a time and wiped the moisture of his palms on his pants. Hemi patted his shoulder with a heavy hand.
 
-Suddenly the ship-to-ship radio lit up. "To unidentified submarine running north-north-east at 27.5 degrees. You are herby notified that you are required to stop your boat and surface for inspection." This announcement was followed by the string of generalized Authority rights and treaties they were familiar with from previous encounters with the sub with the ram.
+Suddenly the ship-to-ship radio lit up. "To unidentified submarine running north-north-east at 27.5 degrees. You are hereby notified that you are required to stop your boat and surface for inspection." This announcement was followed by the string of generalized Authority rights and treaties they were familiar with from previous encounters with the sub with the ram.
 
 "Fuck Hemi. They are within ship-to-ship distance now."
 
@@ -836,7 +836,7 @@ Dead silence passed through the boat.
 
 "No torpedo in the water." Said Cassandra.
 
-"I guess they learned to not waste their torpedos." Percy said to Hemi.
+"I guess they learned to not waste their torpedoes." Percy said to Hemi.
 
 "Sylvia, you should consider the possibility that this sub commander may intend to ram us at depth." Said Hemi. "He knows he cannot get us this deep with a torpedo, and he knows he lost us last time we dove. He might not be willing to let that happen a second time."
 

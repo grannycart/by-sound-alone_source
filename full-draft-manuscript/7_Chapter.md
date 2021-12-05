@@ -183,7 +183,7 @@ Cassandra was very timid on the way down the slope, squeezing the brakes and ski
 
 They raced on for the better part of two hours, until not one of them lacked a spot of blood running freely from somewhere on their body and a number of bruises as badges to prove the amount of fun they had achieved. There were no serious injuries other than a sprained ankle on Owen's part that would set him limping for the next week.
 
-Eventually, when the whole crew was looking like it had run out their physical capacities, Percy had Hemi level the _Pospect_ and then released them all to their bunks or coffee depending on individual preference for the rest of the day. 
+Eventually, when the whole crew was looking like it had run out their physical capacities, Percy had Hemi level the _Prospect_ and then released them all to their bunks or coffee depending on individual preference for the rest of the day. 
 
 
 [//]: # (### Into the garbage gyre)
@@ -228,7 +228,7 @@ In the sonar compartment they could hear Shakes' voice crackling questions over 
 
 "Send the reckless risk-taker to check it out? That's my kind of fuckin' plan Hemi." Percy climbed up to the control room and took over the conversation with Shakes from Bastian. She explained the situation to him and they came up with a plan where Shakes would move forward on battery and check out the radar contacts while the _Prospect_ submerged to periscope depth and followed behind, staying within ship-to-ship range of the _Gnat_.
 
-15 minutes later, the _Gnat_ was coming up on the first of the radar contacts. Percy watched the blackness where the _Gnat_ was located ahead of them through the periscope. Soon a beam of light shot out from the water, and in the reflection of it she could see Shakes' spikey head at the top of the sail of the _Gnat_. Shakes ran the light beam forward and back along a black wall that road up and down on the ocean swell ahead of him.
+15 minutes later, the _Gnat_ was coming up on the first of the radar contacts. Percy watched the blackness where the _Gnat_ was located ahead of them through the periscope. Soon a beam of light shot out from the water, and in the reflection of it she could see Shakes' spiky head at the top of the sail of the _Gnat_. Shakes ran the light beam forward and back along a black wall that road up and down on the ocean swell ahead of him.
 
 At this range Cassandra could hear the object on the sonar --- water slapping against a steel void with the random regularity of ocean chop --- Cassandra was convinced it was a ship. 
 
@@ -344,7 +344,7 @@ With the active sonar off, Cassandra soon reported that the sub with the ram had
 
 [//]: # (### They hit an obstruction in the water)
 
-For the next two hours Cassandra blearily focussed on listening to the sonar contacts and shouting potential hazards she heard in the water up to the control room. Owen and Percy were required to constantly make adjustments to their course to avoid one large object or another that rang out in Cassandra's earpieces. But she could not hear the smaller objects, and every so often one would bump threateningly against the hull, loud enough for them all to hear it regardless of which part of the ship had been struck. Every time this happened Percy shouted a string of curses down to Cassandra, and every time it happened the oaths were fiercer and lasted longer.
+For the next two hours Cassandra blearily focused on listening to the sonar contacts and shouting potential hazards she heard in the water up to the control room. Owen and Percy were required to constantly make adjustments to their course to avoid one large object or another that rang out in Cassandra's earpieces. But she could not hear the smaller objects, and every so often one would bump threateningly against the hull, loud enough for them all to hear it regardless of which part of the ship had been struck. Every time this happened Percy shouted a string of curses down to Cassandra, and every time it happened the oaths were fiercer and lasted longer.
 
 By the time Hemi arrived back in the sonar compartment from his rack, Cassandra was clearly frayed. He consulted with her briefly to get caught up. He realized he would need to relieve Cassandra and let her get some rest. But first he wanted to check in with Percy, so he climbed up to the control room. 
 
@@ -384,7 +384,7 @@ For the next few hours Hemi carefully tracked the pursuing sub on sonar. He grew
 
 Captain Percy had run out of ideas though. She just let the _Prospect_ run, leaning her weight from an overhead strap while she smoked. Hemi continued directing Bastian to make occasional adjustments to steer clear of dangerous objects in the water.
 
-It was just starting to seem to Percy that perhaps there were fewer calls up from Hemi for course adjustements when the needles on the battery gauges suddenly dipped down into the solid red zone and then fell onto their zero needles, flat and lifeless. The sound of the electric drive motors died away with them. And just a second after that the higher pitched whine of the forward bilge pumps died away too.
+It was just starting to seem to Percy that perhaps there were fewer calls up from Hemi for course adjustments when the needles on the battery gauges suddenly dipped down into the solid red zone and then fell onto their zero needles, flat and lifeless. The sound of the electric drive motors died away with them. And just a second after that the higher pitched whine of the forward bilge pumps died away too.
 
 The _Prospect_ sat dead in the water.
 

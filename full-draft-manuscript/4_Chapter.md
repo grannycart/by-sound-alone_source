@@ -217,7 +217,7 @@ Percy reached for some switches on the wall that changed the lighting to night l
 
 "Keep us close to that fucking seamount." Said Percy. "It will give us extra cover if they decide to use their active sonar."
 
-"No reason not to make a tricky operation even tricker." Said Hemi. "Bastian, are we clear of the traffic abandoning the depot?"
+"No reason not to make a tricky operation even trickier." Said Hemi. "Bastian, are we clear of the traffic abandoning the depot?"
 
 "Ya," said Bastian, "they all scattered pretty fuckin' quickly."
 
@@ -268,6 +268,8 @@ Percy pointed to a hashed arc that ran across the chart passing by one side of t
 "Yes." Said Hemi. "Western Federated Socialists on the east side of it, Consolidated States of the Archipelago Islands on the west side of it." He looked at the date printed in the corner of the chart. "At least as of the printing of this chart, eight months ago."
 
 "So Shakes' line wasn't that far off. Not bad for off the top of a fuckin' tweaker head like that."
+
+[//]: # (tweaker --- because Shakes is both drug-addled and tweaks machines) 
 
 "Not bad at all." Hemi agreed.
 
@@ -439,7 +441,7 @@ Hemi called down to ask for their new speed and to confirm the heading. He marke
 
 Hemi looked at her incredulously. Hemi was hardly ever kidding. "Apparently with the whole boat underwater more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable 40 miles off or so on sonar."
 
-"So once again the new-fangled technology doesn't solve a fucking problem, it just creates more options for a captain to have to make fucking decisions about." Percy spat.
+"So once again the newfangled technology doesn't solve a fucking problem, it just creates more options for a captain to have to make fucking decisions about." Percy spat.
 
 "It is certainly not a job I would ever want. I prefer a measure of certainty in my work."
 
@@ -456,7 +458,7 @@ Percy lit a cigarillo. Hemi looked up at the dark gray sky, mostly obscured by c
 [//]: # (Midnight: night 1, run to Stilt City)
 The night ground on with the unvarying drone of the diesel engines always under the foot of any crew members on deck, and relentlessly surrounding anyone below deck. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries and run the electric motors that actually propelled the boat, they were always run at the same, RPMs of optimum-efficiency for spinning the generators. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For the crew at the controls, with no depth to control while they were on the surface, and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
 
-Percy knew that this was the hardest part of the job --- remaining always ready to take action when there was absolutely nothing to do. The crew had to stay focussed on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything was not just a grime-coated gray accompanied by a background of lush and never-changing noise that managed to be the exact auditory equivalent to the bland color that surrounded them.
+Percy knew that this was the hardest part of the job --- remaining always ready to take action when there was absolutely nothing to do. The crew had to stay focused on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything was not just a grime-coated gray accompanied by a background of lush and never-changing noise that managed to be the exact auditory equivalent to the bland color that surrounded them.
 
 She put the crew on rest rotations. Every three hours three of them would get three hours off. This kept two people in the control room at all times, one on lookout, and one at the radar/sonar station. The off-duty crew were free to spend their time on deck if they wanted. But since there was little to see up there but a black horizon tapped against a dark gray one, most of the crew came back down after a few minutes and ended up in their rack sleeping. Except for Bastian. He wrapped his long thin form in a rubber foul-weather slicker to keep the wind off and lay out on the forward deck, apparently finding sleep there as easily as warm puppy.
 
@@ -597,13 +599,13 @@ Then, far off their port side, she heard an engine in the water. It was not like
 
 "Captain Percy!" Cassandra called up to the control room where Percy still sat still fiddling with the controls to her boat. "I hear something."
 
-Percy slid down the ladder and picked up the second sonar headset and put it on. Cassandara, rotated the mics back and forth across the direction of the contact, and settled them in on the strongest signal.
+Percy slid down the ladder and picked up the second sonar headset and put it on. Cassandra, rotated the mics back and forth across the direction of the contact, and settled them in on the strongest signal.
 
 "Is that Captain Shakes?" Cassandra asked doubtfully.
 
 "That can't be fucking Shakes." Said Percy. "That sounds like a supertanker or an aircraft carrier or something. Go get Hemi. I think he should hear this."
 
-Cassandra went off to the Galley leaving Percy listening to the contact. She came back with Hemi holding a tin up with the dregs of cold coffe in the bottom. He slipped the headphones on and stood there hold his coffee cup, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on, and listened again.
+Cassandra went off to the Galley leaving Percy listening to the contact. She came back with Hemi holding a tin up with the dregs of cold coffee in the bottom. He slipped the headphones on and stood there hold his coffee cup, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on, and listened again.
 
 "Well." Hemi said. "That is strange. It does sound like a tanker or something big just from sheer volume. But it is moving very fast, too fast for a big ship...." He paused listening again. "It is closer now, and I can hear the prop revolutions... the frequencies are all wrong. The prop is spinning too fast, and sounds small, not like a big ship screw."
 
@@ -715,7 +717,7 @@ They carried out the maneuver without incident. Shakes brought the _Gnat_ up und
 
 "Ah fuck ya Captain Shakes. At least I didn't have to weld your fuckin' boat back together to get ya on board this fuckin' time."
 
-"Good to see you again too Chips. I'll have you know my boat has been adjusted and tuned to an absolute fucking precisionmeister's peak of fuckin' performance. The _Gnat_ is now faster, more maneuverable, and louder than any other boat of its size and displacement."
+"Good to see you again too Chips. I'll have you know my boat has been adjusted and tuned to an absolute fucking precision-meister's peak of fuckin' performance. The _Gnat_ is now faster, more maneuverable, and louder than any other boat of its size and displacement."
 
 "Ah, yer the first fucker I've ever fucking met who is proud to have a loud fucking submarine Captain Shakes."
 
@@ -809,7 +811,7 @@ Captain Percy lit a cigarillo. "Shit." She said. "If they know we've got weapons
 
 "But if you have the _Gnat's_ hatch closed, how will you know when Herschel has returned to you?" Asked Hemi. "It is not like you will be able to hear him tapping on the hatch with his beak..."
 
-"An astute fuckin' question my large friend. I don't want to leave the hatch open all the time. So I'm going to add a small hatch in the sail --- a hole just big enough for a pigeon. When Herschel has a message for me, he can just come in through his hatch. I only need Herscel when I'm running on the surface with the loud diesels, underwater we can just use ship-to-ship and I can keep Herschel's hatch closed. 
+"An astute fuckin' question my large friend. I don't want to leave the hatch open all the time. So I'm going to add a small hatch in the sail --- a hole just big enough for a pigeon. When Herschel has a message for me, he can just come in through his hatch. I only need Herschel when I'm running on the surface with the loud diesels, underwater we can just use ship-to-ship and I can keep Herschel's hatch closed. 
 
 Hemi grinned. "I cannot wait to meet Herschel. I volunteer to take responsibility for him while he's on board the _Prospect_. And I will ask Chips to help you with your pigeon hatch."
 
@@ -920,7 +922,7 @@ The rest of the day went as planned. The _Prospect_ moved slowly and silently th
 Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. And the two boats droned their way across the curve of the globe. The only thing that changed was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
 
 [//]: # (night 2, run to Stilt City)
-The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Captain Percy raised the _Prospect_ to the surface and they began their night crew rotations with someone always on the radar and someone always in the lookout ring. A thin quickblade of a moon came up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric or leather. 
+The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Captain Percy raised the _Prospect_ to the surface and they began their night crew rotations with someone always on the radar and someone always in the lookout ring. A filet knife of a moon came up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric or leather. 
 
 Shakes ran the _Gnat_ off at some distance for the first half of the night, and then dove and brought it under to mate with the _Prospect_. This dramatically slowed the _Prospect's_ speed, but Percy figured this was worth the trade-off of keeping Shakes alert and relatively sane during the day. He came on board and ate a couple of large bowls of a hot brown soup Gregory had left simmering on the range, accompanied by thick slices of a stale and grainy bread which Shakes would cover in butter and soak in the soup until each bite softened. He slept for a few hours in one of the _Prospect's_ comfortably padded racks. As the sky lightened in the east, Captain Percy woke him and told him it was time to get the _Gnat_ off.
 
@@ -928,7 +930,7 @@ Shakes ran the _Gnat_ off at some distance for the first half of the night, and 
 [//]: # (### Herschel comes aboard the _Prospect_ for the first time.)
 
 [//]: # (Morning: day 3, run to Stilt City)
-Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch leading to the _Gnat_. Shakes disappeared down through the hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakeable intelligence to the eyes.
+Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch leading to the _Gnat_. Shakes disappeared down through the hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakable intelligence to the eyes.
 
 "Hemi meet fuckin' Herschel." Said Shakes holding the cage up for Hemi to take while he climbed up out of the _Gnat_.
 

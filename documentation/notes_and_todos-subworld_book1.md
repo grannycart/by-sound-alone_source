@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Thu Dec 02, 2021  09:35AM
+Last modified: Sun Dec 05, 2021  04:33PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -56,7 +56,7 @@ Last modified: Thu Dec 02, 2021  09:35AM
 * [ ] The name Chips doesn't feel like it's working
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
-* [ ] Search for buoyancy and make sure it is spelled correctly
+* [X] Search for buoyancy and make sure it is spelled correctly
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
 	* Maybe the electric motors are only 'powered down'
 * [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
@@ -218,7 +218,8 @@ Last modified: Thu Dec 02, 2021  09:35AM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
-* [ ] After full draft revisions are complete: scan through with spell check on (maybe on different software like libreoffice writer or something?) and make sure all listed spelling errors are intentional.
+* [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
+* [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
 * [ ] Possible book (though not series) title:
 	* The Salted wound
 		* (referring to the never-healing damage from the ramming at the beginning)
