@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Thu Nov 18, 2021  10:13PM
+Last modified: Sun Dec 05, 2021  04:35PM
 
 
 # notes on sub diagrams
@@ -46,7 +46,7 @@ Last modified: Thu Nov 18, 2021  10:13PM
 	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
 	* [X] add/adjust scale
-	* [ ] add 'sail' label
+	* [X] add 'sail' label
 	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
 	* [X] add pigeon hatch
 	* [ ] add pigeon coop to Gnat?

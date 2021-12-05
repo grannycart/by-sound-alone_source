@@ -1,72 +1,74 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[]{scrbook}
+\documentclass[
+]{scrbook}
 \usepackage{graphicx}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage[]{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\usepackage{hyperref}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-            pdftitle={An Untitled Novel With Some Submarines in it. Also a Pigeon.},
-            pdfauthor={Mark Torrey},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage[paperheight=8.25in,paperwidth=5.5in]{geometry}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
+  pdftitle={An Untitled Novel With Some Submarines in it. Also a Pigeon.},
+  pdfauthor={Mark Torrey},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[paperwidth=5.5in,paperheight=8.25in]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
 \fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
 
 \title{An Untitled Novel With Some Submarines in it.\\ Also a Pigeon.}
-\providecommand{\subtitle}[1]{}
-\subtitle{Pre-release version. This is a draft version of this book. For more
-information visit --- grannycart.net/subworld-pages/}
-\author{Mark Torrey CC BY-NC-SA 2021\\[5mm] \includegraphics[width=1in]{../../cover/pigeon-logo.png}}
-\date{Version date - December 3, 2021}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Pre-release version. This is a draft version of this book. For
+more information visit --- grannycart.net/subworld-pages/}
+\author{Mark Torrey CC BY-NC-SA 2021\\[5mm] \includegraphics[width=1in]{../cover/pigeon-logo.png}}
+\date{Version date - December 5, 2021}
 
 \begin{document}
+\frontmatter
 \maketitle
 
 \small
+\mainmatter
 \hypertarget{preface-to-the-pre-release-draft}{%
 \chapter*{Preface to The Pre-release
 Draft}\label{preface-to-the-pre-release-draft}}
@@ -74,7 +76,7 @@ Draft}\label{preface-to-the-pre-release-draft}}
 This first 500 words isn't the preface. It's the preface to the Preface
 to The Pre-release Draft.
 
-This book is going to need that preface.
+But This book is going to need a preface.
 
 The problem is it does not comfortably fit into one of the categories
 most books are jammed into. It is about submarines, but it is not about
@@ -84,10 +86,10 @@ thriller,'' you'll have to find it elsewhere. (Though you should still
 read this book!)
 
 The main submarines in this book (the ones in the diagrams) are cargo
-submarines. This means the book probably has more in common with 1970s trucker
-movies than 1990s submarine movies --- though with more women in positions of
-leadership than either of those genres. ``Submarine truckers'' is not a
-category that exists on Amazon (yet).
+submarines. This means the book probably has more in common with 1970s
+trucker movies than 1990s submarine movies --- though with more women in
+positions of leadership than either of those genres. ``Submarine
+truckers'' is not a category that exists on Amazon (yet).
 
 It is unquestionably speculative fiction. But it is not science fiction.
 (Science, such as it is in the story, is purely science-fact.) It is not
@@ -103,7 +105,7 @@ technology. This story is entirely driven by the world the characters
 live in. A world of filthy, noisy, all-encompassing, mechanical
 machines, on which their lives and their livelihoods both depend. The
 grit and dirt permeate through. Maybe the genre could be ``grime punk,''
-though that is not a real genre either.
+though that is not yet a real genre either.
 
 With no genre that appropriately short-hands what the book might be
 about, the preface has to do a lot of work. It has to set up
@@ -127,7 +129,7 @@ it!''
 Without any further delay, the draft Preface to The Pre-release
 Draft\ldots{}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Anyone who has ever had the pleasure of riding an old motorcycle has
 likely employed a device called the `petcock.' The petcock was a valve
@@ -203,11 +205,11 @@ gripping because they told stories of average people achieving amazing
 things with the exciting new tools available to them. Often those
 average people made their extraordinary tools and technologies perform
 far beyond their original intended use. To this day there seems to be no
-end to the delight people take in stories from the elctro-mechanical age
-of machines. Indeed, we may even be more engaged with electro-mechanical
-stories than with stories derived from our modern technology. Nearly
-everyone would rather follow the building of a custom motorcycle than
-the latest achievements from a microchip clean-room.
+end to the delight people take in stories from the electro-mechanical
+age of machines. Indeed, we may even be more engaged with
+electro-mechanical stories than with stories derived from our modern
+technology. Nearly everyone would rather follow the building of a custom
+motorcycle than the latest achievements from a microchip clean-room.
 
 The story told here is bracketed by technologies that anyone could
 understand with nothing more than a little armchair-pondering. The world
@@ -232,7 +234,7 @@ trade under the waves of a world that, through historical happenstance
 and the hubris of our own technological and political classes, never
 existed.
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{chapter-1}{%
 \chapter*{Chapter 1}\label{chapter-1}}
@@ -246,13 +248,13 @@ raise more than a barely perceptible heave under its glassy smoothness.
 
 A distant moon --- cast out by the atmosphere and not visible --- dimly
 lit the clouds to the color of the charred edges of a coal. The moon
-reclined, above and beyond, untormented by the pressure of the
-atmosphere but unable to muster enough warmth to intervene. It merely
-stood by helpless, feebly attempting to stir the ocean out from under it
-by the force of tide. It was all it could do to provide even the
-coldest, dimmest light. The light filtered down through layer upon layer
-of gray cloud til it was so diluted and refracted that it left the sky
-only a few shades of black lighter than the water.
+reclined, above and beyond, tormented by the pressure of the atmosphere
+but unable to muster enough warmth to intervene. It merely stood by
+helpless, feebly attempting to stir the ocean out from under it by the
+force of tide. It was all it could do to provide even the coldest,
+dimmest light. The light filtered down through layer upon layer of gray
+cloud til it was so diluted and refracted that it left the sky only a
+few shades of black lighter than the water.
 
 The ocean was unquestionably black. A blackness that came up from the
 deep. Beyond the atmosphere rode heavenly bodies that radiated light and
@@ -264,7 +266,7 @@ down, the darkness yielded not at all to the pressure above.
 
 On this surface, stretched horizon to horizon from the cupped edge of
 the dome in all directions without referent or feature, a point arose. A
-miniscule and meaningless point, like the first push of a needle through
+minuscule and meaningless point, like the first push of a needle through
 the underside of a new piece of fabric the workings of which would soon
 join the fabric irrevocably and forever to another with hundreds of
 gradually tightening, interwoven stitches. The point rose, a long thin
@@ -375,7 +377,7 @@ engines sent up through the steel-grated deck to shake the rubber of her
 boot soles without change in frequency or amplitude. The blackness
 around her was limitless, though the boat pushed relentlessly forward.
 It occurred to Percy that when her boat, the \emph{Prospect} was
-submerged, this is what it must be like outside --- lightless and
+submerged, this is what it must be like outside --- light-less and
 unvarying. It felt like she had loosed the bonds of her corporal body
 and had floated beyond it, so she could experience what her boat was
 like when it was pushing through the icy blackness of an alien world
@@ -518,7 +520,7 @@ Hemi punched the mute button on the radio.
 ``Only on the surface do these territories and treaties matter.'' Said
 Hemi. Captain Percy nodded.
 
-"What the fuck happened up there? Gregory asked, his eyes never leaving
+``What the fuck happened up there? Gregory asked, his eyes never leaving
 the wall of dials and gauges in front of him.
 
 ``We were hit. Sub with a big ugly fucking ram mounted on the front of
@@ -584,7 +586,7 @@ did not come together. There was no way to make sense of the dials. In
 this steel tube with no windows, perhaps for the first time ever, she
 felt blind.
 
-``Hemi\ldots{} what the fuck is going on\ldots{}?'' She was turning red
+``Hemi\ldots{} what the fuck is going on\ldots?'' She was turning red
 with frustration and she could feel her eyes watering. Fortunately in
 the dim red lighting, no one would see that.
 
@@ -721,7 +723,7 @@ that Captain Percy did not want to have to give her.
 and tell me why the fuck the boat has been moving so fucking funny.
 Where the fuck are we leaking?''
 
-``\ldots{}In the cargo hold.''
+``\ldots In the cargo hold.''
 
 ``And it's fucking bad, eh?''
 
@@ -1447,7 +1449,7 @@ split open and we will die here.'' Said Bastian.
 
 Gregory glanced at Bastian with a dark look in his eyes.
 
-``\ldots{}Regardless of the amount of time we need to spend here, being
+``\ldots Regardless of the amount of time we need to spend here, being
 bottomed has the added bonus of rendering us nearly undetectable to
 active sonar. If the sub that rammed us is still searching for us, we
 will blend in with the bottom. They will likely assume we sank.'' Said
@@ -1966,8 +1968,8 @@ with one hand, slowly back and forth, scanning for the sound of anything
 made by humans. One nice thing about being dead in the water was they
 weren't making any noise themselves. She could hear even the small waves
 against the hull of the \emph{Prospect}. It was a rare pleasure to have
-such clean and uncompromised sound on sonar. But for all that silence,
-there wasn't anything to hear.
+such clean and clear sound on sonar. But for all that silence, there was
+nothing to hear.
 
 The passive sonar was safer to use than the radar because it did not
 send out any signal that could be detected. You just listened with what
@@ -2093,7 +2095,7 @@ sitting out there. We could ping them?''
 
 ``Ah, that would fucking scare the shit out of them. They might think we
 were armed and about to fucking fire on them. We're trying to make
-friends here. \ldots{}I'm going to try ship-to-ship radio. We're just
+friends here. \ldots I'm going to try ship-to-ship radio. We're just
 fucking close enough they might hear us, and the radio could be a little
 less threatening.''
 
@@ -2131,7 +2133,7 @@ desolate waters.''
 
 Another moment passed. ``Yea. Well. These waters are empty because the
 Authorities running this territory right now are a bunch of
-tight-sphinctered class A holes who seem more interested in shooting
+tight-sphinctered class-A holes who seem more interested in shooting
 down transports than letting any commerce commence. It's a fucking bad
 place to be not moving and on the surface.''
 
@@ -2177,7 +2179,7 @@ It was a few minutes before they saw a small gray oblong object cutting
 through the choppy little waves. It was a tiny submarine sail, no more
 than a meter long and high, with a couple of thin wispy antennas
 trailing from the top in the wind. Unusual for a submarine, it had a
-small view port in the front of the sail through which the pilot could
+small viewport in the front of the sail through which the pilot could
 look. At the rear of the sail a stream of diesel smoke floated up and
 away behind it. The deck of the small sub was totally awash, running
 just at the surface of the water.
@@ -2322,9 +2324,8 @@ to ask for help, and I hate imposing on other folks' business, just as I
 don't want 'em imposing on mine, but you can see we're more than a
 little fucking desperate here. If you can allow Hemi --- and just Hemi
 --- aboard to take some specs of your boat, see if you're carrying
-anything he can use, we'll make it up to you at the depot.
-\ldots{}Though at the current moment about all we can offer you is hot
-food.''
+anything he can use, we'll make it up to you at the depot. \ldots Though
+at the current moment about all we can offer you is hot food.''
 
 Shakes eyes brightened at that. ``Hrm. Well I ain't been eating nothing
 but cold chow straight from the can for days now. A hot meal is a strong
@@ -2497,8 +2498,8 @@ too?''
 stained far more heavily, and had a couple of thick black lines along
 the page edges indicating the most heavily used sections.
 
-"Alright, I need to and sit down with my numbers and do some figuring. I
-also want to look at the charts with you so you can show me where this
+``Alright, I need to and sit down with my numbers and do some figuring.
+I also want to look at the charts with you so you can show me where this
 depot is. I think it is time to go back across to the \emph{Prospect}.
 
 After making the jump back to the bigger boat, Shakes and Hemi settled
@@ -2517,7 +2518,7 @@ pointing to a small island marked on the chart and labeled only
 
 ``Well, `major' might be a bit fuckin' descriptive.'' Said Shakes. ``But
 look.'' He took the grease pencil and drew a lightweight but long line
-across hundreds of miles of ocean. "The Territorial Authority boundary
+across hundreds of miles of ocean. ``The Territorial Authority boundary
 is roughly about here. With total fuckin' assholes on this side we are
 currently on, and only sort-of fuckin' assholes on the other. So you can
 see how it makes sense to put a depot on that deserted island just
@@ -2649,7 +2650,7 @@ essentially becoming nothing more than a sperm organ for her.''
 ``Hemi, let's try stepping around the fucking long-winded metaphor and
 getting to the fucking point.'' Said Captain Percy.
 
-``Here is what I propose,'' Hemi continued unphased, ``The
+``Here is what I propose,'' Hemi continued unfazed, ``The
 \emph{Prospect} has a hatch with a mating collar on the bottom side of
 the boat. The normal intended use for it is underwater docking to
 another vessel's topside hatch. We could rig something so we could mate
@@ -2713,7 +2714,7 @@ that could work.''
 Percy was holding her fork in her fist, and grinding the tines back and
 forth against the tin plate, leaving deepening scratch lines. Percy and
 Shakes both looked at her. ``Alright, Fuck. Hemi, go see if you can
-rehire Chips on a \emph{temporary} and ad-fucking-hoc basis to do some
+rehire Chips on a \emph{temporary} and ad-fucking hoc basis to do some
 of this welding we need. I don't want to see her though. Tell her to
 stay the fuck out of my way or she'll find herself swimming in the prop
 wash\ldots{} once we're fucking moving again.''
@@ -2775,7 +2776,7 @@ you could rig something like that?''
 
 ``Well fuck. I might have some spare steel that could do that. Depends
 on what the hatch on his boat looks like, so I'll have to fuckin'
-eyeball that. Possible it could be done.'' She thought for a secon.
+eyeball that. Possible it could be done.'' She thought for a second.
 ``But that's a fuckin' tricky bit of sonar listening to make that mating
 work, steerin' the boat up from underneath, like. You think you got the
 fuckin' skills to do that Captain Shakes?''
@@ -2784,7 +2785,7 @@ fuckin' skills to do that Captain Shakes?''
 narrow fuckin' gaps when pushing through Authority fencing. I'm as good
 a small-boat pilot as there ever fuckin' was.''
 
-``His boat, The \emph{Gnat}, has a view port in the sail. He should be
+``His boat, The \emph{Gnat}, has a viewport in the sail. He should be
 able to see where he is to do the mating maneuver mostly without
 sonar.'' Said Hemi.
 
@@ -2936,7 +2937,7 @@ Owen reminded himself --- but nobody would do this job on the
 across the gangway, and that had only been modestly harrowing. Lashing
 it to the sloshing hull of the \emph{Gnat} had been somewhat more so.
 Owen set Shakes up with everything he needed, like a nurse handing a
-surgeon the tools for opening a consumptive ribcage.
+surgeon the tools for opening a consumptive rib cage.
 
 The ocean chop wasn't horrendous, but it was enough that the \emph{Gnat}
 rolled back and forth under them. Owen had locked huge iron clamps in
@@ -2946,17 +2947,17 @@ where Shakes would be welding.
 
 Shakes stood astride his boat lolling in the surface of the sea in the
 same way one might stand on a mountain top. He took a pinch of dried
-leaves from the pouch in his jacker pocket and stuck them between his
+leaves from the pouch in his jacket pocket and stuck them between his
 teeth. He lit a cigarette, and put it to his lips. He leveled the mask
 on his head, and slipped the heavy welding gloves onto his hands. He
 picked up the torch, and standing straight up, opened his arms wide and
 closed his eyes. He took long slow breathes, gapping his lips next to
 his cigarette, and his breaths rattling a little with the spittle coming
 up to enzymatically dismantle the dried leaves. He cleared his mind,
-focussed on his breathing. He felt the swell and rhythm of the ocean,
-the time of it marked out by the clink of the adjustable wrenches
-hanging from his belt. He called the gods of steady hands and perfect
-welds to him.
+focused on his breathing. He felt the swell and rhythm of the ocean, the
+time of it marked out by the clink of the adjustable wrenches hanging
+from his belt. He called the gods of steady hands and perfect welds to
+him.
 
 He opened his eyes, spit the remaining half of cigarette off into the
 ocean, leaned over, and flipped the welding mask down.
@@ -3083,13 +3084,13 @@ back.''
 
 ``There is no reason to think the valves will not close.'' Said Hemi.
 
-``And you, Chips, willl go double-check those fucking devices our lives
+``And you, Chips, will go double-check those fucking devices our lives
 depend on before we try this operation.'' Said Percy, her eyes grinding
 away at Chips.
 
 ``The fuckin' problem,'' Said Chips, furious and exasperated, ``is
-there's no fucking back-up plan --- no failsafe, no redundancy. The boat
-works perfect like, or we all fuckin' die. Submarinin' is just too
+there's no fucking back-up plan --- no fail-safe, no redundancy. The
+boat works perfect like, or we all fuckin' die. Submarinin' is just too
 fuckin' dangerous for no backup-system.''
 
 ``We're not disputing that Chips. But sinking is only one risk we face
@@ -3129,7 +3130,7 @@ of yours. I will have Gregory down there waiting to hear from you. Do
 current condition, the \emph{Prospect} will do better if your welds leak
 than the \emph{Gnat} will. Keep in touch over the ship-to-ship.''
 
-Shakes pounded his acknowledgement on the side of the sail, and his head
+Shakes pounded his acknowledgment on the side of the sail, and his head
 disappeared from the bridge. It was still so quiet aboard the
 \emph{Prospect} with no engines and so few systems running that they
 could hear the \emph{Gnat's} Diesels fire up, and inarticulate shouts
@@ -3291,12 +3292,12 @@ sucked back into the \emph{Prospect's} propellers.''
 
 ``Aye, fuck you all.'' He didn't bother to respond on the radio, his
 hands too busy with the controls of the \emph{Gnat}. ``This little
-fuckin' boat wasn't built for this shit. Handles like a fucking
-beachball underwater.''
+fuckin' boat wasn't built for this shit. Handles like a fucking beach
+ball underwater.''
 
 He was pushing up from behind, moving slightly faster than the
 \emph{Prospect}. He could just see the little black circle of the mating
-collar he was shooting for through his forward view port. He realized he
+collar he was shooting for through his forward viewport. He realized he
 would lose the ability to see it when he was close to it though.
 
 He squeezed the ballast blow handle in a very short burst, and the
@@ -3473,7 +3474,7 @@ assembled and standing crammed in on both sides of the open hatch to the
 
 Shakes squirmed.
 
-Hemi continued. "I am going to set up some heavy jumpers between the
+Hemi continued. ``I am going to set up some heavy jumpers between the
 \emph{Gnat's} battery banks and the battery rooms of the
 \emph{Prospect}, where we are standing right now. That should be pretty
 straightforward, and give us access to the \emph{Gnat's} remaining
@@ -3490,12 +3491,12 @@ fuel tanks to the \emph{Prospect's} diesels.''
 \emph{Prospect's} fuckin' fuel pumps. Won't have to fuck around with the
 trim as much.'' Put in Chips.
 
-``If you think that will work, it sounds OK to me.'' Said Hemi. ``Syl,
-you want to weigh in with anything?''
+``If you think that will work, it sounds OK to me.'' Said Hemi.
+``Sylvia, you want to weigh in with anything?''
 
 ``This fucking project is all you, Hem'.'' Said Captain Percy.
 
-``From this moment,'' Hemi went on, "we need to shut down absolutely
+``From this moment,'' Hemi went on, ``we need to shut down absolutely
 everything we are not using. We really should have done this already. We
 will need every bit of power we can suck out of the \emph{Gnat} to get
 across the Authority line into vaguely friendlier waters. I am even
@@ -3591,8 +3592,8 @@ now.
 
 ``Chips, go up and relieve Owen at radar. Hemi you're with me at the
 controls.'' Shakes had pulled the blackout curtain aside and was peering
-blearly down at them and their coffee from a top rack. ``Shakes, you can
-go back to sleep.''
+blearily down at them and their coffee from a top rack. ``Shakes, you
+can go back to sleep.''
 
 ``\emph{Captain} Shakes. And no fucking way. My boat's on the fucking
 line here too. I can help y'all drive this fucking conglomeration of
@@ -3683,7 +3684,7 @@ range. Percy flipped through a few filters, and the quality of the
 silence changed, from a deadening whoosh to a soft hiss.
 
 And then she heard a pulse. A distant, faint heartbeat in the ocean,
-accompanied by the slushing flow of circulation. She touched Chips arm,
+accompanied by the sloshing flow of circulation. She touched Chips arm,
 pointed to the softly fluttering signal-strength gauge.
 
 ``Aye.'' Confirmed Chips. ``That's the right direction for our fuckin'
@@ -3692,7 +3693,7 @@ range.''
 
 ``Fuck. We're gonna have to do something. Stay on it Chips.''
 
-``Fuckin' ay.''
+``Fuckin' aye.''
 
 Percy scaled the ladder up to the control room, and raised the
 periscope, twisting it around as it rose to aim it at the heading of the
@@ -3804,7 +3805,7 @@ didn't remove her face from the periscope frame. ``Make sure you stay on
 that fucking sonar contact. Track the direction and range. Let me know
 if they get within something like visual range.''
 
-``Aye, I'ma fuckin' trackin' their fucking course already. Fuckin
+``Aye, I'm-a fuckin' trackin' their fucking course already. Fuckin
 surprise! They're fucking coming towards us. Still out ten fuckin' miles
 or so.''
 
@@ -4046,7 +4047,7 @@ hiding in plain sight, in submarine terms. The only tactic the
 \emph{Prospect} had available at the moment was grinding, tense
 patience.
 
-Percy matched her breathing to Hemi's. She focussed on the sound of the
+Percy matched her breathing to Hemi's. She focused on the sound of the
 searching submarine's propellers in her ear piece. She raised up her own
 calm, and pushed down all the fear she had. She slowly grew the dashed
 line on the chart as it lassoed them in, placing each dash with
@@ -4244,7 +4245,7 @@ through the periscope. Since it would be higher up above the surface,
 she would potentially be able to see further. The bearing was obviously
 straight ahead, so she swung the barrel of the periscope around while
 looking through the viewfinder. The cigarillo still hung from her lips,
-with smoke rising up to her nostrils. ``Ay. Fuckin' dawn's cracking up
+with smoke rising up to her nostrils. ``Aye. Fuckin' dawn's cracking up
 there\ldots{} and I see a blot of an island ahead of us.'' She watched
 it for a while. It slowly, slowly came towards her and details came into
 view. It was a rocky, slightly-cliffed shore with some sparse vegetation
@@ -4376,7 +4377,7 @@ hooks by the catwalk for this purpose and banged on the big cargo hatch
 with it, setting off a pleasant low gong sound that reverberated for a
 full 20 seconds. He waited a few second more and then heard the pop of
 the dock crew unsealing the hatch into the docking bay above him, the
-whirr of an electric pump sucking the residual water out of the slip
+whir of an electric pump sucking the residual water out of the slip
 well, and then a few minutes after that came the answering pounding on
 the \emph{Prospect's} cargo hatch letting Hemi know it was OK to pop it.
 He released the hatch locks.
@@ -4439,18 +4440,18 @@ Hemi had been waiting out on the deck of the docking bay. He gave Percy
 and Shakes a hand up the ladder. When they were all assembled, they
 started off towards the far end of the docking bay where they saw a
 wooden sign painted white and with square hand-painted black letters
-said ``Dock Office.'' Acually getting to the dock office was a matter of
-navigating around the big open holes in the deck which led down into the
-cargo holds of other docked subs. There were other obstacles too, like
-the ladders hanging down from the subs docked above, or stacks of crates
-waiting to be loaded into subs docked on either side. The places where
-no submarines were docked were typically used as staging areas for cargo
-that was making its way down the docking bay in steps towards whatever
-sub they were destined to be loaded onto, or otherwise up the dock from
-where they had been unloaded. It made for slow progress, since they had
-to watch every step and stop to wait for workers who were in the process
-of moving cargo. The docking bay was bigger than any space on a
-submarine --- maybe 12 to 15 meters in circumference --- but still
+said ``Dock Office.'' Actually getting to the dock office was a matter
+of navigating around the big open holes in the deck which led down into
+the cargo holds of other docked subs. There were other obstacles too,
+like the ladders hanging down from the subs docked above, or stacks of
+crates waiting to be loaded into subs docked on either side. The places
+where no submarines were docked were typically used as staging areas for
+cargo that was making its way down the docking bay in steps towards
+whatever sub they were destined to be loaded onto, or otherwise up the
+dock from where they had been unloaded. It made for slow progress, since
+they had to watch every step and stop to wait for workers who were in
+the process of moving cargo. The docking bay was bigger than any space
+on a submarine --- maybe 12 to 15 meters in circumference --- but still
 cramped and grimed. They felt right at home.
 
 They picked their way through the docking bay to the dock office. This
@@ -4683,13 +4684,13 @@ hole-in-the-rock they were currently in.
 ``The cost is the reason I'll be lucky to get a single one of these.''
 Said Percy.
 
-``Hrmmm\ldots{}. what if I told you I could set you up with a little
+``Hrmmm\ldots. what if I told you I could set you up with a little
 cash?''
 
 Percy looked at the tiny stick-figure-in-a-sack skeptically. ``Like a
 loan?'' She asked. Loan sharks certainly came in all shapes and sizes.
 
-``No no. I don't go in for usary. That's for the real criminals. I'm
+``No no. I don't go in for usury. That's for the real criminals. I'm
 offering a job. But one that would pay exceptionally well.''
 
 ``Well, that's certainly a unlikely fucking coincidence that you happen
@@ -4736,7 +4737,7 @@ in Percy's strong hand. ``That's an interesting fucking name.''
 
 ``I had a very devout upbringing. Your name is Percy, right?''
 
-"Captain Sylvia Percy, ya. So you know all the fuck about me already?
+``Captain Sylvia Percy, ya. So you know all the fuck about me already?
 
 ``My dear Captain Percy, would you mind toning down your colorful
 language a bit during our interactions?''
@@ -4750,7 +4751,7 @@ transparency, all I really know is your name and that you have a boat.''
 
 ``What's with all the transparency?'' Percy asked.
 
-"Ah yes. Typically I play my cards somewhat closer. But this job is of
+``Ah yes. Typically I play my cards somewhat closer. But this job is of
 some urgency, so I am hoping to build some trust with you quickly. I can
 only hope you respond reciprocally.
 
@@ -4805,7 +4806,7 @@ Trinity lowered herself groaning into the chair opposite Percy.
 restricted and mostly illegal. These are magnetically-activated
 industrial explosives.''
 
-``\ldots{}For which the primary use would be mines, and thus still
+``\ldots For which the primary use would be mines, and thus still
 illegal to ship.''
 
 ``The units are absolutely agnostic in their uses. They don't have to be
@@ -4931,7 +4932,7 @@ leather satchel Trinity had given her and laid it down on the wood of
 the bar.
 
 As the bartender set up a glass and was leaning to pour it Percy
-continued the conversation despite the fact that the bartended did not
+continued the conversation despite the fact that the bartender did not
 particularly look like he would want to. ``Actually, I'm looking to hire
 some crew. I have a boat, and we're short a few fucking people. Thought
 you might be able to steer me in the right direction to where the
@@ -4958,7 +4959,7 @@ more profitable I might add, is pimpin'.''
 
 He pretended not to hear her. ``Thing about pimpin' in a place like this
 is sometimes you gotta take risks on the folks ya bring over from the
-mainland to work. Beggers can't be choosers, ya might say. So once in a
+mainland to work. Beggars can't be choosers, ya might say. So once in a
 while I end up with whores I can't pimp out. Or at least not at a price
 that makes them worth the food they eat.''
 
@@ -4970,7 +4971,7 @@ mean?''
 
 Percy nodded.
 
-"The tastes of most of the folks who come through here are into
+``The tastes of most of the folks who come through here are into
 something a bit\ldots{} harder. And also whiter. You know what the
 inability to market an off-color whore tells me about this place?
 
@@ -5057,7 +5058,7 @@ we're compensated for the danger: it pays very well, enough for us to
 live by our own terms. Enough to buy you out of your current job.
 There's also the fact that there's a limited number of people willing to
 go out there and carry out their lives while being encased in a steel
-tube and all-around surrounded by dangers and fears that would liquify
+tube and all-around surrounded by dangers and fears that would liquefy
 the guts of most folk. Submariners are an elite class, in their own
 filthy way.''
 
@@ -5165,9 +5166,9 @@ gaping mouth.
 While he was chewing, Percy brought him up to speed. ``So I've fallen
 ass-backwards into a job Shakes.''
 
-He grunted acknowledgement and nodded, too busy eating to look up.
+He grunted acknowledgment and nodded, too busy eating to look up.
 
-``It pays well\ldots{}. really fucking well.''
+``It pays well\ldots. really fucking well.''
 
 That got Shakes to look up at her, but not to stop eating.
 
@@ -5211,13 +5212,13 @@ so on and fuckin' whatnot.''
 She paused for a second, considering how to best present this idea she
 had to Shakes.
 
-"But I thought: what if in addition to keeping the \emph{Prospect}
+``But I thought: what if in addition to keeping the \emph{Prospect}
 stealthy, we also had a partner with another craft of some type. And the
 partner's job was to be \_un\_stealthy. To run as a decoy around and
 above the \emph{Prospect}. Draw the curious eye, or ear, away, so to
 speak. And they would be fuckin' clean of course. Any Authority
 inspection would turn up an empty hold or a dull cargo of stamped cigars
-or something."
+or something.''
 
 ``Interesting. You want to buy some kind of surface transport or speed
 boat then?''
@@ -5399,8 +5400,8 @@ it worse in places. Kinda fucking up some of your work.''
 Chips cracked her knuckles and breathed heavily through her nostrils.
 ``Fucking useless fuckin' shit clods.'' She said under her breath, then:
 ``Hey you fuckers, don't just fucking re-weld the failing fucking
-patches. Take them out and put \emph{new} fucking plate steel in,
-motherfuck!''
+patches. Take them out and put \emph{new} fucking plate steel in.
+Motherfuck!''
 
 There was an incoherent grumbling from the men standing in the puddle.
 
@@ -5461,7 +5462,7 @@ charging the \emph{Prospect's} batteries,'' he nodded toward the heavy
 cables hanging from the \emph{Prospect's} cargo hatch and running up the
 middle of the cargo hold, ``we've been feeding the \emph{Gnat} juice
 too. Hemi here figures there's enough charge on now that I could move
-the \emph{Gnat} to its own slip, and refuel there. \ldots{}Sending the
+the \emph{Gnat} to its own slip, and refuel there. \ldots Sending the
 fuckin' bill to y'all of course.''
 
 Hemi nodded.
@@ -5577,7 +5578,7 @@ someone walks by a crate with a heavy socket wrench or something.''
 There was a tap of someone's bony knuckles on the hatch to the galley,
 and Gregory swung it open a bit. He downed the last of an ice cream
 sandwich he had been working on and tossed the wrapper in the sink.
-"Back from dinner Cap. Bunch more of those fuckin' big trolls up at the
+``Back from dinner Cap. Bunch more of those fuckin' big trolls up at the
 slip with crates they say are to be loaded into the \emph{Prospect}.
 
 ``Thanks Gregory.'' Said Percy. ``That is indeed our cargo. You can come
@@ -5659,14 +5660,14 @@ loops welded to the pressure-hull walls.
 
 Gregory was making sure the crates were being stacked, stowed, and
 lashed down in such a way that the boat was not going to dive bow-first
-into the globergerina ooze as soon as they separated it from the docking
-bay. But he was doing the job maybe a little too quickly, and Percy and
-Hemi knew even if Gregory stowed the crates carefully the crew would
-likely have to make some adjustments to the balance of the load later to
-get the boat trimmed as efficiently as possible. The key priority for
-Gregory was simply to make sure the crates were organized so that making
-those adjustment later while they were underway would not be too
-difficult.
+into the globigerinous ooze as soon as they separated it from the
+docking bay. But he was doing the job maybe a little too quickly, and
+Percy and Hemi knew even if Gregory stowed the crates carefully the crew
+would likely have to make some adjustments to the balance of the load
+later to get the boat trimmed as efficiently as possible. The key
+priority for Gregory was simply to make sure the crates were organized
+so that making those adjustment later while they were underway would not
+be too difficult.
 
 In the middle of the loading Cassandra approached, a large canvas
 rucksack slung on the thin frame of her body. She also held large
@@ -6034,8 +6035,8 @@ control seat.
 ``No problem with the dock crew getting the hatch sealed?'' Hemi asked
 Gregory.
 
-"Well, after that explosion sound, the whole dock went a little crazy. I
-think a lot of submariners took that as a sign to leave. But for a
+``Well, after that explosion sound, the whole dock went a little crazy.
+I think a lot of submariners took that as a sign to leave. But for a
 couple of coins I got that messenger kid to seal up the dock side hatch
 and flood it for us.
 
@@ -6165,7 +6166,7 @@ reminder that they needed their sharpest skills and tactics.
 ``Keep us close to that fucking seamount.'' Said Percy. ``It will give
 us extra cover if they decide to use their active sonar.''
 
-``No reason not to make a tricky operation even tricker.'' Said Hemi.
+``No reason not to make a tricky operation even trickier.'' Said Hemi.
 ``Bastian, are we clear of the traffic abandoning the depot?''
 
 ``Ya,'' said Bastian, ``they all scattered pretty fuckin' quickly.''
@@ -6279,7 +6280,7 @@ area. At least three, up to five Authorities all claiming parts of it.''
 there. We'll be disciplined about running on the surface only at night,
 and max out our underwater time during the day.''
 
-``\ldots{}In addition to the regular trouble we might encounter with
+``\ldots In addition to the regular trouble we might encounter with
 Authorities, there is also that sub with the ram.''
 
 ``You think they are specifically after us?''
@@ -6459,7 +6460,7 @@ than that.''
 
 ``There's\ldots{} a low rumble, a bit of a swishing sound\ldots{}''
 
-"Good. We are running on the electric motors, underwater, at a modest
+``Good. We are running on the electric motors, underwater, at a modest
 speed. That is what it sounds like when the boat is moving while
 submerged. Later, when we are near the surface with the diesel engines
 running, it will be a lot louder and you will not be able to hear much
@@ -6629,7 +6630,7 @@ into the air. Nobody expected that when they came up with the idea of
 the snorkel, but the boats out in the ocean were suddenly detectable 40
 miles off or so on sonar.''
 
-``So once again the new-fangled technology doesn't solve a fucking
+``So once again the newfangled technology doesn't solve a fucking
 problem, it just creates more options for a captain to have to make
 fucking decisions about.'' Percy spat.
 
@@ -6668,7 +6669,7 @@ needles of the rows of gauges all stood steadfastly at their marks.
 
 Percy knew that this was the hardest part of the job --- remaining
 always ready to take action when there was absolutely nothing to do. The
-crew had to stay focussed on the job during hours and hours of virtually
+crew had to stay focused on the job during hours and hours of virtually
 no sensory input at all. It was far too easy to fall asleep at the
 controls, or let one's mind wander off to a place where everything was
 not just a grime-coated gray accompanied by a background of lush and
@@ -6696,7 +6697,7 @@ when she saw it was him and pulling back a headphone.
 ``Aren't you supposed to be in your rack?'' Hemi asked.
 
 ``I volunteered to take two rotations in a row --- to keep the rotations
-even for everyone else\ldots{}and since I'm new.''
+even for everyone else\ldots and since I'm new.''
 
 ``Are you hearing anything?'' Hemi asked.
 
@@ -6999,7 +7000,7 @@ still sat still fiddling with the controls to her boat. ``I hear
 something.''
 
 Percy slid down the ladder and picked up the second sonar headset and
-put it on. Cassandara, rotated the mics back and forth across the
+put it on. Cassandra, rotated the mics back and forth across the
 direction of the contact, and settled them in on the strongest signal.
 
 ``Is that Captain Shakes?'' Cassandra asked doubtfully.
@@ -7009,14 +7010,14 @@ supertanker or an aircraft carrier or something. Go get Hemi. I think he
 should hear this.''
 
 Cassandra went off to the Galley leaving Percy listening to the contact.
-She came back with Hemi holding a tin up with the dregs of cold coffe in
-the bottom. He slipped the headphones on and stood there hold his coffee
-cup, staring at the gauges on the sonar and watching them bobble up and
-down. He flipped some filters on, and listened again.
+She came back with Hemi holding a tin up with the dregs of cold coffee
+in the bottom. He slipped the headphones on and stood there hold his
+coffee cup, staring at the gauges on the sonar and watching them bobble
+up and down. He flipped some filters on, and listened again.
 
 ``Well.'' Hemi said. ``That is strange. It does sound like a tanker or
 something big just from sheer volume. But it is moving very fast, too
-fast for a big ship\ldots{}.'' He paused listening again. ``It is closer
+fast for a big ship\ldots.'' He paused listening again. ``It is closer
 now, and I can hear the prop revolutions\ldots{} the frequencies are all
 wrong. The prop is spinning too fast, and sounds small, not like a big
 ship screw.''
@@ -7131,8 +7132,8 @@ long before they are in ship-to-ship range.'' Said Hemi. ``I advise we
 ping them again. If the contact does anything that seems suspicious, we
 will move off from this spot --- quietly.''
 
-``\ldots{}Alright.'' Said Percy. ``Fucking ping them again. What the
-fuck do I care, it's just my boat and all our fuckin' lives.''
+``\ldots Alright.'' Said Percy. ``Fucking ping them again. What the fuck
+do I care, it's just my boat and all our fuckin' lives.''
 
 Hemi caught Cassandra's eye and pointed to the PING button. She reached
 out and pressed it again. Another resonant ping left the \emph{Prospect}
@@ -7141,7 +7142,7 @@ active sonar unit.
 
 ``See Cassandra, it was like they were invisible while they were being
 silent, but bouncing the ping off them let us know they are still there.
-\ldots{}And they know we are still here.''
+\ldots And they know we are still here.''
 
 Cassandra nodded with one hand on an earpiece. She listened quietly for
 a minute. Then: ``I think I hear something.''
@@ -7225,7 +7226,7 @@ him, just like last time.
 boat back together to get ya on board this fuckin' time.''
 
 ``Good to see you again too Chips. I'll have you know my boat has been
-adjusted and tuned to an absolute fucking precisionmeister's peak of
+adjusted and tuned to an absolute fucking precision-meister's peak of
 fuckin' performance. The \emph{Gnat} is now faster, more maneuverable,
 and louder than any other boat of its size and displacement.''
 
@@ -7266,7 +7267,7 @@ fucking dock when that fuckin' Authority sub arrived.''
 
 ``Well, I couldn't very well see whether it had a ram from inside the
 docking bay, could I? But if you made me guess, I'd say sure: it was
-that same fuckin' sub that kept showing up in your 'scope. \ldots{}Word
+that same fuckin' sub that kept showing up in your 'scope. \ldots Word
 from some of the dock workers was they specifically asked about y'all.''
 
 ``They asked about the \emph{Prospect} by fucking name?'' Percy was
@@ -7316,7 +7317,7 @@ got weapons parts on board, I'm sure they'll consider that justification
 for shooting to sink us rather than trying to get us to surface for a
 fucking inspection.''
 
-``Oh,'' said Shakes, "I didn't tell you the best fuckin' part
+``Oh,'' said Shakes, ``I didn't tell you the best fuckin' part
 yet\ldots{} So after they finish questioning me, I discreetly --- and as
 quickly as I could --- started prepping the \emph{Gnat} to leave. And as
 I'm on the dock getting some cans of food to load into the hold, I see
@@ -7337,8 +7338,8 @@ myself for a minute.''
 
 ``Fuckin' wow.'' Said Percy half-grinning as she exhaled smoke.
 
-"Fuck Yeah. But it doesn't take long for the fuckin' goons to figure out
-that the docking bay \emph{isn't} flooding --- someone had just
+``Fuck Yeah. But it doesn't take long for the fuckin' goons to figure
+out that the docking bay \emph{isn't} flooding --- someone had just
 triggered the big watertight bulkhead to close just to fuck with all
 these Authority toughs. The meat shields weren't much less panicked at
 that though because half their fuckin' muscle and their fuckin'
@@ -7429,10 +7430,10 @@ pigeon are also more secure than radio.''
 Herschel has returned to you?'' Asked Hemi. ``It is not like you will be
 able to hear him tapping on the hatch with his beak\ldots{}''
 
-"An astute fuckin' question my large friend. I don't want to leave the
+``An astute fuckin' question my large friend. I don't want to leave the
 hatch open all the time. So I'm going to add a small hatch in the sail
 --- a hole just big enough for a pigeon. When Herschel has a message for
-me, he can just come in through his hatch. I only need Herscel when I'm
+me, he can just come in through his hatch. I only need Herschel when I'm
 running on the surface with the loud diesels, underwater we can just use
 ship-to-ship and I can keep Herschel's hatch closed.
 
@@ -7447,8 +7448,8 @@ had with communicating with Shakes. You asked me to talk with him about
 that, and here is an answer\ldots{} maybe not a great answer, but I
 think Herschel could work. If we could figure out how we could launch
 him from the \emph{Prospect} while we are submerged, he would be a
-perfect communication medium\ldots{}.'' Hemi trailed off, envisioning
-some kind of pigeon buoy they could release at depth.
+perfect communication medium\ldots.'' Hemi trailed off, envisioning some
+kind of pigeon buoy they could release at depth.
 
 Captain Percy rolled her eyes. ``Whatever. Don't ever say I'm a captain
 who isn't willing to give new technology a fucking try. We'll take the
@@ -7553,7 +7554,7 @@ scratch down notes in a fast, unreadable scribble.
 ``That's unfortunate, but fucking unavoidable since we're heading for
 the mainland port of Stilt City.'' Said Percy.
 
-``\ldots{}The locals do not call it that.'' Put in Hemi.
+``\ldots The locals do not call it that.'' Put in Hemi.
 
 Percy waved him off. ``We estimate it will take three or four days and
 nights to fuckin' get there. That's running slow and deep during the
@@ -7652,8 +7653,8 @@ before it was snuffed out by the force of night pressing down on it.
 The dark spread slowly from behind, catching up to and overtaking the
 \emph{Gnat}. When it did, Captain Percy raised the \emph{Prospect} to
 the surface and they began their night crew rotations with someone
-always on the radar and someone always in the lookout ring. A thin
-quickblade of a moon came up behind a thick, oppressive haze, its sharp
+always on the radar and someone always in the lookout ring. A filet
+knife of a moon came up behind a thick, oppressive haze, its sharp
 points dulled as if they had been poked one too many times through a
 heavy fabric or leather.
 
@@ -7673,7 +7674,7 @@ Shakes stumbled to the galley to pick up his morning coffee. There he
 found Hemi who accompanied him down to the open hatch leading to the
 \emph{Gnat}. Shakes disappeared down through the hatch and returned
 holding a small wire cage with a splotchy gray bird. Herschel was sleek
-and trim, with an unmistakeable intelligence to the eyes.
+and trim, with an unmistakable intelligence to the eyes.
 
 ``Hemi meet fuckin' Herschel.'' Said Shakes holding the cage up for Hemi
 to take while he climbed up out of the \emph{Gnat}.
@@ -7817,10 +7818,10 @@ ship-to-ship. ``Definitely a fuckin' contact Shakes. Now it's your turn.
 Fire up the \emph{Gnat} and see if you can lead them off and away from
 us. Let's see if this fucked up scheme of ours works!''
 
-``Abso-fucking-lutely! Motherfuck\ldots{}'' The end of his oath was cut
-off by the whining start of the \emph{Gnat's} diesel engine which came
-blaring over the ship-to-ship radio for a moment before Shakes took his
-thumb off the transmit button.
+``Absolutely! Motherfuck\ldots{}'' The end of his oath was cut off by
+the whining start of the \emph{Gnat's} diesel engine which came blaring
+over the ship-to-ship radio for a moment before Shakes took his thumb
+off the transmit button.
 
 Percy flipped on the red night lighting. ``Bastian --- don't move the
 fuckin' boat. Don't trim anything or let her make any fuckin' sounds at
@@ -7876,7 +7877,7 @@ them disengaged it is easier to focus on the pursuing sub.''
 She nodded.
 
 After a few minutes of listening Hemi reported to Percy: ``it\ldots{}
-seems like it is working Syl. The sub with the ram is definitely
+seems like it is working Sylvia. The sub with the ram is definitely
 following Shakes. And\ldots{}'' He paused for a moment to listen,
 ``Shakes seems to be able to stay well ahead of them.'' He pointed to
 the mic directional indicator. ``They are already 10 degrees off our
@@ -8010,8 +8011,8 @@ the \emph{Prospect} Hemi?''
 
 ``On the surface though,'' said Percy, ``it's another fucking matter.''
 
-``\ldots{}I hope Captain Shakes is alright.'' Cassandra muttered a
-little blessing for his well-being.
+``\ldots I hope Captain Shakes is alright.'' Cassandra muttered a little
+blessing for his well-being.
 
 ``How bad does that storm sound Hemi?'' Percy asked.
 
@@ -8133,9 +8134,9 @@ was far more dramatic had begun. She punched the collision alarm and the
 klaxon sounded to the lowest depths of the boat.
 
 The \emph{Prospect} started to list to the starboard side. It was the
-motion of some skyscraping giant lifting them closer to his near-sighted
-eyes for inspection without regard for the orientation of the strange
-object in his hand. The giant was, in fact, a huge wave.
+motion of some sky-scraping giant lifting them closer to his
+near-sighted eyes for inspection without regard for the orientation of
+the strange object in his hand. The giant was, in fact, a huge wave.
 
 The \emph{Prospect} rolled hard over to starboard, and it did not stop
 rolling.
@@ -8269,7 +8270,7 @@ taking a beating from the weather.
 Hemi returned wearing a full-length rubber foul-weather slicker and
 carrying a coil of heavy rope over his arm.
 
-``We will not be able to see much up there Syl. We need to rig some
+``We will not be able to see much up there Sylvia. We need to rig some
 floodlights.''
 
 ``I know, but we can't do that without fucking power. Just do your best
@@ -8411,7 +8412,7 @@ After an hour of firing into the storm the giant on the bridge was
 starting to feel the wear of it though. Hemi was not a loud man and his
 voice was already cracking from shouting directives down to the control
 room. It also took an enormous amount of energy to keep his
-concentration focussed on the nearly-featureless black seascape. Wild as
+concentration focused on the nearly-featureless black seascape. Wild as
 it was, it became debilitating repetitive in a short time. It also took
 physical stamina just to stay standing on the bridge against the wind
 and roll of the boat. The most distressing thing to Hemi though was that
@@ -8529,7 +8530,7 @@ and Chips having a loud and heated argument behind her. That was
 unfortunate because just at that moment she believed she could hear a
 new sound out in the darkness. It was something faint and far off. It
 was something incongruous and inappropriate, like a soloist from some
-fast-tempoed secular entertainment music had been dropped on top of her
+fast-tempo secular entertainment music had been dropped on top of her
 spiritual drone.
 
 She opened her eyes and looked at her instruments. She swung the mics
@@ -8681,7 +8682,7 @@ be boarded.''
 
 This was followed by a long string of regional control organizations,
 treaty clauses, and naval ranks by which the following sub conveyed its
-unshakeable and inviolable authority to issue such a command.
+unshakable and inviolable authority to issue such a command.
 
 ``Close the hatch Hemi.'' Percy said.
 
@@ -8772,7 +8773,7 @@ lips for a long draw, not expecting a reply.
 
 ``Fuck.'' Said Percy once more as she sized up the situation. ``It must
 have just been total bad fucking luck for us. There's no way they could
-have fucking tracked us down in that storm. \ldots{}Don't ya think
+have fucking tracked us down in that storm. \ldots Don't ya think
 Hemi?''
 
 ``It is incredibly unlikely. They may have just been riding out the
@@ -8780,7 +8781,7 @@ storm themselves, and suddenly found they were on us.''
 
 ``And that bad luck cost me a crew member.'' Added Percy.
 
-Hemi looked away and found himself analysing the gauges. They had
+Hemi looked away and found himself analyzing the gauges. They had
 already achieved 30 meters of depth.
 
 ``Cassandra!'' Percy yelled down to sonar through the hatch in the deck
@@ -9104,14 +9105,14 @@ She willed the pursuers to get lost in the storm that still raged above.
 
 The ping prompted Owen to speak up. ``Captain Percy, don't you think we
 should try talking them into \emph{not} shooting at us? Someone over
-there must be a reasonable person and realise we are an unarmed cargo
+there must be a reasonable person and realize we are an unarmed cargo
 sub.''
 
 ``The best-case scenario if we can convince them not to shoot is we have
 to let them aboard for an inspection.'' Said Percy. ``We aren't going to
 pass any inspections with our current cargo. And something tells me
 those guys aren't going be open to a bribe either\ldots{}'' She trailed
-off. "Besides, they are out of ship-to-ship range now --- probably
+off. ``Besides, they are out of ship-to-ship range now --- probably
 trying to keep enough distance to fire a torpedo at us if we come back
 up above 200 meters.
 
@@ -9198,7 +9199,7 @@ into a third\ldots{}''
 Perhaps it is the strategic move for them: if we deliver, it undermines
 their position with another Authority somehow.''
 
-``Even for actual weapons --- nevermind weapons parts --- it's just too
+``Even for actual weapons --- never mind weapons parts --- it's just too
 fucking risky for one single Authority craft to cross deep into another
 Authority's area. And a boatload of magnetic warheads? That could be a
 real prize for some rebel group maybe, but for an Authority it's pretty
@@ -9228,7 +9229,7 @@ fucking tell us earlier?''
 ``I didn't know it was the same fucking guy!'' Insisted Owen. ``There's
 lots of submarine commanders in the world! What are the fucking chances?
 But the guy I'm talking about: I heard he lost a chunk of his arm in the
-fuckin' bight of a docking line years ago. \ldots{}And it didn't seem
+fuckin' bight of a docking line years ago. \ldots And it didn't seem
 like he cared that much about his wife at the time.''
 
 ``How the fuck is that?'' Percy interrogated.
@@ -9624,7 +9625,7 @@ than the last ping.
 us and them?'' Owen asked.
 
 ``With any luck their active sonar is nothing more than a damned
-fishfinder now.'' Percy replied. ``And we'll just keep ourselves very
+fish-finder now.'' Percy replied. ``And we'll just keep ourselves very
 fucking quiet for a few minutes here.''
 
 ``Maybe I should go back to my bunk then?'' Cassandra asked, looking up
@@ -9815,7 +9816,7 @@ tension of the surface and water washed off and over the curved sides.
 Hemi opened the hatch of the control room and climbed up to the bridge
 followed closely behind by Captain Percy. The air on the bridge was warm
 and wet. It sat on the surface of the water without moving, and left
-droplets forming rapidly on the pilled wooly fabric of Hemi and Percy's
+droplets forming rapidly on the pilled woolly fabric of Hemi and Percy's
 clothes. The fog was the color of purgatory, lit from somewhere far off
 above them to a flat dim nothingness. At some moments it was so thick
 they could not see beyond the top of the sail, and at others it pushed
@@ -10085,11 +10086,11 @@ The rapid growth of Stilt City had brought wealth in, but the wealth did
 not flow down to all residents. The channel was thus filled with all
 manner of sea craft, from enormous steel cargo ships under the flags of
 various Authorities to tiny canoes from which the marrow of the boat had
-been scraped by the application of fire and axe blade. The most common
-craft, of which there must have been thousands, was an angular homebuilt
-wooden boat, driven either by singular canvas sails taught on rough wood
-masts and booms, or by long thin oars that were used to row the boats in
-deep waters and pole the boats through shallower waters.
+been scraped by the application of fire and ax blade. The most common
+craft, of which there must have been thousands, was an angular
+home-built wooden boat, driven either by singular canvas sails taught on
+rough wood masts and booms, or by long thin oars that were used to row
+the boats in deep waters and pole the boats through shallower waters.
 
 Virtually all the trade of Stilt City was done on the open water or on
 the docks. In many places boats of all sizes were rafted up and people
@@ -10230,7 +10231,7 @@ The man looked it over. ``Sure. That's no great fucking way from here.''
 ``Have you ever piloted a submarine before Sturmey?'' Percy asked.
 ``It's not totally like fuckin' surface ships.''
 
-``Abso-fuckin'-lutely. I piloted lots of sub marines in and out.'' He
+``Fuckin' absolutely. I piloted lots of sub marines in and out.'' He
 pronounced `sub marine' like it was two separate words. ``I even had my
 pilot's license --- back when they used to be more strict about issuing
 them.''
@@ -10290,7 +10291,7 @@ the bridge: the depth-under-keel has a warning light and is showing very
 shallow --- 2 meters.''
 
 ``Umm, Sturmey\ldots{} are you sure there's enough fuckin' water here?''
-Percy asked him."
+Percy asked him.''
 
 ``Plenty of water. I have taken many ships through here.''
 
@@ -10513,7 +10514,7 @@ back towards the dock.
 platform, or say, blow it up, \emph{you} are fucking responsible,
 understood?''
 
-Hemi waved an acknowledgement but did not bother turning to look back at
+Hemi waved an acknowledgment but did not bother turning to look back at
 the man.
 
 Out of earshot, Owen asked quietly, ``Are we going to start unloading
@@ -10596,7 +10597,7 @@ heavy diesels of a large ship moving up the channel. When a horn sounded
 they turned to find there was no ship coming from the direction of the
 engine sound. Hemi lifted his binoculars and scanned his way up the
 channel until he saw the familiar low outline of the \emph{Gnat's} sail
-with a spikey-haired head sticking out of it, and a stream of diesel
+with a spiky-haired head sticking out of it, and a stream of diesel
 exhaust flowing out from behind.
 
 ``Sylvia,'' said Hemi, ``it is the \emph{Gnat}.''
@@ -10881,7 +10882,7 @@ on ship-to-ship.''
 But she did not have to wait for Hemi's report. The \emph{Gnat} floated
 to the surface out in the channel, its bow heavily dented, but clearly
 still afloat. A moment later from the top of the sail came Shakes'
-familiar spikey-haired form waving to the \emph{Prospect}.
+familiar spiky-haired form waving to the \emph{Prospect}.
 
 ``OK Sturmey.'' Percy said. ``It's all on you now my new fuckin' friend.
 Can you get us back to the main channel?''
@@ -10961,7 +10962,7 @@ that, and also no turnaround.''
 ``OK, when you're sure you're close, have Bastian slow us down as much
 as you think you need to.'' Percy looked behind. There was no pursuing
 sub there, but she could only see about a quarter mile down the channel
-before the sighting was lost in the windings of the channel and the
+before the sighting was lost in the winding ways of the channel and the
 clusters of warehouses and cargo platforms. A quarter mile was nothing.
 The sub with the ram might be right behind them but she had no way of
 knowing.
@@ -10992,7 +10993,7 @@ later he reappeared and put the engine in gear. The \emph{Gnat} cruised
 quickly and noisily off up the channel.
 
 The \emph{Prospect} moved into the narrow channel between the huts,
-backtracing the route it had come in by. Sturmey had them moving faster
+backtracking the route it had come in by. Sturmey had them moving faster
 this time though, kicking up enough wake to slosh up against the bottoms
 of the huts, but just short of driving water into the huts. That did not
 prevent residents from coming out and cursing their passing though.
@@ -11026,7 +11027,7 @@ fucking way.'' Said Percy. ``Is there any way we can move faster through
 here?''
 
 Sturmey looked behind him and saw the rampaging destruction headed
-towards them."
+towards them.''
 
 ``Sorry Captain Percy, I am not destroying my neighbors homes for the
 sake of your boat.''
@@ -11069,7 +11070,7 @@ view around the \emph{Prospect's} exhaust stream. The sub with the ram
 was still charging recklessly up the narrow passage, plowing through and
 splintering the little huts on both sides of the waterway. And it drove
 into the shallow bar with no relent in its speed. The sharp front edge
-of the ram plowed deep enough into the sludgey ground that the muck
+of the ram plowed deep enough into the sludgy ground that the muck
 erupted up from the bottom in a black moraine that rose until it cleared
 the surface. A small tsunami of brown water turbid with black muck rose
 and traveled up the small channel in front of it.
@@ -11425,7 +11426,7 @@ are hoping a random charge will force them to the fuckin' surface.''
 
 ``That does not seem entirely likely to be successful.'' Said Hemi.
 
-``\ldots{}But if it fucking forces them to hole up for any significant
+``\ldots But if it fucking forces them to hole up for any significant
 length of time then we have a shot at never being found by those
 fucknuts again. The Stilt City Authority boats incapacitating the sub
 with the ram would surely be a blessing from fucking hell, but just
@@ -11667,8 +11668,8 @@ I can't hear them anywhere.''
 
 A few tense minutes with no one speaking. Then Cassandra called up.
 ``Oh! I've got them --- sounds like they submerged. They are running on
-electric motors\ldots{}. pretty loudly compared to other boats I've
-heard underwater. I guess that means fast, right Hemi?''
+electric motors\ldots. pretty loudly compared to other boats I've heard
+underwater. I guess that means fast, right Hemi?''
 
 ``That is correct Cassandra.'' Hemi turned to look at Percy. ``They are
 following submerged, trying to match our speed.''
@@ -11731,7 +11732,7 @@ time and wiped the moisture of his palms on his pants. Hemi patted his
 shoulder with a heavy hand.
 
 Suddenly the ship-to-ship radio lit up. ``To unidentified submarine
-running north-north-east at 27.5 degrees. You are herby notified that
+running north-north-east at 27.5 degrees. You are hereby notified that
 you are required to stop your boat and surface for inspection.'' This
 announcement was followed by the string of generalized Authority rights
 and treaties they were familiar with from previous encounters with the
@@ -11822,7 +11823,7 @@ fast. They are within 1000 meters.'' Said Cassandra nervously.
 
 ``No torpedo in the water.'' Said Cassandra.
 
-``I guess they learned to not waste their torpedos.'' Percy said to
+``I guess they learned to not waste their torpedoes.'' Percy said to
 Hemi.
 
 ``Sylvia, you should consider the possibility that this sub commander
@@ -12375,7 +12376,7 @@ Percy.
 
 ``That's fuckin' it?''
 
-`That's fuckin' it." Percy pointed over to the pile of bicycles that
+`That's fuckin' it.'' Percy pointed over to the pile of bicycles that
 Hemi was untangling and tossing one-by-one towards them. ``Select your
 steed. Choose carefully, most have a surprise or two.''
 
@@ -12505,7 +12506,7 @@ operate within certain constraining physical parameters.''
 
 ``You could say that about any fucking machine.'' Bastian pointed out.
 
-``Bear the fuck with me! \ldots{}Both submarines and bicycles have to
+``Bear the fuck with me! \ldots Both submarines and bicycles have to
 move through three dimensional mediums: up, down, left, right, pitch,
 roll, yaw\ldots{}''
 
@@ -12579,7 +12580,7 @@ achieved. There were no serious injuries other than a sprained ankle on
 Owen's part that would set him limping for the next week.
 
 Eventually, when the whole crew was looking like it had run out their
-physical capacities, Percy had Hemi level the \emph{Pospect} and then
+physical capacities, Percy had Hemi level the \emph{Prospect} and then
 released them all to their bunks or coffee depending on individual
 preference for the rest of the day.
 
@@ -12685,7 +12686,7 @@ ship-to-ship range of the \emph{Gnat}.
 radar contacts. Percy watched the blackness where the \emph{Gnat} was
 located ahead of them through the periscope. Soon a beam of light shot
 out from the water, and in the reflection of it she could see Shakes'
-spikey head at the top of the sail of the \emph{Gnat}. Shakes ran the
+spiky head at the top of the sail of the \emph{Gnat}. Shakes ran the
 light beam forward and back along a black wall that road up and down on
 the ocean swell ahead of him.
 
@@ -12902,7 +12903,7 @@ Percy was squatting on her haunches, her face a meter above Hemi's.
 
 ``The sub with the ram\ldots{} it is back again.''
 
-"Sweet motherfucking fuck! How fucking far away are they?
+``Sweet motherfucking fuck! How fucking far away are they?
 
 ``The contact is faint and far off. That is why Cassandra did not hear
 them before.'' His eye caught Cassandra's grateful face. ``They are far
@@ -12929,8 +12930,8 @@ literary insanity to his actions.''
 expressed through overwritten symbolism right now Hemi. The Ocean is
 plenty fucking dramatic enough without having to spread some kind of
 pretentious icing of bullshit modern literary sludge on top of it.
-\ldots{}Alright, are they gaining on us? How long before we have to
-start worrying about them putting a torpedo in the water?''
+\ldots Alright, are they gaining on us? How long before we have to start
+worrying about them putting a torpedo in the water?''
 
 ``No way to tell just yet. They likely have the same difficulty as us
 --- moving fast through the surface garbage puts them at risk of hitting
@@ -13009,7 +13010,7 @@ what the cause of that was --- they had to run slowly and more silently
 to hear the \emph{Prospect's} engine noise now. Discontinuing the active
 sonar pings felt like the right move to Percy.
 
-For the next two hours Cassandra blearily focussed on listening to the
+For the next two hours Cassandra blearily focused on listening to the
 sonar contacts and shouting potential hazards she heard in the water up
 to the control room. Owen and Percy were required to constantly make
 adjustments to their course to avoid one large object or another that
@@ -13111,7 +13112,7 @@ smoked. Hemi continued directing Bastian to make occasional adjustments
 to steer clear of dangerous objects in the water.
 
 It was just starting to seem to Percy that perhaps there were fewer
-calls up from Hemi for course adjustements when the needles on the
+calls up from Hemi for course adjustments when the needles on the
 battery gauges suddenly dipped down into the solid red zone and then
 fell onto their zero needles, flat and lifeless. The sound of the
 electric drive motors died away with them. And just a second after that
@@ -13129,7 +13130,7 @@ Hemi removed the sonar headset and stood at the foot of the ladder to
 the control room. ``What do you want to do now?''
 
 ``I'm fucking asking you: what the fuck can we do? All we've got is
-hotel power! \ldots{}And We're going to fucking sink if we don't have
+hotel power! \ldots And We're going to fucking sink if we don't have
 power to run those forward bilges. Give me options!''
 
 ``You could flip over the main power to draw from the emergency hotel
@@ -13675,7 +13676,7 @@ Hemi did not even bother with the headset. There was no way they would
 hear anything on passive sonar above the raucous engine noise of the
 \emph{Gnat's} diesel. But he punched the active sonar ping button and it
 was loud enough to get a response. The sonar sweep laid out a speckled
-groundplan of contacts in the 10 nautical miles or so around the
+ground plan of contacts in the 10 nautical miles or so around the
 \emph{Gnat}. Hemi waited 5 minutes and then fired off another ping. Only
 one dot had changed position, and that was the sub with the ram. It had
 moved from its intercept course with the \emph{Prospect} and swung
@@ -13720,9 +13721,9 @@ terrifyingly quick determining actions.
 Hemi scanned back and forth across the horizon for 20 minutes or so, and
 then a small aspect change of the \emph{Prospect's} sail caught his
 practiced attention. It had stopped swaying, and was now holding itself
-bolt upright. Hemi focussed his binoculars on it, and a few minutes
-later it sank silently downwards. The viscous black surface closed over
-it with a sucking sound that Hemi almost imagined he could hear.
+bolt upright. Hemi focused his binoculars on it, and a few minutes later
+it sank silently downwards. The viscous black surface closed over it
+with a sucking sound that Hemi almost imagined he could hear.
 
 At this, Hemi signaled to Shakes to make way so he could climb back down
 into the bowels of the \emph{Gnat}. He returned to assembling the
@@ -13823,7 +13824,7 @@ navigate us across the path of the sub with the ram.''
 ``I am aware. I will be listening on sonar though. I am confident the
 \emph{Gnat} is capable of doing the job.''
 
-``Well of course this boat can fuckin' do it! \ldots{}I just never
+``Well of course this boat can fuckin' do it! \ldots I just never
 thought I'd be using the \emph{Gnat} to play fuckin' chicken with a
 full-sized full-speed foul-looking ram-headed fuckin' military sub.''
 
@@ -13981,7 +13982,7 @@ lifted up and clear of the trunk.
 
 ``The device is away Shakes!'' Hemi called forward.
 
-``\ldots{}Are you sure about that? I'd hate to find out it's stuck in
+``\ldots Are you sure about that? I'd hate to find out it's stuck in
 there and fuckin' arming itself.''
 
 ``I am as sure as I can be. Blow the tanks --- the surface is going to
@@ -14098,7 +14099,7 @@ help you with that.''
 ``You mean if we \emph{live} through this fuckin' scare-quotes
 \emph{project}.''
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 In the control room of the \emph{Prospect}, Captain Percy heard the
 detonation of Hemi's device, stripped of all but the lowest frequencies
@@ -14217,7 +14218,7 @@ those fucking things are expensive.''
 ``Great,'' Owen smirked, ``So they'll just go back to trying to fucking
 ram us.''
 
-Percy ignored Owen. "Cassandra, the next task is to find the fucking
+Percy ignored Owen. ``Cassandra, the next task is to find the fucking
 \emph{Gnat} and figure out what Hemi is doing.
 
 ``Right, Captain Percy.''
@@ -14251,8 +14252,8 @@ wash from the \emph{Prospect} to a degree that gave her some sense she
 might be able to hear her way around it.
 
 She scanned and scanned, back and forth. All the way around the bow too,
-but mostly focussing on the direction behind where she had last heard
-the little boat moving. Her mind was out there, deep in the water behind
+but mostly focusing on the direction behind where she had last heard the
+little boat moving. Her mind was out there, deep in the water behind
 her, but there was nothing but darkness there. She felt like she was
 blind to everything except for her sense of the \emph{Prospect's}
 position, and the sub with the ram steadily gaining on them.
@@ -14302,7 +14303,7 @@ meals on your boat! Out.'' Shakes clicked off.
 As Percy hung the mic back up above her head, Bastian reached one long
 finger out and fruitlessly tapped the battery gauge.
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 ``We have to go deeper Shakes. 50 meters.''
 
@@ -14338,7 +14339,7 @@ probably the surface again.''
 
 ``All you have to do is drive the boat Captain Shakes.''
 
-``\ldots{}Down beyond a depth I never intended to take it.''
+``\ldots Down beyond a depth I never intended to take it.''
 
 Hemi pounded on one of the roughly-welded thwarts. ``It is a good boat.
 I think it is capable of more than you give it credit for.''
@@ -14450,7 +14451,7 @@ get that open. If the weapon arms in the trunk, we're fucking done.''
 revising his estimates of where the boats were in relation to each
 other, and at the same time trying to figure out a way to release the
 hatch. ``Come shallow by a few meters,'' Hemi shouted forward,
-``\ldots{}that might be all we need.'' A second went by and Hemi knew
+``\ldots that might be all we need.'' A second went by and Hemi knew
 they were getting out of position. ``You also need to come left to 222
 degrees, Hard! Now!''
 
@@ -14490,13 +14491,13 @@ mechanical things you sometimes just had to get physical.
 
 Nothing happened.
 
-No fucking go Hemi." Shakes said with some kind of resolve reflecting in
-his voice. ``We must have cracked the ballast tanks. The blow isn't
+No fucking go Hemi.'' Shakes said with some kind of resolve reflecting
+in his voice. ``We must have cracked the ballast tanks. The blow isn't
 fuckin' doin' anything.''
 
 At that moment the mine detonated, far to close to the \emph{Gnat} for
 safety. The little boat shook to its timbers, and rolled over on its
-side as the shockwave grabbed the \emph{Gnat's} small sail. The sound
+side as the shock wave grabbed the \emph{Gnat's} small sail. The sound
 was so loud that it rang Shakes' and Hemi's ears. Whatever small cracks
 that had opened in the seams before now split wide and freezing black
 water poured in.
@@ -14539,7 +14540,7 @@ bubble they need to ride up had made its own way to the surface, leaving
 uselessly without them.
 
 The water Shakes sat in was rising quickly. Water was pissing in through
-cracks in the view port. Hemi looked at the depth gauge --- 100 meters.
+cracks in the viewport. Hemi looked at the depth gauge --- 100 meters.
 He let the lighter go out. His whole life he had been able to make these
 machines --- all machines --- do what he wanted them to. But this
 particular one was failing him now. Shakes' resignation seemed to be all
@@ -14565,7 +14566,7 @@ it was rising.
 
 ``What the fuck?'' Shakes asked.
 
-``\ldots{}The \emph{Prospect}. They must have got under us.''
+``\ldots The \emph{Prospect}. They must have got under us.''
 
 ``And now they're fuckin' raising us to the surface? Like some fucking
 new born whale? Fuck me! Fucking fuck me!''
@@ -14576,10 +14577,10 @@ Shakes stood up and took the lighter back from Hemi. He lit it and with
 a renewed hope for life, he crawled forward. He pushed Herschel's empty
 and guano-covered roost aside and pulled open a fuse box panel that lay
 behind it. He rummaged through a pile of old and corroded fuses that lay
-at the bottom of the fusebox to find one that looked like it was still
+at the bottom of the fuse box to find one that looked like it was still
 at least partially conductive. He ran his finger down the rows of blown
 fuses til he found the one he wanted and yanked it out. The
-hopefully-working replacement went into the fusebox in its place.
+hopefully-working replacement went into the fuse box in its place.
 
 He knew it did work because the radio panel lit up and the rapidly
 dwindling space of air in the sub was filled with the sound of radio
@@ -14610,7 +14611,7 @@ now.''
 black fuck ram first, I hope. Cassandra said she heard the boat split,
 and the bulkheads failing, and then the two biggest pieces went down.''
 
-There was now light coming through the view port around the streams of
+There was now light coming through the viewport around the streams of
 water coming from the cracks. Shakes stuck his head between the lines of
 water and could just see the shadow of the \emph{Prospect's} sail out
 there in the gloom.
@@ -14707,17 +14708,17 @@ food taste so much better, and the silence so much quieter.
 
 \newpage
 \tiny
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 CREATIVE COMMONS LICENSE INFORMATION
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Creative Commons Corporation (``Creative Commons'') is not a law firm
 and does not provide legal services or legal advice. Distribution of
@@ -14771,7 +14772,7 @@ wiki.creativecommons.org/Considerations_for_licensors
 wiki.creativecommons.org/Considerations_for_licensees
 \end{verbatim}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 Public License
@@ -15186,7 +15187,7 @@ Section 8 -- Interpretation.
   any jurisdiction or authority.
 \end{enumerate}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Creative Commons is not a party to its public licenses. Notwithstanding,
 Creative Commons may elect to apply one of its public licenses to
@@ -15206,4 +15207,5 @@ form part of the public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+\backmatter
 \end{document}

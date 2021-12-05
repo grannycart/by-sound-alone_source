@@ -36,7 +36,7 @@
 * txt:
 	* more or less works as compiled by pandoc
 * latex:
-	* I experimented with creating latex with pandoc and then editing the latex by hand. See [notes here](experiments-with-latex-formatting.md).
+	* This is good for getting a raw latex file that can be edited for making a nice paperback version. See [notes here](latex-edits-for-paperback.md).
 * Diagrams:
 	* There is a quick layout in an Inkscape .svg file in the sub-diagrams/ directory. Just open that in Inkscape, save it as a pdf, and then do what you like with it.
 	* For .epub the diagrams have to go into the file, so there is an extra file in the Makefile pandoc compilation list for the epub target: full-draft-manuscript/one_diagrams.md that includes the diagrams. 
