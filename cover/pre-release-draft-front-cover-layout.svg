@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="pre-release-draft-front-cover-layout.svg"
+   inkscape:export-filename="/home/dynohub/github-localcopy-repos/grannycart/subworld/subworld-book1/cover/pre-release-draft-front-cover-layout.png"
+   inkscape:export-xdpi="95.581299"
+   inkscape:export-ydpi="95.581299"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,14 +29,14 @@
      width="5.625in"
      units="in"
      inkscape:zoom="0.60221134"
-     inkscape:cx="173.52712"
-     inkscape:cy="510.61808"
+     inkscape:cx="134.50428"
+     inkscape:cy="509.78781"
      inkscape:window-width="1358"
      inkscape:window-height="740"
-     inkscape:window-x="0"
+     inkscape:window-x="848"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
@@ -83,24 +86,24 @@
      style="font-weight:bold;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect6284)"><tspan
        x="39.658203"
        y="100.02987"
-       id="tspan58"><tspan
+       id="tspan7383"><tspan
          style="font-weight:500;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Medium'"
-         id="tspan56">An Untitled </tspan></tspan><tspan
+         id="tspan7381">An Untitled </tspan></tspan><tspan
        x="39.658203"
        y="153.63722"
-       id="tspan62"><tspan
+       id="tspan7387"><tspan
          style="font-weight:500;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Medium'"
-         id="tspan60">Novel With </tspan></tspan><tspan
+         id="tspan7385">Novel With </tspan></tspan><tspan
        x="39.658203"
        y="207.24457"
-       id="tspan66"><tspan
+       id="tspan7391"><tspan
          style="font-weight:500;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Medium'"
-         id="tspan64">Submarines </tspan></tspan><tspan
+         id="tspan7389">Submarines </tspan></tspan><tspan
        x="39.658203"
        y="260.85192"
-       id="tspan70"><tspan
+       id="tspan7395"><tspan
          style="font-weight:500;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Medium'"
-         id="tspan68">In It</tspan></tspan></text>
+         id="tspan7393">In It</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,69.724912,126.67674)"
@@ -108,14 +111,15 @@
      style="font-weight:bold;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect6284-3)"><tspan
        x="39.658203"
        y="90.523845"
-       id="tspan74"><tspan
+       id="tspan7399"><tspan
          style="font-weight:500;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Medium'"
-         id="tspan72">by Mark </tspan></tspan><tspan
+         id="tspan7397">by Mark 
+</tspan></tspan><tspan
        x="39.658203"
        y="130.72934"
-       id="tspan78"><tspan
+       id="tspan7403"><tspan
          style="font-weight:500;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Medium'"
-         id="tspan76">Torrey</tspan></tspan></text>
+         id="tspan7401">   Torrey</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,26.118295,172.22944)"
@@ -123,7 +127,7 @@
      style="font-weight:bold;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect6284-3-7)"><tspan
        x="39.658203"
        y="83.394349"
-       id="tspan82"><tspan
+       id="tspan7407"><tspan
          style="font-weight:500;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Medium'"
-         id="tspan80">(Pre-release Draft)</tspan></tspan></text>
+         id="tspan7405">(Pre-release Draft)</tspan></tspan></text>
 </svg>
