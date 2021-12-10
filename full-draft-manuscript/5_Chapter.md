@@ -732,6 +732,8 @@ Percy and Hemi turned to look at Owen standing at the galley range.
 
 "You would think," said Owen, "but the thing is, even in that moment --- what should have been a moment of the most violent, heated fucking passion, right? I mean, he's supposedly there to kill me in rage for seducing his wife, like a some fucking classical play or something --- even then his voice was totally flat. It was like he didn't care, really. He was just going through the motions." Owen thought for a second. "My take is that he didn't care at all about Lisa. Revenge on me was just something to do. A code to guide his life by, maybe because all those years of executing the will of the Authority he worked for had started to seem pointless."
 
+[//]: # (For more on the motivation of the commander see book1 writing notes.)
+
 "So, you think he is pursuing us around the great circle of the globe because of some sort of misplaced nihilistic existential crisis?" Hemi asked.
 
 "Uh, sure. Whatever the fuck that means." Said Owen, nodding.
