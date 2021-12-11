@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Mon Dec 06, 2021  01:07PM
+Last modified: Sat Dec 11, 2021  01:03PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -218,6 +218,8 @@ Last modified: Mon Dec 06, 2021  01:07PM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
+* [ ] You might have to reconsider "stacks blowing flame" --- diesel subs exhausted below the surface
+	* (see notes in research files)
 * [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
 * [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
 * [ ] Possible book (though not series) title:
