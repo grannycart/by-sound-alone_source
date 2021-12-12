@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sat Dec 11, 2021  01:03PM
+Last modified: Sun Dec 12, 2021  04:53PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -9,6 +9,7 @@ Last modified: Sat Dec 11, 2021  01:03PM
 	* [Find-and-fix editing](#fnf)
 	* [Scenes to fix](#scenes)
 	* [General stuff to keep in mind](#general)
+		* [titles](#titles)
 * [Book 1 elements](#elements)
 * [Diagrams notes and todos](notes-on-sub-diagrams)
 * [style](#style)
@@ -223,6 +224,8 @@ Last modified: Sat Dec 11, 2021  01:03PM
 * [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
 * [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
 * [ ] Possible book (though not series) title:
+	* :titles:
+	* An Absolute and Blessed Silence
 	* The Salted wound
 		* (referring to the never-healing damage from the ramming at the beginning)
 	* The Mouse's Wheel
