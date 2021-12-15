@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sun Dec 12, 2021  04:53PM
+Last modified: Wed Dec 15, 2021  10:45AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -219,6 +219,16 @@ Last modified: Sun Dec 12, 2021  04:53PM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
+* [ ] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
+	1. Tablemount
+	2. The _Gnat_
+	3. Depot
+	4. Herschel
+	5. A Storm
+	6. Stilt City
+	7. Garbage Gyre
+	8. Down The Hole
+	* (Consider making much shorter chapters -- maybe breaks by scene?)
 * [ ] You might have to reconsider "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
 * [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
