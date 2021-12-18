@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Wed Dec 15, 2021  10:45AM
+Last modified: Sat Dec 18, 2021  11:40AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -231,6 +231,8 @@ Last modified: Wed Dec 15, 2021  10:45AM
 	* (Consider making much shorter chapters -- maybe breaks by scene?)
 * [ ] You might have to reconsider "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
+	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
+		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day. 
 * [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
 * [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
 * [ ] Possible book (though not series) title:
