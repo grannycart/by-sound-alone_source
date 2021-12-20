@@ -777,7 +777,7 @@ Eventually Chips had welded enough patching material in place that the leak slow
 
 Chips banged on the hatch with the end of the welding stick. "Eh Shakes ya fucker. You can open this fuckin' thing up now." She yelled into the empty metal well, her voice bouncing the curses back at her. There was the sound of the rusty sealing gears squeaking open and the hatch lifted up. 
 
-Shakes was grinning up at them as residual water rained down on him. "Who's a fuckin' anglerfish now, eh motherfuckers?"
+Shakes was grinning up at them as residual water rained down on him. "Who's a fuckin' angle-fish now, eh motherfuckers?"
 
 "Don't touch them fucking welds when ya come through, the fuckers are still hellish fuckin' hot."
 
