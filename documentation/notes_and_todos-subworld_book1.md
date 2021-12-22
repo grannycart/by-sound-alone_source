@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sat Dec 18, 2021  11:40AM
+Last modified: Wed Dec 22, 2021  11:29AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -51,6 +51,9 @@ Last modified: Sat Dec 18, 2021  11:40AM
 -------------------------------------------------
 :fnf:
 * [X] Do a pass through and search for # ( in the final published version -- comments: they have a habit of showing up with even just a 'ticks' and have low tolerance for any formatting or anything.
+* [ ] Change Trinity's name
+	* Trinity, turns out, is the name of the love-interest in the Matrix
+	* So change it, unless on re-watching the matrix somehow it makes sense that this little old lady is also named Trinity.
 * [ ] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
