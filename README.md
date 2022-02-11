@@ -49,6 +49,9 @@
 	* https://github.com/evangoer/pandoc-ebook-template
 * Test readers:
 	* Clark Smeltzer
+	* Kevin Noble
+	* Linda Neaman
+	* xala
 	* Your name here!
 	* Or your name here!
 	* Or your name here!
