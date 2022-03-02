@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Wed Dec 22, 2021  11:29AM
+Last modified: Wed Mar 02, 2022  09:42AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -178,6 +178,10 @@ Last modified: Wed Dec 22, 2021  11:29AM
 	* But it feels like it would be better coming later as part of another convo
 
 #### Not sure where:
+* [ ] Add a scene where the outside landscape is detected on sonar:
+	* huge sunken wrecked vehicles
+	* maybe getting towards the gargbage gyre -- ships that have sunk
+	* like the dream I had
 * [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
 * [X] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
