@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Wed Mar 02, 2022  09:42AM
+Last modified: Fri May 06, 2022  06:29PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -226,6 +226,9 @@ Last modified: Wed Mar 02, 2022  09:42AM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
+* [ ] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
+* [ ] Maybe have Bastian decorating his quarters with plants?
+	* [ ] Ask A what plants could actually grow on a sub
 * [ ] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
 	1. Tablemount
 	2. The _Gnat_
