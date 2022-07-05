@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Tue Jul 05, 2022  10:44AM
+Last modified: Tue Jul 05, 2022  10:52AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -439,6 +439,11 @@ Last modified: Tue Jul 05, 2022  10:44AM
 	* One of my test readers criticized the book for being too "male"; 
 		* But I believe the individualist male fantasy is validly compelling; it just needs to be adapted to not be racist, sexist, capitalist, and nationalist.
 		* Keep the violence though.
+	* Also life on the barren frontier (mentioned in article above):
+		* Deadliest Catch does this too: the individual out in the frontier landscape, their wits against mother nature
+			* (ignoring the gun nuts on the show) 
+		* This is *important* work because Deadliest Catch is redeeming the male myth, without recourse to killing brown people with weapons.
+		* Redeeming the lone male myth is the BEST way to address the problems with it.
 * 'feminine' qualities vs 'masculine' qualities --- women who live on a dirty machine
 * fitzcorraldo: hauling explosive parts over a mountain
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head.  
