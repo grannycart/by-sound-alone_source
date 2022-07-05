@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Fri May 06, 2022  06:29PM
+Last modified: Tue Jul 05, 2022  10:44AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -430,6 +430,15 @@ Last modified: Fri May 06, 2022  06:29PM
 
 ## style 
 :style: 
+* manliness:
+	* One thing I'm trying to do in this book is salvage the lone-male fantasy
+		* First by making it not exclusively "male"
+		* Second by doing it without guns (1970s trucker movies are a perfect fit for that)
+	* See this article: https://www.nytimes.com/2022/07/04/opinion/guns-america-western-mythology.html 
+		* For a good outline of what's wrong with the male fantasy, including Cormac McCarthy 
+	* One of my test readers criticized the book for being too "male"; 
+		* But I believe the individualist male fantasy is validly compelling; it just needs to be adapted to not be racist, sexist, capitalist, and nationalist.
+		* Keep the violence though.
 * 'feminine' qualities vs 'masculine' qualities --- women who live on a dirty machine
 * fitzcorraldo: hauling explosive parts over a mountain
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head.  
