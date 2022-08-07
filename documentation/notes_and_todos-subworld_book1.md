@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Tue Jul 05, 2022  10:52AM
+Last modified: Sun Aug 07, 2022  10:44AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -22,16 +22,16 @@ Last modified: Tue Jul 05, 2022  10:52AM
 :index:
 * [README.md](README.md)
 	* general README for github repo
-* [notes_and_todos-subworld_story1](notes_and_todos-subworld_story1)
-	* List of notes specific to the _story/writing_ of this book; and things to not forget to do; as well as post-production checklist
-* [draft1_pseudocode-subworld_story1](pseudocode-files/draft1_pseudocode-subworld_story1)
+* [notes_and_todos-subworld_story1](notes_and_todos-subworld_book1)
+	* This file. List of notes specific to the _story/writing_ of this book; and things to not forget to do; as well as post-production checklist
+* [draft1_pseudocode-subworld_story1](../pseudocode-files/draft1_pseudocode-subworld_story1)
 	* First pass at pseudo-code: only short story version plot covered
-* [draft2_pseudocode-subworld_story1](pseudocode-files/draft2_pseudocode-subworld_story1)
+* [draft2_pseudocode-subworld_story1](../pseudocode-files/draft2_pseudocode-subworld_story1)
 	* Long pseudocode with lots of inital detail/prose drafting for depot and first chase scene
-* [draft3_pseudocode-subworld_story1](pseudocode-files/draft3_pseudocode-subworld_story1)
+* [draft3_pseudocode-subworld_story1](../pseudocode-files/draft3_pseudocode-subworld_story1)
 	* Pseudocode to cover plot of entire book, mostly without draft/prose drafts
-* [manuscript_draft-subworld_book1](full-draft-manuscripts/manuscript_draft-subworld_book1.md)
-	* First full-prose draft of book 
+* [manuscript_draft-subworld_book1](../full-draft-manuscript/one_diagrams.md)
+	* First full-prose draft of book (in full-draft-manuscript directory, starting with one_diagrams)
 
 
 ## story descriptions: 
@@ -227,6 +227,7 @@ Last modified: Tue Jul 05, 2022  10:52AM
 -------------------------------------------------
 :general:
 * [ ] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
+* [ ] Make a reference to the head --- a joke about how complex it is to operate.
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* [ ] Ask A what plants could actually grow on a sub
 * [ ] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
