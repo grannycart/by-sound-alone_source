@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sun Aug 07, 2022  10:44AM
+Last modified: Sun Aug 28, 2022  05:23PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -246,6 +246,17 @@ Last modified: Sun Aug 07, 2022  10:44AM
 		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day. 
 * [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
 * [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
+* [ ] Feedback from Brian:
+	* [ ] The start is slow, maybe pick up the writing pace a bit to match the speed of the rest of the book
+		* (MT says: I think what happened here is at first I didn't know how much space everything was going to take, so I wrote longer scenes, but later had so many ideas to cram in that there wasn't space for longer scenes)
+	* [ ] Cassandra says something like "I didn't realize when I agreed to this that it would be so boring" Which was maybe offensive she didn't agree since she was sold like a slave and she was escaping prositution. 
+	* [ ] Some of the material handling scenes need work. People don't use a chain with a block. There is a thing called a chain hoist. You might also want to consider gantry cranes. A sub port isn't going to be fooling around.
+	* [ ] There is a point where Shakes doesn't know the horsepower of the motors on his sub. That seems strange since he built it. But maybe it is intentional. 
+	* [ ] You start using bearings at some point but there are places earlier where they could be used. 
+	* [ ] There are a couple places in the first 15 or so pages where it is like "then this happened."  Along the line of show, don't tell, it should be something like "then Chips said to Hemi "there a X in the Y" and Hemi (did something)"
+	* [ ] There are a couple of parts where the text tells the reader to appreciate something or that something is a mystery.  You could cut those and let the reader do the work
+	* [ ] I felt that the air intake and exhaust were not handled when Gant was coupled to Prospect in Ch 1 or 2.
+	* [ ] The sub port would be like a cup with air upside down underwater. Damage to the sub docking areas shouldn't cause flooding since the air is there, damage that would allow the air to escape would. But a large door would still be appropriate. 
 * [ ] Possible book (though not series) title:
 	* :titles:
 	* An Absolute and Blessed Silence
