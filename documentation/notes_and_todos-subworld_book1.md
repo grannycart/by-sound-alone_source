@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sun Aug 28, 2022  05:23PM
+Last modified: Sat Sep 03, 2022  10:45AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -185,7 +185,7 @@ Last modified: Sun Aug 28, 2022  05:23PM
 * [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
 * [X] Add? "They were only 100 meters under water, some people could kick a ball that distance"
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
-	* There is a line about how sound finds new and mysterious ways to propogate in the depths
+	* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
 * [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
 	* Maybe with shakes over ship-to-ship, just to keep it interesting
 	* Maybe Shakes wonders if it's moral to run weapons
@@ -226,7 +226,14 @@ Last modified: Sun Aug 28, 2022  05:23PM
 ### General style stuff to address throughout:
 -------------------------------------------------
 :general:
+* [ ] Fix motivation for chase:
+	* (every reader comments on this -- none of them are getting your idea that the one-armed captain is just going through the motions for no reason other than not knowing what else to do)
+	* A possibility: The sub with the ram is after them because a global bounty has been declared on illicit cargo subs.
+		* The sub with the ram is a privateer, licensed to chase cargo subs, capture and take their cargo
+		* It becomes a bit of a story about the wider world: shifting towards globalized markets, away from independent operators
+		* give the one-armed captain back his arm
 * [ ] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
+* [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
 * [ ] Make a reference to the head --- a joke about how complex it is to operate.
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* [ ] Ask A what plants could actually grow on a sub
@@ -246,6 +253,8 @@ Last modified: Sun Aug 28, 2022  05:23PM
 		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day. 
 * [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
 * [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
+* [ ] Feedback from Kevin:
+	* [ ] motivation for Shakes isn't strong enough (see note about pot above --- maybe they can convince him to help out with a giant brick of pot? Maybe Bastian grows pot in his quarters, that's how they have enough to convince Shakes?)
 * [ ] Feedback from Brian:
 	* [ ] The start is slow, maybe pick up the writing pace a bit to match the speed of the rest of the book
 		* (MT says: I think what happened here is at first I didn't know how much space everything was going to take, so I wrote longer scenes, but later had so many ideas to cram in that there wasn't space for longer scenes)
@@ -348,19 +357,6 @@ Last modified: Sun Aug 28, 2022  05:23PM
 	* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
 	* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, 
 		* don't just montage over them, it makes it feel like things are moving too fast.
-* [X] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
-	* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
-	* And a lot more cursing might actually be a simple way to make it grittier.
-	* Also they're a bunch of fuckin sailors!
-	* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
-		* **Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."**
-		* I think this is a good revision to make. do it!
-	* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
-		* Chips: curses all the time
-		* Shakes: a lot
-		* Percy: When she's pissed
-		* Hemi: never
-* [ ] Consider pulling back or deleting the metaphors
 * [ ] Keep in mind that in this world, like the opening set piece, nature is deliberately cruel and evil, tormenting
 	* So at some point, it should be _pulling_ them to the depths
 	* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
@@ -393,7 +389,7 @@ Last modified: Sun Aug 28, 2022  05:23PM
 	* (I originally had this slated for book II though.. is it better there?)
 * [X] My submarine book (at least this first one and the free 10k word story) will NOT have a 'running out of air' scene.
 * [X] make sure you explain somewhere that 10 meters = 1 atmosphere of pressure
-	* But under water every ten meters down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Grimlock_ plus the noble strength of the steel hull. When approaching the maxiumum depth of a sub, one small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of minutes.
+	* But under water every ten meters down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Grimlock_ plus the noble strength of the steel hull. When approaching the maxiumum depth of a sub, one small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank could take them down that last critical ten meters in a matter of seconds.
 * [X] overall theme: being chased by a dark force of evil (black sub) from place to place to place
 * [X] plot milestones
 	* on a dead calm sea
@@ -456,11 +452,24 @@ Last modified: Sun Aug 28, 2022  05:23PM
 			* (ignoring the gun nuts on the show) 
 		* This is *important* work because Deadliest Catch is redeeming the male myth, without recourse to killing brown people with weapons.
 		* Redeeming the lone male myth is the BEST way to address the problems with it.
+* [ ] Consider pulling back or deleting the metaphors
 * 'feminine' qualities vs 'masculine' qualities --- women who live on a dirty machine
+* [X] try putting in more cursing. Maybe it seems like it's hard to do it genuinely. but on the other hand, maybe all you have to do is _do_ it --- curses every third word.
+	* I think TV has programmed you to think you can't use cursing so much. But even TV that doesn't shy away from cursing still has far less cursing than even average real life. (except Deadwood of course)
+	* And a lot more cursing might actually be a simple way to make it grittier.
+	* Also they're a bunch of fuckin sailors!
+	* Maybe the only time they don't curse is when someone is _truly_ angry? (Or is it better to go like Steve on Deadwood at his angriest?)
+		* **Like the note you read about 'fuck' during WWII: the only time it wasn't used was when something serious was happing: "Grab your [no-fucking] guns."**
+		* I think this is a good revision to make. do it!
+	* [X] Maybe Hemi is the one character who doesn't (normally/ever) curse?
+		* Chips: curses all the time
+		* Shakes: a lot
+		* Percy: When she's pissed
+		* Hemi: never
 * fitzcorraldo: hauling explosive parts over a mountain
 * remember to include a lot of spatial description: the reader should be able to SEE the sub/spaces in their head.  
 	* build a map in their head for them.  
-* there is an underlaying idea that the machines of this world are rational and knowable. There is order to them, and the accessibility for most people to be able to understand how they work because they are logical. The world of machines makes sense. It is not wicked.
+* there is an underlying idea that the machines of this world are rational and knowable. There is order to them, and the accessibility for most people to be able to understand how they work because they are logical. The world of machines makes sense. It is not wicked.
 	* The layer above that is the world of the human mind: infinitely complex and unknowable. No person's motivation can be relied upon to be rational or logical (this is the untruth at the heart of so many novels and the discipline of acting --- writers/storytellers use simplified/simplistic human motivation as a shorthand to drive stories. It's not very real at all. ...On the other hand I think it makes it easier to create compelling characters (Shakes?) and drive them through a plot.) 
 * Just make the first submarine novel GO: 
 	* Go for character-driven (fear) excitement through staring at dials 
@@ -469,7 +478,7 @@ Last modified: Sun Aug 28, 2022  05:23PM
 	* accessibility is more important than style: 
 		* do NOT fall into the trap of keeping things abstract for the sake of style. those books are often (and often rightfully) unpopular.
 		* on the other hand layering style on top of accessibility is the dream: like Batman
-* maybe with the engine running full blast, it SOUNDS heavy and grimey, like Dopesmoker.
+* maybe with the engine running full blast, it SOUNDS heavy and grimy, like Dopesmoker.
 	* try to think about what a listener to dopesmoker would want to read. 
 * think carefully about where you "dive" into description:
 	* character's clothing, for example, should just be mentioned in casual passing: "she placed the pencil into the front pocket of her cracking leather overalls."
