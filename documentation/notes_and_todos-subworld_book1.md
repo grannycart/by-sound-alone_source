@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sat Sep 03, 2022  10:45AM
+Last modified: Sat Sep 03, 2022  12:58PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -235,6 +235,7 @@ Last modified: Sat Sep 03, 2022  10:45AM
 * [ ] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
 * [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
 * [ ] Make a reference to the head --- a joke about how complex it is to operate.
+* [ ] Have someone wash their hands with salt water soap
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* [ ] Ask A what plants could actually grow on a sub
 * [ ] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
