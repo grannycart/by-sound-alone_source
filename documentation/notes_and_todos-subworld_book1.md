@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Sat Sep 03, 2022  12:58PM
+Last modified: Sat Sep 10, 2022  11:22AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -267,6 +267,7 @@ Last modified: Sat Sep 03, 2022  12:58PM
 	* [ ] There are a couple of parts where the text tells the reader to appreciate something or that something is a mystery.  You could cut those and let the reader do the work
 	* [ ] I felt that the air intake and exhaust were not handled when Gant was coupled to Prospect in Ch 1 or 2.
 	* [ ] The sub port would be like a cup with air upside down underwater. Damage to the sub docking areas shouldn't cause flooding since the air is there, damage that would allow the air to escape would. But a large door would still be appropriate. 
+		* NB: I thought about this during the first draft: the depot would be kept at 1 atmosphere so it could maintain open doors with the surface. That avoids the problem of keeping all those people in the depot at saturation (both in terms of decompression time and complexity for them to enter and exit the depot, but also for health reasons --- people with weaker bodies (Trinity) likely couldn't constantly be compressing and decompressing. (Though, maybe an interesting idea for Trinity to live a huge chunk of her life at compression?) Also the subs are at 1 atmosphere so even if the dock is only 30 feet down that means the dock air would be at 2 atmospheres and you'd have to equalize that with the docking subs. That's not just technically challenging, but the subs would not be designed to be pressurized to 2 atmosphere's from the INSIDE.
 * [ ] Possible book (though not series) title:
 	* :titles:
 	* An Absolute and Blessed Silence
