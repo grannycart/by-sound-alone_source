@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Mon Oct 03, 2022  08:52PM
+Last modified: Tue Oct 04, 2022  11:01AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -455,6 +455,9 @@ Last modified: Mon Oct 03, 2022  08:52PM
 		* This is *important* work because Deadliest Catch is redeeming the male myth, without recourse to killing brown people with weapons.
 		* Redeeming the lone male myth is the BEST way to address the problems with it.
 * [ ] Consider pulling back or deleting the metaphors
+* [ ] Add a lot of broken things:
+	* Like, have characters on their down time working on repairing all sorts of stuff
+	* And for transitional passages, give a list of things repaired
 * [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
 	* [ ] also the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
 * 'feminine' qualities vs 'masculine' qualities --- women who live on a dirty machine
