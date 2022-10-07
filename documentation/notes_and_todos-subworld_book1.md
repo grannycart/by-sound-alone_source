@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Tue Oct 04, 2022  11:01AM
+Last modified: Fri Oct 07, 2022  10:26AM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -381,6 +381,10 @@ Last modified: Tue Oct 04, 2022  11:01AM
 	* Let's say this is the section where they go deep to escape the sub as they leave the depot
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
+* [ ] fuel oil -- is what fuel is called
+* [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
+	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
+	* don't forget that in non-teardrop subs, the lower they are the slower they go on the surface.
 * [X] someone fishes from the deck of the ship
 * [X] The contrast between the noisy fast mini sub, and the quiet slow smugglers sub.
 * [X] the pilot blows the tanks on the gnat and breaches the sub to attract attention of the authorities
