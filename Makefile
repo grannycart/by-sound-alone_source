@@ -1,4 +1,8 @@
-# Note: modified from original source from maintainer
+#
+# This Makefile modified from original maintainer at:
+# https://github.com/evangoer/pandoc-ebook-template
+# Originally released under an MIT license
+#
 BUILD = built-files
 BOOKNAME = Subworldbook1
 # This BOOKNAME variable is the output file name, not the title
