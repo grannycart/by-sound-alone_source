@@ -1,5 +1,5 @@
 documentation/subworld_story1_notes-and-todos.wiki
-Last modified: Fri Oct 07, 2022  10:26AM
+Last modified: Wed Nov 02, 2022  03:30PM
 
 # Subworld Book 1 --- general notes and todos
 * notes and todos -- moved to shuttlebay
@@ -146,7 +146,7 @@ Last modified: Fri Oct 07, 2022  10:26AM
 * [X] in the underwater depot: Is it a saloon, bar, pub, or canteen? be (mostly) consistent.
 	* On the depot, it's a canteen.
 * [X] Cassandra might have long fingernails that are painted and chipped; and short black curly hair
-* [O] Fix Cassandra music references:
+* [X] Fix Cassandra music references:
 	* [X] the whores listen to a "record player"; drives the pimp crazy, but when he tried to get rid of it they all threw a fit; cassandra particularly loved it
 	* [X] cassandra doesn't have a "practiced ear"
 	* [X] cassandra finds the drone music "similar to some far foreign music, that uses drones to tap spirituality" (believable because she would have contact with far world cultures at the depot, but not really understand them)

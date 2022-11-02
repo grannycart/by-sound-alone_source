@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Sun Dec 05, 2021  04:35PM
+Last modified: Wed Nov 02, 2022  03:26PM
 
 
 # notes on sub diagrams
@@ -24,6 +24,7 @@ Last modified: Sun Dec 05, 2021  04:35PM
 	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
 	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
+		* Or does this get changed to exhaust at deck level?
 	* [X] add/adjust scale
 	* [X] add stairs up from forward battery room to cargo bay
 	* [ ] create stairs and ladders to replace sketch lines
