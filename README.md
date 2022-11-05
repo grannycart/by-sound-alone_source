@@ -51,6 +51,8 @@
 	* Clark Smeltzer
 	* Kevin Noble
 	* Linda Neaman
+	* Ray Pelka
+	* Kevin Stokes
 	* xala
 	* Your name here!
 	* Or your name here!
