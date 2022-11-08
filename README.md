@@ -13,7 +13,6 @@
 * **cover/**: The cover graphic files.
 * **documentation/**: Todo lists and other documentation.
 * **full-draft-manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
-* **pseudocode-files/**: Early non-prose drafts.
 * **sub-diagrams/**: Digrams of protaganist submarines in book.
 
 
@@ -61,7 +60,8 @@
 [//]: # (* Cover from covervault: * https://covervault.com/)
 
 ## Documentation:
-* [Notes and todos](documentation/notes_and_todos-subworld_story1)
+* [Notes and todos](documentation/index-notes_and_todos-subworld_book1)
+	* See this file for detailed list of notes files
 
 
 ## License:

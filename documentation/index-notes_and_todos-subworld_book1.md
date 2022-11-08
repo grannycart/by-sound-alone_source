@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: Sat Nov 05, 2022  01:45PM
+Last modified: Tue Nov 08, 2022  05:42PM
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -23,14 +23,6 @@ Last modified: Sat Nov 05, 2022  01:45PM
 	* [second-round_edits](./second-round_edits.md)
 * [Diagrams notes and todos](./notes-on-sub-diagrams)
 	* Notes on sub diagrams and edits to make
-* [draft1_pseudocode-subworld_story1](../pseudocode-files/draft1_pseudocode-subworld_story1)
-	* First pass at pseudo-code: only short story version plot covered
-* [draft2_pseudocode-subworld_story1](../pseudocode-files/draft2_pseudocode-subworld_story1)
-	* Long pseudocode with lots of inital detail/prose drafting for depot and first chase scene
-* [draft3_pseudocode-subworld_story1](../pseudocode-files/draft3_pseudocode-subworld_story1)
-	* Pseudocode to cover plot of entire book, mostly without draft/prose drafts
-* [manuscript_draft-subworld_book1](../full-draft-manuscript/one_diagrams.md)
-	* First full-prose draft of book (in full-draft-manuscript directory, starting with one_diagrams)
 
 
 ## story descriptions and title possibilities: 
