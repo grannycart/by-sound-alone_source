@@ -1,5 +1,5 @@
 subworld-book1/documentation/completed_first-round_edits.md
-Last modified: Sat Nov 05, 2022  01:44PM
+Last modified: Tue Nov 08, 2022  04:53PM
 
 # Completed first-round edits
 * [Find-and-fix editing](#fnf)
@@ -252,6 +252,19 @@ Last modified: Sat Nov 05, 2022  01:44PM
 		* "I wish I could all cans like this. I hate it when a can falls over in the Gnat and rolls forward where I can't get it."
 	* No, cuz they can stack more cans in the hold of a ship
 * [X] They use dead reckoning to navigate, and have to correct their location with celestial sitings at night.  
+* [X] what is the basic mechanism the authorities use to 'pull over' a sub for inspection?
+	* Seems like, especially if the authority subs are nuclear or even just well-resourced, waiting out the diesel-electrics is the primary method 
+	* This might move you to more of a surface-ship/destroyer vs sub model
+	* somewhat interesting notion: being 'pulled over' for a sub is being brought to the surface... though this doesn't jibe with subs that have to run on the surface to recharge anyway.
+* [X] Standard ways they could hide:
+	* [X] lay on the sea floor
+	* [X] under a thermocline (used in 10k short story)
+	* [X] under the deep scattering layer of fish
+* [X] Deck boss/nerd character figures out to use magnetic mines and some kind of float to put the mines in the path of the chasing authority sub. 
+	* the nerd character calculates by hand how much psi to put in the float so the mine sits at the depth of the chasing sub. they fill the floats by hand and launch them out the airlock into the path of the chasing sub.
+	* in later stories, the floating mines become a standard tool. they have a machine calculator that calculates the psi of the floats for them, but still have to fill them by hand.
+
+
 
 
 

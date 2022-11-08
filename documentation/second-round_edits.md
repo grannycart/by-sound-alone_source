@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: Sat Nov 05, 2022  01:45PM
+Last modified: Tue Nov 08, 2022  05:32PM
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -112,6 +112,10 @@ Edits to pick up in second full pass through the book
 	* P felt right when I first started using it, but feels less right as I go along
 	* This might be a thing to ask test-reader's feedback on
 * [ ] The name Chips doesn't feel like it's working
+	* You have a note about possibly using Irene?
+	* Should she be more of an Irene character?
+		* If Irene... could be more like the Irene character: liberal idealistic, smarter than everyone else -- conflict with Percy becomes more of a thing about what they see as (politically?) right?
+		* Possibly "Rena" -- nickname for Irene
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
 * [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
@@ -145,7 +149,62 @@ Edits to pick up in second full pass through the book
 * [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
 	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
 	* don't forget that in non-teardrop subs, the lower they are the slower they go on the surface.
+* [ ] think about writing a whole second novel worth of stuff into the comments of subworld
+	* The uncommented text becomes the accessible, readable adventure story.
+	* The comments become the metaphysical parallel "stalker" type story.
+	* Maybe this is during another read-through edit (after you finish the "complete first draft" and have people reading that) where you take care of all remaining unresolved comments and notes.
+		* maybe like every 1k words of main text there should be some bit of meta-writing?
+		* If this seems right, add this process to todos in repo 
+		* in each place that there is some over-wrought symbol; double down on it in the comments: like when the crane is a crone's finger, in the comments make it a whole bony hand of an ancient and giant witch, reaching up from the depths to ward off the demons... or something like that.
+* running with the shutters wide-open on the surface, stacks are blowing smoke/coal or shooting flame (whatever the song says)
+* food:
+	* the junior crew members have to rotate through cooking duties, like on deadliest catch
+	* clearly one or two of them are far better at it than others
+	* like other books I love, it would be nice to work up a detailed description of the food they eat.
+* At some point you could try working out the specific crew jobs and rotation schedules as background information to support your stories
+* Could the cursing be more along these lines:
+	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemmroidal and sor sphinctor like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
+* Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
+	* I don't think this will make it into the first book or short story
+	* But a pigeon might be a good logo, because:
+		* Herschel
+		* messenger pigeons are vaguely logistics-related
+		* the perfect dirty grimy animal for a dirty grimy world
+	* You could start using a pigeon logo on the website immediately though
+		* perhaps to be incorporated into the book1 cover at some point
+		* ask Dave to draw you vector line-drawing?
+* Can't hurt for driving plot forward to have two characters with no fear of death. 
+* though you want them up against characters who are TERRIFIED of death of course if you want to capture that staring-at-dials/The Haunting/Shirley Jackson tension.
+* you need characters that aren't too passive. think of mike hammer in mickey spillane's stories.
+	* you need a hot-head; not just grumpy resentment (like Chips) but who gets angry quickly and wants to charge into action
+		* it would be interesting to make this an element of Percy's character, particularly if Freddie is always-cool
+		* Like the aggressive boss/reasonable sub-boss relationship you see so often in industry
+		* this could tap into chain-of-command issues, like the Tenerife airport disaster. Something bad happens because someone doesn't want to challege the captain.
+		* this would be way more interesting than just having everyone working to the best of their abilities ala star trek
+		* make the captain lovable, but falable. this aspect of tony soprano is worth copying
+* The captain is the only person who refers to the ship as 'she' 
+	* everyone else refers to it as 'the boat'
+* just for a rough sense of scale, the average novel has:
+	* 300 words per page
+	* 3000 words per chapter
+	* 90,000 words for a novel.
 
+
+
+
+### pacing elements that can be used:
+	* report outs or lists of broken things, things being repaired, things fixed
+	* characters have to grab handholds and stand sloped against a sudden angle change in the boat
+	* they are constantly wiping their hands on greasy rags. The rags hang from hooks all around the ship. they have metal grommets in the rags to keep them from falling off the hooks.
+	* rolling/lighting/smoking a cigarette/cigar/pipe/flavored tobacco/joint
+	* popping nodoze pills
+	* drinking massive amount of coffee
+	* eating snacks at their stations
+	* drinking water or liquor from tin cups -- maybe coated in rubber for noise attenuation.
+	* a shift change: someone comes up from below to relieve someone on watch
+	* tossing something at a rat; watching a rat; rat does something interesting (wanders off with a slice of pizza like)
+	* sharpening a grease pencil with a penknife
+	* equalizing pressure in their ears
 
 
 
