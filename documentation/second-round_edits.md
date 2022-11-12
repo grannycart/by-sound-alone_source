@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: Fri Nov 11, 2022  03:22PM
+Last modified: Fri Nov 11, 2022  07:10PM
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -125,6 +125,8 @@ Edits to pick up in second full pass through the book
 * [ ] Make a reference to the head --- a joke about how complex it is to operate.
 * [ ] Have someone wash their hands with salt water soap
 * [ ] Make Vickers the bartender at the depot pub? Make it the nub pub?
+* [ ] At the depot, they need to restock ciarettes and cigarillos
+	* Maybe Percy switches to cheroots
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* [ ] Ask A what plants could actually grow on a sub
 * [ ] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
