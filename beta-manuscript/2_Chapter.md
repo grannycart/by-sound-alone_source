@@ -34,7 +34,7 @@
 [//]: # (### They talk about why the sub with the ram is pursuing them)
 
 
-# Chapter 2
+# 2. The _Gnat_
 
 
 [//]: # (### Surfaced)

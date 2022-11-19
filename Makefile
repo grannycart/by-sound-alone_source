@@ -10,7 +10,7 @@ TITLE = title.txt
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file -- only used in epub:
 METADATA = metadata.xml
 # I believe separate chapter files are just separated by a space -- see maintainer version to check
-CHAPTERS = full-draft-manuscript/two_preface.md full-draft-manuscript/1_Chapter.md full-draft-manuscript/2_Chapter.md full-draft-manuscript/3_Chapter.md full-draft-manuscript/4_Chapter.md full-draft-manuscript/5_Chapter.md full-draft-manuscript/6_Chapter.md full-draft-manuscript/7_Chapter.md full-draft-manuscript/8_Chapter.md ./LICENSE.txt
+CHAPTERS = beta-manuscript/two_preface.md beta-manuscript/1_Chapter.md beta-manuscript/2_Chapter.md beta-manuscript/3_Chapter.md beta-manuscript/4_Chapter.md beta-manuscript/5_Chapter.md beta-manuscript/6_Chapter.md beta-manuscript/7_Chapter.md beta-manuscript/8_Chapter.md ./LICENSE.txt
 TOC = --toc --toc-depth=1
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
 COVER_IMAGE = cover/pre-release-draft-front-cover-layout.png
@@ -44,7 +44,7 @@ txt: $(BUILD)/txt/$(BOOKNAME).txt
 
 md: $(BUILD)/markdown/$(BOOKNAME).md
 
-$(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) full-draft-manuscript/one_diagrams.md $(CHAPTERS)
+$(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) beta-manuscript/one_diagrams.md $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
 # 	the .epub target includes one_diagrams.md so the diagrams get included in the .epub
 # 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.

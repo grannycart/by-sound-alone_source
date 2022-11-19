@@ -1,9 +1,9 @@
 ---
-title: An Untitled Novel With Some Submarines in it. Also a Pigeon.
+title: An Untitled Novel With Submarines. Also a Pigeon.
 author: Mark Torrey
-subtitle: Pre-release version. This is a draft version of this book. For more information visit --- grannycart.net/subworld-pages/ 
-rights: Pre-release version. © 2021 Mark Torrey, CC BY-NC-SA --- see license attached at end of file.
-description: A couple of submarines chase each other through the ocean.
+subtitle: Beta version. For more information visit --- grannycart.net/subworld-pages/ 
+rights: Beta version. © 2021 Mark Torrey, CC BY-NC-SA --- see license attached at end of file.
+description: Submarines chase each other through the ocean.
 cover-image: ./cover/pre-release-draft-front-cover-layout.png
 ...
 

@@ -28,7 +28,7 @@
 [//]: # (### They drift away on a current)
 
 
-# Chapter 6
+# 6. Stilt City
 
 
 [//]: # (### Daytime running in the fog)

@@ -4,7 +4,7 @@
 [//]: # (This is _two_ underscore preface because it should come after the diagrams.)
 
 
-# Preface to The Pre-release Draft
+# Preface to the Beta Version
 
 This first 500 words isn't the preface. It's the preface to the Preface to The Pre-release Draft.
 
