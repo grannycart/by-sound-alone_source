@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Wed Nov 02, 2022  03:26PM
+Last modified: Sun Nov 20, 2022  10:38AM
 
 
 # notes on sub diagrams
@@ -18,6 +18,7 @@ Last modified: Wed Nov 02, 2022  03:26PM
 	* [X] add 'sail' label to diagrams (since it's a technical term you use often in the book)
 	* [X] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
 	* [X] make sure label diagram for sonar compartment includes navigation and radar as well
+	* [ ] add speckle-noise to the diagrams to give the impression that they are old blueprints?
 	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
 	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
 	* [X] change cargo 'bays' to cargo holds

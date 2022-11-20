@@ -1,5 +1,5 @@
 
-# Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)
+# Manuscript Draft --- A Novel With Some Submarines In It (Beta version)
 * By Mark Torrey
 
 
@@ -12,7 +12,7 @@
 ## Repo contents:
 * **cover/**: The cover graphic files.
 * **documentation/**: Todo lists and other documentation.
-* **full-draft-manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
+* **beta-manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
 * **sub-diagrams/**: Digrams of protaganist submarines in book.
 
 
