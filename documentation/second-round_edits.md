@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: Sun Nov 13, 2022  01:31PM
+Last modified: Sun Nov 20, 2022  03:28PM
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -14,6 +14,11 @@ Edits to pick up in second full pass through the book
 
 ## General plot and character edits (throughout book)
 :plot:
+* [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
+	* (see notes in research files)
+	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
+		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
+	* This is referenced in the first 1000k words of the book
 * [ ] Could the cursing be more along these lines:
 	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
 * [ ] Can't hurt for driving plot forward to have two characters with no fear of death. 
@@ -51,10 +56,6 @@ Edits to pick up in second full pass through the book
 		* It becomes a bit of a story about the wider world: shifting towards globalized markets, away from independent operators
 			* It would be nice if this also hinted at the *problems* with globalized markets; beyond the fact of putting independent logistics workers out of business 
 		* give the one-armed captain back his arm
-* [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
-	* (see notes in research files)
-	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
-		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
 * [ ] Consider removing parts where Percy second-guesses herself.
@@ -111,7 +112,7 @@ Edits to pick up in second full pass through the book
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* [ ] Ask A what plants could actually grow on a sub
 	* pot? See note on motivating Shakes
-* [ ] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
+* [X] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
 	1. Tablemount
 	2. The _Gnat_
 	3. Depot
