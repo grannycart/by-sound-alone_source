@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: Sun Nov 20, 2022  03:28PM
+Last modified: Sun Dec 04, 2022  11:56AM
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -18,7 +18,7 @@ Edits to pick up in second full pass through the book
 	* (see notes in research files)
 	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
 		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
-	* This is referenced in the first 1000k words of the book
+	* This is referenced first right at about 1000k words
 * [ ] Could the cursing be more along these lines:
 	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
 * [ ] Can't hurt for driving plot forward to have two characters with no fear of death. 
@@ -66,6 +66,11 @@ Edits to pick up in second full pass through the book
 * [ ] Develop Gregory character more, especially since he dies. Show some ties that brought that particular crew together
 * [ ] have the junior crew call hemi 'boss'
 * [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'
+* [ ] There is never a reason to describe the race of a non-white character if you didn't have a reason to describe the race of a white character
+	* Sometimes you do need to describe the CULTURAL background of characters (regardless of race)
+	* Sometimes the point of the cultural background is that the character has rejected it.
+	* Or if there's a default cultural background to the scenes of the book (there always is, it HAS to be -- you can't remove cultural background from your head)
+		* Then maybe for certain characters they are all about rejecting that default cultural background (punk rock) 
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 	* Also see B's note on using bearings earlier
 * [ ] make consistent whether numbers are written out or not
@@ -99,6 +104,7 @@ Edits to pick up in second full pass through the book
 ## Specific scene edits
 :scene:
 * [ ] make sure you make it clear early on that Hemi is the 'Deck Boss'
+* [ ] make sure there's a scene where Percy understands something is wrong with her boat just by feeling it. (Like the DC captains knowing there's a leak just by the pitch of the roll)
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
 * [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
 	* [ ] also the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
@@ -325,6 +331,7 @@ Edits to pick up in second full pass through the book
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
 * [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
+* [ ] Find and replace: Trinity as a name
 
 
 

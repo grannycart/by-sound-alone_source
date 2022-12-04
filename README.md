@@ -11,7 +11,7 @@
 
 ## Repo contents:
 * **cover/**: The cover graphic files.
-* **documentation/**: Todo lists and other documentation.
+* **notes-and-edits/**: Todo lists and other documentation.
 * **beta-manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
 * **sub-diagrams/**: Digrams of protaganist submarines in book.
 
@@ -60,7 +60,7 @@
 [//]: # (* Cover from covervault: * https://covervault.com/)
 
 ## Documentation:
-* [Notes and todos](documentation/index-notes_and_todos-subworld_book1)
+* [Notes and todos](notes-and-edits/index-notes_and_todos-subworld_book1)
 	* See this file for detailed list of notes files
 
 
