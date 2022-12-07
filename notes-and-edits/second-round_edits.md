@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: Sun Dec 04, 2022  11:56AM
+Last modified: Tue Dec 06, 2022  11:00PM
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -22,17 +22,17 @@ Edits to pick up in second full pass through the book
 * [ ] Could the cursing be more along these lines:
 	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
 * [ ] Can't hurt for driving plot forward to have two characters with no fear of death. 
+	* Bastian might be a good candidate for this, to give him a little more depth
 	* though you want them up against characters who are TERRIFIED of death of course if you want to capture that staring-at-dials/The Haunting/Shirley Jackson tension.
 * [ ] you need characters that aren't too passive. think of mike hammer in mickey spillane's stories.
 	* you need a hot-head; not just grumpy resentment (like Chips) but who gets angry quickly and wants to charge into action
 		* it would be interesting to make this an element of Percy's character, particularly if Hemi is always-cool
 		* Like the aggressive boss/reasonable sub-boss relationship you see so often in industry
-		* [ ] this could tap into chain-of-command issues, like the Tenerife airport disaster. Something bad happens because someone doesn't want to challenge the captain.
+		* this could tap into chain-of-command issues, like the Tenerife airport disaster. Something bad happens because someone doesn't want to challenge the captain.
 		* this would be way more interesting than just having everyone working to the best of their abilities ala star trek
 		* make the captain lovable, but falable. this aspect of tony soprano is worth copying
 * [ ] The captain is the only person who refers to the ship as 'she' 
 	* everyone else refers to it as 'the boat'
-* [ ] Create a new reference to the 'sub with the ram' so you don't have to use that awkward phrasing all the time
 * [ ] fuel oil -- is what fuel is called
 * [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
 	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
@@ -49,6 +49,7 @@ Edits to pick up in second full pass through the book
 		* Should she be more of an Irene character?
 			* If Irene... could be more like the Irene character: liberal idealistic, smarter than everyone else -- conflict with Percy becomes more of a thing about what they see as (politically?) right?
 			* Possibly "Rena" -- nickname for Irene
+	* [ ] play up the "Handsome Gregory" (a subtle reference to Gregory Peck) joke some more at some point.
 * [ ] Fix motivation for chase:
 	* (every reader comments on this -- none of them are getting your idea that the one-armed captain is just going through the motions for no reason other than not knowing what else to do)
 	* A possibility: The sub with the ram is after them because a global bounty has been declared on illicit cargo subs.
@@ -63,7 +64,8 @@ Edits to pick up in second full pass through the book
 	* On the othe hand, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
 		* and Percy is NOT always right, just most of the time.
-* [ ] Develop Gregory character more, especially since he dies. Show some ties that brought that particular crew together
+* [ ] Develop Gregory character more, especially since he dies. 
+	*  Show some ties that brought that particular crew together?
 * [ ] have the junior crew call hemi 'boss'
 * [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'
 * [ ] There is never a reason to describe the race of a non-white character if you didn't have a reason to describe the race of a white character
@@ -103,21 +105,86 @@ Edits to pick up in second full pass through the book
 
 ## Specific scene edits
 :scene:
+* [ ] Need to include a description of Percy somewhere early in the book
+	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
+* [ ] Subtly reinforce Percy's beauty in more places?
+	* Right now I think she reads more like the elder captain she will be in later stories
+	* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
+	* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
 * [ ] make sure you make it clear early on that Hemi is the 'Deck Boss'
-* [ ] make sure there's a scene where Percy understands something is wrong with her boat just by feeling it. (Like the DC captains knowing there's a leak just by the pitch of the roll)
+* [ ] Don't forget Hemi wears small-framed spectacles
+* [X] make sure there's a scene where Percy understands something is wrong with her boat just by feeling it. (Like the DC captains knowing there's a leak just by the pitch of the roll)
+	* This happens right at the beginning with the first ramming.
+	* And again when she first notices the boat sinking with the leak in the cargo hold
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
 * [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
 	* [ ] also the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
 * [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
+* [ ] Create a new reference to the 'sub with the ram' so you don't have to use that awkward phrasing all the time
+	* Maybe somehow they know the name of the sub with the ram, even if they don't know the name of the captain.
+	* Or maybe it's like butch cassidy and the sundance kid: where they just assume it's someone based on an assumption (though they later confirmed it by reading in the paper -- maybe someone in the depot or stilt city fills them in.)
 * [ ] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
 * [ ] Make a reference to the head --- a joke about how complex it is to operate.
+	* Have Shakes say he needs to take a dump, someone warns him about reading the instructions first. or, he asks about instructions saying it's been a while since he used the head on a real sub
+		* (has to be while they are submerged) 
 * [ ] Have someone wash their hands with salt water soap
-* [ ] Make Vickers the bartender at the depot pub? Make it the nub pub?
-* [ ] At the depot, they need to restock cigarettes and cigarillos
-	* Maybe Percy switches to cheroots
+* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
+* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
+	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* [ ] Ask A what plants could actually grow on a sub
 	* pot? See note on motivating Shakes
+* [ ] make sure you only explain active sonar once
+	* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
+* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
+* [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
+	* [ ] add something about Cassandra listening to music? 
+* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
+	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
+	* pretty sure I HAVE this, confirm
+* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
+	* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
+* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+	* Maybe with shakes over ship-to-ship, just to keep it interesting
+	* Maybe Shakes wonders if it's moral to run weapons
+	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
+	* Though that rebel group might be the oppressors in 6 months
+	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
+	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
+* depot:
+	* [ ] Make Vickers the bartender at the depot pub? Make it the nub pub?
+	* [ ] Change it so Percy knows about the weapons job at the depot beforehand:
+		* [ ] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
+			* See K's note on Shakes motivation to help
+		* [ ] so you have to remove references to Shakes leading them to depot
+		* [ ] Have to revise the meeting Trinity scene so it seems intentional
+		* [ ] This can help lead the book along in the first part:
+			* What is this mysterious job at the depot Percy is going for?
+			* It seems somewhat nefarious, is it connected to the sub pursuing them? (It is, though maybe that's never made explicit, or it's tied to the conversation about the morality of running weapons)
+			* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
+			* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
+	* [ ] At the depot, they need to restock cigarettes and cigarillos
+		* Maybe Percy switches to cheroots
+	* [ ] Edit descriptions of Cassandra: see B and C's notes
+* stilt city: 
+	* [ ] Fix Sturmey:
+		* needs a new name,
+		* less asian,
+		* different distinction for dialog
+* garbage gyre:
+	* [ ] Add a scene where the outside landscape is detected on sonar:
+		* huge sunken wrecked vehicles
+		* maybe getting towards the gargbage gyre -- ships that have sunk
+		* like the dream I had
+	* [ ] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
+* [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
+	* See C's note on beefing up Owen character to be more significant
+	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
+	* I like that this will play in later when they decide what to do when they find out that Owen slept with the ramming sub's captain's wife.
+	* though maybe this human relations element is covered by the fight with Chips
+* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
+	* I don't think this will make it into the first book or short story
+* [ ] Final bbq scene: see Shakes' notes below
 * [X] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
 	1. Tablemount
 	2. The _Gnat_
@@ -129,60 +196,6 @@ Edits to pick up in second full pass through the book
 	8. Down The Hole
 	* (Consider making much shorter chapters -- maybe breaks by scene?)
 	* (Or, make the current chapters "sections" and then subdivide with unlabeled dividers)
-* [ ] Need to include a description of Percy somewhere early in the book
-	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
-	* [ ] Subtly reinforce Percy's beauty in more places:
-		* Right now I think she reads more like the elder captain she will be in later stories
-		* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
-		* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
-* [ ] make sure you only explain active sonar once
-	* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
-* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
-* [ ] Add a scene where the outside landscape is detected on sonar:
-	* huge sunken wrecked vehicles
-	* maybe getting towards the gargbage gyre -- ships that have sunk
-	* like the dream I had
-* [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
-	* [ ] add something about Cassandra listening to music? 
-* [ ] Fix Sturmey:
-	* needs a new name,
-	* less asian,
-	* different distinction for dialog
-* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
-	* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
-* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
-	* Maybe with shakes over ship-to-ship, just to keep it interesting
-	* Maybe Shakes wonders if it's moral to run weapons
-	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
-	* Though that rebel group might be the oppressors in 6 months
-	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
-	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-* [ ] Change it so Percy knows about the weapons job at the depot beforehand:
-	* [ ] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
-		* See K's note on Shakes motivation to help
-	* [ ] so you have to remove references to Shakes leading them to depot
-	* [ ] Have to revise the meeting Trinity scene so it seems intentional
-	* [ ] This can help lead the book along in the first part:
-		* What is this mysterious job at the depot Percy is going for?
-		* It seems somewhat nefarious, is it connected to the sub pursuing them? (It is, though maybe that's never made explicit, or it's tied to the conversation about the morality of running weapons)
-		* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
-		* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
-* [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
-	* See C's note on beefing up Owen character to be more significant
-	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
-	* I like that this will play in later when they decide what to do when they find out that Owen slept with the ramming sub's captain's wife.
-	* though maybe this human relations element is covered by the fight with Chips
-* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
-* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
-	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
-* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
-	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
-	* pretty sure I HAVE this, confirm
-* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
-	* I don't think this will make it into the first book or short story
-* [ ] Final bbq scene: see Shakes' notes below
-* [ ] Edit descriptions of Cassandra: see B and C's notes
-
 
 
 ## Feedback from test readers

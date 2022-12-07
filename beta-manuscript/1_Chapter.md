@@ -78,9 +78,7 @@ As with many things that seem interminable, the slow but persistent forward moti
 
 Captain Percy knew her boat well. She had spent enough time with it to have internalized its movements. She almost always knew what the boat was doing just by the feeling of it --- the angle of the deck, the vibrations of the engines or the electric motors, the subtle changes to the pressure of the air. Even at depth --- when the hull and struts of the boat groaned under the weight of the water above --- to her the sounds of the boat under pressure felt like the normal sounds of a huge human taking a great weight on its shoulders. The only time she ever worried was when the _Prospect_ conveyed sounds, or motions, or some other input that she could not recognize. She had been through so much with this boat that it was only when it did something new that she got really scared.
 
-[//]: # (--- EDITED TO HERE ---)
-
-It was when the *Prospect had gotte fully out from under the clouds, and everything was lit to a dull blue by the moon, that she felt something new. A collection of haptic feedback to her senses made panic rise in her chest. The boat shuddered, as if the cold water it swam through all these years had finally chilled its core. 
+It was when the _Prospect_ had moved fully out from under the clouds, and everything was lit to a dull blue by the moon, that she felt something new. A collection of haptic feedback to her senses made panic rise in her chest. The boat shuddered, as if the cold water it swam through all these years had finally chilled its core. 
 
 Captain Percy was thrown violently against the fairing.
 
@@ -90,13 +88,13 @@ She immediately dropped to her knees on the deck of the bridge, her stubby finge
 
 The bow of the _Prospect_ had come to a dead stop, but the stern still had forward motion. Captain Percy could feel the whole boat turning unnaturally around its center axis, like the experiment of some child: a magnetized pin through a cork floating in a bowl of water pulled around by the invisible forces of a planetary aura. 
 
-The deck under her began to lean to the starboard side. Captain Percy braced one foot against the inside of the bridge well wall. The boat listed sickeningly. Captain Percy got to her feet, still braced against the angle of the boat. The pads of her fingers gripped the sharp rusted edges of the fairing, and she peered out over it into the night, scanning for what her boat had hit. The water remained black and calm, though not quite as glassy as it had been earlier in the night. They were far from shore, in fairly well-charted though little-trafficked waters. The _Prospect_ had clearly hit something, but there should have been nothing to hit here.
+The deck under her began to lean to the starboard side. Captain Percy braced one foot against the inside of the bridge well wall. The boat listed sickeningly. She got to her feet, still braced against the angle of the boat. The pads of her fingers gripped the sharp rusted edges of the fairing, and she peered out over it into the night, scanning for what they had hit. The water to the starboard side remained black and calm, though not quite as glassy as it had been earlier in the night. They were far from shore, in fairly well-charted though little-trafficked waters. The _Prospect_ had clearly hit something, but there should have been nothing to hit here.
 
-For a few moments the _Prospect_ hung at an angle, and then began to right itself, tilting slowly back towards the port side. As the edge of the fairing came down, Captain Percy could see more of the sea off to port, and there appeared the shadowed silhouette of another submarine. 
+For a few moments it hung at an angle, holding the angle with no motion and all potential. And then it began to right itself, tilting slowly back towards the port side. As the edge of the fairing came down, Captain Percy could see more of the sea off to port, and there appeared the shadowed silhouette of another submarine. 
 
-The bow of the other submarine rose up out of the water first, revealing one of the rarest things seen on a modern submarine: a distinguishing feature. The bow had a modified and reinforced jagged point which swept back in long sharp blades to merge incongruously into the soft curves of the submarine's hull. A medieval-looking device intended for ramming ships. Captain Percy had never seen anything like it. It must be both a noisy and inefficient thing for a sub to push through the water ahead of it. Efficiency and quiet were normally the top priorities for a submarine's design.
+The bow of the other submarine rose up out of the water first, revealing one of the rarest things seen on a modern submarine: a distinguishing feature. The bow had a jagged point that swept back in long sharp blades to merge incongruously into the soft curves of the submarine's hull. Curved teeth sprouted all along the blades, which had also been reinforced with welded crossbars in many more places that could possibly be necessary. A medieval-looking device intended for ramming ships. Captain Percy had never seen anything like it. It must be both a noisy and inefficient thing for a sub to push through the water ahead of it. Efficiency and quiet were normally the top priorities for a submarine's design.
 
-From the bow followed the long black smoothly swelling curve of a military submarine. It came up from the surface with water streaming slickly down its sides. The sail rose above with dive planes mounted to it, sticking out like small wings and set at an angle to raise the boat quickly. When the stern finally broke the surface, it was mere meters away from Percy, its swirling wake washing white up the against the side of the _Prospect_. 
+From the snags of the ram in the bow followed the smoothly swelling curve of a black military submarine. It came up from the surface with water streaming slickly down its sides. The sail rose above with dive planes mounted to it, sticking out like small wings and set at an angle to raise the boat quickly. When the stern finally broke the surface, it was mere meters away from Percy, its swirling wake washing white up the against the side of the _Prospect_. 
 
 "Might be our fucking doom a lot sooner than we anticipated." Captain Percy said to herself as she climbed down through the hatch and the red crescent of light waned out of existence behind her.
 
@@ -104,65 +102,68 @@ From the bow followed the long black smoothly swelling curve of a military subma
 
 [//]: # (### They crash dive)
 
-She stood on the metal rungs of the ladder just under the hatch set in the ceiling of the cramped control room of her submarine, and with one hand quickly screwed shut the squeaking wheel of the hatch seal. With the hatch sealed, she dropped to the deck. Hemi looked down at her through his small-framed spectacles.
+She stood on the metal rungs of the ladder just under the hatch set in the ceiling of the cramped control room of her submarine, and with one hand quickly screwed shut the squeaking wheel of the hatch seal before dropping to the deck. Hemi looked down at her through his small-framed spectacles.
 
-"Down." She gave the one-word order as she pushed the button on the wall that activated the dive alarm. 
+"Down." She gave the one-word command as she pushed the button on the wall that activated the dive alarm. 
 
-"Give me full speed forward." Said Hemi. He put one large hand on each of the shoulders of the two men who sat at the controls of the sub and gave them orders to dive the boat. One of these men was a stick-figure of a man who went by moniker Bastian. The other, Gregory, had a meaty square forehead that echoed his meaty square body. Of the two of them, only Gregory looked like he belonged on a submarine.
+"Give me full speed forward." Said Hemi. He put one large hand on each of the shoulders of the two men who sat at the controls of the sub and instructed them to dive the boat. One of these men was a stick-figure of a man who went by moniker Bastian. The other, "Handsome" Gregory, had a meaty square forehead that looked like a miniaturized version of his meaty square body. Of the two of them, only Gregory looked like he belonged on a submarine.
 
 Diving the sub required delicacy even in the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements. Their eyes scanned continually over the wall of dials, gauges, switches and valves in front of them that reflected the red glow of the night lighting. This wall at the front of the con told them the _Prospect's_ angle, depth, speed, systems settings, battery charge --- the whole picture of the boat's orientation and movement. Indeed, this wall plus some of the panels situated to their right and left were the _only_ way to know the status of the boat while it was submerged.  
 
-Gregory and Bastian made adjustments according to Hemi's instructions, choosing carefully which of the dozens of valves mounted on the control panels in front and around them to open or close, or which switches to flip on or off. The submarine let out a long exhale of breath: the air that had held it aloft in the water column being pressed out by an onrush of water from below into the flooding tanks.
+Gregory and Bastian made adjustments according to Hemi's instructions, choosing carefully which of the dozens of valves mounted on the control panels in front and around them to open or close, or which switches to flip on or off. The submarine let out a long exhale of breath: the air that had held it aloft on the surface being pressed out by an onrush of water from below into the flooding tanks.
 
-"Flood the express dive tank." Ordered Hemi. Bastian reached up and opened a valve and water thrust through thick old pipes into the deepest parts of the bow of the boat. It pitched steeply downwards in response and Captain Percy reached to grab cracked leather loops that hung overhead. She angled her feet against the incline and her eyes followed the needle of the depth gauge. 
+"Flood the express dive tank." Said Hemi in a low voice since the tiny space of the control room did at least have the benefit of making it easy to hear.
 
-The ship-to-ship radio above Captain Percy's head lit up. From the radio's speaker a recorded voice began blatting a warning that they were violating the territorial waters of someone they had never heard of; who were authorized by a series of treaties with titles that became acronyms that became words that contributed to further acronyms. The recording ordered them to surface and prepare to be boarded. 
+"Right, Boss." Bastian reached up and opened a valve and water thrust through thick old pipes into the deepest parts of the bow of the boat. The forward part of the boat pitched steeply downwards in response. Captain Percy reached to grab cracked leather loops that hung overhead. She angled her feet against the incline and her eyes followed the needle of the depth gauge. 
 
-Hemi punched the mute button on the radio.
+The ship-to-ship radio above Captain Percy's head lit up. From the radio's speaker a recorded voice began blatting a warning that they were violating the territorial waters of someone they had never heard of; who were authorized by a series of treaties with titles that became acronyms that became words that contributed to further acronyms. The recording concluded by ordering all submerged submarines to surface and prepare to be boarded. 
 
-"Only on the surface do these territories and treaties matter." Said Hemi. Captain Percy nodded.
+Percy reached forward and punched the mute button on the radio.
+
+"Only on the surface do these fucking territories and treaties matter." Said Captain Percy.
+
+Hemi nodded.
 
 "What the fuck happened up there? Gregory asked, his eyes never leaving the wall of dials and gauges in front of him.
 
 "We were hit. Sub with a big ugly fucking ram mounted on the front of it. Totally fucking insane thing for a submarine to have." Said Percy.
 
-"Likely some specialty-built Authority enforcer boat." Said Hemi.
+"Possibly some specialty-built Authority enforcer boat." Hemi sounded unconvinced by his own hypothesis.
 
-[//]: # (Taking out these lines: Percy was pissed. This wouldnt have happened if we had someone listening to the sonar mics while we were running on the surface. We wouldnt have heard them coming over the diesels anyway. Replied Hemi.  We would have known they were there soon enough to take some evasive action at least! Later! We have to deal with being understaffed later. First lets get out from under this.)
-
-There was barely enough space in the control room for 4 people. They were all breathing each other's air and their breath condensed on the glass faces of the dials and gauges. Hemi took a rag from a hook and fastidiously wiped each of the little round windows clean. 
+There was barely enough space in the control room for 4 people. They were all breathing each other's air and their breath condensed on the glass faces of the dials and gauges. Hemi took a rag from a hook and reached in front of the two seated men to fastidiously wiped each of the little round windows clean. 
 
 "100 meters." Said Gregory.
 
-"OK. Level us off." Said Hemi. Gregory and Bastian spun closed some of the trim tank valves and rolled the dive planes level. The angle of the boat slowly eased upwards. 
+"OK. Level us off." Said Hemi. Gregory and Bastian spun closed some of the trim tank valves and rolled the dive planes level. The angle of the boat slowly eased upwards bringing the deck beneath their feet level. 
 
-Hemi stood staring at the dials in front of Bastian and Gregory, his massive arms crossed in the rough rough wool of his tightly-fitted tweed suit jacket. He tapped the thick fingers of one hand against the leather elbow patches while his other hand stroked his wiry black beard.
+Hemi stood staring at the dials in front of Bastian and Gregory, his massive arms crossed in the rough wool of his tightly-fitted tweed suit jacket. He tapped the thick fingers of one hand against the leather elbow patches while his other hand stroked his wiry black beard. He gave a few more instructions and got the boat moving slowly and silently, running level at depth. The idea was to sneak quietly away --- the most routine tactic of all submarines. But the routineness of it did not reduce the sense that they were playing the role of prey. 
 
-Running level at depth, they got the boat moving slowly and silently. The idea was to sneak quietly away --- the most routine tactic of all submarines. But the routine of it did not reduce the feeling of being prey. Captain Percy pulled out another cigarillo and lit it. She sucked at it, and then ashed it into a tin cup that smelled of her stale coffee from three hours earlier. 
+Captain Percy pulled a new cigarillo from the crinkled pack in her pocket and lit it. She sucked at it, and then ashed it into a tin cup wedged between the pipes running along the wall that smelled of her stale coffee from three hours earlier. 
 
-Being underwater meant they had to run on batteries. The diesel engines the submarine used while surfaced generated power that drove the propellers and charged the batteries. But those engines breathed far more air than humans, and so could not be used underwater. Running on batteries with just the electric motors driving the propellers made the boat nearly completely silent. The electric motors produced a hum that was audible inside the boat, but barely detectable by another vessel. Eventually the batteries would run out though, and they would have to get back up on the surface to recharge the batteries with the diesels.
+Being underwater meant they had to run on batteries. The diesel engines the submarine used while surfaced generated power that drove the propellers and charged the batteries. But those engines breathed far more air than humans, and so could not be used underwater. Running on batteries with just the electric motors driving the propellers made the boat nearly completely silent. The electric motors produced a hum that was audible inside the boat (Percy always thought it to be a pleasant, reassuring hum), but was barely detectable by another vessel. Eventually the batteries would run out though, and they would have to get back up on the surface to recharge the batteries with the diesels.
 
 
 [//]: # (### They realize there's something wrong)
 
-But Captain Percy's intuition was plaguing her again. "Something isn't fucking right." She said aloud to no one in particular. 
+But Captain Percy's intuition was plaguing her again. "Something isn't fucking right." She said aloud to no one in particular. Like when they had been rammed, the _Prospect_ was again doing something new. But this time it wasn't a quick jolt like the ramming had been. It was something so subtle, such a delicate change in the motion of the boat, that the others did not feel it at all. Actually, she was not even sure it was a change in the _motion_ of the boat. Maybe it was something that wasn't making sense in the information she was getting from the gauges. 
 
-She could again feel something was wrong with her boat.
-
-There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the total status of the boat. All the instruments had to be taken together, internalized, and combined with what one physically felt the boat doing. Percy would typically be holding the depth in her head, while taking also taking into account the dive plane angle, the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at this wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
+There was no single instrument that reported anything amiss. But then no single instrument on a submarine described the total status of the boat. All the instruments had to be taken together, internalized, and combined with what one physically felt the boat doing. Percy would typically be holding the depth in her head, while also taking into account the dive plane angle, the speed, and the overall feeling of the boat. Normally this happened instinctively. She processed it all automatically, and she could just _know_ what her boat was doing from a quick glance at the wall of dials combined with what her senses told her and dead reckoning from the accelerations she had experienced.
 
 This feeling of internalizing what her boat was doing --- something she did  continually, to the point where it felt like the boat was part of her body --- was not working right now. 
 
 Her eyes scanned back and forth across the dials, but the information did not come together. There was no way to make sense of the dials. In this steel tube with no windows, perhaps for the first time ever, she felt blind.
 
-"Hemi... what the fuck is going on...?" She was turning red with frustration and she could feel her eyes watering. Fortunately in the dim red lighting, no one would see that.
+"Hemi... what the fuck is going on...?"
 
-"I don't know..." He reached past Gregory and turned the rudder. The boat came along, slowly. "Sluggish?"
+"I do not know... we are within normal tolerances... though..." He reached past Gregory and turned the rudder. The boat came along, slowly. "Sluggish?"
 
 
 [//]: # (### Captain Percy goes looking for what's wrong)
 
 "I need to go look her over. Let me know on the PA if something happens." 
+
+[//]: # (--- EDITED TO HERE ---)
+
 Hemi nodded and Captain Percy slipped down the ladder to the deck below. She stepped to the front of the navigation and sonar compartment and climbed down a steel ladder to the middle deck of the boat. This was crew quarters. The _Prospect's_ third deck-crew member, Owen, was off watch and snoring in his rack behind one of the moth-eaten old bed curtains. She continued through a hatch at the rear end of crew quarters and down another steel ladder to the lowest of the three main decks. If there were something physically wrong with her boat, this deck was the most likely place to figure out what it was.
 
 She flipped on the lights. There was no red night lighting rigged down here, it was just bare white bulbs behind protective cages. The lights stretched off in a line on the ceiling, forward and aft of her. This entire lower deck compartment was full of batteries, strung together with a rat nest of black cables as thick as her finger. The cables were grouped together with wire ties and slung along the racks in heavy bundles. The batteries were bolted with rusting steel straps to row upon row of steel shelves. 
