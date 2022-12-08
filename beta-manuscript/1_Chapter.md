@@ -162,11 +162,11 @@ Her eyes scanned back and forth across the dials, but the information did not co
 
 "I need to go look her over. Let me know on the PA if something happens." 
 
+Hemi nodded and Captain Percy slipped down the ladder to the deck below. She stepped to the front of the navigation and sonar compartment and climbed down a steel ladder to the middle deck of the boat. This was crew quarters. The _Prospect's_ third deck-crew member, Owen Smalls, was off watch and snoring in his rack behind one of the moth-eaten old bed curtains. She continued through a hatch at the rear end of crew quarters and down another steel ladder to the lowest of the three main decks. If there were something physically wrong with her boat, this deck was the most likely place to figure out what it was.
+
+She flipped on the lights. There was no red night lighting rigged down here, it was just bare white bulbs behind protective cages. The lights stretched off in a line on the ceiling, forward and aft of her. This particular lower-deck compartment was entirely full of batteries, strung together with a rat's nest of black cables as thick as her finger. The cables were grouped together with wire ties and slung along the racks in heavy bundles. The batteries were bolted with rusting steel straps to row upon row of steel shelves. 
+
 [//]: # (--- EDITED TO HERE ---)
-
-Hemi nodded and Captain Percy slipped down the ladder to the deck below. She stepped to the front of the navigation and sonar compartment and climbed down a steel ladder to the middle deck of the boat. This was crew quarters. The _Prospect's_ third deck-crew member, Owen, was off watch and snoring in his rack behind one of the moth-eaten old bed curtains. She continued through a hatch at the rear end of crew quarters and down another steel ladder to the lowest of the three main decks. If there were something physically wrong with her boat, this deck was the most likely place to figure out what it was.
-
-She flipped on the lights. There was no red night lighting rigged down here, it was just bare white bulbs behind protective cages. The lights stretched off in a line on the ceiling, forward and aft of her. This entire lower deck compartment was full of batteries, strung together with a rat nest of black cables as thick as her finger. The cables were grouped together with wire ties and slung along the racks in heavy bundles. The batteries were bolted with rusting steel straps to row upon row of steel shelves. 
 
 The deck was steel grating. She got to her knees. The steel grating pushing through her brown leather overalls that were cracked with age at the joints where her knees bent. She put her fingers through the grating and lifted it up and put it aside. She reached her hand down and felt the raw steel of the pressure hull. It was cold, damp, and greasy, but that was normal. She replaced the grate and went on to the next compartment forward.
 
