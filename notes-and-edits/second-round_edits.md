@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: Sat Dec 10, 2022  11:00AM
+Last modified: Sat Dec 10, 2022  12:13PM
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -45,13 +45,12 @@ Edits to pick up in second full pass through the book
 	* [-] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
 		* P felt right when I first started using it, but feels less right as I go along
 		* This might be a thing to ask test-reader's feedback on
-	* [ ] The name Chips doesn't feel like it's working
+	* [X] The name Chips doesn't feel like it's working
 		* You have a note about possibly using Irene?
 		* Should she be more of an Irene character?
 			* If Irene... could be more like the Irene character from All in the Family: liberal idealistic, smarter than everyone else -- conflict with Percy becomes more of a thing about what they see as (politically?) right?
-			* Possibly "Rena" -- nickname for Irene
+		* Sticking with Chips -- just gave the name a paragraph of background when she shows up
 	* [ ] play up the "Handsome Gregory" (a subtle reference to Gregory Peck) joke some more at some point.
-	* [ ] Zag as a name?
 * [ ] Fix motivation for chase:
 	* (every reader comments on this -- none of them are getting your idea that the one-armed captain is just going through the motions for no reason other than not knowing what else to do)
 	* A possibility: The sub with the ram is after them because a global bounty has been declared on illicit cargo subs.
@@ -170,7 +169,7 @@ Edits to pick up in second full pass through the book
 	* [ ] Edit descriptions of Cassandra: see B and C's notes
 * stilt city: 
 	* [ ] Fix Sturmey:
-		* needs a new name,
+		* needs a new name, maybe Zag something?
 		* less asian,
 		* different distinction for dialog
 * garbage gyre:
