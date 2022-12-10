@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: Tue Dec 06, 2022  11:00PM
+Last modified: Sat Dec 10, 2022  11:00AM
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -14,6 +14,7 @@ Edits to pick up in second full pass through the book
 
 ## General plot and character edits (throughout book)
 :plot:
+* [ ] convert latex style emdashes --- to md style -- on all files
 * [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
 	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
@@ -47,9 +48,10 @@ Edits to pick up in second full pass through the book
 	* [ ] The name Chips doesn't feel like it's working
 		* You have a note about possibly using Irene?
 		* Should she be more of an Irene character?
-			* If Irene... could be more like the Irene character: liberal idealistic, smarter than everyone else -- conflict with Percy becomes more of a thing about what they see as (politically?) right?
+			* If Irene... could be more like the Irene character from All in the Family: liberal idealistic, smarter than everyone else -- conflict with Percy becomes more of a thing about what they see as (politically?) right?
 			* Possibly "Rena" -- nickname for Irene
 	* [ ] play up the "Handsome Gregory" (a subtle reference to Gregory Peck) joke some more at some point.
+	* [ ] Zag as a name?
 * [ ] Fix motivation for chase:
 	* (every reader comments on this -- none of them are getting your idea that the one-armed captain is just going through the motions for no reason other than not knowing what else to do)
 	* A possibility: The sub with the ram is after them because a global bounty has been declared on illicit cargo subs.
@@ -177,6 +179,10 @@ Edits to pick up in second full pass through the book
 		* maybe getting towards the gargbage gyre -- ships that have sunk
 		* like the dream I had
 	* [ ] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
+* bicycle race:
+	* [ ] Keep this? (I'm sort of inclined to, until a professional editor tells me to remove it)
+	* [ ] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
+	* [ ] There is a reference to the bicycles chained up in the hold at word 4427
 * [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* See C's note on beefing up Owen character to be more significant
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
@@ -322,9 +328,10 @@ Edits to pick up in second full pass through the book
 * food:
 	* [ ] the junior crew members have to rotate through cooking duties, like on deadliest catch
 	* [ ] clearly one or two of them are far better at it than others
-	* [ ] like other books I love, it would be nice to work up a detailed description of the food they eat.
+	* [X] like other books I love, it would be nice to work up a detailed description of the food they eat.
 * [ ] a shift change: someone comes up from below to relieve someone on watch
-	* At some point you could try working out the specific crew jobs and rotation schedules as background information to support your stories* report outs or lists of broken things, things being repaired, things fixed
+	* At some point you could try working out the specific crew jobs and rotation schedules as background information to support your stories
+	* report outs or lists of broken things, things being repaired, things fixed
 * [ ] characters have to grab handholds and stand sloped against a sudden angle change in the boat
 * [ ] they are constantly wiping their hands on greasy rags. The rags hang from hooks all around the ship. they have metal grommets in the rags to keep them from falling off the hooks.
 * [ ] rolling/lighting/smoking a cigarette/cigar/pipe/flavored tobacco/joint
