@@ -250,9 +250,9 @@ Captain Percy stepped off the control room ladder and yielded it to Hemi on his 
 
 "Since that sub is going to know where we are anyway, you might as well crank the bilge pumps up to maximum power. Making a bunch of noise is better than sinking."
 
-Gregory flipped some switches and another frequency of vibration was added to the regular background hum from the motors propelling the boat.
+Gregory flipped some switches and another frequency of vibration was added to the regular background hum from the motors propelling the boat. 
 
-"How's she handling generally?" Percy asked.
+Percy lit a cigarillo from the rapidly-depleting pack stashed in the pipes and smoked it down, letting her mind sink into the ever-present hum of the machines that swamped her environment, and ruminating on the gauges. "How's she handling generally?"
 
 "The boat just doesn't seem fucking normal Cap. It doesn't respond how I want it to." Said Bastian.
 
@@ -264,44 +264,40 @@ Captain Percy knew it was worse than that. The sharp list after the delay was th
 
 -----
 
-[//]: # (--- EDITED TO HERE ---)
-
 [//]: # (### Percy goes to check on Chips' progress)
 
 "I... need to go check on Chips." Percy slid back down the ladder from the control room, passed Hemi concentrating on listening to the headphones at the sonar station, and continued forward until she got to the steep metal stairs down into the cargo hold. 
 
-Chips and Owen were working at the far end. Chips was rigging bright work lamps. Owen was dragging one end of a fat gray, grimy hose for an old mobile bilge pump from the pool of black water in the bow of the ship up the middle of the cargo hold towards one of the trim tanks. Chips had a whole set of the deck grates out and stacked up to expose the pond of scummy black water under them. She was wearing thick rubber waders and standing directly on the inside of the pressure hull in the fetid water. The water had pooled up above the grating level and was almost to Chips' chest, a distressing sight that was tempered in Percy's mind by the knowledge that Chips was not a very tall woman. Chips had heavy rubber welding gloves on and a mask so she could see what she was doing under the water. Above the swim mask she wore another dark-lensed mask for welding that could flipped up or down as required for doing the work. 
+Chips and Owen were working at the far end where they had rigged bright work lamps. Owen was dragging one end of a fat gray, grimy hose for an old mobile bilge pump from the pool of black water in the bow up the middle of the cargo hold towards one of the trim tanks. Chips had a whole set of the deck grates out and stacked up to expose the pond of scummy black water under them. She was wearing thick rubber waders and standing directly on the inside of the pressure hull in the fetid water. The water had pooled up above the grating level and was almost to Chips' chest, a distressing sight that was tempered in Percy's mind by the knowledge that Chips was not a very tall woman. Chips had heavy rubber welding gloves on and a mask so she could see what she was doing under the water. Above the swim mask she wore another dark-lensed mask for welding that could flipped up or down as required for doing the work. 
 
 As Percy was walking down the cargo hold Chips' head was disappearing under the surface. Captain Percy stood on the grating above her watching. The welding rig next to her revved up with a groaning whine and a stream of bubbles and flashing blue light pierced through the turbid dark water. When Chips lifted her head up for air, water ran down her mask in rivulets, and drained in a greasy gray stream from her thick braid of hair. Percy asked her for her report.
 
-"Fuck you, ya dominating fucking twat. This is delicate fucking work here, and it needs fucking time. The hull's got hundreds of tiny cracks. It's split open the way ya might break off a piece of cheese -- tiny cracks all the fucking way along. If it were one big crack it would be much fucking simpler. Hand me that fuckin' patch piece by your feet."
+"Fuck you, ya dominating fucking cow. This is delicate fucking work here, and it needs fucking time. The hull's got hundreds of tiny cracks. It's split open the way ya might break off a piece of cheese -- tiny cracks all the fucking way along. If it were one big crack it would be much fucking simpler. Hand me that fuckin' patch piece by your feet."
 
-Captain Percy spat, and her spit tasted oily and gritty. She handed Chips the flat piece of sheet steel, which was coated with a slippery residue. Chips held it against the side of the hull and pulled a hammer from a loop on her waders. She hammered it against the side of the hull with heavy, ringing smacks, shaping it to the interior curve of the boat. Percy was sure she could hear the ring of the hammer traveling along the steel pressure hull all the way to the stern. She could imagine the sound going out into the water, which felt like a violation to her basic instinct to always keep her submarine quiet. Practically though it hardly mattered, since those who pursued them would already know their location anyway. 
+Captain Percy spat, and her spit tasted oily and gritty. She handed Chips the flat piece of sheet steel, which was coated with a slippery residue. Chips held it against the side of the hull and pulled a hammer from a loop on her waders. She hammered it against the side of the hull with heavy, ringing smacks, shaping it to the interior curve of the boat. Percy was sure she could hear the ring of the hammer traveling along the steel pressure hull all the way to the stern. She could imagine the sound going out into the water, which felt like a violation to her basic instinct to always keep her submarine quiet. Practically though, it hardly mattered, since those who pursued them would already know their location anyway. 
 
 Chips took her now properly curved piece of patch steel and submerged into the filth again. 
 
 Percy watched her work for a quarter of an hour or so. Even in that short time she could see the line of water on the hull had visibly risen, crawling its way up the grated deck, slowly consuming her boat. Owen came back and started up the rattly old bilge pump, and with a whine and a rush of water that gave a serpentine life to its hose, it began a losing battle to take back some of the boat from the maw of the beast consuming it.
 
-It was hopeless though. The water level in the cargo hold was rising more slowly, but still rose relentlessly. By the time Chips next brought her head above water, Captain Percy had made a decision she did not want to make. "Keep working." She told Chips.  "I'm going to blow the tanks and bring us up to the surface."
+It was hopeless though. The water level in the cargo hold was rising more slowly now that Chips had some patches in place, but still rose relentlessly. By the time Chips next brought her head above water, Captain Percy had made a decision she did not want to make. "Keep working." She told Chips.  "I'm going to blow the tanks and bring us up to the surface."
 
-"Ah, fuckin' smartest thing ya said yet this fucking day. This course we're pursuing right now is on a fucking trackway to the gates of fucking Hell."
+"Fuckin' smartest thing ya said yet this fucking day. This course we're pursuing right now is on a fucking trackway to the gates of fucking Hell."
 
-Blowing the tanks was an emergency maneuver. It meant opening the valves that would allow air to flow through the convoluted paths of the old pipes of the ship and push into the tops of the main ballast tanks. The air forced in the top of the tanks would push water out the bottom. When enough water was forced out, the huge bubbles of damp, greasy air held at her sides would rapidly raise the submarine up to the surface, like a child being gripped by the armpits and tossed upwards. Fully blowing out the tanks was only ever done in emergencies and drills, and drills were few and far between on a cargo sub like the _Prospect_. It put stresses on the old boat that it was designed to handle -- when it was built more than 20 years ago.
+Blowing the tanks was an emergency maneuver. It meant opening the valves that would allow air to flow through the convoluted paths of the old pipes of the ship and push into the tops of the main ballast tanks. The air forced in the top of the tanks would push water out the bottom. When enough water was forced out, the huge bubbles of damp, greasy air held at her sides would rapidly raise the submarine up to the surface, like a child being gripped by the armpits and tossed upwards. Fully blowing out the tanks was only ever done in emergencies and drills, and drills were few and far between on a cargo sub like the _Prospect_. It put stresses on the old boat, stresses it was designed to handle -- when it was built more than 20 years ago.
 
 
 [//]: # (### Hemi blows the tanks)
 
-Percy climbed back up the stairs to the third deck, moving towards the control room. As she passed Hemi at the sonar station she told him she wanted to blow the tanks. He nodded, as if he had expected that move. "What about the sub following us?" He asked.
+Percy climbed back up the stairs to the third deck, moving towards the control room. As she passed Hemi at the sonar station she told him she wanted to blow the tanks. He nodded, as if he had been expecting it. "What about the sub following us?" He asked.
 
 "We've reached the point where we're better off with them up there than fucking sinking down here." She replied. "I'll be in the control room to keep her stable during the rise. I want you to open the tank blow valves."
 
 "OK." Said Hemi, taking off the headset as he stood up from the sonar station.
 
-[//]: # (Deleting this line here: Up in the control room Percy told Gregory and Bastian her intention to blow the tanks. Right. Said Gregory nervously. Bastian nodded stoically.) 
+The emergency blow station was at the back of the sonar & navigation compartment, where the equipment made a subtle shift from the electrical to the mechanical. It consisted of a number of pipes mounted up against the wall of the compartment. The pipes ran forward and aft from the blow station, off into the many deep, complicated parts of the ship that controlled buoyancy. The pipes had the diameters of large soup cans. They had been re-painted many times, giving them a thick smoothed-over texture, except where the paint had chipped off with flecks of rust. They were stacked up, more than a dozen. Some passed through on their way up to the tank control panel in the control room. Others routed through this compartment simply for the convenience of the engineering of the boat. 
 
-The emergency blow station was at the back of the sonar & navigation compartment, where the equipment made a subtle shift from the technical to the mechanical. It consisted of a number of pipes mounted up against the wall of the compartment. The pipes ran forward and aft from the blow station, off into the many deep, complicated parts of the ship that controlled buoyancy. The pipes had the diameters of large soup cans. They had been re-painted many times, giving them a thick smoothed-over texture, except where the paint had chipped off with flecks of rust. They were stacked up, more than a dozen. Some passed through on their way up to the tank control panel in the control room. Others routed through this compartment simply for the convenience of the engineering of the boat. 
-
-Four of the thickest pipes led from the high-pressure air tanks to the main ballast tanks. There were large valves set in-line in those pipes that could be opened or closed  by turning a heavy nut. Turning the nut required a large wrench.
+Four of the thickest pipes led from the high-pressure air tanks to the main ballast tanks. There were large valves set in-line in those pipes that could be opened or closed by turning a heavy hexagonal nut. Turning the nut required a large wrench.
 
 Hemi stood in front of the pipes and opened a long metal toolbox bolted to the wall between them. From it he took a wrench as long as a forearm -- not Hemi's forearm, but the forearm of an average-sized human. The wrench was wrapped in a heavily-pilled rag that had been dyed a bland gray color from the decades of grease worked permanently into the fibers. He fitted the end of the wrench over one of the heavy nuts controlling the valves.
 
@@ -311,20 +307,23 @@ There was a pause while Captain Percy worked with Gregory to get the trim tanks 
 
 Hemi pushed his fat finger against the cracked black rubber coating of the emergency blow alarm button set in an electrical box between the pipes. A klaxon wailed into the deepest corners of the _Prospect_.  Then he turned the wrench until it was horizontal, aligning it with the run of the pipe. He repeated this action with the sister pipe running just above it. Accompanying each turn was a squeal and a hiss, and then a rush of air moving through the pipe, like the howl of the hunting hounds of an ancient god, riding across the sky. 
 
-The expanding air in the pipes forced their temperature to drop. Their surfaces were instantaneously coated in condensate, which froze and sublimated to vapor, rising up and away from the pipes like two long otherworldly fingers passing through the compartment and gripping the ship. From where Hemi stood, the air in the pipes felt like the shot of a canon moving past him, leaving a trail of smoke marking its path. He had the sense of it pushing out through the ship in every direction. The hissing, flushing sound of compressed air pressing water out passed through the ship, and the very mass of the ship itself shifted under the force of it.
+The expanding air in the pipes forced their temperature to drop. Their surfaces were instantaneously coated in condensate, which froze and sublimated to vapor, rising up and away from the pipes like two long otherworldly fingers passing through the compartment and gripping the ship. From where Hemi stood, the air in the pipes felt like the shot of a canon moving past him, leaving a trail of smoke marking its path. He had the sense of it pushing into every corner of the ship, like blood pumped into the furthest capillaries of a body. The flushing sound of the water pressed out into the sea passed through the ship, and the very mass of the ship itself shifted under the force of it.
 
 "Take us up guys. Set the dive planes, and blow any trim tanks you haven't yet." Gregory and Bastian turned the control wheels. But within seconds Percy again felt her boat moving distressingly like a wounded animal. The stern was rising faster than the bow. The angle of the deck under her feet was leaning in the wrong direction. 
 
-"What's wrong?!" She shouted at Gregory. Her eyes scanning rapidly across the instruments. "Trim!" She started spinning open valves on the tank control panel, trying desperately to level the boat. Gregory's arms were bulging with tensed muscles as he his hands gripped the dive-plane control wheel, trying to angle the bow upwards.  
+"What the fuck is wrong!" She shouted at Gregory. Her eyes scanned rapidly across the instruments. "Trim!" She started spinning open valves on the tank control panel, trying desperately to get more air into the bow and level the boat. Gregory's arms were bulging with tensed muscles as he his hands gripped the dive-plane control wheel, battling to angle the bow upwards.  
 
 A hazard light lit on the tank status panel accompanied by a foul buzzer, the sonic equivalent of an odorized explosive gas. "Hemi!" Percy shouted down through the hatch. "The forward tanks didn't blow!"
 
-"The valve is wide open Sylvia." Hemi said, looking at the indicator on the nut to double-check his work. "The ramming must have pinched closed the high-pressure pipes to the forward ballast tanks."
+"The valve is wide open Sylvia." Hemi said, looking at the indicator etched on the nut to double-check his work. "The ramming must have pinched closed the high-pressure pipes to the forward ballast tanks."
 
-The stern slowed its ascent. The _Prospect_ hung in the water, the bow pitched downwards. "We're no longer rising" said Bastian, looking at the depth gauge. His face gave away none of the terror he felt.
+The stern slowed its ascent. The _Prospect_ hung in the water, the bow pitched downwards. "We're no longer rising" said Bastian, looking at the depth gauge. His voice gave away none of the terror he felt.
 
 Hemi stepped under the hatch up to the control room and looked up at Percy through his the small frames of his glasses. With his height, his face only a few finger-widths from the hatch opening. "Sylvia," he said, "I think we need to start thinking about more drastic measures to get us back on the surface."
 
+[//]: # (--- EDITED TO HERE ---)
+
+-----
 
 [//]: # (### Percy blows the fuel ballast)
 
