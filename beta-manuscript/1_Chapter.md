@@ -319,9 +319,7 @@ A hazard light lit on the tank status panel accompanied by a foul buzzer, the so
 
 The stern slowed its ascent. The _Prospect_ hung in the water, the bow pitched downwards. "We're no longer rising" said Bastian, looking at the depth gauge. His voice gave away none of the terror he felt.
 
-Hemi stepped under the hatch up to the control room and looked up at Percy through his the small frames of his glasses. With his height, his face only a few finger-widths from the hatch opening. "Sylvia," he said, "I think we need to start thinking about more drastic measures to get us back on the surface."
-
-[//]: # (--- EDITED TO HERE ---)
+Hemi stepped under the hatch up to the control room and looked up at Percy through his the small frames of his glasses. With his height, his face was only a few finger-widths from the hatch opening. "Sylvia," he said, "I think we need to start thinking about more drastic measures to get us back on the surface."
 
 -----
 
@@ -329,13 +327,13 @@ Hemi stepped under the hatch up to the control room and looked up at Percy throu
 
 "The fuel ballast?" Percy asked Hemi. There was nothing else.
 
-"Yes, I think we should dump the diesel. Even if we get to the surface, we could lose the boat if the cargo hold keeps flooding and we can not figure out how to empty it. That is a bigger risk than not having enough fuel to get to a port if we do manage to keep the boat on the surface."
+"Yes, I think we should dump the diesel. Even if we get to the surface, we could lose the boat if the cargo hold keeps flooding and we can not figure out how to empty it. That is a bigger risk than not having enough fuel oil to get to a port -- if we do manage to keep the boat on the surface."
 
 Captain Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. For a submarine captain, the situation she now faced was was reduced to a single factor: get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks -- to dump all their diesel fuel in the ocean -- did not require any time to weigh options.
 
 "OK Hemi. Come up here. Keep her under control. I'll blow the fuel ballast myself."
 
-There were in fact two long thin toolboxes bolted to the wall at the emergency blow station. One had the main ballast tank blow wrench, which Hemi had already used. The second toolbox was padlocked. It contained the fuel ballast blow wrench. Just like the main ballast, the fuel tanks could be blown out with high pressure air as well. The difference being that blowing the fuel out of the boat might give them an emergency pocket of air to lift them to the surface, but it left the boat stranded and unable to maneuver.
+There were in fact two long thin toolboxes bolted to the wall at the emergency blow station. One had the main ballast tank blow wrench, which Hemi had already used. The second toolbox was padlocked. It contained the fuel ballast blow wrench. Just like the main ballast, the fuel oil tanks could be blown out with high pressure air as well. The difference being that blowing the fuel out of the boat might give them an emergency pocket of air to lift them to the surface, but it left the boat with no fuel oil -- stranded and unable to maneuver.
 
 Captain Percy was the only person who carried the key to this second toolbox, to ensure the fuel tanks could never be blown accidentally. She unlocked the toolbox and withdrew another wrapped wrench the same length as the tank blow wrench. But this one had a special 5-sided socket that would only fit the nut to open the air line into the fuel ballast tanks -- the fuel ballast could not be blown out with a normal wrench. 
 
@@ -343,27 +341,29 @@ She pushed the emergency blow alarm button again and with the klaxon whining fit
 
 It slowly turned under all her weight. One-quarter turn to the stop at the open position.
 
-Another rush of high pressure air pushed its tendrils through the ship. Their precious diesel fuel -- the only way to escape the lost emptiness of the ocean and return to port -- was thrown away from them, out into the deep waters of the ocean.
+Another rush of high pressure air pushed its tendrils through the ship. Their precious fuel oil -- the only way to escape the lost emptiness of the ocean and return to port -- was thrown away from them, out into the deep waters of the ocean.
 
-Percy could feel the _Prospect_ respond immediately. The angled deck under her feet leveled off, and the bow came up. She climbed up into the control room, which was extremely cramped with three people and one giant filling it.
+Percy could feel the _Prospect_ respond immediately. The angled deck under her feet leveled off, and the bow came up. She climbed to the control room, cramped again with its full complement of three people and one giant.
 
-"Now... now are we rising?" Percy asked after a few minutes. But she was looking at the same gauges as everyone else. She could read them as well as anyone else.
+"Now... now are we fucking rising?" Percy asked after a few minutes. But she was looking at the same gauges as everyone else. She could read them as well as anyone else.
 
-Gregory was tentative. "We're... holding steady." He could not keep the fear out of his voice. 
+"We're... holding." Gregory's voice was tentative and fearful.
 
-Hemi made a few adjustments on the tank trim control panel, and managed to get the _Prospect_ level in the water, but could not get the depth gauge to move. They were still more than 90 meters from the surface.
+Hemi made a few adjustments on the tank trim control panel, and managed to get the _Prospect_ level in the water, but could not get the depth gauge to move. They sat more than 90 meters down from the surface.
 
 Hemi gave his pragmatic analysis. "The fuel ballast tanks just aren't big enough to overcome half our main ballast being flooded."
 
-Percy scanned her eyes back and forth over the gauges, dials, and the settings of the switches looking for something, anything, that could move her boat upward. She pulled a rag from a hook on the wall and reached over Bastian to wipe at the dials. Her hand was shaking.
+Percy scanned her eyes back and forth over the gauges, dials, and the settings of the switches looking for something, anything, that could move her boat upward. She pulled a rag from a hook on the wall and reached over Bastian to wipe at the dials.
 
 "Even if we escape from this pit down here, there's fucking hunters waiting for us up there." Gregory said quietly. 
 
-"They would have heard our emergency blow. They can see we aren't surfacing, so they will believe we are fucking sinking." Said Percy.
+"They would have heard our emergency blow. They can see we aren't surfacing, with any luck, they will believe we are sinking." Said Percy.
 
-"We _are_ sinking, aren't we?" Said Bastian. "Small comfort that they know it too."
+"We _are_ sinking, aren't we?" Said Bastian. "Small fucking comfort that they know it too."
 
-Owen, the youngest of the crew, stuck his head up through the hatch while he stood on the ladder to the control room. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks in the hull wider. The flooding in the cargo hold is getting worse."
+Owen, the youngest of the crew, stuck his head up through the hatch while he stood on the ladder to the control room. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks in the hull wider. The flooding in the cargo hold is getting worse. No, wait, she said to tell you this part exactly: 'the fucking cargo hold of your shitty tub is flooding like a damned bitch in her first season of heat' ...was what she said."
+
+"Her words exactly huh?"
 
 "The pit is black and filled with fucking poison spikes." Said Gregory.
 
@@ -371,8 +371,11 @@ Owen looked at Gregory with a specific question on his face, but asked a differe
 
 "Go back and help Chips. Do anything she asks of you. Get the cargo hold patched and the flooding stopped."
 
-"Alrighty." And Owen's head disappeared back down below.
+"Alrighty." Owen's head disappeared back down below.
 
+[//]: # (--- EDITED TO HERE ---)
+
+-----
 
 [//]: # (### Percy decides to head for the bottom)
 
