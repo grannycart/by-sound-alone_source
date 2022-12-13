@@ -427,7 +427,7 @@ Gregory glanced at Bastian quickly, but returned his eyes to the controls.
 
 "But your stupid fucking point is that it takes a long time on a sub..."
 
-"It takes a long time. From the moment we read it out of the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_ it would still take the better part of a hour. And we'll be hearing the last throes of the boat the whole way down -- the groans of the hull, the creaking supports, the collapsing trim tanks... I like to think the last failure, the big one that sends the wall of water through the boat that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you -- that last failure; I like to think it will be silent. I like the idea that the last thing we will hear is rushing water. Somehow that's a fucking comfort to me."
+"It takes a long time. From the moment we read it off the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_, it would still take the better part of a hour. And we'll be hearing the last throes of the boat the whole way down -- the groans of the hull, the creaking supports, the collapsing trim tanks... I like to think the final failure, the big one that sends the wall of water through the boat that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you -- that last failure; I like to think it will be silent. I like the idea that the last thing we will hear is rushing water. Somehow that's a fucking comfort to me."
 
 "You are a motherfucker Bastian."
 
@@ -447,7 +447,7 @@ Bastian grinned and sucked at the last of his cigarette before stabbing it out i
 
 "OK," Percy said to herself, "The most important thing I need to be able to tell Hemi: how fast are we sinking?"
 
-Figuring this out was a matter of nothing more than reading their fate from the wall of dials and gauges in front of them, with their spindly little black fingers all creeping slowly one way or another depending on what each particular gauge was tasked with monitoring. The individual parts the dials had to play all came together in a symphony that marked time towards some unknown end. It could be their doom, as Bastian had been saying to Gregory, but Percy preferred to leave it unknown.
+Figuring this out was a matter of nothing more than reading their fate from the wall of dials and gauges in front of them, with their spindly little black fingers all creeping slowly one way or another depending on what each particular gauge was tasked with monitoring. The individual parts the dials had to play all came together in a symphony that marked time towards some unknown end. It could be their doom, as Bastian had been saying, but Percy preferred to leave it unknown.
 
 Nearly every gauge mattered to Captain Percy right now. Each represented a variable in the equation that controlled whether they lived or died: speed, battery charge, battery drain rate, the status of the trim tanks, course, rudder, ship angle, dive plane angle... everything mattered. But as in every equation some variables weighed more than others. The two that mattered most to Captain Percy right now were the depth of ship gauge -- which featured in most submarine maneuvers -- and the depth under keel, which told them how far below the ocean bottom was. It rarely factored into a submarine maneuver -- at least in the deep ocean.
 
