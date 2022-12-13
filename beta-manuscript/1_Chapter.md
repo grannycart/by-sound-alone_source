@@ -333,15 +333,15 @@ Captain Percy considered. But sometimes considerations are meaningless. They had
 
 "OK Hemi. Come up here. Keep her under control. I'll blow the fuel ballast myself."
 
-There were in fact two long thin toolboxes bolted to the wall at the emergency blow station. One had the main ballast tank blow wrench, which Hemi had already used. The second toolbox was padlocked. It contained the fuel ballast blow wrench. Just like the main ballast, the fuel oil tanks could be blown out with high pressure air as well. The difference being that blowing the fuel out of the boat might give them an emergency pocket of air to lift them to the surface, but it left the boat with no fuel oil -- stranded and unable to maneuver.
+There were in fact two long thin toolboxes bolted to the wall at the emergency blow station. One had the main ballast tank blow wrench, which Hemi had already used. The second toolbox was padlocked. It contained the fuel ballast blow wrench. Just like the main ballast, the fuel oil tanks could be blown out with high pressure air as well. The difference being that blowing the fuel out of the boat might give them an emergency pocket of air to lift them to the surface, but it left the boat with no fuel -- stranded and unable to maneuver.
 
-Captain Percy was the only person who carried the key to this second toolbox, to ensure the fuel tanks could never be blown accidentally. She unlocked the toolbox and withdrew another wrapped wrench the same length as the tank blow wrench. But this one had a special 5-sided socket that would only fit the nut to open the air line into the fuel ballast tanks -- the fuel ballast could not be blown out with a normal wrench. 
+Captain Percy was the only person who carried the key to this second toolbox, to ensure the fuel oil tanks could never be blown accidentally. She unlocked the toolbox and withdrew another wrapped wrench the same length as the tank blow wrench. But this one had a special 5-sided socket that would only fit the nut to open the air line into the fuel ballast tanks -- the fuel ballast could not be blown out with a normal wrench. 
 
-She pushed the emergency blow alarm button again and with the klaxon whining fit the wrench onto one one of the special nuts controlling the valve in the air pipe. Percy was pretty sure these valves had never been turned before, not even in a drill. They had been painted over many times during the decades the _Prospect_ had been operating. She put all of her weight onto the end of the lever and let out a long groan, but couldn't budge it. She reached for a spare length of pipe that lay mostly forgotten on top of one of the high-pressure pipes against the wall and slipped it over the handle of the wrench to get some more leverage.
+She pushed the emergency blow alarm button again and with the klaxon whining fit the wrench onto one one of the special nuts controlling the valve in the air pipe. Percy was pretty sure these valves had never been turned before, not even in a drill. They had been painted over many times during the decades the _Prospect_ had been operating. She put all of her weight onto the end of the lever and let out a long groan, but couldn't budge it. She reached for a spare length of pipe that lay all but forgotten on top of one of the high-pressure pipes against the wall and slipped it over the handle of the wrench to extend the length and get some more leverage.
 
-It slowly turned under all her weight. One-quarter turn to the stop at the open position.
+The nut slowly turned under all her weight pulling on the end of the extended lever. One-quarter turn to the stop at the open position.
 
-Another rush of high pressure air pushed its tendrils through the ship. Their precious fuel oil -- the only way to escape the lost emptiness of the ocean and return to port -- was thrown away from them, out into the deep waters of the ocean.
+Another rush of high pressure air pushed its tendrils through the ship. Their precious fuel oil -- the only way to escape the lost emptiness of the ocean and return to port -- was thrown away from them, out into the deep waters of the ocean. She repeated the process for nut that controlled the compressed air into the port-side fuel ballast.
 
 Percy could feel the _Prospect_ respond immediately. The angled deck under her feet leveled off, and the bow came up. She climbed to the control room, cramped again with its full complement of three people and one giant.
 
@@ -353,15 +353,15 @@ Hemi made a few adjustments on the tank trim control panel, and managed to get t
 
 Hemi gave his pragmatic analysis. "The fuel ballast tanks just aren't big enough to overcome half our main ballast being flooded."
 
-Percy scanned her eyes back and forth over the gauges, dials, and the settings of the switches looking for something, anything, that could move her boat upward. She pulled a rag from a hook on the wall and reached over Bastian to wipe at the dials.
+Percy scanned her eyes back and forth over the gauges, dials, and the settings of the switches looking for something, anything, that could move her boat upward. She pulled a rag from a hook on the wall and reached over Bastian to wipe at the dials. Then she smashed the meaty part of her hand against the wall next to the primary depth gauge. "Rise you fuckin' bitch!"
 
 "Even if we escape from this pit down here, there's fucking hunters waiting for us up there." Gregory said quietly. 
 
-"They would have heard our emergency blow. They can see we aren't surfacing, with any luck, they will believe we are sinking." Said Percy.
+"They would have heard our emergency blow. They can see we are not surfacing. With any luck, they will believe we are sinking." Said Hemi.
 
 "We _are_ sinking, aren't we?" Said Bastian. "Small fucking comfort that they know it too."
 
-Owen, the youngest of the crew, stuck his head up through the hatch while he stood on the ladder to the control room. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks in the hull wider. The flooding in the cargo hold is getting worse. No, wait, she said to tell you this part exactly: 'the fucking cargo hold of your shitty tub is flooding like a damned bitch in her first season of heat' ...was what she said."
+Owen, the youngest of the crew, stuck his head up through the hatch though remained standing on the ladder to the control room. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks in the hull wider. The flooding in the cargo hold is getting worse. No, wait, she said to tell you this part exactly: 'the fucking cargo hold of your shitty tub is flooding like a damned bitch in her first season of heat' ...was what she said."
 
 "Her words exactly huh?"
 
