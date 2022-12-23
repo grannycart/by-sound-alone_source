@@ -68,7 +68,9 @@ The giant figure, slowly pulled his fingers through his thick beard. "Perfect ni
 
 Hemi put one huge hand on her shoulder and turned to climb down through the hatch. She pulled on her cigarillo and the coal at the tip glowed in the darkness. Her doom would probably eventually be a doom of freezing water, she knew that, but at least tonight it was warm enough to be up on the top of her boat. The blackness lay on it, and she did indeed find some comfort that in the blackness: nobody could see them. If she controlled all the levers of the universe, her vessel would never be seen.
 
------
+[//]: # (-----)  
+[//]: # (-----)  
+[//]: # (-----)  
 
 [//]: # (### They get rammed by a black sub)
 
@@ -97,9 +99,9 @@ The bow of the other submarine rose up out of the water first, revealing one of 
 From the snags of the ram in the bow followed the smoothly swelling curve of a black military submarine. It came up from the surface with water streaming slickly down its sides. The sail rose above with dive planes mounted to it, sticking out like small wings and set at an angle to raise the boat quickly. When the stern finally broke the surface, it was mere meters away from Percy, its swirling wake washing white up the against the side of the _Prospect_. 
 
 "Might be our fucking doom a lot sooner than we anticipated." Captain Percy said to herself as she climbed down through the hatch and the red crescent of light waned out of existence behind her.
-
------
-
+  
+  
+  
 [//]: # (### They crash dive)
 
 She stood on the metal rungs of the ladder just under the hatch set in the ceiling of the cramped control room of her submarine, and with one hand quickly screwed shut the squeaking wheel of the hatch seal before dropping to the deck. Hemi looked down at her through his small-framed spectacles.
@@ -175,9 +177,9 @@ The main cargo hold was one giant void. More than thirty meters long, and almost
 She walked along the center line of the space, listening carefully. It seemed to her there was something wrong with the sound of her footsteps on the metal grating. As she neared the front of the compartment, she realized it was not the quality of the sound of her footsteps, it was that she could hear water trickling faintly. She knelt down and pulled up the grating. There was a pond of oily black water just under the deck level. In it swam a small school of old cigarette butts. Little ripples formed from resonance with the hum of the electric motors, their vibrations passing up the hull and encoding themselves on the scum of the surface here. 
 
 There should not be this much water. Percy now knew exactly what was wrong with her boat: the ramming had cracked the pressure hull, and the _Prospect's_ cargo hold was filling slowly with water.
-
------
-
+  
+  
+  
 [//]: # (### Hemi deals with the pursuing sub in the control room)
 
 "Keep this depth, and course, I will be down in sonar listening for that sub." Hemi climbed down from the cramped control room to the compartment below. From the sonar station he could almost see up into the control room just behind and above him and could still tell the men at the controls of the boat what he wanted them to do. Likewise, Gregory and Bastian could still give him reports on the _Prospect's_ status, albeit with a little more emphasis thrown into their voices so they carried below to Hemi. 
@@ -191,9 +193,9 @@ Hemi didn't bother sitting down at the sonar station, instead he stood behind th
 "Better, but still quite a bit more dive plane angle that I would expect just to keep the boat level," said Gregory.
 
 Hemi did not say out loud what he was thinking: they were sinking.
-
------
-
+  
+  
+  
 [//]: # (### Captain Percy goes to recruit Chips to help fix the leak)
 
 "Sweet fucking hell," Percy said to herself. "Sweet fucking hell!" she repeated at a yell. She ran up the length of the cargo hold, and back into the battery compartments. She pulled the heavy watertight bulkhead closed behind her with a loud metal-on-metal sound, and turned the wheel to seal the cargo hold. It took all her strength; these screw-wheel seals were rarely used, and they were planting themselves ever more firmly into a rusted stasis as time passed.

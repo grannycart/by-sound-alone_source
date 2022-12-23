@@ -10,6 +10,7 @@ TITLE = title.txt
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file -- only used in epub:
 METADATA = metadata.xml
 # I believe separate chapter files are just separated by a space -- see maintainer version to check
+# one_diagrams.md is only added for epub, so it's in that section below, not here. Diagrams are added by hand to pdf for book printing -- see latex notes.
 CHAPTERS = beta-manuscript/two_preface.md beta-manuscript/1_Chapter.md beta-manuscript/2_Chapter.md beta-manuscript/3_Chapter.md beta-manuscript/4_Chapter.md beta-manuscript/5_Chapter.md beta-manuscript/6_Chapter.md beta-manuscript/7_Chapter.md beta-manuscript/8_Chapter.md ./LICENSE.txt
 TOC = --toc --toc-depth=1
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
