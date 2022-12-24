@@ -601,13 +601,11 @@ Hemi nodded.
 
 In the cargo hold, Bastian and Gregory were laying out the heavy cloth-covered hoses down the center of the space and hooking them up to portable electric bilge pumps the size of small refrigerators. Multiple black hoses and thick electrical cables snaked across the floor grating making navigation treacherous.
 
-Owen had his own electric pump -- a smaller one that pumped air -- down at the edge of the black lake and he was feeding an air hose to Chips who was wearing a diving mask connected to the hose. She was kicking to keep her head above water while holding up a welding torch with one hand. The welding torch was connected by its own lines to the tanks in the welding rig propped next to the pump at the edge of the lake. The wheels of the rig had chocks keeping it from rolling into the water.
+Owen had his own electric pump -- a smaller one that pumped air -- down at the edge of the black lake, and he was feeding an air hose to Chips who was wearing a diving mask connected to the hose. She was kicking to keep her head above water while holding up a welding torch with one hand. The welding torch was connected by its own lines to the tanks in the welding rig propped next to the pump at the edge of the lake. Chocks kept the wheels of the rig from rolling into the water.
 
-[//]: # (--- EDITED TO HERE ---)
+Chips dove down, and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips' head broke back through the surface. She ripped off the diving mask. "Owen! I need another fuckin' piece of steel plate, and -- fuck it -- another brace too."
 
-Chips dove down, and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips' head broke back through the surface. She ripped off the diving mask. "Owen! I need another fucking piece of steel plate, and -- fuck it -- another brace too."
-
-"Alright Chips!" Called the kid from the shore. Owen was wearing the same greasy-slick rubber waders Chips had had on earlier. He selected some metal bits from a pile of scraps on the grating next to the welding rig and waded into the cloying bilge to hand them to Chips.
+"Alright Chips!" Called the kid from the shore where the water lapped at the toes of his boots. Owen was wearing the same greasy-slick rubber waders Chips had had on earlier. He selected some metal bits from a pile of scraps on the grating next to the welding rig and waded into the cloying bilge to hand them to Chips.
 
 Every sound in the cargo hold traversed from one exposed steel inner side of the pressure hull to the other, so everything was heard three times. That was normal, and Captain Percy was used to it. But the mass of water filling one end of the cargo hold changed the sound of the space. It ate at her instinctual sense that her boat was far from being healthy. It was hard to pin down precisely how it changed. It sounded like a room dominated by an athletic swimming pool. It was a quality of sound that should never be heard on a submarine.
 
@@ -615,10 +613,14 @@ She sipped her coffee and watched Chips dive again with the steel plates in one 
 
 Instead she helped Gregory and Bastian get the bilge hoses connected to the trim tanks and got them cranking. The hoses inflated with the pressure of the water running up the gentle grade from the pumps. She could hear it sloshing into the empty trim tanks, and the sound of it echoed between the hull walls.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Percy inspects the damage)
 
-The next time Chips was on the shore of the little black lake trying to find a particular patch piece she wanted from the scrap pile, Percy took the diving mask from her and waded into the water to inspect the damage personally. The water was the freezing cold and never-varying temperature of deep ocean water. It had picked up an unpleasant array of smells: a mix of petrochemicals and solvents, refuse, and old grease -- the stuff that always contaminated a boat's bilge -- but that odor  was lifted and strengthened to a nausea-inducing level by the sheer volume of water. 
+The next time Chips was on the shore trying to find a particular patch piece she wanted from the scrap pile, Percy took the diving mask from her and waded into the water to inspect the damage personally. The water was the freezing cold and never-varying temperature of deep ocean water. It had picked up an unpleasant array of smells: a mix of petrochemicals and solvents, refuse, and old grease -- the stuff that always contaminated a boat's bilge -- but that odor was strengthened to a nausea-inducing level by the sheer volume of water. 
+
+[//]: # (--- EDITED TO HERE ---)
 
 Plunging her head into the cold much, Percy could see the damage was bad. As Chips had said earlier: it wasn't one big split in the in the metal, it was a long string of short side-by-side cracks running in a line up a massive convex dent where the hull had been rammed. The thick steel of the hull had been bent to an astonishing degree, deformed without massive failure in a way that only high-tensile steel could be. But even steel could be pushed only so far without cracking.
 
