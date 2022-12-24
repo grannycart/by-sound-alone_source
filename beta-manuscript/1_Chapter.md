@@ -267,7 +267,8 @@ Percy lit a cigarillo from the rapidly-depleting pack stashed in the pipes and s
 
 Captain Percy knew it was worse than that. The sharp list after the delay was the weight of the slack water in the bilge pouring over to one side of the boat and dragging the rest of the boat over with the weight of its movement.
 
------
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Percy goes to check on Chips' progress)
 
@@ -326,7 +327,8 @@ The stern slowed its ascent. The _Prospect_ hung in the water, the bow pitched d
 
 Hemi stepped under the hatch up to the control room and looked up at Percy through his the small frames of his glasses. With his height, his face was only a few finger-widths from the hatch opening. "Sylvia," he said, "I think we need to start thinking about more drastic measures to get us back on the surface."
 
------
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Percy blows the fuel ballast)
 
@@ -378,7 +380,8 @@ Owen looked at Gregory with a specific question on his face, but asked a differe
 
 "Alrighty." Owen's head disappeared back down below.
 
------
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Percy decides to head for the bottom)
 
@@ -410,7 +413,8 @@ Hemi peered through the magnifier at the chart, then pulled his slide rule from 
 
 "No chances Hemi. I just want you to figure out how to make those fucking numbers add up so we can find the bottom with the boat in tact, and not a mile under water." She ascended to the control room.
 
------
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They make the run for the tablemount )
 
@@ -444,7 +448,8 @@ Gregory glanced at Bastian quickly, but returned his eyes to the controls.
 
 Bastian grinned and sucked at the last of his cigarette before stabbing it out in an overflowing can of butts.
 
------
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### staring at dials: depth vs the tablemount)
 
@@ -484,7 +489,8 @@ For a moment she thought she saw the needle writhe, like the flash of a small ba
 
 She stood and took a rag from a hook and reached over Gregory to wipe the condensing droplets of water off the glass of the gauge, then circled around the aging pitted chrome casing for good measure. She could feel the little spots of rust and degrading metal catching against the fibers of the rag. She tapped the glass with her finger.
 
------
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They land on the tablemount)
 
@@ -508,62 +514,61 @@ The dive plane wheel slipped through Gregory's thick fingers, and the bow of the
 
 At the sound of the collision alarm Hemi came up through the hatch. His eyes passed over the gauges taking in their situation. "Gently Gregory," he almost whispered.
 
-[//]: # (--- EDITED TO HERE ---)
+"Yes fuckin' gently," followed up Percy, "as gentle as you've ever been, like you're laying down a fevered child. Bastian, disengage the motor. Let's use only what's left of our forward momentum, and let our leaking boat take us down the way she wants to."
 
-"Yes fuckin' gently," followed up Percy, "as gentle as you've ever been, like you're laying down a fevered child. Bastian, disengage the motor. Lets use only what's left of our forward momentum, and let our leaking boat take us down the way she wants to."
-
-Slowly, slowly, the depth gauge needle rotated to the right as the boat sank. And equally slowly, the depth-under-keep gauge turned to the left as the bottom rose. The depth gauge showed 248 meters. The depth-under-keel gauge came to rest on its other limit pin, labeled '0'. And at that moment the whole _Prospect_ trembled as the bow touched the bottom. Captain Percy felt the slight angle under her feet relax as the stern came down slowly to rest on the bottom as well.
-
-[//]: # (In Stilt City, when they ground the boat, an alarm goes off. Include that here?)
+Slowly, slowly, the depth gauge needle rotated to the right as the boat sank. And equally slowly, the depth-under-keel gauge turned to the left as the bottom rose. The depth gauge showed 248 meters. The depth-under-keel gauge came to rest on its other limit pin, labeled '0'. An alarm sounded, but only for a brief chirp because Hemi had been expecting it and had been holding his finger on the button to silence it. The whole _Prospect_ trembled as the bow touched the bottom. Captain Percy felt the slight angle under her feet relax as the stern came down slowly to rest on the bottom as well.
 
 "Fuck me," said Bastian, "248 meters down, on the bottom. A fucking undersea mountain. We landed on the top, like some damned Noah crashing his ark into fucking Ararat."
 
-"Technically a tablemount." Said Hemi. "A relatively flat surface worn down from an ancient volcano. And yes, if you like, very much an antediluvian feature of the sea floor."
+"Technically a tablemount," said Hemi. "A relatively flat surface worn down from an ancient volcano. And yes, if you like, very much an antediluvian feature of the sea floor."
 
-"Quite a bit deeper than she's rated for," added Percy, "almost as deep as I've ever fucking had her. If the hull holds, we have bought ourselves a little time." 
+"Quite a bit deeper than she's rated for," added Percy, "almost as deep as I've ever had her. If the hull holds, we have bought ourselves a little time." 
 
-"Seems just as fucking likely that the cargo hold is now completely split open and we will die here." Said Bastian. 
+"Seems just as likely that the cargo hold is now completely split open and we will die here," said Bastian. 
 
 Gregory glanced at Bastian with a dark look in his eyes.
 
-"...Regardless of the amount of time we need to spend here, being bottomed has the added bonus of rendering us nearly undetectable to active sonar. If the sub that rammed us is still searching for us, we will blend in with the bottom. They will likely assume we sank." Said Hemi.
+"...Regardless of the amount of time we need to spend here, being bottomed has the added bonus of rendering us nearly undetectable to active sonar. If the sub that rammed us is still searching for us, we will blend in with the bottom. They will likely assume we sank," observed Hemi.
 
-"Hemi, we _did_ fucking sink." said Bastian. "And I would not be the one to correct their potential fucking thought that they will never see us rise to the surface again."
+"We _did_ fucking sink Boss," said Bastian. "And I would not be the one to correct their potential thought that they will never see us rise to the surface again."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Repairs on the bottom)
 
-It was time for Captain Percy to survey the damage. She got on the ship PA and told Chips to meet her at the entrance to the cargo hold before heading down there herself.
+It was time for Captain Percy to survey the damage. She got on the ship PA and told Chips to meet her at the entrance to the cargo hold.
 
-Percy found Chips waiting for her at the bulkhead entrance to the cargo hold in the forward battery room on the bottom deck of the boat. Chips had a large wrench with her and as soon as Percy arrived she banged with it on the bulkhead. "Well Capt, it sounds fuckin' hollow to me. Still air on the other side of the fuckin' bulkhead at least."
+She found Chips waiting for her at the cargo hold bulkhead in the forward battery room on the bottom deck of the boat. Chips had a large wrench with her and as soon as Percy arrived she banged with it on the bulkhead. "Well Capt, it sounds fuckin' hollow to me. Still air on the other side of the fuckin' bulkhead at least."
 
-Percy nodded and cranked open the hatch with the rusting sealing wheel squeaking painfully in her ears. The lights were out in the cargo hold, so they were looking into blackness. But the air smelled damp and they could hear dripping echoing in the huge empty space. This instinctively disturbed them both. 
+Percy cranked open the hatch with the rusting sealing wheel squeaking painfully in her ears. The lights were out in the cargo hold, so they were looking into blackness. But the air smelled damp and they could hear many drips echoing in the huge empty space.
 
-Percy reached around and flipped on the lights. The white overheads glared down on her cargo hold. The steel grating led down a gentle slope and disappeared into an oily, black subterranean lake. A couple of empty wooden crates floated like lost viking craft on it, accompanied by a film of black frothing grease that wafted by in patches like bergs among the viking ships. Any sound Percy and Chips made echoed back and forth from hull to hull through the air, and out over the water. 
+Percy reached around and flipped on the lights. The white overheads glared down on the biggest void in her boat. The steel grating led down a gentle slope and disappeared into an oily, black subterranean lake. A couple of empty wooden crates floated like lost viking craft on it, accompanied by a film of black frothing grease that wafted by in patches like bergs among the viking ships. Any sound Percy and Chips made echoed back and forth from hull to hull over the water. 
 
 "That's a fuckin' nightmare." Said Chips.
 
-"We probably did more damage to her when we pressed her bow into the sea floor -- like levering apart the bones of a fowl. We don't have much time before this whole fucking hold is flooded and we'll never get off the bottom. What do you need Chips?"
+"We probably did more damage to her when we pressed her bow into the sea floor -- like levering apart the bones of a carcass. We don't have much time before this whole hold is flooded -- in which we'll never get off the fucking bottom. What do you need Chips?"
 
-"Ah, just fuckin' send Owen back down. And now it fuckin' looks like I'll be breathing through a fuckin' hose while I'm doing the stitching back together."
+"Ah, just send fuckin' Owen back down. This time it looks like I'll be breathing through a fuckin' hose while I'm stitching the fuckin' gash back together."
 
-"Alright Chips. I'll get Gregory and Bastian looking for more portable bilge pumps. They can run hose down and see if we can't get some of this water into the trim tanks and back out into the fucking ocean where it belongs."
+"Alright. I'll get Gregory and Bastian looking for more portable bilge pumps. They can run hose down and see if we can't get some of this water into the trim tanks and back out into the ocean where it belongs."
 
 "Fuckin' right."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Percy goes back upstairs, rouses the boys, gets coffee)
 
-Percy moved through the boat back up towards the control room. She found Gregory and Bastian crawling into their bunks in crew quarters having been released from control duty by Hemi. Their eyes were slitted and bleary and there was no grace in their attempt to climb into their racks.
+Percy moved through the boat towards the control room. She found Gregory and Bastian crawling into their bunks in crew quarters having been released from control duty by Hemi. Their eyes were slitted and bleary and there was no grace in their attempt to climb into their racks.
 
-"Come'on, you can't fucking sleep yet. Get some coffee and then go find some portable bilge pumps. We need to get this boat pumped out, or you'll never wake up from your little fucking naps."
+"Come'on, you can't sleep yet. Get some coffee and then go find some portable bilge pumps. We need to get this boat pumped out, or you'll never wake up from your little naps."
 
-She left them groaning and headed to the galley, thinking coffee sounded like a good idea. There was a metal cup sitting upside down in the drying rack. It was one of those blue tin cups with the white flecks. The outside of it had been dipped in rubber for use on submarines. Even when well-washed, the cups always added a particular piquant of metal and petroleum to the coffee. The one in the dish rack was relatively clean, just retaining the usual semi-permanent coffee stains. 
+She left them groaning and headed to the galley, thinking coffee sounded like a good idea. There was a metal cup sitting upside down in the drying rack. It was one of those blue tin cups with the white flecks. The outside of it had been dipped in rubber for use on submarines. Even when well-washed, the cups always added a particular piquant of metal and oil to the coffee. The one in the dish rack was relatively clean, just retaining the usual semi-permanent brown ring stains. 
 
 The coffee in the pot had been on the warmer for hours. Maybe days. She poured it into her cup and added a couple of scoops of sugar. The taste was foul, like what she always imagined "sweet crude" must taste like. Her taste buds rebelled, but the rest of her body knew better, and she felt an immediate wash of relief from the fatigue beginning to plague her.
 
-Their situation was dire. If being flooded and bottomed had been the worst thing that happened today, she would have been upset. But somehow their relative safety now compared to where they had been an hour before -- when they were slowly sinking over a bottomless hole -- made Percy feel surprisingly relaxed. Relaxed enough to enjoy a cup of burnt coffee at least.
-
+Their situation was dire. If being flooded and bottomed had been the worst thing that happened today, she would have been upset. But somehow their relative safety right now compared to where they had been an hour before -- when they were slowly sinking over a bottomless hole -- made Percy feel surprisingly relaxed. Relaxed enough to enjoy a cup of burnt coffee at least.
 
 [//]: # (### Percy talks to Hemi about surviving their immediate futures)
 
@@ -571,30 +576,34 @@ Percy found another relatively clean tin cup behind the rails of the dish cabine
 
 Hemi took the cup and held it to his lips blowing the acid smell off the surface. His glasses steamed up. "Does Chips have a handle on the leak?"
 
-"Eh. It's fucking deep under water in the hold now. She's going to have to dive down there to weld it."
+"Eh. It's under deep fucking water in the hold now. She's going to have to dive down there to weld it."
 
 "Unpleasant."
 
 "That's one fucking word for it."
 
-"Even if we get it sealed," said Hemi, "even if we can manage to pump out, even if we get to the surface, things do not look good. I looked at the chart, and we are nowhere right now. And we have no fuel or battery remaining to speak of."
+"Even if we get it sealed," said Hemi, "even if we can manage to pump out, even if we get to the surface, things do not look good. I looked at the chart, and we are approximately nowhere at the moment. And we have no fuel or battery remaining to speak of."
 
 "Still'd rather be nowhere on the surface than sunk on the bottom of somewhere -- in this case that 'somewhere' being a fucking rarely-charted and never-visited undersea mountain."
 
 "We are in a situation where we need to overcome a whole series of challenges, each in their particular order. I am just trying to get ahead of the problem."
 
-"OK Hemi, you do the fucking thinking ahead. You let me know if I'm not considering something that impacts our future survivability. Otherwise, I need to focus on surviving our situation right now. And that currently means getting some of this foul black water out of my boat. Right?"
+"OK Hemi, you do the thinking ahead. You let me know if I'm not considering something that impacts our future survivability. Otherwise, I need to focus on surviving our situation right now. And that currently means getting some of this foul black water out of my boat. Right?"
 
 Hemi nodded.
 
 "OK. Back to the cargo hold I go then."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### repairing and pumping out the cargo hold)
 
-In the cargo hold, Bastian and Gregory were laying out the heavy cloth-covered hoses down the center of the space and hooking them up to portable electric bilge pumps the size of small refrigerators.
+In the cargo hold, Bastian and Gregory were laying out the heavy cloth-covered hoses down the center of the space and hooking them up to portable electric bilge pumps the size of small refrigerators. Multiple black hoses and thick electrical cables snaked across the floor grating making navigation treacherous.
 
-Owen had his own electric pump -- a smaller one that pumped air -- down at the edge of the black lake and he was feeding an air hose to Chips who was wearing a diving mask connected to the air hose. She was kicking to keep her head above water while holding up a welding torch with one hand. The welding torch was connected by thick wires to the welding rig mounted in a rack on wheels propped next to the pump at the edge of the lake. The wheels had chocks keeping the rig from rolling into the water.
+Owen had his own electric pump -- a smaller one that pumped air -- down at the edge of the black lake and he was feeding an air hose to Chips who was wearing a diving mask connected to the hose. She was kicking to keep her head above water while holding up a welding torch with one hand. The welding torch was connected by its own lines to the tanks in the welding rig propped next to the pump at the edge of the lake. The wheels of the rig had chocks keeping it from rolling into the water.
+
+[//]: # (--- EDITED TO HERE ---)
 
 Chips dove down, and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips' head broke back through the surface. She ripped off the diving mask. "Owen! I need another fucking piece of steel plate, and -- fuck it -- another brace too."
 
