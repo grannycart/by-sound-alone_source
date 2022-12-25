@@ -618,23 +618,21 @@ Instead she helped Gregory and Bastian get the bilge hoses connected to the trim
 
 [//]: # (### Percy inspects the damage)
 
-The next time Chips was on the shore trying to find a particular patch piece she wanted from the scrap pile, Percy took the diving mask from her and waded into the water to inspect the damage personally. The water was the freezing cold and never-varying temperature of deep ocean water. It had picked up an unpleasant array of smells: a mix of petrochemicals and solvents, refuse, and old grease -- the stuff that always contaminated a boat's bilge -- but that odor was strengthened to a nausea-inducing level by the sheer volume of water. 
+The next time Chips was on the shore trying to find a particular patch piece she wanted from the scrap pile, Percy took the diving mask from her and waded into the water to inspect the damage personally. The water was the freezing cold and never-varying temperature of deep ocean water. It had picked up an unpleasant array of smells: a mix of petrochemicals and solvents, refuse, and old grease -- the stuff that always contaminated a ship's bilge -- but that odor was strengthened to a nausea-inducing level by the sheer volume of water. 
 
-[//]: # (--- EDITED TO HERE ---)
+Plunging her head through the opaque boundary of the water's surface, Percy could see the damage was bad. As Chips had said earlier: it wasn't one big split in the in the metal, it was a long string of short side-by-side cracks running in a line up a massive convex dent where the hull had been rammed. The thick steel of the hull had been bent to an astonishing degree, deformed without massive failure in a way that only high-tensile steel could be. But even steel could be pushed only so far without splitting.
 
-Plunging her head into the cold much, Percy could see the damage was bad. As Chips had said earlier: it wasn't one big split in the in the metal, it was a long string of short side-by-side cracks running in a line up a massive convex dent where the hull had been rammed. The thick steel of the hull had been bent to an astonishing degree, deformed without massive failure in a way that only high-tensile steel could be. But even steel could be pushed only so far without cracking.
+She put her hand out in front of her mask, holding it over the cracks, and she could feel the onrush of the icy water against her warm flesh. Much welding was still required. Chips' patches were pieces of curved steel that she would weld into place over the cracks. Chips was no expert at underwater welding, the welds were globulous and imprecise. It was starting to look like a mess, but nobody else aboard could do better. 
 
-She put her hand out in front of her mask, holding it over the cracks, and she could feel the onrush of the icy water pressing against her warm flesh. Chips' patches were pieces of curved steel that she was welding into place over the cracks. Chips was no expert at underwater welding, the welds were globulous and imprecise. It was starting to look like a mess, but there was hardly any other options. 
+Back out of the water, she stood shivering and dripping oily droplets that clung together in fatty globs on the floor grating. Percy always thought of herself as pretty tough. But in many ways Chips, with her foul language and bad attitude, was a lot tougher. Chips had never even mentioned the temperature of the water.
 
-She climbed back out of the water, shivering and dripping oily droplets that clung together in fatty globs. Percy always thought of herself as pretty tough. But in many ways Chips, with her foul language and bad attitude, was a lot tougher. Chips had never even mentioned the temperature of the water.
+With the extra bilge pumps running, Captain Percy let Gregory and Bastian go stumble up to their racks to make another attempt at getting some sleep. And indeed, they slept through the next six hours or so of work while she, Owen, and Hemi did whatever they could to help Chips get the hull welded back together. Since welding shut the hole in the boat was the only thing that mattered, and only one person could weld at a time, Percy, Hemi, and Owen found themselves standing around smoking and drinking coffee more than actually working, so Percy eventually sent Hemi and Owen to their racks too.
 
-With the extra bilge pumps running, Captain Percy let Gregory and Bastian go stumble up to their racks to get some sleep. They slept through the next six hours or so of work while she, Owen, and Hemi did whatever they could to help Chips get the hull welded back together. Patching the boat was the only thing that mattered right now, and Chips was the only one who could do the welding. Percy, Hemi, and Owen found themselves standing around smoking and drinking coffee more than actually working, so Percy eventually sent Hemi and Owen to their racks too.
+She needed sleep more than anyone. But she knew she would not be able to. Maybe once they got to the surface, but that seemed far off now -- both physically and temporally. She smoked up cigarillo after cup of coffee after cigarillo. When Chips needed something she was there, but mostly Chips had her own method and did not want help. When Chips disappeared below the surface it became totally silent in the cargo hold. Percy looked at her watch -- time had fallen to its knees and crawled forward only with desperate and gasping heaves. It took her more than an hour to realize that the water level had receded a bit, leaving an greasy black line on the pressure hull indicating its high-water mark.
 
-Percy needed sleep more than anyone, but she knew there was no way she could sleep. Maybe once they got to the surface, but that seemed far off now, both physically and temporally. She smoked up one cigarillo after cup of coffee after cigarillo. When Chips needed something she was there, but mostly Chips had her own method and did not want help. When Chips disappeared below the surface it became totally silent in the cargo hold. Percy looked at her watch -- time had fallen to its knees and crawled forward only with desperate and gasping heaves. It took her more than an hour to realize that the water level had receded a bit, leaving an greasy black line on the pressure hull indicating its high-water mark.
+Percy allowed herself some small amount of hope. 
 
-Percy let herself have some small amount of hope. 
-
-The receding water level was everything. The boat didn't need power, or the high-pressure air system, or a running motor to reach the surface -- all she needed was that water level to go down, physics would take care of everything else. The boat _wanted_ to float the way it was currently set. It was merely being pinned down by a massive black liquid weight.
+The receding water level was everything. The boat did not need power, or the high-pressure air system, or a running motor to reach the surface -- all she needed was that water level to recede, physics would take care of everything else. The boat _wanted_ to float the way it was currently set. It was merely being pinned down by a massive black liquid weight.
 
 She waited for Chips to raise her head above the surface again. "Chips! The water level is dropping!" Percy shouted to her with one hand cupped to her mouth, while pointing at the black line of grit marked on the pressure hull.
 
@@ -644,6 +642,10 @@ She waited for Chips to raise her head above the surface again. "Chips! The wate
 
 "Aye!" Chips gruffed. She waved a hand at Percy and disappeared back under the surface.
 
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Percy back in the control room; staring at dials again)
 
