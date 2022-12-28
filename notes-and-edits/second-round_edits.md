@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2022-12-17 11:43
+Last modified: 2022-12-25 10:30
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -133,6 +133,7 @@ Edits to pick up in second full pass through the book
 * [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
 	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
 * [ ] Maybe have Bastian decorating his quarters with plants?
+	* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
 	* [ ] Ask A what plants could actually grow on a sub
 	* pot? See note on motivating Shakes
 * [ ] make sure you only explain active sonar once
