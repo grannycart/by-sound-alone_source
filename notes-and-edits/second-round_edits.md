@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2022-12-25 10:30
+Last modified: 2022-12-31 14:51
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -15,10 +15,12 @@ Edits to pick up in second full pass through the book
 ## General plot and character edits (throughout book)
 :plot:
 * [ ] convert latex style emdashes --- to md style -- on all files
+* [ ] add spacing elements (generally where the ### break notes are)
 * [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
 	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
 		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
+		* yeah, but WHY bother? just because it's cool?
 	* This is referenced first right at about 1000k words
 * [ ] Could the cursing be more along these lines:
 	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
@@ -165,6 +167,7 @@ Edits to pick up in second full pass through the book
 			* It seems somewhat nefarious, is it connected to the sub pursuing them? (It is, though maybe that's never made explicit, or it's tied to the conversation about the morality of running weapons)
 			* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
 			* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
+	* [ ] see note about about learning the name of the sub with the ram at the depot
 	* [ ] At the depot, they need to restock cigarettes and cigarillos
 		* Maybe Percy switches to cheroots
 	* [ ] Edit descriptions of Cassandra: see B and C's notes
