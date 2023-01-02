@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2022-12-31 14:51
+Last modified: 2023-01-02 16:30
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -14,6 +14,10 @@ Edits to pick up in second full pass through the book
 
 ## General plot and character edits (throughout book)
 :plot:
+* [ ] note for markdown:
+	* use single underbars for emphasis. two astericks for bold (if there is any)
+	* DON'T use single astericks for emphasis. I find that confusing.
+* [X] remove references to the "con" -- too military
 * [ ] convert latex style emdashes --- to md style -- on all files
 * [ ] add spacing elements (generally where the ### break notes are)
 * [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
@@ -81,7 +85,7 @@ Edits to pick up in second full pass through the book
 * [ ] make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
-	* maybe the rule is: 
+	* the rule is going to be: 
 		* for numbers that are part of the 'language' of the piece (including one through ten, or maybe twenty? --- twenty is where you have to start hyphenating after all) you write them out
 		* And numbers that are actual measurements of things (off gauges or whatever) are numerals
 * [ ] Consider adding more description of the spaces --- particularly inside the Prospect
@@ -108,6 +112,7 @@ Edits to pick up in second full pass through the book
 
 ## Specific scene edits
 :scene:
+* [ ] Somewhere made at least one direct reference to the "under dark"
 * [ ] Need to include a description of Percy somewhere early in the book
 	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
 * [ ] Subtly reinforce Percy's beauty in more places?
