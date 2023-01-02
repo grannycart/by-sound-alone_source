@@ -1,5 +1,5 @@
 
-# Manuscript Draft --- A Novel With Some Submarines In It (Beta version)
+# Manuscript Draft --- Under Dark: A Novel With Some Submarines (Beta version)
 * By Mark Torrey
 
 
@@ -65,7 +65,7 @@
 
 
 ## License:
-* This pre-release version of this book is under a CC license:
+* This beta version of this book is under a CC license:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE.txt)

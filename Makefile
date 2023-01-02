@@ -5,7 +5,7 @@
 #
 BUILD = built-files
 # This BOOKNAME variable is the output file name, not the title:
-BOOKNAME = Subworldbook1
+BOOKNAME = Under-Dark
 TITLE = title.txt
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file -- only used in epub:
 METADATA = metadata.xml

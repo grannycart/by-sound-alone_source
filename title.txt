@@ -1,9 +1,9 @@
 ---
-title: An Untitled Novel With Submarines. Also a Pigeon.
+title: Under Dark
 author: Mark Torrey
-subtitle: Beta version. For more information visit --- grannycart.net/subworld-pages/ 
-rights: Beta version. © 2021 Mark Torrey, CC BY-NC-SA --- see license attached at end of file.
-description: Submarines chase each other through the ocean.
+subtitle: A Novel With Some Submarines. Also a Pigeon. For more information visit --- grannycart.net/subworld-pages/ 
+rights: Beta version. © 2023 Mark Torrey, CC BY-NC-SA --- see license attached at end of file.
+description: A cargo submarine chase across the oceans of an alternative-history world.
 cover-image: ./cover/pre-release-draft-front-cover-layout.png
 ...
 
