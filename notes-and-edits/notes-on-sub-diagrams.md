@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: Sun Nov 20, 2022  10:38AM
+Last modified: 2023-01-05 18:42
 
 
 # notes on sub diagrams
@@ -53,6 +53,7 @@ Last modified: Sun Nov 20, 2022  10:38AM
 	* [X] add pigeon hatch
 	* [ ] add pigeon coop to Gnat?
 	* [ ] add dive plane outline?
+	* [ ] does the Gnat need a cargo hatch?
 	* [X] move the Gnat motor switch lever labels aft of the engine
 	* [X] make sure top hatch opens upward
 	* [X] add mating collar

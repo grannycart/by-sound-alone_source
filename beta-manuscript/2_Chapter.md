@@ -260,44 +260,46 @@ Shakes eyes brightened at that. "Hrm. Well I've been eatin' nothing but cold cho
 
 "No pushing," said Hemi.
 
-"Right. Hang back a minute, let me go look around in there first, make sure all my fuckin' pornography is put away. When I give you the signal, come across."
+"Right. Hang back a minute, let me go look around in there first, make sure all my pornography is put away. When I give you the signal, come across."
 
-[//]: # (----- EDITED TO HERE -----)
+Percy grinned as Shakes lowered himself down the side and leapt nimbly over the dangerous gap between the two boats where the chop occasionally ground the two walls of rusting steel against each other, crushing the breath out of the cracked old bumpers between them. He disappeared into the sail hatch of the _Gnat_.
 
-Percy grinned as Shakes lowered himself down the side and leapt nimbly over the dangerous gap between the two boats where the chop occasionally ground the two walls of rusting steel against each other with nothing to brace them but the cracked old bumpers. He disappeared into the sail hatch of the _Gnat_.
+"Interesting character," said Hemi.
 
-"Interesting character." Said Hemi.
+"Solo operators... nobody who is comfortable spending days or weeks at sea alone -- eating cold canned food, no fucking less -- ever totally has their head screwed on right. Anyway, it doesn't matter how pleasant a person he is. The question is, do you think there's anything you can do with that boat that's going to help us?"
 
-"Solo operators... nobody who is comfortable spending days or weeks at sea alone -- eating cold canned food, no fucking less -- ever totally has their head screwed on fucking right. Anyway, it doesn't matter how pleasant a person he is. The question is, do you think there's anything you can do with that boat that's going to help us?"
+"I am not entirely hopeful. It is not much of a craft, and is not likely to have much in the way of resources aboard. Frankly, I am surprised he is not lost and dead in the water himself."
 
-"I'm not entirely hopeful. It's not much of a craft, and is not likely to have much in the way of resources aboard. Frankly, I am surprised he is not lost and dead in the water himself."
+"Find us something Hemi. But don't do anything to set that tweaked motherfucker off while you're over there."
 
-"Find us something Hemi. But don't do anything to set off that fuckin' tweaked motherfucker while you're over there."
-
-"I shall be a lamb among the lions."
+"I shall be like a lamb among the lions."
 
 From the sail of the _Gnat_ Shakes' head and arm popped up and gestured. "Come on over man-mountain. Mind the fuckin' gap!"
 
-Hemi's size made for a thrilling thing to watch as he hopped the crunching span between the two boats, but he proved just as nimble as Shakes had been. Hemi was wearing heavy but conventional leather boots, and the water washing the deck of the _Gnat_ was wetting the lower part of his legs, soaking the tweed pants of his suit to a dark and sagging color. He stepped up and over the open hatch into the sail, and from where Percy was watching, it seemed for a moment like there was no way his bulk would get down that tiny hole. But Hemi disappeared into the boat just as quickly as Shakes did.
+Hemi's size made for a thrilling thing to watch as he hopped the crunching span between the two boats, but he proved just as nimble as Shakes had been. Hemi was wearing heavy but conventional leather boots, and the water washing the deck of the _Gnat_ was soaking the lower part of his legs. The tweed pants of his suit turned a dark and sagging color. He stepped over the open hatch into the sail, and from where Percy was watching, it seemed for a moment like there was no way his bulk would get down that tiny hole. But Hemi lithely disappeared into the boat.
 
 Percy gave Bastian a pull on the sleeve, and he tossed a smoked-out butt into the ocean before they climbed up the sail and back inside the _Prospect_.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### On board the _Gnat_)
 
-"So what do you think?" Asked Shakes. "Ain't it the finest fuckin' boat ya ever had the pleasure of dropping inside of?" Shakes seemed genuinely proud.
+"So what do you think? Ain't it the finest fuckin' boat ya ever had the pleasure of dropping inside of?" Shakes seemed genuinely proud.
 
-"It's certainly a masterpiece of the genre." Replied Hemi, even more evenly than usual.
+"It's certainly a masterpiece of the genre," replied Hemi, even more evenly than usual.
 
 Hemi had spent nearly his entire life among and inside filthy machines, but he had never seen anything where the grime lay down quite as thickly as this. There was literal garbage all over the deck: empty cans rolling back back and forth with the swell, candy wrappers, various greasy machine parts, and an ashtray that seemed like it had not been used for ash but merely as a target to toss used butts at, most of which had missed and lay scattered about. 
 
-There were stacks of pornography -- Shakes had not bothered to hide any of it, or at least Hemi hoped that was true, because the stacks on display were of a class so deviant that Hemi could not imagine what Shakes would have deigned to feel needed hiding.
+There were stacks of pornography -- Shakes had not bothered to hide any of it. Or at least Hemi hoped that was true, because the stacks on display were of a class so deviant that Hemi could not imagine what Shakes would have deigned to feel needed hiding.
 
 In one space, recessed between the supports of the pressure hull, were columns of food cans still unopened. The labels had been peeled off and the contents written on them in grease pencil. Most appeared to be of some variety of highly-salted pasta-and-sauce. In another recess was a bin with what must have been a hundred different types of puzzle games that all had the basic premise of requiring squares of color to be sorted alike. Every single last puzzle was solved. 
 
-[//]: # (Shakes has some kind of idiot-genius. Also a lot of time on his hands.)
+[//]: # (Shakes is some kind of idiot-genius. And also has a lot of time on his hands.)
 
-The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were arranged airplane-style: with a single yoke that controlled both the angle and direction of the boat, a pretty sophisticated system for any submarine, but particularly a hand-built machine.
+The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were airplane-style: with a single yoke that controlled both the angle and direction of the boat, a pretty sophisticated system for any submarine, but particularly a hand-built machine.
+
+[//]: # (----- EDITED TO HERE -----)
 
 The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright in the sail, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More crates were arranged behind the controls located about the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so there was enough room to pass the crates.
 
