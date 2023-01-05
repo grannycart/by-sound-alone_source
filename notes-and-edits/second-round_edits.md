@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-02 16:30
+Last modified: 2023-01-04 20:56
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -14,12 +14,14 @@ Edits to pick up in second full pass through the book
 
 ## General plot and character edits (throughout book)
 :plot:
-* [ ] note for markdown:
-	* use single underbars for emphasis. two astericks for bold (if there is any)
-	* DON'T use single astericks for emphasis. I find that confusing.
+* on starting editing of each chapter file:
+	* [ ] convert latex style emdashes --- to md style -- on all files
+	* [ ] note for markdown:
+		* use single underbars for emphasis. two astericks for bold (if there is any)
+		* DON'T use single astericks for emphasis. I find that confusing.
+	* [ ] add invisible spacing elements (generally where the ### break notes are)
+	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
 * [X] remove references to the "con" -- too military
-* [ ] convert latex style emdashes --- to md style -- on all files
-* [ ] add spacing elements (generally where the ### break notes are)
 * [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
 	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
@@ -112,14 +114,14 @@ Edits to pick up in second full pass through the book
 
 ## Specific scene edits
 :scene:
-* [ ] Somewhere made at least one direct reference to the "under dark"
+* [X] Somewhere made at least one direct reference to the "under dark"
 * [ ] Need to include a description of Percy somewhere early in the book
 	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
 * [ ] Subtly reinforce Percy's beauty in more places?
 	* Right now I think she reads more like the elder captain she will be in later stories
 	* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 	* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
-* [ ] make sure you make it clear early on that Hemi is the 'Deck Boss'
+* [X] make sure you make it clear early on that Hemi is the 'Deck Boss'
 * [ ] Don't forget Hemi wears small-framed spectacles
 * [X] make sure there's a scene where Percy understands something is wrong with her boat just by feeling it. (Like the DC captains knowing there's a leak just by the pitch of the roll)
 	* This happens right at the beginning with the first ramming.
@@ -128,6 +130,10 @@ Edits to pick up in second full pass through the book
 * [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
 	* [ ] also the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
 * [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
+* [ ] dumped Shakes description of depot, might need to go back in:
+	* "Mind if we ask where you're headed Captain Shakes?" Asked Percy
+	* "Aye, I was about to fuckin' say anyway: there's a mid-sea depot about 100 miles from here. It's just over the line in the waters of a different Authority. Somewhat more permissive folks; bit more friendly to commerce. That's why the Authority on this side of the line are such a bunch of aggressive motherfuckin' assholes though --- they don't want shit running through here to there. If you can get this dumpster of yers to the depot, you can definitely get fuel there, and probably some fuckin' poorly executed and overpriced repairs as well."
+	* "Sounds like a fucking Eden." Said Percy. 
 * [ ] Create a new reference to the 'sub with the ram' so you don't have to use that awkward phrasing all the time
 	* Maybe somehow they know the name of the sub with the ram, even if they don't know the name of the captain.
 	* Or maybe it's like butch cassidy and the sundance kid: where they just assume it's someone based on an assumption (though they later confirmed it by reading in the paper -- maybe someone in the depot or stilt city fills them in.)
@@ -361,7 +367,6 @@ Edits to pick up in second full pass through the book
 * [ ] Do a search on 'really' and consider removing any
 * [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 * [ ] Find and replace: Trinity as a name
-* [ ] Check whole book for quotes, see that 'saids' are set up as clauses, not sentences
 
 
 
