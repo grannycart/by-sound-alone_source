@@ -297,27 +297,25 @@ In one space, recessed between the supports of the pressure hull, were columns o
 
 [//]: # (Shakes is some kind of idiot-genius. And also has a lot of time on his hands.)
 
-The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were airplane-style: with a single yoke that controlled both the angle and direction of the boat, a pretty sophisticated system for any submarine, but particularly a hand-built machine.
+The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were airplane-style: with a single yoke that controlled both the angle and direction of the boat -- a pretty sophisticated system for any submarine, but particularly a hand-built machine.
 
-[//]: # (----- EDITED TO HERE -----)
+The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright there, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More crates were arranged behind the controls located in the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so there was enough room to pass the crates.
 
-The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright in the sail, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More crates were arranged behind the controls located about the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was still a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so there was enough room to pass the crates.
-
-"Y'all woke me from a fuckin' nap with the ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the fuckin' engines and batteries and what-fuckin-not? They're toward the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and masticated them slowly.
+"Y'all woke me from a nap with the fuckin' ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the engines and batteries and what-fuckin-not? They're toward the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and masticated them slowly.
 
 [//]: # (Shakes chews coca leaves --- he got into them building sub on the coffee farm in the mountains.)
 
-"Yes, the engines first if you please." Hemi squeezed past the crates and pulled a small notebook and pencil from an inside pocket of his tweed jacket. The engine was massive and took up the entire rear third of the boat. Now Hemi was genuinely impressed. "That's a lot of engine for such a small boat."
+"Yes, the engines first if you please." Hemi squeezed past the crates and pulled a small notebook and pencil from an inside pocket of his tweed jacket. The engine was massive and took up the entire rear third of the boat. Now Hemi was genuinely impressed. "That's a lot of engine for such a small vessel."
 
-"Took the thing out of a fuckin' tractor that had been rusting broken down in a field for years on the coffee farm. Had to build a gantry and borrow another tractor to haul it up the mountain to where I was building the _Gnat_ and get it installed. Direct-drive to the prop, so it's a genuine boat engine, not just a glorified generator to power an electric motor."
+"Took the thing out of a fuckin' tractor that had been rusting broken down in a coffee field for years. Had to build a gantry and borrow another tractor to haul it up the mountain to where I was building the _Gnat_ and get it installed. Direct-drive to the prop, so it's a genuine ship engine, not just a glorified generator to power an electric motor."
 
-The configuration was obvious to Hemi. The grease-covered steel drive shaft came straight out the back end of the diesel running along the center-line of the boat and out through the stern, like an egg on its side, pierced by a needle.
+The configuration was obvious to Hemi. The grease-covered steel drive shaft came straight from the back end of the diesel running along the center-line of the boat and passed out through the stern, like an egg on its side, pierced by a needle.
 
 "But you said it has batteries too, the boat can swim underwater?"
 
-"Ya, the direct-shaft--drive means I've gotta have a transmission of course, and I worked with a fuckin' mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fucking grind though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small -- it's fuckin' slow; though silent as a sunken fuckin' graveyard."
+"Ya, the direct-shaft--drive means I've gotta have a transmission of course, and I worked with a mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fuckin' hassle though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small -- it's slow; though fuckin' silent as a sunken graveyard."
 
-"It is the finest piece of mountain-top engineering I've ever seen on the sea." Said Hemi, honestly. 
+"It is the finest piece of mountain-top engineering I've ever seen on the sea," Hemi said honestly. 
 
 Shakes grinned.
 
@@ -325,21 +323,21 @@ Shakes grinned.
 
 "Batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them -- as they do right now -- if that helps somehow. Obviously not enough juice to power your giant fuckin' washtub over there."
 
+[//]: # (----- EDITED TO HERE -----)
+
 "No, not nearly. How much fuel do you have?"
 
-"Maybe twelve hours worth left. Enough to get me to the depot."
+[//]: # (Hemi needs to get precise figures from Shakes on remaining fuel and how much charge there is on the batteries here. Figure out how to write that.)
 
-Hemi scribbled some calculations. "How much standard horse power does that engine have exactly? No, actually, how much horse power does your electric motor have?"
+"Maybe twelve hours worth left. Enough to get me where I'm going."
 
-"Fuck if I know. Hang on, I have a manual around here somewhere." Shakes pulled open the small steel door of a cabinet mounted on the wall and handed Hemi a manual covered with black finger prints and gray-stained pages. While Hemi flipped through it and jotted in his little notebook, Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt.
+"Where are you going?"
 
-Hemi looked up from the manual at Shakes through the small frames of his glasses. "Can I borrow this manual? And do you have one for the diesel too?"
+"I don't think I'm gonna tell you that bit of information at the moment."
 
-[//]: # (Why is Hemi asking for the manual? Is it something about trying to calculate the Gnat's fuel consumption rates? Isn't the only thing he needs to know the remaining fuel and electricity?)
+Hemi made a sound in his throat while he scribbled some calculations. Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt.
 
-"Ya here." Said Shakes, handing Hemi an even fatter manual that was stained far more heavily, and had a couple of thick black lines along the page edges indicating the most heavily used sections.
-
-"Alright, I need to and sit down with my numbers and do some figuring. I also want to look at the charts with you so you can show me where this depot is. I think it is time to go back across to the _Prospect_.
+"Alright, I need to and sit down with my numbers and do some figuring. I think it is time to go back across to the _Prospect_.
 
 After making the jump back to the bigger boat, Shakes and Hemi settled down over the _Prospect's_ navigation charts. "OK, where is this depot Captain Shakes?"
 
