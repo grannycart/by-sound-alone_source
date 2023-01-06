@@ -329,15 +329,19 @@ Shakes grinned.
 
 [//]: # (Hemi needs to get precise figures from Shakes on remaining fuel and how much charge there is on the batteries here. Figure out how to write that.)
 
+[//]: # (maybe the next scene back in the Prospect runs like this: Hemi lays out his plan to cannibalize the gnat. Percy convinces him to go along with it by revealing the location of the depot, and the prospect of a big score there. basically reverse the dialog from the way it is now, and add in hints of bigger things to come. Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
+
 "Maybe twelve hours worth left. Enough to get me where I'm going."
 
 "Where are you going?"
 
 "I don't think I'm gonna tell you that bit of information at the moment."
 
-Hemi made a sound in his throat while he scribbled some calculations. Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt.
+Hemi made a sound in his throat while he scribbled some calculations. 
 
-"Alright, I need to and sit down with my numbers and do some figuring. I think it is time to go back across to the _Prospect_.
+"Where were _you_ guys headed, before the whole dead-in-the-water thing?" Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt.
+
+"Captain Percy had actually playing that close to the chest since we left the last port. I believe she has a tentative line on our next job, but she hasn't shared details with me," Hemi said somewhat tentatively. "Alright, I need to and sit down with my numbers and do some figuring. I think it is time to go back across to the _Prospect_.
 
 After making the jump back to the bigger boat, Shakes and Hemi settled down over the _Prospect's_ navigation charts. "OK, where is this depot Captain Shakes?"
 
