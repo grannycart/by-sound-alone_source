@@ -289,7 +289,7 @@ Percy gave Bastian a pull on the sleeve, and he tossed a smoked-out butt into th
 
 "It's certainly a masterpiece of the genre," replied Hemi, even more evenly than usual.
 
-Hemi had spent nearly his entire life among and inside filthy machines, but he had never seen anything where the grime lay down quite as thickly as this. There was literal garbage all over the deck: empty cans rolling back back and forth with the swell, candy wrappers, various greasy machine parts, and an ashtray that seemed like it had not been used for ash but merely as a target to toss used butts at, most of which had missed and lay scattered about. 
+Hemi had spent nearly his entire life among and inside filthy machines, but he had never seen anything where the grime lay down quite as thickly as this. There was literal garbage all over the deck: empty cans rolling back back and forth with the swell, candy wrappers, and various greasy machine parts. A big open tin that had once contained herring served as an ashtray but seemed like it had not been used for ash but merely as a target to toss used butts at -- most of which had missed and lay scattered about. 
 
 There were stacks of pornography -- Shakes had not bothered to hide any of it. Or at least Hemi hoped that was true, because the stacks on display were of a class so deviant that Hemi could not imagine what Shakes would have deigned to feel needed hiding.
 
@@ -307,13 +307,13 @@ The sail was the only place with enough headroom to stand upright. Or, at least 
 
 "Yes, the engines first if you please." Hemi squeezed past the crates and pulled a small notebook and pencil from an inside pocket of his tweed jacket. The engine was massive and took up the entire rear third of the boat. Now Hemi was genuinely impressed. "That's a lot of engine for such a small vessel."
 
-"Took the thing out of a fuckin' tractor that had been rusting broken down in a coffee field for years. Had to build a gantry and borrow another tractor to haul it up the mountain to where I was building the _Gnat_ and get it installed. Direct-drive to the prop, so it's a genuine ship engine, not just a glorified generator to power an electric motor."
+"Took the thing out of a fuckin' tractor that had been broken down and rustin' in a coffee field for years. Had to build a gantry and borrow another tractor to haul it up the mountain to where I was building the _Gnat_ and get it installed. Direct-drive to the prop, so it's a genuine ship engine, not just a glorified generator to power an electric motor."
 
-The configuration was obvious to Hemi. The grease-covered steel drive shaft came straight from the back end of the diesel running along the center-line of the boat and passed out through the stern, like an egg on its side, pierced by a needle.
+The configuration was obvious to Hemi. The greasy steel drive shaft came straight from the back end of the diesel running along the center-line of the boat and passed out through the stern, like an egg on its side, pierced by a needle.
 
 "But you said it has batteries too, the boat can swim underwater?"
 
-"Ya, the direct-shaft--drive means I've gotta have a transmission of course, and I worked with a mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fuckin' hassle though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small -- it's slow; though fuckin' silent as a sunken graveyard."
+"Sure, the direct-shaft drive means I've gotta have a transmission of course. I worked with a mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fuckin' hassle though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small -- it's slow; though fuckin' silent as a sunken graveyard."
 
 "It is the finest piece of mountain-top engineering I've ever seen on the sea," Hemi said honestly. 
 
@@ -323,50 +323,36 @@ Shakes grinned.
 
 "Eh, Batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them -- as they do right now -- if that helps somehow. Obviously not enough juice to power your giant fuckin' washtub over there."
 
-[//]: # (----- EDITED TO HERE -----)
-
 "No, not nearly. How much fuel do you have?"
 
-[//]: # (Hemi needs to get precise figures from Shakes on remaining fuel and how much charge there is on the batteries here. Figure out how to write that.)
-
-Shakes pointed at one of the gauges rigged in front of the control yoke. "Maybe twelve hours worth left. Enough to get me where I'm fuckin' going."
+"Wellsir, this is how we check that..." Shakes slipped his finger through a metal ring atop a pipe that ran upward from the deck along the curve of the wall. He pulled a long wavering piece of thin steel from the pipe and wiped it on a foul rag that hung on a hook on the wall. He replaced the dipstick and then quickly pulled it back out again and held it up for Hemi to see the graduation along the dipstick. "Maybe twelve hours worth left. Enough to get me where I'm fuckin' going."
 
 "Where are you going?"
 
-"I think I'm gonna keep that bit a' information to myself for the moment."
+"I think I'm gonna keep that bit a' information to myself for the moment." Shakes set the dipstick back in its pipe.
 
-Hemi made a sound in his throat while he scribbled some calculations. He pointed to another gauge, "is that the battery charge?"
+Hemi made a sound in his throat while he scribbled some calculations. He pointed to a gauge in front of the control yoke, "is that the battery charge?"
 
-"Such as it is. That's salvaged from tractor parts too. It shows me roughly how much charge is left on the battery, but mostly it's just got a fuckin' little red light that comes on when the batteries are about to kick off. If you want any fuckin' precision, you gotta get down under those deck panels with the meter and take readings off each of the battery banks." Shakes kicked a small steel door that opened to a recessed cabinet in the wall. He pulled from the space a prybar and a small metal box with a dial gauge and a pail of electrical leads dangling from it. "Check this shit out." He levered the teeth of the prybar under the steel deck panel. Hemi stood on the other side and they lifted it and propped it up.
+"Such as it is. That's salvaged from tractor parts too. It shows me roughly how much charge is left on the battery, but mostly it's just got a fuckin' little red light that comes on when the batteries are about to kick off. If ya want any fuckin' precision, you gotta get down under those deck panels with the meter and take readings off each of the battery banks." Shakes kicked a small steel door that opened to a recessed cabinet in the wall. He pulled from the space a short pry bar and a small metal box with a dial gauge and a pail of electrical leads dangling from it. "Check this shit out." He levered the teeth of the prybar under the steel deck panel. Hemi stood on the other side and they lifted the panel together and propped it up.
 
 Below were rows and rows of what Hemi was almost certain were lead-acid truck or tractor batteries. A rat's nest of greasy black cables ran back and forth between them.
 
 Hemi scratched his beard. "Welp. Let me see that meter." He lowered himself to his knees and reached out over the battery banks with the leads from the meter. He began touching the probes to various terminals on the batteries and writing down the results he read off the meter in his little notebook. "This is going to take a while."
 
-"Always fuckin' does." Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt. "So... where were _you_ guys headed, before the whole dead-ship thing?" 
+"Always fuckin' does." Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt. "So... where were _you_ guys headed, before the whole fuckin' dead-ship thing?" 
 
-Hemi didn't look up from his work. "Captain Percy has been playing that close to the chest since we left the last port. I believe she has a line on our next job, but she hasn't shared details with me," Hemi said somewhat tentatively. "Alright, I need to and sit down with my numbers and do some figuring. I think it is time to go back across to the _Prospect_.
+Hemi didn't look up from his work. "Captain Percy has been playing that particular piece of information close to her chest since we left the last port. I believe she has a line on our next job, but she has not yet shared details with me," Hemi said somewhat tentatively. He continued silently checking the status of the batteries while Shakes pulled a pack of cigarettes from his vest and lit one to chase down the flavor of the leaves he had been chomping on.
 
-[//]: # (maybe the next scene back in the Prospect runs like this: Hemi lays out his plan to cannibalize the gnat. Percy convinces him to go along with it by revealing the location of the depot, and the prospect of a big score there. basically reverse the dialog from the way it is now, and add in hints of bigger things to come. Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
+After Shakes had filled up the small space with a haze of tobacco smoke, Hemi sat up straight and stashed his notebook and pencil back in his pocket. "I think I have enough information for the time being. That food Gregory was working on is probably ready. Shall we go see if we can find something hot to eat?"
 
-After making the jump back to the bigger boat, Shakes and Hemi settled down over the _Prospect's_ navigation charts. "OK, where is this depot Captain Shakes?"
+"Shit ya. My gut is a gaping hole. Help me get this panel back in place though." Shakes tossed the remaining pinch of burning cigarette in the direction of the ashtray.
 
-Shakes pulled down the magnifier and scanned across the chart. "Wait, where are we now?" Hemi pointed to the obvious small x at the end of a string of grease pencil dashes. "Let's see.." Shakes tapped his black-stained, wavering finger against the glass covering the chart and rotated the magnifier around in slow circles. "Ah, here!" Shakes said pointing to a small island marked on the chart and labeled only "deserted."
-
-"That is your major trade center?" Asked Hemi. "A deserted island?"
-
-"Well, 'major' might be a bit fuckin' descriptive." Said Shakes. "But look." He took the grease pencil and drew a lightweight but long line across hundreds of miles of ocean. "The Territorial Authority boundary is roughly about here. With total fuckin' assholes on this side we are currently on, and only sort-of fuckin' assholes on the other. So you can see how it makes sense to put a depot on that deserted island just across the line to help facilitate trade in, out, and through Assholevania over here.
-
-"That is true." Said Hemi, taking a pair of calipers and measuring the distance from their current position to the deserted island.  "I hope you're right about a depot being there. We will not make it any further than that."
-
-"It'll fuckin' be there!" 
-
-Hemi sniffed. "Smells like the food may be ready. Want to eat?" Said Hemi. 
-
-"Shit yeah. My gut is fuckin' gaping."
-
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### A meal aboard the Prospect)
+
+[//]: # (----- EDITED TO HERE -----)
 
 Hemi and Shakes came into the galley of the _Prospect_ with Captain Percy and Bastian already crammed into the tight seating around the table. Gregory was working a giant cast iron pan at the stove that was so heavy with frying rice that the wiry muscles of the arm controlling the pan bulged with the effort of shaking it -- a gesture he felt was necessary to keep the rice moving and frying evenly without burning.
 
@@ -376,11 +362,11 @@ Gregory looked up when Hemi and Shakes came in. Hemi introduced Shakes.
 
 "Fuck yeah," said Shakes eyeing the pile of frying rice. "I ain't eaten nothing but cold fucking canned pasta for a week."
 
-"None of your canned garbage food here, Captain Shakes." Said Gregory, grinding the pan back and forth across the range in a way that set small sparks flying. "This is real fucking submariner's food. Everything good that can't go fucking bad: rice, eggs, cabbage..."
+"None of your canned garbage food here, Captain Shakes." Said Gregory, grinding the pan back and forth across the range in a way that set small sparks flying. "This is real fucking submariner's food. Everything good that can't go bad: rice, eggs, cabbage..."
 
-"Are you putting that fucking foul slimy-gray pickled cabbage in the rice Gregory?" Asked Bastian. "You'll be killing submariners if submariner's food is that fucking real."
+"Are you putting that foul slimy-gray pickled cabbage in the rice Gregory?" Asked Bastian. "You'll be killing submariners if submariner's food is that fucking real."
 
-Gregory huffed. "My ol' pap worked a submarine galley in the wars. He used to say 'if you can fucking heat it, you can fucking eat it.' And this shit's gonna be plenty fucking hot." Gregory dumped in an entire container of the questionable pickled cabbage, and stirred it around as the sound of frying drowned out any conversation. This process only lasted a few minutes more. 
+Gregory huffed. "My ol' pap worked a submarine galley in the wars. He used to say 'if you can heat it, you can eat it.' And this shit's gonna be plenty fucking hot." Gregory dumped in an entire container of the questionable pickled cabbage, and stirred it around as the sound of frying drowned out any conversation. This process only lasted a few minutes more. 
 
 "Captain Shakes, for helping us out, you're up first." Gregory cracked an egg onto smoking smaller frying pan next to the giant one full of rice. As it sizzled on the creosote surface, Gregory dumped huge piles of rice into a big bowl and handed it to Shakes. The rice was browned by the black salty sauces Gregory had poured into it, and burned to a crusty-black crunchiness in places. Steaming bits of cabbage slithered throughout, flecked with red and black pepper. Shakes was about to dig a fork in when Gregory slipped the fried egg on top with a spatula. Its white was stained an oily, slightly gray color, and the glowing orange yolk was held in place by a wiggling skin on the edge of being burst from the pressure of the hot liquid inside.
 
@@ -414,6 +400,8 @@ She pounded the table, and looked up, breathing through her nostrils. "Fuck."
 
 
 [//]: # (### A plan)
+
+[//]: # (maybe the next scene back in the Prospect runs like this: Hemi lays out his plan to cannibalize the gnat. Percy convinces him to go along with it by revealing the location of the depot, and the prospect of a big score there. basically reverse the dialog from the way it is now, and add in hints of bigger things to come. Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
 
 Owen took his coffee to go, and headed towards the cargo hold to try and keep reinforcing Chips' patch. When there was finally a cup of coffee in front of the rest of them, and the empty bowls pushed into the middle of the table, Percy brought them to order. "Next agenda item: assuming we don't fucking sink, how to get this boat moving again?" She looked at Hemi.
 

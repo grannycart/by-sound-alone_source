@@ -895,7 +895,7 @@ Owen looked up at Percy with the look of prey having fully consumed his eyes.
 
 Bastian stuck his cigarette between his lips, wiped his palms on his pants, and grabbed the dive plane control wheel. He spun it all the way to the stop.
 
-The bow of the _Prospect_ once again fell away in front of them. The depth gauge rounded into the final quadrant of the dial, where the ink of the graduations changed from thin black numbers to bold warning numbers. Were it not for the red light, those numbers would also be sitting in a red field on the dial.
+The bow of the _Prospect_ once again fell away in front of them. The depth gauge rounded into the final quadrant of the dial, where the ink of the graduation changed from thin black numbers to bold warning numbers. Were it not for the red light, those numbers would also be sitting in a red field on the dial.
 
 "Passing 275 meters!" Percy called out so Hemi could hear.
 
