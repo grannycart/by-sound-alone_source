@@ -321,7 +321,7 @@ Shakes grinned.
 
 "And the batteries?"
 
-"Batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them -- as they do right now -- if that helps somehow. Obviously not enough juice to power your giant fuckin' washtub over there."
+"Eh, Batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them -- as they do right now -- if that helps somehow. Obviously not enough juice to power your giant fuckin' washtub over there."
 
 [//]: # (----- EDITED TO HERE -----)
 
@@ -329,19 +329,25 @@ Shakes grinned.
 
 [//]: # (Hemi needs to get precise figures from Shakes on remaining fuel and how much charge there is on the batteries here. Figure out how to write that.)
 
-[//]: # (maybe the next scene back in the Prospect runs like this: Hemi lays out his plan to cannibalize the gnat. Percy convinces him to go along with it by revealing the location of the depot, and the prospect of a big score there. basically reverse the dialog from the way it is now, and add in hints of bigger things to come. Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
-
-"Maybe twelve hours worth left. Enough to get me where I'm going."
+Shakes pointed at one of the gauges rigged in front of the control yoke. "Maybe twelve hours worth left. Enough to get me where I'm fuckin' going."
 
 "Where are you going?"
 
-"I don't think I'm gonna tell you that bit of information at the moment."
+"I think I'm gonna keep that bit a' information to myself for the moment."
 
-Hemi made a sound in his throat while he scribbled some calculations. 
+Hemi made a sound in his throat while he scribbled some calculations. He pointed to another gauge, "is that the battery charge?"
 
-"Where were _you_ guys headed, before the whole dead-in-the-water thing?" Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt.
+"Such as it is. That's salvaged from tractor parts too. It shows me roughly how much charge is left on the battery, but mostly it's just got a fuckin' little red light that comes on when the batteries are about to kick off. If you want any fuckin' precision, you gotta get down under those deck panels with the meter and take readings off each of the battery banks." Shakes kicked a small steel door that opened to a recessed cabinet in the wall. He pulled from the space a prybar and a small metal box with a dial gauge and a pail of electrical leads dangling from it. "Check this shit out." He levered the teeth of the prybar under the steel deck panel. Hemi stood on the other side and they lifted it and propped it up.
 
-"Captain Percy had actually playing that close to the chest since we left the last port. I believe she has a tentative line on our next job, but she hasn't shared details with me," Hemi said somewhat tentatively. "Alright, I need to and sit down with my numbers and do some figuring. I think it is time to go back across to the _Prospect_.
+Below were rows and rows of what Hemi was almost certain were lead-acid truck or tractor batteries. A rat's nest of greasy black cables ran back and forth between them.
+
+Hemi scratched his beard. "Welp. Let me see that meter." He lowered himself to his knees and reached out over the battery banks with the leads from the meter. He began touching the probes to various terminals on the batteries and writing down the results he read off the meter in his little notebook. "This is going to take a while."
+
+"Always fuckin' does." Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt. "So... where were _you_ guys headed, before the whole dead-ship thing?" 
+
+Hemi didn't look up from his work. "Captain Percy has been playing that close to the chest since we left the last port. I believe she has a line on our next job, but she hasn't shared details with me," Hemi said somewhat tentatively. "Alright, I need to and sit down with my numbers and do some figuring. I think it is time to go back across to the _Prospect_.
+
+[//]: # (maybe the next scene back in the Prospect runs like this: Hemi lays out his plan to cannibalize the gnat. Percy convinces him to go along with it by revealing the location of the depot, and the prospect of a big score there. basically reverse the dialog from the way it is now, and add in hints of bigger things to come. Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
 
 After making the jump back to the bigger boat, Shakes and Hemi settled down over the _Prospect's_ navigation charts. "OK, where is this depot Captain Shakes?"
 
@@ -421,7 +427,7 @@ Hemi put his pencil down. "Perhaps in your time on the sea some of you became fa
 
 "We have to cut everything to the bone, but the math says we could make it. _Could_."
 
-[//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over (though maybe there's some complex way they could move the batteries over). I guess it does make some kind of vague sense to mate the two boats up.)
+[//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over -- though maybe there's some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive -- shallowly.)
 
 "And what the fuck do I get from your little fuckin' biology lesson?" Asked Shakes. "The fucking fundamentals of this plan is really me casting my lot in with you losers. Basically I'm donating all my fuel to you and hoping I can piggyback in, right?"
 
