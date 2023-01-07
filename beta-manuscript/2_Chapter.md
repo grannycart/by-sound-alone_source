@@ -325,7 +325,15 @@ Shakes grinned.
 
 "No, not nearly. How much fuel do you have?"
 
-"Wellsir, this is how we check that..." Shakes slipped his finger through a metal ring atop a pipe that ran upward from the deck along the curve of the wall. He pulled a long wavering piece of thin steel from the pipe and wiped it on a foul rag that hung on a hook on the wall. He replaced the dipstick and then quickly pulled it back out again and held it up for Hemi to see the graduation along the dipstick. "Maybe twelve hours worth left. Enough to get me where I'm fuckin' going."
+"Wellsir, this is how we check that..." Shakes slipped his finger through a metal ring atop a pipe that ran upward from the deck along the curve of the wall. He pulled a long wavering piece of thin steel from the pipe and wiped it on a foul rag that hung on a hook on the wall. He replaced the dipstick and then quickly pulled it back out again and held it up for Hemi to see the graduation along the dipstick.
+
+Hemi winced as he caught an acrid whiff of petro-chemicals off the dipstick. "You buy decent quality fuel oil Captain Shakes?"
+
+"Ah well fuck, you know Hemi: I buy whatever I can get at the trading posts. I'm sure they're sometimes selling chunky bunker with the used oil from the cafeteria deep fryer dumped on top. But ain't that what the fuckin' fuel filter is for?" Shakes kicked at a rust-flaked cylinder mounted on a pipe running back towards the engine. "I consider it good quality fuel if I don't hafta siphon water out of the bottom of the tank after a top-up." 
+
+"Indeed. And how long will that amount of fuel oil you have there last you?" Hemi asked, pointing the eraser side of his pencil at the dripping dipstick Shakes was still holding between them.
+
+"Maybe twelve hours worth left. Enough to get me where I'm fuckin' going."
 
 "Where are you going?"
 

@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-07 11:37
+Last modified: 2023-01-07 15:35
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -201,6 +201,7 @@ Edits to pick up in second full pass through the book
 		* needs a new name, maybe Zag something?
 		* less asian,
 		* different distinction for dialog
+		* Sturmey smokes big cigars or a pipe
 * garbage gyre:
 	* [ ] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles
