@@ -407,8 +407,6 @@ She pounded the table, and looked up, breathing through her nostrils. "Fuck."
 
 [//]: # (### A plan)
 
-[//]: # (maybe the next scene back in the Prospect runs like this: Hemi lays out his plan to cannibalize the gnat. Percy convinces him to go along with it by revealing the location of the depot, and the prospect of a big score there. basically reverse the dialog from the way it is now, and add in hints of bigger things to come. Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
-
 Owen took his coffee to go, and headed towards the cargo hold to try and reinforce Chips' patches. When there was finally a cup of coffee in front of the rest of them, and the empty bowls pushed into the middle of the table, Percy brought them to order. "Next agenda item: assuming we don't fucking sink, how do we get my lady moving again?" She looked at Hemi.
 
 Hemi put his pencil down. "Perhaps in your time on the sea some of you became familiar with the Angler fish? In some species the female is enormous compared to the male, maybe a hundred times bigger. The females are complex, highly evolved organisms, with sophisticated traps for catching and devouring other fish. The males are nothing but tiny sperm repositories. They swim around until they find a female, attach themselves to the female's underside, and then fuse with her body, essentially becoming nothing more than a sperm organ for her."
@@ -423,45 +421,51 @@ Hemi put his pencil down. "Perhaps in your time on the sea some of you became fa
 
 "Hold the fuck on a second," Shakes cut in, "What exactly do I get out of your little biology lesson Hemi? The fundamental pin of this here plan of yours is really me casting my lot in with you loser a-holes. Basically you're turning my boat into a reserve tank, and I'm donating all my fuel to you. And maybe even more fuckin' 'gregiously than that: I'd be giving up the independent operator's _sacred_ right to self-determination. Suddenly I'm demoted from Captain of my own boat to rank-and-file in some back-water freight-trucking crew. What's the payoff for me? And it better be a whole lot more than a couple of bowls of fried rice, or I'm taking my boat and gettin' the fuck on my way. I mean, I thought I could just sell you some batteries or something and be on my way. But yer talkin' about something quite above and beyond my baseline generosity level."
 
-[//]: # (----- EDITED TO HERE -----)
-
 Captain Percy blew out her cheeks. "OK look. First: you are not going to be crew, you are our _guest_ Shakes."
 
 "_Captain_ Shakes," Shakes inserted.
 
-"Our guest, _Captain_ Shakes. Second, I've recently made a contact that has put me on to our possible next job, and let me say gentlemen it is a downright fuckin' doozy when it comes to potential profitability. You throw in with us right now _Captain_ Shakes, and it's like you're making a good bet on a large payout in the near future. Gregory, go get me the chart from the navigation table. I'll show you all what I'm thinking."
+"Our guest, _Captain_ Shakes. Second, I've recently made a contact that has put me on to our possible next job, and let me say gentlemen it is a downright fuckin' doozy when it comes to potential profitability. You throw in with us right now _Captain_ Shakes, and it's like you're making a good bet on a large payout in the near future. Assuming you're all done gorging yourselves, let's regroup at the navigation table and I'll show you what I'm thinking."
 
-"Anything that profitable has got to be illegal," said Shakes as Gregory popped through the forward hatch. 
+"Anything that profitable has got to be illegal," said Shakes as they made their way forward out of the galley.
 
-"As you know, for most cargo what's illegal in one territory is a high-value commodity in another."
+"As you know, what is illegal in one territory is a high-value commodity in another, at least for most cargo," said Hemi.
 
 "Oh, I wasn't judging; just, ya know, clarifying. Regional high-value commodities are the _Gnat's_ bread and butter."
 
-"Alright. Well to pick this job up, we need to reach the destination I was aiming for." Gregory had returned with the loosely-rolled chart and handed it to Percy. She spread it on the galley table as Hemi, Bastian, and Shakes lifted their coffee mugs out of the way.
-
-"So where are we?" asked Shakes.
+They regrouped around the navigation table, most still holding their tin coffee mugs. "So where are we now?" asked Shakes between sips.
 
 Hemi pointed to the obvious small x at the end of a string of grease pencil dashes.
 
+ "To pick this job up, we need to reach the destination I had been aiming for before we got side-tracked," said Percy, "and that destination is here." She pointed to a small feature on the chart.
+ 
+ Shakes set his coffee mug down on the glass covering the chart and pulled down the retractable magnifier. He leaned over the chart and read the label of the feature Percy had pointed to. "It says, 'deserted.' That's where your big fuckin' score awaits Captain Percy? A deserted island?"
+ 
+ "It _was_ deserted when this chart was made. And the current residents would probably prefer the charts remain labeled that way. But over the last ten years or so, a small depot was built there. Look..." She took the grease pencil and drew a lightweight but long line across hundreds of miles of ocean. "The Territorial Authority boundary is roughly about here. With total assholes on this side we are currently on, and only sort-of assholes on the other. So you can see how it makes sense to put a depot on that deserted island just across the line to help facilitate trade in, out, and through Asshole-vania over here."
 
+"The Authority on this side of the line _are_ a bunch of aggressive motherfuckin' assholes," said Shakes. "They must just fuckin' hate having that depot there."
 
-[//]: # (Percy reassures Shakes. She asks Gregory to go and fetch the chart from the navigation table. She lays out at least hints of her plan here to make the run to the underwater depot. Then she has Hemi do the calculations to see if it's possible to make it to the depot.)
+"That's why the proprietors would prefer the island to generally be understood to remain 'deserted.' And it's also why the assholes patrolling the water we're currently in are particularly unfriendly dicks to good folks likes ourselves in the business of shipping. Hence my prerogative to get us moving again, and why we would be particularly grateful to have you assistance in that endeavor Captain Shakes."
 
-"We have to cut everything to the bone, but the math says we could make it. _Could_."
+"Well, when you put it that way -- that particularly profitable way, I mean..." said Shakes.
+
+Hemi picked up a pair of calipers and measured the distance between the small grease-pencil x and the deserted island. "About 100 nautical miles..." he muttered mostly to himself. He set his notebook on the glass and scribbled calculations, pausing to take further measurements at some points. "We have to cut everything to the bone, but the math says we could make it. _Could_."
+
+[//]: # (----- EDITED TO HERE -----)
+
+[//]: # (Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
+
+"We can pay you for the fuel Captain Shakes," Said Percy.
 
 [//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over -- though maybe there's some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive -- shallowly.)
 
+"Plus we will need to fit a nice mating collar onto the _Gnat_. You may find that to be of some use in the future," said Hemi, "think of it as a deluxe feature."
 
-"We can pay you for the fuel Shakes." Said Percy.
-
-
-"Plus we will need to fit a nice mating collar onto the _Gnat_. You may find that to be of some use in the future." Said Hemi. "Think of it as a deluxe feature."
-
-"And hot meals til we get to the depot." Added Gregory.
+"And hot meals til we get to the depot," added Gregory.
 
 Shakes, perhaps more driven by his stomach than he cared to admit, considered. "I want double the value of the fuel."
 
-"Absolutely." Said Percy.
+"Absolutely," said Percy.
 
 "And you're buying a dinner of _good_ food at the depot."
 

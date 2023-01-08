@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-08 11:09
+Last modified: 2023-01-08 11:55
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -133,11 +133,11 @@ Edits to pick up in second full pass through the book
 * [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
 	* [ ] also the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
 * [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
-* [ ] dumped Shakes description of depot, might need to go back in:
+* [X] dumped Shakes description of depot, might need to go back in:
 	* "Mind if we ask where you're headed Captain Shakes?" Asked Percy
 	* "Aye, I was about to fuckin' say anyway: there's a mid-sea depot about 100 miles from here. It's just over the line in the waters of a different Authority. Somewhat more permissive folks; bit more friendly to commerce. That's why the Authority on this side of the line are such a bunch of aggressive motherfuckin' assholes though --- they don't want shit running through here to there. If you can get this dumpster of yers to the depot, you can definitely get fuel there, and probably some fuckin' poorly executed and overpriced repairs as well."
 	* "Sounds like a fucking Eden." Said Percy. 
-* [ ] dumped convo between Hemi and Shakes about depot that might need to go back in:
+* [X] dumped convo between Hemi and Shakes about depot that might need to go back in:
 	* After making the jump back to the bigger boat, Shakes and Hemi settled down over the _Prospect's_ navigation charts. "OK, where is this depot Captain Shakes?"
 	* Shakes pulled down the magnifier and scanned across the chart. "Wait, where are we now?" Hemi pointed to the obvious small x at the end of a string of grease pencil dashes. "Let's see.." Shakes tapped his black-stained finger against the glass covering the chart leaving faintly smudged fingerprints behind and rotated the magnifier around in slow circles. "Ah, here!" Shakes said pointing to a small island marked on the chart and labeled only "deserted."
 	* "That is your major trade center?" Asked Hemi. "A deserted island?"
