@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-08 11:55
+Last modified: 2023-01-08 18:33
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -182,6 +182,7 @@ Edits to pick up in second full pass through the book
 	* [ ] Make Vickers the bartender at the depot pub? Make it the nub pub?
 	* [ ] Address: where was Shakes going originally? 
 		* See line 334 in Chap 2
+		* remember Shakes isn't delivering to the depot now
 	* [o] Change it so Percy knows about the weapons job at the depot beforehand:
 		* [X] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
 			* See K's note on Shakes motivation to help

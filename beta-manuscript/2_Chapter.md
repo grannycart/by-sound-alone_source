@@ -415,6 +415,8 @@ Hemi put his pencil down. "Perhaps in your time on the sea some of you became fa
 
 "Here is what I propose," Hemi continued unfazed, "the _Prospect_ has a hatch with a mating collar on the bottom side of the boat. The normal intended use for it is underwater docking to another vessel's topside hatch. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. As a male anglerfish might..."
 
+[//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over -- though maybe there's some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive -- shallowly.)
+
 "Got it," Percy interrupted, "and you think there's enough juice left in the _Gnat_ for... what? How far could that take us?"
 
 "How far do you want to go Sylvia?"
@@ -437,11 +439,11 @@ They regrouped around the navigation table, most still holding their tin coffee 
 
 Hemi pointed to the obvious small x at the end of a string of grease pencil dashes.
 
- "To pick this job up, we need to reach the destination I had been aiming for before we got side-tracked," said Percy, "and that destination is here." She pointed to a small feature on the chart.
+"To pick this job up, we need to reach the destination I had been aiming for before we got side-tracked," said Percy, "and that destination is here." She pointed to a small feature on the chart with a grease-stained finger.
  
- Shakes set his coffee mug down on the glass covering the chart and pulled down the retractable magnifier. He leaned over the chart and read the label of the feature Percy had pointed to. "It says, 'deserted.' That's where your big fuckin' score awaits Captain Percy? A deserted island?"
+Shakes set his coffee mug down on the glass covering the chart and pulled down the retractable magnifier. He leaned over the chart and read the label of the feature Percy had pointed to. "It says, 'deserted.' That's where your big fuckin' score awaits Captain Percy? A deserted island?"
  
- "It _was_ deserted when this chart was made. And the current residents would probably prefer the charts remain labeled that way. But over the last ten years or so, a small depot was built there. Look..." She took the grease pencil and drew a lightweight but long line across hundreds of miles of ocean. "The Territorial Authority boundary is roughly about here. With total assholes on this side we are currently on, and only sort-of assholes on the other. So you can see how it makes sense to put a depot on that deserted island just across the line to help facilitate trade in, out, and through Asshole-vania over here."
+"It _was_ deserted when this chart was made. And the current residents would probably prefer the charts remain labeled that way. But over the last ten years or so, a small depot was built there. Look..." She took the grease pencil and drew a lightweight but long line across hundreds of miles of ocean. "The Territorial Authority boundary is roughly about here. With total assholes on this side we are currently on, and only sort-of assholes on the other. So you can see how it makes sense to put a depot on that deserted island just across the line to help facilitate trade in, out, and through Asshole-vania over here."
 
 "The Authority on this side of the line _are_ a bunch of aggressive motherfuckin' assholes," said Shakes. "They must just fuckin' hate having that depot there."
 
@@ -451,42 +453,46 @@ Hemi pointed to the obvious small x at the end of a string of grease pencil dash
 
 Hemi picked up a pair of calipers and measured the distance between the small grease-pencil x and the deserted island. "About 100 nautical miles..." he muttered mostly to himself. He set his notebook on the glass and scribbled calculations, pausing to take further measurements at some points. "We have to cut everything to the bone, but the math says we could make it. _Could_."
 
-[//]: # (----- EDITED TO HERE -----)
+"Wait a damned second, I put it to you again: what do _I_ get out of this fuckin' mechanical monstrosity of a plan?" Shakes was stabbing his finger against the table, leaving smudgy black prints on the glass.
 
-[//]: # (Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
+"I can pay you up front for the fuel we take from you today Captain Shakes," said Percy, "and at the depot I'll pay you your standard hull-load fee, plus refill your fuel oil. So it's like you're getting paid for a full shipping run just for accompanying us to the depot."
 
-"We can pay you for the fuel Captain Shakes," Said Percy.
+"You mean _if_ you get into that there 'highly profitable' line though don't ya? What if you find that fuckin' line has dried up?"
 
-[//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over -- though maybe there's some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive -- shallowly.)
+"In that case, we'll have to work something else out that is within our means. You afraid of a little gambling Captain Shakes?"
 
-"Plus we will need to fit a nice mating collar onto the _Gnat_. You may find that to be of some use in the future," said Hemi, "think of it as a deluxe feature."
+"What about my current load? This little fuckin' adventure of yours is going to set be back a couple of days at least. What do I tell my current client?"
 
-"And hot meals til we get to the depot," added Gregory.
+"Where is your drop-off?"
 
-Shakes, perhaps more driven by his stomach than he cared to admit, considered. "I want double the value of the fuel."
+"Well, I was headed for the Longland Islands trading center. Refuel there; and then on to my drop-off destination a few days out beyond that."
 
-"Absolutely," said Percy.
+"Com'on buddy," said Bastian, "look at the fuckin' chart; it's nearly the same direction! There's no way the difference in travel time between this depot and Longland Islands is more than a day. You can tell your client you were delayed by any whatever-fuck-thing you want. Hell, tell them the truth. You're probably still going to be within your delivery window anyway!"
 
-"And you're buying a dinner of _good_ food at the depot."
+Shakes considered the chart. There was no arguing with Bastian's point though.
 
-"Fuck you!" Said Gregory.
+"Plus we will fit a nice mating collar onto the _Gnat_. You may find that to be of some use in the future," said Hemi, "think of it as a deluxe feature."
 
-"Done." Said Percy.
+"And hot meals till we get to the depot," added Gregory.
 
-"And... I want you to keep a line open to me on any future job possibilities."
+Shakes looked up at Gregory at that, risking letting it slip that he might be bought cheap if the pay satisfied his stomach.  "I need one other thing though... I want you to keep a line open to me on any future job possibilities."
 
 "What.. like fuckin' partners?" Percy bristled.
 
-"Fuck no. I work the fuck alone. But an operator has to have connections in this fuckin' game. You'd be a big fucking cheese for me, feeding me future prospects. That way I get long-term payoffs for my investment in your sorry-ass fuckin' futures right now."
+"Fuck no. I work alone. But an operator has to have connections in this game. You'd be a big cheese for me; feeding me future prospects. That way I get long-term payoffs for my investment in your sorry-ass fuckin' futures right now."
 
-"Alright. Any job that seems suitable for a specialty cargo hauler like yourself, I will fucking happily send your way."
+"Alright. Any job that seems suitable for a specialty cargo hauler like yourself, I will happily send your fuckin' way."
 
-Shakes grinned. Now they were working in a space he understood -- most profit is future profit. "So, ah, Hemi, what exactly are ya going to do to my fuckin' beautiful boat?"
+Shakes grinned. Now they were working in a space he understood -- most profit is future profit. "So, ah, Hemi, what exactly are ya going to do to my beautiful boat?"
 
 "Well," Hemi said, looking at Percy, "first, we need to rouse Chips. She is the only one on board who might know how to fit a mating collar that could work."
 
-Percy was holding her fork in her fist, and grinding the tines back and forth against the tin plate, leaving deepening scratch lines. Percy and Shakes both looked at her. "Alright, Fuck. Hemi, go see if you can rehire Chips on a _temporary_ and ad-fucking hoc basis to do some of this welding we need. I don't want to see her though. Tell her to stay the fuck out of my way or she'll find herself swimming in the prop wash... once we're fucking moving again."
+Percy was grinding her teeth. "Alright, Fuck. Hemi, go see if you can rehire Chips on a _temporary_ and ad-fucking-hoc basis to do some of this welding we need. I don't want to see her though. Tell her to stay the fuck out of my way or she'll find herself swimming in the prop wash... once we're fucking moving again."
 
+[//]: # (----- EDITED TO HERE -----)
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They reconcile with Chips and talk about fitting mating collar to the Gnat)
 
