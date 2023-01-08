@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-07 22:37
+Last modified: 2023-01-08 11:09
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -182,11 +182,12 @@ Edits to pick up in second full pass through the book
 	* [ ] Make Vickers the bartender at the depot pub? Make it the nub pub?
 	* [ ] Address: where was Shakes going originally? 
 		* See line 334 in Chap 2
-	* [ ] Change it so Percy knows about the weapons job at the depot beforehand:
-		* [ ] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
+	* [o] Change it so Percy knows about the weapons job at the depot beforehand:
+		* [X] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
 			* See K's note on Shakes motivation to help
-		* [ ] so you have to remove references to Shakes leading them to depot
+		* [X] so you have to remove references to Shakes leading them to depot
 		* [ ] Have to revise the meeting Trinity scene so it seems intentional
+		* [ ] The (initial) questions about the legality (that I think are in the Trinity conversation) are moved up to when Percy is explaining the plan to Shakes (chap 2; line 430) 
 		* [ ] This can help lead the book along in the first part:
 			* What is this mysterious job at the depot Percy is going for?
 			* It seems somewhat nefarious, is it connected to the sub pursuing them? (It is, though maybe that's never made explicit, or it's tied to the conversation about the morality of running weapons)

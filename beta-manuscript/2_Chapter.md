@@ -421,11 +421,29 @@ Hemi put his pencil down. "Perhaps in your time on the sea some of you became fa
 
 "How far do you want to go Sylvia?"
 
-"Hold the fuck on a second," Shakes cut in, "What exactly do I get out of your little biology lesson Hemi? The fundamental pin of this here plan of yours is really me casting my lot in with you loser a-holes. Basically I'm donating all my fuel to you and -- maybe even more fuckin' 'gregiously than that -- giving up the independent operator's fuckin' _sacred_ right to self-determination! Suddenly I'm demoted from Captain of my own boat to rank-and-file in some back-water trucking crew. What's the payoff for me? And it better be a whole lot more than a couple of bowls of fried rice, or I'm taking my boat and gettin' the fuck on my way."
-
-Captain Percy blew out her cheeks. "OK
+"Hold the fuck on a second," Shakes cut in, "What exactly do I get out of your little biology lesson Hemi? The fundamental pin of this here plan of yours is really me casting my lot in with you loser a-holes. Basically you're turning my boat into a reserve tank, and I'm donating all my fuel to you. And maybe even more fuckin' 'gregiously than that: I'd be giving up the independent operator's _sacred_ right to self-determination. Suddenly I'm demoted from Captain of my own boat to rank-and-file in some back-water freight-trucking crew. What's the payoff for me? And it better be a whole lot more than a couple of bowls of fried rice, or I'm taking my boat and gettin' the fuck on my way. I mean, I thought I could just sell you some batteries or something and be on my way. But yer talkin' about something quite above and beyond my baseline generosity level."
 
 [//]: # (----- EDITED TO HERE -----)
+
+Captain Percy blew out her cheeks. "OK look. First: you are not going to be crew, you are our _guest_ Shakes."
+
+"_Captain_ Shakes," Shakes inserted.
+
+"Our guest, _Captain_ Shakes. Second, I've recently made a contact that has put me on to our possible next job, and let me say gentlemen it is a downright fuckin' doozy when it comes to potential profitability. You throw in with us right now _Captain_ Shakes, and it's like you're making a good bet on a large payout in the near future. Gregory, go get me the chart from the navigation table. I'll show you all what I'm thinking."
+
+"Anything that profitable has got to be illegal," said Shakes as Gregory popped through the forward hatch. 
+
+"As you know, for most cargo what's illegal in one territory is a high-value commodity in another."
+
+"Oh, I wasn't judging; just, ya know, clarifying. Regional high-value commodities are the _Gnat's_ bread and butter."
+
+"Alright. Well to pick this job up, we need to reach the destination I was aiming for." Gregory had returned with the loosely-rolled chart and handed it to Percy. She spread it on the galley table as Hemi, Bastian, and Shakes lifted their coffee mugs out of the way.
+
+"So where are we?" asked Shakes.
+
+Hemi pointed to the obvious small x at the end of a string of grease pencil dashes.
+
+
 
 [//]: # (Percy reassures Shakes. She asks Gregory to go and fetch the chart from the navigation table. She lays out at least hints of her plan here to make the run to the underwater depot. Then she has Hemi do the calculations to see if it's possible to make it to the depot.)
 
@@ -436,13 +454,10 @@ Captain Percy blew out her cheeks. "OK
 
 "We can pay you for the fuel Shakes." Said Percy.
 
-"_Captain_ Shakes." Said Shakes.
 
 "Plus we will need to fit a nice mating collar onto the _Gnat_. You may find that to be of some use in the future." Said Hemi. "Think of it as a deluxe feature."
 
 "And hot meals til we get to the depot." Added Gregory.
-
-[//]: # ("I got a propane stove stowed somewhere, so we don't have to waste any more precious electricity on cooking." -- could be something Gregory says here.)
 
 Shakes, perhaps more driven by his stomach than he cared to admit, considered. "I want double the value of the fuel."
 
