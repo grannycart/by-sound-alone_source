@@ -353,79 +353,86 @@ Hemi didn't look up from his work. "Captain Percy has been playing that particul
 
 After Shakes had filled up the small space with a haze of tobacco smoke, Hemi sat up straight and stashed his notebook and pencil back in his pocket. "I think I have enough information for the time being. That food Gregory was working on is probably ready. Shall we go see if we can find something hot to eat?"
 
-"Shit ya. My gut is a gaping hole. Help me get this panel back in place though." Shakes tossed the remaining pinch of burning cigarette in the direction of the ashtray.
+"Shit ya. My gut is a gaping hole. Help me get this panel back in place though." Shakes tossed the remaining pinch of burning cigarette in the direction of the ashtray and Hemi helped him replace the panel.
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### A meal aboard the Prospect)
 
-[//]: # (----- EDITED TO HERE -----)
+Shakes and Hemi came into the galley of the _Prospect_ with Captain Percy and Bastian already crammed into the tight seating around the table. Gregory was working a giant cast iron pan at the stove that was so heavy with frying rice that the wiry muscles of the arm controlling the pan bulged with the effort of shaking it.
 
-Hemi and Shakes came into the galley of the _Prospect_ with Captain Percy and Bastian already crammed into the tight seating around the table. Gregory was working a giant cast iron pan at the stove that was so heavy with frying rice that the wiry muscles of the arm controlling the pan bulged with the effort of shaking it -- a gesture he felt was necessary to keep the rice moving and frying evenly without burning.
-
-[//]: # (Would they have a gas range on a sub? Or would it be electric. If electric, would they waste power cooking food?)
+[//]: # (Would they have a gas range on a sub? Or would it be electric. If electric, would they waste power cooking food? Maybe we shall just leave that little tidbit unaddressed.)
 
 Gregory looked up when Hemi and Shakes came in. Hemi introduced Shakes.
 
-"Fuck yeah," said Shakes eyeing the pile of frying rice. "I ain't eaten nothing but cold fucking canned pasta for a week."
+"Fuck yeah," said Shakes eyeing the pile of frying rice, "I ain't eaten nothing but cold canned pasta for more than a week."
 
-"None of your canned garbage food here, Captain Shakes." Said Gregory, grinding the pan back and forth across the range in a way that set small sparks flying. "This is real fucking submariner's food. Everything good that can't go bad: rice, eggs, cabbage..."
+"None of your canned garbage food here, Captain Shakes," said Gregory, grinding the pan back and forth across the range in a way that set small sparks flying. "Gotta keep it moving or it'll burn to the bottom. This is real fucking submariner's food. Everything good that can't go bad: rice, eggs, cabbage..."
 
-"Are you putting that foul slimy-gray pickled cabbage in the rice Gregory?" Asked Bastian. "You'll be killing submariners if submariner's food is that fucking real."
+"Are you putting that foul slimy-gray pickled cabbage in the rice again Gregory?" asked Bastian, "you'll be killing submariners if submariner's food is that fucking real."
 
 Gregory huffed. "My ol' pap worked a submarine galley in the wars. He used to say 'if you can heat it, you can eat it.' And this shit's gonna be plenty fucking hot." Gregory dumped in an entire container of the questionable pickled cabbage, and stirred it around as the sound of frying drowned out any conversation. This process only lasted a few minutes more. 
 
-"Captain Shakes, for helping us out, you're up first." Gregory cracked an egg onto smoking smaller frying pan next to the giant one full of rice. As it sizzled on the creosote surface, Gregory dumped huge piles of rice into a big bowl and handed it to Shakes. The rice was browned by the black salty sauces Gregory had poured into it, and burned to a crusty-black crunchiness in places. Steaming bits of cabbage slithered throughout, flecked with red and black pepper. Shakes was about to dig a fork in when Gregory slipped the fried egg on top with a spatula. Its white was stained an oily, slightly gray color, and the glowing orange yolk was held in place by a wiggling skin on the edge of being burst from the pressure of the hot liquid inside.
+"Captain Shakes, for helping us out, you're up first." Gregory cracked an egg onto a smoking smaller frying pan next to the giant one full of rice. As it sizzled on the creosote surface, Gregory dumped huge piles of rice into a big bowl and handed it to Shakes. The rice was browned by the black salty sauces Gregory had poured into it, and burned to a crusty-black crunchiness in places. Steaming bits of cabbage slithered throughout, flecked with red and black pepper. Shakes was about to dig a fork in when Gregory slipped the fried egg on top with a spatula. Its white was stained an oily, slightly-gray color, and the glowing orange yolk was held in place by a wiggling skin on the edge of being burst from the pressure of the hot liquid inside.
 
 Shakes grinned before plunging the tines of his fork into the yolk and letting it run into his rice. He then started working his way into his bowl with an uninterrupted shoveling motion of his fork from the bowl to his mouth.
 
 Gregory served up the rest of the crew the same way. Captain Percy asked him to run up to the control room and get on the PA and tell Owen to come up for some grub.
 
-Hemi sat at the end of the table with Shakes' electric motor manual open in front of him, eating his rice with one hand while scribbling down notes in the other.
+Hemi sat at the end of the table with his little notebook propped open in front of him, eating his rice with one hand while scribbling down calculations with the other.
 
-[//]: # (Again, why is Hemi reading the manual here? I have no fucking idea.)
-
-Their hunger got the better of any conversation for a few minutes as they moved mounds of rice, egg, and cabbage. Gregory served himself and sat down, and got back up a few minutes later to fry another egg for Owen when he arrived. A few minutes later had to get up to make Shakes another egg. All told, every one of them had at least two servings and Owen and Shakes each ate three servings apiece. Gregory never got to sit for more than a minute. And when no more eggs were being demanded, he got up again to put coffee on.
+Their hunger got the better of any conversation for a few minutes as the mounds of rice, egg, and cabbage steadily vanished. Gregory served himself and sat down, and got back up a few minutes later to fry another egg for Owen when he arrived. A few minutes after that, he had to get up to make Shakes another egg. All told, every one of them had at least two servings and Owen and Shakes each ate three servings apiece. Gregory never got to sit for more than a minute. And when no more eggs were being demanded, he got up again to put coffee on.
 
 Between forkfuls of rice, Captain Percy tried to get an assessment of the situation on her boat. "Owen, have you been down in the cargo hold?" Owen nodded, his crop fully loaded. "How's the patch looking?"
 
-Owen swallowed, and then swallowed again. "I'm hardly an expert on welding or repairs, but I'd say it looks pretty bad. The patches are an ugly mess, and I'm pretty sure the water level is rising again, though more fucking slowly."
+Owen swallowed, and then swallowed again. "I'm hardly an expert on welding or repairs, but I'd say it looks pretty bad. The patches are an ugly mess, and I'm pretty sure the water level is rising again, though more slowly."
 
 "Can you work on it? Can you clean up those welds, get the leaking stopped?" Percy asked.
 
-"I can try. But you know it's fucking delicate work that I'm just starting to figure out. There's a chance I could just make it worse -- burn a hole right through the hull. If you're asking me, I think you need Chips to work on it."
+"I can try. But you know it's delicate work that I'm just starting to figure out. There's a chance I could just make it worse -- burn a hole right through the hull. If you're asking me, I think you need Chips on it."
 
-"I didn't ask your fucking opinion you little shit. I asked if you can fucking fix it." Said Percy, aiming her fork at him. Hemi looked at his food instead of the manual. 
+"I didn't ask your opinion you little shit. I asked if you can fix it." Said Percy, aiming her fork at him.
 
 "Yeah, Captain Percy. No fuckin' sweat." Owen poked at his food a little less hungrily.
 
-"Finish your food and get your skinny ass back the fuck down there."
+"Finish your food and get your skinny ass back down there."
 
-"Sylvia," Hemi said, not looking up from his food. "I really think you need to do what you can to get Chips back to welding."
+"Sylvia," Hemi said, not looking up from his food. "I really think you need to do what you can to get Chips back to working on those repairs."
 
 She pounded the table, and looked up, breathing through her nostrils. "Fuck."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### A plan)
 
 [//]: # (maybe the next scene back in the Prospect runs like this: Hemi lays out his plan to cannibalize the gnat. Percy convinces him to go along with it by revealing the location of the depot, and the prospect of a big score there. basically reverse the dialog from the way it is now, and add in hints of bigger things to come. Maybe Shakes says he was on his way to the Longland Islands trading center, but that was just for a refuel and his final delivery was to be in Stilt City -- maybe?)
 
-Owen took his coffee to go, and headed towards the cargo hold to try and keep reinforcing Chips' patch. When there was finally a cup of coffee in front of the rest of them, and the empty bowls pushed into the middle of the table, Percy brought them to order. "Next agenda item: assuming we don't fucking sink, how to get this boat moving again?" She looked at Hemi.
+Owen took his coffee to go, and headed towards the cargo hold to try and reinforce Chips' patches. When there was finally a cup of coffee in front of the rest of them, and the empty bowls pushed into the middle of the table, Percy brought them to order. "Next agenda item: assuming we don't fucking sink, how do we get my lady moving again?" She looked at Hemi.
 
 Hemi put his pencil down. "Perhaps in your time on the sea some of you became familiar with the Angler fish? In some species the female is enormous compared to the male, maybe a hundred times bigger. The females are complex, highly evolved organisms, with sophisticated traps for catching and devouring other fish. The males are nothing but tiny sperm repositories. They swim around until they find a female, attach themselves to the female's underside, and then fuse with her body, essentially becoming nothing more than a sperm organ for her."
 
-"Hemi, let's try stepping around the fucking long-winded metaphor and getting to the fucking point." Said Captain Percy.
+"Hemi, let's try stepping around the long-winded metaphor and get to the fucking point." Said Captain Percy.
 
-"Here is what I propose," Hemi continued unfazed, "The _Prospect_ has a hatch with a mating collar on the bottom side of the boat. The normal intended use for it is underwater docking to another vessel's topside hatch. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. Kinda like a male anglerfish..."
+"Here is what I propose," Hemi continued unfazed, "the _Prospect_ has a hatch with a mating collar on the bottom side of the boat. The normal intended use for it is underwater docking to another vessel's topside hatch. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. As a male anglerfish might..."
 
-"Got it." Percy interrupted. "And you think there's enough juice left in the _Gnat_ to take us both to the depot like that?"
+"Got it," Percy interrupted, "and you think there's enough juice left in the _Gnat_ for... what? How far could that take us?"
+
+"How far do you want to go Sylvia?"
+
+"Hold the fuck on a second," Shakes cut in, "What exactly do I get out of your little biology lesson Hemi? The fundamental pin of this here plan of yours is really me casting my lot in with you loser a-holes. Basically I'm donating all my fuel to you and -- maybe even more fuckin' 'gregiously than that -- giving up the independent operator's fuckin' _sacred_ right to self-determination! Suddenly I'm demoted from Captain of my own boat to rank-and-file in some back-water trucking crew. What's the payoff for me? And it better be a whole lot more than a couple of bowls of fried rice, or I'm taking my boat and gettin' the fuck on my way."
+
+Captain Percy blew out her cheeks. "OK
+
+[//]: # (----- EDITED TO HERE -----)
+
+[//]: # (Percy reassures Shakes. She asks Gregory to go and fetch the chart from the navigation table. She lays out at least hints of her plan here to make the run to the underwater depot. Then she has Hemi do the calculations to see if it's possible to make it to the depot.)
 
 "We have to cut everything to the bone, but the math says we could make it. _Could_."
 
 [//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over -- though maybe there's some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive -- shallowly.)
 
-"And what the fuck do I get from your little fuckin' biology lesson?" Asked Shakes. "The fucking fundamentals of this plan is really me casting my lot in with you losers. Basically I'm donating all my fuel to you and hoping I can piggyback in, right?"
 
 "We can pay you for the fuel Shakes." Said Percy.
 

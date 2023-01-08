@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-07 15:35
+Last modified: 2023-01-07 22:37
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -42,7 +42,7 @@ Edits to pick up in second full pass through the book
 		* this could tap into chain-of-command issues, like the Tenerife airport disaster. Something bad happens because someone doesn't want to challenge the captain.
 		* this would be way more interesting than just having everyone working to the best of their abilities ala star trek
 		* make the captain lovable, but falable. this aspect of tony soprano is worth copying
-* [ ] The captain is the only person who refers to the ship as 'she' 
+* [ ] Percy is the only person who refers to the ship as 'she' 
 	* everyone else refers to it as 'the boat'
 * [ ] fuel oil -- is what fuel is called
 * [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
