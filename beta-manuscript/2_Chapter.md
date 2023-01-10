@@ -483,13 +483,11 @@ Shakes looked up at Gregory at that, risking letting it slip that he might be bo
 
 "Alright. Any job that seems suitable for a specialty cargo hauler like yourself, I will happily send your fuckin' way."
 
-Shakes grinned. Now they were working in a space he understood -- most profit is future profit. "So, ah, Hemi, what exactly are ya going to do to my beautiful boat?"
+Shakes grinned. Now they were negotiating from a place he understood -- most profit is future profit. "So, ah, Hemi, what exactly are ya going to do to my beautiful boat?"
 
 "Well," Hemi said, looking at Percy, "first, we need to rouse Chips. She is the only one on board who might know how to fit a mating collar that could work."
 
-Percy was grinding her teeth. "Alright, Fuck. Hemi, go see if you can rehire Chips on a _temporary_ and ad-fucking-hoc basis to do some of this welding we need. I don't want to see her though. Tell her to stay the fuck out of my way or she'll find herself swimming in the prop wash... once we're fucking moving again."
-
-[//]: # (----- EDITED TO HERE -----)
+Percy was grinding her teeth. "Alright, Fuck. Hemi, go see if you can rehire Chips on a _temporary_ and ad-fucking-hoc basis to do some of this welding we need. I don't want to see her though. Tell her to stay the fuck out of my way or she'll find herself swimming in the prop wash... once we're moving again."
 
 [//]: # (----- invisible character break)
  
@@ -508,36 +506,40 @@ Hemi loaded up another bowl of rice and led Shakes to the crew quarters where th
 
 "I am just explaining _why_ she is not going to come apologize, Chips. I am also going to tell you I believe she was entirely wrong, and risked your life by not warning you she was going to blow the tanks. You were right, and she _should_ apologize, but you know her -- she will not."
 
-"So fuckin' what? You think I fuckin' give a shit?"
+"So fuckin' what? You think I give a shit?"
 
-"So I do not believe you want to die out here just because she is unwilling to ever admit you were right and she made a mistake. But that is what is going to happen Chips: we are going to sink and die on this bleak stretch of ocean right here if you do not help us. We need you to keep the welds on that patch of yours together. Please."
+"So I do not believe you want to die out here just because she is never going to do the right thing and admit she made a mistake. But that is what is going to happen: we are going to sink and die on this bleak stretch of ocean right here if you do not help us. We need you to keep the welds on that patch of yours together. Please."
 
 There was a silence. Then a small, filthy hand stuck out from behind the curtain. "Give me that food, I'm fucking starving." Hemi put the warm bowl of rice into the hand, and it withdrew. There was a clinking of the fork for a minute, and then Chips opened the curtain a little so she could look at Hemi and talk to him while she ate. That's when she saw Shakes. "Who the fuck is that?"
 
-"I'm fuckin' Shakes." Said Shakes.
+"I'm fuckin' Shakes," said Shakes.
 
-"_Captain_ Shakes." Said Hemi.
+"_Captain_ Shakes," said Hemi.
 
-"Is that your name or how you reproduce?" Asked Chips.
+"Is that your name or how you reproduce?" asked Chips.
 
 "Like you're one to fuckin' talk. Didn't they call you 'Chips'?"
 
-"Look," Hemi interrupted, "we found Captain Shakes here on the surface. He has a boat -- a small boat. I want to weld a mating collar onto the sail of his boat. It has to fit to the _Prospect's_ bottom mating collar. I want to attach his boat to the underside, and run with it that way. And this is another project we cannot do without you. Think you could rig something like that?"
+"Look," Hemi interrupted, "we found Captain Shakes here on the surface. He has a boat -- a small sub. I want to weld a mating collar onto the sail of his boat. It has to fit to the _Prospect's_ bottom mating collar. I want to attach his boat to the underside, and run with it that way. This is another project we cannot do without you. Think you could rig something like that?"
 
-"Well fuck. I might have some spare steel that could do that. Depends on what the hatch on his boat looks like, so I'll have to fuckin' eyeball that. Possible it could be done." She thought for a second. "But that's a fuckin' tricky bit of sonar listening to make that mating work, steerin' the boat up from underneath, like. You think you got the fuckin' skills to do that Captain Shakes?"
+"Well fuck. I might have some scrap steel that could do that. Depends on what the hatch on his boat looks like, so I'll have to fuckin' eyeball that. Possible it could be done." She thought for a second. "But that's a fuckin' tricky bit of sonar listening to make that mating work, steerin' the boat up from underneath, like. You think you got the fuckin' skills to do that Captain Shakes?"
 
-"I've squeezed that boat through any number of tight places, like narrow fuckin' gaps when pushing through Authority fencing. I'm as good a small-boat pilot as there ever fuckin' was."
+"I've squeezed that boat through any number of tight places -- narrow fuckin' gaps pushing through Authority anti-sub fencing and the like. I'm as good a sub pilot as there ever fuckin' was."
 
-"His boat, The _Gnat_, has a viewport in the sail. He should be able to see where he is to do the mating maneuver mostly without sonar." Said Hemi.
+"His boat, The _Gnat_, has a viewport in the sail. He should be able to see enough to execute the mating maneuver without the aid of sonar," said Hemi.
 
-"A fuckin' window on a submarine. Stupidest fuckin' thing I ever heard. Fuckin' crazy shit ya want to pull here. Look Hem', you're right about me not wanting to die out here. Way I figure it is to best push that priority forward, I gotta spend my time workin' on my fucking patch in the cargo hold. I may in fact spend the rest of my fuckin' life working on that fuckin' patch. I ain't got time to be up there fuckin' around with welding scrap steel onto what -- and I'm just taking a wild fucking guess here -- is some barely-afloat rusting sea-tractor." She paused. "You might get Owen to fuckin' do it."
+"A fuckin' window on a submarine. Stupidest fuckin' thing I ever heard. Fuckin' crazy shit ya want to pull here. Look Hem', you're right about me not wanting to die out here. Way I figure it is to best push that priority forward, I gotta spend my time workin' on my fucking patch in the cargo hold. I may in fact spend the rest of my fuckin' life working on that fuckin' patch. I ain't got time to be up there fuckin' around with welding scrap steel onto what -- and I'm just taking a wild fucking guess here -- is some barely-afloat rusting sea-tractor." She paused. "You might get Owen to do it."
 
-"The kid?" Asked Shakes, "Fuck that. If there's welding to be done, I'll weld my own fucking boat."
+"The kid?" asked Shakes, "fuck that. If there's welding to be done, I'll weld my own boat."
 
-"She is right though." Said Hemi. "The patch in the _Prospect_ needs more work. If it fails, it could take both boats down. Before you do go back to your patch though Chips, get Owen and go out with Captain Shakes and take a look at the _Gnat_. Make sure they have what they need to get this done right. It is not going to help us much if the mating collar leaks and floods the _Gnat_. Have Owen haul up the spare welding rig." 
+"She is right though," said Hemi, "the patch in the _Prospect_ needs more work. If it fails, it could take both boats down. Before you do go back to your patch though Chips, get Owen and go out with Captain Shakes and take a look at the _Gnat_. Make sure they have what they need to get this done right. It is not going to help us much if the mating collar leaks and floods the _Gnat_. Have Owen haul up the spare welding rig." 
 
-"Aye Hem'." She said, understanding that what Hemi really meant was she should instruct Shakes on how to do the job correctly. She swung down from her bunk handing Hemi her empty food bowl. "Let's go find the fuckin' kid, and have a look at this boat of yours." She said to Shakes.
+"Aye Hem'," she said, understanding that what Hemi really meant was she should instruct Shakes on how to do the job correctly. She swung down from her bunk handing Hemi her empty food bowl. "And fuck you for workin' around my bad mood by siccing me on a right mechanical challenge. Come on _Captain_ Shakes, we'll go find the fuckin' kid, and have a look at this boat of yours."
 
+[//]: # (----- EDITED TO HERE -----)
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Hemi and Percy put someone on radar)
 
