@@ -536,8 +536,6 @@ There was a silence. Then a small, filthy hand stuck out from behind the curtain
 
 "Aye Hem'," she said, understanding that what Hemi really meant was she should instruct Shakes on how to do the job correctly. She swung down from her bunk handing Hemi her empty food bowl. "And fuck you for workin' around my bad mood by siccing me on a right mechanical challenge. Come on _Captain_ Shakes, we'll go find the fuckin' kid, and have a look at this boat of yours."
 
-[//]: # (----- EDITED TO HERE -----)
-
 [//]: # (----- invisible character break)
  
 
@@ -545,13 +543,13 @@ There was a silence. Then a small, filthy hand stuck out from behind the curtain
 
 Hemi found Percy sitting at the sonar station with the headset on, listening. When she saw Hemi, she pulled one earpiece off. "That go OK?"
 
-"Yeah, Shakes says he is going to do the welding on the _Gnat_, Chips wants to keep working on the _Prospect's_ patch."
+"Yes. Shakes says he is going to do the welding on the _Gnat_, Chips wants to keep working on the _Prospect's_ patch."
 
 "I'm glad she came to her fucking senses."
 
 "Her senses had little to do with it."
 
-Percy ignored that. "What's fucking next?"
+Percy ignored that. "What's next?"
 
 "I wanted to look at the chart and run my numbers again."
 
@@ -561,14 +559,18 @@ Percy ignored that. "What's fucking next?"
 
 "Yeah. Alright, I'll get Bastian in here. Better than fucking nobody."
 
-"Send Gregory out to help Owen and Shakes. Welding the mating collar on the _Gnat_ is going to be a bit of a tricky operation."
+"Send Gregory out to help Owen and Shakes. Welding the mating collar on the _Gnat_ is going to be a something of a tricky operation."
 
-"Right." Captain Percy headed to the galley to rouse the people from their cold and empty coffee cups.
+"Right." Captain Percy climbed to the control room to rouse her crew on the PA..
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Back on deck, with the cargo hold hatch open, lifting the welding rig and welding the Gnat mating collar)
 
-On the deck of the _Prospect_ Owen had raised the big cargo hatch, which opened a gaping hole down into the wide open space of the cargo hold. This was the only way to get the heavy welding rig out of the boat. He had assembled a small tripod gantry over the hole, from which was hanging a heavy block with a chain running through it. Gregory was down in the cargo hold hooking the end of the chain to a welding rig. When he had it secured, Gregory gave Owen the thumbs up.
+[//]: # (----- EDITED TO HERE -----)
+
+On the deck of the _Prospect_ Owen had raised the big cargo hatch, which gave a gaping hole down into the wide open space of the cargo hold. This was the only way to get the heavy welding rig out of the boat. He had assembled a small tripod gantry over the hole, from which was hanging a heavy chain hoist. Gregory was down in the cargo hold hooking the end of the chain to a welding rig. When he had it secured, Gregory gave Owen the thumbs up.
 
 "Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up take a look around: we still need the material for the mating collar, and the gangway so I can wheel this fucking thing across to the _Gnat_. Also some heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_ with the chop washing over it where Chips and Shakes were drawing lines on the top of the sail with a grease pencil. "Uh, better get those fucking rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be fucking easy." He said to himself through the cigarette hanging from his lips. Each long pull on the chain only eased the welding rig below up a matter of centimeters as the lifting capabilities of the chain were reduced by the blocks it looped through.
 
