@@ -568,41 +568,46 @@ Percy ignored that. "What's next?"
 
 [//]: # (### Back on deck, with the cargo hold hatch open, lifting the welding rig and welding the Gnat mating collar)
 
-[//]: # (----- EDITED TO HERE -----)
+On the deck of the _Prospect_ Owen had raised the big cargo hatch, which opened a gaping hole down into the cavernous space of the cargo hold. Through the cargo hatch was the only way to get the heavy welding rig out of the boat. He had assembled a small tripod gantry over the hole, and from it he had hung a hefty chain hoist. Gregory was down in the cargo hold securing the end of the chain to a welding rig. When he had it ready, Gregory gave Owen the thumbs up.
 
-On the deck of the _Prospect_ Owen had raised the big cargo hatch, which gave a gaping hole down into the wide open space of the cargo hold. This was the only way to get the heavy welding rig out of the boat. He had assembled a small tripod gantry over the hole, from which was hanging a heavy chain hoist. Gregory was down in the cargo hold hooking the end of the chain to a welding rig. When he had it secured, Gregory gave Owen the thumbs up.
+"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up, take a look around: we still need the material for the mating collar. And get the gangway into position, I'll need it to wheel this fucking thing across to the _Gnat_. Also some heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_ with the chop washing over it where Chips and Shakes were drawing lines on the top of the sail with a grease pencil. "Uh... better get those fucking rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be easy," he said to himself through the cigarette hanging from his lips. Each long pull on the chain only eased the welding rig below up a matter of centimeters as the lifting capabilities of the chain were both augmented and slowed by the wheels it looped through.
 
-"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up take a look around: we still need the material for the mating collar, and the gangway so I can wheel this fucking thing across to the _Gnat_. Also some heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_ with the chop washing over it where Chips and Shakes were drawing lines on the top of the sail with a grease pencil. "Uh, better get those fucking rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be fucking easy." He said to himself through the cigarette hanging from his lips. Each long pull on the chain only eased the welding rig below up a matter of centimeters as the lifting capabilities of the chain were reduced by the blocks it looped through.
-
-When he finally got the welding rig suspended over the deck, he gave it a little kick, and when it swung back he let the chain out and grabbed the rig as it touched the deck and tilted back toward the hole. This was really a two-person job, a mistake would mean a 10-meter drop into the cargo hold, and probably being maimed or killed. Transport subs were perpetually under-crewed leaving a lot of work being done by individuals that would be much safer with a few more people helping out.
+When he finally got the welding rig suspended over the deck, he gave it a little kick, and when it swung back he let the chain out and grabbed the rig as it touched the deck and tilted back toward the hole. This was really a two-person job, a mistake would mean a 10-meter drop into the cargo hold, and probably being maimed or killed. Doing the job of three people by yourself was typical of working on one of these always-understaffed cargo subs.
 
 Owen wheeled the welding rig away from the cargo hatch and aligned its wheels with the deck of the _Prospect_ so it would not tilt off into the ocean. By the time he got back over the big open cargo hatch, Gregory had returned underneath with the gangway. Lashed to the railings of the gangway were the various other things Owen had asked for. Owen dropped the end of the chain down to him, and Gregory clipped it to one end of the gangway. "Hold on, I'll come up and help you haul it up." He disappeared toward the stern of the boat.
 
 With Gregory helping to pull the chain through the blocks, they hauled the gangway vertically up to the mouth of the cargo hatch, out onto the deck, and got it lashed into place connecting the higher deck of the _Prospect_ to the low, wet deck of the _Gnat_.
 
-
 [//]: # (### They plan the mating collar)
 
-Chips waved Owen over. "Thanks for doing that fuckin' gangway. It'll be a lot easier getting back to the _Prospect_." She grinned her rarely-seen, wide-mouthed, slightly gapped-tooth grin at Owen. "Alright, look here, this is the plan Shakes and I got worked out, and ya should be glad Shakes is doing it. It's going to be a fuckin' nightmare if it works, and like a fuckin' wet, squirtin', languish in the head if it don't." She pointed to the top of the sail. "We fuckin' lucked out though, Shakes here built the sail fat enough that we can make the welds fuckin' flat. Ya just need a piece of steel cylinder cut even, then weld it around the hatch opening, and then weld those spare male docking clamps we got onto the sides of the cylinder."
+Chips waved Owen over. "Thanks for doing that fuckin' gangway. It'll be a lot easier getting back to the _Prospect_." She grinned her rarely-seen, wide-mouthed, slightly gapped-tooth grin at Owen. "Alright, look here, this is the plan Shakes and I got worked out, and ya should be glad Shakes is doing it. It's going to be a fuckin' nightmare if it works, and like a fuckin' wet, squirtin', languish in the head if it don't." She pointed to the top of the sail. "We fuckin' lucked out though, Shakes here built the sail fat enough that we can make the welds fuckin' flat. Ya just need a piece of steel cylinder of the right diameter, cut it even, then weld it around the hatch opening. And then weld those spare male docking clamps we got onto the sides of the cylinder."
 
-"How're you going to activate the docking clamps?" Asked Owen. "They're electro-magnetic, right?."
+"How am I going to get a cylinder the right diameter?"
 
-"Yeah," said Shakes, "we'll need to drill some fucking through-hull fittings. That sucks, but it shouldn't be too hard to make them water-tight to 30 meters, which is what I usually call the depth limit of the _Gnat_. And if they do happen to leak... well, they'll be pretty small leaks. A boat that don't leak isn't a boat, it's like, a fuckin' airplane, or something."
+"Worst fuckin' case you have to weld it together out of over-lapping curved pieces. But I think I might have a hunk of steel tube in the scrap pile left over from repairs to the mating collar on the _Prospect_ a while back. In that case we might -- if you're a fuckin' lucky sonof-uh-ho-ar -- have something exactly the right fucking diameter already."
 
-"Since we're going to be dragging the _Gnat_ along by the mating collar," said Owen, "Seems like ya should also weld some supports on the outside of the collar, down the sail, and directly to the structural elements of the hull. It'll be ugly as fuck, but less likely to leave the _Gnat_ ripped away from the collar." 
+Owen nodded. "And how're the docking clamps going to be activated?" asked Owen, "they're electro-magnetic, right?."
 
-"Ugly-as-fuck is my other name." Said Shakes.
+"Yeah," said Shakes, "we'll need to drill some through-hull fittings. That sucks, but it shouldn't be too hard to make them water-tight to 30 meters, which is what I usually call the depth limit of the _Gnat_. And if they do happen to leak... well, they'll be pretty small leaks. A boat that don't leak isn't a boat, it's like, a fuckin' airplane, or something."
 
-"Listen to the kid, Shakes. He's gettin' a fuckin' touch for this stuff." Said Chips.
+"Since we're going to be dragging the _Gnat_ along by the mating collar," said Owen, "Seems like we should also weld some supports on the outside of the collar, down the sail, and directly to the structural elements of the hull. It'll be ugly as fuck, but less likely to leave the _Gnat_ ripped away from the collar." 
 
-"Hey, offer all the advice you want, but I'm the one who puts the fuckin' torch to my boat, ya?"
+"Ugly-as-fuck is my other name," said Shakes.
 
-"Good by fuckin' me. I'll leave ya stupid fuckers too it. I got my own welding to do." Said Chips, giving them a casual salute and heading up the gangway to the _Prospect_.
+"Listen to the kid, Capt Shakes. He's gettin' a fuckin' touch for this stuff," said Chips.
 
-"We'll need some more pieces of scrap steel to make this work, I'll get Gregory digging them up." Said Owen.
+"Hey, offer all the advice you want, but I'm the one who puts the fuckin' torch to my boat, got it?"
 
+"Good by fuckin' me. I'll leave ya stupid fuckers too it. I got my own welding to do." Chips gave them a casual salute and made her way along the gangway to the _Prospect_.
+
+"I'll get Gregory digging through that scrap steel, see if he can find that tube she was talkin' about," said Owen.
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They weld the mating collar)
+
+[//]: # (----- EDITED TO HERE -----)
 
 This was going to be an extremely tough job. Not as tough as welding the pressure hull back together under water like Chips was currently doing, Owen reminded himself -- but nobody would do this job on the _Gnat_ if they didn't have to. Owen had wheeled the welding rig across the gangway, and that had only been modestly harrowing. Lashing it to the sloshing hull of the _Gnat_ had been somewhat more so. Owen set Shakes up with everything he needed, like a nurse handing a surgeon the tools for opening a consumptive rib cage.
 
