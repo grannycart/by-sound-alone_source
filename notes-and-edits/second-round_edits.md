@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-13 23:24
+Last modified: 2023-01-14 12:35
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -45,7 +45,8 @@ Edits to pick up in second full pass through the book
 * [ ] Percy is the only person who refers to the ship as 'she' 
 	* everyone else refers to it as 'the boat'
 * [ ] are the ballast valves operated by switches? or wheels?
-	* I'm going to make them switches at chap 2 line 736
+	* I'm going to make them **wheels** at chap 2 line 736
+	* (wheels so they have fine-grained control over flooding)
 * [ ] fuel oil -- is what fuel is called
 * [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
 	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
