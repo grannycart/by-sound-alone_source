@@ -808,31 +808,31 @@ He picked up the ship-to-ship. "Hemi, I think I'm fuckin' on."
 
 [//]: # (### The hatch needs to be repaired)
 
-[//]: # (----- EDITED TO HERE -----)
-
 In the deepest part of the _Prospect_, in the narrow hall between the forward and rear battery rooms with heavy water-tight bulkhead doors on either side, Gregory and Chips sat on the deck on either side of a well where they had pulled up the grating between them. Their feet dangled down into the well and Gregory tapped his toes lightly on the still-closed hatch while they waited for the signal from Shakes.
 
-Gregory seemed a little nervous. "Ehhh, Chips, should we close and seal this watertight bulkhead door behind me here? Seems like if Shakes' welds fail completely when we open this hatch -- and worse case, say, the _Gnat_ tears the fuck away or something -- we'll be flooding the whole fucking _Prospect_ from this hole we're opening in the bottom of the boat, eh?"
+"Ehhh, Chips, should we close and seal this watertight bulkhead door behind me here? Seems like if Shakes' welds fail completely when we open this hatch -- and worse case, say, the _Gnat_ tears away or something -- we'll be flooding the whole _Prospect_ from this hole we're opening in the bottom of the boat, eh?" Gregory's voice was twinged with nerves.
 
-"I got my fucking bulkhead hatch closed and fuckin' sealed on this side. If it starts fuckin' flooding fast, we are going out your door and closing it the fuck behind us. There's no fuckin' way we're sealing our fuckin' selves in here and risking being fuckin' heroes to save this fucking ship."
+"I got my fucking bulkhead hatch closed and sealed on this side. If it starts flooding fast, we are going out your door and closing it the fuck behind us. There's no fuckin' way we're sealing our fuckin' selves in here and risking being fuckin' heroes to save this ship."
 
 "Alright, I'm following you then Chips."
 
 "Keep that fucking portable bilge pump ready though: if there's a small leak then some modest fuckin' heroics will be required of us."
 
-At this point they could hear the _Gnat_ grinding against the mating collar of the _Prospect_, screeching metal-on-metal moving back and forth trying to find the docked position. And then there was the loud crunch of the two boats coming together.
+At this point they could hear the _Gnat_ grinding against the mating collar of the _Prospect_, screeching metal-on-metal as it moved back and forth trying to find the docked position. And then there was the loud crunch of the two boats coming together.
 
-"Sound's like he's fuckin' on." Said Chips. "We wait til we get the OK from fuckin' Hemi though."
+"Sound's like he's fuckin' on," said Chips, "we wait till we get the OK from Hemi though."
 
 Gregory nodded.
 
-They could feel the shuddering vibrations of the _Gnat's_ motor through the hull of the _Prospect_ for a few minutes, and then that died away as Shakes shut it down. A few moments later the _Prospect's_ motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut on the top hatch of the _Gnat_ -- below the still-closed bottom hatch of the _Prospect_ -- with one of his wrenches, and then it was quite silent until Hemi came crackling over the ship PA. "OK Chips, open it up."
+They could feel the shuddering vibrations of the _Gnat's_ motor through the hull of the _Prospect_ for a few minutes, and then that died away when Shakes shut it down. A few moments later the _Prospect's_ motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut with one of his wrenches on the top hatch of the _Gnat_, below the still-closed bottom hatch of the _Prospect_. Then it was quite silent until Hemi came crackling over the ship PA. "OK Chips, open it up."
 
-Chips nodded to Gregory, and he reached down into the hatch well, and cranked open the sealing wheel. He pulled up the hatch and water steadily flooded up around their feet. Gregory jumped up, as if bitten. But Chips lay out flat on the grating, and reached her hand down into the pool of water. She felt along the welds until she could feel where the water was pushing in.
+Chips nodded to Gregory and he reached down into the hatch well and cranked open the sealing wheel. He pulled up the hatch and water steadily flooded up around their feet. Gregory jumped up, as if bitten. But Chips lay out flat on the grating and reached her hand down into the pool of water. She felt along the welds until she could feel where the water was pushing in.
 
-"The welds are _mostly_, but not totally, fucking failing. You can see it's fuckin' leaking." Said Chips. "Get the pump hooked up Gregory, and let's get as much of this fucking water out of here as fast as fucking possible. Then I'll see if I can weld it decent fuckin' like."
+"The welds are _mostly_ -- but not totally -- fucking failing. You can see it's leaking," said Chips. "Get the pump hooked up Gregory, and let's get as much of this fucking water out of here as fast as fucking possible. Then I'll see if I can weld it decent like."
 
-While Gregory got the hoses for the bilge pump connected, Chips got on the PA with Hemi. "We gotta fucking fix these shitty fuckin' welds or it'll flood the fucking _Gnat_ when we open its fuckin' hatch, Hemi. Tell Shakes to sit fuckin' tight, and not to do a fuckin' thing." Hemi acknowledged, and she started putting her welding gear on.
+While Gregory got the hoses for the bilge pump connected, Chips got on the PA with Hemi. "We gotta fucking fix these shitty fuckin' welds or it'll flood the _Gnat_ when we open its hatch, Hemi. Tell Shakes to sit tight, and not to do a fuckin' thing." Hemi acknowledged, and she started putting her welding gear on.
+
+[//]: # (----- EDITED TO HERE -----)
 
 It was cold, frustrating, cramped work. But such had been all of Chips work on this trip -- maybe her whole life, she reflected. She let out a never-slowing stream of curses, attempting to damn down to a permanent watery hell not just all materials and work processes, but all the societal systems and turns of fate that had conspired against her to bring her to this particular misery. 
 
