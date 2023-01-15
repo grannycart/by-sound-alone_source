@@ -803,9 +803,6 @@ He picked up the ship-to-ship. "Hemi, I think I'm fuckin' on."
 
 "Yes. We can feel the drag up here. We are going to trim our tanks to adjust for the weight of the _Gnat_ hanging on, and then shut down our engines to save our batteries. I think you can give a bang on your hatch now, and see if Chips can open up the junction between us."
 
-[//]: # (----- invisible character break)
- 
-
 [//]: # (### The hatch needs to be repaired)
 
 In the deepest part of the _Prospect_, in the narrow hall between the forward and rear battery rooms with heavy water-tight bulkhead doors on either side, Gregory and Chips sat on the deck on either side of a well where they had pulled up the grating between them. Their feet dangled down into the well and Gregory tapped his toes lightly on the still-closed hatch while they waited for the signal from Shakes.
@@ -838,49 +835,53 @@ Shakes' welds were horrifically ugly, like stitch work on a revivified cadaver f
 
 Eventually enough patching material had been welded into place that the leak slowed to a seep, and then finally stopped altogether. The pump sucked the last of the water out the well, leaving them looking at the domed top hatch of the _Gnat_ down in the recess. The whole mess was holding, though Chips hoped she would never have to test it at any deeper depth.
 
-[//]: # (----- EDITED TO HERE -----)
+Chips tapped on the hatch with the end of the welding stick. "Eh Shakes ya fucker. You can open this fuckin' thing up now." She yelled into the empty metal well, her voice bouncing the curses back at her. There was the sound of the rusty sealing gears squeaking open and the hatch lifted up. 
 
-Chips banged on the hatch with the end of the welding stick. "Eh Shakes ya fucker. You can open this fuckin' thing up now." She yelled into the empty metal well, her voice bouncing the curses back at her. There was the sound of the rusty sealing gears squeaking open and the hatch lifted up. 
+Shakes was grinning up at them as residual water rained down on him, "who's a fuckin' angle-fish now, eh motherfuckers?"
 
-Shakes was grinning up at them as residual water rained down on him. "Who's a fuckin' angle-fish now, eh motherfuckers?"
+"Don't touch them welds when ya come through, the fuckers are still hellish fuckin' hot."
 
-"Don't touch them fucking welds when ya come through, the fuckers are still hellish fuckin' hot."
+Shakes put his arms up through the hatch hole, found a place to grab that was not still warm from welding, lifted his foot to some protruding knob of steel in the sail of the _Gnat_, and stepped up into the _Prospect_. Gregory pushed the ship intercom button and told Hemi they had Shakes aboard. 
 
-Shakes put his arms up through the hatch hole, found a place to grab that wasn't warm from welding, lifted his foot to some protruding bit of steel in the sail of the _Gnat_, and stepped up into the _Prospect_. Gregory pushed the ship intercom button and told Hemi they had Shakes aboard. 
+"Right. _Now_ the hard part," said Hemi over the intercom. He got on the ship PA, and asked everyone to meet him down at the hatch to the _Gnat_.
 
-"Right. _Now_ the hard part." Said Hemi over the intercom. Then got on the ship PA, and asked everyone to meet him down at the hatch to the _Gnat_.
-
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Rigging up power to the Prospect)
 
-"So basically we are going to suck the life out of the _Gnat_ to keep the _Prospect_ going." Hemi told them when they were all assembled and standing crammed in on both sides of the open hatch to the _Gnat_ below. 
+"So basically we are going to suck the life out of the _Gnat_ to keep the _Prospect_ going," Hemi told them when they were all assembled and standing crammed in on both sides of the open hatch to the _Gnat_ below. 
 
 Shakes squirmed. 
 
-Hemi continued. "I am going to set up some heavy jumpers between the _Gnat's_ battery banks and the battery rooms of the _Prospect_, where we are standing right now. That should be pretty straightforward, and give us access to the _Gnat's_ remaining battery power. Though not much, in terms of the _Prospect's_ power consumption.
+Hemi continued, "I am going to set up some heavy jumpers between the _Gnat's_ battery banks and the battery rooms of the _Prospect_, where we are standing right now. That should be pretty straightforward, and give us access to the _Gnat's_ remaining battery power -- though that will not be much, in terms of the _Prospect's_ power consumption.
 
-"Chips, I need you to do the harder part and figure out how to get the fuel that is left in the _Gnat_ up into the _Prospect's_ engines. I'm not sure if it would be better to try to pump it into the _Prospect's_ fuels tanks, or run it straight from the _Gnat's_ fuel tanks to the _Prospect's_ diesels."
+"Chips, I need you to do the harder part and figure out how to get the fuel that is left in the _Gnat_ up into the _Prospect's_ engines. I am not sure if it would be better to try to pump it into the _Prospect's_ fuels tanks, or run it straight from the _Gnat's_ fuel tanks to the _Prospect's_ diesels."
 
-"Be fuckin' easier to just run a long hose up to the fuckin' _Prospect's_ fuckin' fuel pumps. Won't have to fuck around with the trim as much." Put in Chips.
+"Be fuckin' easier to just run a long hose up to the fuckin' _Prospect's_ fuckin' fuel pumps. Won't require fuckin' around with the trim as much," put in Chips.
 
-"If you think that will work, it sounds OK to me." Said Hemi. "Sylvia, you want to weigh in with anything?"
+"If you think that will work, it sounds OK to me," said Hemi. "Sylvia, you want to weigh in with anything?"
 
-"This fucking project is all you, Hem'." Said Captain Percy.
+"This fucking project is all you, Hem'," said Captain Percy.
 
 "From this moment," Hemi went on, "we need to shut down absolutely everything we are not using. We really should have done this already. We will need every bit of power we can suck out of the _Gnat_ to get across the Authority line into vaguely friendlier waters. I am even shutting down all the lighting, so you will all need to carry a light around with you. The good news is, if we get the diesels going, you can all take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
 
-"Chips, you take Owen and Gregory to work on fuel lines. Bastian, we will go dig up those jumpers. Try to stay out of each other's way everyone." Hemi Finished up. 
+"Chips, take Owen and Gregory to work on fuel lines. Bastian, we will go dig up those jumpers. Try to stay out of each other's way everyone," Hemi finished up. 
 
 Grabbing Bastian's skinny arm, Hemi led him away to stowage where he hoped to find the long heavy jumper cables he remembered seeing there sometime in the past year.
 
-Chips took Owen and Gregory off to the engine rooms to get the long fuel hoses they normally used for refueling down off their racks on the wall and rigged up through the boat down to the _Gnat_.
+Chips took Owen and Gregory off to the engine rooms to get the long fuel hoses they normally used for refueling from their wall racks and rigged up to the _Gnat_.
 
-Captain Percy looked down at the mess of patches and foul blackened welds that lined the passageway down through the hole in the bottom of her boat, and for a moment could not believe they were still afloat. "Shakes," she said to the only person left with her, "let me buy you a cup of coffee."
+Captain Percy looked down at the mess of patches and foul blackened welds that lined the passageway down through the hole in the bottom of her boat, and for a moment could not believe they were still afloat. "Captain Shakes," she said to the only person left with her, "let me buy you a cup of coffee."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Rigged up and running)
 
-In a matter of a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power wired into the _Prospect's_ battery hold so that the _Gnat's_ batteries were now no more than an extra battery bank for the _Prospect_ -- conveniently with a nearly-full charge; and the thick fuel lines running up to the engine room, where the fuel pumps were engaged and tuned to gently suck the fuel up from the _Gnat's_ fuel ballast tanks.
+In a matter of a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power wired into the _Prospect's_ battery hold so that the _Gnat's_ batteries were now no more than an extra battery bank for the _Prospect_ -- conveniently with a nearly-full charge; and the thick fuel lines running up to the engine room, where the fuel pumps were engaged and tuned to gently suck the fuel oil up from the _Gnat's_ fuel ballast tanks.
+
+[//]: # (----- EDITED TO HERE -----)
 
 To conserve fuel they started only one of the _Prospect's_ multiply redundant diesel engines. And likewise started only one of the electric motors, driving only one of the _Prospect's_ two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. 
 

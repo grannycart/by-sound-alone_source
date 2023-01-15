@@ -599,7 +599,7 @@ Hemi nodded.
 
 In the cargo hold, Bastian and Gregory were laying out the heavy cloth-covered hoses down the center of the space and hooking them up to portable electric bilge pumps the size of small refrigerators. Multiple black hoses and thick electrical cables snaked across the floor grating making navigating the space treacherous.
 
-Owen had his own electric pump -- a smaller one that pumped air -- down at the edge of the black lake, and he was feeding an air hose to Chips who was wearing a diving mask connected to the hose. She was kicking to keep her head above water while holding up a welding torch with one hand. The welding torch was connected by its own lines to the tanks in the welding rig propped next to the pump at the edge of the lake. Chocks kept the wheels of the rig from rolling into the water.
+Owen had his own electric pump -- a smaller one that pumped air -- down at the edge of the black lake, and he was feeding an air hose to Chips who was wearing a diving mask connected to the hose. She was kicking to keep her head above water while holding up a welding stick with one hand. The welding stick was connected by its own lines to the welding rig propped next to the pump at the edge of the lake and powered by yet more heavy electrical cables running up the deck of the cargo hold. Chocks kept the wheels of the rig from rolling into the water.
 
 Chips dove down, and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips' head broke back through the surface. She ripped off the diving mask. "Owen! I need another fuckin' piece of steel plate, and -- fuck it -- another brace too."
 

@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-15 12:13
+Last modified: 2023-01-15 13:06
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -21,7 +21,7 @@ Edits to pick up in second full pass through the book
 		* DON'T use single astericks for emphasis. I find that confusing.
 	* [ ] add invisible spacing elements (generally where the ### break notes are)
 	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
-	* [ ] do a re-read through of each chapter
+	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
 * [X] remove references to the "con" -- too military
 * [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.
 * [ ] Shakes needs to say 'ain't' more, like he does when he first appears
