@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-14 12:35
+Last modified: 2023-01-15 12:13
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -23,6 +23,7 @@ Edits to pick up in second full pass through the book
 	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
 	* [ ] do a re-read through of each chapter
 * [X] remove references to the "con" -- too military
+* [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.
 * [ ] Shakes needs to say 'ain't' more, like he does when he first appears
 * [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
