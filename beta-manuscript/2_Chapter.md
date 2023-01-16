@@ -102,7 +102,7 @@ She took a couple of steps back to look up through the hatch into the control ro
 
 She stepped over to the sonar station lifted the headphones over her ears. Without bothering to sit, she turned the directional control wheel with one hand, slowly back and forth, scanning for the sound of anything made by humans. One nice thing about being dead in the water was they were not making any noise themselves. She could hear even the small waves against the hull of the _Prospect_. It was a rare pleasure to have such clean and clear sound on sonar. But for all that silence, there was nothing to hear.
 
-The passive sonar was safer to use than the radar because it did not send out any signal that could be detected. You just listened with what were essentially underwater microphones for the sound any other vessel might be making. It also had the advantage that it could be used while submerged. Radar on the other hand could only be used while they were on the surface, and it sent out a big loud radio beacon that could be seen by any other ship with a radar unit -- basically all of them. If there were any ships out there, the signal would bounce back to the _Prospect_ and they would know the location. But any other ship in range could detect the radar signal and also know the precise location of the _Prospect_. Generally when Percy used radar, her habit was to dive soon afterwards.
+The passive sonar was safer to use than the radar because it did not send out any signal that could be detected. You just listened with what were essentially underwater microphones for the sound any other vessel might be making. It also had the advantage that it could be used while submerged. Radar, on the other hand, could only be used while they were on the surface, and it sent out a big loud radio beacon that could be seen by any other ship with a radar unit -- basically all of them. If there were any ships out there, the signal would bounce back to the _Prospect_ and they would know the location. But any other ship in range could detect the radar signal and also know the precise location of the _Prospect_. Generally when Percy used radar, her habit was to dive soon afterwards.
 
 In this case she thought turning on the radar was worth the risk. But the radar sweep rolled twice around the display showing a completely empty scope. There was nothing for miles in every direction. She left it scanning and eased herself into the sonar station chair and tried to get comfortable.
 
@@ -881,44 +881,46 @@ Captain Percy looked down at the mess of patches and foul blackened welds that l
 
 In a matter of a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power wired into the _Prospect's_ battery hold so that the _Gnat's_ batteries were now no more than an extra battery bank for the _Prospect_ -- conveniently with a nearly-full charge; and the thick fuel lines running up to the engine room, where the fuel pumps were engaged and tuned to gently suck the fuel oil up from the _Gnat's_ fuel ballast tanks.
 
-[//]: # (----- EDITED TO HERE -----)
+To conserve fuel they started only one of the _Prospect's_ two diesel engines. And likewise started a single electric motor, driving only one of the _Prospect's_ two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. 
 
-To conserve fuel they started only one of the _Prospect's_ multiply redundant diesel engines. And likewise started only one of the electric motors, driving only one of the _Prospect's_ two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. 
+The whole setup was a filthy inelegant mess, but they were making headway.
 
-It was a filthy inelegant mess, but they were making headway.
+Captain Percy insisted everyone who was not actively doing something should be in the rack. Chips, Shakes, and Hemi did not argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. They shut down the sonar since with the diesel running they would not be able to hear the approach of any kind of threat until it was too close to do anything about it anyway -- especially considering they did not have the ability to dive or perform any other evasive maneuver.
 
-Captain Percy insisted everyone who was not doing something actively should be in the rack. Chips, Shakes, and Hemi didn't argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. They shut down the sonar figuring with the diesel running they would not be able to hear the approach of any kind of threat until it was too close to do anything about it anyway. Particularly considering they could not dive or perform any other evasive maneuver.
-
-But as a safety measure, Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface enforcement ships. So Owen sat in the dark with his eye on the glowing radar screen, his mind turned to mush by watching it circle around endlessly, reflecting back nothing.
+But as a safety measure, Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface-enforcement ships for lack of paying attention. So Owen sat in the dark with his eye on the glowing radar screen, his mind turned to mush by watching it circle around endlessly, reflecting back nothing.
 
 Percy made everyone in the control room drink two cups of coffee, which she fixed for them in the dark galley by the light of a penlight.
 
-After a few hours of running like this -- the ship humming and vibrating under them, the superstructure groaning with the stress of dragging along the _Gnat_, and the continual course correction necessitated by running on a single propeller -- Percy decided she needed to see how far they had managed to travel. At the navigation table, she measured with the calipers and laid down a string of hashes from the X that marked the spot where they had mated the _Gnat_. 
+After a few hours of running like this -- the ship humming and vibrating under them, the hull frame groaning with the stress of dragging along the _Gnat_, and the continual course correction necessitated by running on a single propeller -- Percy was feeling the urge to calculate how far they had managed to travel. At the navigation table, she measured with the calipers and laid down a string of hashes from the x that marked the spot where they had mated the _Gnat_. 
 
-They were making terrifyingly slow process. With the calipers, Percy spun out the remaining distance to the line Shakes had drawn marking where they would move into the territory of a different -- hopefully safer --  Authority. She estimated they still had something like eight hours to go. And that was assuming Shakes' line was at all accurate. In addition to just being a rough mark Shakes had laid down from memory, for all she knew the Authorities might have battled or treatied the line into a totally different part of the ocean. They would not be truly safe until they were docked at the depot. And even then, who knew what the depot folks would be like. Somewhat friendlier to commerce was about all one could hope for with any confidence.
+Their process was terrifyingly slow. With the calipers, Percy spun out the remaining distance to the line she had drawn marking where they would move into the territory of a different -- hopefully safer --  Authority. She estimated they still had something like eight hours to go. And that was assuming the demarcation line was at all accurate. In addition to just being a rough mark she had laid down from memory, for all she knew the Authorities might have battled or treatied the line into a totally different part of the ocean. They would not be truly safe until they were docked at the depot. And even then, who knew what the depot folks would be like. Somewhat friendlier to commerce was about all one could hope for with any confidence.
 
-After six hours listening to the uninterrupted engine-drone in the darkness, Percy made another pot of coffee, and brought it down to the crew quarters along with a few tin cups tied together with a small bit of wire. She used her flashlight to hunt her relief crew out of their respective racks, and forced coffee into them. Chips strung curses at her, but as red as Chips' eyes were they weren't even close to the bloodshot droop that Percy was dragging around in her own eyeballs by now.
+After six hours listening to the uninterrupted engine-drone in the darkness, Percy made another pot of coffee, and brought it down to the crew quarters along with a few tin cups tied together with a small bit of wire. She used her flashlight to hunt her relief crew out of their respective racks, and forced coffee into them. Chips strung curses at her, but as red as Chips' eyes were they weren't even close to the bloodshot droop that Percy was swinging around in her own eyeballs by now.
 
 "Chips, go up and relieve Owen at radar. Hemi you're with me at the controls." Shakes had pulled the blackout curtain aside and was peering blearily down at them and their coffee from a top rack. "Shakes, you can go back to sleep."
 
 "_Captain_ Shakes. And no fucking way. My boat's on the fucking line here too. I can help y'all drive this fucking conglomeration of scrap."
 
-"I won't fucking insist otherwise. Have a cup of coffee, we'll put you on the throttle/rudder."
+"I won't insist otherwise. Have a cup of coffee, we'll put you on the throttle/rudder."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Radar contact with the pursuing sub)
 
 With Hemi and Shakes at the controls, and Gregory, Owen, and Bastian stumbling off wearily following the arcs of their flashlights to their racks, Percy lit up a cigarillo and sat down next to Chips at the radar station. Neither of them said anything, they were both too tired for conversation or fighting. It looked like it was taking all of Chips' remaining aggressive energy to keep her eyes following the sweeping line of the radar around the scope.
 
-Captain Percy jumped to her feet. Sitting was not going to work. She realized she was falling asleep despite the discomforts of the chair designed to keep a person upright and alert. She flicked her flashlight on and leaned over the navigation table. She again measured the distance to Shakes' imaginary line in the ocean. Their progress was merely hobbling along.
+Captain Percy jumped to her feet. Sitting was not going to work. She realized she was falling asleep despite the discomforts of the chair designed to keep a person upright and alert. She flicked her flashlight on and leaned over the navigation table. She again measured the distance to the imaginary line in the ocean. Their progress was merely hobbling along.
 
 Chips broke the numbing silence. "Fuckin' got somethin'."
+
+[//]: # (----- EDITED TO HERE -----)
 
 Percy stepped back to the radar/sonar station and lowered her head over the scope. A small and distant blip was appearing and fading away with each pass of the _Prospect's_ radar. "Fuck. Well, it was probably too fucking much to hope the ocean would remain empty for us. OK, shut down the radar, switch to sonar. They are pretty far fuckin' off. Hopefully they will just drive on by."
 
 [//]: # (Blipblipbeep sadly faded off my radar. I regret it to this day! I think of you every time I eat a piece of quiche. Maybe I should have the characters in this story eat quiche? Seems like good submarine food.)
 
-[//]: # (Does explanation of radar in next graf repeat earlier explanation?)
+[//]: # (Does explanation of radar in next graf repeat earlier explanation? -- see 2c line 105)
 
 She watched to make sure Chips shut down the radar completely. It was possible for a surface ship to see their radar when it was running and not only discover they were there, but calculate their exact location. On the other hand passive sonar was just microphones in the water -- it did not send any signal out by which they could be tracked. Of course their noisy diesel engines were sending out plenty of sound at the moment, if anyone got close enough to listen for it.
 
