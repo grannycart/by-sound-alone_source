@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-15 13:06
+Last modified: 2023-01-16 17:55
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -237,6 +237,10 @@ Edits to pick up in second full pass through the book
 	8. Down The Hole
 	* (Consider making much shorter chapters -- maybe breaks by scene?)
 	* (Or, make the current chapters "sections" and then subdivide with unlabeled dividers)
+* [ ] preface:
+	* move to the end, make it an afterword
+	* remove preface to the preface
+	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 
 
 ## Feedback from test readers
