@@ -998,16 +998,13 @@ Minutes passed in silence broken only by the faint hum of the electric motor pus
 
 Deep within Captain Percy she pushed down a primitive urge to run. A fresh young sub driver might crank as hard as she could on the throttle to get away from a threat. But evolution had moved submarines toward a different escape tactic: slink away silently. They were in a very, very slow-speed race: get out of range of the pursuer's sonar, as slowly and quietly as possible.
 
-[//]: # (----- EDITED TO HERE -----)
+After a few more minutes of staring at an empty black sea -- seeing nothing and at the same time knowing they were out there -- Percy could no longer stand just relying on Chips' range estimates. She lowered the periscope and slipped down the ladder and stepped to the navigation table. Chips immediately understood what she was doing, and without saying anything handed Percy a piece of scrap paper on which she had written a list of ranges and bearings for the contact in pencil. 
 
-After a few more minutes of staring at an empty black sea, seeing nothing and at the same time knowing they were out there, Percy could no longer stand just relying on Chips' range estimates. She lowered the periscope and slipped down the ladder and stepped over to the navigation table. Chips immediately understood what she was doing, and without saying anything handed Percy a piece of scrap paper on which she had written a list of ranges and bearings for the contact in pencil. 
+Captain Percy leaned over the navigation table, holding her flashlight pointed at their location on the chart with one hand.  At the same time she read the markings on Chips' paper and used her other hand to lay down the contact's course and times on the chart with a grease pencil. She then marked out their own progress since they picked up the contact on sonar, but it was so short it almost did not merit marking the chart.
 
-Captain Percy leaned over the navigation table, holding her flashlight pointed at their location on the chart with one hand.  At the same time she read the markings on Chips' paper and used her other hand to lay down the contact's course and times on the chart with a grease pencil. She then marked out their own progress since they picked up the contact on sonar, but it was so short it almost didn't merit marking on the chart.
+"Fuck they're moving fast," said Percy to herself. She reached the conclusion of her calculations, "they should be within sight already."
 
-"Fuck they're moving fast." Said Percy to herself. "We might be able to fucking see them already."
-
-"Fuckin' possible, ya." Agreed Chips.
-
+"Fuckin' possible, ya," agreed Chips.
 
 [//]: # (### Percy sees the sub with the ram through the periscope again)
 
@@ -1015,13 +1012,13 @@ Percy scaled the ladder up to the control room quickly, and raised the periscope
 
 The pursuing submarine was two or three miles off, and running crosswise across the path the _Prospect_ had traveled along. So from where Percy was she could see the whole length of the boat. And mounted to its bow was the same medieval ramming contraption she had seen before. The same that had ripped a wound in her boat.
 
-"It's that same sub that rammed us! Power down the motor Hemi. We're going silent, and hopefully they'll miss us."
+"It's that same sub that rammed us! Power down the motor Hemi. We're going dead silent."
 
-Hemi flipped some switches and the hum of the electric motors died away. Captain Percy watched the sub with the ram through the periscope. They had engaged their own electric motors and were moving forward again. The bow suddenly sank under the black swells of the ocean, and the rest of the deck followed a few moments later. Streams of misted water were shooting up from its deck as Percy watched the sail sinking into the black line where the surface met the sky.
+Hemi flipped some switches and the hum of the electric motor died away. Captain Percy watched the sub with the ram through the periscope. They had engaged their own electric motors and were moving forward again. The bow suddenly sank under the black swells of the ocean, and the rest of the deck followed a few moments later. Shadow streams of misted water were shooting up from its deck as Percy watched the sail sinking into the black line where the surface met the sky.
 
-"They're diving." Percy told Hemi. "Chips! They went down. With our motors off, you should still be able to follow them on sonar. Track 'em, and let me know what the fuck they're doing."
+"They're diving," Percy told Hemi. "Chips! They went down on electrics. With our motors off, you should still be able to follow them on sonar. Track 'em, and let me know what they're doing."
 
-"Aye fuck." Chips called back up from sonar.
+"Aye fuck," Chips called back up from sonar.
 
 Percy let the periscope sink down to its recess.
 
@@ -1031,29 +1028,35 @@ Percy let the periscope sink down to its recess.
 
 They waited. It took maybe twenty minutes for Chips to give a report. She called Percy down to the navigation table.
 
-"Fuckin' look here," said Chips "I tracked the fuckers down from where we first fuckin' heard 'em. They shot right to the last location we were running the fuckin' diesel... a few fucking miles behind us now. But, after they submerged, they didn't fuckin' turn to follow us, they turned the other fucking way, and then kept turning." Chips marked out their path in a circle away from them on the chart.
+"Look here," said Chips, "I tracked the motherfuckers down from where we first fuckin' heard 'em. They shot right to the last location we were running the fuckin' diesel... a few miles behind us now. But, after they submerged, they didn't fuckin' turn to follow us, they turned the other way, and then kept fuckin' turning." Chips marked out their path in a circle away from them on the chart.
 
-"Search pattern eh?" Said Percy.
+"Search pattern, eh?" said Percy.
 
-"Fuck ya, if I ever seen one. They're lookin' for us, but don't know where to fuckin' look, is my fucking thinking."
+"Fuck ya, if I ever seen one. They're fuckin' lookin' for us, but don't know where to look, is my fucking thinking."
 
 "Good. This is our chance. We gotta get out of range before they complete their search circle and start a new circle in our direction." Percy called up to Hemi. "Get us moving again Hem'. Back to a creep, same heading -- toward the depot."
-
 
 [//]: # (### They try to run from the sub with the ram)
 
 The hum of the electric motors came back up, and the _Prospect_ steadily moved on. Percy sat with Chips at the sonar station and listened to the sound of the pursuing sub's screws off in the distance.  The signal grew very weak as the submarine got off to the far end of their search circle, but grew stronger as they returned towards their starting point. Percy continually marked their track on the navigation chart according their range finding calculations.
 
-"We're not out of this yet." Percy said to Chips. "They're moving fast. Makes it easy to fucking track 'em, but their next search circle will almost certainly be the other side of a figure-eight, directly the opposite direction of their first -- and directly towards us." Chips nodded. "We gotta be out of range of their search circle before they go past."
+"We're not out of this yet," Percy said to Chips, "they're moving fast. Makes it easy to track 'em, but their next search circle will almost certainly be the other side of a figure-eight, directly the opposite direction of their first -- and directly towards us." 
 
-"They could fuckin' ping us with active sonar and fuckin' find us that way." Pointed out Chips.
+Chips nodded. 
 
-"And they might yet. But they might be not want to risk us being an armed enemy ship. They're trying to get a soft sense of their target first, if they can."
+"We gotta be out of range of their search circle before they go past."
 
-"We're fuckin' screwed if they fucking ping us then."
+"They could fuckin' ping us with active sonar and find us that way," Chips pointed out.
 
-"Hopefully they won't. Give me a new batch of ranges to them." Chips read out the ranges, and Percy marked them down. The sub with the ram had completed their circle, passed through the point they had started at, and had turned in the opposite direction now. "They're coming towards us." Said Percy.
+"And they might yet. But they might be not know who they saw on radar. They don't want to risk us being an armed enemy ship. They're trying to get a soft sense of their target first, if they can."
 
+"We're fuckin' screwed if they ping us then."
+
+"Hopefully they won't. Give me a new batch of ranges to them." 
+
+Chips read out the ranges, and Percy marked them down. The sub with the ram had completed their circle, passed through the point they had started at, and had turned in the opposite direction now. 
+
+"They're coming towards us now," Percy said.
 
 [//]: # (### Percy decides to hold still and wait them out)
 
@@ -1063,11 +1066,13 @@ Captain Percy did some quick math. She knew the pursuing submarine's speed, and 
 
 The electric motors faded off leaving the _Prospect_ completely silent. Hemi came down from the control room and ran his light over the chart, and immediately understood. "We were not going to make it outside their search area in time, so instead we will hide in the middle of it?"
 
-"Could be a stupid move." Percy replied. "Nothing preventing them from taking on a zigzag course all of a sudden."
+"Could be a stupid move," Percy replied, "nothing preventing them from taking on a zigzag course all of a sudden."
 
 "We're essentially counting on their sheer sense of symmetry."
 
-"You put it that way and it gives me a wisp of hope. Symmetry can be a powerful thing sometimes."
+"You put it that way and it gives me a wisp of hope. Humans are suckers for symmetry."
+
+[//]: # (----- EDITED TO HERE -----)
 
 Chips, for once, was not listening to their conversation and instead had both headset pieces over her ears, concentrating on the contact. Every minute or so she scratched down range and bearing data on the greasy-fingerprint stained pad in front of her, while her callused free hand slowly slipped the sonar directional wheel along to follow the contact. 
 
