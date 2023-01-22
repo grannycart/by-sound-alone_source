@@ -35,12 +35,11 @@
 
 # 2. The _Gnat_
 
-
 [//]: # (### Surfaced)
 
-The _Prospect_ rose slowly. It tilted a little on one axis then the other as Captain Percy adjusted the trim of the tanks. But more or less the boat rose straight up, since they didn't have the motors running and it was being lifted by buoyancy alone.
+The _Prospect_ rose slowly. It tilted a little on one axis then the other as Captain Percy adjusted the trim of the tanks. But more or less the boat rose straight up since they didn't have the motors running and it was being lifted by buoyancy alone.
 
-Percy and Hemi watched the depth gauge slowly roll itself backwards, up past their test depth, up into what Percy would normally consider safe operating depth, then periscope depth, and then the sail broke through the surface. Those in the crew quarters could feel the boat bob like a cork to the surface, and at that they let out a small cheer that echoed up to the control room from the depths of the boat. They arrived moments later at the bottom of the ladder up to the control room, obviously expecting to go out on deck.
+Percy and Hemi watched the depth gauge slowly roll itself backwards, up past their test depth, up into what Percy would normally consider safe operating depth, then periscope depth, and then the sail broke through the surface. Those in the crew quarters could feel the boat bob like a cork to the surface, and at that they let out a small cheer that echoed to the control room from the depths of the boat. They arrived moments later at the bottom of the ladder to the control room, obviously expecting to go out on deck.
 
 At first, Captain Percy was not even going to think about allowing that. Years of experience had reinforced the routine that the first action on surfacing a sub was to scan around with the periscope, if not the radar. There was always a chance that the only safe move was to dive right back down. But she fought back this instinct within herself -- there was nothing on the surface that could be more dangerous than attempting to dive her damaged boat again. She looked down at her crew -- minus Chips -- and waved them up through the control room.
 
@@ -52,15 +51,15 @@ It was a cool, breezy day. Gray clouds hung low overhead, and there was a mild c
 
 After a few minutes of just enjoying the surface air, Percy got back to the situation at hand. "Hemi, you were looking at the charts: who controls this part of the surface these days?" Percy asked.
 
-"Umm, perhaps the Western Federated Socialists? At least, they did the last time I looked at a Territorial Authorities map. But that was more than a year ago."
+"Hmm. Perhaps the Western Federated Provinces? At least, they did the last time I looked at a Territorial Authorities map. But that was more than a year ago."
 
 "Those assholes are bad fucking news, and have no tolerance for surface transports -- even ones that have papers," put in Bastian. "We should not stay here."
 
-"We would be on our way right fucking now... if we had any fuel or power." Said Percy. "That lovely sound you hear of gentle waves smacking against our hull is the sound of a ship not moving. We're dead in the water, and we're still a bit fucked folks."
+"We would be on our way right fucking now... if we had any fuel or power," Percy said, "that lovely sound you hear of gentle waves smacking against our hull is the sound of a ship not moving. We're dead in the water, and we're still a bit fucked folks."
 
-"Owen!" She called down to the deck. "Come back up here, we have to get back to work." As he ran over and climbed back up the side of the sail she laid out their next steps. "Hemi, get down to the navigation chart and see if there's any hope of any place we could limp to with what little  charge we have left on the battery."
+"Owen!" she called down to the deck, "come back up here, we have to get back to work." As he ran over and climbed back up the side of the sail she laid out their next steps. "Hemi, get down to the navigation chart and see if there's any hope of any place we could limp to with what little  charge we have left on the battery."
 
-"Bastian, get on the radio and see if you can raise anyone on the Independent Operators frequency. Maybe we'll get extraordinarily lucky and find some help from someone who won't ask too many fucking questions."
+"Bastian, get on the radio and see if you can raise anyone on the Independent Operators frequency. Maybe we'll get extraordinarily lucky and find some help from someone who won't ask too many questions."
 
 "Or try to sink us," Bastian added.
 
@@ -68,13 +67,13 @@ After a few minutes of just enjoying the surface air, Percy got back to the situ
 
 "Sure Capt," said Bastian.
 
-"Gregory... I'm fucking starving, want to see if you can get something going in the galley?"
+"Gregory... I'm starving, want to see if you can get something going in the galley?"
 
 "Sounds good."
 
 "And put a new pot of coffee on too. The shit in there now has been on that burner so long it looks like bunker fuel."
 
-They climbed back down into the control room, but left the hatch open and for the next few hours a blessed breeze blew down through, and occasional tendrils of sea air reached as far into the submarine as the crew quarters.
+They climbed back down into the control room, but left the hatch open and for the next few hours a blessed breeze blew through, and occasional tendrils of sea air reached as far into the submarine as the crew quarters.
 
 [//]: # (----- invisible character break)
  
@@ -83,7 +82,7 @@ They climbed back down into the control room, but left the hatch open and for th
 
 Inside, Captain Percy joined Hemi at the navigation table.
 
-"The most pressing problem," said Hemi not even waiting for her to ask, "is the batteries are basically gone. Even running extremely judiciously, we have a range of a few nautical miles at best." He used a compass to draw a dotted line around their position showing what was within range. It was a completely barren section of the chart in the middle of the ocean. It was nowhere.
+"The most pressing problem," said Hemi not even waiting for her to ask, "is the batteries are nearly entirely depleted. Even running extremely judiciously, we have a range of a few nautical miles at best." He used a compass to draw a dotted line around their position showing what was within range. It was a completely barren section of the chart in the middle of the ocean. It was nowhere.
 
 "Not even close huh? Well, that just leaves us with the less than ideal option of accepting help from someone."
 
@@ -91,19 +90,19 @@ Inside, Captain Percy joined Hemi at the navigation table.
 
 "We'll just have to hope we don't meet most folks then."
 
-She took a couple of steps back to look up through the hatch into the control room and see how Bastian was doing with his effort to achieve that goal. He had one stick-like arm up in the air, adjusting some dials on the radio mounted in the ceiling of the control room. His other hand held the mic that was attached by a curling cloth-covered wire to the radio. He was giving out mayday requests on a couple of different frequencies known to be monitored by other independent shipping operators like themselves -- both legitimate cargo haulers and smugglers. Those frequencies were also often monitored by Authority vessels that might be engaged in policing shipping and transport traffic through their control areas. 
+She took a couple of steps back to look up through the hatch into the control room and see how Bastian was doing with his effort to achieve that goal. He had one stick-like arm up in the air, adjusting some dials on the radio mounted in the ceiling of the control room. His other hand held the mic that was attached by a curling cloth-covered wire to the radio. He was giving out mayday requests on a couple of different frequencies known to be monitored by other independent shipping operators like themselves -- both legitimate cargo haulers and smugglers. Those frequencies were also often monitored by Authority vessels that might be engaged in policing shipping and transport traffic through their territorial control areas. 
 
 "Anything Bastian?"
 
-"Fucking nothing. Nothing good or bad. This is one voided piece of open ocean you raised us in."
+"Fucking nothing. Nothing good or bad. This is one voided piece of open ocean you surfaced us in."
 
 "Alright. I'll check sonar and radar. Maybe someone's listening who just isn't interested in responding."
 
-She stepped over to the sonar station lifted the headphones over her ears. Without bothering to sit, she turned the directional control wheel with one hand, slowly back and forth, scanning for the sound of anything made by humans. One nice thing about being dead in the water was they were not making any noise themselves. She could hear even the small waves against the hull of the _Prospect_. It was a rare pleasure to have such clean and clear sound on sonar. But for all that silence, there was nothing to hear.
+She stepped over to the sonar station and lifted the headphones over her ears. Without bothering to sit, she turned the directional control wheel with one hand, slowly back and forth, scanning for the sound of anything made by humans. A minor benefit of being dead in the water was they were not making any noise themselves. She could hear even the small waves against the hull of the _Prospect_. It was a rare pleasure to have such clean and clear sound on sonar. But for all that silence, there was nothing to hear.
 
 The passive sonar was safer to use than the radar because it did not send out any signal that could be detected. You just listened with what were essentially underwater microphones for the sound any other vessel might be making. It also had the advantage that it could be used while submerged. Radar, on the other hand, could only be used while they were on the surface, and it sent out a big loud radio beacon that could be seen by any other ship with a radar unit -- basically all of them. If there were any ships out there, the signal would bounce back to the _Prospect_ and they would know the location. But any other ship in range could detect the radar signal and also know the precise location of the _Prospect_. Generally when Percy used radar, her habit was to dive soon afterwards.
 
-In this case she thought turning on the radar was worth the risk. But the radar sweep rolled twice around the display showing a completely empty scope. There was nothing for miles in every direction. She left it scanning and eased herself into the sonar station chair and tried to get comfortable.
+In this case, she thought turning on the radar was worth the risk. But the radar sweep rolled twice around the display showing a completely empty scope. There was nothing for miles in every direction. She left it scanning and eased herself into the sonar station chair and tried to get comfortable.
 
 For the next few hours she chain-smoked and listened to the emptiness of the ocean around them on the passive sonar. It was a mind-numbing task trying to pick out a signal from the muted hiss and rush that came to her from the choppy surface. She swept the sonar mics in a circle covering every direction out from the _Prospect_ and back again. Having not found anything, she would then begin again. The continual effort at maintaining her attention on the search butted against the complete lack of any signal to focus on or track. She was beginning to think the best move might be to go check that they had enough food and water supplies to survive weeks of drifting on open ocean.
 
@@ -117,7 +116,7 @@ Hemi had exceptional ears for sonar. He stood next to her and put the headphones
 
 "Can you calculate a range?"
 
-"It is close. Let me see." He looked at the dials of the sonar unit and scribbled some numbers on a scrap paper. "2 nautical miles, thereabouts maybe? I think you should be able to see it with the periscope."
+"It is close. Let me see." He looked at the dials of the sonar unit and scribbled some numbers on a scrap paper. "Two nautical miles, thereabouts maybe? I think you should be able to see it with the periscope."
 
 Percy nodded and climbed up into the control compartment. She raised the periscope up and spun it around to the bearing of the target. She rolled the scope barrel slowly back and forth along the horizon line, where the dark gray of the water press-fit up against the light gray of the sky. With the _Prospect_ on the surface, and the scope up, she could see something like ten nautical miles on a clear day. This was as good as vision ever got on a submarine.
 
@@ -129,36 +128,36 @@ She had a hunch though. She felt confident about the sonar target. She was sure 
 
 "Hemi," she called down again to the compartment below, "I want to motor over closer to it. Keep tracking it on sonar."
 
-Captain Percy put Bastian back in the rudder/throttle control seat. She gave him a heading towards the sonar target and they put the electric motors in gear. Her eyes locked on the battery gauge, which waved slightly as the motors started turning, drawing the last amperage from the depleted battery banks. The needles on the battery gauges were deep in the red now. There was such a very little gap of air between them and the zero mark. They would only get one shot at this. 
+Captain Percy put Bastian back in the rudder-throttle control seat. She gave him a heading towards the sonar target and they put one of the electric motors in gear. Her eyes locked on the battery gauge, which waved slightly as the motor started turning, drawing the last amperage from the depleted battery banks. The needles on the battery gauges were deep in the red now. There was such a very little gap of air between them and the zero mark. They would only get one shot at this. 
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Ship-to-ship)
 
-They crept -- two nautical miles an hour. After a quarter hour or so, Hemi called up from sonar, "We got lucky Sylvia. I am tracking something like an intercept course -- it is headed towards us at any rate. At our current speed there is no way we would ever have caught them if the object were heading away from us. It is moving fairly quickly. But..." There was a gap, and Percy could hear him scratching a pencil on paper. "But, we need to go slightly faster, can you do four knots?"
+They crept -- two nautical miles an hour. After a quarter-hour or so, Hemi called up from sonar, "We got lucky Sylvia. I am tracking something like an intercept course -- the object is headed towards us at any rate. At our current speed there is no way we would ever have overtaken it if they were heading away from us. It is moving fairly quickly. But..." There was a gap, and Percy could hear him scratching a pencil on paper. "But, we need to go slightly faster, can you do four knots?"
 
 Percy sighed. It did not sound like much, but it was twice as much power consumption. "You heard the man Bastian, give her a little fuckin' gas."
 
-There was a burning cigarette between Bastian's bony fingers as they wrapped around the throttle and eased it slightly forward.
+There was a burning cigarette between Bastian's bony fingers as they wrapped around the throttle stick and eased it slightly forward.
 
-A few minutes later Hemi called up, "Good. We will be within a quarter mile of it in a matter of minutes."
+A few minutes later Hemi called up, "Good. We will be within a quarter mile of the object in a matter of minutes."
 
 "They must be able to fucking see us. They haven't changed direction or speed?"
 
-"No. They must not be looking, or they just do not care."
+"No. Maybe nobody is looking, or they just do not care."
 
 Captain Percy stayed on the periscope, slowly tracking across the bearing. Still nothing.
 
-"Sylvia!" Called up Hemi. "They are gone. No detectable signal on the sonar."
+"Sylvia!" called up Hemi, "they are gone. No detectable signal on the sonar."
 
 "Stop the boat Bastian." The electric motors were very quiet when running this slow, but she wanted Hemi to have total silence for listening. "What was the last range Hemi?"
 
-"About 500 meters. They are super close. I have to assume they are just sitting out there. We could ping them?"
+"About 500 meters. They are close. I have to assume they are just sitting idle out there. We could ping them?"
 
-"Ah, that would scare the fucking shit out of them. They might think we were armed and about to fire on them. We're trying to make friends here. ...I'm going to try ship-to-ship radio. We're just close enough they might hear us, and the radio could be a little less threatening."
+"Ah, that would scare the fucking shit out of them. They might think we were armed and about to fire. We're trying to make friends here. ...I'm going to try ship-to-ship radio. We're just close enough they might hear us, and the radio could be a little less threatening."
 
-Percy reached over her head and flipped on the ship-to-ship radio. It wasn't really a radio, it was just acted like one. It used the sonar rig to push sound through the water to talk to other ships nearby. 500 meters was just about the limit of its range. Real radio transmissions were supposed to follow a set of protocols and rules, potentially enforced by agents of Authorities in their respective territories. Ship-to-ship had no rules other than an informal argot that had developed partially to obfuscate meaning for any other ship that might be listening, and partially just evolved from nautical cultural habit.
+Percy reached over her head and flipped on the ship-to-ship radio. A device that was not actually a radio, it was just acted like one. It used the sonar rig to push sound through the water to talk to other ships nearby. 500 meters was just about the limit of its range. Real radio transmissions were supposed to follow a set of protocols and rules, potentially enforced by agents of Authorities in their respective territories. Ship-to-ship had no rules other than an informal argot that had developed partially to obfuscate meaning for any other ship that might be listening, and partially just evolved from nautical cultural habit.
 
 [//]: # (Is the ship-to-ship radio actually a 1970s trucker CB? You fucking know it.)
 
@@ -166,7 +165,7 @@ Captain Percy took down the mic from the radio and brought it to her lips. She p
 
 Then she repeated the transmission of the tones. Another minute passed.
 
-Then a crackly male voice came over the radio. "I see you over there, you hulking ugly gray fuckin' submarine. And I guess you know I'm here. Why are ya sittin' on the surface, and what ya want with me?"
+Then a crackly male voice came over the radio, "I see you over there, you hulking ugly gray fuckin' submarine. And I guess you know I'm here. Why are ya sittin' on the surface, and what do ya want with me?"
 
 Percy hesitated, and then transmitted back, "well, first let me state flat out that we're nothing but a cargo sub -- and let me emphasize: un-fucking-armed. Second, we've been severely damaged, and swam through an icy hell to get back to the surface. We're out of fuel and extremely low on power. Long and short is that we're in some desperate need of help, and you are the only contact we've seen in these fucking desolate waters."
 
@@ -195,21 +194,21 @@ The ship-to-ship crackled back to life. "Alright. I think I can risk pulling alo
 
 Bastian unfolded his long skinny legs from a cramped-looking position where his feet were propped up on the control panel. He climbed up through the hatch and via the ladder to the bridge of the sail with Percy and Hemi following. The wind was blowing a little harder and the chop had kicked up. Bastian cupped his hands and lit another cigarette. Percy and Hemi shaded their eyes, scanning the water. It was a few minutes before they saw a small gray oblong object cutting through the choppy little waves. It was a tiny submarine sail, no more than a meter long and high, with a couple of thin wispy antennas trailing from the top in the wind. Unusual for a submarine, it had a small viewport in the front of the sail through which the pilot could look. At the rear of the sail a stream of diesel smoke floated up and away behind it. The deck of the tiny sub was totally awash, running just under the surface of the water.
 
-As it got closer they could see the big splotchy patches of rust all along the hull of the mini-sub, and a slight oil slick of a trail that it left behind in its minimal wake. Bastian, Hemi, and Percy climbed over the fairing of the sail of the _Prospect_ and down to the deck. Standing here, Percy was somewhat sickened to see the angle of the deck and the bow of her boat sitting much lower in the water than usual, still weighed down by the tons of excess ballast water.
+As it got closer they could see the big splotchy patches of rust all along the hull of the mini-sub, and a slight oil slick of a trail that it left behind in its minimal wake. Bastian, Hemi, and Percy climbed over the fairing of the _Prospect's_ sail and down to the deck. Standing here, Percy was somewhat sickened to see the angle of the deck and the bow of her boat sitting much lower than usual, still weighed down by the tons of excess ballast water.
 
-A moment passed before a hatch opened at the top of the sail of the mini-sub and a head of a man with spiked yellow hair emerged. His arms were still inside the sail working controls and he was standing propped on something inside so he could get his head up high enough above the fairing to see as he guided it alongside the _Prospect_. 
+A moment passed before a hatch opened at the top of the sail of the mini-sub, and the head of a man with yellow spiked hair emerged. His arms were still inside the sail working controls and he was standing propped on something inside so he could get his head and shoulders up high enough above the fairing to see as he guided it alongside the _Prospect_. 
 
-Bastian opened the hatch to a wet-storage locker on the deck and pulled out some large white rubber bumpers that were flat and deflated after being subjected to the pressures of underwater. He connected each to a short hose that led to a fixture for the low-pressure compressed air system inside the wet-storage locker, and let a little puff of air into the bumpers until they had been restored to more or less their normal shape. Each bumper had a long line that he tied off to recessed deck cleats and lowered down between the two subs.
+Bastian opened the hatch to a wet-storage locker on the deck and pulled out some large white rubber bumpers that were flat and deflated after being subjected to the underwater pressure. He connected each to a short hose that led to a fixture for the low-pressure compressed air system inside the wet-storage locker, and let a little puff of air into the bumpers until they had been restored to more or less their normal shape. Each bumper had a long line that he tied off to recessed deck cleats and lowered down between the two subs.
 
-"Toss a line!" the guy in the sail yelled as he let the engine run on idle and stepped over the fairing. He was wearing tall rubber boots as he ran up the washed deck of the small sub. The boots were pulled over leather pants that were originally probably black, but now were cracked and gray at the seams and joints. From the left side of his broken leather belt hung a couple of sizes of adjustable wrenches, the finish on the them beat away, matte and rusting in places from years of banging against each other like chimes. He wore a faded black denim vest from which the sleeves had been inexpertly removed leaving stray threads of denim trailing behind him in the breeze and exposing a pair of sinewy arms.
+"Toss a line!" the main in the mini-sub yelled as he let the engine run on idle and stepped over the fairing. He was wearing tall rubber boots as he ran up the washed deck of the small sub. The boots were pulled over leather pants that were originally probably black, but now were cracked and gray at the seams and joints. From the left side of his broken leather belt hung a couple of sizes of adjustable wrenches, the finish on the them beat away, matte and rusting in places, from years of banging against each other like chimes. He wore a faded black denim vest from which the sleeves had been inexpertly removed leaving stray threads of denim trailing behind him in the breeze and exposing a pair of sinewy arms.
 
-Bastian, still with a cigarette between his lips, threw across a line. The sub pilot made it fast to a cleat in the hull of the mini-sub, and then repeated the move at the stern. He nimbly leaped across to the hand-holds on the side of the _Prospect_ and climbed up the curving side to the deck.
+Bastian, still with a cigarette between his lips, threw across a line. The sub pilot made it fast to a cleat welded onto the hull of the mini-sub, and then repeated the move at the stern. He nimbly leaped across to the hand-holds on the side of the _Prospect_ and climbed up the curving side to the deck.
 
 [//]: # (### Intro Shakes)
 
-He looked around with a nervous twitch, and then motioned to Bastian for a cigarette, who cupped his hand and lit it off his own before handing it to him.
+He looked around with a nervous twitch, and then motioned to Bastian for a cigarette, who cupped his hand and lit one off his own before handing it to him.
 
-The man took the cigarette in a hand that shook slightly when he reached out, and brought it to his lips and sucked long and hard at it. "Ah fuck thanks. I ran out a couple of days ago. I go by Shakes." He held up his hand level in front of them and they could see it tremble slightly in the air. "Ya can see why." Shakes looked at Hemi standing just ahead of Percy with his black beard wafting in the breeze. "You the captain?"
+The man took the cigarette between hid fingers and brought it to his lips to suck long and hard at it. "Ah fuck thanks. I ran out a couple of days ago. I go by Shakes." He held up his hand level in front of them and they could see it tremble slightly in the air. "Ya can see why." Shakes looked at Hemi standing just ahead of Percy with his black beard wafting in the breeze. "You the captain?"
 
 Hemi nodded toward Percy. She stuck a grimy hand out. "Captain Percy. Hemi here is my submersible giant and Deck Boss. The skinny one is Bastian."
 
@@ -225,13 +224,13 @@ Hemi nodded toward Percy. She stuck a grimy hand out. "Captain Percy. Hemi here 
 
 "Aye, 'Specialty shipments' -- when stuff has to be got somewhere fast with no fucking questions asked. Just not too much stuff. I also built in a few special modifications -- this here boat is the fastest and most versatile in its class!" 
 
-Hemi looked at the rusting bulbous hulk alongside and doubted there was any class of vessel that would accept it. 
+Captain Percy looked at the rusting bulbous hulk alongside her boat and doubted there was any class of vessel that would accept it. 
 
-Shakes continued, "most of these homemade jobs just run at the surface; I added some batteries and some trim tanks, and this here boat, the _Gnat_ is the name, can _dive_. Run a bit under water, just enough to get away from any curious onlookers."
+Shakes continued, "most of these homemade jobs just run at the surface; I added some batteries and some trim tanks, and this here boat -- the _Gnat_ is the name -- can _dive_. Run a bit under water, just enough to get away from any curious onlookers."
 
 "How deep?" asked Hemi.
 
-"Maybe 30 meters on a good day. You don't have to go very deep to hide in something so small."
+"Maybe 30 meters on a good day, if you really pushed it. You don't have to go very deep to hide something so small."
 
 "How fast?" Hemi could not deny his curiosity now.
 
@@ -243,17 +242,19 @@ Percy frowned. "Welp, that's an impressive submersible hobby you got there. But 
 
 "We're not smugglers," said Percy, her eye firmly locked on Shakes. "We're independent logistics operators."
 
-"Ain't we fucking all!" said Shakes. "Honestly, I ain't got much in the way of ideas for ya. I was thinking maybe you was the smart ones. From what I can see y'all are fuckin' fucked. Best I can say is I could run into my destination port and send some friendly bigger boat back out for ya. But that'll probably take a couple days at least."
+"Ain't we fucking all!" said Shakes. "Honestly, I ain't got much in the way of ideas for ya. I was thinking maybe you was the smart ones. From what I can see y'all are fuckin' fucked. Best I can say is I could run into my destination port and send some friendly bigger ship back out for ya. But that'll probably take a couple days at least."
 
 [//]: # (### Shakes agrees to let Hemi aboard the Gnat)
 
-"In a couple of days we'll either be sunk or in some Authority holding cell. There's gotta be a better option. Hemi?" Percy looked up at at him.
+"In a couple of days we'll either be sunk or in some Authority holding cell. There's gotta be a better option. Hemi?" Percy turned to him.
 
-"Well, nothing immediately comes to mind. But that is with limited information. If a new option has arisen, it will be aboard the _Gnat_. But to sort that out, I would have to get in there and take a look at what resources you have got aboard. I'm not sure how willing you are to let me do that."
+"Well, nothing immediately comes to mind. But that is with limited information. If a new option has arisen, it will be aboard the _Gnat_. To sort that out, I would need to get in there and take a look at what resources you have got aboard. I'm not sure how willing you are to let me do that."
 
 Shakes did not say anything, but pulled on his cigarette and watched the exhaled smoke quickly blown out over the water by the breeze.
 
-"Look, we aren't the type to ask for help, and I hate imposing on other folks' business, just as I don't want 'em imposing on mine, but you can see we're more than a little desperate here. If you can see your way to allowing Hemi -- and just Hemi -- aboard to take some specs of your boat -- see if you're carrying anything he can use -- we'll make it up to you later. ...At the current moment about all we can offer you is hot food."
+[//]: # (----- EDITED TO HERE -----)
+
+"Look, we aren't the type to ask for help," Percy said, "and I hate imposing on other folks' business, just as I don't want 'em imposing on mine, but you can see we're more than a little desperate here. If you can see your way to allowing Hemi -- and just Hemi -- aboard to take some specs of your boat -- see if you're carrying anything he can use -- we'll make it up to you later. ...At the current moment about all we can offer you is hot food."
 
 Shakes eyes brightened at that. "Hrm. Well I've been eatin' nothing but cold chow straight from the can for days now. A hot meal is a strong offer yer puttin' on the table there. Alright. This big guy, and this big guy alone. And he don't look at nothing I don't want him to look at. And he don't get answers to questions I don't want to answer. No fucking pushin', right?"
 
@@ -1109,8 +1110,6 @@ Captain Percy stayed at the sonar station. She continued to track the progress o
 [//]: # (### They go back to sail-up and fire up the diesel)
 
 It was not long before Hemi called down to her again, "Sylvia, we do not have much battery left. Roughly, 20 minutes maybe."
-
-[//]: # (----- EDITED TO HERE -----)
 
 "Fuck," said Percy, now standing at the navigation table. By any sane margin 20 minutes of battery was already far too little for safe underwater operation. She used the calipers to measure the remaining distance to the rough Authority Control line she had drawn on the chart. "Fuck," she said again, this time to herself.
 
