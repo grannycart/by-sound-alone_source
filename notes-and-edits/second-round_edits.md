@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-29 12:28
+Last modified: 2023-01-29 14:31
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -22,6 +22,7 @@ Edits to pick up in second full pass through the book
 	* [ ] add invisible spacing elements (generally where the ### break notes are)
 	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
 		* [ ] do a search for capital-S "Said"
+	* [ ] do a find-and-replace for til with till
 	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
 * [X] remove references to the "con" -- too military
 * [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.

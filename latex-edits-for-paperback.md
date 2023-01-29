@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: Sun Dec 05, 2021  04:59PM
+Last modified: 2023-01-29 14:30
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -12,20 +12,21 @@ Last modified: Sun Dec 05, 2021  04:59PM
 	* Also for printing book: put a \newpage before the CC license at end of file
 3. do vim command --- :%s/chapter{/chapter\*{/g to make chapter headers not display numbering
 	* There's a global way to do this in Latex, but I don't remember it.
-4. Add small pigeon graphic to title page:
+4. do a vim find-and-replace for ... with \ldots
+5. Add small pigeon graphic to title page:
 	* Add graphicx package:
 		* \usepackage{graphicx}
 		* (This might happen from pandoc automatically if you include images in the .md, so look for it.)
 	* Replace \author line with this to include copyleft and pigeon graphic:
 		* \author{Mark Torrey CC BY-NC-SA 2021\\[5mm] \includegraphics[width=1in]{../../cover/pigeon-logo.png}}
-5. Compile latex file; review compiled file
+6. Compile latex file; review compiled file
 	* Consider putting a carriage return\\ in the title or subtitle if it is not breaking in a good place. (Note: there is a pdftitle field that is not the same as \title. \title{} edits the actual compiled title.)
 	* Gather all the other necessary pdfs into a single directory:
 		* the main compiled pdf
 		* the diagrams
 		* Extract a blank page (check that page 2 is a blank page, otherwise just find a blank somewhere in the pdf):
 			* pdftk ./Subworldbook1.pdf cat 2 output ./blank-page.pdf
-6. Use pdftk or some other pdf manipulation software to add the diagram pages and other matter to the file. Assemble the final pdf, adding blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
+7. Use pdftk or some other pdf manipulation software to add the diagram pages and other matter to the file. Assemble the final pdf, adding blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
 	* pdftk ./blank-page.pdf ./Prospect-interior-diagram_5.5x8.25-rotated.pdf ./Gnat-interior-diagram_5.5x8.25-rotated.pdf ./blank-page.pdf ./Subworldbook1.pdf cat output ./Subworldbook1+diagrams.pdf
 	* If outputting for a downloadable pdf, consider using the standalone diagrams pdf instead.
 		* Alternatively: edit the latex to compile with the diagrams in place.

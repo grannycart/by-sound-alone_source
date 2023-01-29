@@ -680,8 +680,6 @@ Captain Percy just stared at Chips, her mouth in a hard line.
 
 "We are not disputing that Chips," said Hemi, as calm as always, "but sinking is only one of the risks we face right now. Go check the ballast tank valves -- make sure you are confident they will work the way they are supposed to. When you are satisfied they will work, let me know, and we will put the top deck underwater."
 
-[//]: # (----- EDITED TO HERE -----)
-
 [//]: # (----- invisible character break)
  
 
@@ -689,15 +687,13 @@ Captain Percy just stared at Chips, her mouth in a hard line.
 
 Ten minutes later Chips climbed up into the control room and reported to Hemi, interspersed with much swearing, that the main ballast valves should work as expected, at least as far as her limited ability to test them without sinking the boat would allow. Hemi checked over the state of their batteries and other systems, and noted everything with a pencil on a clipboard. He got on the external PA and called Shakes to the control room.
 
-Shakes' appeared on the bridge at the top of the _Prospect's_ sail. He looked down at Hemi through the open hatch into the control room and called to him.
-
-"Ya fuckin' ready Hemi?"
+Shakes' appeared on the bridge at the top of the _Prospect's_ sail. He looked down at Hemi through the open hatch into the control room and called to him,  "ya fuckin' ready Hemi?"
 
 "Just about. I need you to take the _Gnat_ off a hundred meters or so. We are going to bring the _Prospect_ down to just sail-out, and creep at two knots. We will hold it steady. Then it is all you: dive the _Gnat_, come up underneath, you should see the mating collar just about under where the sail would be on the bottom -- about one-third of the way forward from the stern. Bring the _Gnat_ up under, and _gently_ pop your mating collar into ours, and if you boys did not miss on the location of the docking clamps by too much, you should be able to lock into the hull of the _Prospect_... like a male angler fish."
 
-Shakes raised his middle finger and held it boldly facing in Hemi's direction.
+Shakes raised his middle finger and held it out in front of him, towards Hemi.
 
-"...When you are clamped on, bang on your hatch with one of those wrenches of yours. I will have Gregory down there waiting to hear from you. Do _not_ open the hatch til Gregory bangs back, OK? Even in its current condition, the _Prospect_ will do a lot better if your welds leak than the _Gnat_ will. Keep in touch over the ship-to-ship."
+"...When you are clamped on, bang on your hatch with one of those wrenches of yours. I will have Gregory down there waiting to hear from you. Do _not_ open the hatch till Gregory bangs back, OK? Even in its current condition, the _Prospect_ will do a lot better if your welds leak than the _Gnat_ will. Keep in touch over the ship-to-ship."
 
 Shakes pounded his acknowledgment on the side of the sail, and his head disappeared from the bridge. It was still so quiet aboard the _Prospect_ with no engines and so few systems running that they could hear the _Gnat's_ Diesels fire up, and inarticulate shouts from Shakes to Gregory on the deck as Shakes cast off the lines and Gregory retrieved them and pulled up the bumpers.
 
@@ -715,7 +711,7 @@ Hemi got on the ship PA and flipped the switch for both internal and external sp
 
 Moments later the entire crew converged on the control room. Gregory was climbing down from the sail, sealing the hatch above his head. Bastian and Owen were climbing up the ladder into the control room, and Chips arrived in the navigation and sonar compartment just under the control room with Captain Percy.
 
-Captain Percy looked at Chips with the question she wanted to ask obvious and unnecessary, but she asked it anyway: "why the fuck are you here?"
+Captain Percy looked at Chips knowing the question she wanted to ask was obvious and unnecessary, but she asked it anyway: "why the fuck are you here?"
 
 "If we fuckin' go down, I want to be right next to you when you know death is on you Captain Percy. I want to be able to look you in the eye when tell you: I fuckin' told ya so," said Chips.
 
@@ -725,11 +721,11 @@ Captain Percy waited for Gregory to clear the ladder from the control room on hi
 
 "OK, Bastian. Give us a two knot creep. We want just enough to keep us steady against the motion of the water," said Hemi. 
 
-Bastian nudged the throttle forward, and they heard the hum of the electric motors rise from the depths of the boat as they the propeller came under torque. 
+Bastian nudged the throttle forward, and they heard the hum of the electric motors rise from the depths of the boat as the propeller came under torque. 
 
-Percy pulled at the ship-to-ship mic. "Shakes, we are going to try submerging the hull now. If you see the sail disappear, this boat is never coming back up."
+Percy pulled the ship-to-ship mic. "Shakes, we are going to try submerging the hull now. If you see the sail disappear, this boat is never coming back up."
 
-"Right." Shakes voice crackled. "I won't wait around for another meal then."
+"Right," Shakes' voice crackled, "I won't wait around for another meal then."
 
 Percy hung the mic back on its nubbin. "OK, you know what the old submariners say: always do the stupidest things on the smallest amount of sleep." She nodded to Hemi. 
 
@@ -743,24 +739,26 @@ Owen was ready for this, he had been resting one hand on the large wheel that co
 
 "As soon as you feel the angle on the boat Owen, level it back out again." By the time Hemi had said this, there was already a slight angle down on the bow. 
 
-From the radar station below they could hear Chips muttering. "No fuckin' redundant system, fucking nothing at all..."
+From the radar station below they could hear Chips muttering. "No fuckin' redundant system, no fucking second chance at all..."
 
-Owen already had the dive planes leveled out again and the slight angle came off the _Prospect's_ deck. Owen and Hemi were watching the depth gauge closely as it slowly lifted up off its pin. When it indicated a couple of meters of depth, Hemi reached over and closed the main ballast tank valve wheels himself. They all listened for the sound of the hissing, escaping air to stop. No one was breathing as the sound went on longer than it seemed like it should. But it wavered, slowed and ceased as the valves came to their closed position.
+Owen already had the dive planes leveled out again and the slight angle came off the _Prospect's_ deck. Owen and Hemi were watching the depth gauge closely as it slowly lifted off its pin. When it indicated a couple of meters of depth, Hemi reached over and rolled closed the control wheels of the main ballast tank valves himself. They all listened for the sound of the hissing, escaping air to stop. No one was breathing as the sound went on longer than it seemed like it should. But it wavered, slowed and ceased as the valves came to their closed position.
 
 "Give it another minute... make sure everything is where it should be..." said Hemi. 
 
-The boat held at its shallow depth, the deck fully submerged and most of the sail still above the surface. Captain Percy reached up to pat Hemi's huge shoulder. In some ways it seemed like such a small thing -- a basic maneuver they had done a thousand times before, but Hemi, at least, knew Chips was right: what was usually so routine was, in this case, incredibly risky. He felt a tremendous release of tension that He had not quite known had come on him when the main ballast valves opened. But everything had worked the way it was supposed to to.
+The boat held at its shallow depth, the deck fully submerged and most of the sail still above the surface. Captain Percy reached up to pat Hemi's huge shoulder. In some ways it seemed like such a small thing -- a basic maneuver they had done a thousand times before. But Hemi, at least, knew Chips was right: what was usually so routine was, in this case, incredibly risky. He felt a tremendous release of tension that He had not quite known had come on him when the main ballast valves opened. But everything had worked the way it was supposed to to.
 
-"Good," said Percy, satisfied. "We didn't sink her by flooding the fucking main ballast. Now let's see if we can do it by opening a hole in the bottom plugged with nothing but a rusty bucket of a home-made boat."
+"Good," said Percy, satisfied. "We didn't sink her by flooding the main ballast. Now let's see if we can do it by opening a hole in the bottom plugged with nothing but a rusty bucket of a home-made boat."
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Mating the gnat to the prospect)
 
-Hemi got on the ship-to-ship. "Captain Shakes, we are holding at sail-out depth, two-knot forward creep. I think you can begin your dive now."
+[//]: # (----- EDITED TO HERE -----)
 
-"Fuckin' righto," came Shakes crackling reply.
+Hemi got on the ship-to-ship, "Captain Shakes, we are holding at sail-out depth, two-knot forward creep. I think you can begin your dive now."
+
+"Fuckin' righto," came Shakes' crackling reply.
 
 Captain Percy raised the periscope and swiveled around until she could see the tiny, nearly-invisible gray sail of the _Gnat_ bobbing in the gray water off their port side. It picked up speed, and a little wake formed behind it. Then it shrank down and disappeared under the surface like a sun winking out at the horizon. She lowered the periscope back down.
 
