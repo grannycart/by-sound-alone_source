@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-16 17:55
+Last modified: 2023-01-29 12:28
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -21,6 +21,7 @@ Edits to pick up in second full pass through the book
 		* DON'T use single astericks for emphasis. I find that confusing.
 	* [ ] add invisible spacing elements (generally where the ### break notes are)
 	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
+		* [ ] do a search for capital-S "Said"
 	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
 * [X] remove references to the "con" -- too military
 * [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.
@@ -47,7 +48,7 @@ Edits to pick up in second full pass through the book
 	* everyone else refers to it as 'the boat'
 * [ ] are the ballast valves operated by switches? or wheels?
 	* I'm going to make them **wheels** at chap 2 line 736
-	* (wheels so they have fine-grained control over flooding)
+	* (wheels/valves so they have fine-grained control over flooding)
 * [ ] fuel oil -- is what fuel is called
 * [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
 	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
@@ -163,6 +164,7 @@ Edits to pick up in second full pass through the book
 	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
+	* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
 	* [ ] Ask A what plants could actually grow on a sub
 	* pot? See note on motivating Shakes
 * [ ] make sure you only explain active sonar once
