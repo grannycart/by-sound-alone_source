@@ -865,17 +865,15 @@ Hemi continued, "I am going to set up some heavy jumpers between the _Gnat's_ ba
 
 "If you think that will work, it sounds OK to me," said Hemi. "Sylvia, you want to weigh in with anything?"
 
-"This fucking project is all you, Hem'," said Captain Percy.
+"This project is all you, Hem'," said Captain Percy.
 
-[//]: # (----- EDITED TO HERE -----)
-
-"From this moment," Hemi went on, "we need to shut down absolutely everything we are not using. We really should have done this already. We will need every bit of power we can suck out of the _Gnat_ to get across the Authority line into vaguely friendlier waters. I am even shutting down all the lighting, so you will all need to carry a light around with you. The good news is, if we get the diesels going, you can all take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
+"From this moment," Hemi went on, "we need to shut down absolutely everything we are not using. We really should have done this already. We will need every bit of power we can suck out of the _Gnat_ to get across the Authority line into those vaguely friendlier waters. I am even shutting down the lighting, so you will all need to carry a light around with you. The good news is, if we get the diesels going, you can take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
 
 "Chips, take Owen and Gregory to work on fuel lines. Bastian, we will go dig up those jumpers. Try to stay out of each other's way everyone," Hemi finished up. 
 
 Grabbing Bastian's skinny arm, Hemi led him away to stowage where he hoped to find the long heavy jumper cables he remembered seeing there sometime in the past year.
 
-Chips took Owen and Gregory off to the engine rooms to get the long fuel hoses they normally used for refueling from their wall racks and rigged up to the _Gnat_.
+Chips took Owen and Gregory off to the engine rooms to get the fuel hoses they normally used for refueling from their wall racks and rigged to the _Gnat_.
 
 Captain Percy looked down at the mess of patches and foul blackened welds that lined the passageway down through the hole in the bottom of her boat, and for a moment could not believe they were still afloat. "Captain Shakes," she said to the only person left with her, "let me buy you a cup of coffee."
 
@@ -894,44 +892,46 @@ Captain Percy insisted everyone who was not actively doing something should be i
 
 But as a safety measure, Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface-enforcement ships for lack of paying attention. So Owen sat in the dark with his eye on the glowing radar screen, his mind turned to mush by watching it circle around endlessly, reflecting back nothing.
 
-Percy made everyone in the control room drink two cups of coffee, which she fixed for them in the dark galley by the light of a penlight.
+Percy made everyone in the control room take a pep pill and drink a cup of coffee, which she fixed for them in the dark galley by the light of a penlight.
 
 After a few hours of running like this -- the ship humming and vibrating under them, the hull frame groaning with the stress of dragging along the _Gnat_, and the continual course correction necessitated by running on a single propeller -- Percy was feeling the urge to calculate how far they had managed to travel. At the navigation table, she measured with the calipers and laid down a string of hashes from the x that marked the spot where they had mated the _Gnat_. 
 
 Their process was terrifyingly slow. With the calipers, Percy spun out the remaining distance to the line she had drawn marking where they would move into the territory of a different -- hopefully safer --  Authority. She estimated they still had something like eight hours to go. And that was assuming the demarcation line was at all accurate. In addition to just being a rough mark she had laid down from memory, for all she knew the Authorities might have battled or treatied the line into a totally different part of the ocean. They would not be truly safe until they were docked at the depot. And even then, who knew what the depot folks would be like. Somewhat friendlier to commerce was about all one could hope for with any confidence.
 
-After six hours listening to the uninterrupted engine-drone in the darkness, Percy made another pot of coffee, and brought it down to the crew quarters along with a few tin cups tied together with a small bit of wire. She used her flashlight to hunt her relief crew out of their respective racks, and forced coffee into them. Chips strung curses at her, but as red as Chips' eyes were they weren't even close to the bloodshot droop that Percy was swinging around in her own eyeballs by now.
+After six hours listening to the uninterrupted engine-drone in the darkness, Percy made another pot of coffee, and brought it down to the crew quarters along with a few tin cups tied together with a small bit of wire. She used her flashlight to hunt her relief crew out of their respective racks, and forced coffee into them. Chips strung curses at her, but as red as Chips' eyes were they were not even close to the bloodshot droop that Percy was swinging around in her own eyeballs.
 
 "Chips, go up and relieve Owen at radar. Hemi you're with me at the controls." Shakes had pulled the blackout curtain aside and was peering blearily down at them and their coffee from a top rack. "Shakes, you can go back to sleep."
 
 "_Captain_ Shakes. And no fucking way. My boat's on the fucking line here too. I can help y'all drive this fucking conglomeration of scrap."
 
-"I won't insist otherwise. Have a cup of coffee, we'll put you on the throttle/rudder."
+"I won't insist otherwise. Have a cup of coffee, we'll put you on throttle-rudder."
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Radar contact with the pursuing sub)
 
-With Hemi and Shakes at the controls, and Gregory, Owen, and Bastian stumbling off wearily following the arcs of their flashlights to their racks, Percy lit up a cigarillo and sat down next to Chips at the radar station. Neither of them said anything, they were both too tired for conversation or fighting. It looked like it was taking all of Chips' remaining aggressive energy to keep her eyes following the sweeping line of the radar around the scope.
+With Hemi and Shakes at the controls, and Gregory, Owen, and Bastian stumbling off wearily following the arcs of their flashlights to their racks, Percy lit up a cigarillo and sat down next to Chips at the radar station. Neither of them said anything, both too tired for arguments. It looked like it was taking all of Chips' remaining aggressive energy to keep her eyes following the sweeping line of the radar around the scope.
 
-Captain Percy jumped to her feet. Sitting was not going to work. She realized she was falling asleep despite the discomforts of the chair designed to keep a person upright and alert. She flicked her flashlight on and leaned over the navigation table. She again measured the distance to the imaginary line in the ocean. Their progress was merely hobbling along.
+Captain Percy jumped to her feet. Sitting was not going to work. She realized she was falling asleep despite the discomforts of the chair designed to keep a person upright and alert. She flicked her flashlight on and leaned over the navigation table. She again measured the distance to the imaginary line in the ocean. They were merely hobbling along.
 
 Chips broke the numbing silence, "fuckin' got something."
 
-Percy stepped back to the radar/sonar station and lowered her head over the scope. A small and distant blip appeared and the faded away with each pass of the _Prospect's_ radar. "Fuck. Well, it was probably too much to hope the ocean would remain empty. OK, shut down the radar, switch to sonar. They are pretty far off, hopefully they will just drive on by."
+Percy stepped back to the radar station and lowered her head over the scope. A small and distant blip appeared and the faded away with each pass of the _Prospect's_ radar. "Fuck. Well, it was probably too much to hope the ocean would remain empty. OK, shut down the radar, switch to sonar. They are pretty far off, hopefully they will just drive on by."
 
 She watched to make sure Chips shut down the radar quickly and completely to minimize the chance of its signal being detected by the other ship. While using the passive sonar avoided the risk of sending any signal out by which they could be tracked, their noisy diesel engine was transmitting plenty of sound at the moment, if anyone got close enough to listen for it.
 
 "Won't be able to hear much on sonar with the fuckin' diesel running," Chips complained.
 
-"That's why you're going to have to really focus, try to pick out any change in mechanical sound above the diesel. If you think you hear something, we'll shut our engine down and have a quiet listen. Otherwise we'll stop every half hour or so and do a close check of the sonar for that contact -- or anyone else -- coming towards us. Can you handle that Chips without blowing up?"
+"That's why you're going to have to really focus, try to pick out any change in mechanical sound above the diesel. If you think you hear something, we'll shut our engine down and have a quiet listen. Otherwise we'll stop every half hour or so and do a close check of the sonar for that contact -- or anyone else -- coming towards us. Can you handle that without blowing the fuck up?"
 
 "Ya fuckin' smart fuckin' pisswad."
 
 Percy pointed her flashlight towards the galley. "Have another cup of coffee Chips."
 
-Captain Percy called to Hemi through the hatch up to the control room. When his face appeared squinting into the beam of her light, she told him about the contact, and to be ready to shut down the diesel on short notice. He nodded and turned back to the dive plane and tank controls.
+Captain Percy called to Hemi through the hatch up to the control room. When his face appeared with the beam of her light bouncing off his eyeglasses, she told him about the contact and to be ready to shut down the diesel on short notice. He nodded and turned back to the dive plane and tank controls.
+
+[//]: # (----- EDITED TO HERE -----)
 
 While Chips was in the galley setting up some coffee, Percy sat down at the sonar station and put the headset over her ears. The headset was full of the heavy droning hum of the diesel engine, moderated by a bit of a swish of water running along the hull and the crashing wash where the surface split against the sail of the _Prospect_.
 
