@@ -754,8 +754,6 @@ The boat held at its shallow depth, the deck fully submerged and most of the sai
 
 [//]: # (### Mating the gnat to the prospect)
 
-[//]: # (----- EDITED TO HERE -----)
-
 Hemi got on the ship-to-ship, "Captain Shakes, we are holding at sail-out depth, two-knot forward creep. I think you can begin your dive now."
 
 "Fuckin' righto," came Shakes' crackling reply.
@@ -775,17 +773,17 @@ Captain Percy sat in the seat Chips vacated and glanced at the empty radar scope
 [//]: # (----- invisible character break)
  
 
-On board the _Gnat_ shakes leaned his head down at a painful angle, looking up through the small viewport and trying to see exactly where he was in relation to the hulking gray wall slowly stirring the waters above him.
+On board the _Gnat_, Shakes leaned his head down at a painful angle, looking up through the small viewport and trying to see exactly where he was in relation to the hulking gray wall slowly parting the waters above him.
 
-"Fuuuuuck. They shoulda mentioned that this would be stupidly fuckin' dangerous," Shakes said to himself. "I fuckin' walked right into this, I guess. Or maybe they are like a backyard bully in a pool, tormenting me -- the scrawny kid -- by holding my head underwater... Though I suppose some people must be into that sort of thing." He glanced at the stacks of porno at his feet.
+"Fuuuuuck. They shoulda mentioned that this would be stupidly fuckin' dangerous," Shakes said to himself. "I walked right into this, I guess. Or maybe they are like a backyard bully in a pool, tormenting me -- the scrawny kid -- by holding my head underwater... Though I suppose some people must be into that sort of thing." He glanced at the stacks of porno at his feet.
 
 "Captain Shakes," Hemi's voice came over the ship-to-ship with all the bass notes stripped out of it, "do not forget that since we are moving, you are going to have to give your boat a little more motor when you get within a meter of the _Prospect_ or so. We are going slow enough that it should not be too dramatic, but you also do not want to get sucked back into the _Prospect's_ propellers."
 
-"Aye, fuck you all," he didn't bother to respond on the radio, his hands too busy with the controls of the _Gnat_. "This little fuckin' boat wasn't built for this shit. Handles like a fucking beach ball underwater."
+"Aye, fuck you all," he didn't bother to respond on the radio, his hands too busy with the controls of the _Gnat_. "This little boat weren't built for this shit. Handles like a fucking beach ball underwater."
 
 He was pushing up from behind, moving slightly faster than the _Prospect_. Through the viewport, he could just see the little black circle of the mating collar he was shooting for. He realized now that he would lose sight of it when he got closer and the target slipped beyond his ability to crane his neck. 
 
-He squeezed the ballast blow handle in a very short burst, and the _Gnat_ popped up an entire meter closer to the underside of the _Prospect_. "Ugh, too fuckin' much, too fast. _Gently_ -- was what Hemi said -- gently..." 
+He squeezed the ballast blow handle in a very short burst, and the _Gnat_ popped up an entire meter closer to the underside of the _Prospect_. "Ugh, too fuckin' much, too fuckin' fast. _Gently_ -- was what Hemi said -- gently..." 
 
 He was slowly gaining on the _Prospect_. When the _Prospect's_ mating collar disappeared beyond the frame of the viewport, Shakes guessed he was directly underneath it. He gave the _Gnat's_ small dive planes a modest amount of up-angle. Suddenly he was within a meter of the _Prospect's_ belly, and he could feel the push of water from the moving hull of the big boat driving the _Gnat_ backwards. The push was also ruining his instinctive awareness of where he was. He felt a slight panic, until the mating collar popped into view again through the narrow viewport directly ahead of him. 
 
@@ -797,25 +795,28 @@ He visualized what was happening in his head: the two mating collars were presse
 
 He slowly eased the controls, a little rudder port, a little rudder starboard, a little forward power, a little off the throttle. He was moving the mating collar around in a circle, trying to get it to slip into the _Prospect's_ collar. There was the sound of steel ring grinding on steel ring, until with another clang, the small sub popped upwards. All he could see out of his viewport now was the long undistinguished gray hull of the _Prospect_ stretched out in front of him. Either he was in the mating collar, or had slipped off the front of it. 
 
-But it felt right. Shakes gave a tiny further squeeze on the main ballast blow so that the _Gnat_ would have good strong upward buoyancy against the bottom of the _Prospect_. The way to know for sure if the two rings were mated was the docking clamps. He flipped the exposed switch he and Owen had installed. With a small blue spark it connected the circuit that ran up the thick wires, through the holes they had drilled and sealed into the sail, to the mating clamps. He heard a third clang, and a green bulb next to the switch lit. If he had missed the mating collar, the clamps would not have closed, so he was on. To be sure, he disengaged the electric motor to let the prop spin freely. When he did so, he could feel the bow of the _Gnat_ bend downward a small amount in a way that slightly sickened him, but the speed indicator did not change. The _Gnat_ was being dragged by the _Prospect_. 
+But it felt right. Shakes gave a tiny further squeeze on the main ballast blow so that the _Gnat_ would have good strong upward buoyancy against the bottom of the _Prospect_. 
 
-He picked up the ship-to-ship. "Hemi, I think I'm fuckin' on."
+The way to know for sure if the two rings were mated properly was the docking clamps. He flipped the exposed switch he and Owen had installed. With a small blue spark it connected the circuit that ran up the thick wires, through the holes they had drilled and sealed into the sail, to the mating clamps. He heard a third clang, and a green bulb next to the switch lit. If he had missed the mating collar, the clamps would not have closed, so he was on. To be sure, he disengaged the electric motor to let the prop spin freely. When he did so, he could feel the bow of the _Gnat_ bend downward a small amount in a way that slightly sickened him, but the speed indicator did not change. The _Gnat_ was being dragged by the _Prospect_. 
 
-"Yes. We can feel the drag up here. We are going to trim our tanks to adjust for the weight of the _Gnat_ hanging on, and then shut down our engines to save our batteries. I think you can give a bang on your hatch now, and see if Chips can open up the junction between us."
+He pulled up the ship-to-ship mic toward his mouth, "Hemi, I think I'm fuckin' on."
+
+"Yes. We can feel the drag up here. We are going to trim our tanks to adjust for the pull of the _Gnat_ hanging on, and then shut down our engines to save our batteries. I think you can give a bang on your hatch now, and see if Chips can open up the junction between us."
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### The hatch needs to be repaired)
 
-[//]: # ( **Add a bit here about having a lock on this hatch that Percy had the key too -- since this hatch could sink the boat if opened at the wrong time** )
-
-In the deepest part of the _Prospect_, in the narrow hall between the forward and rear battery rooms with heavy water-tight bulkhead doors on either side, Gregory and Chips sat on the deck on either side of a well where they had pulled up the grating between them. Their feet dangled down into the well and Gregory tapped his toes lightly on the still-closed hatch while they waited for the signal from Shakes.
+In the deepest part of the _Prospect_, in the narrow hall between the forward and rear battery rooms with heavy water-tight bulkhead doors on either side, Gregory and Chips sat on the deck on either side of a well. Gregory had pulled up the steel grating that normally covered this well and set it to one side. The grating had been locked into place with a sliding mechanism that could only be opened with a key Captain Percy carried. This was a precaution against anyone opening the hatch below without the permission of the captain, since under certain circumstances opening this particular hatch could sink the boat. Gregory had had to borrow the key from Percy to unlock the grating. Now they sat with their feet dangling down into the well. Gregory tapped the toe of his boot lightly on the still-closed hatch while they waited for the signal from Shakes.
 
 "Ehhh, Chips, should we close and seal this watertight bulkhead door behind me here? Seems like if Shakes' welds fail completely when we open this hatch -- and worse case, say, the _Gnat_ tears away or something -- we'll be flooding the whole _Prospect_ from this hole we're opening in the bottom of the boat, eh?" Gregory's voice was twinged with nerves.
 
-"I got my fucking bulkhead hatch closed and sealed on this side. If it starts flooding fast, we are going out your door and closing it the fuck behind us. There's no fuckin' way we're sealing our fuckin' selves in here and risking being fuckin' heroes to save this ship."
+"Doesn't fuckin' work like that, so you can calm the fuck down. As long as they got the top hatch in the fuckin' sail closed, there's not enough pressure at this depth to drive in enough water to sink the boat. Still, I got my fucking bulkhead hatch closed and sealed on this side. If it starts flooding fast, we are going out your door and closing it the fuck behind us. There's no fuckin' way we're sealing our fuckin' selves in here and risking being fuckin' heroes to save this ship."
 
 "Alright, I'm following you then Chips."
 
-"Keep that fucking portable bilge pump ready though: if there's a small leak then some modest fuckin' heroics will be required of us."
+"Keep that fuckin' portable bilge pump ready though: if there's a small leak, then some modest fuckin' heroics will be required of us."
 
 At this point they could hear the _Gnat_ grinding against the mating collar of the _Prospect_, screeching metal-on-metal as it moved back and forth trying to find the docked position. And then there was the loud crunch of the two boats coming together.
 
@@ -823,7 +824,7 @@ At this point they could hear the _Gnat_ grinding against the mating collar of t
 
 Gregory nodded.
 
-They could feel the shuddering vibrations of the _Gnat's_ motor through the hull of the _Prospect_ for a few minutes, and then that died away when Shakes shut it down. A few moments later the _Prospect's_ motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut with one of his wrenches on the top hatch of the _Gnat_, below the still-closed bottom hatch of the _Prospect_. Then it was quite silent until Hemi came crackling over the ship PA. "OK Chips, open it up."
+They could feel the shuddering vibrations of the _Gnat's_ motor through the hull of the _Prospect_ for a few minutes, and then that died away when Shakes shut it down. A few moments later the _Prospect's_ motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut with one of his wrenches on the top hatch of the _Gnat_, below the still-closed bottom hatch of the _Prospect_. Then it was quite silent until Hemi came crackling over the ship PA, "OK Chips, open it up."
 
 Chips nodded to Gregory and he reached down into the hatch well and cranked open the sealing wheel. He pulled up the hatch and water steadily flooded up around their boots. Gregory jumped up, as if bitten, and in a matter of seconds was on the other side of the bulkhead, ready to seal the hatch. 
 
@@ -833,7 +834,7 @@ While Gregory got the hoses for the bilge pump connected, Chips got on the PA wi
 
 It was cold, frustrating, cramped work. But such had been all of Chips work on this trip -- maybe her whole life, she reflected. She let out a never-slowing stream of curses, attempting to damn down to a permanent watery hell not just all materials and work processes, but all the societal systems and turns of fate that had conspired against her to bring her to this particular misery. 
 
-Shakes' welds were horrifically ugly, like stitch work on a revivified cadaver from a Gothic novel. Like with the hull of the _Prospect_ she had to hammer metal sheet patches into place, and weld them until they no longer leaked. Chips felt nothing but lucky when the leaking started to slow without her having made the situation worse by cutting through the mating ring or the hull of the _Gnat_.
+Shakes' welds were horrifically ugly, like stitch work on a revivified cadaver from a Gothic novel. As with the hull of the _Prospect_, she had to hammer metal sheet patches into place, and weld them until they no longer leaked. Chips felt nothing but lucky when the leaking started to slow without her having made the situation worse by cutting through the mating ring or the hull of the _Gnat_.
 
 Eventually enough patching material had been welded into place that the leak slowed to a seep, and then finally stopped altogether. The pump sucked the last of the water out the well, leaving them looking at the domed top hatch of the _Gnat_ down in the recess. The whole mess was holding, though Chips hoped she would never have to test it at any deeper depth.
 
@@ -865,6 +866,8 @@ Hemi continued, "I am going to set up some heavy jumpers between the _Gnat's_ ba
 "If you think that will work, it sounds OK to me," said Hemi. "Sylvia, you want to weigh in with anything?"
 
 "This fucking project is all you, Hem'," said Captain Percy.
+
+[//]: # (----- EDITED TO HERE -----)
 
 "From this moment," Hemi went on, "we need to shut down absolutely everything we are not using. We really should have done this already. We will need every bit of power we can suck out of the _Gnat_ to get across the Authority line into vaguely friendlier waters. I am even shutting down all the lighting, so you will all need to carry a light around with you. The good news is, if we get the diesels going, you can all take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
 
