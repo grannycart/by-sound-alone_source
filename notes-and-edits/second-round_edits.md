@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-31 22:40
+Last modified: 2023-02-01 08:58
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -126,6 +126,8 @@ Edits to pick up in second full pass through the book
 ## Specific scene edits
 :scene:
 * [X] Somewhere make at least one direct reference to the "under dark"
+* [ ] In the engine room, or the control room: add something about the shine on the levers and wheels from the grip of hands.
+	* Maybe on the control wheels for the dive planes?
 * [ ] Need to include a description of Percy somewhere early in the book
 	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
 * [ ] Subtly reinforce Percy's beauty in more places?
