@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-01 08:58
+Last modified: 2023-02-01 17:37
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -209,6 +209,7 @@ Edits to pick up in second full pass through the book
 		* Maybe Percy switches to cheroots
 	* [ ] Edit descriptions of Cassandra: see B and C's notes
 * stilt city: 
+	* [ ] when Chips leaves -- have Hemi call her by her real name
 	* [ ] Fix Sturmey:
 		* needs a new name, maybe Zag something?
 		* less asian,
