@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-01-29 14:31
+Last modified: 2023-01-31 22:40
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -120,6 +120,7 @@ Edits to pick up in second full pass through the book
 	* Maybe the electric motors are only 'powered down'
 * [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
 * [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
+* [ ] Shakes affectionately calls the Gnat 'the bug'
 
 
 ## Specific scene edits

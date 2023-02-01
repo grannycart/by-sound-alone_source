@@ -911,7 +911,7 @@ After six hours listening to the uninterrupted engine-drone in the darkness, Per
 
 [//]: # (### Radar contact with the pursuing sub)
 
-With Hemi and Shakes at the controls, and Gregory, Owen, and Bastian stumbling off wearily following the arcs of their flashlights to their racks, Percy lit up a cigarillo and sat down next to Chips at the radar station. Neither of them said anything, both too tired for arguments. It looked like it was taking all of Chips' remaining aggressive energy to keep her eyes following the sweeping line of the radar around the scope.
+With Hemi and Shakes at the controls, and Gregory, Owen, and Bastian stumbling off wearily following the arcs of their flashlights to their racks, Percy lit up a cigarillo and sat down next to Chips at the radar station. Neither of them said anything, both too tired for arguing. It looked like it was taking all of Chips' remaining aggressive energy to keep her eyes following the sweeping line of the radar around the scope.
 
 Captain Percy jumped to her feet. Sitting was not going to work. She realized she was falling asleep despite the discomforts of the chair designed to keep a person upright and alert. She flicked her flashlight on and leaned over the navigation table. She again measured the distance to the imaginary line in the ocean. They were merely hobbling along.
 
@@ -931,19 +931,17 @@ Percy pointed her flashlight towards the galley. "Have another cup of coffee Chi
 
 Captain Percy called to Hemi through the hatch up to the control room. When his face appeared with the beam of her light bouncing off his eyeglasses, she told him about the contact and to be ready to shut down the diesel on short notice. He nodded and turned back to the dive plane and tank controls.
 
-[//]: # (----- EDITED TO HERE -----)
-
 While Chips was in the galley setting up some coffee, Percy sat down at the sonar station and put the headset over her ears. The headset was full of the heavy droning hum of the diesel engine, moderated by a bit of a swish of water running along the hull and the crashing wash where the surface split against the sail of the _Prospect_.
 
 Captain Percy flipped some switches to engage filters, and the texture of the sound in her ears changed. She blocked out some of the lower frequencies of the engine, and tried to imagine if she could hear the higher pitch of a ship screw spinning in the water. But the sound was relentlessly uniform and unchanging.
 
 Chips came back holding one of the tin coffee cups. She put on the second sonar headset and remained standing a few steps from where Percy was sitting.
 
-After half an hour of this silent watch, Percy called up to Hemi to shut down the diesel so they could have a better listen, and a minute later a blessed silence came into the headset. A feeling of genuine relief flowed through Percy as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly chewed away at her consciousness. Maybe someday all of the white noise that surrounded her would cause her subconscious to rise up and take control of her mind, and she would slip from the restrictions of sanity and rationality. 
+After half an hour of this silent watch, Percy called up to Hemi to shut down the diesel so they could have a better listen, and a minute later a blessed quiequiet came into the headset. A feeling of genuine relief flowed through Percy as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly chewed away at her consciousness. Maybe someday all of the white noise that surrounded her would cause her subconscious to rise up and take control of her mind, and she would slip from the restrictions of sanity and rationality. 
 
-For the moment, the silence was complete. There was no apparent sound of any other ships within sonar range. Percy flipped through a few filters, and the quality of the silence changed, from a deadening whoosh to a soft hiss. 
+For the moment, the silence was complete. There was no apparent sound of any other ships within sonar range. Percy flipped through a few filters, and the quality of the silence changed, from a deadened whoosh to a soft hiss. 
 
-She was about to have Hemi restart then engine when she heard a pulse. A distant, faint heartbeat in the ocean, accompanied by the sloshing flow of circulation. She touched Chips arm, pointed to the softly fluttering signal-strength gauge.
+She was about to have Hemi restart the engine when she heard a pulse. A distant, faint heartbeat in the ocean, accompanied by the sloshing flow of circulation. She touched Chips' arm, pointed to the softly fluttering signal-strength gauge.
 
 "Aye," confirmed Chips, "that's the right direction for our fuckin' radar contact to approach us. They just moved into fuckin' sonar range."
 
@@ -955,23 +953,25 @@ Percy scaled the ladder to the control room, and raised the periscope, twisting 
 
 [//]: # (### They submerge to periscope depth)
 
-[//]: # ( **Note: add here: Shakes expressing his worry about the depth on the Gnat -- that 30 meters was just a guess, and he never actually had the boat that deep**) 
+"Hemi..." Percy let only a moment of hesitation pass, "we're going submerge to periscope depth -- get the sail underwater -- and shut down the diesels. Run on the _Gnat's_ remaining batteries. How long can we last like that?"
 
-"Hemi..." Percy hesitated, "I think we gotta submerge to periscope depth -- get the sail underwater -- and shut down the diesels. Run on the _Gnat's_ remaining batteries. How long can we last like that?"
+[//]: # (----- EDITED TO HERE -----)
 
-"Well, putting aside the risk of again opening the main ballast valves to lower us even further into the water, the _Gnat_ has maybe an hour of battery we could use at this super-slow creep rate we are moving at. And I should also point out that once the _Gnat's_ batteries are fully depleted, we will have no more options for underwater maneuvering if we are unable to lose this contact. Or if we come across another."
+"Well, putting aside the risk of again opening the main ballast valves to lower us even further into the water, the _Gnat_ has maybe an hour of battery we could use if we continue to move at this super-slow creep rate. And I should also point out that once the _Gnat's_ batteries are fully depleted, we will have no more options for underwater maneuvering if we are unable to lose this contact. Or if we come across another."
 
-"I know. I'm going on instinct here, and fuck me if I'm wrong. Especially considering I haven't slept in days and my head is fucking killing me from eight cups of coffee a day. But I got a sense we don't want to see that asshole up there coming any closer towards us.
+"Uh folks?" Shakes interrupted from the control chair, "I think I should point out here that the _Gnat's_ rating of 30 meters is something of a estimate. Potentially large fuckin' margin of error, if you see what I mean. I've never actually driven the bug that deep myself, and ya already got it sittin' at half that depth like abouts already."
 
-"Or: we do not want them to see us, you mean."
+"OK. Thank you. All crew concerns duly noted and logged," Percy replied. "Look, I'm going on instinct here, and fuck me if I'm wrong. Especially considering I haven't slept in days and my head is fuckin' killing me from eight cups of coffee a day. But I got a sense we don't want to see that asshole up there coming any closer towards us.
 
-"Fucking right."
+"Or: we do not want them to see us, you mean," said Hemi.
+
+"Fucking right. And if we have to take a few more risks that usual to avoid that outcome, so be it. Having said that, Hemi will do his best not to crush your boat Captain Shakes, especially seeing as, given our current configuration, that event would likely be the end of both the _Gnat_ and the _Prospect_."
 
 Hemi nodded. "Alright. I'll open the main ballast valves." He reached up and pushed the dive alarm.
 
 "Ah fuck ya all," Chips yelled up to them, pulling one earpiece of the headset off her ear when she heard the dive alarm, "yer fucking taking us down to periscope depth, ain't ya? We can't run the diesels at periscope, there's no way to feed 'em oxygen. So how the fuck are ya planning to get back on the surface if the batteries fucking die, eh? We'll have no way to steer the boat up to the surface, and we got no fuckin' way to pump the water out! We'll just be fucking sitting there with a one-eyeball view above the surface, effectively fuckin' drowned."
 
-"Thank you for keeping us apprised of the risks," Percy yelled back, "I'm still in charge though. Hemi, take us down to periscope."
+"Thank you, Chips, for making sure I am completely fuckin' aware of yet more risks I am already aware of," Percy yelled back. "Hemi, take us down to periscope."
 
 Hemi rolled open the main ballast valve wheels and there was again a rush of air as more of it was released from the top of the ballast tanks, and water eased in from the vents open to the sea on the bottom. Hemi watched the glowing depth gauge until the needle got into the range marked 'periscope,' and then quickly closed again the ballast valve control wheels again. There was a clink that echoed through the hull and the rush of air and water stopped.
 
