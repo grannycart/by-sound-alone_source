@@ -10,7 +10,7 @@
 [//]: # (### In the hardware store; Percy meets Trinity)
 [//]: # (### Negotiation with Trinity for the explosives shipping job)
 [//]: # (### To the bar; hiring Cassandra)
-[//]: # (### Percy meal with Shakes --- hiring him long term.)
+[//]: # (### Percy meal with Shakes -- hiring him long term.)
 [//]: # (### Back at the Prospect in the docking slip; talking to Hemi about re-hiring Chips)
 [//]: # (### re-hiring Chips)
 [//]: # (### disconnecting the Gnat)
@@ -24,60 +24,68 @@
 
 [//]: # (### They approach the depot island, are inspected)
 
-"About fuckin' time." Said Percy. She planned to climb up to the bridge and check with Owen in a minute, but first she wanted to look through the periscope. Since it would be higher up above the surface, she would potentially be able to see further. The bearing was obviously straight ahead, so she swung the barrel of the periscope around while looking through the viewfinder. The cigarillo still hung from her lips, with smoke rising up to her nostrils. "Aye. Fuckin' dawn's cracking up there... and I see a blot of an island ahead of us." She watched it for a while. It slowly, slowly came towards her and details came into view. It was a rocky, slightly-cliffed shore with some sparse vegetation on top.
+"About fuckin' time," said Percy. She planned to climb up to the bridge and check with Owen in a minute, but first she wanted to look through the periscope. Since it would be higher up above the surface, she would potentially be able to see further. The bearing was obviously straight ahead, so she swung the barrel of the periscope around while looking through the viewfinder. The cigarillo still hung from her lips, with smoke rising up to her nostrils. "Aye. Fuckin' dawn's cracking... and I see a blot of an island ahead of us." She watched it for a while. It slowly, slowly came towards her and details resolved themselves. It was a rocky, slightly-cliffed shore with some sparse vegetation on top.
 
-"Uh, Shakes," she said with a sinking, somewhat terrified feeling, "there's nothing on that island."
+"Mind if I look?" Shakes asked.
 
-"Naw!" Said Shakes. "Course not. The depot is for, uh, discreet fucking operations. It's entirely underwater, built into the side of the seamount."
+"Help yourself." Percy stepped back and pulled the cigarillo from her lips as she exhaled.
 
-"Ah." Said Percy. It was fairly common for a depot that handled sensitive cargo to be build partly underwater --- particularly the submarine docking area. Doing that kept Authority eyes off comings and goings. But usually there was a small surface component too for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care underwater fittings required when it was possible to do so. But she could see how if a depot were located close to the border between two very aggressive Authorities, as this one was, it was clearly logical to keep the whole operation off the surface. On the other hand, it also meant these might be rougher and less agreeable characters than the typical scum they dealt with in the submarine cargo industry.
+Shakes squinted into the viewfinder. "Um... Cap'n Percy... there's nothing on that fuckin' island."
 
-"So, how do we..." Percy started to ask.
+"No. The depot is for, ya know, discreet fuckin' operations. It's entirely underwater, built into the side of the seamount."
 
-The ship-to-ship radio lit up over her head. _"To approaching submarine: stop your motors and prepare to be boarded."_
+"Ah," said Shakes, tapping the side of his greasy nose knowingly. 
 
-"That's how." Said Shakes.
+It was fairly common for a depot that handled sensitive cargo to be built partly underwater -- particularly the submarine docking area. That kept Authority eyes off comings and goings. But usually there was also a small surface component for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care underwater fittings required when it was possible to do so. But with a depot located close to the border between two very aggressive Authorities, as this one was, there was a clear logic to keeping the whole operation off the surface.
 
-They shut the _Prospect's_ motors down, and Percy headed up to the bridge on the top of the sail. A mini-sub, maybe 15 meters long, had surfaced off their starboard side. A couple of large men, almost as big as Hemi, were climbing into an inflatable boat. They motored across the gap between the two subs, and climbed up the steel rungs on the outside of the _Prospect's_ sail.
+"So, how the fuck do we..." Shakes started to ask.
 
-"Transport sub?" Were the first words from their mouth. They wore old moth-eaten wool clothes: tightly worsted slacks, and cable-knit sweaters, like old North Atlantic fishermen.
+The ship-to-ship radio lit up over their heads. _"To approaching submarine: stop your motors and prepare to be boarded."_
 
-"Ya." Said Percy. "We're unarmed: no tubes."
+"That's how," said Percy.
 
-"Right." said the other of the two and spat on her deck. "We just gotta do a quick check if ya want to come any closer to the fuckin' island. Otherwise, ya gotta go back the way ya came."
+They shut the _Prospect's_ motor down, and Percy headed up to the bridge on the top of the sail. A mini-sub, maybe 15 meters long, had surfaced off their starboard side. A pair of large men, almost as big as Hemi, were climbing into an inflatable boat. They motored across the gap between the two subs, and climbed up the steel rungs on the outside of the _Prospect's_ sail.
 
-"Well, we got no fuel left, so we're not going fucking back anywhere. Get your check over with."
+"Transport sub?" was the first question as soon as they stood on the bridge. They wore old moth-eaten wool clothes: tightly worsted slacks, and cable-knit sweaters, like old fishermen.
 
-They climbed down the hatch. They spent the next 20 minutes crawling through the _Prospect_ with Shakes and Hemi. When they got back to the control room, they were a little less gruff. "Eh, fuck. Sorry, but being fucking careful in these waters is how we stay in fucking business. Y'all seem harmless enough, though it's fucking weird coming in hauling another sub under ya."
+"Yes," said Percy, "we're unarmed: no tubes."
 
-"Not exactly my fucking original plan." Said Captain Percy. "So what's the docking procedure here?"
+"Right." said the one of the two who had not spoken yet and spat on her deck. "We just gotta do a quick check if ya want to come any closer to the fuckin' island. Otherwise, ya gotta go back the way ya came."
+
+"Well, we got no fuel left, so we're not going back anywhere. Get your check over with."
+
+They climbed down the hatch. They spent the next 20 minutes crawling through the _Prospect_ with Shakes and Hemi. When they got back to the control room, they were a little less gruff. "Eh, fuck. Sorry, but being fucking careful in these waters is how we stay in fucking business. Y'all seem harmless enough, though it's fucking curious comin' in hauling another sub under ya."
+
+"Not exactly my original plan," said Captain Percy. "So what's the docking procedure here?"
 
 "Well, first fucking step is the dock fee. You pay that to us before you dock."
 
-Percy suddenly regretted her comment that they were out of fuel. She had accidentally given them a lever to extract whatever they wanted from her for this "docking fee." And extract they did. Based on her experience, she estimated that probably 15% of the price they quoted her was legitimate. The rest they would pocket. She asked them to wait while she retrieved a stack of coins from her cabin.
+Percy suddenly regretted her comment that they were out of fuel. She had accidentally given them a lever to extract whatever they wanted from her for this "docking fee." And extract they did. Based on her experience, she estimated that probably 15 percent of the price they quoted her was legitimate. The rest they would pocket. She asked them to wait while she retrieved a stack of coins from her cabin.
 
-They split the coins between them, barely even pretending that it was a legitimate transaction. Shakes watched the transaction with a slightly nervous look escaping from his face.
+They split the coins between them, barely even pretending that it was a legitimate transaction. Shakes watched the transaction with a slightly nervous look on his face.
 
-With the coins stashed in their pocket, the depot men very friendly. "OK boss. You can get on your ship-to-ship and contact the docking control office. They'll give you a docking assignment, and turn the sonar beacon on for ya. If there's anything else we can help you with, you can ring us up on ship-to-ship as well."
+With the coins stashed in their pocket, the depot men became very friendly. "OK boss. You can get on your ship-to-ship and contact the docking control office. They'll give you a docking assignment, and turn the sonar beacon on for ya. If there's anything else we can help you with, you can ring us up on ship-to-ship as well."
 
-"Fuckin' thanks so much." Said Percy.
+"Thanks so fuckin' much," said Percy.
 
-Percy followed them as they climbed back outside on the bridge. They puttered their little inflatable boat back to their small patrol sub. Percy could see them sharing a good-natured laugh between themselves even from the height of the _Prospect's_ sail.
+Percy followed them as they climbed back outside on the bridge. They puttered their little inflatable boat back to their small patrol sub. Percy could see them sharing a laugh between themselves even from the height of the _Prospect's_ sail.
 
-"Don't worry," Said Shakes when she got back to the control room, "they might be total fucking assholes, but we should be able to get everything yer boat needs here."
-
-"If I have enough fucking coin left to afford it." Percy replied.
-
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They dock at the underwater dock)
 
-Percy picked up the ship-to-ship mic and raised the docking control office, now within range of the ship-to-ship radio. They got their docking port and, sealing up the _Prospect's_ external hatch, they used the last remaining few minutes of their batteries to dive the boat. 
+Back in the control room, Percy picked up the ship-to-ship mic and raised the docking control office, now within range of the ship-to-ship radio. They got their docking port and, sealing up the _Prospect's_ external hatch, they used the last remaining few minutes of their batteries to dive the boat. 
+
+[//]: # (----- EDITED TO HERE -----)
 
 [//]: # (Not sure how much you want to get into visual description of exteriors in the next graf. Might be more interesting to only describe it from the inside.)
 
-The docking bay was located about 20 meters down underwater. It was typical underwater docking bay for cargo --- a long cylindrical tube of curved and welded plate steel. It stuck 100 meters out of the side of the seamount and was supported by a hazardous and seemingly randomly placed array of bracing bars that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it capable of docking all manner of sizes and orientations of cargo subs. There were between a dozen and two dozen slips, and maybe half of them had submarines docked at them already, arranged at various angles, like leeches with orifices sucking at a giant limb.
+[//]: # (Also gotta deal with the fact that if the Prospect sail is 20 meters down, the Gnat will be beyond it's depth limit. Maybe something like: During the whole procedure, Shakes stood sweating at the hatch that led down the _Gnat_ listening for the sound of his boat collapsing as they pushed it to what he assumed was the absolute limit his boat could take. -- remember he didn't have a mating collar before, so he never docked that way -- or did he? didnt I address that at some point?)
 
-The _Prospect_ followed the sonar beacon to docking slip four, located on the bottom of the docking bay tube. It was the largest size slip this depot had available --- or even widely used in the cargo sub industry. It was something of a standard size for large cargo hold hatches. They carefully eased the _Prospect_ up under slip four, until the big cargo hatch on the _Prospect's_ deck came up under the docking slip and connected to it --- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
+The docking bay was located about 20 meters down underwater. It was typical underwater docking bay for cargo -- a long cylindrical tube of curved and welded plate steel. It stuck 100 meters out of the side of the seamount and was supported by a hazardous and seemingly randomly placed array of bracing bars that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it capable of docking all manner of sizes and orientations of cargo subs. There were between a dozen and two dozen slips, and maybe half of them had submarines docked at them already, arranged at various angles, like leeches with orifices sucking at a giant limb.
+
+The _Prospect_ followed the sonar beacon to docking slip four, located on the bottom of the docking bay tube. It was the largest size slip this depot had available -- or even widely used in the cargo sub industry. It was something of a standard size for large cargo hold hatches. They carefully eased the _Prospect_ up under slip four, until the big cargo hatch on the _Prospect's_ deck came up under the docking slip and connected to it -- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
 
 Hemi went down to the cargo hold and walked, hunched-over, out across the catwalk that hung maybe two meters down from the ceiling of the hold. Captain Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. He picked up a rubber mallet that was left hanging on some hooks by the catwalk for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gong sound that reverberated for a full 20 seconds. He waited a few second more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect's_ cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
 
@@ -85,7 +93,7 @@ Two winches were set on either side of the cargo hatch along the catwalk. The bi
 
 He picked up a breaker bar that hung next to the rubber mallet and set it over a fat pin of steel welded to the column of the winch wheel. With the extra meter or so of leverage, he easily turned the winch wheel a few degrees and there was an audible pop and hiss as the extra pressure of the air in the depot pushed through the slit in the cargo hatch and into the _Prospect_. Hemi pinched his nose and cleared his ears with a pop that sounded like a small version of the sound of the hatch opening.
 
-Once the seal was broken he stowed the breaker bar and easily, but somewhat slowly due to the gearing, winched open one cargo hatch door and then the other. When the doors were fully opened, he extended a steel ladder --- its pawls clanking on the locking teeth --- up into the docking bay so a person could climb up and down from the _Prospect_.
+Once the seal was broken he stowed the breaker bar and easily, but somewhat slowly due to the gearing, winched open one cargo hatch door and then the other. When the doors were fully opened, he extended a steel ladder -- its pawls clanking on the locking teeth -- up into the docking bay so a person could climb up and down from the _Prospect_.
 
 
 [//]: # (### Description of the docking bay)
@@ -102,7 +110,7 @@ Hemi lowered himself a few steps back down the ladder until he was enough inside
 
 The two of them appeared a quarter of an hour later. Captain Percy was carrying a beaten and cracked leather folio in which she kept the ship's books. Shakes was empty-handed, but had apparently freshly greased and pointed his hair for the big outing on the depot dock.
 
-Hemi had been waiting out on the deck of the docking bay. He gave Percy and Shakes a hand up the ladder. When they were all assembled, they started off towards the far end of the docking bay where they saw a wooden sign painted white and with square hand-painted black letters said "Dock Office." Actually getting to the dock office was a matter of navigating around the big open holes in the deck which led down into the cargo holds of other docked subs. There were other obstacles too, like the ladders hanging down from the subs docked above, or stacks of crates waiting to be loaded into subs docked on either side. The places where no submarines were docked were typically used as staging areas for cargo that was making its way down the docking bay in steps towards whatever sub they were destined to be loaded onto, or otherwise up the dock from where they had been unloaded. It made for slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine --- maybe 12 to 15 meters in circumference --- but still cramped and grimed. They felt right at home.
+Hemi had been waiting out on the deck of the docking bay. He gave Percy and Shakes a hand up the ladder. When they were all assembled, they started off towards the far end of the docking bay where they saw a wooden sign painted white and with square hand-painted black letters said "Dock Office." Actually getting to the dock office was a matter of navigating around the big open holes in the deck which led down into the cargo holds of other docked subs. There were other obstacles too, like the ladders hanging down from the subs docked above, or stacks of crates waiting to be loaded into subs docked on either side. The places where no submarines were docked were typically used as staging areas for cargo that was making its way down the docking bay in steps towards whatever sub they were destined to be loaded onto, or otherwise up the dock from where they had been unloaded. It made for slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine -- maybe 12 to 15 meters in circumference -- but still cramped and grimed. They felt right at home.
 
 
 [//]: # (### The dock office and the dock boss)
@@ -113,25 +121,25 @@ Behind the desk sat yet another huge person, also dressed in similar heavy wool 
 
 "You must be from the boat that just came in on slip four, eh?" She asked.
 
-"That's right. I'm Captain Percy. She's my fucking boat --- The _Prospect_." The dock boss squinted up at her.
+"That's right. I'm Captain Percy. She's my fucking boat -- The _Prospect_." The dock boss squinted up at her.
 
-"Actually, there's two fucking boats." Said Shakes.
+"Actually, there's two fucking boats," said Shakes.
 
-"Ah, hmm." Said the dock boss. "There's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual fucking docking arrangement."
+"Ah, hmm," said the dock boss. "There's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual fucking docking arrangement."
 
 "We Would not normally come in that way," said Hemi, "but we are in pretty bad shape. We had to rig up a whole complicated situation with the smaller sub to have enough power to get here. We have basically got no power, no fuel, and we need repairs, restock, and hopefully some new employment."
 
-"Hmph. Well. We're full-service here. We're pretty isolated, so we keep a lot of stock and parts on hand. Having a deep supply is the good side of being isolated. The bad side is that shit's going to be pretty fucking expensive. It costs a premium to move it out here. I give folks honest assessments --- hell that's how I got this shitty dock boss position --- but most of the goods around here are sold from the crew of one independent operator to another. I can't control what prices those fucking connivers might try to get from those who might be a little desperate."
+"Hmph. Well. We're full-service here. We're pretty isolated, so we keep a lot of stock and parts on hand. Having a deep supply is the good side of being isolated. The bad side is that shit's going to be pretty fucking expensive. It costs a premium to move it out here. I give folks honest assessments -- hell that's how I got this shitty dock boss position -- but most of the goods around here are sold from the crew of one independent operator to another. I can't control what prices those fucking connivers might try to get from those who might be a little desperate."
 
 "Well, that's a reason why we're also looking for a job. We could use some inflow of some fucking cash. Are there any leads on cargo that needs hauling?" Asked Percy.
 
 "Can't help you there. I'm the dock boss, I just handle the dock. Work is found further up the tunnel. There's a market and exchange floor up there. Because we're the only depot out this way, enough stuff moves through here that you should be able to wrangle up something that pays. Me, I'll give ya a list of contacts up and down the dock who should be able to set you up with fuel and repairs and the like. I'll try to give you the least-worst of that bunch of bone-scraping, marrow-sucking dickheads." She started scribbling down a list of names and associated slips on the back of a used enveloped.
 
-"That is certainly our first priority." Said Hemi. "What about Authorities? Much activity from them around here?"
+"That is certainly our first priority," said Hemi. "What about Authorities? Much activity from them around here?"
 
-"Mostly they leave us the fuck alone. As I say, this is one of the only places you can move goods for cash in this part of the ocean, so we end up being a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too --- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface for control. It's pleasantly remote here, it is. While it fucking lasts anyway."
+"Mostly they leave us the fuck alone. As I say, this is one of the only places you can move goods for cash in this part of the ocean, so we end up being a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too -- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface for control. It's pleasantly remote here, it is. While it fucking lasts anyway."
 
-"Sounds like a nice place to retire." Said Shakes. "No sun, no wind, nothing to keep you from happily living out your days in a dark grimy hole."
+"Sounds like a nice place to retire," said Shakes. "No sun, no wind, nothing to keep you from happily living out your days in a dark grimy hole."
 
 "Anyway.." Percy interrupted, "thanks for the orientation. Hemi can you get that list of contacts for repairs and refueling? Shakes, you probably want to go with him and make sure you get the _Gnat_ fucking fueled back up?"
 
@@ -142,7 +150,7 @@ With a list of contacts from the deck boss and a few more passing words of thank
 
 [//]: # (### Percy walks up the exchange floor: description)
 
-The welded steel plating of the docking bay tube extended 10 meters or so beyond the dock office which marked the close end of the docking bay, where it was set against the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if a something major happened --- say a docked submarine ripped away leaving a giant hole in the dock --- this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure system. Of course, that wouldn't save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures --- more of them than anyone would care to admit --- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person, since traditionally ports were associated with safety for ships.
+The welded steel plating of the docking bay tube extended 10 meters or so beyond the dock office which marked the close end of the docking bay, where it was set against the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if a something major happened -- say a docked submarine ripped away leaving a giant hole in the dock -- this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure system. Of course, that wouldn't save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures -- more of them than anyone would care to admit -- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person, since traditionally ports were associated with safety for ships.
 
 A little further up the ramp from the watertight bulkhead, the steel plating ended where it was bolted and sealed into the raw rock of the seamount. The space widened here. This whole part of the depot was hollowed out of the underground stone and the walls were left as raw, cut rock. In places the lines of drill holes could still be seen where explosives had been placed to more quickly open spaces for the chamber during its construction. This was all pretty unusual and expensive. Most depots with an underwater dock kept the underground construction to a minimum and moved as much of the operation to the surface as was practical. Percy guessed there must be some discreet Authority funding behind this place.
 
@@ -171,7 +179,7 @@ The shopkeeper somehow both managed to both show very little interest in the few
 
 Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that was being sold as a single unit and looked incredibly useful. It was not on her hardware list, so she regretfully wouldn't get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than waiting to be purchased on the list at the next stop.
 
-Percy picked up the box of clamps and moved to look at some of the larger parts. She looked down into an open crate and there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she couldn't imagine not buying it. In the condition it was in, however, it would not be cheap.
+Percy picked up the box of clamps and moved to look at some of the larger parts. She looked down into an open crate and there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines -- even excellent ones -- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she couldn't imagine not buying it. In the condition it was in, however, it would not be cheap.
 
 She leaned over the crate and ran her fingers under the cover to check for hidden grit and make sure it was actually factory-new, and not just well-cleaned old junk. As she did so, an old crone who had been looking at a box of steel piping near her leaned in her direction to admire the pump motor too. "That's a fine-looking piece of machine." The lady said to Percy, her voice croaking softly so it took Captain Percy a second to interpret what the lady had said.
 
@@ -179,7 +187,7 @@ She leaned over the crate and ran her fingers under the cover to check for hidde
 
 "Pretty expensive element for buying multiples of." The lady offered. She was frail and small. In this depot full of huge people, she was certainly the tiniest Percy had seen, or would even expect to see. She had big rubbery ears and a heavily-lined face with a tiny nose that wiggled when she talked. She was dressed in a wool cloak that was worn thin but clearly made of what was originally a high-quality material. Over it, she wore a fraying shawl with an intricate fair-isle pattern. She looked like a person who would never be quite warm enough in this hole-in-the-rock they were currently in.
 
-"The cost is the reason I'll be lucky to get a single one of these." Said Percy.
+"The cost is the reason I'll be lucky to get a single one of these," said Percy.
 
 "Hrmmm.... what if I told you I could set you up with a little cash?"
 
@@ -195,7 +203,7 @@ Percy nodded.
 
 "To be transparent" the old lady continued, "I did receive a note that you might be a good fit for this particular work. It's not exactly coincidence that I found you in here."
 
-Percy put a couple of things together and realized the dock boss must have sent word to this lady. An awfully nice gesture --- if they weren't setting Percy up. She wondered what she had done to deserve a kind move from the dock boss. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidence would have fucking suggested."
+Percy put a couple of things together and realized the dock boss must have sent word to this lady. An awfully nice gesture -- if they weren't setting Percy up. She wondered what she had done to deserve a kind move from the dock boss. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidence would have fucking suggested."
 
 "Ah," said the lady, "yes, it's easier to believe the plot and the happenings are motivated by someone's will, eh? That it isn't all just random chaos, and the coin-toss sometimes comes up in your favor?"
 
@@ -224,7 +232,7 @@ Percy took her arm to help her along. It was a thin little stick of bone in Perc
 
 [//]: # (Why is there so much gratuitous cursing in this story? Your answer is above!)
 
-Trinity walked on silently --- and Percy thought somewhat reproachfully --- for a minute. "Anyway. In my line of work, it is best to know a little something about those you hire. Though again, in the interest of transparency, all I really know is your name and that you have a boat."
+Trinity walked on silently -- and Percy thought somewhat reproachfully -- for a minute. "Anyway. In my line of work, it is best to know a little something about those you hire. Though again, in the interest of transparency, all I really know is your name and that you have a boat."
 
 "What's with all the transparency?" Percy asked.
 
@@ -236,7 +244,7 @@ Trinity walked on silently --- and Percy thought somewhat reproachfully --- for 
 
 Percy did not respond to that. This seemed too good to be true. This old lady was either senile, lying, or there was a catch yet to be revealed.
 
-"Here we are." Said Trinity, steering Percy towards a low creosoted wooden door set into the wall. The inside of Trinity's office had the same bare rock walls as all the other spaces, but was more warmly lit from sconces in place along the walls. Many wooden filing cabinets arrayed under the sconces also softened the feel of the space. The center of the space had a few large heavily-stuffed leather chairs and a small table between them that appeared to be constructed of some exotic wood.
+"Here we are," said Trinity, steering Percy towards a low creosoted wooden door set into the wall. The inside of Trinity's office had the same bare rock walls as all the other spaces, but was more warmly lit from sconces in place along the walls. Many wooden filing cabinets arrayed under the sconces also softened the feel of the space. The center of the space had a few large heavily-stuffed leather chairs and a small table between them that appeared to be constructed of some exotic wood.
 
 "I can offer you tea or coffee, Captain Percy."
 
@@ -244,7 +252,7 @@ Percy did not respond to that. This seemed too good to be true. This old lady wa
 
 "Cream?"
 
-"Holy fuck --- pardon my language --- you have cream? Real, liquid cream?"
+"Holy fuck -- pardon my language -- you have cream? Real, liquid cream?"
 
 "It's extremely expensive but, as with most things, it can be had here for the right price. I am happy to share a few drops with a business prospect."
 
@@ -262,7 +270,7 @@ Trinity lowered herself groaning into the chair opposite Percy.
 
 "...For which the primary use would be mines, and thus still illegal to ship."
 
-"The units are absolutely agnostic in their uses. They don't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth --- and under, of course --- the surface of the sea, leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
+"The units are absolutely agnostic in their uses. They don't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth -- and under, of course -- the surface of the sea, leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
 
 "Is that why you need us? You can't get an Authority seal to ship these because they are going to a group that's trying to 'clean' up the oceans?"
 
@@ -282,7 +290,7 @@ Percy hesitated. "How about... three times a standard hull-load fee?"
 
 "Done. I can pay you two-thirds now and the remainder on delivery. I assume coin will be satisfactory?"
 
-"Absolutely." Said Percy, kicking herself that she didn't ask for more. Still, she have never been paid triple for a hull load before.
+"Absolutely," said Percy, kicking herself that she didn't ask for more. Still, she have never been paid triple for a hull load before.
 
 Trinity stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While watching Trinity's fingers pick apart the coins, Percy noticed for the first time that she only had three fingers on her right hand.
 
@@ -317,17 +325,17 @@ The man behind the bar was yet another giant, though more fat than stocky like t
 
 As the bartender set up a glass and was leaning to pour it Percy continued the conversation despite the fact that the bartender did not particularly look like he would want to. "Actually, I'm looking to hire some crew. I have a boat, and we're short a few fucking people. Thought you might be able to steer me in the right direction to where the fucking hiring is done around here."
 
-"Most of the steering I do it towards the bottles." Said the bartender. "You want crew you're better off down on the fuckin' dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seemingly around." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. 200 meters and more."
+"Most of the steering I do it towards the bottles," said the bartender. "You want crew you're better off down on the fuckin' dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seemingly around." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. 200 meters and more."
 
 "Yeah, that kind of boat is always hiring. Shit, that doesn't sound good. I'm a little fuckin' desperate."
 
 The bartender squinted up the side of his face where his eye would have been considering for a few seconds. "Hrmm. Well, if yer fuckin' desperate... Bartendin' is my side-gig. My main business, and much more profitable I might add, is pimpin'."
 
-"You don't fuckin' say." Said Percy into her drink. 
+"You don't fuckin' say," said Percy into her drink. 
 
 He pretended not to hear her. "Thing about pimpin' in a place like this is sometimes you gotta take risks on the folks ya bring over from the mainland to work. Beggars can't be choosers, ya might say. So once in a while I end up with whores I can't pimp out. Or at least not at a price that makes them worth the food they eat."
 
-"Always difficult to balance those books, I hear ya." Said Percy.
+"Always difficult to balance those books, I hear ya," said Percy.
 
 "Anyway, right now I got me this waif that got off a boat a few weeks ago. But she's skinny and small. Waif-life, I say, you know what I mean?"
 
@@ -355,19 +363,19 @@ The bartender shrugged. "Plus a finders-fee like." He said, and Percy knew she h
 
 He shrugged again. "Well, I'll tell you this: those whores of mine have a record player in their quarters. Drives me fucking crazy, but when I tried to dispose of it I had a large-scale fuckin' whore-revolt on my hands. That little waif in particular, I noticed, listens to the fuckin' records all the time. Does that suggest anything about her ears?"
 
-"Might mean she's fuckin' deaf already ." Said Percy. She sipped her drink. "Fuck it. It's not like I'm going into battle. If she's not completely deaf, we can have her sit sonar watch during long runs. She won't be completely useless."
+"Might mean she's fuckin' deaf already," said Percy. She sipped her drink. "Fuck it. It's not like I'm going into battle. If she's not completely deaf, we can have her sit sonar watch during long runs. She won't be completely useless."
 
-"Swell." Said the bartender. "I need that depressing little shadow out of my life." He called down the bar to where a small group of skinny girls and a couple of boys were milling about aimlessly. "Cassandra! Come over here. I have someone I want you to meet."
+"Swell," said the bartender. "I need that depressing little shadow out of my life." He called down the bar to where a small group of skinny girls and a couple of boys were milling about aimlessly. "Cassandra! Come over here. I have someone I want you to meet."
 
 A tiny girl with stick arms and huge brown eyes under tight curls of black hair walked towards them. She was wearing a short slip of a blue dress made of worn cotton, and had long fingernails, brightly painted but chipped in places.
 
 As she got closer the bartender said flatly, "This lady might want to hire you." And turned away to deal with some other customers.
 
-"Fuck." Said Percy. "Can you see in the dark with those eyes girl?"
+"Fuck," said Percy, "can you see in the dark with those eyes girl?"
 
 [//]: # (The convention in a sub story is the sonar operator has amazing ears, potentially signaled by having huge ears. Cassandra has giant eyes instead.)
 
-"I don't know." Said Cassandra quietly, looking down.
+"I don't know," said Cassandra quietly, looking down.
 
 "Look, I'm not trying to fuck you here. I've got a boat, and I'm leaving in less that 48 hours and need to crew up. Your friendly bartender-pimp says you might be willing to work on a boat instead of whatever it is you do now. You ever work on a boat before? Or anything technical? Maybe sonar or something fucking sonics related?"
 
@@ -409,7 +417,7 @@ The bartender put a knuckle to his gristly eyebrow in a mock salute as they turn
 
 "Here," said Percy handing Cassandra a few coins, "that's an advance on your next paycheck. Buy some tougher clothes."
 
-[//]: # (### Percy meal with Shakes --- hiring him long term.)
+[//]: # (### Percy meal with Shakes -- hiring him long term.)
 
 With a shy smile Cassandra turned and walked up the ramp towards the stairs to the next level up, where the barracks were located. Percy turned down the ramp feeling like it was probably time to get back to her boat and see how repairs were proceeding. She was warm from the liquor and had a bit of a sweat breaking on her skin in the still and humid underground air.
 
@@ -449,7 +457,7 @@ Percy nodded. "Something like that has always been my strategy too. But for this
 
 "Sure. You got something already?"
 
-"Here's what I'm thinking: As I said, I'm gonna be hauling this risky fucking load --- I won't get into details about it right now, just remember that there's certain to be some Authorities who would be interested in checking the manifest. Now, I will, of course, deploy the usual tactics of keeping my boat on the down-low, running quiet, staying submerged during the day and only running on the surface at night, and so on and fuckin' whatnot."
+"Here's what I'm thinking: As I said, I'm gonna be hauling this risky fucking load -- I won't get into details about it right now, just remember that there's certain to be some Authorities who would be interested in checking the manifest. Now, I will, of course, deploy the usual tactics of keeping my boat on the down-low, running quiet, staying submerged during the day and only running on the surface at night, and so on and fuckin' whatnot."
 
 She paused for a second, considering how to best present this idea she had to Shakes.
 
@@ -461,13 +469,13 @@ She paused for a second, considering how to best present this idea she had to Sh
 
 "Naw. Surface craft are fucking useless. The authorities have different methods for monitoring surface vessels and submerged ones. It has to be something that could be mistaken on sonar for the _Prospect_. Possibly a boat like the _Gnat_."
 
-Shakes swallowed. "So... what? You want me to juice up the _Gnat_ so it fucking sounds like it could be a big ol' fuckin' cargo sub --- and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
+Shakes swallowed. "So... what? You want me to juice up the _Gnat_ so it fucking sounds like it could be a big ol' fuckin' cargo sub -- and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
 
 "Or maybe _not_ get caught... you said the _Gnat_ was fast, right? You could outrun them when they started pursuing you... and at the same time lead them away from the _Prospect_."
 
-Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and --- what's the fuckin' word? brash  ---after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing though."
+Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and -- what's the fuckin' word? brash  --after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing though."
 
-"I have a feeling you'd be a fucking natural at it." Said Percy.
+"I have a feeling you'd be a fucking natural at it," said Percy.
 
 "It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed." 
 
@@ -481,9 +489,9 @@ Shakes eyes widened. He poked at the satchel with the handle end of his fork. "B
 
 Shakes nodded slowly, while chewing through another piece of bread. "Alright. Fuckin' alright! But I want a stipend on top of that to cover the costs of any modifications to the _Gnat_. And enough to reverse them after we complete this run."
 
-"Done. I'll give you one share right now, and the other on delivery. You can write up the cost of the fucking stipend at delivery too." Said Percy.
+"Done. I'll give you one share right now, and the other on delivery. You can write up the cost of the fucking stipend at delivery too," said Percy.
 
-Shakes grinned through a mouthful of food. "Well --- partner --- who knew picking up a bunch of fucking dirty marooned scumbags in the middle of the ocean would lead to anything profitable! Fuckin' Sweet."
+Shakes grinned through a mouthful of food. "Well -- partner -- who knew picking up a bunch of fucking dirty marooned scumbags in the middle of the ocean would lead to anything profitable! Fuckin' Sweet."
 
 "Well if that's fucking settled, I've been away from my boat for a couple of hours now, and that is enough for some serious fucking damage to have been done. I feel like I need to be getting back there."
 
@@ -518,7 +526,7 @@ Percy considered. "OK... she oversees the repairs, we pay her up to date, and _t
 
 "Speaking of work, the other reason we need to re-hire her is I fell into a plum job for us up on there on the exchange floor. For the moment, we're fuckin' flush."
 
-"Yeah?" Said Hemi skeptically, knowing that a cargo job that paid well was likely to be neither easy nor safe.
+"Yeah?" said Hemi skeptically, knowing that a cargo job that paid well was likely to be neither easy nor safe.
 
 "Yeah. We've also got some free advice to be out of here in 48 hours." She handed him the leather satchel full of coins. "Here's the money. You know how this goes. Spend what you have to to get us out of here quickly."
 
@@ -551,15 +559,15 @@ There was an incoherent grumbling from the men standing in the puddle.
 
 "What the fuck makes you so arrogant to fucking think I would go back out with a stubborn fucking ass-reamer like you?" Her face was flushing. "Fucking fuck! You'll fucking get me killed with your fucking stupidity, and is if that wasn't fucking bad enough, you would tell the story that it was my fucking fault somehow. You fucking twat."
 
-"Fuck Chips! Look at the work these fucked meatheads are doing --- if we don't have you aboard, we're going to fucking go down when it fails and there's nobody who can fix it! Now, I've got a new job coming in, it pays really fucking good. I can offer you a fucking _double_ engineer's share for this next run. I'll even pay you half right fucking now." Percy said, reaching for her satchel full of coins.
+"Fuck Chips! Look at the work these fucked meatheads are doing -- if we don't have you aboard, we're going to fucking go down when it fails and there's nobody who can fix it! Now, I've got a new job coming in, it pays really fucking good. I can offer you a fucking _double_ engineer's share for this next run. I'll even pay you half right fucking now." Percy said, reaching for her satchel full of coins.
 
 "Ah fuck you Percy. You can hold the fucking money. You're a fucking shithead, but an honest fucking one and always fucking paid smartly." Chips pushed at the bilge water edge with the toe of her rubber boot. "Ah fuck. Look at this fucking work they're fucking doing. Y'all going to fucking die without me on board. You, Percy, I don't give two shits. But I couldn't live with fucking Hemi or Owen going down when I could have stopped it."
 
 "Well, me fucking neither Chips."
 
-"OK you fucking cunt. You got me. I'm in for the next run --- double fucking engineer share. Now get the fuck away from me before I start looking for another piece of pipe. Actually I might need one for these fuckers in the puddle anyway." She said looking around.
+"OK you fucking cunt. You got me. I'm in for the next run -- double fucking engineer share. Now get the fuck away from me before I start looking for another piece of pipe. Actually I might need one for these fuckers in the puddle anyway." She said looking around.
 
-Percy walked away thinking she would do her best to just stay out of Chips' way on this run --- as much as one could stay out of anyone's way on a sub. But it was also reassuring to know she would be aboard.
+Percy walked away thinking she would do her best to just stay out of Chips' way on this run -- as much as one could stay out of anyone's way on a sub. But it was also reassuring to know she would be aboard.
 
 
 [//]: # (### disconnecting the Gnat)
@@ -570,7 +578,7 @@ At the other end of the cargo hold Captain Percy found Shakes had made his way b
 
 "You got the _Gnat_ refueled already?" Percy was a little surprised they had been able to move that quickly.
 
-"Fuck naw." Said Shakes through a mouthful of oozing leaves. "But if you look back toward the end of the battery compartment, to the hatch down to the _Gnat_, you can see we've still got the _Gnat's_ batteries connected up to the circuit. That means since we've been charging the _Prospect's_ batteries," he nodded toward the heavy cables hanging from the _Prospect's_ cargo hatch and running up the middle of the cargo hold, "we've been feeding the _Gnat_ juice too. Hemi here figures there's enough charge on now that I could move the _Gnat_ to its own slip, and refuel there. ...Sending the fuckin' bill to y'all of course."
+"Fuck naw," said Shakes through a mouthful of oozing leaves. "But if you look back toward the end of the battery compartment, to the hatch down to the _Gnat_, you can see we've still got the _Gnat's_ batteries connected up to the circuit. That means since we've been charging the _Prospect's_ batteries," he nodded toward the heavy cables hanging from the _Prospect's_ cargo hatch and running up the middle of the cargo hold, "we've been feeding the _Gnat_ juice too. Hemi here figures there's enough charge on now that I could move the _Gnat_ to its own slip, and refuel there. ...Sending the fuckin' bill to y'all of course."
 
 Hemi nodded.
 
@@ -580,7 +588,7 @@ Percy looked at Hemi. "Do we have more use for the _Gnat_ now Hemi?"
 
 "As a spare battery bank? No. In fact keeping it connected it just slowing down our own charging process."
 
-"Alright then." Said Percy. "Get that leech off my fuckin' boat."
+"Alright then," said Percy, "get that leech off my fuckin' boat."
 
 Shakes grinned. "Applying that leech _saved_ your fuckin' boat."
 
@@ -597,7 +605,7 @@ Shakes steered the _Gnat_ further down the docking bay, and got it mated up to s
 
 Refueling, recharging, and repairs were busily carried out over the next six hours or so. Captain Percy was uncomfortable with how many people were coming and going and crawling around in her boat. In the long expanses of time that she lived inside this steel tube, during most of it she knew exactly who was aboard her submarine. In dock like there was an unusual and discomforting open access to her boat. Just another reason to be on the move, as far as she was concerned.
 
-All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. Hell, with the damage to the hull the _Prospect_ should really go into dry dock for serious repairs --- but that required a monetary flushness that was far beyond a single well-paid job. 
+All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. Hell, with the damage to the hull the _Prospect_ should really go into dry dock for serious repairs -- but that required a monetary flushness that was far beyond a single well-paid job. 
 
 Getting the boat ready to go out again so quickly was not just expensive, it also meant cutting some corners that Percy was not happy about. The repairs to the hull continued to be a foul mess of patches and half-competent welds. Through Chips' streaming curses from the bow Percy got the impression that Chips felt she had done a better job welding underwater while the boat was moving than this whole team of ruddy thick-fingered men were doing with the boat dry and steady.
 
@@ -609,7 +617,7 @@ By dinner time most of the critical repair and refueling work was wrapping up. M
 
 "We still have to charge the high and low pressure tank systems. It would be better to do that from the dock rather than from diesel while we are moving, if we can."
 
-[//]: # (A note here that could go anywhere: Hemi generally does not use contractions. Why? It's a mix of his being smart, educated, and English being his second language. He decided at some point it would be a simpler language for him to master --- and have precision over what he was saying --- if he avoided contractions.)
+[//]: # (A note here that could go anywhere: Hemi generally does not use contractions. Why? It's a mix of his being smart, educated, and English being his second language. He decided at some point it would be a simpler language for him to master -- and have precision over what he was saying -- if he avoided contractions.)
 
 Percy nodded.
 
@@ -623,19 +631,19 @@ Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that la
 
 "I do not trust jobs that pay _too_ well. Cargo?"
 
-"Weapons parts --- magnetic warheads."
+"Weapons parts -- magnetic warheads."
 
 "Had to be something like that did it not? You have no problem with Authorities breathing down our necks and risking blowing the boat in half if someone drops a crate full of explosives?"
 
 "We're on the fuckin' Nitro Express now Hemi. _Someone_ has to move this stuff. Might as well be pros like us. The cargo is supposed to arrive for loading any minute now, actually. Is the hold ready for it?"
 
-"Chips finished up repairs an hour or two ago --- at least as good as they could be with the resources available here --- and the bilge is pumped dry. I think we can start loading cargo. Though if we are hauling explosives you might want to pack in some soft padding first."
+"Chips finished up repairs an hour or two ago -- at least as good as they could be with the resources available here -- and the bilge is pumped dry. I think we can start loading cargo. Though if we are hauling explosives you might want to pack in some soft padding first."
 
 "I'm sure they have been thoroughly fucking packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you're sure they _won't_ go off if someone walks by a crate with a heavy socket wrench or something."
 
 There was a tap of someone's bony knuckles on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those fuckin' big trolls up at the slip with crates they say are to be loaded into the _Prospect_.
 
-"Thanks Gregory." Said Percy. "That is indeed our cargo. You can come help us get these things stowed properly. Hemi?"
+"Thanks Gregory," said Percy, "that is indeed our cargo. You can come help us get these things stowed properly. Hemi?"
 
 Hemi forked his last bite of meat, and squeezed his bulk out of the tight galley seating.
 
@@ -644,9 +652,9 @@ Hemi forked his last bite of meat, and squeezed his bulk out of the tight galley
 
 They climbed up the ladder from the catwalk to the depot docking bay to find dozens of large and molding wooden crates stacked up around the open hatch into the _Prospect's_ cargo hold. The sides of the crates were stamped with "XL Industries" and "CAUTION!" Apparently XL Industries knew better than to put the word "EXPLOSIVES" on their packing materials with the risk that would bring of attracting unnecessary attention during an Authority inspection. But XL Industries still felt that anyone handling their products should have a heads up that they should not just be tossed around casually.
 
-Making their way among and about the crates were a half dozen or so dock workers --- more huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds. They swarmed around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a sliding block hanging from anchor points welded to the roof of the depot's docking bay tube. This sliding block would be used to lower the crates down into the cargo hold of the _Prospect_. A couple of men climbed the ladder into the _Prospect_ to make their way down to the deck of the cargo hold where they would receive the lowered crates.
+Making their way among and about the crates were a half dozen or so dock workers -- more huge swarthy men wearing moth-eaten tweed and leather suits and chomping on various forms of tobacco or seeds. They swarmed around a large push cart stacked high with the wooden "Caution" crates, and swinging crates off it from chains connected to a sliding block hanging from anchor points welded to the roof of the depot's docking bay tube. This sliding block would be used to lower the crates down into the cargo hold of the _Prospect_. A couple of men climbed the ladder into the _Prospect_ to make their way down to the deck of the cargo hold where they would receive the lowered crates.
 
-A dock worker approached Percy. He was wearing a worn bowler hat and was among the smallest men Percy had seen since they docked --- his eyes were almost even with hers and were surrounded by round-framed glasses.
+A dock worker approached Percy. He was wearing a worn bowler hat and was among the smallest men Percy had seen since they docked -- his eyes were almost even with hers and were surrounded by round-framed glasses.
 
 "You're Captain Percy, right?" He asked.
 
@@ -662,7 +670,7 @@ Percy took the pen and scrawled her illegible name into the blank.
 
 Hemi adjusted his thin-framed glasses and more studiously scanned over the contract before he signed the witness blank. The man tore off a carbon copy and held it out to Percy. Hemi took it and folded it and put it into his inside jacket pocket.
 
-By the time this was done the dock crew already had the first crate suspended by chains in a sling and hanging out over the _Prospect's_ open cargo hold. The chain passed through a series of heavy iron blocks to a fat winch mounted to the wall of the docking bay. The chains looked like they were straining with tension at the edge of their capacity --- explosives were never a light cargo. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' winch now!" He yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect's_ cargo hold.
+By the time this was done the dock crew already had the first crate suspended by chains in a sling and hanging out over the _Prospect's_ open cargo hold. The chain passed through a series of heavy iron blocks to a fat winch mounted to the wall of the docking bay. The chains looked like they were straining with tension at the edge of their capacity -- explosives were never a light cargo. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' winch now!" He yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect's_ cargo hold.
 
 "Gregory," Percy said, "go down to the cargo hold deck and make sure those goons are stowing things in a way that won't leave the boat totally fuckin' untrimmable."
 
@@ -689,17 +697,17 @@ Hemi looked up from his clipboard and sized Cassandra up for a moment. "I hope s
 
 Cassandra made her way up to them, weaving through the remaining crates.
 
-"Cassandra." Said Percy. "I'm glad you made it. This is Hemi Howell, Deck Boss, First Mate, Navigator, Crew Trainer, and whatever the fuck else needs to be done. Basically he's the one who does all the actual fucking work."
+"Cassandra," said Percy, "I'm glad you made it. This is Hemi Howell, Deck Boss, First Mate, Navigator, Crew Trainer, and whatever the fuck else needs to be done. Basically he's the one who does all the actual fucking work."
 
 "Nice to meet you Hemi." Cassandra said politely. Percy could have sworn if she were wearing a skirt and unburdened by all the possessions she owned she would have curtsied.
 
-"Genuinely glad to have you aboard." Said Hemi. "We desperately need more hands, and with you taking a watch we all might actually be able to get a little sleep on this run."
+"Genuinely glad to have you aboard," said Hemi, "we desperately need more hands, and with you taking a watch we all might actually be able to get a little sleep on this run."
 
 Cassandra smiled up at Hemi.
 
-Hemi gestured with the end of his pencil. "Down that ladder into the boat. Walk up the catwalk til you get to the main decks of the boat. Introduce yourself to anyone who does not look like one of these mounds." He nodded towards the men working on loading the explosives. "Ask them where the crew quarters are. You should be able to find an empty locker to stow your stuff in there. Then make your way up to the sonar compartment and hang around until someone asks you to do something."
+Hemi gestured with the end of his pencil. "Down that ladder into the boat. Walk up the catwalk till you get to the main decks of the boat. Introduce yourself to anyone who does not look like one of these mounds." He nodded towards the men working on loading the explosives. "Ask them where the crew quarters are. You should be able to find an empty locker to stow your stuff in there. Then make your way up to the sonar compartment and hang around until someone asks you to do something."
 
-"Alright." Said Cassandra. "And I'll get some training at some point?"
+"Alright," said Cassandra, "and I'll get some training at some point?"
 
 "Not until we are under way. Getting the boat ready for a run takes a lot of prep, as you can see, and there is no extra time for anything but prep. Once we are under way there will be some downtime and I will sit with you at the sonar and show you how it works."
 
