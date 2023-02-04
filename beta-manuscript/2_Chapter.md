@@ -1,3 +1,4 @@
+
 [//]: # (2_Chapter.md)
 
 
@@ -963,7 +964,7 @@ Percy scaled the ladder to the control room, and raised the periscope, twisting 
 
 "Or: we do not want them to see us, you mean," said Hemi.
 
-"Fucking right. And if we have to take a few more risks that usual to avoid that outcome, so be it. Having said that, Hemi will do his best not to crush your boat Captain Shakes, especially seeing as, given our current configuration, that event would likely be the end of both the _Gnat_ and the _Prospect_."
+"Fucking right. And if we have to take a few more risks than usual to avoid that outcome, so be it. Having said that, Hemi will do his best not to crush your boat Captain Shakes, especially seeing as, given our current configuration, that event would likely be the end of both the _Gnat_ and the _Prospect_."
 
 Hemi nodded. "Alright. I'll open the main ballast valves." He reached up and pushed the dive alarm.
 

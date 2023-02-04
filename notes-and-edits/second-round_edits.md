@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-01 17:37
+Last modified: 2023-02-04 11:55
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -208,6 +208,7 @@ Edits to pick up in second full pass through the book
 	* [ ] At the depot, they need to restock cigarettes and cigarillos
 		* Maybe Percy switches to cheroots
 	* [ ] Edit descriptions of Cassandra: see B and C's notes
+	* [ ] Find and replace: Trinity as a name
 * stilt city: 
 	* [ ] when Chips leaves -- have Hemi call her by her real name
 	* [ ] Fix Sturmey:
@@ -394,11 +395,11 @@ Edits to pick up in second full pass through the book
 :post:
 * [ ] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
 	* [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
-* [ ] Should the ----- breaks just be double/triple spaced breaks in the text? I think that's the more conventional way of doing it.
+* [X] Should the ----- breaks just be double/triple spaced breaks in the text? I think that's the more conventional way of doing it.
+* [ ] Do a search for ship names and make sure they are italicized
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
 * [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
-* [ ] Find and replace: Trinity as a name
 
 
 
