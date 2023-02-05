@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-04 11:55
+Last modified: 2023-02-05 16:15
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -58,7 +58,7 @@ Edits to pick up in second full pass through the book
 	* [ ] Change Trinity's name
 		* Trinity, turns out, is the name of the love-interest in the Matrix
 		* So change it, unless on re-watching the matrix somehow it makes sense that this little old lady is also named Trinity.
-	* [-] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
+	* [X] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
 		* P felt right when I first started using it, but feels less right as I go along
 		* This might be a thing to ask test-reader's feedback on
 	* [X] The name Chips doesn't feel like it's working
