@@ -75,8 +75,6 @@ Percy followed them as they climbed back outside on the bridge. They puttered th
 
 Back in the control room, Percy picked up the ship-to-ship mic and raised the docking control office. She got their assigned docking port and, sealing up the _Prospect's_ external hatch, they used the last remaining few minutes of their batteries to dive the boat. 
 
-[//]: # (----- EDITED TO HERE -----)
-
 It occurred to Shakes that diving the _Prospect_ to dock would push the _Gnat_ beyond his rough estimate of a depth limit, deeper than it had ever been. He decided to ride out the docking procedure down in his boat. If he heard sounds that indicated the hull might fail, he could warn Percy to surface. From the control chair of the _Gnat_ he could also watch the approaching depot docking bay through the viewport.
 
 The docking bay was located about 20 meters down underwater. It was typical of an underwater docking bay for cargo -- a long cylindrical tube of curved and welded plate steel. It stuck 100 meters out of the side of the seamount and was supported by a hazardous and seemingly randomly placed array of bracing steel beams that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking all manner of sizes and orientations of cargo subs. There were between a dozen and two dozen slips, and maybe half of them had submarines docked at them already, arranged at an array of angles. They looked like leeches with their orifices sucking at a giant limb.
@@ -86,6 +84,8 @@ The _Prospect_ followed the sonar beacon to docking slip four, located on the bo
 Hemi went down to the cargo hold and walked, hunched-over, out across the catwalk that hung two meters down from the ceiling. Captain Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. He picked up a rubber mallet that was left hanging on some hooks by the catwalk for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gonging sound that reverberated for a full 20 seconds. He waited a few second more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect's_ cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
 
 Two winches were set on either side of the cargo hatch along the catwalk. The big hatch was closed by two curved and concave doors that lay one over the other to form a low dome. The upper one needed to be raised first. Hemi grabbed the wheel that turned the winch and put a good portion of his straining and powerful muscle into it, but it would not budge. This sometimes happened when the air pressure between a sub and a dock was not equalized. Hemi was trying to push up the door when there was slightly more than an atmosphere of pressure weighing on it.
+
+[//]: # (I do not _totally_ have a grip on the physics here. I believe that because a sub maintains its own atmosphere at what should more or less be the same pressure while on the surface the atmospheric pressure is constantly changing, it seems like the differential when opening a sub that was sealed could go either way. In _Das Boot_ he mentions a number of times the hatches popping open like corks when they surface and release the locks. But I do not recall him talking about the pressure going the other way. I am just going to assume that it can go either way though. In this case, the depot is open to the surface above, at 1 atmosphere of pressure, but the Prospect is submerged. Seems like there should be some differential. I am just going to go with it being the surface atmosphere that is higher.)
 
 He picked up a breaker bar that hung next to the rubber mallet and set it over a fat pin of steel welded to the column of the winch wheel. With the extra meter or so of leverage, he easily turned the winch wheel a few degrees and there was an audible pop and hiss as the extra pressure of the air in the depot pushed through the slit in the cargo hatch and into the _Prospect_. Hemi pinched his nose and cleared his ears with a pop that sounded like a small version of the sound of the hatch opening.
 
@@ -107,44 +107,53 @@ Hemi lowered himself a few steps back down the ladder until he was enough inside
 
 The two of them appeared a quarter of an hour later. Captain Percy was carrying a beaten and cracked leather folio in which she kept the ship's books. Shakes was empty-handed, but had apparently freshly greased and pointed his hair for the big outing on the depot dock.
 
-Hemi had been waiting out on the deck of the docking bay. He gave Percy and Shakes a hand up the ladder. When they were all assembled, they started off towards the far end of the docking bay where they could see a wooden sign hanging from the ceiling, painted white, with square hand-painted black letters that said "Dock Office." Actually getting to the dock office was a matter of navigating around the big open holes in the deck which led down into the cargo holds of other docked subs. There were other obstacles too, like the ladders hanging down from the subs docked above, or stacks of crates waiting to be loaded into subs docked on either side. The places where no submarines were docked were typically used as staging areas for cargo that was making its way down the docking bay in steps towards whatever sub they were destined to be loaded onto, or otherwise up the dock from where they had been unloaded. It made for slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine -- maybe 12 to 15 meters in circumference -- but still cramped and grimed.
+Hemi had been waiting out on the deck of the docking bay. He gave Percy and Shakes a hand up the ladder. When they were all assembled, they started off towards the far end of the docking bay, where they could see a wooden sign hanging from the ceiling, painted white, with square hand-painted black letters that said "Dock Office." 
+
+Actually getting to the dock office was a matter of navigating around the big open holes in the deck which led down into the cargo holds of other docked subs. There were other obstacles too, like the ladders hanging down from the subs docked above, or stacks of crates waiting to be loaded into subs docked on either side. Where no submarines were docked, the space was used as staging areas for cargo that was making its way down the docking bay in steps towards whatever sub they were destined to be loaded onto, or otherwise up the dock from where they had been unloaded. It made for slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine -- maybe 12 to 15 meters in circumference -- but still cramped and grimed.
 
 [//]: # (### The dock office and the dock boss)
 
-They picked their way through the docking bay to the dock office. This was simply a partition made of cheap painted wood built in front of the disused space of the first docking slip in the docking bay. It was brightly lit. Both sides were lined with metal chairs on which were stacked folders and binders of paper. The center of the office was mostly taken by a large steel desk with a rusted and chipped enameled surface. It too was covered with papers: loose, stacked, on clipboards, and in binders.
+They picked their way through the docking bay to the dock office. This was simply a partition made of cheap painted wood built in front of the disused space of the first docking slip in the docking bay. It was brightly lit. Both sides were lined with metal chairs on which were stacked folders and binders of paper. The center of the office was mostly taken by a large steel desk with a chipped and rusted enameled surface. It too was covered with papers: loose, stacked, on clipboards, and in binders.
 
 Behind the desk sat yet another huge person, also dressed in similar heavy wool garments that had been aerated in places by moth larva. Hemi would not have tried to guess, being the parsimonious fellow he was, but the men who had met him on the dock had referred to the dock boss as 'she.' She tipped back her cap when they entered the office, and held a clipboard out at arm's length in front of herself, trying to get a little better focus on what was written on it.
 
-"You must be from the boat that just came in on slip four, eh?" She asked.
+"You must be from the boat that just came in on slip four, eh?" she asked.
 
-"That's right. I'm Captain Percy. She's my fucking boat -- The _Prospect_." The dock boss squinted up at her.
+"That's right. I'm Captain Percy. She's my boat -- The _Prospect_." 
 
-"Actually, there's two fucking boats," said Shakes.
+The dock boss squinted up at her.
 
-"Ah, hmm," said the dock boss. "There's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual fucking docking arrangement."
+"Actually, there's two boats," said Shakes.
 
-"We Would not normally come in that way," said Hemi, "but we are in pretty bad shape. We had to rig up a whole complicated situation with the smaller sub to have enough power to get here. We have basically got no power, no fuel, and we need repairs, restock, and hopefully some new employment."
+"Ah, hmm," said the dock boss. "There's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual docking arrangement."
 
-"Hmph. Well. We're full-service here. We're pretty isolated, so we keep a lot of stock and parts on hand. Having a deep supply is the good side of being isolated. The bad side is that shit's going to be pretty fucking expensive. It costs a premium to move it out here. I give folks honest assessments -- hell that's how I got this shitty dock boss position -- but most of the goods around here are sold from the crew of one independent operator to another. I can't control what prices those fucking connivers might try to get from those who might be a little desperate."
+"We Would not normally come in that way," said Hemi, "but we are in pretty bad shape. We had to rig up a whole complicated situation with the smaller sub to have enough power to get here. We have basically got no power, no fuel, and we need repairs and restock."
 
-"Well, that's a reason why we're also looking for a job. We could use some inflow of some fucking cash. Are there any leads on cargo that needs hauling?" Asked Percy.
+"Hmph. Well. We're full-service here. This island is pretty isolated, so we keep a lot of stock and parts on hand. Having a deep supply is the good side of being isolated. The bad side is that shit's going to be pretty fucking expensive. It costs a premium to move it out here. I give folks honest assessments -- hell that's how I got this shitty dock boss position -- but most of the goods around here are sold from the crew of one independent operator to another. I can't control what prices those connivers might try to get from those who might be a little desperate."
 
-"Can't help you there. I'm the dock boss, I just handle the dock. Work is found further up the tunnel. There's a market and exchange floor up there. Because we're the only depot out this way, enough stuff moves through here that you should be able to wrangle up something that pays. Me, I'll give ya a list of contacts up and down the dock who should be able to set you up with fuel and repairs and the like. I'll try to give you the least-worst of that bunch of bone-scraping, marrow-sucking dickheads." She started scribbling down a list of names and associated slips on the back of a used enveloped.
+"I have a few points of business to take care of while we're here," said Percy, "but the first priority is repairs. Can you point us in the right direction for purchasing supplies and hiring some halfway decent welders who can do repairs?"
 
-"That is certainly our first priority," said Hemi. "What about Authorities? Much activity from them around here?"
+"There's a market and exchange floor further up the tunnel where you can get parts and supplies. And I'll give ya a list of contacts up and down the dock who should be able to set you up with fuel and repairs and the like. I'll try to give you the least-worst of that bunch of bone-scraping, marrow-sucking dickheads." She started scribbling down a list of names and associated slips on the back of a used enveloped.
 
-"Mostly they leave us the fuck alone. As I say, this is one of the only places you can move goods for cash in this part of the ocean, so we end up being a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too -- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface for control. It's pleasantly remote here, it is. While it fucking lasts anyway."
+"What about Authorities? Much activity from them around here?" Hemi asked.
+
+"Mostly they leave us the fuck alone. As I say, this is one of the only places you can move goods for cash in this part of the drink, so we end up being a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too -- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface for control. It's pleasantly remote here, it is. While it fucking lasts anyway."
 
 "Sounds like a nice place to retire," said Shakes. "No sun, no wind, nothing to keep you from happily living out your days in a dark grimy hole."
 
-"Anyway.." Percy interrupted, "thanks for the orientation. Hemi can you get that list of contacts for repairs and refueling? Shakes, you probably want to go with him and make sure you get the _Gnat_ fucking fueled back up?"
+"Anyway..." Percy interrupted, "thanks for the orientation. Hemi can you get that list of contacts for repairs and refueling? Shakes, you probably want to go with him and make sure you get the _Gnat_ fueled back up?"
 
 Shakes nodded. 
 
 With a list of contacts from the deck boss and a few more passing words of thanks, they cleared out. Hemi and Shakes returned down the docking bay in the direction they had initially come from to start talking to vendors about refueling and repairs. Percy went the other way, up off the docking bay.
 
 
+[//]: # (----- invisible character break)
+ 
+
 [//]: # (### Percy walks up the exchange floor: description)
+
+[//]: # (----- EDITED TO HERE -----)
 
 The welded steel plating of the docking bay tube extended 10 meters or so beyond the dock office which marked the close end of the docking bay, where it was set against the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if a something major happened -- say a docked submarine ripped away leaving a giant hole in the dock -- this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure system. Of course, that wouldn't save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures -- more of them than anyone would care to admit -- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person, since traditionally ports were associated with safety for ships.
 
