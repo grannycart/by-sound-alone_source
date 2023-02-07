@@ -125,21 +125,27 @@ The dock boss squinted up at her.
 
 "Actually, there's two boats," said Shakes.
 
-"Ah, hmm," said the dock boss. "There's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual docking arrangement."
+"Ah, hmm," said the dock boss, "there's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual docking arrangement."
 
 "We Would not normally come in that way," said Hemi, "but we are in pretty bad shape. We had to rig up a whole complicated situation with the smaller sub to have enough power to get here. We have basically got no power, no fuel, and we need repairs and restock."
 
 "Hmph. Well. We're full-service here. This island is pretty isolated, so we keep a lot of stock and parts on hand. Having a deep supply is the good side of being isolated. The bad side is that shit's going to be pretty fucking expensive. It costs a premium to move it out here. I give folks honest assessments -- hell that's how I got this shitty dock boss position -- but most of the goods around here are sold from the crew of one independent operator to another. I can't control what prices those connivers might try to get from those who might be a little desperate."
 
-"I have a few points of business to take care of while we're here," said Percy, "but the first priority is repairs. Can you point us in the right direction for purchasing supplies and hiring some halfway decent welders who can do repairs?"
+"Can you point us in the right direction for purchasing supplies and hiring some halfway decent welders who can do repairs?" Percy asked.
 
 "There's a market and exchange floor further up the tunnel where you can get parts and supplies. And I'll give ya a list of contacts up and down the dock who should be able to set you up with fuel and repairs and the like. I'll try to give you the least-worst of that bunch of bone-scraping, marrow-sucking dickheads." She started scribbling down a list of names and associated slips on the back of a used enveloped.
 
-"What about Authorities? Much activity from them around here?" Hemi asked.
+"OK, repairs are my first priority," said Percy, "but I have a few other points of business to take care of while I'm here. I'm looking for a woman called 'Miss Mai.'"
 
-"Mostly they leave us the fuck alone. As I say, this is one of the only places you can move goods for cash in this part of the drink, so we end up being a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too -- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface for control. It's pleasantly remote here, it is. While it fucking lasts anyway."
+"Oh sure, everyone on the island knows Miss Mai. You can find her office on the exchange level. I'll let her know you are coming."
 
-"Sounds like a nice place to retire," said Shakes. "No sun, no wind, nothing to keep you from happily living out your days in a dark grimy hole."
+"Thanks."
+
+"What about Authorities? Is there significant activity from them around here?" Hemi asked.
+
+"Mostly they leave us alone. As I say, this is one of the only places you can move goods for cash in this part of the drink, so we end up being a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too -- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface for control. It's pleasantly remote here, it is. While it fucking lasts anyway."
+
+"Sounds like a nice place to retire," said Shakes. "No sun, no wind, nothing to keep you from happily living out your days in a dank grimy hole."
 
 "Anyway..." Percy interrupted, "thanks for the orientation. Hemi can you get that list of contacts for repairs and refueling? Shakes, you probably want to go with him and make sure you get the _Gnat_ fueled back up?"
 
@@ -147,30 +153,28 @@ Shakes nodded.
 
 With a list of contacts from the deck boss and a few more passing words of thanks, they cleared out. Hemi and Shakes returned down the docking bay in the direction they had initially come from to start talking to vendors about refueling and repairs. Percy went the other way, up off the docking bay.
 
-
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Percy walks up the exchange floor: description)
 
-[//]: # (----- EDITED TO HERE -----)
+The welded steel plating of the docking bay tube extended 10 meters or so beyond the dock office and marked the end of the docking bay, where was set into the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if a something major happened -- say a docked submarine ripped away leaving a giant hole in the dock -- this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure system. Of course, that wouldn't save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures -- more of them than anyone would care to admit -- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person, since traditionally ports were associated with safety for ships.
 
-The welded steel plating of the docking bay tube extended 10 meters or so beyond the dock office which marked the close end of the docking bay, where it was set against the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if a something major happened -- say a docked submarine ripped away leaving a giant hole in the dock -- this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure system. Of course, that wouldn't save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures -- more of them than anyone would care to admit -- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person, since traditionally ports were associated with safety for ships.
+A little further up the ramp from the watertight bulkhead, the steel plating ended where it was bolted and sealed into the raw rock of the seamount. The space widened here. This whole part of the depot was hollowed out of the underground stone and the walls were left as raw, cut rock. In places the lines of drill holes could still be seen where explosives had been placed to more quickly open spaces for the chamber during its construction. This was all pretty unusual and expensive. Most depots with an underwater dock kept the underground construction to a minimum and moved as much of the operation to the surface as was practical. Percy guessed there must be the discreet funding of some Authority behind this place.
 
-A little further up the ramp from the watertight bulkhead, the steel plating ended where it was bolted and sealed into the raw rock of the seamount. The space widened here. This whole part of the depot was hollowed out of the underground stone and the walls were left as raw, cut rock. In places the lines of drill holes could still be seen where explosives had been placed to more quickly open spaces for the chamber during its construction. This was all pretty unusual and expensive. Most depots with an underwater dock kept the underground construction to a minimum and moved as much of the operation to the surface as was practical. Percy guessed there must be some discreet Authority funding behind this place.
-
-The upward slope became far less dramatic, just a slight upward ramp. But the ramp was maintained for an obvious reason: few underground spaces were totally dry and this one was not an exception. The ramp slowly drained a fetid and oily moisture down the middle of the open space of the upper parts of the depot. And the water carried along with it the accumulated grime of a working floor of industrial and commercial projects: metal shavings, coffee grounds, oils and solvents, and random bits of floating garbage. It was all collected in a sluice-way covered by choked and rusting grating that was supposed to keep any of this stuff from running further down to the docking bay.
+The upward slope became far less dramatic, just a slight ramp. But the ramp was maintained for an obvious reason: few underground spaces were totally dry and this one was not an exception. The ramp slowly drained a fetid and oily moisture down the middle of the open space of the upper parts of the depot. And the water carried along with it the accumulated grime of a working floor of industrial and commercial projects: metal shavings, coffee grounds, oils and solvents, random bits of floating garbage, and of course urine. It was all collected in a sluice-way covered by a choked and rusting grating that was supposed to keep any of this stuff from running further down to the docking bay.
 
 The wet grit ground under the hard soles of Captain Percy's boots as she made her way up the length of the merchant exchange floor, stepping around the places where oil or garbage had pooled on the uneven rock of the ground.
 
-The main hall was lit by bright bars of harsh light overhead, which illuminated the center of the space fairly well. The center of the entire length of the hall was being used for the activities that required the most space: stacks of wooden crates containing cargo that was being actively exchanged, repairs on large metal machines that were in some places slung from the ceiling by heavy chain run through blocks, and the parked heavy equipment used to move all this tonnage up and down the space. 
+The main hall was lit by bright bars of harsh light overhead, which illuminated the center of the space fairly well. The center of the entire length of the hall was being used for the activities that required the most space: stacks of wooden crates containing cargo that was being actively exchanged, repairs on large metal machines that were in some places slung from the ceiling by heavy chain, and the parked heavy equipment used to move all this tonnage up and down the space. 
 
 The lighting did not do much to illuminate the deeper sides of the space. Back in those corners were shadows created by smaller stacks of crates, punctuated by the occasional table set up by a trader and lit by a lamp. In some places there were alcoves carved back into the rock for a more formal shop space.
 
-There was a fairly loud wash of sound: the snap of arc welders liquefying bits of metal, traders negotiating the value of crates and where they would be moved from or to, and the clinking of chains rolling through blocks, straining to lift the mass of some metal object. There was also the inevitable and unintelligible shout of panic as some other massive metal object suddenly moved in a way it was not supposed to. Her nostrils were assaulted by the smells of sweat, tobacco smoke, oil, and sharp ozone.
+There was a fairly loud wash of sound: the snap of arc welders liquefying bits of metal, traders negotiating the value of crates, and where they would be moved from or to. And the clinking of chains as they strained on wheels to lift masses of weighty metal object. There was also the inevitable and unintelligible shout of panic as some other heavy object suddenly moved in a way it was not supposed to. Her nostrils were assaulted by the smells of sweat, tobacco smoke, oil, and sharp ozone.
 
 About a third of the way up the hall, her eye was caught by one of the bigger shops cut back into the wall. It was better lit than most, and the proprietor had taken the time to crack open a number of the crates stacked up in the shop and create an arrangement of some of the more attractive goods.
 
+[//]: # (----- EDITED TO HERE -----)
 
 [//]: # (### In the hardware store; Percy meets Trinity)
 
