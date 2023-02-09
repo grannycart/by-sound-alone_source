@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-05 16:15
+Last modified: 2023-02-08 20:57
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -161,7 +161,11 @@ Edits to pick up in second full pass through the book
 * [ ] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
 * [ ] Make a reference to the head --- a joke about how complex it is to operate.
 	* Have Shakes say he needs to take a dump, someone warns him about reading the instructions first. or, he asks about instructions saying it's been a while since he used the head on a real sub
-		* (has to be while they are submerged) 
+		* "Anyway, I really need to take a shit. Where's the head?" "Middle deck, aft of the crew quarters. Be careful. Make sure you read the instructions, it's complicated."
+	* (has to be while they are submerged) 
+	* This can't go in before the depot, the only time they are submerged with Shakes aboard is during the search pattern before they hit the depot, and there's no real appropriate place.
+	* Keep an eye out for a spot for it later when they join up with Shakes again.
+		* I think there's a point where he comes aboard with an underwater mating. 
 * [ ] Have someone wash their hands with salt water soap
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
 * [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
