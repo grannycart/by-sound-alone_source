@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-08 20:57
+Last modified: 2023-02-14 10:14
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -22,6 +22,7 @@ Edits to pick up in second full pass through the book
 	* [ ] add invisible spacing elements (generally where the ### break notes are)
 	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
 		* [ ] do a search for capital-S "Said"
+		* Remember to keep an eye out for adverbs, particularly in the dialog attribution
 	* [ ] do a find-and-replace for til with till
 	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
 * [X] remove references to the "con" -- too military
@@ -403,7 +404,8 @@ Edits to pick up in second full pass through the book
 * [ ] Do a search for ship names and make sure they are italicized
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
-* [ ] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
+* [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
+	* This is basically impossible
 
 
 
