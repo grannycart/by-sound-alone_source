@@ -216,7 +216,7 @@ Percy remembered the dock boss had said she would send word ahead to Miss Mai. "
 
 "Oh I believe in the chaos," said Percy, "I just don't believe it comes up in my fucking favor."
 
-Miss Mai grinned a wide gapped-tooth smile. "I think I can work with such a person. Can I encourage you to join me in my office to hear the details of the offer I have for you? It's... not really fit for public spaces."
+Miss Mai grinned a missing-toothed smile. "I think I can work with such a person. Can I encourage you to join me in my office to hear the details of the offer I have for you? It's... not really fit for public spaces."
 
 "Miss Mai, I am genuinely excited to learn more about this opportunity." Percy put down the box of clamps, and noticed that the shopkeeper watching her do so.
 
@@ -225,7 +225,7 @@ Miss Mai grinned a wide gapped-tooth smile. "I think I can work with such a pers
 
 [//]: # (### Negotiation with Miss Mai for the explosives shipping job)
 
-In the open space of the hall, Miss Mai hobbled along next to Captain Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
+In the open space of the hall, Miss Mai hobbled next to Captain Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
 
 "So the dock boss told you all the fuck about me already?" Percy asked, hoping to asses the levelness of the playing field this negotiation would be carried out upon.
 
@@ -234,8 +234,6 @@ In the open space of the hall, Miss Mai hobbled along next to Captain Percy.  Pe
 "I'm a fucking sailor. What do you expect?"
 
 [//]: # (Why is there so much gratuitous cursing in this story? Your answer is above!)
-
-[//]: # (----- EDITED TO HERE -----)
 
 Miss Mai shuffled on silently -- and Percy thought somewhat reproachfully -- for a minute. "Anyway. In my line of work, it is best to know a little something about those you hire. Though again, in the interest of transparency, all I really know is your name and that you have a boat."
 
@@ -247,9 +245,9 @@ Miss Mai shuffled on silently -- and Percy thought somewhat reproachfully -- for
 
 "With the amount I'll be offering you, I think you will be able to make the shortest possible downtime a priority."
 
-Percy did not respond to that. This seemed too good to be true. This old lady was either senile, lying, or there was a catch yet to be revealed.
+"In that case I just hope we have similar ideas about what it costs to have priorities."
 
-"Here we are," said Miss Mai, steering Percy towards a low creosoted wooden door set into the wall. The inside of Miss Mai's office had the same bare rock walls as all the other spaces, but was more warmly lit from sconces in place along the walls. Many wooden filing cabinets arrayed under the sconces also softened the feel of the space. The center of the space had a few large heavily-stuffed leather chairs and a small table between them that appeared to be constructed of some exotic wood.
+Miss Mai nodded knowingly. "Here we are." She steered Percy towards a low creosoted wooden door set into the wall of the main hall. Inside, Miss Mai's office had the same bare rock walls as all the other depot spaces, but was more warmly lit from sconces in place along the walls. Many ancient wooden filing cabinets leaned against each other for support under the sconces, and also contributed their woody exteriors towards the effort to soften the feel of the place. In the center, a few large heavily-stuffed leather chairs sat across from each other, and a small table was stuck between them that appeared to be constructed of some exotic wood.
 
 "I can offer you tea or coffee, Captain Percy."
 
@@ -257,17 +255,21 @@ Percy did not respond to that. This seemed too good to be true. This old lady wa
 
 "Cream?"
 
+"Sure, I'll take a little creamer."
+
+"Not creamer, Captain Percy, cream."
+
 "Holy fuck -- pardon my language -- you have cream? Real, liquid cream?"
 
 "It's extremely expensive but, as with most things, it can be had here for the right price. I am happy to share a few drops with a business prospect."
 
 "By all means then."
 
-Captain Percy sat in one of the leather chairs and accepted a ceramic cup with mud-colored contents with one hand. With the other hand she took a metal clipboard with chipping black paint and oil-stained pages that Miss Mai was holding out to her.  She scanned it while taking her first sip of coffee. 
+Captain Percy sat in one of the leather chairs and accepted a ceramic cup with mud-colored contents with one hand. With the other hand she received the metal clipboard with chipping black paint and oil-stained pages that Miss Mai was holding out to her.  She scanned it while taking her first sip of coffee. 
 
 It was the best coffee Percy had had in months. 
 
-Miss Mai lowered herself groaning into the chair opposite Percy.
+Miss Mai lowered herself with a soft groan into the chair opposite Percy.
 
 "So you want us to transport magnetic mines?" Percy asked.
 
@@ -275,11 +277,11 @@ Miss Mai lowered herself groaning into the chair opposite Percy.
 
 "...For which the primary use would be mines, and thus still illegal to ship."
 
-"The units are absolutely agnostic in their uses. They don't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth -- and under, of course -- the surface of the sea, leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
+"The units are absolutely agnostic in their uses. They don't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth -- and under, of course -- the surface of the sea; leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
 
-"Is that why you need us? You can't get an Authority seal to ship these because they are going to a group that's trying to 'clean' up the oceans?"
+"Is that why you need me? You can't get an Authority seal to ship these because they are going to a group that's trying to 'clean' up the oceans?"
 
-"You know as well as I do that the seal of one Authority just aggravates the aggression of another, regardless of where, or whom, they are going to." She sighed. "Unfortunately these days conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to interference from another antagonist. The most reliable way is to use a specialty shipping services unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
+"You know as well as I do that the seal of one Authority just aggravates the aggression of another, regardless of where, or whom, your items are being shipped to." She sighed. "Unfortunately, these days, conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to interference from another antagonist. The most reliable way is to use a specialty shipping services unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
 
 "Certainly if we were any less reliable, I wouldn't be standing here talking to you right now."
 
@@ -295,7 +297,9 @@ Percy hesitated. "How about... three times a standard hull-load fee?"
 
 "Done. I can pay you two-thirds now and the remainder on delivery. I assume coin will be satisfactory?"
 
-"Absolutely," said Percy, kicking herself that she didn't ask for more. Still, she have never been paid triple for a hull load before.
+[//]: # (----- EDITED TO HERE -----)
+
+"Absolutely," said Percy, kicking herself that she did not ask for more. Still, she have never been paid triple for a hull load before.
 
 Miss Mai stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While watching Miss Mai's fingers pick apart the coins, Percy noticed for the first time that she only had three fingers on her right hand.
 

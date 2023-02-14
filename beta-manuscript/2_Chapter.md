@@ -456,7 +456,9 @@ Hemi picked up a pair of calipers and measured the distance between the small gr
 
 "Wait a damned second, I put it to you again: what do _I_ get out of this fuckin' mechanical monstrosity of a plan?" Shakes was stabbing his finger against the table, leaving smudgy black prints on the glass.
 
-"I can pay you up front for the fuel we take from you today Captain Shakes," said Percy, "and at the depot I'll pay you your standard hull-load fee, plus refill your fuel oil. So it's like you're getting paid for a full shipping run just for accompanying us to the depot."
+"I can pay you up front for the fuel we take from you today Captain Shakes," said Percy, "and at the depot I'll pay you your standard hull rate, plus refill your fuel oil. So it's like you're getting paid for a full shipping run just for accompanying us to the depot."
+
+[//]: # (Shakes hull rate is not the same as a standard hull load -- in Shakes case, it is quite a bit less. See note in comment about hull load fees in Chapter 3.)
 
 "You mean _if_ you get into that there 'highly profitable' line though don't ya? What if you find that fuckin' line has dried up?"
 
