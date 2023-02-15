@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-14 22:18
+Last modified: 2023-02-15 18:11
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -56,7 +56,7 @@ Edits to pick up in second full pass through the book
 	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
 	* don't forget that in non-teardrop subs, the lower they are the slower they go on the surface.
 * names:
-	* [ ] Change Trinity's name
+	* [X] Change Trinity's name
 		* Trinity, turns out, is the name of the love-interest in the Matrix
 		* So change it, unless on re-watching the matrix somehow it makes sense that this little old lady is also named Trinity.
 	* [X] while the name _Gnat_ works, I keep having my doubts about _Prospect_.
@@ -79,7 +79,7 @@ Edits to pick up in second full pass through the book
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
 * [ ] Consider removing parts where Percy second-guesses herself.
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
-	* On the othe hand, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
+	* On the other hand, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
 		* and Percy is NOT always right, just most of the time.
 * [ ] Develop Gregory character more, especially since he dies. 
@@ -117,8 +117,6 @@ Edits to pick up in second full pass through the book
 	* maybe refer to it explicitly as the 'captain's station'? (akin to the sonar station and the navigation station)
 * [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
 	* decide, edit and then make sure it's reflected in the Prospect notes file
-* [ ] make sure you don't 'shut down' the electric motors, just that they are either running with the diesels powering them, or with the batteries powering them.
-	* Maybe the electric motors are only 'powered down'
 * [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
 * [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
 * [ ] Shakes affectionately calls the Gnat 'the bug'
@@ -156,10 +154,10 @@ Edits to pick up in second full pass through the book
 	* "It'll fuckin' be there!" 
 	* Hemi sniffed. "Smells like the food may be ready. Want to eat?" Said Hemi. 
 	* "Shit yeah. My gut is fuckin' gaping."
-* [ ] Create a new reference to the 'sub with the ram' so you don't have to use that awkward phrasing all the time
+* [X] Create a new reference to the 'sub with the ram' so you don't have to use that awkward phrasing all the time
 	* Maybe somehow they know the name of the sub with the ram, even if they don't know the name of the captain.
 	* Or maybe it's like butch cassidy and the sundance kid: where they just assume it's someone based on an assumption (though they later confirmed it by reading in the paper -- maybe someone in the depot or stilt city fills them in.)
-* [ ] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
+* [-] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
 * [ ] Make a reference to the head --- a joke about how complex it is to operate.
 	* Have Shakes say he needs to take a dump, someone warns him about reading the instructions first. or, he asks about instructions saying it's been a while since he used the head on a real sub
 		* "Anyway, I really need to take a shit. Where's the head?" "Middle deck, aft of the crew quarters. Be careful. Make sure you read the instructions, it's complicated."
@@ -198,22 +196,25 @@ Edits to pick up in second full pass through the book
 	* [ ] Address: where was Shakes going originally? 
 		* See line 334 in Chap 2
 		* remember Shakes isn't delivering to the depot now
-	* [o] Change it so Percy knows about the weapons job at the depot beforehand:
+		* probably best to address this when Shakes has conversation with Percy about making his boat loud
+	* [O] Change it so Percy knows about the weapons job at the depot beforehand:
 		* [X] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
 			* See K's note on Shakes motivation to help
 		* [X] so you have to remove references to Shakes leading them to depot
-		* [ ] Have to revise the meeting Trinity scene so it seems intentional
-		* [ ] The (initial) questions about the legality (that I think are in the Trinity conversation) are moved up to when Percy is explaining the plan to Shakes (chap 2; line 430) 
+		* [X] Have to revise the meeting Trinity scene so it seems intentional
+		* [X] The (initial) questions about the legality (that I think are in the Trinity conversation) are moved up to when Percy is explaining the plan to Shakes (chap 2; line 430) 
 		* [ ] This can help lead the book along in the first part:
 			* What is this mysterious job at the depot Percy is going for?
 			* It seems somewhat nefarious, is it connected to the sub pursuing them? (It is, though maybe that's never made explicit, or it's tied to the conversation about the morality of running weapons)
 			* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
 			* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
-	* [ ] see note about about learning the name of the sub with the ram at the depot
+	* [X] see note about about learning the name of the sub with the ram at the depot
 	* [ ] At the depot, they need to restock cigarettes and cigarillos
 		* Maybe Percy switches to cheroots
 	* [ ] Edit descriptions of Cassandra: see B and C's notes
-	* [ ] Find and replace: Trinity as a name
+	* [X] Find and replace: Trinity as a name
+* When Shakes meets up with them again:
+	* [ ] confirms the identity of the Grackle
 * stilt city: 
 	* [ ] when Chips leaves -- have Hemi call her by her real name
 	* [ ] Fix Sturmey:

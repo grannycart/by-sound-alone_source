@@ -354,9 +354,11 @@ Percy nodded towards Miss Mai and closed the heavy door behind as she left the o
 
 [//]: # (### To the bar; hiring Cassandra)
 
-[//]: # (----- EDITED TO HERE -----)
+Captain Percy hummed to herself as she left Miss Mai's office and walked through the main hall of the noisy depot. She realized that her humming was resonating in her skull in harmony with the ever-present background hum of the machinery that kept the place functioning. 
 
-Captain Percy hummed to herself as she left Miss Mai's office and walked through the main hall of the noisy depot. She realized that her humming was resonating in her skull in harmony with the ever-present background hum of the machinery that kept the place functioning. She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
+She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
+
+[//]: # (----- EDITED TO HERE -----)
 
 The man behind the bar was yet another giant, though more fat than stocky like the others Percy had seen. He was grizzled about the face, like a piece of meat that hadn't been cleaned properly before being laid down in the frying pan. He was missing an eye which he didn't bother to cover with a patch, and wearing a stained leather apron. "What cha need there lady?" He asked Percy.
 
