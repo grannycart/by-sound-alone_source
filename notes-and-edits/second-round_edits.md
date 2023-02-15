@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-14 10:14
+Last modified: 2023-02-14 22:18
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -406,6 +406,8 @@ Edits to pick up in second full pass through the book
 * [ ] Do a search on 'really' and consider removing any
 * [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 	* This is basically impossible
+* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
+	* Is C right? Should I cut the whole thing before the depot and start it there?
 
 
 

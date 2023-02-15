@@ -3,6 +3,12 @@
 
 
 
+"It's no coincidence Captain Percy, I was looking for you. My friend Turnaround Bob said you were eminently trustworthy and reliable. And also run a big enough boat for the particular job I need done."
+
+"Ah, then you are Miss Mai? Yeah, Bob tracked me down on the mainland and suggested I head out to the shithole depot to look for you. He hinted the work might be... profitable. How did you know where to find me?"
+
+
+
 
 [in Miss Mai's office]
 
@@ -34,7 +40,7 @@ Percy nodded.
 
 "But why the _Prospect_?"
 
-"That's what concerns me the most. Turnaround Bob works quickly and means well, but his information networks leak worse than that docking bay down there. There's a chance that the job you are about to take on is already marked by some Authority as a valid concern for privateers. You may already be a target."
+"That's what concerns me the most. Turnaround Bob works quickly and means well, but his business networks leak worse than that docking bay down there. There's a chance that the job you are about to take on is already marked by some Authority as a valid concern for privateers. You may already be a target."
 
 
 

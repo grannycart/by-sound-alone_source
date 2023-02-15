@@ -208,9 +208,9 @@ Percy looked at the tiny stick-figure-in-a-sack skeptically. "Like a loan?" she 
 
 "Ah, then you are Miss Mai? But how did you know who I was?"
 
-"To be transparent, I did receive a note that you had arrived, and I came out to the hall to try to locate you. There is an element of urgency to the job I have for you."
+"To be transparent, I received a note that you had arrived. I came out to the hall to try to locate you. There is an element of urgency to the job I have for you."
 
-Percy remembered the dock boss had said she would send word ahead to Miss Mai. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidence would have fucking suggested."
+Percy remembered the dock boss had said she would send word ahead to Miss Mai. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidence would have suggested."
 
 "Ah yes. It's easier to believe the plot and the happenings are motivated by someone's will, eh? That it isn't all just random chaos, and the coin-toss sometimes comes up in your favor?"
 
@@ -227,9 +227,13 @@ Miss Mai grinned a missing-toothed smile. "I think I can work with such a person
 
 In the open space of the hall, Miss Mai hobbled next to Captain Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
 
-"So the dock boss told you all the fuck about me already?" Percy asked, hoping to asses the levelness of the playing field this negotiation would be carried out upon.
+"So the dock boss told you all about me already?" Percy asked, hoping to asses the levelness of the playing field this negotiation would be carried out upon.
 
-"The dock boss, yes, and a few others... My dear Captain Percy, would you mind toning down your colorful language a bit during our interactions?"
+"The dock boss, yes, and a few others... My friend Turnaround Bob told me you are eminently trustworthy and reliable. And also run a big enough boat for the particular job I need done."
+
+"Yeah, Bob tracked me down on the mainland and suggested I head out to this shithole depot to look for you. He hinted the work might be... profitable."
+
+My dear Captain Percy, would you mind toning down your colorful language a bit during our interactions?"
 
 "I'm a fucking sailor. What do you expect?"
 
@@ -239,7 +243,7 @@ Miss Mai shuffled on silently -- and Percy thought somewhat reproachfully -- for
 
 "What's with all the transparency?" Percy asked.
 
-"Ah yes. Typically I play my cards somewhat closer. But as I said, this job is of some urgency, so I am hoping to build some trust with you quickly. I can only hope you respond reciprocally. 
+"Ah yes. Typically I play my cards a bit closer. But as I said, this job is of some urgency, so I am hoping to build some trust with you quickly. I can only hope you respond reciprocally. 
 
 "Well then, in the interest of transparency you should know that my boat, as solid as she is, is currently in desperate need of some downtime for repairs. There's a limited amount of urgency we can put into picking up a job."
 
@@ -297,21 +301,43 @@ Percy hesitated. "How about... three times a standard hull-load fee?"
 
 "Done. I can pay you two-thirds now and the remainder on delivery. I assume coin will be satisfactory?"
 
-[//]: # (----- EDITED TO HERE -----)
-
-"Absolutely," said Percy, kicking herself that she did not ask for more. Still, she have never been paid triple for a hull load before.
+"Absolutely," said Percy, kicking herself that she did not ask for more. Still, she had never been paid triple a hull load before.
 
 Miss Mai stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While watching Miss Mai's fingers pick apart the coins, Percy noticed for the first time that she only had three fingers on her right hand.
 
 Miss Mai continued the conversation while counting as if it were no effort. "This must be quite a bit of money for you Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you will have and settling down with a nice man somewhere?"
 
-Percy smiled at the matronly side Miss Mai had suddenly revealed. "Well, you know what the old cliché says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos, it's bureaucracy. I'd rather stay underwater."
+Percy smiled at this matronly side of Miss Mai. "Well, you know what the old cliché says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos, it's bureaucracy. I'd rather stay underwater."
 
-Miss Mai nodded. "Unfortunately there's some truth to that. There's no sure future anywhere on the surface. Makes it hard to commit to settling down anywhere particular."
+Miss Mai nodded. "Unfortunately there is some truth to that. There's no sure future anywhere on the surface. Makes it hard to commit to settling down anywhere particular."
 
 "Not to change the subject Miss Mai, but how likely is it that we're going to have some kind of Authority interference while trying to move this shipment of yours?"
 
-"You know how the Authorities are Captain Percy. In some places they pursue everything. An honest logistician cannot ever promise they won't interfere. That's why we move things by submarine: interference is a lot less likely if they don't know the shipping is happening. In this case, I would suggest that you do your absolute best to make sure no Authority finds out this particular shipment is happening."
+"You know how the Authorities are Captain Percy. In some places they pursue everything. An honest logistician cannot ever promise there won't be interference. That's why we move things by submarine: interference is a lot less likely if they don't know the shipping is happening. In this case, I would suggest that you do your absolute best to make sure no Authority finds out this particular shipment is happening."
+
+Captain Percy sat silently looking into the depths of her coffee cup for a moment. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and the need for all the major repair work."
+
+At the mention of the ram Miss Mai's eyebrows went up with a look of concern. "A ram on a submarine you say?"
+
+Percy nodded.
+
+"The only time I've heard of such a thing -- at least within this century -- is on a boat called the _Grackle_, An Authority enforcer out of the Northern Points."
+
+"What would it be doing a thousand miles from its home waters?"
+
+"That I do not know the answer to. Except, I'll tell you this Captain Percy. I hear rumors of new governing structures. Things being tried that might eventually drastically weaken the local fiefdoms and establish new flows of global order. One such experiment is a suggestion I've heard recently that certain Authorities are now granting privateers warrants that promise a bounty on captured or sunk merchant shipping operating under the aegis of certain other Authorities -- regardless of where that shipping is."
+
+"That seems likely to start a few wars."
+
+"It would. Except the rumors are that some of the most powerful Authorities are mobilizing these privateers against much weaker Authorities -- it's possible that rather than a war, what we may end up with is a new global order."
+
+"And you're saying the sub with the ram, this _Grackle_, is one of these privateers?"
+
+"It is one possibility that would explain where and why you encountered it."
+
+"But why the _Prospect_?"
+
+"That's what concerns me the most. Turnaround Bob works quickly and means well, but his business networks leak worse than that docking bay down there. There's a chance that the job you are about to take on is already marked by some Authority as a valid concern for privateers. You may already be a target."
 
 Percy looked into her nearly-empty coffee cup, and then savored the last sip of its creamy sweetness. "Well, I guess you get what you're paid for." She stood. "Thanks for the coffee with cream." 
 
@@ -323,8 +349,12 @@ Percy looked into her nearly-empty coffee cup, and then savored the last sip of 
 
 Percy nodded towards Miss Mai and closed the heavy door behind as she left the office.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### To the bar; hiring Cassandra)
+
+[//]: # (----- EDITED TO HERE -----)
 
 Captain Percy hummed to herself as she left Miss Mai's office and walked through the main hall of the noisy depot. She realized that her humming was resonating in her skull in harmony with the ever-present background hum of the machinery that kept the place functioning. She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
 
