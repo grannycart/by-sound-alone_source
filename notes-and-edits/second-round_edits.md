@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-15 18:11
+Last modified: 2023-02-16 22:28
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -192,7 +192,8 @@ Edits to pick up in second full pass through the book
 	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 * depot:
-	* [ ] Make Vickers the bartender at the depot pub? Make it the nub pub?
+	* [-] Make Vickers the bartender at the depot pub? Make it the nub pub?
+		* I think I never mention him by name. So, I think instead he's just going to be Vicker's ol' concept of the skinny-fat guy.
 	* [ ] Address: where was Shakes going originally? 
 		* See line 334 in Chap 2
 		* remember Shakes isn't delivering to the depot now

@@ -358,17 +358,15 @@ Captain Percy hummed to herself as she left Miss Mai's office and walked through
 
 She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
 
-[//]: # (----- EDITED TO HERE -----)
+The man behind the bar was yet another giant, but only in the vertical direction. Rail thin, somewhat like Bastian, except he had a paunch around the belly. Years ago Percy had had a friend who would have described him as 'a skinny-fat guy.' He was grizzled about the face, like a piece of meat that hadn't been cleaned properly before being laid down in the frying pan. He was missing an eye which he didn't bother to cover with a patch, and wearing a stained leather apron. "What cha need there lady?" he asked Percy.
 
-The man behind the bar was yet another giant, though more fat than stocky like the others Percy had seen. He was grizzled about the face, like a piece of meat that hadn't been cleaned properly before being laid down in the frying pan. He was missing an eye which he didn't bother to cover with a patch, and wearing a stained leather apron. "What cha need there lady?" He asked Percy.
+"Give me a house drink." She took one of her new coins from the heavy leather satchel Miss Mai had given her and laid it down on the wood of the bar. 
 
-"Give me a house drink." She took one of her heavy new coins from the leather satchel Miss Mai had given her and laid it down on the wood of the bar. 
+As the bartender set up a glass and was leaning to pour it Percy continued the conversation despite the fact that the bartender did not particularly look like he would want to. "Actually, I'm looking to hire some crew. I have a boat, and we're short a few people. Thought you might be able to steer me in the right direction to where the hiring is done around here."
 
-As the bartender set up a glass and was leaning to pour it Percy continued the conversation despite the fact that the bartender did not particularly look like he would want to. "Actually, I'm looking to hire some crew. I have a boat, and we're short a few fucking people. Thought you might be able to steer me in the right direction to where the fucking hiring is done around here."
+"Most of the steering I do it towards the bottles," said the bartender. "You want crew you're better off down on the dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seemingly present." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. 200 meters and more."
 
-"Most of the steering I do it towards the bottles," said the bartender. "You want crew you're better off down on the fuckin' dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seemingly around." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. 200 meters and more."
-
-"Yeah, that kind of boat is always hiring. Shit, that doesn't sound good. I'm a little fuckin' desperate."
+"Yeah, that kind of boat is always hiring. Shit, that doesn't sound good. I'm a little desperate."
 
 The bartender squinted up the side of his face where his eye would have been considering for a few seconds. "Hrmm. Well, if yer fuckin' desperate... Bartendin' is my side-gig. My main business, and much more profitable I might add, is pimpin'."
 
@@ -400,15 +398,15 @@ Percy nodded.
 
 The bartender shrugged. "Plus a finders-fee like." He said, and Percy knew she had made another negotiating mistake in letting the bartender see the heavy satchel full of coins she was carrying.
 
-"Thing is, I need a sonar operator. Do you think this waif has good ears?"
+"Thing is, I need a sonar operator. I don't care if she's a waif, but Do you think she has good ears?"
 
 He shrugged again. "Well, I'll tell you this: those whores of mine have a record player in their quarters. Drives me fucking crazy, but when I tried to dispose of it I had a large-scale fuckin' whore-revolt on my hands. That little waif in particular, I noticed, listens to the fuckin' records all the time. Does that suggest anything about her ears?"
 
-"Might mean she's fuckin' deaf already," said Percy. She sipped her drink. "Fuck it. It's not like I'm going into battle. If she's not completely deaf, we can have her sit sonar watch during long runs. She won't be completely useless."
+"Might mean she's deaf already," said Percy. She sipped her drink. "Fuck it. It's not like I'm going into battle. If she's not completely deaf, we can have her sit sonar watch during long runs. She won't be completely useless."
 
-"Swell," said the bartender. "I need that depressing little shadow out of my life." He called down the bar to where a small group of skinny girls and a couple of boys were milling about aimlessly. "Cassandra! Come over here. I have someone I want you to meet."
+"Swell," said the bartender. "I need that depressing little shade out of my life." He called down the bar to where a small group of skinny girls and a couple of men were milling about aimlessly. "Cassandra! Come over here. I have someone I want you to meet."
 
-A tiny girl with stick arms and huge brown eyes under tight curls of black hair walked towards them. She was wearing a short slip of a blue dress made of worn cotton, and had long fingernails, brightly painted but chipped in places.
+A tiny girl with stick arms and huge eyes walked towards them. She was wearing a short slip of a blue dress made of worn cotton, and had sharp fingernails, brightly painted but chipped in places.
 
 As she got closer the bartender said flatly, "This lady might want to hire you." And turned away to deal with some other customers.
 
@@ -416,21 +414,23 @@ As she got closer the bartender said flatly, "This lady might want to hire you."
 
 [//]: # (The convention in a sub story is the sonar operator has amazing ears, potentially signaled by having huge ears. Cassandra has giant eyes instead.)
 
-"I don't know," said Cassandra quietly, looking down.
+"I don't know," Cassandra said, looking down.
 
-"Look, I'm not trying to fuck you here. I've got a boat, and I'm leaving in less that 48 hours and need to crew up. Your friendly bartender-pimp says you might be willing to work on a boat instead of whatever it is you do now. You ever work on a boat before? Or anything technical? Maybe sonar or something fucking sonics related?"
+"Look, I'm not trying to fuck you here. I've got a boat, and I'm leaving in less that 48 hours and need to crew up. Your friendly bartender-pimp says you might be willing to work on a boat instead of whatever it is you do now. You ever work on a boat before? Or anything technical? Maybe sonar or something sonics related?"
 
-"Hell no. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
+"No. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
 
 "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to mind-numbing ambient noise on the sonar for hours on end without going insane. Think you could do that?" Percy looked at the skinny young girl skeptically, though in the back of her mind she remembered that her start on submarines had not been very much different than this.
 
 [//]: # (Explicitly: this references the fact that Percy didn't know anything about subs when she began. Implicitly: that she came from a darker place before subs?)
 
-Cassandra nodded without saying anything, still looking at the floor.
+Cassandra nodded firmly without saying anything, still looking at the floor.
 
 "Good."
 
-"But... isn't working on submarines dangerous?" Cassandra wondered. "In general, I think I'd rather live in this hole than die in a hole in the sea."
+[//]: # (----- EDITED TO HERE -----)
+
+"But, wait... isn't working on submarines dangerous? In general, I think I'd rather live in this hole than die in a hole in the sea."
 
 "It's incredibly fucking dangerous. I won't lie to you about that. But we're compensated for the danger: it pays very well, enough for us to live by our own terms. Enough to buy you out of your current job. There's also the fact that there's a limited number of people willing to go out there and carry out their lives while being encased in a steel tube and all-around surrounded by dangers and fears that would liquefy the guts of most folk. Submariners are an elite class, in their own filthy way."
 
