@@ -428,23 +428,21 @@ Cassandra nodded firmly without saying anything, still looking at the floor.
 
 "Good."
 
-[//]: # (----- EDITED TO HERE -----)
-
-"But, wait... isn't working on submarines dangerous? In general, I think I'd rather live in this hole than die in a hole in the sea."
+"But, wait... isn't working on submarines dangerous? In general, I think I'd rather live in this hole in the ground here than die in a hole out there in the sea."
 
 "It's incredibly fucking dangerous. I won't lie to you about that. But we're compensated for the danger: it pays very well, enough for us to live by our own terms. Enough to buy you out of your current job. There's also the fact that there's a limited number of people willing to go out there and carry out their lives while being encased in a steel tube and all-around surrounded by dangers and fears that would liquefy the guts of most folk. Submariners are an elite class, in their own filthy way."
 
-"Why good is wealth and freedom if you are dead though?"
+"What good is wealth and freedom if you are dead though?"
 
 "Look, there's dangerous and there's really fucking dangerous. You'd be mostly working sonar, at least at first. That's about as dangerous as tuning your stereo. You wouldn't have to work down in the engine room or throw lines or anything like that. Heck you couldn't lift a line even if I needed you to." Percy glanced at Cassandra's skinny arms. "You'd be facing the same base-level danger we all face on a submarine. If we are in a situation where you might die, we'll all be in that situation together. My boat has been running for decades without taking the whole crew down, and I expect she'll run for a couple more decades. That means you aren't going to die any time soon on this boat. Can you live with that?"
 
 Cassandra nodded slowly.
 
-"Now I'm only giving you this little motivational speech about the glories of being a submariner once. If you take the job it's on you to make it a part of yourself, and keep your fear bottled and your mind clear when you are working. Understand? Running a boat is a lot of work and more than anything else I need a crew that can motivate their own fucked souls to do their jobs. It is not war, it is commerce."
+"Now I'm only giving you this little motivational speech about the glories of being a submariner once. If you take the job it's on you to make it a part of yourself, and keep your fear bottled and your mind clear when you are working. Understand? Running a boat is a lot of work and more than anything else I need a crew that can motivate their own fucked-up souls to do their jobs. It is not war, it is commerce."
 
 Cassandra looked around at the dingy canteen and then directly at Percy for the first time. "OK, I'll do it."
 
-"Fine. Get your things together and come down to slip four this evening ready to leave this place behind you. At the slip ask for Hemi. He'll get you settled and explain how the pay rates work for a greenie new crew member.  We'll train you on board after we're underway in a couple of days. For now, just stay out of the way and keep your mouth shut until someone specifically asks you to do something. Make sure you're always nearby to help the crew, but don't volunteer for anything since you don't know how to fucking do anything. The crew know how to ask for your help when they can use it, and they don't want your help doing things you might fuck up." 
+"Fine. Get your things together and come down to slip four this evening ready to leave this place behind you. At the slip ask for Hemi. He'll get you settled and explain how the pay rates work for a green crew member.  We'll train you on board after we're underway in a couple of days. For now, just stay out of the way and keep your mouth shut until someone specifically asks you to do something. Make sure you're always nearby to help the crew, but don't volunteer for anything since you don't know how to do anything. The crew know how to ask for your help when they can use it, and they don't want your help doing things you might fuck up." 
 
 "I understand."
 
@@ -458,21 +456,26 @@ The bartender put a knuckle to his gristly eyebrow in a mock salute as they turn
 
 "Here," said Percy handing Cassandra a few coins, "that's an advance on your next paycheck. Buy some tougher clothes."
 
+With a shy smile Cassandra turned to take the ramp towards the stairs to the next level up where the barracks were located. Percy turned down the ramp feeling like it was probably time to get back to her boat and see how repairs were proceeding.
+
+[//]: # (----- invisible character break)
+ 
+
 [//]: # (### Percy meal with Shakes -- hiring him long term.)
 
-With a shy smile Cassandra turned and walked up the ramp towards the stairs to the next level up, where the barracks were located. Percy turned down the ramp feeling like it was probably time to get back to her boat and see how repairs were proceeding. She was warm from the liquor and had a bit of a sweat breaking on her skin in the still and humid underground air.
+ She was warm from the liquor and had a bit of a sweat breaking on her skin in the still and humid underground air. Walking downwards in the direction of the docks her eye caught the now-familiar clanking gait of Shakes coming up the slope. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
 
-Walking down the ramp in the direction of the docks she saw the now-familiar clanking gait of Shakes climbing up the ramp. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
+"Yeah, it's about time for it, eh Captain Shakes? Let me buy you that fucking meal I promised you first."
 
-"Yeah, it's about time for it, eh Shakes? Let me buy you that fucking meal I promised you first."
+"Not going to say no to any fuckin' grub."
 
-"Not going to say fuckin' no to some grub."
+Percy turned to join Shakes in the upward direction on the ramp, and retraced her steps a short way back up the exchange floor. Across from the saloon, set back in the opposite wall was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
 
-Percy turned to join Shakes in the upward direction on the ramp, and they walked a short way back up the exchange floor. Across from the saloon, set back in the opposite wall was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
+Inside they got in line behind some other patrons dressed in dingy shades of wool and leather. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming food while tapping a long stamped-steel serving spoon against the greasy metal tray.
 
-Inside they got in line behind some other patrons dressed in dingy shades of wool. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming trays of food while tapping a long stamped-steel serving spoon against the greasy metal tray.
+[//]: # (----- EDITED TO HERE -----)
 
-They got some of each, a mounded plate full of steaming long-grained rice with bits of clove and chopped peas and cardamom scattered in it. The plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a couple of coins from her satchel and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
+They got some of each, a mounded plate full of long-grained rice with bits of clove and chopped peas and cardamom scattered in it. Their plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a couple of coins from her satchel and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
 
 Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He passed the bread back to the first hand and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth.
 
