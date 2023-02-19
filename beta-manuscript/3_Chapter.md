@@ -471,29 +471,23 @@ With a shy smile Cassandra turned to take the ramp towards the stairs to the nex
 
 Percy turned to join Shakes in the upward direction on the ramp, and retraced her steps a short way back up the exchange floor. Across from the saloon, set back in the opposite wall was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
 
-Inside they got in line behind some other patrons dressed in dingy shades of wool and leather. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming food while tapping a long stamped-steel serving spoon against the greasy metal tray.
-
-[//]: # (----- EDITED TO HERE -----)
+Inside they got in line behind other patrons dressed in dingy shades of wool and leather. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming food as he tapped a long stamped-steel serving spoon against the greasy metal tray.
 
 They got some of each, a mounded plate full of long-grained rice with bits of clove and chopped peas and cardamom scattered in it. Their plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a couple of coins from her satchel and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
 
-Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He passed the bread back to the first hand and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth.
+Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He moved the bread back to the first hand, and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth.
 
-While he was chewing, Percy brought him up to speed. "So I've fallen ass-backwards into a job Shakes."
+While he was chewing, Percy brought him up to speed. "So I have locked down this job rumor I mentioned. Turns out to pay well. Really fucking well."
 
 He grunted acknowledgment and nodded, too busy eating to look up.
 
-"It pays well.... really fucking well."
+"Thing is, it's kinda risky. Might attract some attention from one Authority or another."
 
-That got Shakes to look up at her, but not to stop eating.
+"Mmmph," said Shakes through his mouthful of bread, "that's usually how it goes. I assumed that job is behind that sub ramming you."
 
-"Thing is, it's fuckin' kinda risky. Might attract some attention from one Authority or another."
+"Might be. Still seems like a stretch to me though, considering the hold was empty at the time. It was just a dry run..." She drifted off, pondering that mystery that had been at the back of her mind while she ate her way along a bone of dry chicken.
 
-"Mmmph," said Shakes through his mouthful of bread, "that's usually how it goes.I assumed some kinda job in that class is why that sub fuckin' rammed you."
-
-"Actually, I still don't know why they rammed us. The hold was fucking empty at the time! We were on a dry run. And we haven't been mixed up in anything questionable for a while..." She drifted off a bit pondering that mystery that had been at the back of her mind while she ate her way along a bone of dry chicken.
-
-"Anyway, this next job is going to require being a little more fuckin' tactical, I think. A little more forethought and planning than the usual just trying to sneak under the radar and not be noticed."
+"Anyway, this next job is going to require being a little more tactical, I think. A little more forethought and planning."
 
 "I'm not much for fuckin' tactics myself. I have just the one: stay small, stay low in the water, don't get fuckin' seen. It's simple and it works. Not much to think about, and I like it that way."
 
@@ -501,11 +495,11 @@ Percy nodded. "Something like that has always been my strategy too. But for this
 
 "Sure. You got something already?"
 
-"Here's what I'm thinking: As I said, I'm gonna be hauling this risky fucking load -- I won't get into details about it right now, just remember that there's certain to be some Authorities who would be interested in checking the manifest. Now, I will, of course, deploy the usual tactics of keeping my boat on the down-low, running quiet, staying submerged during the day and only running on the surface at night, and so on and fuckin' whatnot."
+"Here's what I'm thinking: As I said, I'm gonna be hauling this risky fucking load -- I won't get into details about it right now, just remember that there's certain to be some Authorities who would be interested in checking the manifest. Now, I will, of course, deploy the usual tactics of keeping my boat on the down-low, running quiet, staying submerged during the day and only running on the surface at night, and so on and whatnot."
 
 She paused for a second, considering how to best present this idea she had to Shakes.
 
-"But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And the partner's job was to be _un_stealthy. To run as a decoy around and above the _Prospect_. Draw the curious eye, or ear, away, so to speak. And they would be fuckin' clean of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
+"But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And the partner's job was to be _unstealthy_. To run as a decoy around and above the _Prospect_. Draw away the curious eye -- or ear -- so to speak. And this partner would be clean of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
 
 [//]: # (Is this the plot to Smokey and the Bandit? You fucking know it!)
 
@@ -517,21 +511,24 @@ Shakes swallowed. "So... what? You want me to juice up the _Gnat_ so it fucking 
 
 "Or maybe _not_ get caught... you said the _Gnat_ was fast, right? You could outrun them when they started pursuing you... and at the same time lead them away from the _Prospect_."
 
-Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and -- what's the fuckin' word? brash  --after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing though."
+Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and -- what's the fuckin' word? brash -- after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing though."
 
-"I have a feeling you'd be a fucking natural at it," said Percy.
+"I have a feeling you'd be a natural."
 
 "It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed." 
 
-Percy dropped the heavy satchel full of coins on the table in front of Shakes. Though when a couple of other patrons turned around to look for the source of that particular sound she realized it was stupid move, so she leaned in and whispered the next bit so only Shakes could hear. "Not to be dramatic, but this is only two-thirds of the payment for this fucking job."
+Percy dropped the heavy satchel full of coins on the table in front of Shakes. Though when a couple of other patrons turned around to look for the source of that particular sound she realized it was stupid move, so she leaned in and whispered the next bit so only Shakes could hear. "Not to be dramatic, but this is only two-thirds of the payment for this job."
 
-Shakes eyes widened. He poked at the satchel with the handle end of his fork. "Better put that the fuck away. What the fuck are you offering me exactly?"
+Shakes eyes widened. He poked at the satchel with the handle end of his fork. "Better put that away. What the fuck are you offering me exactly?"
 
 "How about two deck-crew share's worth? And a deck-crew share on this run should be pretty lucrative."
 
 [//]: # (A deck-crew share is kind of the standard pay for a run on a cargo sub. Everyone gets paid per run, and the captain and the deck boss get a much bigger share. Deck-crew shares are what most of the crew makes, evenly divided. Green crew get a much smaller share, or a flat fee offer. The engineer gets an engineers share which is a lot. Maybe equal to deck boss? The boat itself also gets a share: the boat-share. For maintenance and fuel.)
 
 Shakes nodded slowly, while chewing through another piece of bread. "Alright. Fuckin' alright! But I want a stipend on top of that to cover the costs of any modifications to the _Gnat_. And enough to reverse them after we complete this run."
+
+[//]: # (----- EDITED TO HERE -----)
+[//]: # (Dont forget you need to resolve Shakes current delivery run)
 
 "Done. I'll give you one share right now, and the other on delivery. You can write up the cost of the fucking stipend at delivery too," said Percy.
 
