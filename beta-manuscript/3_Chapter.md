@@ -644,22 +644,20 @@ It didn't take too long for Hemi to seal Shakes into the _Gnat_ and get it disco
 
 Shakes steered the _Gnat_ further down the docking bay, and got it mated up to slip fifteen. After popping the _Gnat's_ hatch at that slip, he started the process of negotiating with the dock workers for finishing the job of getting the batteries charged up, and refueling the fuel ballast tanks. Pretty soon, the _Gnat_ was gorging on its own set of umbilicals running down through its sail hatch and into its belly.
 
-[//]: # (----- EDITED TO HERE -----)
-
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Hemi and Percy have dinner)
 
-Refueling, recharging, and repairs were busily carried out over the next six hours or so. Captain Percy was uncomfortable with how many people were coming and going and crawling around in her boat. In the long expanses of time that she lived inside this steel tube, during most of it she knew exactly who was aboard her submarine. In dock like there was an unusual and discomforting open access to her boat. Just another reason to be on the move, as far as she was concerned.
+Refueling, recharging, and repairs were busily carried out over the next six hours. Captain Percy was uncomfortable with how many people were coming and going -- and crawling around in -- her boat. In the long expanses of time that she lived inside this steel tube, during most of it she knew exactly who was aboard her submarine. But in dock there was unusual and discomforting open access to her boat. Just another reason to be on the move, as far as she was concerned.
 
-All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. Hell, with the damage to the hull the _Prospect_ should really go into dry dock for serious repairs -- but that required a monetary flushness that was far beyond a single well-paid job. 
+All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. Hell, with the damage to the hull the _Prospect_ should really go into dry dock for serious repairs -- but that required a monetary flushness that was far beyond a single well-paid job, even if they had no limitations on their time at all. 
 
 Getting the boat ready to go out again so quickly was not just expensive, it also meant cutting some corners that Percy was not happy about. The repairs to the hull continued to be a foul mess of patches and half-competent welds. Through Chips' streaming curses from the bow Percy got the impression that Chips felt she had done a better job welding underwater while the boat was moving than this whole team of ruddy thick-fingered men were doing with the boat dry and steady.
 
-The only fuel Hemi could contract for on the dock on such short notice was a gritty and sludgy bunker. Chips was also not going to be happy about feeding that stuff to her engine when she found out about that.
+The only fuel oil Hemi could contract for on the dock on such short notice was a gritty and sludgy bunker. Chips was also not going to be happy about feeding that stuff to her engine when she found out about that.
 
-By dinner time most of the critical repair and refueling work was wrapping up. Most of the crew took off for the cafe on the exchange floor to find some grub. Hemi and Percy stayed behind and ate in the _Prospect's_ galley, though they prepped dinner from somewhat fresher food items they had bought off the dock that included a cabbage head and a bit of gristly meat.
+By dinner time most of the critical repair and refueling work was wrapping up. Most of the crew took off for the cafe on the exchange floor. Hemi and Percy stayed behind and ate in the _Prospect's_ galley, though they prepped dinner from somewhat fresher food items they had bought off the dock that included a cabbage head and a bit of gristly meat.
 
 "What's left for us to do Hemi?"
 
@@ -671,7 +669,7 @@ Percy nodded.
 
 "And we should take on some more food, refill the fresh-water tanks, and lay in a normal spread of spare parts..."
 
-"I did try to start buying parts earlier today but got sidetracked by the job offer. Put Gregory on securing our food stocks."
+"I did try to start buying parts earlier today but got sidetracked by the job offer. Put Gregory on securing our food stocks. And tell him I need more cigarillos."
 
 Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that lay next to his plate. "You are sure about this job Sylvia?"
 
@@ -681,20 +679,24 @@ Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that la
 
 "Weapons parts -- magnetic warheads."
 
-"Had to be something like that did it not? You have no problem with Authorities breathing down our necks and risking blowing the boat in half if someone drops a crate full of explosives?"
+"Ah. Had to be something like that did it not? You have no problem with Authorities breathing down our necks and taking on the risk of someone blowing the boat in half if a crate full of explosives is dropped?"
 
 "We're on the fuckin' Nitro Express now Hemi. _Someone_ has to move this stuff. Might as well be pros like us. The cargo is supposed to arrive for loading any minute now, actually. Is the hold ready for it?"
 
 "Chips finished up repairs an hour or two ago -- at least as good as they could be with the resources available here -- and the bilge is pumped dry. I think we can start loading cargo. Though if we are hauling explosives you might want to pack in some soft padding first."
 
-"I'm sure they have been thoroughly fucking packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you're sure they _won't_ go off if someone walks by a crate with a heavy socket wrench or something."
+"I'm sure they have been thoroughly packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you're sure they _won't_ go off if someone walks by a crate with a heavy socket wrench or something."
 
-There was a tap of someone's bony knuckles on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those fuckin' big trolls up at the slip with crates they say are to be loaded into the _Prospect_.
+There was a tap of someone's knuckle bones on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those fuckin' big trolls up at the slip with crates they say are to be loaded into the cargo hold.
 
 "Thanks Gregory," said Percy, "that is indeed our cargo. You can come help us get these things stowed properly. Hemi?"
 
 Hemi forked his last bite of meat, and squeezed his bulk out of the tight galley seating.
 
+[//]: # (----- EDITED TO HERE -----)
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Loading the magnetic warheads)
 
