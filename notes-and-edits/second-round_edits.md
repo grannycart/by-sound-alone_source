@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-20 17:22
+Last modified: 2023-02-20 17:25
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -25,6 +25,7 @@ Edits to pick up in second full pass through the book
 		* Remember to keep an eye out for adverbs, particularly in the dialog attribution
 	* [ ] do a find-and-replace for til with till
 	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
+	* [ ] after chapter 3: search cigarillo and replace with cheroot
 * [X] remove references to the "con" -- too military
 * [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.
 * [ ] Shakes needs to say 'ain't' more, like he does when he first appears
@@ -211,11 +212,12 @@ Edits to pick up in second full pass through the book
 			* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
 	* [X] see note about about learning the name of the sub with the ram at the depot
 	* [ ] At the depot, they need to restock cigarettes and cigarillos
-		* Maybe Percy switches to cheroots
-	* [ ] Edit descriptions of Cassandra: see B and C's notes
+		* Percy switches to cheroots
+	* [X] Edit descriptions of Cassandra: see B and C's notes
 	* [X] Find and replace: Trinity as a name
 * When Shakes meets up with them again:
 	* [ ] confirms the identity of the Grackle
+	* [ ] confirm that he was able to tranship is last load? or do we not really care?
 * stilt city: 
 	* [ ] when Chips leaves -- have Hemi call her by her real name
 	* [ ] Fix Sturmey:
