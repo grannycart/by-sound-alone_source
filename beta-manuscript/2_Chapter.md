@@ -1177,6 +1177,6 @@ Hemi nodded. "So if it is the same sub, which seems likely, it seems very _unlik
 
 "Indeed," said Hemi, "though sometimes the pragmatic course of action is to leave the questions aside, and move in a different direction."
 
-The silence settled back in on them. Captain Percy lit up yet another cigarillo and puffed away at it steadily until she had filled up the small space of the control room with smoke. Hemi slid back down to the navigation chart with his flashlight, and a few minutes later called up to Percy. "Sylvia, by my calculations you should be able to see the depot island from the bridge now."
+The silence settled back in on them. Captain Percy pulled one of the few remaining cigarillos from the pack stashed against the wall and lit it. She puffed away at it steadily until she had filled up the small space of the control room with smoke. Hemi slid back down to the navigation chart with his flashlight, and a few minutes later called up to Percy. "Sylvia, by my calculations you should be able to see the depot island from the bridge now."
 
 

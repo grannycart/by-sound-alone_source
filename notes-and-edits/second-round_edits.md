@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-20 12:26
+Last modified: 2023-02-20 17:22
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -198,7 +198,6 @@ Edits to pick up in second full pass through the book
 		* See line 334 in Chap 2
 		* remember Shakes isn't delivering to the depot now
 		* probably best to address this when Shakes has conversation with Percy about making his boat loud
-			* issue 34734953
 	* [X] Change it so Percy knows about the weapons job at the depot beforehand:
 		* [X] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
 			* See K's note on Shakes motivation to help

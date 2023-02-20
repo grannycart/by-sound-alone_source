@@ -475,13 +475,19 @@ Inside they got in line behind other patrons dressed in dingy shades of wool and
 
 They got some of each, a mounded plate full of long-grained rice with bits of clove and chopped peas and cardamom scattered in it. Their plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a couple of coins from her satchel and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
 
-Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He moved the bread back to the first hand, and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth.
+Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He moved the bread back to the first hand, and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth. He picked up a fork with his free hand and helped guide even more of the pile into his gullet.
 
-While he was chewing, Percy brought him up to speed. "So I have locked down this job rumor I mentioned. Turns out to pay well. Really fucking well."
+While he was chewing with bulging cheeks, Percy brought him up to speed. "So I have locked down this job rumor I mentioned. Turns out to pay well. Really fucking well."
 
-He grunted acknowledgment and nodded, too busy eating to look up.
+Percy dropped the heavy satchel full of coins on the table in front of Shakes. Though when a couple of other patrons turned around to look for the source of that particular sound she realized it was stupid move, so she leaned in and whispered the next bit so only Shakes could hear. "Not to be dramatic, but this is only two-thirds of the payment for this job."
 
-"Thing is, it's kinda risky. Might attract some attention from one Authority or another."
+Shakes eyes widened. He poked at the satchel with the handle end of his fork. "Better put that away."
+
+"Before I do, I want to get settled up with you." She removed a handful of coins from the satchel and arranged them in a few neat stacks on the table in front of Shakes. "Is that about the hull rate for the _Gnat_?"
+
+Shakes used his fork to divide off one of the smaller stacks. "The remainder there is about right. After you cover my fuel oil resupply costs, we can all our work together settled."
+
+"Right. Just pass the bill for the fuel oil over to me when you have the _Gnat_ ready to go. So the thing about this new job is, it's kinda risky. Might attract some attention from one Authority or another."
 
 "Mmmph," said Shakes through his mouthful of bread, "that's usually how it goes. I assumed that job is behind that sub ramming you."
 
@@ -515,11 +521,7 @@ Shakes started chewing again while he thought. "There is something appealing abo
 
 "I have a feeling you'd be a natural."
 
-"It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed." 
-
-Percy dropped the heavy satchel full of coins on the table in front of Shakes. Though when a couple of other patrons turned around to look for the source of that particular sound she realized it was stupid move, so she leaned in and whispered the next bit so only Shakes could hear. "Not to be dramatic, but this is only two-thirds of the payment for this job."
-
-Shakes eyes widened. He poked at the satchel with the handle end of his fork. "Better put that away. What the fuck are you offering me exactly?"
+"It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed. What are you offering me exactly?"
 
 "How about two deck-crew share's worth? And a deck-crew share on this run should be pretty lucrative."
 
@@ -527,11 +529,21 @@ Shakes eyes widened. He poked at the satchel with the handle end of his fork. "B
 
 Shakes nodded slowly, while chewing through another piece of bread. "Alright. Fuckin' alright! But I want a stipend on top of that to cover the costs of any modifications to the _Gnat_. And enough to reverse them after we complete this run."
 
-[//]: # (34734953 -- Dont forget you need to resolve Shakes current delivery run)
-
 "Done. I'll give you one share right now, and the other on delivery. You can write up the cost of the stipend at delivery too."
 
-Shakes grinned through a mouthful of food. "Well -- partner -- who knew picking up a bunch of fucking filthy marooned scumbags in the middle of the ocean would lead to anything profitable! Fuckin' sweet."
+"OK! ...Wait, what about my current shipment? I have to get that delivered in the next few days. And I won't be able to do that in a boat making a racket."
+
+"Think you could transship it from the depot here?"
+
+"Maybe. Lots of boats around. Seems like at least one would be going the right direction. But it would have to be someone reliable and discreet."
+
+"Talk to that dock boss, if anyone knows who is reliable around here, seems like it would be her."
+
+"I'll probably take a hit..."
+
+"I will cover the difference, of course."
+
+Shakes nodded and grinned through a mouthful of food. "Well -- partner -- who knew picking up a bunch of fucking filthy marooned scumbags in the middle of the ocean would lead to anything profitable! Fuckin' sweet."
 
 "Well if that's settled, I've been away from my boat for a couple of hours now, and that is enough for some serious fucking damage to have been done. I feel like I need to be getting back there."
 
@@ -683,15 +695,15 @@ Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that la
 
 "We're on the fuckin' Nitro Express now Hemi. _Someone_ has to move this stuff. Might as well be pros like us. The cargo is supposed to arrive for loading any minute now, actually. Is the hold ready for it?"
 
-"Chips finished up repairs an hour or two ago -- at least as good as they could be with the resources available here -- and the bilge is pumped dry. I think we can start loading cargo. Though if we are hauling explosives you might want to pack in some soft padding first."
+"Chips finished up repairs an hour or two ago -- at least as repaired as could be with the resources available here -- and the bilge is pumped dry. I think we can start loading cargo. Though if we are hauling explosives you might want to pack in some soft batting first."
 
 "I'm sure they have been thoroughly packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you're sure they _won't_ go off if someone walks by a crate with a heavy socket wrench or something."
 
 There was a tap of someone's knuckle bones on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those fuckin' big trolls up at the slip with crates they say are to be loaded into the cargo hold.
 
-"Thanks Gregory," said Percy, "that is indeed our cargo. You can come help us get these things stowed properly. Hemi?"
+"Thanks Gregory," said Percy, "that is indeed our cargo. You can come help us get 'em stowed properly. Hemi?"
 
-Hemi forked his last bite of meat, and squeezed his bulk out of the tight galley seating.
+Hemi forked his last bite of meat and squeezed his bulk out of the tight galley bench seat.
 
 [//]: # (----- EDITED TO HERE -----)
 
@@ -771,4 +783,3 @@ They finished loading the crates of explosives that evening. Hemi had Bastian, G
 
 After that, most of the crew headed up to the canteen on the exchange floor to indulge in the kind of heavy drinking rarely on offer to a submarine crew, though Cassandra excused herself from this opportunity to get to knew her new crew mates better, suggesting politely that she had seen quite enough of that canteen. Hemi and Percy also skipped the canteen and were up late in the galley going over the state of their supplies and some questions Hemi had about the details of the job contract that Hemi wanted to be sure Percy had considered.
 
-[//]: # (Don't forget to address issue: 34734953)
