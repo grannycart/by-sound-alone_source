@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-16 22:28
+Last modified: 2023-02-20 12:26
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -108,7 +108,7 @@ Edits to pick up in second full pass through the book
 	* (I think the cargo hold is fairly well covered, it's the main decks that are a little weak)
 * [ ] watch the pacing, it's a little off in places:
 	* [ ] it should be a slow build up to a big singular event like the ballast blow
-	* [ ] And it should be a draw-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
+	* [ ] And it should be a drawn-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
 	* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, (see pacing notes)
 		* don't just montage over them, it makes it feel like things are moving too fast.
 	* See C's comments on pacing
@@ -198,13 +198,14 @@ Edits to pick up in second full pass through the book
 		* See line 334 in Chap 2
 		* remember Shakes isn't delivering to the depot now
 		* probably best to address this when Shakes has conversation with Percy about making his boat loud
-	* [O] Change it so Percy knows about the weapons job at the depot beforehand:
+			* issue 34734953
+	* [X] Change it so Percy knows about the weapons job at the depot beforehand:
 		* [X] This can be how Percy dangles motivation for Shakes to help them -- big reward in the next job; this can help tie Shakes to the next job too
 			* See K's note on Shakes motivation to help
 		* [X] so you have to remove references to Shakes leading them to depot
 		* [X] Have to revise the meeting Trinity scene so it seems intentional
 		* [X] The (initial) questions about the legality (that I think are in the Trinity conversation) are moved up to when Percy is explaining the plan to Shakes (chap 2; line 430) 
-		* [ ] This can help lead the book along in the first part:
+		* [X] This can help lead the book along in the first part:
 			* What is this mysterious job at the depot Percy is going for?
 			* It seems somewhat nefarious, is it connected to the sub pursuing them? (It is, though maybe that's never made explicit, or it's tied to the conversation about the morality of running weapons)
 			* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
@@ -285,24 +286,25 @@ Edits to pick up in second full pass through the book
 		* One of the things you asked me is whether it would be interesting for people not interested in submarines - I think my answer would be - it depends. I definitely felt as though there were parts that were interesting to read about - for example when Hemi is teaching Cassandra how to use the sonar. But there were other parts, in particular in the first part of the book (pre-arriving at the depot) where it felt as though pages were dedicated to the workings of the submarine or the characters trying to fix parts of it, but the story wasn't advancing in a significant way. As a non-submarine-interested reader, I would have preferred for some of the excitement in the book to come from things other than mechanics of the sub and potential issues. I get that it's hard because so much of it takes place in open water, but it seemed as though every time the submarine decided to go up or down, for example, we got information about how it would do that with the ballast etc. In terms of my ideal book, almost all that detail would be cut so that there's enough detail left for the book to keep its sense of realism, but not so much that it bogs down the narrative. I guess in my ideal book the sub would still feature prominently but potential mechanical failures etc wouldn't be one of the main sources of tension, there'd be more varied challenges that come up. Kind of like how in a book that takes place on an above-ground ship, issues with storms and the ship itself would maybe only be part of the narrative but not the main driving thread.
 * [ ] Feedback from Kevin Stokes:
 	* [ ] motivation for Shakes isn't strong enough ( --- maybe they can convince him to help out with a giant brick of pot? Maybe Bastian grows pot in his quarters, that's how they have enough to convince Shakes?)
-* [ ] Feedback from Brian:
+* [o] Feedback from Brian:
 	* [ ] The start is slow, maybe pick up the writing pace a bit to match the speed of the rest of the book
 		* (MT says: I think what happened here is at first I didn't know how much space everything was going to take, so I wrote longer scenes, but later had so many ideas to cram in that there wasn't space for longer scenes)
 	* [ ] Cassandra says something like "I didn't realize when I agreed to this that it would be so boring" Which was maybe offensive she didn't agree since she was sold like a slave and she was escaping prostitution. 
-	* [ ] Some of the material handling scenes need work. People don't use a chain with a block. There is a thing called a chain hoist. You might also want to consider gantry cranes. A sub port isn't going to be fooling around.
-	* [ ] There is a point where Shakes doesn't know the horsepower of the motors on his sub. That seems strange since he built it. But maybe it is intentional. 
+	* [X] Some of the material handling scenes need work. People don't use a chain with a block. There is a thing called a chain hoist. You might also want to consider gantry cranes. A sub port isn't going to be fooling around.
+	* [X] There is a point where Shakes doesn't know the horsepower of the motors on his sub. That seems strange since he built it. But maybe it is intentional. 
 	* [ ] You start using bearings at some point but there are places earlier where they could be used. 
 	* [ ] There are a couple places in the first 15 or so pages where it is like "then this happened."  Along the line of show, don't tell, it should be something like "then Chips said to Hemi "there a X in the Y" and Hemi (did something)"
-	* [ ] There are a couple of parts where the text tells the reader to appreciate something or that something is a mystery.  You could cut those and let the reader do the work
+	* [X] There are a couple of parts where the text tells the reader to appreciate something or that something is a mystery.  You could cut those and let the reader do the work
+		* I can't quite figure out where these spots are. Hopefully I edited them out in general. I did grep 'mystery' but there wasn't much result.
 	* [ ] I felt that the air intake and exhaust were not handled when Gnat was coupled to Prospect in Ch 1 or 2.
-	* [ ] The sub port would be like a cup with air upside down underwater. Damage to the sub docking areas shouldn't cause flooding since the air is there, damage that would allow the air to escape would. But a large door would still be appropriate. 
+	* [-] The sub port would be like a cup with air upside down underwater. Damage to the sub docking areas shouldn't cause flooding since the air is there, damage that would allow the air to escape would. But a large door would still be appropriate. 
 		* NB: I thought about this during the first draft: the depot would be kept at 1 atmosphere so it could maintain open doors with the surface. That avoids the problem of keeping all those people in the depot at saturation (both in terms of decompression time and complexity for them to enter and exit the depot, but also for health reasons --- people with weaker bodies (Trinity) likely couldn't constantly be compressing and decompressing. (Though, maybe an interesting idea for Trinity to live a huge chunk of her life at compression?) Also the subs are at 1 atmosphere so even if the dock is only 30 feet down that means the dock air would be at 2 atmospheres and you'd have to equalize that with the docking subs. That's not just technically challenging, but the subs would not be designed to be pressurized to 2 atmosphere's from the INSIDE.
 
 
 ## Conceptual and abstracted edits
 :concept:
 * [ ] Consider pulling back or deleting the metaphors
-* [ ] See note on 'segments' in general notes, considerations. 
+* [X] See note on 'segments' in general notes, considerations. 
 	* Consider the implications for shorter chapters, coherent scenes
 * [ ] See note on subconscious vs conscious story details in notes, considerations
 * [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
