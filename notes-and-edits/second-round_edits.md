@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-20 17:25
+Last modified: 2023-02-21 19:00
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -211,7 +211,7 @@ Edits to pick up in second full pass through the book
 			* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
 			* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
 	* [X] see note about about learning the name of the sub with the ram at the depot
-	* [ ] At the depot, they need to restock cigarettes and cigarillos
+	* [X] At the depot, they need to restock cigarettes and cigarillos
 		* Percy switches to cheroots
 	* [X] Edit descriptions of Cassandra: see B and C's notes
 	* [X] Find and replace: Trinity as a name
