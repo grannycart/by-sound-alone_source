@@ -3,6 +3,7 @@
 
 [//]: # (This is _two_ underscore preface because it should come after the diagrams.)
 
+[//]: # (Maybe start with this: You can skip this preface. Go ahead, I don't mind. I'd much prefer you dove directly into the story than have you slog through this thing out of a sense of duty or completion. However for those of you inclined to wring the most you possibly can out of a book, I've got this preface in here to maybe shed some light on a few of the more obscure themes of this book. So if you're still reading and inclined to finish the preface, perhaps you'll have a ever so slightly fuller experience when you hit the book itself.)
 
 # Preface to the Beta Version
 
