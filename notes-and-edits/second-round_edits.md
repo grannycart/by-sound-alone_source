@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-21 19:00
+Last modified: 2023-02-26 13:00
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -195,7 +195,7 @@ Edits to pick up in second full pass through the book
 * depot:
 	* [-] Make Vickers the bartender at the depot pub? Make it the nub pub?
 		* I think I never mention him by name. So, I think instead he's just going to be Vicker's ol' concept of the skinny-fat guy.
-	* [ ] Address: where was Shakes going originally? 
+	* [X] Address: where was Shakes going originally? 
 		* See line 334 in Chap 2
 		* remember Shakes isn't delivering to the depot now
 		* probably best to address this when Shakes has conversation with Percy about making his boat loud

@@ -174,19 +174,17 @@ There was a fairly loud wash of sound: the snap of arc welders liquefying bits o
 
 About a third of the way up the hall, her eye was caught by one of the bigger shops cut back into the wall. It was better lit than most, and the proprietor had taken the trouble to pry open a number of the crates stacked in the shop and arrange some of the more attractive goods to tempt potential customers.
 
-[//]: # (----- EDITED TO HERE -----)
-
 [//]: # (### In the hardware store; Percy meets Miss Mai)
 
 Percy turned into the shop. It sold hardware. A wide array of tools and parts lay in a semi-organized fashion among the hay and batting used as packing material in the crates. Some of the packing material had inevitably escaped the crates and was crushed into the grime on the floor. 
 
-Larger items were displayed towards the front of the store, Percy realized that was probably because they were harder to steal. The crates at the front of the shop were left open face-up, and she could look down into them to see large motors, piping, valves, and hundreds of other bigger elements that went into making a submarine work. 
+Larger items were displayed towards the front of the store, Percy realized that was probably because they were harder to steal. The crates at the front of the shop were left open face-up, and looking down into them she could see large motors, piping, valves, and other bigger elements that went into making a submarine work. 
 
 As she moved towards the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks. 
 
-The shopkeeper somehow both managed to both show very little interest in the few customers poking around in the crates, and yet never stopped watching them.
+The shopkeeper somehow managed to show very little interest in the few customers poking around in the crates, and yet never stopped watching them.
 
-Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit and looked incredibly useful. Clamps were not currently on her hardware list, so she regretfully would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the to list and waiting to be purchased on at the next stop.
+Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit. Clamps were not currently on her hardware list, so she regretfully would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the to list and waiting to be purchased on at the next stop.
 
 Percy picked up the box of clamps and moved to browse some of the larger parts. In one open crate there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines -- even excellent ones -- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she couldn't imagine not buying it. In the condition it was in, however, it would not be cheap.
 
@@ -194,7 +192,7 @@ She leaned over the crate and ran her fingers under the cover to check for hidde
 
 "I have a boat where I could use ten more of these," Percy replied.
 
-"Pretty expensive element for buying multiples of." The lady offered. She was frail and small. In this depot full of huge people, she was certainly the tiniest Percy had seen, or would even expect to see. She had big rubbery ears and a heavily-lined face with a tiny nose that wiggled when she talked. She was dressed in a wool cloak that was worn thin but clearly made of what was originally a high-quality material. Over it, she wore a fraying shawl with an intricate fair-isle pattern. She looked like a person who would never be quite warm enough in this hole-in-the-rock they were currently in.
+"Pretty expensive element for buying multiples of." The lady was frail and small. In this depot full of huge people, she was certainly the tiniest Percy had seen, or would even expect to see. She had big rubbery ears and a heavily-lined face with a tiny nose that wiggled when she talked. She was dressed in a wool cloak that was worn thin but clearly made of what was originally a high-quality material. Over it, she wore a fraying shawl with an intricate fair-isle pattern. She looked like a person who would never be quite warm enough in this hole-in-the-rock they were currently in.
 
 "The cost is the reason I'll be lucky to get a single one of these," said Percy.
 
@@ -204,23 +202,23 @@ Percy looked at the tiny stick-figure-in-a-sack skeptically. "Like a loan?" she 
 
 "No no. I don't go in for usury. That's for the real criminals. I'm offering a job. But one that would pay exceptionally well."
 
-"Well, that's certainly a unlikely fucking coincidence that you happen to offer me work when I was about to go looking for a job when I was finished shopping for supplies in this store here."
+"Well, that's certainly a unlikely fucking coincidence that you happen to offer me work when I was just about to go inquiring about a job."
 
-"It's no coincidence Captain Percy, I was looking for you."
+"That is, of course, no coincidence Captain Percy. I was looking for you."
 
-"Ah, then you are Miss Mai? But how did you know who I was?"
+"Then you must be Miss Mai? But how did you know who I was?"
 
 "To be transparent, I received a note that you had arrived. I came out to the hall to try to locate you. There is an element of urgency to the job I have for you."
 
-Percy remembered the dock boss had said she would send word ahead to Miss Mai. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidence would have suggested."
+Percy remembered the dock boss had said she would send word ahead to Miss Mai. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidences like that suggest."
 
 "Ah yes. It's easier to believe the plot and the happenings are motivated by someone's will, eh? That it isn't all just random chaos, and the coin-toss sometimes comes up in your favor?"
 
 "Oh I believe in the chaos," said Percy, "I just don't believe it comes up in my fucking favor."
 
-Miss Mai grinned a missing-toothed smile. "I think I can work with such a person. Can I encourage you to join me in my office to hear the details of the offer I have for you? It's... not really fit for public spaces."
+Miss Mai grinned a gapped-toothed smile. "I think I can work with such a person. Can I encourage you to join me in my office to discuss the details of the offer I have for you? It's... not really fit for public spaces."
 
-"Miss Mai, I am genuinely excited to learn more about this opportunity." Percy put down the box of clamps, and noticed that the shopkeeper watching her do so.
+"Miss Mai, nothing would please me more than to learn about this fucking opportunity." Percy put down the box of clamps, and noticed that the shopkeeper watching her do so.
 
 [//]: # (----- invisible character break)
  
@@ -229,7 +227,7 @@ Miss Mai grinned a missing-toothed smile. "I think I can work with such a person
 
 In the open space of the hall, Miss Mai hobbled next to Captain Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
 
-"So the dock boss told you all about me already?" Percy asked, hoping to asses the levelness of the playing field this negotiation would be carried out upon.
+"So the dock boss told you all about me already?" Percy asked, hoping to assess the levelness of the playing field this negotiation would be carried out upon.
 
 "The dock boss, yes, and a few others... My friend Turnaround Bob told me you are eminently trustworthy and reliable. And also run a big enough boat for the particular job I need done."
 
@@ -291,7 +289,7 @@ Miss Mai lowered herself with a soft groan into the chair opposite Percy.
 
 "Certainly if we were any less reliable, I wouldn't be standing here talking to you right now."
 
-"There's also the matter of speed. I really need to get these units out of this depot in the next couple of days. I'd rather not say why, so do not ask. But I believe it will benefit us both if you do as I suggested earlier and make the repairs to your boat as quickly as possible and move on with this cargo."
+"There's also the matter of speed. I really need to get these units out of this depot in the next couple of days. I'd rather not say why, so do not ask. But I believe it will benefit us both if you do as I suggested earlier and make the repairs to your boat as quickly as possible, and move on with this cargo."
 
 "Well, that brings us to the price. To make the repairs a priority is not going to be cheap, especially from what I hear about the workers available on the dock."
 
@@ -303,9 +301,9 @@ Percy hesitated. "How about... three times a standard hull-load fee?"
 
 "Done. I can pay you two-thirds now and the remainder on delivery. I assume coin will be satisfactory?"
 
-"Absolutely," said Percy, kicking herself that she did not ask for more. Still, she had never been paid triple a hull load before.
+"Entirely satisfactory," said Percy, regretting that she had not asked for more. Still, she had never been paid triple a hull load before.
 
-Miss Mai stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While watching Miss Mai's fingers pick apart the coins, Percy noticed for the first time that she only had three fingers on her right hand.
+Miss Mai stood and shuffled over to a sideboard where an enormous ledger book was laid out open. She made marks with a large fountain pen in it between counting out heavy coins and placing them into a soft leather satchel. While watching Miss Mai pick apart the coins, Percy noticed for the first time that she only had three fingers on her right hand.
 
 Miss Mai continued the conversation while counting as if it were no effort. "This must be quite a bit of money for you Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you will have and settling down with a nice man somewhere?"
 
@@ -317,7 +315,7 @@ Miss Mai nodded. "Unfortunately there is some truth to that. There's no sure fut
 
 "You know how the Authorities are Captain Percy. In some places they pursue everything. An honest logistician cannot ever promise there won't be interference. That's why we move things by submarine: interference is a lot less likely if they don't know the shipping is happening. In this case, I would suggest that you do your absolute best to make sure no Authority finds out this particular shipment is happening."
 
-Captain Percy sat silently looking into the depths of her coffee cup for a moment. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and the need for all the major repair work."
+Captain Percy sat silently looking into the depths of her coffee cup for a moment. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and why we need the major repair work."
 
 At the mention of the ram Miss Mai's eyebrows went up with a look of concern. "A ram on a submarine you say?"
 
@@ -327,13 +325,13 @@ Percy nodded.
 
 "What would it be doing a thousand miles from its home waters?"
 
-"That I do not know the answer to. Except, I'll tell you this Captain Percy. I hear rumors of new governing structures. Things being tried that might eventually drastically weaken the local fiefdoms and establish new flows of global order. One such experiment is a suggestion I've heard recently that certain Authorities are now granting privateers warrants that promise a bounty on captured or sunk merchant shipping operating under the aegis of certain other Authorities -- regardless of where that shipping is."
+"That I do not know the answer to. Except, I'll tell you this Captain Percy: I hear rumors of new governing structures. Things being tried that might eventually weaken the local fiefdoms and establish new flows of global order. One such experiment is a suggestion I've heard recently that certain Authorities are now granting privateers warrants that promise a bounty on captured or sunk merchant shipping operating under the aegis of certain other Authorities -- regardless of where that shipping is."
 
 "That seems likely to start a few wars."
 
-"It would. Except the rumors are that some of the most powerful Authorities are mobilizing these privateers against much weaker Authorities -- it's possible that rather than a war, what we may end up with is a new global order."
+"It would. Except the rumors are that some of the most powerful Authorities are mobilizing against much weaker Authorities. It's possible that rather than a protracted war, what we may end up with is a congealing of global power in the hands of a few Authorities. At least as far as shipping and trade are concerned."
 
-"And you're saying the sub with the ram, this _Grackle_, is one of these privateers?"
+"And you're saying the sub with the ram, this _Grackle_, might have got itself one of these privateer warrants?"
 
 "It is one possibility that would explain where and why you encountered it."
 
@@ -356,7 +354,9 @@ Percy nodded towards Miss Mai and closed the heavy door behind as she left the o
 
 [//]: # (### To the bar; hiring Cassandra)
 
-Captain Percy hummed to herself as she left Miss Mai's office and walked through the main hall of the noisy depot. She realized that her humming was resonating in her skull in harmony with the ever-present background hum of the machinery that kept the place functioning. 
+She hummed to herself as she walked through the main hall of the noisy depot. She realized that her humming was resonating in her skull in harmony with the ever-present background buzz of the machinery that kept the place functioning. 
+
+[//]: # (----- EDITED TO HERE -----)
 
 She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
 
