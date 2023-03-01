@@ -356,29 +356,27 @@ Percy nodded towards Miss Mai and closed the heavy door behind as she left the o
 
 She hummed to herself as she walked through the main hall of the noisy depot. She realized that her humming was resonating in her skull in harmony with the ever-present background buzz of the machinery that kept the place functioning. 
 
-[//]: # (----- EDITED TO HERE -----)
-
 She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
 
 The man behind the bar was yet another giant, but only in the vertical direction. Rail thin, somewhat like Bastian, except he had a paunch around the belly. Years ago Percy had had a friend who would have described him as 'a skinny-fat guy.' He was grizzled about the face, like a piece of meat that hadn't been cleaned properly before being laid down in the frying pan. He was missing an eye which he didn't bother to cover with a patch, and wearing a stained leather apron. "What cha need there lady?" he asked Percy.
 
-"Give me a house drink." She took one of her new coins from the heavy leather satchel Miss Mai had given her and laid it down on the wood of the bar. 
+"Give me something brown from that middle row there." She took one of her new coins from the heavy leather satchel Miss Mai had given her and laid it down on the wood of the bar. 
 
 As the bartender set up a glass and was leaning to pour it Percy continued the conversation despite the fact that the bartender did not particularly look like he would want to. "Actually, I'm looking to hire some crew. I have a boat, and we're short a few people. Thought you might be able to steer me in the right direction to where the hiring is done around here."
 
-"Most of the steering I do it towards the bottles," said the bartender. "You want crew you're better off down on the dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seemingly present." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. 200 meters and more."
+"Most of the steering I do it towards the bottles," said the bartender. "You want crew you're better off down on the dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seem to be present." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. 200 meters and more."
 
 "Yeah, that kind of boat is always hiring. Shit, that doesn't sound good. I'm a little desperate."
 
 The bartender squinted up the side of his face where his eye would have been considering for a few seconds. "Hrmm. Well, if yer fuckin' desperate... Bartendin' is my side-gig. My main business, and much more profitable I might add, is pimpin'."
 
-"You don't fuckin' say," said Percy into her drink. 
+"You don't fuckin' say."
 
-He pretended not to hear her. "Thing about pimpin' in a place like this is sometimes you gotta take risks on the folks ya bring over from the mainland to work. Beggars can't be choosers, ya might say. So once in a while I end up with whores I can't pimp out. Or at least not at a price that makes them worth the food they eat."
+"Thing about pimpin' in a place like this is sometimes you gotta take risks on the folks ya bring over from the mainland to work. Beggars can't be choosers, ya might say. So once in a while I end up with whores I can't pimp out. Or at least not at a price that makes them worth the food they eat."
 
 "Always difficult to balance those books, I hear ya," said Percy.
 
-"Anyway, right now I got me this waif that got off a boat a few weeks ago. But she's skinny and small. Waif-life, I say, you know what I mean?"
+"Anyway, right now I got me this chickilette that got off a boat a few weeks ago. But she's skinny and small. Waif-like, I say. You know what I mean?"
 
 Percy nodded.
 
@@ -394,21 +392,21 @@ Percy nodded.
 
 "What else can you tell me about this promising young prospect?"
 
-"Well, that's the other thing: she's got the just the saddest fuckin' face. And she's too shy. Even I can't bring meself comfortable-like for pimping her out. A pimp has got to have a heart you know."
+"Well, here's the other thing: she's got just the saddest fuckin' face. And she's too shy. Even I can't bring meself to bein' comfortable-like pimping her out. A pimp has got to have a heart you know."
 
 "So you're saying you'll let me hire her off you because she makes you too fucking sad?"
 
-The bartender shrugged. "Plus a finders-fee like." He said, and Percy knew she had made another negotiating mistake in letting the bartender see the heavy satchel full of coins she was carrying.
+The bartender shrugged. "Plus a finders-fee like," he said, and Percy knew she had made another negotiating mistake in letting the bartender see the heavy satchel full of coins she was carrying.
 
-"Thing is, I need a sonar operator. I don't care if she's a waif, but Do you think she has good ears?"
+"Thing is, I need a sonar operator. I don't care if she's tiny, but do you think she has good ears?"
 
 He shrugged again. "Well, I'll tell you this: those whores of mine have a record player in their quarters. Drives me fucking crazy, but when I tried to dispose of it I had a large-scale fuckin' whore-revolt on my hands. That little waif in particular, I noticed, listens to the fuckin' records all the time. Does that suggest anything about her ears?"
 
-"Might mean she's deaf already," said Percy. She sipped her drink. "Fuck it. It's not like I'm going into battle. If she's not completely deaf, we can have her sit sonar watch during long runs. She won't be completely useless."
+"Might mean she's deaf already." She sipped her drink. "Fuck it. It's not like I'm going into battle. If she's not completely deaf, we can have her sit sonar watch during long runs. She won't be entirely useless."
 
 "Swell," said the bartender. "I need that depressing little shade out of my life." He called down the bar to where a small group of girls were drinking from a row of shot glasses that a couple of men had purchased for them. "Cassandra! Come over here. I have someone I want you to meet."
 
-A tiny girl with stick arms and huge eyes walked towards them. She was wearing a short slip of a blue dress made of worn cotton. She had sharp fingernails, brightly painted but chipped in places.
+A short girl with stick arms and huge eyes walked towards them. She was wearing a slip of a blue dress made of worn cotton. She had sharp fingernails, brightly painted but chipped in places.
 
 As she got closer the bartender said, "This lady might want to hire you." And turned away to deal with some other customers.
 
@@ -432,15 +430,15 @@ Cassandra nodded firmly without saying anything, still looking at the floor.
 
 "But, wait... isn't working on submarines dangerous? In general, I think I'd rather live in this hole in the ground here than die in a hole out there in the sea."
 
-"It's incredibly fucking dangerous. I won't lie to you about that. But we're compensated for the danger: it pays very well, enough for us to live by our own terms. Enough to buy you out of your current job. There's also the fact that there's a limited number of people willing to go out there and carry out their lives while being encased in a steel tube and all-around surrounded by dangers and fears that would liquefy the guts of most folk. Submariners are an elite class, in their own filthy way."
+"It's incredibly fucking dangerous. I won't lie to you about that. But we're compensated for the danger: it pays very well, enough for us to live by our own terms. Enough to buy you out of your current job. That's primarily because there's a limited number of people willing to go out there and carry out their lives encased in a steel tube and surrounded by dangers and fears that would liquefy the guts of most folk. Submariners are an elite class, in their own filthy way."
 
 "What good is wealth and freedom if you are dead though?"
 
-"Look, there's dangerous and there's really fucking dangerous. You'd be mostly working sonar, at least at first. That's about as dangerous as tuning your stereo. You wouldn't have to work down in the engine room or throw lines or anything like that. Heck you couldn't lift a line even if I needed you to." Percy glanced at Cassandra's skinny arms. "You'd be facing the same base-level danger we all face on a submarine. If we are in a situation where you might die, we'll all be in that situation together. My boat has been running for decades without taking the whole crew down, and I expect she'll run for a couple more decades. That means you aren't going to die any time soon on this boat. Can you live with that?"
+"Look, there's dangerous and there's really fucking dangerous. You'd be mostly working sonar, at least at first. That's about as dangerous as tuning your stereo. You wouldn't have to work down in the engine room or throw lines or anything like that. Heck you couldn't lift a line even if I needed you to." Percy glanced at Cassandra's arms. "You'd be facing the same base-level danger we all face on a submarine. If we are in a situation where you might die, we'll all be in that situation together. My boat has been running for decades without taking the whole crew down, and I expect she'll run for a couple more decades. That means you aren't going to die any time soon on this boat. Can you live with that?"
 
 Cassandra nodded slowly.
 
-"Now I'm only giving you this little motivational speech about the glories of being a submariner once. If you take the job it's on you to make it a part of yourself, and keep your fear bottled and your mind clear when you are working. Understand? Running a boat is a lot of work and more than anything else I need a crew that can motivate their own fucked-up souls to do their jobs. It is not war, it is commerce."
+"Now I'm only giving you this little motivational speech about the glories of being a submariner once. If you take the job it's on you to make it a part of yourself, and keep your fear bottled and your mind clear when you are working. Understand? Running a boat is a lot of work and more than anything else I need a crew that can motivate their own fucked-up souls to do their jobs. It's not war, it's commerce."
 
 Cassandra looked around at the dingy canteen and then directly at Percy for the first time. "OK, I'll do it."
 
@@ -450,7 +448,7 @@ Cassandra looked around at the dingy canteen and then directly at Percy for the 
 
 Percy put a heavy hand on Cassandra's shoulder and then turned away from the bar.
 
-"Ahem!" The bartender fake-cleared his throat as he turned towards them and looked at Captain Percy with one eye and one socket. He rubbed his forefinger and thumb together in the air in front of him. 
+"Ahem!" The bartender turned towards them and looked at Captain Percy with one eye and one socket. He rubbed his forefinger and thumb together in the air in front of him. 
 
 "Right." She pulled a stack of coins out of the leather satchel, counted out more than a fair amount and stood them on the bar. She looked at Cassandra. "That was your first paycheck. Sorry it had to go to that fucking asshole, but it'll be the last one that does."
 
@@ -464,6 +462,8 @@ With a shy smile Cassandra turned to take the ramp towards the stairs to the nex
  
 
 [//]: # (### Percy meal with Shakes -- hiring him long term.)
+
+[//]: # (----- EDITED TO HERE -----)
 
  She was warm from the liquor and had a bit of a sweat breaking on her skin in the still and humid underground air. Walking downwards in the direction of the docks her eye caught the now-familiar clanking gait of Shakes coming up the slope. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
 
