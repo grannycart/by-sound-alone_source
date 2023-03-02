@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-02-26 13:00
+Last modified: 2023-03-01 22:42
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -217,7 +217,7 @@ Edits to pick up in second full pass through the book
 	* [X] Find and replace: Trinity as a name
 * When Shakes meets up with them again:
 	* [ ] confirms the identity of the Grackle
-	* [ ] confirm that he was able to tranship is last load? or do we not really care?
+	* [ ] confirm that he was able to transship is last load? or do we not really care?
 * stilt city: 
 	* [ ] when Chips leaves -- have Hemi call her by her real name
 	* [ ] Fix Sturmey:
@@ -225,6 +225,9 @@ Edits to pick up in second full pass through the book
 		* less asian,
 		* different distinction for dialog
 		* Sturmey smokes big cigars or a pipe
+	* [ ] have Shakes pull his driving gloves on with his teeth (maybe when he's ramming)
+	* [ ] Somewhere in here needs to be some kind of surprising reveal about the Grackle's chase
+		* Like, maybe they have a conversation over ship-to-ship with the Prospect or something.
 * garbage gyre:
 	* [ ] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles

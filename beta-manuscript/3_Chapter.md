@@ -463,19 +463,17 @@ With a shy smile Cassandra turned to take the ramp towards the stairs to the nex
 
 [//]: # (### Percy meal with Shakes -- hiring him long term.)
 
-[//]: # (----- EDITED TO HERE -----)
-
  She was warm from the liquor and had a bit of a sweat breaking on her skin in the still and humid underground air. Walking downwards in the direction of the docks her eye caught the now-familiar clanking gait of Shakes coming up the slope. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
 
-"Yeah, it's about time for it, eh Captain Shakes? Let me buy you that fucking meal I promised you first."
+"Yeah, it's about time for it, eh Captain Shakes? Let me buy you that meal I promised you first."
 
 "Not going to say no to any fuckin' grub."
 
 Percy turned to join Shakes in the upward direction on the ramp, and retraced her steps a short way back up the exchange floor. Across from the saloon, set back in the opposite wall was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
 
-Inside they got in line behind other patrons dressed in dingy shades of wool and leather. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming food as he tapped a long stamped-steel serving spoon against the greasy metal tray.
+Inside they got in line behind other patrons dressed in dingy shades of wool and leather. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming food as he tapped a long stamped-steel serving spoon against the metal tray.
 
-They got some of each, a mounded plate full of long-grained rice with bits of clove and chopped peas and cardamom scattered in it. Their plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a couple of coins from her satchel and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
+They got some of each, a mounded plate full of long-grained rice with bits of clove and chopped peas and cardamom scattered in it. Their plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a few of coins from her satchel, and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
 
 Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He moved the bread back to the first hand, and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth. He picked up a fork with his free hand and helped guide even more of the pile into his gullet.
 
@@ -487,9 +485,9 @@ Shakes eyes widened. He poked at the satchel with the handle end of his fork. "B
 
 "Before I do, I want to get settled up with you." She removed a handful of coins from the satchel and arranged them in a few neat stacks on the table in front of Shakes. "Is that about the hull rate for the _Gnat_?"
 
-Shakes used his fork to divide off one of the smaller stacks. "The remainder there is about right. After you cover my fuel oil resupply costs, we can all our work together settled."
+Shakes used his fork to divide off one of the smaller stacks. "The remainder there is about right. After you cover my fuel oil resupply costs, we can call our work together settled."
 
-"Right. Just pass the bill for the fuel oil over to me when you have the _Gnat_ ready to go. So the thing about this new job is, it's kinda risky. Might attract some attention from one Authority or another."
+"Right. Just pass the bill for the fuel oil over to me when you have the _Gnat_ ready to go." She paused to do her own food shoveling. "So the thing about this new job is, it's kinda risky. Might attract some attention from one Authority or another."
 
 "Mmmph," said Shakes through his mouthful of bread, "that's usually how it goes. I assumed that job is behind that sub ramming you."
 
@@ -499,13 +497,13 @@ Shakes used his fork to divide off one of the smaller stacks. "The remainder the
 
 "I'm not much for fuckin' tactics myself. I have just the one: stay small, stay low in the water, don't get fuckin' seen. It's simple and it works. Not much to think about, and I like it that way."
 
-Percy nodded. "Something like that has always been my strategy too. But for this next job, I think I might need to add a somewhat more complex facet." She shoveled a little rice into her mouth. "Remember part of our deal was that if I knew of any work I could connect you with I would?"
+Percy nodded. "Something like that has always been my strategy too. But for this next job, I think I might need to add a somewhat more complex facet." She scooped a little rice to her mouth. "Remember part of our deal was that if I knew of any work I could connect you with, I would?"
 
 "Sure. You got something already?"
 
-"Here's what I'm thinking: As I said, I'm gonna be hauling this risky fucking load -- I won't get into details about it right now, just remember that there's certain to be some Authorities who would be interested in checking the manifest. Now, I will, of course, deploy the usual tactics of keeping my boat on the down-low, running quiet, staying submerged during the day and only running on the surface at night, and so on and whatnot."
+"Here's what I'm thinking: As I said, I'm gonna be hauling this risky fucking load -- I won't get into details about it right now, just know that I'm confident certain Authorities would be interested in checking the manifest. Now, I will, of course, deploy the usual tactics of keeping my boat on the down-low, running quiet, staying submerged during the day and only running on the surface at night, and so on and whatnot."
 
-She paused for a second, considering how to best present this idea she had to Shakes.
+She paused for a second.
 
 "But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And the partner's job was to be _unstealthy_. To run as a decoy around and above the _Prospect_. Draw away the curious eye -- or ear -- so to speak. And this partner would be clean of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
 
@@ -525,7 +523,7 @@ Shakes started chewing again while he thought. "There is something appealing abo
 
 "It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed. What are you offering me exactly?"
 
-"How about two deck-crew share's worth? And a deck-crew share on this run should be pretty lucrative."
+"How about hull rate, plus two deck-crew share's worth? And a deck-crew share on this run should be pretty lucrative."
 
 [//]: # (A deck-crew share is kind of the standard pay for a run on a cargo sub. Everyone gets paid per run, and the captain and the deck boss get a much bigger share. Deck-crew shares are what most of the crew makes, evenly divided. Green crew get a much smaller share, or a flat fee offer. The engineer gets an engineers share which is a lot. Maybe equal to deck boss? The boat itself also gets a share: the boat-share. For maintenance and fuel.)
 
@@ -555,6 +553,8 @@ Shakes nodded and grinned through a mouthful of food. "Well -- partner -- who kn
  
 
 [//]: # (### Back at the Prospect in the docking slip; talking to Hemi about re-hiring Chips)
+
+[//]: # (----- EDITED TO HERE -----)
 
 At docking slip four, the hole in the deck that led down to the cargo hold of the _Prospect_ was like a giant black maw, with lips sucking against the airlock dock of the depot. It now had a number of heavy black cables and hoses draped into the hole, making it look a little like some kind of enormous dental maneuver was being worked. Captain Percy's eye scanned from where the hoses and wires were attached to pipes and terminals mounted on the walls of the docking bay over the edge of the hole. She leaned over and looked down into the cargo hold where the cables and hoses were lashed together and ran in a hulking pile up the middle of the cargo hold back into the deeper parts of the ship where they were hopefully connected to the battery terminals and fuel tanks that so desperately needed to be topped up. At the front of the cargo hold, Chips was overseeing a repair crew from the dock that was working on redoing and reinforcing the desperate and messy repair welds she had made earlier.
 
