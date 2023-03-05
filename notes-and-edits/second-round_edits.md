@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-05 11:21
+Last modified: 2023-03-05 16:31
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -275,6 +275,9 @@ Edits to pick up in second full pass through the book
 	* consider adding a note about needing an editor/ beta version. (see comment in preface file)
 	* remove preface to the preface
 	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+	* add something about how i's under on open liiscence and will remain s (possibly say something about wanting to give back to open source community but I'm not much of a programer. and this book was writte entirely with open source tools.)
+		* and if people have ideas that they wand to add or cange to the book I encourage them to run with it; as long as they ollow the stipulations of theno commercial use license. 
+		* (pretty sure thisnote is in promotion file too)
 
 
 ## Feedback from test readers
@@ -430,6 +433,8 @@ Edits to pick up in second full pass through the book
 	* This is basically impossible
 * [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 	* Is C right? Should I cut the whole thing before the depot and start it there?
+* [ ]  consider finishing a version with everything in -- a directors cut -- after committing that cut out all the bigger scenesbeing cut
+	* keep track of pages to be cut as you edit
 
 
 
