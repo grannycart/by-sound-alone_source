@@ -554,13 +554,11 @@ Shakes nodded and grinned through a mouthful of food. "Well -- partner -- who kn
 
 [//]: # (### Back at the Prospect in the docking slip; talking to Hemi about re-hiring Chips)
 
-[//]: # (----- EDITED TO HERE -----)
-
-At docking slip four, the hole in the deck that led down to the cargo hold of the _Prospect_ was like a giant black maw, with lips sucking against the airlock dock of the depot. It now had a number of heavy black cables and hoses draped into the hole, making it look a little like some kind of enormous dental maneuver was being worked. Captain Percy's eye scanned from where the hoses and wires were attached to pipes and terminals mounted on the walls of the docking bay over the edge of the hole. She leaned over and looked down into the cargo hold where the cables and hoses were lashed together and ran in a hulking pile up the middle of the cargo hold back into the deeper parts of the ship where they were hopefully connected to the battery terminals and fuel tanks that so desperately needed to be topped up. At the front of the cargo hold, Chips was overseeing a repair crew from the dock that was working on redoing and reinforcing the desperate and messy repair welds she had made earlier.
+At docking slip four, the hole in the deck that led down to the cargo hold of the _Prospect_ was like a giant black maw, with lips sucking against the airlock dock of the depot. It now had a number of heavy cables and hoses draped into the hole, making it look a little like some kind of enormous dental maneuver was being worked. Captain Percy's eye traced the hoses and wires from where they were attached to fixtures mounted on the walls of the docking bay down over the edge of the hole. She leaned and looked down into the cargo hold where the cables and hoses were lashed together and ran in a hulking pile up the middle of the space back into the deeper parts of the ship where they were hopefully connected to the battery terminals and fuel tanks that so desperately needed to be topped up. At the front of the cargo hold, Chips was overseeing a repair crew from the dock that was working on redoing and reinforcing the messy repair welds she had made earlier.
 
 Percy climbed down the ladder to the catwalk and made her way over and down to the deck of the cargo hold. From there she went aft into the forward battery room where she found Hemi with a dock worker checking the cables hooked up to the battery bank that were recharging the batteries from the docking bay power system.
 
-"Hemi!" Percy yelled. "What is that fucking woman still doing on this boat?" She said pointing forward to where Chips was standing. "Didn't I say she was to be off as soon as we hit the fucking dock?"
+"Hemi!" Percy said, "what is that fucking woman still doing on this boat?" She pointed forward to Chips. "Didn't I say she was to be off as soon as we hit the fucking dock?"
 
 "Come here." Hemi led her further back into the battery room. "I convinced her to stay long enough to oversee the repairs. She did not want to be blamed if those guys did a lousy job and the seam burst open again later. So she is just making sure they fix it right."
 
@@ -574,7 +572,7 @@ Percy climbed down the ladder to the catwalk and made her way over and down to t
 
 Percy considered. "OK... she oversees the repairs, we pay her up to date, and _then_ she's fucking gone."
 
-"Percy," Hemi said looking directly at her, "we need her. You need to apologize and re-hire her. We can not leave this depot with no engineer and no welder aboard. And in case you had not noticed, there is not exactly a surfeit of talented crew waiting to be hired around this depot."
+"Percy," Hemi said looking directly at her, "we need her. You need to re-hire her. We can not leave this depot with no engineer and no welder aboard. And in case you had not noticed, there is not exactly a surfeit of talented crew waiting to be hired around this depot."
 
 "Motherfucker." She kicked the battery shelving with her boot. "Fuck! You're right. You're always fucking right and I fucking hate it when you're fucking right. I'll go see if I can re-hire that little fucknut."
 
@@ -582,7 +580,7 @@ Percy considered. "OK... she oversees the repairs, we pay her up to date, and _t
 
 "Speaking of work, remember I promised a plum job for us at this depot? Well I just confirmed it up on the exchange floor. For the moment, we're flush."
 
-"Excellent," said Hemi though with a note of doubt, knowing that a cargo job that paid well was likely to be neither easy nor safe.
+"Excellent," said Hemi, though with a note of doubt knowing that a cargo job that paid well was likely to be neither easy nor safe.
 
 "We also got some free advice to be gone from the depot within 48 hours." She handed him the leather satchel full of coins. "Here's the money. You know how this goes. Spend what you have to to get us out of here quickly."
 
@@ -631,6 +629,8 @@ Percy walked away thinking she would do her best to just stay out of Chips' way 
  
 
 [//]: # (### disconnecting the Gnat)
+
+[//]: # (----- EDITED TO HERE -----)
 
 At the other end of the cargo hold Captain Percy found Shakes had made his way back from the cafe and was having a conversation with Hemi through the hatch into the forward battery compartment. He stepped a little to the side as she came up so she could join in.
 
