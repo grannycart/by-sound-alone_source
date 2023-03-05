@@ -235,7 +235,7 @@ Hemi looked at Percy. He was not going to level off the dive until she said so.
 
 "Ah ya fucking fuckturds!" Chips voice came up from the sonar compartment where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking mountain trolls welded in the cargo hold? Because that's what it fucking looks like to fucking me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
 
-Captain Percy pulled out a cigarillo with the sudden realization that she had not had one since the last time the _Prospect_ was moving. "For fuck's sake Chips! If it's a choice between going deep or being fucking torpedoed, we're going deep." She sucked on her cigarillo and thought came to her that Chips probably was not totally wrong about the quality of the welding work in the cargo hold. "But... let's level her the fuck off Gregory."
+Captain Percy pulled out one of the thin cheroots Gergory had gotten for her with the sudden realization that she had not smoked since the last time the _Prospect_ was moving. "For fuck's sake Chips! If it's a choice between going deep or being fucking torpedoed, we're going deep." She sucked on her cheroot and thought came to her that Chips probably was not totally wrong about the quality of the welding work in the cargo hold. "But... let's level her the fuck off Gregory."
 
 "Ah fuck! Ya fuckheads are going to want the fuckin' diesels any fucking minute now too, I'm sure --- and they're in fuckin' pieces." Chips smacked her hand against the bulkhead and crawled back down towards engineering.
 
@@ -445,7 +445,7 @@ Hemi looked at her incredulously. Hemi was hardly ever kidding. "Apparently with
 
 "It is certainly not a job I would ever want. I prefer a measure of certainty in my work."
 
-Percy lit a cigarillo. Hemi looked up at the dark gray sky, mostly obscured by cloud cover.
+Percy lit a cheroot. Hemi looked up at the dark gray sky, mostly obscured by cloud cover.
 
 "How's the fucking navigation going?" Percy exhaled a long stream of smoke that was caught up by the wind and tied into the diesel exhaust behind them.
 
@@ -761,7 +761,7 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 Hemi picked up a spoon and stirred his coffee. 
 
-Captain Percy lit a cigarillo. "Shit." She said. "If they know we've got weapons parts on board, I'm sure they'll consider that justification for shooting to sink us rather than trying to get us to surface for a fucking inspection."
+Captain Percy lit a cheroot. "Shit." She said. "If they know we've got weapons parts on board, I'm sure they'll consider that justification for shooting to sink us rather than trying to get us to surface for a fucking inspection."
 
 "Oh," said Shakes, "I didn't tell you the best fuckin' part yet... So after they finish questioning me, I discreetly --- and as quickly as I could --- started prepping the _Gnat_ to leave. And as I'm on the dock getting some cans of food to load into the hold, I see the commander of the Authority sub climb up out of their sub at the slip they had commandeered --- the commander is a real round guy, with only one fucking arm. He wears an Authority uniform with all the trimmings --- it looks as if he wears his full fucking dress uniform every day on board the sub! He takes a squad of goons --- maybe twenty of the fuckers --- and they go up the dock and out towards the exchange floor.
 

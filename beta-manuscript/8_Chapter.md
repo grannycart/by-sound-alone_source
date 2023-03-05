@@ -379,7 +379,7 @@ A full minute passed.
 
 Cassandra sighed. "I can hear them now. The pursuing sub is still after us. It is definitely not sinking. As far as I can tell, it isn't even fucking damaged."
 
-"Fuck me!" Percy spat and lit a cigarillo. "It sounded so fuckin' good. I thought we'd at least have taken a bit of wind out of their fuckin' sails." This she said mostly to herself.
+"Fuck me!" Percy spat and lit a cheroot. "It sounded so fuckin' good. I thought we'd at least have taken a bit of wind out of their fuckin' sails." This she said mostly to herself.
 
 
 [//]: # (### Another torpedo fired at the prospect; hits derelict)

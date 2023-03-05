@@ -32,7 +32,7 @@ The _Gnat_ was off and the _Prospect_ submerged and running at depth before the 
 
 One hundred meters below him in the _Prospect_, it was nearly silent as the crew eased into their more relaxed daytime shifts. Captain Percy was in the control room smoking with Bastian, and Cassandra had just woken when the boat dove, and was making her way with a coffee to the sonar station for the long day watch.
 
-The first few hours passed with dull regularity. Shakes had nothing to report during diesel stops, and by her third cigarillo Percy was settling into the comfortable state of mind-blanking boredom that she was her most familiar association with life aboard submarines.
+The first few hours passed with dull regularity. Shakes had nothing to report during diesel stops, and by her third cheroot Percy was settling into the comfortable state of mind-blanking boredom that she was her most familiar association with life aboard submarines.
 
 [//]: # (Mid-morning: day 3, run to Stilt City)
 By mid-morning of the third day out from the depot, Shakes was shutting the diesel of the _Gnat_ down for the third time that morning to check in with the _Prospect_. 
@@ -99,7 +99,7 @@ After a few minutes of listening Hemi reported to Percy: "it... seems like it is
 
 "It is very difficult to hit such a small fast-moving target as the _Gnat_ with a torpedo. Though the _Gnat's_ engine is so loud that it is doubtful Shakes would hear an incoming torpedo. Hopefully he is experienced enough to make random course changes every 5 miles or so to make aiming a torpedo more challenging..." Hemi looked doubtful.
 
-"Well, keep the fuck on them." Said Percy. "Let me know if anything changes, or what the final fucking result is." She stuck a cigarillo between her lips and started climbing the ladder to the control room.
+"Well, keep the fuck on them." Said Percy. "Let me know if anything changes, or what the final fucking result is." She stuck a cheroot between her lips and started climbing the ladder to the control room.
 
 "OK Captain Percy." Said Cassandra.
 
@@ -202,7 +202,7 @@ Owen and Bastian nodded. Owen slipped down the ladder to the sonar compartment a
 
 "OK Bastian, give us a little more throttle. I am adjusting the planes for some up-angle."
 
-The bow of the boat rose slowly ahead of them, and Percy, being the only one standing, leaned into the angle. She found her pack of cigarillos tucked into the wall joists, and pulled one out to light it. Bastian slipped a cigarette from his shirt pocket and lit it off Percy's coal.
+The bow of the boat rose slowly ahead of them, and Percy, being the only one standing, leaned into the angle. She found her pack of cheroots tucked into the wall joists, and pulled one out to light it. Bastian slipped a cigarette from his shirt pocket and lit it off Percy's coal.
 
 "Hemi, Another degree on the fuckin' bow, I should think." Said Percy.
 
@@ -223,7 +223,7 @@ The depth gauge landed firmly on its zero pin and sat there. The boat rolled slo
 
 [//]: # (### The Prospect rolls over)
 
-All of these movements were well beyond the everyday range of motion for the _Prospect_, which typically experienced little more than a gentle roll in the course of a normal day of travel. But Captain Percy knew her boat very well after all these years. Even during a dramatic maneuver like blowing out the main ballast tanks the boat was well within its capabilities. Hemi and Bastian might have nervous looks on their faces, but Percy gripped her strap and casually smoked her cigarillo as they took the express route to the surface.
+All of these movements were well beyond the everyday range of motion for the _Prospect_, which typically experienced little more than a gentle roll in the course of a normal day of travel. But Captain Percy knew her boat very well after all these years. Even during a dramatic maneuver like blowing out the main ballast tanks the boat was well within its capabilities. Hemi and Bastian might have nervous looks on their faces, but Percy gripped her strap and casually smoked her cheroot as they took the express route to the surface.
 
 When the boat bobbed back downwards and began to settle on the surface, she was about to raise the periscope and have Chips prime the diesels for starting when she felt the deck below her feet move in a way that she was not expecting.
 
@@ -606,7 +606,7 @@ Bastian knew better than to ask, but Owen did not. "What's our plan Captain?"
 
 Bastian opened a valve on the tank trim control panel slightly further to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out for the palm-sized control wheel.
 
-Percy lit a cigarillo and put it between her lips. "Do not make any moves." She said to Owen and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the sub with the ram bounced off the _Prospect's_ hull and rang through the crew's ears.
+Percy lit a cheroot and put it between her lips. "Do not make any moves." She said to Owen and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the sub with the ram bounced off the _Prospect's_ hull and rang through the crew's ears.
 
 "They are 734 meters behind us, rear port quarter. They are at 150 meters deep." Hemi told Percy, reading off the ranging equipment. "Do you think they will fire another torpedo?"
 
@@ -632,7 +632,7 @@ Hemi nodded.
 
 "Any other features we can use? A relatively shallow place we can hide on the bottom again, like the tablemount?" Hemi asked.
 
-Percy took a long draft off her cigarillo and then leaned closely over the chart. She pulled down the magnifier and guided her vision through it with the tips of her fingers, holding the burning coal of the cigarillo just off the glass. "Ugh. there's nothing but fuckin' deep-sea. Bottomless for hundreds of miles in every direction."
+Percy took a long draft off her cheroot and then leaned closely over the chart. She pulled down the magnifier and guided her vision through it with the tips of her fingers, holding the burning coal of the cheroot just off the glass. "Ugh. there's nothing but fuckin' deep-sea. Bottomless for hundreds of miles in every direction."
 
 "They are likely looking at the same chart and figuring they can simply wait out our batteries. They know we do not have a full charge since they caught us on the surface, and figure anything less than 20 hours comes out in their favor if they are patient about it." Said Hemi.
 
@@ -820,7 +820,7 @@ Another ping smacked against the _Prospect's_ hull. But this one sounded immedia
 
 "That's fucking impossible Hemi, there's nothing but deep water..." In the control room she was looking at the depth-under-keel gauge, which suddenly in the wake of the ping had stood up from the 'bottomless' pin and was now showing just 96 meters. She watched the gauge and it was slowly, slowly rising, like a gently slope coming up under them.
 
-Percy lit a cigarillo and stared at the gauges.
+Percy lit a cheroot and stared at the gauges.
 
 "Another tablemount?" Bastian asked.
 
@@ -846,7 +846,7 @@ After hours spent staring at the wall of dials in front of him, with little blac
 
 Bastian quietly wrapped his long thin fingers around the throttle control, ready to yank it back to reverse the motors... perhaps before Percy even asked him to. His other hand reached out in front of him and pressed palm-forward against the steel of the console, in a near-subconscious gesture to brace himself.
 
-Captain Percy stood behind them, one arm slung above her with her wrist twisted into the overhead strap. Her other hand held the cigarillo, aflame, with a long thin string of smoke rising upwards at a slant angle relative to the orientation of the control room in the steeply diving boat. She stared at the depth-under-keel gauge.
+Captain Percy stood behind them, one arm slung above her with her wrist twisted into the overhead strap. Her other hand held the cheroot, aflame, with a long thin string of smoke rising upwards at a slant angle relative to the orientation of the control room in the steeply diving boat. She stared at the depth-under-keel gauge.
 
 Seconds later that gauge tapped the zero pin. 
 
@@ -1014,7 +1014,7 @@ Percy called down to Bastian to start the engines, push the boat up to its maxim
 
 "Alright." Said Hemi. "I will be back in a few minutes with Herschel."
 
-Percy watched Hemi's wet, tweed-covered bulk disappear down the ladder and through the hatch into the control room. She lit a cigarillo and took in deep breaths of damp, smokey air. A sudden wave of exhaustion passed through her.  She looked at her hands gripping the fairing of the sail --- the black grime of her work ground into the seams of her knuckles and the cigarillo smoking between her fingers. The coal of the tobacco glowed robustly now that the _Prospect's_ movement was pushing some wind across it. She'd had only a few hours of sleep and no relent from the tension of being pursued since they left the depot days ago. The warm fog enveloped her and gave her a sense of cover and safety that she realized now she had missed and desperately needed.
+Percy watched Hemi's wet, tweed-covered bulk disappear down the ladder and through the hatch into the control room. She lit a cheroot and took in deep breaths of damp, smokey air. A sudden wave of exhaustion passed through her.  She looked at her hands gripping the fairing of the sail --- the black grime of her work ground into the seams of her knuckles and the cheroot smoking between her fingers. The coal of the tobacco glowed robustly now that the _Prospect's_ movement was pushing some wind across it. She'd had only a few hours of sleep and no relent from the tension of being pursued since they left the depot days ago. The warm fog enveloped her and gave her a sense of cover and safety that she realized now she had missed and desperately needed.
 
 Hemi reappeared on the bridge of the sail, cupping Herschel in one big brown hand as he awkwardly climbed the ladder. The bird looked quite content there. One of Herschel's feet hung out through Hemi's fingers and had a small steel band with an even tinier cylinder attached to it. Percy instantly had a vision of how a few moments ago huge Hemi must have been hunched over the galley table printing extremely small letters with a very sharp pencil on a short roll of thin paper. She regretted missing that.
 

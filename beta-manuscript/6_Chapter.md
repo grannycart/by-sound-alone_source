@@ -782,7 +782,7 @@ Ten minutes later she got the control room's attention again. "Captain Percy, th
 
 Hemi shrugged. "10, 20 minutes maybe?"
 
-Percy took her pack of cigarillos from the wall and put one to her lips and lit it. She smoked it rapidly, repeatedly raising and lowering the hand that held it. She put her other hand up and tightly wrapped it in the hanging leather strap. She never looked away from the depth-under-keel gauge --- willing it to climb.
+Percy took her pack of cheroots from the wall and put one to her lips and lit it. She smoked it rapidly, repeatedly raising and lowering the hand that held it. She put her other hand up and tightly wrapped it in the hanging leather strap. She never looked away from the depth-under-keel gauge --- willing it to climb.
 
 Bastian took one hand off the stainless dive plane control wheel at a time and wiped the moisture of his palms on his pants. Hemi patted his shoulder with a heavy hand.
 
@@ -856,7 +856,7 @@ Percy stared at the depth gauge, and hesitated. But she knew there was only one 
 
 Without comment, Bastian turned the dive wheel again. The boat was still trimmed heavy toward the bow, so it sank almost immediately. Percy grabbed the leather strap again. The depth gauge began a rapid climb, pushing quickly past 215 meters --- the normal operating limit of the _Prospect_.
 
-Percy lit up yet another cigarillo and stared at the depth gauge without blinking. At 225 meters she called out to Hemi. "Are they still coming Hemi?"
+Percy lit up yet another cheroot and stared at the depth gauge without blinking. At 225 meters she called out to Hemi. "Are they still coming Hemi?"
 
 "Straight on Sylvia." Said Hemi from below. "They are coming down at us. About 300 meters away from us now. They will be on us in less than 30 seconds."
 

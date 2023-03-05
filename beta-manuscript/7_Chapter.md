@@ -437,13 +437,13 @@ In half an hour the eastern sky they moved towards had lightened but the western
 
 "This is not going to work Sylvia. They are just going to get closer and try again." Said Hemi.
 
-"I fucking know!" She lit a cigarillo and sucked at it for a long time, the lingering petroleum smell in the air blending with the harsh tobacco smoke as it made its way into her lungs. "OK. Fuck. Bastian, keep watching."
+"I fucking know!" She lit a cheroot and sucked at it for a long time, the lingering petroleum smell in the air blending with the harsh tobacco smoke as it made its way into her lungs. "OK. Fuck. Bastian, keep watching."
 
 Percy climbed down to the control room, and flipped off the diesels, had Hemi throttle the boat back to zero, and powered down the bilge pumps.
 
 "To take a chance on firing from that distance, they were counting on the fact that we were making so much noise. We just got fucking lucky that there was a big steel target between us and them for the torpedo to find." 
 
-She pulled on her cigarillo and stared blankly for a minute.
+She pulled on her cheroot and stared blankly for a minute.
 
 "Without the bilges we will not remain long on the surface." Hemi broke her reverie to remind her of the other impending danger they faced.
 
@@ -468,7 +468,7 @@ Hemi returned and reported that he successfully got a stumbling and groggy Owen 
 
 [//]: # (### The Prospect hangs out silently on the surface while the sub with the ram searches)
 
-Percy spent the next few hours in the control room sitting in the dive planes control chair and smoking one cigarillo lit off another as the cargo hold once again took in sea water and the bow of her boat slipped slowly further down into the water.
+Percy spent the next few hours in the control room sitting in the dive planes control chair and smoking one cheroot lit off another as the cargo hold once again took in sea water and the bow of her boat slipped slowly further down into the water.
 
 Hemi would call up a report from sonar every ten minutes or so. The first hour passed quickly with Hemi's reports describing their pursuer's continued movement towards them. But Shakes' slow, noisy run off to the southeast seemed to have worked, and the sub with the ram adjusted its course to follow him. They were moving steadily away from the _Prospect's_ location.
 
