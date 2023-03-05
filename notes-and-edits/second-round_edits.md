@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-01 22:42
+Last modified: 2023-03-05 11:21
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -185,13 +185,6 @@ Edits to pick up in second full pass through the book
 	* pretty sure I HAVE this, confirm
 * [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
 	* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
-* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
-	* Maybe with shakes over ship-to-ship, just to keep it interesting
-	* Maybe Shakes wonders if it's moral to run weapons
-	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
-	* Though that rebel group might be the oppressors in 6 months
-	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
-	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 * depot:
 	* [-] Make Vickers the bartender at the depot pub? Make it the nub pub?
 		* I think I never mention him by name. So, I think instead he's just going to be Vicker's ol' concept of the skinny-fat guy.
@@ -218,6 +211,11 @@ Edits to pick up in second full pass through the book
 * When Shakes meets up with them again:
 	* [ ] confirms the identity of the Grackle
 	* [ ] confirm that he was able to transship is last load? or do we not really care?
+* storm:
+	* [ ] Probably would make more sense for Owen to be the one who gets killed during the storm.
+		* you don't need him for the adultery motivation any more
+		* Chips is clearly more attached to Owen than Gregory.
+		* This leaves them without an engineer when Chips leaves, but I'm not sure they make much use of one for the rest of the book.
 * stilt city: 
 	* [ ] when Chips leaves -- have Hemi call her by her real name
 	* [ ] Fix Sturmey:
@@ -228,16 +226,32 @@ Edits to pick up in second full pass through the book
 	* [ ] have Shakes pull his driving gloves on with his teeth (maybe when he's ramming)
 	* [ ] Somewhere in here needs to be some kind of surprising reveal about the Grackle's chase
 		* Like, maybe they have a conversation over ship-to-ship with the Prospect or something.
+		* Could be that you find out what the magnetic mines are actually _for_  
+			* terrorists going after innocent lives, so they have to question their own work?
+			* or supplying freedom fighters, thus the particular aggression of the grackle?
+			* something else? more subtle??
+		* [ ] So this note could go in at this point maybe: Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+			* Maybe with shakes over ship-to-ship, just to keep it interesting
+			* Maybe Shakes wonders if it's moral to run weapons
+			* But Percy points out that they might be supplying a rebel group fighting for their freedoms
+			* Though that rebel group might be the oppressors in 6 months
+			* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
+			* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
+* spotted from above:
+	* [ ] delete either the spotting, or the suspended in the water column and damaged sequence, or both
+		* Might be better at this point to move right to the garbage gyre
+* bicycle race:
+	* [ ] Keep this? (I'm sort of inclined to, until a professional editor tells me to remove it)
+	* [ ] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
+	* [ ] There is a reference to the bicycles chained up in the hold at word 4427
 * garbage gyre:
 	* [ ] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles
 		* maybe getting towards the gargbage gyre -- ships that have sunk
 		* like the dream I had
 	* [ ] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
-* bicycle race:
-	* [ ] Keep this? (I'm sort of inclined to, until a professional editor tells me to remove it)
-	* [ ] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
-	* [ ] There is a reference to the bicycles chained up in the hold at word 4427
+* Final bbq scene: 
+	* [ ] see Shakes' notes below
 * [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* See C's note on beefing up Owen character to be more significant
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
@@ -245,7 +259,6 @@ Edits to pick up in second full pass through the book
 	* though maybe this human relations element is covered by the fight with Chips
 * [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 	* I don't think this will make it into the first book or short story
-* [ ] Final bbq scene: see Shakes' notes below
 * [X] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
 	1. Tablemount
 	2. The _Gnat_
@@ -258,7 +271,8 @@ Edits to pick up in second full pass through the book
 	* (Consider making much shorter chapters -- maybe breaks by scene?)
 	* (Or, make the current chapters "sections" and then subdivide with unlabeled dividers)
 * [ ] preface:
-	* move to the end, make it an afterword
+	* move to the end, make it an afterword -- or just see comment in preface file about telling people right off they don't have to read it.
+	* consider adding a note about needing an editor/ beta version. (see comment in preface file)
 	* remove preface to the preface
 	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 

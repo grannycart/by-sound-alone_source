@@ -632,13 +632,13 @@ Percy walked away thinking she would do her best to just stay out of Chips' way 
 
 [//]: # (----- EDITED TO HERE -----)
 
-At the other end of the cargo hold Captain Percy found Shakes had made his way back from the cafe and was having a conversation with Hemi through the hatch into the forward battery compartment. He stepped a little to the side as she came up so she could join in.
+At the other end of the cargo hold Captain Percy found Shakes had made his way back from the cafe and was having a conversation with Hemi through the hatch into the forward battery compartment. He stepped a little to one side as she came up so she could join in.
 
 "Captain Percy. Hemi and I are talking about disconnecting my boat from the _Prospect_."
 
 "You got the _Gnat_ refueled already?"
 
-"Fuck naw," said Shakes through a mouthful of oozing leaves. "But if you look back toward the end of the battery compartment, to the hatch down to the _Gnat_, you can see we've still got the _Gnat's_ batteries connected up to the circuit. That means since we've been charging the _Prospect's_ batteries," he nodded toward the heavy cables hanging from the _Prospect's_ cargo hatch and running up the middle of the cargo hold, "we've been feeding the _Gnat_ juice too. Hemi here figures there's enough charge on now that I could move the _Gnat_ to its own slip, and refuel there. ...Sending the fuckin' bill to y'all of course."
+"Naw," said Shakes through a mouthful of oozing leaves, "but if you look back toward the end of the battery compartment, to the hatch down to the _Gnat_, you can see we've still got the _Gnat's_ batteries connected up to the circuit. That means since we've been charging the _Prospect's_ batteries," he nodded toward the heavy cables hanging from the _Prospect's_ cargo hatch and running up the middle of the cargo hold, "we've been feeding the _Gnat_ juice too. Hemi here figures there's enough charge on now that I could move the _Gnat_ to its own slip, and refuel there. ...Remembering to send the bill to y'all of course."
 
 Hemi nodded, "with that mating collar we added, you should be able to dock at one of the regular slips for small boats."
 
@@ -646,7 +646,7 @@ Hemi nodded, "with that mating collar we added, you should be able to dock at on
 
 Percy looked at Hemi. "Do we have more use for the _Gnat_ now Hemi?"
 
-"As a spare battery bank? No. Keeping it connected it just slowing down our own charging process."
+"As a spare battery bank? No. Keeping it connected it just slows down our own charging process."
 
 "Alright then," said Percy, "get that leech off my fuckin' boat."
 
@@ -663,9 +663,9 @@ Shakes steered the _Gnat_ further down the docking bay, and got it mated up to s
 
 [//]: # (### Hemi and Percy have dinner)
 
-Refueling, recharging, and repairs were busily carried out over the next six hours. Captain Percy was uncomfortable with how many people were coming and going -- and crawling around in -- her boat. In the long expanses of time that she lived inside this steel tube, during most of it she knew exactly who was aboard her submarine. But in dock there was unusual and discomforting open access to her boat. Just another reason to be on the move, as far as she was concerned.
+Refueling, recharging, and repairs were busily carried out over the next six hours. Captain Percy was uncomfortable with how many people were coming and going -- and crawling around -- inside her boat. In the long expanses of time that she lived in this steel tube, during most of it she knew exactly who was aboard her submarine. But in dock there was unusual and discomforting open access to her boat. Just another reason to be on the move, as far as she was concerned.
 
-All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. Hell, with the damage to the hull the _Prospect_ should really go into dry dock for serious repairs -- but that required a monetary flushness that was far beyond a single well-paid job, even if they had no limitations on their time at all. 
+All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. Hell, with the damage to the hull, the _Prospect_ should really go into dry dock for serious repairs -- but that required a monetary flushness that was far beyond a single well-paid job, even if they had no limitations on their time at all. 
 
 Getting the boat ready to go out again so quickly was not just expensive, it also meant cutting some corners that Percy was not happy about. The repairs to the hull continued to be a foul mess of patches and half-competent welds. Through Chips' streaming curses from the bow Percy got the impression that Chips felt she had done a better job welding underwater while the boat was moving than this whole team of ruddy thick-fingered men were doing with the boat dry and steady.
 
@@ -683,7 +683,7 @@ Percy nodded.
 
 "And we should take on some more food, refill the fresh-water tanks, and lay in a normal spread of spare parts..."
 
-"I did try to start buying parts earlier today but got sidetracked by the job offer. Put Gregory on securing our food stocks. And tell him I need more cigarillos."
+"I did try to start buying parts earlier today but got sidetracked discussing the job offer. Put Gregory on securing our food stocks. And tell him I need more cigarillos."
 
 Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that lay next to his plate. "You are sure about this job Sylvia?"
 
@@ -699,9 +699,9 @@ Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that la
 
 "Chips finished up repairs an hour or two ago -- at least as repaired as could be with the resources available here -- and the bilge is pumped dry. I think we can start loading cargo. Though if we are hauling explosives you might want to pack in some soft batting first."
 
-"I'm sure they have been thoroughly packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you're sure they _won't_ go off if someone walks by a crate with a heavy socket wrench or something."
+"I'm sure they have been thoroughly packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you -- Hemi -- are sure they won't go off if someone walks by a crate with a heavy socket wrench or something."
 
-There was a tap of someone's knuckle bones on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap." He pulled a paper packet from his pocket and tossed it to Percy. "They don't have the cigarillos you like, so I got you a carton of these cheroots."
+There was a tap of someone's knuckle on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap." He pulled a paper packet from his pocket and tossed it to Percy. "They don't have the cigarillos you like, so I got you a carton of these cheroots."
 
 Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough fuckin' smokes. Oh well. Thanks Gregory." 
 
@@ -716,9 +716,9 @@ Hemi forked his last bite of meat and squeezed his bulk out of the tight galley 
 
 [//]: # (### Loading the magnetic warheads)
 
-They climbed up the ladder from the catwalk to the depot docking bay to find dozens of large and molding wooden crates stacked up around the open hatch into the _Prospect's_ cargo hold. The sides of the crates were stamped with "XL Industries" and "CAUTION!" Apparently XL Industries knew better than to put the word "EXPLOSIVES" on their packing materials with the risk that would bring of attracting unnecessary attention during an Authority inspection. But XL Industries still felt that anyone handling their products should have a heads up that they should not just be tossed around casually.
+They climbed up the ladder from the catwalk to the depot docking bay to find dozens of large and molding wooden crates stacked up around the open hatch into the _Prospect's_ cargo hold. The sides of the crates were stamped with "XL Industries" and "CAUTION!" Apparently XL Industries knew better than to put the word "EXPLOSIVES" on their packing materials with the risk that would bring of attracting unnecessary attention during an inspection. But XL Industries still felt that anyone handling their products should have a heads up that they should not just be tossed around casually.
 
-Making their way about the crates were a half dozen or so dock workers -- more huge swarthy men wearing moth-eaten tweed and leather suits chomping on various forms of tobacco or seeds. They swarmed around a large push cart stacked high with the wooden "Caution" crates. They were in the process of unloading the cart, lifting the crates by chains suspended from a sliding hoist that hung from anchor points welded to the roof of the depot's docking bay tube. This sliding hoist would be used to lower the crates down into the cargo hold of the _Prospect_. A couple of men climbed into the hold to make their way down to the deck of the cargo hold where they would receive the lowered crates.
+Making their way about the crates were a half dozen or so dock workers -- more huge swarthy men wearing moth-eaten tweed and leather suits chomping on various forms of tobacco or seeds. They swarmed around a large push cart stacked high with the wooden "Caution" crates. They were in the process of unloading the cart, lifting the crates by chains suspended from a sliding hoist that hung from anchor points welded to the roof of the depot's docking bay tube. This sliding hoist would be used to lower the crates down into the cargo hold of the _Prospect_. A couple of men made their way down to the deck of the cargo hold where they would receive the lowered crates.
 
 A dock worker approached Percy. He was wearing a worn bowler hat and was among the smallest men Percy had seen since they docked -- his eyes were almost even with hers and were surrounded by round-framed glasses.
 
@@ -734,9 +734,9 @@ Percy took the pen and scrawled her illegible name into the blank.
 
 "Yeah, Hemi put your scrawl on that fucking thing."
 
-Hemi adjusted his thin-framed glasses and more studiously scanned over the contract before he signed the witness blank. The man tore off a carbon copy and held it out to Percy. Hemi took it and folded it and put it into his inside jacket pocket.
+Hemi adjusted his glasses and more studiously scanned over the contract before he signed the witness blank. The man tore off a carbon copy and held it out to Percy. Hemi took it and folded it and put it into his inside jacket pocket.
 
-By the time this was done the dock crew already had the first crate in a sling and hoisted by chains and hanging out over the _Prospect's_ open cargo hold. The chain passed through a series of heavy iron wheels to a fat winch mounted to the wall of the docking bay. The chains looked like they were straining with tension at the edge of their capacity -- explosives were never a light cargo. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' winch now!" He yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect's_ cargo hold.
+By the time this was done the dock crew already had the first crate in a sling suspended by chains and hanging out over the _Prospect's_ open cargo hold. The chain passed through a series of iron wheels in the hoist to a fat winch mounted to the wall of the docking bay. The chains looked like they were straining with tension at the edge of their capacity -- explosives were never a light cargo. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' winch now!" He yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect's_ cargo hold.
 
 "Gregory my attractive friend," Percy said, "go down to the cargo hold deck and make sure those goons are stowing things in a way that won't leave the boat totally fuckin' untrimmable."
 
@@ -748,9 +748,9 @@ Gregory was making sure the crates were being stacked, stowed, and lashed down i
 
 [//]: # (### Cassandra arrives at the Prospect)
 
-In the middle of the loading Cassandra approached, a large canvas rucksack slung on the thin frame of her body. She also held large overly-stuffed canvas satchels in each hand. She had apparently taken Percy's advice, and now wore thick duck pants and a button down shirt made of thick cotton, though the new clothes hung loosely on her. Percy was happy to see she had also procured some thick rubber-soled shoes. That Cassandra had managed to put together some reasonable work wear in such a short time suggested good things to Captain Percy about Cassandra's future aboard the boat. 
+In the middle of the loading Cassandra approached, a large canvas rucksack slung on the thin frame of her body. She also held over-stuffed canvas satchels in each hand. She had apparently taken Percy's advice, and now wore duck pants and a button down shirt made of thick cotton, though the new clothes hung loosely on her. Percy was happy to see she had also procured some rubber-soled boots. That Cassandra had managed to put together some reasonable work wear in such a short time suggested good things to Captain Percy about Cassandra's future aboard the boat. 
 
-Percy was always on the lookout for little signs that a crew member might last beyond a single run. Green crew came and went on submarines like late-spring snows. A captain could hire a few in one port and they would all leave at the next, replaced by equally unskilled new crew. It was a tough job, and only those with a certain hardness of character managed to continue in the lifestyle. The others gave up eventually, and, presumably, they made their way back to the surface world to see what kind of life they could eek out in one territorial authority or another.
+Percy was always on the lookout for little signs that a crew member might last beyond a single run. Green crew came and went on submarines like late-spring snows. A captain could hire a few in one port and they would all evaporate at the next, replaced by equally unskilled new crew. It was a tough job, and only those with a certain hardness of character managed to continue in the lifestyle. The others gave up, and, presumably, made their way back to the surface world to see what kind of life they could eek out in one territorial authority or another.
 
 Captain Percy tapped Hemi and nodded in the direction of Cassandra huffing her way down to the docking bay. "That's our new sonar watch."
 
@@ -787,7 +787,7 @@ Hemi did not fail to notice either. "Maybe..." was all he said before looking ba
 
 The loading was finished that evening. Hemi had Bastian, Gregory, and Owen go over every crate and make sure it was lashed securely enough that it could not shift once the _Prospect_ started moving. 
 
-After that, most of the crew headed up to the canteen on the exchange floor to indulge in the kind of heavy drinking rarely on offer to a submarine crew, though Cassandra excused herself from this opportunity to get to knew her new crew mates better, suggesting politely that she had seen quite enough of that canteen. Hemi and Percy also skipped the canteen and were up late in the galley going over the state of their supplies and discussing some questions Hemi had about the details of the job contract that he wanted to be sure Percy had considered. It was long after midnight before they crawled into their respective racks.
+After that, most of the crew headed up to the canteen on the exchange floor to indulge in the kind of heavy drinking rarely on offer to a submarine crew, though Cassandra excused herself from this opportunity to get to know her new crew mates better, suggesting politely that she had seen quite enough of that canteen. Hemi and Percy also skipped the drinking and were up late in the galley going over the state of their supplies and discussing some questions Hemi had about the details of the job contract that he wanted to be sure Percy had considered. It was long after midnight before they crawled into their respective racks.
 
 
 
