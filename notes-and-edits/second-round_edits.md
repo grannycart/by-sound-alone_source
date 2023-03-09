@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-05 16:31
+Last modified: 2023-03-08 22:58
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -431,10 +431,17 @@ Edits to pick up in second full pass through the book
 * [ ] Do a search on 'really' and consider removing any
 * [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 	* This is basically impossible
-* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
-	* Is C right? Should I cut the whole thing before the depot and start it there?
+
+## Post "Director's Cut" things to remove
 * [ ]  consider finishing a version with everything in -- a directors cut -- after committing that cut out all the bigger scenesbeing cut
 	* keep track of pages to be cut as you edit
+* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
+	* Is C right? Should I cut the whole thing before the depot and start it there?
+* Other potential scenes to go:
+	* the spotted-from above section
+	* the post stilt city damaged floating in the water column section
+	* the bicycle race
+	* the cookout
 
 
 
