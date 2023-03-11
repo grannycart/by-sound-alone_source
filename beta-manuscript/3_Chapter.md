@@ -630,8 +630,6 @@ Percy walked away thinking she would do her best to just stay out of Chips' way 
 
 [//]: # (### disconnecting the Gnat)
 
-[//]: # (----- EDITED TO HERE -----)
-
 At the other end of the cargo hold Captain Percy found Shakes had made his way back from the cafe and was having a conversation with Hemi through the hatch into the forward battery compartment. He stepped a little to one side as she came up so she could join in.
 
 "Captain Percy. Hemi and I are talking about disconnecting my boat from the _Prospect_."
@@ -701,11 +699,7 @@ Hemi nodded and jotted a note on a scrap of paper clipped to a clipboard that la
 
 "I'm sure they have been thoroughly packed and duly deactivated... though it would be good if you took a peak at them before they get settled so you -- Hemi -- are sure they won't go off if someone walks by a crate with a heavy socket wrench or something."
 
-There was a tap of someone's knuckle on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap." He pulled a paper packet from his pocket and tossed it to Percy. "They don't have the cigarillos you like, so I got you a carton of these cheroots."
-
-Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough fuckin' smokes. Oh well. Thanks Gregory." 
-
-"Bunch more of those fuckin' big trolls up at the slip with crates they say are to be loaded into the cargo hold."
+There was a tap of someone's knuckle on the hatch to the galley, and Gregory swung it open a bit. He downed the last of an ice cream sandwich he had been working on and tossed the wrapper in the sink. "Back from dinner Cap. Bunch more of those fuckin' big trolls up at the slip with crates they say are to be loaded into the cargo hold."
 
 "That is indeed our cargo. You can come help us get 'em stowed properly. Hemi?"
 

@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-08 22:58
+Last modified: 2023-03-11 12:34
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -16,6 +16,7 @@ Edits to pick up in second full pass through the book
 :plot:
 * on starting and finishing editing of each chapter file:
 	* [ ] convert latex style emdashes --- to md style -- on all files
+		* :%s/---/--/g
 	* [ ] note for markdown:
 		* use single underbars for emphasis. two astericks for bold (if there is any)
 		* DON'T use single astericks for emphasis. I find that confusing.
@@ -24,8 +25,11 @@ Edits to pick up in second full pass through the book
 		* [ ] do a search for capital-S "Said"
 		* Remember to keep an eye out for adverbs, particularly in the dialog attribution
 	* [ ] do a find-and-replace for til with till
+		* %s/\ til\ /\ till\ /gc
+		* (you should do confirm-search for this)
 	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
-	* [ ] after chapter 3: search cigarillo and replace with cheroot
+	* [X] after chapter 3: search cigarillo and replace with cheroot
+		* I did this on each file already, but keep an eye out for oddball missing ones (mispelled or whatever)	
 * [X] remove references to the "con" -- too military
 * [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.
 * [ ] Shakes needs to say 'ain't' more, like he does when he first appears
@@ -209,6 +213,9 @@ Edits to pick up in second full pass through the book
 	* [X] Edit descriptions of Cassandra: see B and C's notes
 	* [X] Find and replace: Trinity as a name
 * When Shakes meets up with them again:
+	* [ ] put in Gregory delivering cheroots to Percy (this has to be before Percy starts smoking her first cheroot, obviously):
+		* He pulled a paper packet from his pocket and tossed it to Percy. "They don't have the cigarillos you like, so I got you a carton of these cheroots."
+		* Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough fuckin' smokes. Oh well. Thanks Gregory." 
 	* [ ] confirms the identity of the Grackle
 	* [ ] confirm that he was able to transship is last load? or do we not really care?
 * storm:
