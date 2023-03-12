@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-12 12:36
+Last modified: 2023-03-12 15:28
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -209,12 +209,12 @@ Edits to pick up in second full pass through the book
 			* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
 			* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
 	* [X] see note about about learning the name of the sub with the ram at the depot
-	* [X] At the depot, they need to restock cigarettes and cigarillos
-		* Percy switches to cheroots
 	* [X] Edit descriptions of Cassandra: see B and C's notes
 	* [X] Find and replace: Trinity as a name
+	* [X] At the depot, they need to restock cigarettes and cigarillos
+		* Percy switches to cheroots
 * When Shakes meets up with them again:
-	* [ ] put in Gregory delivering cheroots to Percy (this has to be before Percy starts smoking her first cheroot, obviously):
+	* [X] put in Gregory delivering cheroots to Percy (this has to be before Percy starts smoking her first cheroot, obviously):
 		* He pulled a paper packet from his pocket and tossed it to Percy. "They don't have the cigarillos you like, so I got you a carton of these cheroots."
 		* Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough fuckin' smokes. Oh well. Thanks Gregory." 
 	* [ ] confirms the identity of the Grackle
