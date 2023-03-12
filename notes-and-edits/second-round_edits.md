@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-11 12:34
+Last modified: 2023-03-12 12:36
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -23,6 +23,7 @@ Edits to pick up in second full pass through the book
 	* [ ] add invisible spacing elements (generally where the ### break notes are)
 	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
 		* [ ] do a search for capital-S "Said"
+			* %s/\.\"\ Said/\,\"\ said/gc
 		* Remember to keep an eye out for adverbs, particularly in the dialog attribution
 	* [ ] do a find-and-replace for til with till
 		* %s/\ til\ /\ till\ /gc
