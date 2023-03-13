@@ -238,31 +238,29 @@ Hemi looked at Percy. He was not going to level off the dive until she said so.
 
 "210 meters. Still descending," said Gregory.
 
-"Ah ya fucking fuckturds!" Chips voice came up from the sonar compartment where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking mountain trolls welded in the cargo hold? Because that's what it fucking looks like to fucking me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
+"Ah ya fucking fuckturds!" Chips voice came up from the sonar compartment where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to fucking me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
 
-"For fuck's sake Chips! If it's a choice between going deep or being fucking torpedoed, we're going deep," Percy replied. And then more quietly to herself, "I need a fuckin' smoke." She suddenly realized she had not smoked since the last time the _Prospect_ was moving. 
+"For fuck's sake Chips! If it's a choice between going deep or being fucking torpedoed, we're going deep," Percy replied. After a short pause, she said to herself, "I need a fuckin' smoke." She suddenly realized she had not smoked since the last time the _Prospect_ was moving. 
 
 "Oh, here!" Gregory pulled a paper packet from his pocket and tossed it to Percy. "They didn't have the cigarillos you like, so I got you a carton of these cheroots."
 
-Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough fuckin' smokes. Still, better than cigarettes. Thanks." She slid one of the thin cheroots from the packet with her lips and lit it from a match she struck on the hull. 
+Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough smokes. Still, better than fuckin' cigarettes. Thanks." She slid one of the thin cheroots from the packet with her lips and lit it from a match she struck on the hull. 
 
-She sucked on the cheroot and the thought came to her that Chips probably was not totally wrong about the quality of the welding work in the cargo hold. "Let's level her the fuck off Gregory."
+She sucked on the cheroot and the thought came to her that Chips probably was not totally wrong about the quality of the welding work in the cargo hold. "Let's level her off Gregory."
 
-[//]: # (----- EDITED TO HERE -----)
-[//]: # (2k words from last EDIT point)
 "Ah fuck! Ya fuckheads are going to want the fuckin' diesels any fucking minute now too, I'm sure -- and they're in fuckin' pieces." Chips smacked her hand against the bulkhead and crawled back down towards engineering.
 
 "Leveled out at 220 meters," said Gregory. "I'm going to make some adjustments to the trim tanks, see if I can get us floating evenly."
 
 As Gregory started opening and closing valves on the trim tank control panel, the hull of the prospect let out a long groan.
 
-"Easy my pretty lady." Percy whispered to her boat.
+"Easy my pretty lady," Percy whispered to her boat.
 
-Hemi watched Gregory's work on the trim, and when he was satisfied, he got them moving slowly and silently out into the deep ocean. "Creep speed -- three knots Owen. You can steer us away from the seamount wall now."
+Hemi watched Gregory's work on the trim. When he was satisfied, he got them moving slowly and silently out into the deep ocean. "Creep speed -- three knots Owen. You can steer us away from the seamount wall now."
 
-They crept away from the depot through the pitch deep. The depth-under-keel gauge rapidly climbed until it pegged itself on the 'bottomless' pin.
+They slunk away from the depot through the pitch deep. The depth-under-keel gauge rapidly climbed until it pegged itself on the 'bottomless' pin.
 
-From sonar, Bastian reported that he thought he could hear some disturbing sounds from the depot, but couldn't pin down any specific thing that might be happening up there.
+From sonar, Bastian reported that he thought he could hear some disturbing sounds from the depot, but could not pin down any specific thing that might be happening.
 
 [//]: # (----- invisible character break)
  
@@ -270,45 +268,27 @@ From sonar, Bastian reported that he thought he could hear some disturbing sound
 [//]: # (### looking at the charts)
 
 [//]: # (Mid-afternoon: day 1, run to Stilt City)
-The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on which everyone understood to mean the situation had returned to something like normal, even though it remained nothing like safe to be running beyond the edge of their operating depth.
+The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on which everyone understood to mean the situation had returned to something like normal, even though it remained nothing like safe to be running beyond the edge of their normal operating depth.
 
-"Hemi, join me at the navigation station, it's time for us to figure out where we're fucking going," said Percy.
+"Hemi, join me at the navigation station, it's time for us to figure out where we're going," said Percy.
 
 They climbed down the ladder and turned the lights on over the navigation table. Hemi unsealed and unrolled a new chart, and laid it down under the glass. He wiped the old grease pencil marks off the glass with a rag.
 
-"I picked up a more up-to-date chart at the depot." Hemi said. "Look, the depot is here. And..." He looked over some notes on their current course and speed from a clipboard he had been updating over the last couple of hours, then put a small x on the glass, not far from the deserted island that held the depot. "I estimate we are about here now."
+"I got us a more up-to-date chart at the depot," Hemi said. "Look, the depot is here. And..." He looked over some notes on their current course and speed from a clipboard he had been updating over the last couple of hours, then put a small x on the glass, not far from the deserted island that held the depot. "I estimate we are about here, now."
 
-Percy pointed to a hashed arc that ran across the chart passing by one side of the depot island. "Is that the actual fuckin' current Authority demarcation line?"
+Percy pointed to a hashed arc printed on the chart that ran past one side of the depot island. "Is that the actual current Authority demarcation line?"
 
 "Yes," said Hemi. "Western Federated Socialists on the east side of it, Consolidated States of the Archipelago Islands on the west side of it." He looked at the date printed in the corner of the chart. "At least as of the printing of this chart, eight months ago."
 
-"So Shakes' line wasn't that far off. Not bad for off the top of a fuckin' tweaker head like that."
+"We need to head towards Stilt City. But I think we should take a slightly less than direct course." Percy drew an arcing route on the chart with the tip of her finger. She indicated a point on the arc. "And I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
 
-[//]: # (tweaker -- because Shakes is both drug-addled and tweaks machines) 
-
-"Not bad at all." Hemi agreed.
-
-Percy indicated an arcing course on the chart with the tip of her finger. "We should head that way, I think." She indicated a point on the arc. "And I asked Shakes to fuckin' rendezvous with us here. I hired him to help us out on this run."
-
-"Good. And yes, further into the Consolidated States waters will be better. They are far less likely to bother us, and we can travel for a few days while remaining in their waters. But..." He took another chart from the stack of rolled charts and unrolled it in front of Percy. "We have to head through these waters in the south. A highly contested area. At least three, up to five Authorities all claiming parts of it."
+"Good. And yes, further into the Consolidated States waters will be better. They are far less likely to bother us, and we can travel for a few days while remaining in their waters. But..." He took another chart from the stack of rolled charts and unrolled it in front of Percy. "To get to Stilt City, we eventually have to head through these waters in the south. A highly contested area. At least three -- up to five -- Authorities all claiming parts of it."
 
 "Well, we'll just have to be fucking careful when we move through there. We'll be disciplined about running on the surface only at night, and max out our underwater time during the day."
 
-"...In addition to the regular trouble we might encounter with Authorities, there is also that sub with the ram."
+"...In addition to the regular trouble we might encounter with Authorities, there is also that sub with the ram. My guess is they are the ones who fired on the depot patrol sub. It is possible they followed us there."
 
-"You think they are specifically after us?"
-
-"My guess is they are the ones who fired on the depot patrol sub. It is possible they followed us there."
-
-"Ah, you're paranoid. Why would the fuck would anyone be after us?"
-
-"Because we are hauling weapons parts?"
-
-"They rammed us before _we_ knew we'd be hauling fucking parts that _could_ be used in weapons!" Percy said exasperatedly. "Either it's something else, or, more likely I think: it was all just coincidence."
-
-Hemi nodded, but did not look convinced.
-
-"This isn't a rush job Hemi. We have the time to take it slow and do the stealth thing right. Let's just be fuckin' careful, be silent, and not be found. We'll deliver the cargo, collect our money, and by that time we'll be a few territories away -- an entirely different part of the world -- from wherever that sub with the ram came from. I'll bet we never see that ugly fuckin' boat again."
+"This isn't a rush job Hemi. We have the time to take it slow and do the stealth thing right. Let's just be careful, be silent, and not be found. We'll deliver the cargo, collect our money, and by that time we'll be a few territories away -- an entirely different part of the world -- from wherever that sub with the ram came from. I'll bet we never see that ugly fuckin' boat again."
 
 "I hope you are right." Hemi paused, running through his mental checklist of all the things that kept the boat going. "Another thing I wanted to bring up with you is that while we were adjusting the trim it looked like the boat is a little by the bow."
 
@@ -316,7 +296,7 @@ Hemi nodded, but did not look convinced.
 
 "True. I would like to bring some of the crew down to the cargo hold and shift cargo back towards the middle of the boat. See if we can get it stowed so it trims more evenly."
 
-"Sure, but lets run a little longer first. At our current rate we've only made maybe a dozen fuckin' nautical miles from the depot so far."
+"Sure, but lets run a little longer first. At our current rate we've only made maybe a dozen nautical miles from the depot so far."
 
 "Think we can risk a little more speed yet?"
 
@@ -324,49 +304,56 @@ Captain Percy considered. "I think so. Take us up to six knots. Only top sonar p
 
 "Sounds good," said Hemi as he started climbing back up to the control room to have Owen put a little more speed on.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### trimming the boat to handle the cargo load)
 
 [//]: # (Late-afternoon: day 1, run to Stilt City)
 Six knots was still slow, but twice the speed at which they had crawled away from the depot. With three more hours of cruising, they were out of range of all the but the very best sonar gear and ears in the world. Percy had them come up to 100 meters to take some of the strain off the hull.
 
-At this shallower depth, Hemi stood at the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said to her as she stood behind him smoking, "I think we can certainly do better with the trim if we move some of the cargo around down in the hold."
+When the boat reached this shallower depth, Hemi stood at the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said to her as she stood behind him smoking, "I think we can certainly do better with the trim if we move some of the cargo around down in the hold."
 
-[//]: # (somewhere in this re-stowing section: mention moving the food items up to the galley, since you alluded to it happening earlier.)
-
-"OK. Take Owen and Bastian down there with you. I'll watch the fuckin' trim with Gregory in case she starts to lean or something. Keep in mind that it might be bad if you drop any of those fucking crates."
+"OK. Take Owen and Bastian down there with you. I'll watch the trim with Gregory in case she starts to lean or something. Keep in mind that it might be bad if you drop any of those fucking crates."
 
 Hemi tapped Owen on the shoulder and they climbed down to the sonar compartment where Bastian joined them on the trip down to the cargo hold.
 
-When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled a little damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was continuing to seep. They might never have a completely dry cargo hold again. That was OK, that is what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
+When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was continuing to seep. They might never have a completely dry cargo hold again. That was OK, that is what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
 
-Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the skill needed. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo hold while still leaving enough room for the crew to get through the crates.
+Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the skill needed. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo hold while still leaving enough room for the crew to get through.
 
-Hemi had Owen rig a block and chain to sliding fixtures on the roof of the cargo hold. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain through the tackle while Owen guided it off the stack. The individual crates were only modestly sized but were surprisingly heavy, requiring Hemi and Bastian's full combined power to lift them even with the mechanical advantage of the block. The three of them would then drag the airborne crate up the length of the cargo hold suspended from the sliding block, and Owen and Bastian would push it with poles while Hemi lowered it to its new place.
+Hemi had Owen rig a hoist and chain to sliding fixtures on the roof of the cargo hold. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain while Owen guided it off the stack. The individual crates were only modestly sized but were surprisingly heavy, requiring Hemi and Bastian's full combined power to lift them even with the mechanical advantage of the hoist. The three of them would then drag the airborne crate up the length of the cargo hold with the hoist sliding along the rails, and Owen and Bastian would push it with poles while Hemi lowered it to its new place.
+
+Every so often they would come across a non-perishable food crate, and they would have to interrupt their re-arranging work to unpack the food and bring it up to the galley to be stowed.
 
 [//]: # (Early-evening: day 1, run to Stilt City)
-It took a few hours to make a first pass at rearranging the crates. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made slight adjustments to the trim of the boat, before Hemi returned to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
+It ended up taking a few hours to complete a first pass at rearranging hold. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made slight adjustments to the trim of the boat, before Hemi returned to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
 
 "Fuckin' eh Hemi," said Gregory when Hemi was finally settled back into the control room, "seemed like the boat was trim enough when we left the fuckin' depot. Didn't slow us down none."
 
 "A submarine is like the hairs on the back of your neck, Gregory. It _always_ needs a trim."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Training Cassandra on sonar)
 
-Hemi knew Captain Percy would keep the same course, depth, and speed until well after dark, and that was still a few hours off yet, so there was little for him to do for the moment. He took the opportunity to start training Cassandra on sonar. In the sonar compartment, he sent Bastian off for coffee and a smoke and sat down next to Cassandra.
+Hemi knew Captain Percy would keep the same course, depth, and speed until well after dark, and that was still a few hours off yet, so there was little for him to do for the moment. He took the opportunity to start training Cassandra on sonar. 
 
-"You have been listening for the last few hours while Bastian worked the sonar, correct?" Hemi asked her.
+In the sonar compartment, he sent Bastian off for coffee and a smoke and sat down next to Cassandra.  "You have been listening for the last few hours while Bastian worked the sonar, correct?" Hemi asked her.
 
 Cassandra nodded.
 
 "Any of it make any sense?"
 
-"Do you want me to lie?" Cassandra asked.
+"Do you want me to lie?"
 
-"There is nothing to be concerned about. It is not as complex as it might seem. Except for the parts that are, but we'll get to those as we come to them. Put your headset over both ears... You need both ears to get a full sense of what any sound you hear on sonar is doing."
+"There is nothing to be concerned about. It is not as complex as it might seem. Except for the parts that are, but we will get to those as we come to them. Put your headset over both ears... You need both ears to get a full sense of what any sound you hear on sonar is doing."
 
-Cassandra adjusted the headset so it sat evenly with the headphones covering both her ears. The band matted down her little curls where it crossed her head. 
+Cassandra adjusted the headset so it sat evenly with the headphones covering both her ears. 
+
+[//]: # (----- EDITED TO HERE -----)
+[//]: # (2k words from last EDIT point)
 
 "OK" said Hemi as he began adjusting and tuning the sonar unit "this is the 'passive' sonar rig. You can think of it as being nothing more than microphones for listening underwater. There's 'active' sonar too -- that's a lot more complicated: active sonar sends a ping out and we listen for its echo. We do not use that very often so do not worry about it for now. Passive is simpler, you are just listening, passively. Get it?"
 
