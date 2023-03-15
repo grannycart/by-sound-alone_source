@@ -352,10 +352,7 @@ Cassandra nodded.
 
 Cassandra adjusted the headset so it sat evenly with the headphones covering both her ears. 
 
-[//]: # (----- EDITED TO HERE -----)
-[//]: # (2k words from last EDIT point)
-
-"OK" said Hemi as he began adjusting and tuning the sonar unit "this is the 'passive' sonar rig. You can think of it as being nothing more than microphones for listening underwater. There's 'active' sonar too -- that's a lot more complicated: active sonar sends a ping out and we listen for its echo. We do not use that very often so do not worry about it for now. Passive is simpler, you are just listening, passively. Get it?"
+"OK," said Hemi as he began adjusting and tuning the sonar unit, "this is the 'passive' sonar rig. You can think of it as being nothing more than microphones for listening underwater. There's 'active' sonar too -- that's a lot more complicated: active sonar sends a ping out and we listen for its echo. We do not use that very often so do not worry about it for now. Passive is simpler, you are just listening, passively. Get it?"
 
 Cassandra nodded.
 
@@ -373,25 +370,25 @@ Cassandra nodded.
 
 "Good. We are running on the electric motors, underwater, at a modest speed. That is what it sounds like when the boat is moving while submerged. Later, when we are near the surface with the diesel engines running, it will be a lot louder and you will not be able to hear much in the water beyond the engines. But while we are on the electric motors, we can hear more on sonar. 
 
-"Sonar requires imagination. You have to put your mind out there in the water. When you hear a sound, you have to match it to an image in your head that shows how the sound could be made. The more detail you can imagine in the image to fit it to the sound, the more accurate your assessment of the contact will be. That is what makes a top sonar person." 
+"Sonar requires imagination," Hemi continued, "you have to put your mind out there in the water. When you hear a sound, you have to match it to an image in your head that shows how the sound could be made. The more detail you can imagine in the image to fit it to the sound, the more accurate your assessment of the contact will be. That is what makes a top sonar person." 
 
 Hemi pointed to the largest of a set of gauges further up the sonar unit in front of them.
 
-"Now, the gauge above the directional indicator is the main signal strength indicator. All those smaller gauges above that show signal strength at different frequencies, but you only need to worry about this main signal strength indicator for now. Watch that needle, if you see it jump, there is a significant sound out there in the water, and you will want to focus on it, listen to it, and try to figure out what it is. " 
+"Now, the gauge above the directional indicator is the main signal strength indicator. All those smaller gauges above it show signal strength at different frequencies, but you only need to worry about this main signal strength indicator for now. Watch that needle, if you see it jump, there is a significant sound out there in the water, and you will want to focus on it, listen to it, and try to figure out what it is." 
 
 "Let us see..." Hemi turned the direction dial slowly. About a quarter of the way around the strength indicator dial moved up a little and wavered there. "So see by the needle that there is something to hear in this direction. What do you hear in your headset now?"
 
-Cassandra listened, her eyes watching the signal strength indicator needle wavering like a humming bird feeding. It was moving in response to another kind of white noise, higher pitched than the sub's engines, which she could still hear rumbling in lower frequencies. This sound was familiar, a washing, churning sound with an occasional rumble mixed in... She smiled, "it's breaking surf isn't it?"
+Cassandra listened, her eyes watching the signal strength indicator needle wavering like a humming bird feeding. It was moving in response to another kind of white noise; higher pitched than the sub's engines, which she could still hear rumbling in the lower frequencies. This sound was familiar, a washing, churning sound with an occasional rumble mixed in... She smiled, "it's breaking surf isn't it?"
 
 "Correct! There is a small atoll a few miles in that direction and waves are breaking on its shore. Let's see what else is out there." Around the directional needle went, and Hemi slowed it, and stopped with the strength indicator needle throbbing slightly, like it had a pulse.
 
-Cassandra closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a strange kind of richness to them. They bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so very long ago when she was a child. "Is that the sound dolphins make?" She asked.
+Cassandra closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a strange kind of richness to them. They bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so very long ago when she was a child. "Is that the sound dolphins make?"
 
-"Very good! Dolphins use active sonar, bouncing sounds they make off of underwater objects to locate them. They are much better at it than we are. Did you notice that you could hear the dolphins in one ear slightly before the other?"
+"Very good! Dolphins use active sonar, bouncing sounds off underwater objects to locate them. They are much better at it than we are. Did you notice that you could hear the dolphins in one ear slightly before the other?"
 
 Cassandra nodded again.
 
-"That is because the sonar uses a couple of sets of microphones, one on the front of the boat, and one at the rear. Sound coming in hits one microphone before the other, and the sonar rig puts the difference into the earphones for you. With practice, you can use the difference in how long it takes to estimate how far away a contact is, for instance, I can tell you these dolphins are about a third of a nautical mile away. That only works if the contact is close enough that we can hear the difference though. If you think about it: a contact that is farther away will send out a sound that will hit both the microphones on the bow of the _Prospect_ and the stern at basically the same time." 
+"That is because the sonar uses a couple of sets of microphones, one on the front of the boat, and one at the rear. Sound coming in hits one microphone before the other, and the sonar rig puts the difference into the earphones for you. With practice, you can use the difference in how long it takes to estimate how far away a contact is, for instance, I can tell you these dolphins are about a third of a nautical mile away. That only works if the contact is close enough that we can hear the difference though. If you think about it: a contact that is farther away will send out a sound that will be murky enough by the time it gets to us to hit both the microphones on the bow of the _Prospect_ and the stern at basically the same time." 
 
 "OK, ya, that makes sense," said Cassandra, picturing the sound waves bouncing off the boat in her head.
 
@@ -401,31 +398,33 @@ Hemi smiled. "Miss Cassandra, you may have a career ahead of you. Keep practicin
 
 Hemi left her there listening to the dolphins and climbed up next to Percy in the control room.
 
-"How'd she do?" Asked Percy.
+"How'd she do?" asked Percy.
 
 "We may have a pair of ears yet."
 
-"That would be a nice fucking change. Most of these fuckers are OK at rudimentary steering, but they're fuckin' useless on sonar."
+"That would be a nice fucking change. Most of these meatheads are OK at rudimentary steering, but they're fuckin' useless on sonar."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### they surface at night)
 
 [//]: # (Early-night: night 1, run to Stilt City)
 A few hours later the clocks and sun charts coordinated to tell them that it was well after dark on the surface. Percy had the boat come up to periscope depth and she put the scope up to check the surface. Finding an empty black horizon in all directions, she had Gregory blow air into the main ballast tanks from the low-pressure system and raise the _Prospect_ fully up to the surface.
 
-Captain Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the diesels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic these days, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar -- on the surface they created a fairly strong radar signature. But they ran their own radar receiver while on the surface. If anyone else was tracking the _Prospect_ with radar, the _Prospect's_ crew would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
+Captain Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the diesels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic these days, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar -- on the surface they created a fairly strong radar signature. But they ran their own radar receiver. If anyone else was tracking the _Prospect_ with radar, the _Prospect's_ crew would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
 
-The only other way they might be found is if an Authority ship heard the _Prospect's_ rumbling diesels on sonar. But to do that they would have to be within ten or twenty nautical miles of the _Prospect_. Not an impossible scenario, but unlikely on any normal night of a cargo run.
+The only other way they might be found is if an Authority ship heard the _Prospect's_ rumbling diesels on sonar. But to do that they would have to be within ten or twenty nautical miles of the _Prospect_. Not an impossible scenario, but somewhat unlikely on any normal night of a cargo run.
 
-Captain Percy also always kept one more ancient backup system for spotting any trouble early going: she put someone up in the lookout ring with binoculars. As soon as the deck was above the surface of the water, Percy and Hemi went up through the top hatch in the control room and climbed to the bridge at the top of the sail. Percy had the radar mast raised, which had two lookout rings mounted to it, one on either side, and called Owen up. As he came up onto the bridge she handed him binoculars and pointed to the lookout rings. Owen kept climbing.
+Captain Percy also always kept going one more ancient backup system for spotting any trouble early: she put someone up in the lookout ring with binoculars. As soon as the deck was above the surface of the water, Percy and Hemi went up through the hatch in the control room and climbed to the bridge at the top of the sail. Percy had the radar mast raised, which had two lookout rings mounted to it, one on either side, and called Owen up. As he came up onto the bridge she handed him binoculars and pointed to the lookout rings. Owen kept climbing.
 
 Percy looked at Hemi. "Be glad you don't have to do fucking lookout duty anymore."
 
-"I am," said Hemi. "I remember it well. At night, you are just standing up there in the wind, like you are swimming through pure blackness. Your mind starts to play tricks on you when you most need to keep your mind clear. It is a young person's job."
+"I am," said Hemi, "I remember it well. At night, you are just standing up there in the wind, like you are swimming through pure blackness. Your mind starts to play tricks on you when you most need to keep your mind clear. It is a young person's job."
 
 "Reliable young people, anyway," said Percy. "Hey down there in the control room," she shouted down through the hatch, "you can start the diesels."
 
-There was a moment more of the quiet of the water sloshing down the length of the hull pushed by the electric motors before the diesels deep in the belly of the _Prospect_ coughed and fired. Black smoke streamed out behind the sail. The vibration of the engines carried up up through the deck and shook the soles of their feet.
+There was a moment more of the quiet of the water sloshing down the length of the hull pushed by the electric motors before the diesels deep in the belly of the _Prospect_ hissed, coughed, and fired. Black smoke streamed out behind the sail. The vibration of the engines carried up up through the deck and shook the soles of their feet.
 
 Hemi called down to ask for their new speed and to confirm the heading. He marked the answers down carefully on his ever-present clipboard.
 
@@ -437,13 +436,13 @@ Hemi called down to ask for their new speed and to confirm the heading. He marke
 
 "Yes. The diesels exhaust out of them too. A boat with a snorkel never has to come up to the surface, you can recharge the batteries from periscope depth."
 
-"We should look into installing one at some point. Maybe after this run. It seems like it would be worth the investment. The nighttime surface runs are starting to require too much care and caution for me to feel safe."
+"We should look into installing one at some point. Maybe after this job. It seems like it would be worth the investment. The nighttime surface runs are starting to require too much care and caution for me to feel safe."
 
 "The funny thing," Hemi continued, "is I also heard that a snorkeling diesel is actually louder on sonar than one running on the surface."
 
 "You're fucking kidding?"
 
-Hemi looked at her incredulously. Hemi was hardly ever kidding. "Apparently with the whole boat underwater more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable 40 miles off or so on sonar."
+Hemi looked at her incredulously. He was hardly ever kidding. "Apparently with the whole boat underwater more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable 40 miles off or so on sonar."
 
 "So once again the newfangled technology doesn't solve a fucking problem, it just creates more options for a captain to have to make fucking decisions about." Percy spat.
 
@@ -451,9 +450,12 @@ Hemi looked at her incredulously. Hemi was hardly ever kidding. "Apparently with
 
 Percy lit a cheroot. Hemi looked up at the dark gray sky, mostly obscured by cloud cover.
 
-"How's the fucking navigation going?" Percy exhaled a long stream of smoke that was caught up by the wind and tied into the diesel exhaust behind them.
+"How's the navigation going?" Percy exhaled a long stream of smoke that was caught up by the wind and braided into the diesel exhaust behind them.
 
-"I have been keeping very close track of our time, direction and speed, as usual," said Hemi. "But you know that is only as good as guesswork can be. If these clouds break up tonight and we get some stars, I would like to fix our position on the chart. When is the rendezvous with Shakes?"
+"I have been keeping very close track of our time, direction and speed, as usual. But you know that is only as good as guesswork can be. If these clouds break up tonight and we get some stars, I would like to fix our position on the chart. When is the rendezvous with Shakes?"
+
+[//]: # (----- EDITED TO HERE -----)
+[//]: # (2k words from last EDIT point)
 
 "At dawn. It will certainly be fuckin' easier if we know where we are with some precision."
 
