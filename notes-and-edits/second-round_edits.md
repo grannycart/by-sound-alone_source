@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-12 15:28
+Last modified: 2023-03-16 15:10
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -164,14 +164,6 @@ Edits to pick up in second full pass through the book
 	* Maybe somehow they know the name of the sub with the ram, even if they don't know the name of the captain.
 	* Or maybe it's like butch cassidy and the sundance kid: where they just assume it's someone based on an assumption (though they later confirmed it by reading in the paper -- maybe someone in the depot or stilt city fills them in.)
 * [-] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
-* [ ] Make a reference to the head --- a joke about how complex it is to operate.
-	* Have Shakes say he needs to take a dump, someone warns him about reading the instructions first. or, he asks about instructions saying it's been a while since he used the head on a real sub
-		* "Anyway, I really need to take a shit. Where's the head?" "Middle deck, aft of the crew quarters. Be careful. Make sure you read the instructions, it's complicated."
-	* (has to be while they are submerged) 
-	* This can't go in before the depot, the only time they are submerged with Shakes aboard is during the search pattern before they hit the depot, and there's no real appropriate place.
-	* Keep an eye out for a spot for it later when they join up with Shakes again.
-		* I think there's a point where he comes aboard with an underwater mating. 
-* [ ] Have someone wash their hands with salt water soap
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
 * [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
 	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
@@ -182,6 +174,8 @@ Edits to pick up in second full pass through the book
 	* pot? See note on motivating Shakes
 * [ ] make sure you only explain active sonar once
 	* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
+	* I believe the first real explanation of active is line chapt 4 line 642, where Hemi explains it to Cassandra (which is the _right_ place for it.)
+		* Not sure if I do it AGAIN later though. 
 * [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
 * [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
 	* [ ] add something about Cassandra listening to music? 
@@ -219,6 +213,14 @@ Edits to pick up in second full pass through the book
 		* Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough fuckin' smokes. Oh well. Thanks Gregory." 
 	* [ ] confirms the identity of the Grackle
 	* [ ] confirm that he was able to transship is last load? or do we not really care?
+	* [ ] Make a reference to the head --- a joke about how complex it is to operate.
+		* Have Shakes say he needs to take a dump, someone warns him about reading the instructions first. or, he asks about instructions saying it's been a while since he used the head on a real sub
+			* "Anyway, I really need to take a shit. Where's the head?" "Middle deck, aft of the crew quarters. Be careful. Make sure you read the instructions, it's complicated."
+		* (has to be while they are submerged) 
+		* This can't go in before the depot, the only time they are submerged with Shakes aboard is during the search pattern before they hit the depot, and there's no real appropriate place.
+		* Keep an eye out for a spot for it later when they join up with Shakes again.
+			* I think there's a point where he comes aboard with an underwater mating. 
+	* [ ] Have someone wash their hands with salt water soap
 * storm:
 	* [ ] Probably would make more sense for Owen to be the one who gets killed during the storm.
 		* you don't need him for the adultery motivation any more
@@ -245,6 +247,7 @@ Edits to pick up in second full pass through the book
 			* Though that rebel group might be the oppressors in 6 months
 			* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 			* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
+		* There's a weakness in the motivation for the Grackle to continue the chase after Stilt City -- need to figure out why they continue so aggressively at that point
 * spotted from above:
 	* [ ] delete either the spotting, or the suspended in the water column and damaged sequence, or both
 		* Might be better at this point to move right to the garbage gyre
