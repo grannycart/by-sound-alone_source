@@ -641,40 +641,35 @@ Percy considered her options. "You are fairly certain it's Shakes?" she asked He
 
 "OK. Cassandra, remember I mentioned 'active' sonar during your training session? I am going to use that now. Follow what I do." He powered up the active sonar unit. "Passive sonar is like listening quietly in a dark room to figure out where other people might be standing. Active sonar is like quickly turning a bright light on and then off again to see where people are standing. The principles behind it are much more sophisticated than passive. But it is easy enough to operate." He set the direction indicator to point towards the contact. "Push the PING button Cassandra."
 
-[//]: # (----- EDITED TO HERE -----)
-[//]: # (2k words from last EDIT point)
+She held her small finger out flat, so as not to let the long fingernail on it get in the way, and crushed the button home. Even without the sonar headsets they could hear the smooth round ringing sound of the ping echo through the hull and spread out into the water around them. A few seconds later the active unit calculated and displayed the range and direction to the contact.
 
-She held her small finger out flat, so as not to let the long fingernail on it get in the way, and crushed the button home. Even without the sonar headsets they could hear the ping echo through the hull and off into the water. A few seconds later the active unit calculated and displayed the range and direction to the contact.
+"The active sonar figures out very precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target," Hemi said, pointing to the readout on the active sonar unit. "That is very useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ does not have torpedoes, we do not often have reason to use it."
 
-[//]: # (According to line 175 in second round notes: make sure you describe the SOUND of active radar as a 'ping' -- and maybe give a description of the sound as well.)
-
-"The active sonar figures out very precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target." Hemi said, pointing to the readout on the active sonar unit. "That is very useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ does not have torpedoes, we do not often have reason to use it."
-
-"The active ping also tells the target exactly where _we_ are." Added Percy. "Normally, we would not want to fucking do that -- never use the active sonar without an explicit instruction from me or Hemi -- but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let them know exactly where the fuck we are by hitting them with that active ping."
+"The active ping also tells the target exactly where _we_ are." added Percy. "Normally, we would not want to fucking do that -- never use the active sonar without an explicit instruction from me or Hemi -- but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let them know exactly where we are by hitting them with that active ping."
 
 "We shall see what the contact does now," said Hemi, putting the sonar headset back on.
 
 Within a minute of the _Prospect's_ ping, the contact went silent.
 
-"They're gone?" Asked Cassandra, still listening to the other headset.
+"They're gone?" Cassandra asked, still listening to the other headset.
 
-"They have shut down their engine." Hemi said. "Which does not tell us anything."
+"They have shut down their engine," Hemi said, "which does not tell us anything."
 
 "Well how the fuck were they supposed to respond?" Percy asked Hemi. 
 
-"Can he just ping us back?" Asked Cassandra.
+"Can he just ping us back?" asked Cassandra.
 
 "I am not sure the _Gnat_ has an active sonar system like that," said Hemi. "We could ping them again? It would let them know we are not going anywhere." He looked over at Percy.
 
-"And then what? What's the full fuckin' plan here Hemi?" She asked.
+"And then what? What's the full fuckin' plan here Hemi?" she asked.
 
 "Well, without surfacing, I think we wait until he moves into ship-to-ship range. Then we can confirm it is Shakes over ship-to-ship radio."
 
 "A quarter of a nautical mile? If it's someone who wants to do unpleasant things to us instead of Shakes, that's awfully fucking close."
 
-"If they want to do unpleasant things, they are likely to begin them long before they are in ship-to-ship range," said Hemi. "I advise we ping them again. If the contact does anything that seems suspicious, we will move off from this spot -- quietly."
+"If they want to do unpleasant things, they are likely to begin long before reaching ship-to-ship range," said Hemi. "I advise we ping them again. If the contact does anything that seems suspicious, we will move off from this spot -- quietly."
 
-"...Alright," said Percy. "Fucking ping them again. What the fuck do I care, it's just my boat and all our fuckin' lives."
+"...Alright," said Percy. "Ping them again. What do I care, it's just my boat and all our fuckin' lives."
 
 Hemi caught Cassandra's eye and pointed to the PING button. She reached out and pressed it again. Another resonant ping left the _Prospect_ and soared through the water. The range and direction displayed on the active sonar unit.
 
@@ -682,20 +677,22 @@ Hemi caught Cassandra's eye and pointed to the PING button. She reached out and 
 
 Cassandra nodded with one hand on an earpiece. She listened quietly for a minute. Then: "I think I hear something."
 
-Hemi listened closely. "OK, the contact is running on electric motor now. And I can tell by the pitch that it's definitely a small craft moving quickly... Towards us." Hemi listened for a moment longer. "It is definitely the _Gnat_, I recognize it now."
+Hemi listened closely. "OK, the contact is running on electric motor now. And I can tell by the pitch that it's definitely a small craft moving quickly... towards us." Hemi listened for a moment longer. "It is definitely the _Gnat_, I recognize it now."
 
-"Thank fuckin' hell," said Percy. "That was ridiculous Hemi. We've got to work out a better fucking way of communicating with the _Gnat_ if we're going to keep working with that guy. We can't be pinging every tanker that goes over us hoping it's actually a tiny friendly submarine."
+"Thank fuckin' hell," said Percy, "that was ridiculous Hemi. We've got to work out a better way of communicating with the _Gnat_ if we're going to keep working with that guy. We can't be pinging every tanker that goes over us hoping it's actually a tiny friendly submarine."
 
 "I'll talk to Shakes about it when we get him on board," said Hemi.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Rendezvous with the Gnat)
 
 Within an hour, Shakes voice lit up the ship-to-ship radio in the control room. "Break. Break. This is the mighty _Gnat_. Were those fuckin' ear-splitting pings coming from the folks I'm looking for?"
 
-Hemi climbed up to the control room and took the mic from the overhead radio. "Indeed _Gnat_. This is the _Prospect_ and we are glad to know now that we were not pinging an Authority battleship."
+Hemi climbed the ladder to the control room and took the mic from the overhead radio. "Indeed _Gnat_. This is the _Prospect_ and we are glad to know now that we were not pinging an Authority battleship."
 
-"Ah," said Shakes. "So my subterfugal modifications were effective? Wait till you see what I fuckin' did Hemi. You're going to fuckin' love it."
+"Ah," said Shakes, "so my subterfugal modifications were effective? Wait till you see what I fuckin' did Hemi. You're going to fuckin' love it."
 
 Hemi smiled into the mic. "Sounds good Captain Shakes. You did not break off your mating collar while making those modifications did you?"
 
@@ -703,28 +700,27 @@ Hemi smiled into the mic. "Sounds good Captain Shakes. You did not break off you
 
 "I hope it does not go that badly," said Hemi. "OK, we will put the _Prospect_ in gear, and drive forward slowly. Just like last time, you can come up underneath, and put the _Gnat_ on the mating collar."
 
-"Roger that. But... you're going to have to fuckin' come up shallower. The _Gnat_ can't fuckin' reach you as deep as you are now."
+"Roger that. But... you're going to have to fuckin' come up shallower. I might have more confidence than I used to, but I still don't want to push the _Gnat_ as deep as you are now if I don't fuckin' hafta."
 
 Captain Percy had been listening to the conversation from below at the navigation station. Now she climbed up to the control room to sort out the details of this maneuver with Hemi. 
 
 Hemi caught her eye while she was still on the ladder. "Shakes needs us to come shallow."
 
-"How shallow? I'd prefer to keep her as deep as fucking possible."
+"How shallow? I'd prefer to keep her as deep as possible."
 
 "I believe the _Gnat's_ maximum depth was around 30 meters -- according to Shakes' estimate that was unchallenged by anything like an engineering background."
 
 "Can we do it with the _Prospect_ at 20 fuckin' meters?" She asked.
 
-Hemi thumbed the mic on the ship-to-ship. "Captain Shakes, what if we make the _Prospect's_ keel 20 meters down. Can you do the mating at that depth?"
+"I suspect so, that's about how deep we had it at the depot." Hemi thumbed the mic on the ship-to-ship. "Captain Shakes, what if we make the _Prospect's_ keel 20 meters down. Can you do the mating at that depth?"
 
-"I think so." Shakes voice crackled in reply. "But you'll have to also remember that while the _Gnat_ is attached, you can _not_ go any fucking deeper. Beyond 30 meters or so and you'll crush the _Gnat_ and, you know, probably flood the fuckin' _Prospect_ as well -- not that I'll be giving two shits about your ugly barge after you beer-canned my baby."
+"Surely," Shakes voice crackled in reply, "But remember that while the _Gnat_ is attached, you can _not_ go any fucking deeper. Beyond 30 meters or so and you'll crush the _Gnat_ and, you know, probably flood the fuckin' _Prospect_ as well -- not that I'll be giving two shits about your ugly barge after you beer-canned my baby."
 
 "I got you Captain Shakes. 20 meters maximum depth it is."
 
-
 [//]: # (### Shakes back on board; explanation of his escape from the depot; his modifications to make the _Gnat_ louder; his introduction of Herschel the pigeon.)
 
-They carried out the maneuver without incident. Shakes brought the _Gnat_ up under the _Prospect_ and connected back up to the mating collar. When he popped the hatch, Chips was there waiting for him, just like last time.
+They carried out the maneuver without incident. Shakes brought the _Gnat_ up under the _Prospect_ and connected to the mating collar. When he popped the hatch, Chips was there waiting for him, just like last time.
 
 "Ah fuck ya Captain Shakes. At least I didn't have to weld your fuckin' boat back together to get ya on board this fuckin' time."
 
@@ -732,11 +728,11 @@ They carried out the maneuver without incident. Shakes brought the _Gnat_ up und
 
 "Ah, yer the first fucker I've ever fucking met who is proud to have a loud fucking submarine Captain Shakes."
 
-They made their way up to the galley, where Chips left Shakes to go continue working on the efficiencies of her own engines down in the engine room. Shakes poured some stale coffee from the pot into a mug and sat down. 
+They made their way up to the galley, where Chips left Shakes to continue working on the efficiencies of her own engines in the engine room. Shakes poured some stale coffee from the pot into a mug and sat down. 
 
 Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ settled back on course, leaving Gregory and Bastian at the controls. The boat would spend the remaining hours of daylight running underwater. Hemi did not neglect to warn Gregory to keep a very close eye on the depth and ballast control panel and not let the boat dive any deeper than they already were while the _Gnat_ was attached.
 
-"So Captain fuckin' Shakes," said Percy, settling next to him with her own stale cup of coffee, "you made it out of the depot without causing a fucking problem?"
+"So Captain fucking Shakes," said Percy, settling next to him with her own stale cup of coffee, "you made it out of the depot without causing a problem?"
 
 "Well... there was in fact a little fuckin'... drama. I'm sure you heard some of it."
 
@@ -758,6 +754,8 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 "They asked you about the _Prospect_?"
 
+[//]: # (----- EDITED TO HERE -----)
+
 "Indeed. A couple of those goons stood over the slip to the _Gnat_ and asked me if I knew anything about a boat named the _Prospect_; small lady captain, big fuckin' first mate, and a small crew that included a young man among them."
 
 "Strange," said Hemi. "And you did not find out specifically what Authority they represented?"
@@ -776,6 +774,7 @@ Captain Percy lit a cheroot. "Shit." She said. "If they know we've got weapons p
 
 "Oh," said Shakes, "I didn't tell you the best fuckin' part yet... So after they finish questioning me, I discreetly -- and as quickly as I could -- started prepping the _Gnat_ to leave. And as I'm on the dock getting some cans of food to load into the hold, I see the commander of the Authority sub climb up out of their sub at the slip they had commandeered -- the commander is a real round guy, with only one fucking arm. He wears an Authority uniform with all the trimmings -- it looks as if he wears his full fucking dress uniform every day on board the sub! He takes a squad of goons -- maybe twenty of the fuckers -- and they go up the dock and out towards the exchange floor.
 
+[//]: # (2k words from last EDIT point)
 "Here's the good fucking part: while he's up there on the exchange floor, the watertight bulkhead between the docking bay and the upper levels goes into an emergency-close procedure. You know, the whole fuckin' shebang -- the klaxon is blaring, the red lights are spinning. The fucking Authority goons start running around in a panic, probably most of them think the docking bay is flooding, hell I thought that myself for a minute."
 
 "Fuckin' wow," said Percy half-grinning as she exhaled smoke.

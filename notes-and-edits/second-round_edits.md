@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-16 15:10
+Last modified: 2023-03-17 14:01
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -172,8 +172,8 @@ Edits to pick up in second full pass through the book
 	* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
 	* [ ] Ask A what plants could actually grow on a sub
 	* pot? See note on motivating Shakes
-* [ ] make sure you only explain active sonar once
-	* [ ] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
+* [X] make sure you only explain active sonar once
+	* [X] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* I believe the first real explanation of active is line chapt 4 line 642, where Hemi explains it to Cassandra (which is the _right_ place for it.)
 		* Not sure if I do it AGAIN later though. 
 * [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
