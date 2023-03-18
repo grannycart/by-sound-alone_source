@@ -732,70 +732,71 @@ They made their way up to the galley, where Chips left Shakes to continue workin
 
 Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ settled back on course, leaving Gregory and Bastian at the controls. The boat would spend the remaining hours of daylight running underwater. Hemi did not neglect to warn Gregory to keep a very close eye on the depth and ballast control panel and not let the boat dive any deeper than they already were while the _Gnat_ was attached.
 
-"So Captain fucking Shakes," said Percy, settling next to him with her own stale cup of coffee, "you made it out of the depot without causing a problem?"
+"So Captain Shakes," said Percy, settling next to him with her own stale cup of coffee, "you made it out of the depot without causing a problem?"
 
 "Well... there was in fact a little fuckin'... drama. I'm sure you heard some of it."
 
 "We got a tip to leave before anything very dramatic happened," said Hemi.
 
-"So I gathered from your note Captain Percy. Unfortunately I was in the middle of some work on the _Gnat_ when I got that note, otherwise I would have left right then myself. The _Gnat's_ engine was in fuckin' pieces -- I was putting a new exhaust in that I got in a deal in one of the parts shops on the exchange floor. So I was stuck on the fucking dock when that fuckin' Authority sub arrived."
+"So I gathered from your note Captain Percy. Unfortunately I was in the middle of some work on the _Gnat_ when I got that note, otherwise I would have left right then myself. The _Gnat's_ engine was in fuckin' pieces -- I was putting a new exhaust in that I got in a deal in one of the parts shops on the exchange floor after I had got my cargo transshipped. So I was stuck on the fucking dock when that fuckin' Authority sub arrived."
 
 "What sub? Was it the sub with the ram?" Hemi asked.
 
-"Well, I couldn't very well see whether it had a ram from inside the docking bay, could I?  But if you made me guess, I'd say sure: it was that same fuckin' sub that kept showing up in your 'scope. ...Word from some of the dock workers was they specifically asked about y'all."
+"Well, I couldn't very well see whether it had a ram from inside the docking bay, could I? But I heard the name of the boat was the _Grackle_, that mean anything to y'all?"
 
-"They asked about the _Prospect_ by fucking name?" Percy was horrified that any Authority would know the name of her boat at all, never mind going around asking about it.
+"From the Northern Points Authority?" asked Percy.
 
-"Yep. They docked and unloaded a bunch of big fucking goons. Bigger even than those who worked at the depot. Or, better fuckin' armed and armored at least. The goons tore through the whole fuckin' depot checking papers at every slip with a sub docked, questioning every person they saw in the docking bay."
+"That's what the dock workers told me. How did you know that?"
+
+"Miss Mai, who gave us this job, suggested that might be the identity of the sub with the ram."
+
+"What did you do to the Northern Points that would send them after you?"
+
+"Nothing! Fuckin' Nothing. I've never been there. Miss Mai suggests there might be larger shifts happening in the world that could affect our innocent little business here," said Percy.
+
+"Well then. They docked and unloaded a bunch of big fucking goons. Bigger even than those who worked at the depot. Or, better fuckin' armed and armored at least. The goons tore through the whole fuckin' depot checking papers at every slip with a sub docked, questioning every person they saw in the docking bay."
 
 "Including you?" Percy asked.
 
-"Including me. That was no trouble, I've got quality fucking papers and stories to put off any Authority inspection long enough for me to tiptoe away."
+"Including me. That was no trouble, I've got quality fucking papers and stories to put off any Authority inspection long enough for me to tiptoe away. But here's a thing: they was specifically asking about your boat"
 
-"They asked you about the _Prospect_?"
+"They asked about the _Prospect_ -- by name?" Percy was horrified that any Authority would know the name of her boat at all, never mind going around asking about it.
 
-[//]: # (----- EDITED TO HERE -----)
+"Indeed. A couple of those goons stood over the slip to the _Gnat_ and asked me if I knew anything about a boat named the _Prospect_; small lady captain, big fuckin' first mate."
 
-"Indeed. A couple of those goons stood over the slip to the _Gnat_ and asked me if I knew anything about a boat named the _Prospect_; small lady captain, big fuckin' first mate, and a small crew that included a young man among them."
+"I assume you did not have any further information for them?" Hemi asked.
 
-"Strange," said Hemi. "And you did not find out specifically what Authority they represented?"
+"Of course fuckin' not. But that didn't matter. By the time they got far enough down the dock to talk to me it was just perfunctory-like questioning. They had already found out from other sub crews that you had definitely been there... And that you left with a load of magnetic warheads."
 
-[//]: # (Since the sub with the ram is now operating outside of their own jurisdiction, they themselves want to be parsimonious with who knows exactly who they are.)
+"They asked you about our fucking cargo too, eh?" said Percy.
 
-"No fucking way. They did not seem fuckin' forthcomin' with that information, and I wasn't about to fuckin' ask. By the time they got far enough down the dock to talk to me they had already found out from other sub crews that you had definitely been there... And that you left with a load of magnetic warheads."
-
-"They asked you about our fucking cargo too, eh?"
-
-"Ya. Fortunately, they didn't seem to know anything about me coming in with you. I guess the other sub crew are afraid enough of Authority goons with guns to give up someone who isn't around, but aren't such cowards as to go so far as to pointing at someone they can actually fuckin' see in the same space."
+"Ya. Fortunately, they didn't seem to know anything about me coming in with you. I guess the other sub crew are afraid enough of Authority goons with guns to give up someone who isn't around, but aren't such cowards as to go so far as pointing at someone they can actually fuckin' see in the same space."
 
 Hemi picked up a spoon and stirred his coffee. 
 
-Captain Percy lit a cheroot. "Shit." She said. "If they know we've got weapons parts on board, I'm sure they'll consider that justification for shooting to sink us rather than trying to get us to surface for a fucking inspection."
+Captain Percy lit a cheroot. "Shit," She said, "if they know we've got what-could-be-considered-by-certain-parties-as weapons parts on board, seems like they could take that as a fuckin' license to shoot to sink if they find us, rather than trying to get us to surface for an inspection."
 
-"Oh," said Shakes, "I didn't tell you the best fuckin' part yet... So after they finish questioning me, I discreetly -- and as quickly as I could -- started prepping the _Gnat_ to leave. And as I'm on the dock getting some cans of food to load into the hold, I see the commander of the Authority sub climb up out of their sub at the slip they had commandeered -- the commander is a real round guy, with only one fucking arm. He wears an Authority uniform with all the trimmings -- it looks as if he wears his full fucking dress uniform every day on board the sub! He takes a squad of goons -- maybe twenty of the fuckers -- and they go up the dock and out towards the exchange floor.
+"Oh," said Shakes after a pause, "I didn't tell you the best fuckin' part yet... So after they finish questioning me, I discreetly -- and as quickly as I could -- started prepping the _Gnat_ to leave. And as I'm on the dock getting some cans of food to load into the hold; I see the commander of the Authority sub climb up out of their sub at the slip they had commandeered -- the commander is a real round guy, he wears an Authority uniform with all the trimmings -- it looks as if he wears his full fucking dress uniform every day on board the sub! He takes a squad of goons -- maybe twenty of the fuckers -- and they go up the dock and out towards the exchange floor.
 
-[//]: # (2k words from last EDIT point)
-"Here's the good fucking part: while he's up there on the exchange floor, the watertight bulkhead between the docking bay and the upper levels goes into an emergency-close procedure. You know, the whole fuckin' shebang -- the klaxon is blaring, the red lights are spinning. The fucking Authority goons start running around in a panic, probably most of them think the docking bay is flooding, hell I thought that myself for a minute."
+"Here's the good fucking part: while he's up there on the exchange floor, the watertight bulkhead between the docking bay and the upper levels goes into an emergency-close procedure. You know, the whole shebang -- the klaxon is blaring, the red lights are spinning. The fucking Authority goons start running around in a panic, probably most of them think the docking bay is flooding, hell I thought that myself for a minute."
 
 "Fuckin' wow," said Percy half-grinning as she exhaled smoke.
 
-"Fuck Yeah. But it doesn't take long for the fuckin' goons to figure out that the docking bay _isn't_ flooding -- someone had just triggered the big watertight bulkhead to close just to fuck with all these Authority toughs. The meat shields weren't much less panicked at that though because half their fuckin' muscle and their fuckin' commander were now separated from them by half a meter of air-tight steel doors!
+"Fuck yeah. But it doesn't take long for the goons to figure out that the docking bay _isn't_ flooding -- someone had just triggered the big watertight bulkhead to close just to fuck with all these Authority toughs. The meat shields weren't much less panicked at that though -- because half their fuckin' muscle and their fuckin' commander were now separated from them by half a meter of air-tight steel doors!
 
-"So I wasn't going to miss this fuckin' wonderful opportunity of confusion -- I dumped whatever I could find laying around on the dock down into the _Gnat_, buttoned the boat up, and took the fuck off right then. Ran on battery as far as I could, then put the rest of the exhaust back together. Fortunately the diesel fired up no fucking problem and I made my way here."
+"So I wasn't going to miss this wonderful opportunity of confusion -- I dumped whatever I could find laying around on the dock down into the _Gnat_, buttoned the boat up, and took the fuck off right then. Ran on battery as far as I could, then put the rest of the exhaust back together. Fortunately the diesel fired up no fucking problem and I made my way here."
 
-"Hmm," said Hemi curiously. "Who do you suppose was willing to anger them further by closing the watertight bulkhead?"
+"Hmm," said Hemi, "whom do you suppose was willing to anger them further by closing the watertight bulkhead?"
 
 "My guess," said Shakes, "is that it was that dock boss lady. She was the first one the Authority goons questioned, of course, and she didn't look very fuckin' happy about it afterwards."
 
-"If that's true," said Percy, "then I fuckin' owe her a couple of times over now."
+"Tough as she looks, I guess," said Percy.
 
-"It is possible you made a friend of some subtlety there Sylvia," said Hemi.
-
-"That watertight bulkhead did not look like the kind of thing that was open and closed at the drop of a fuckin' hat," said Shakes. "I suspect it delayed that Authority sub leaving by a couple of hours, all told. I'm not sure I could have gotten the _Gnat_ away -- presumably unnoticed -- without that bit of fuckin' luck."
+"That watertight bulkhead did not seem like the kind of thing that was opened and closed at the drop of a fuckin' hat," said Shakes. "I suspect it delayed that Authority sub leaving by a couple of hours, all told. I'm not sure I could have gotten the _Gnat_ away -- presumably unnoticed -- without that bit of fuckin' luck."
 
 "Which brings up another thing I wanted to ask you about Captain Shakes," said Hemi, "that boat of yours certainly is... loud now."
 
-"Yup! I told you I put in a new exhaust. Straight pipe. Wedged it right up against the hull so the sound goes directly out into the fuckin' water. I also tuned it for power and made some adjustments to the gear box. The _Gnat's_ diesel now puts out far more torque than just about any other boat of its fuckin' size, I'd say. And that torque is converted to unbelievably fast prop speeds."
+"Fuck yeah! I told you I put in a new exhaust. Straight pipe. Wedged it right up against the hull so the sound goes directly out into the fuckin' water. I also tuned it for power and made some adjustments to the gear box. The _Gnat's_ diesel now puts out far more torque than just about any other boat of its fuckin' size, I'd say. And that torque is converted to unbelievably fast prop speeds."
 
 "And a fast prop and new exhaust mean exceptional noise," said Hemi.
 
@@ -803,25 +804,25 @@ Captain Percy lit a cheroot. "Shit." She said. "If they know we've got weapons p
 
 "Yes," said Percy, "though I was sort of expecting we could make the _Gnat_ sound like another big submarine, not an ocean liner."
 
-"The fuckin' louder the fuckin' better, I fuckin' figured," said Shakes, popping a wad of dried green leaves into his cheek. "Oh! I almost forgot: the other modification I made to the _Gnat_: I got a fuckin' pigeon."
+"The fuckin' louder, the fuckin' better, I fuckin' figured," said Shakes, popping a wad of dried green leaves into his cheek. "Oh! I almost forgot: the other modification I made to the _Gnat_: I got a fuckin' pigeon."
 
 "A pigeon?" Asked Hemi. "I have never heard of that. Some new kind of sonar unit?"
 
 "No no, like an _actual_ fuckin' pigeon-bird. A homing pigeon. Goes by the name of Herschel."
 
-"Oh, so you got a fucking pet..." said Percy, "to keep you company during those long hours alone aboard the _Gnat_. To keep you from going fucking crazy... er?"
+"Oh, so you got a pet..." said Percy, "to keep you company during those long hours alone aboard the _Gnat_. To keep you from going crazy... er?"
 
-"Naw, Herschel's not a pet, I told ya -- he's a fuckin' upgrade to the _Gnat_! See I got him from a guy on the dock. He's specially trained to look for his home roost on a submarine on the surface of the ocean. His roost is on the _Gnat_ now, and I've been taking care of him. Soon he'll realize the _Gnat_ is his fuckin' home. Then I just give him to you guys, and when you need me, you can send Herschel out to find the _Gnat_ with a message tied to his leg."
+"Naw, Herschel's not a pet, I told ya -- he's a fuckin' upgrade to the _Gnat_! See I got him from a guy on the dock. He's specially trained to look for his home roost on a submarine on the surface of the ocean. His roost is on the _Gnat_ now, and I've been taking care of him. Soon he'll realize the _Gnat_ is his home. Then I just give him to you guys, and when you need me, you can send Herschel out to find the _Gnat_ with a message tied to his leg."
 
 "Umm. Why would we use a pigeon instead of, say, the fuckin' radio?"
 
-"Well, I realized that with the modifications I was making to the fuckin' engine, the _Gnat_ is now so loud inside that I can't hear the radio while the diesel is running. I needed another way to communicate with you guys and Herschel seemed perfect. Messages by pigeon are also more secure than radio."
+"Well, I realized that with the modifications I was making to the engine, the _Gnat_ is now so loud inside that I can't hear the radio while the diesel is running. I needed another way to communicate with you guys, and Herschel seemed perfect. Messages by pigeon are also more secure than radio."
 
-"A fucking pigeon..." said Percy skeptically.
+"A pigeon..." said Percy skeptically.
 
-"But if you have the _Gnat's_ hatch closed, how will you know when Herschel has returned to you?" Asked Hemi. "It is not like you will be able to hear him tapping on the hatch with his beak..."
+"But if you have the _Gnat's_ hatch closed, how will you know when Herschel has returned to you?" asked Hemi. "It is not like you will be able to hear him tapping on the hatch with his beak..."
 
-"An astute fuckin' question my large friend. I don't want to leave the hatch open all the time. So I'm going to add a small hatch in the sail -- a hole just big enough for a pigeon. When Herschel has a message for me, he can just come in through his hatch. I only need Herschel when I'm running on the surface with the loud diesels, underwater we can just use ship-to-ship and I can keep Herschel's hatch closed. 
+"An astute fuckin' question my large friend. I don't want to leave the hatch open all the time. So I'm going to add a small hatch in the sail -- a hole just big enough for a pigeon. When Herschel has a message for me, he can just come in through his hatch. I only need Herschel when I'm running on the surface with the loud diesels, underwater we can just use ship-to-ship -- and keep Herschel's hatch closed, of course."
 
 Hemi grinned. "I cannot wait to meet Herschel. I volunteer to take responsibility for him while he's on board the _Prospect_. And I will ask Chips to help you with your pigeon hatch."
 
@@ -831,8 +832,22 @@ Hemi grinned. "I cannot wait to meet Herschel. I volunteer to take responsibilit
 
 Captain Percy rolled her eyes. "Whatever. Don't ever say I'm a captain who isn't willing to give new technology a fucking try. We'll take the pigeon aboard as our eighth crew member on a trial basis. Captain Shakes: how about a meal?"
 
-"Abso-fuckin'-lutely," said Shakes.
+"Sounds good. But I need to take a shit first. Where's the head on this boat?"
 
+"You haven't used the _Prospect's_ head yet?"
+
+"Naw. I prefer to waft my bum in the fortifying fresh air of the surface, if that's an option. But seeing as we're under right now..."
+
+"It's on the middle deck, aft of the crew quarters. Be careful. Make sure you read all the fucking instructions. It's complicated."
+
+"Aye, it's been a while since I used the fuckin' head on a sub. I sank the last sub I took a shit on."
+
+Percy decided to assume he was joking.
+
+[//]: # (----- EDITED TO HERE -----)
+[//]: # (2k words from last EDIT point)
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They eat a meal; salmon can conversation)
 
@@ -854,7 +869,7 @@ Percy called Gregory down from the control room and sent Owen up to relieve him.
 
 Hemi chuckled. "If you want to know the real reason, it is because the salmon canneries are all in remote parts of the north. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships moving the empty cans by nesting them."
 
-"Oh," said Shakes, somewhat disappointedly.
+"Oh," said Shakes, sounding somewhat disappointed.
 
 In another twenty minutes or so Gregory had steaming piles of rice on their plates smothered in bits of fish and ginger. He stir fried a couple of boxes of frozen spinach and scooped them onto their plates to supplement the black and white mush with some dark green.
 

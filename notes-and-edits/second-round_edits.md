@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-17 14:01
+Last modified: 2023-03-18 12:35
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -81,6 +81,12 @@ Edits to pick up in second full pass through the book
 		* It becomes a bit of a story about the wider world: shifting towards globalized markets, away from independent operators
 			* It would be nice if this also hinted at the *problems* with globalized markets; beyond the fact of putting independent logistics workers out of business 
 		* give the one-armed captain back his arm
+		* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
+	* Sections where this is addressed:
+		* Chap 3; lines 320 to 340 -- Miss Mai describing sitch to Percy
+			* see notes for depot in scene edits below
+		* Chap 4; lines 743 to 777 (maybe a bit more) -- Shakes relating what happened at the depot after they left
+			* See notes for shakes reuniting after depot in scene edits below
 * [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
 * [ ] Consider removing parts where Percy second-guesses herself.
@@ -201,7 +207,6 @@ Edits to pick up in second full pass through the book
 			* What is this mysterious job at the depot Percy is going for?
 			* It seems somewhat nefarious, is it connected to the sub pursuing them? (It is, though maybe that's never made explicit, or it's tied to the conversation about the morality of running weapons)
 			* See C's note on strengthening the delivery for the plot -- Percy knowing about it beforehand Percy essentially being willing to be a gunrunner -- ties the beginning, middle and end of book together
-			* The sub with the ram is using new powers (that are more global, part of a unifying and standardizing world) to chase them across boundaries (though, obviously, this is hardly a widely-held global standard yet, since the stilt city authorities want no military vessels, and the sub with the ram is happy to open up a slaughter on innocents when they get in the way of their quarry.)
 	* [X] see note about about learning the name of the sub with the ram at the depot
 	* [X] Edit descriptions of Cassandra: see B and C's notes
 	* [X] Find and replace: Trinity as a name
@@ -211,15 +216,10 @@ Edits to pick up in second full pass through the book
 	* [X] put in Gregory delivering cheroots to Percy (this has to be before Percy starts smoking her first cheroot, obviously):
 		* He pulled a paper packet from his pocket and tossed it to Percy. "They don't have the cigarillos you like, so I got you a carton of these cheroots."
 		* Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough fuckin' smokes. Oh well. Thanks Gregory." 
-	* [ ] confirms the identity of the Grackle
-	* [ ] confirm that he was able to transship is last load? or do we not really care?
-	* [ ] Make a reference to the head --- a joke about how complex it is to operate.
-		* Have Shakes say he needs to take a dump, someone warns him about reading the instructions first. or, he asks about instructions saying it's been a while since he used the head on a real sub
-			* "Anyway, I really need to take a shit. Where's the head?" "Middle deck, aft of the crew quarters. Be careful. Make sure you read the instructions, it's complicated."
-		* (has to be while they are submerged) 
-		* This can't go in before the depot, the only time they are submerged with Shakes aboard is during the search pattern before they hit the depot, and there's no real appropriate place.
-		* Keep an eye out for a spot for it later when they join up with Shakes again.
-			* I think there's a point where he comes aboard with an underwater mating. 
+	* [X] confirms the identity of the Grackle
+	* [X] confirm that he was able to transship is last load? or do we not really care?
+	* [X] Make a reference to the head --- a joke about how complex it is to operate.
+		* Added, Chap 4; like 840
 	* [ ] Have someone wash their hands with salt water soap
 * storm:
 	* [ ] Probably would make more sense for Owen to be the one who gets killed during the storm.
