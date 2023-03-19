@@ -26,7 +26,9 @@
 # 5. A Storm
 
 
-[//]: # (### Shakes leads off the sub with the ram )
+[//]: # (----- EDITED TO HERE -----)
+[//]: # (2k words from last EDIT point)
+[//]: # (### Shakes leads off the Grackle)
 
 The _Gnat_ was off and the _Prospect_ submerged and running at depth before the first molten blob of malevolent red sun percolated up on the horizon. Shakes was running the _Gnat_ hot and loud. He was standing up in the pilot's chair with head head above the hatch in the wind, trying to blow the bleary sleep out of his eyes. He sucked on a cigarette, but the wind was making the coal on the end glow in a fashion not totally dissimilar to the sun coming up on the horizon behind him. His cigarette was quickly disappearing into itself. A long shadow of the short sail of the _Gnat_ with his round head on top stretched out in front of him on the slate-gray water.
 
@@ -1033,5 +1035,9 @@ Hemi swung Herschel with both hands and released him at the highest point of the
 [//]: # (I really wanted to use nautical to mean amazing/cool in the next line like the deadliest catch guys do, but I could not make it feel right.)
 
 "I know you say that because you've grown attached to that little fuckin' bird," said Percy, "but it would be pretty miraculous if it works... and we find Shakes at the dock in Stilt City."
+
+
+[//]: # (Go back and delete comments with time/day references for run to stilt city?)
+
 
 

@@ -25,6 +25,7 @@
 # 4. Herschel
 
 
+[//]: # (----- EDIT REVIEWED TO HERE -----)
 [//]: # (### Next morning; loading compressed air)
 
 [//]: # (Morning: day 1, run to Stilt City)
@@ -941,7 +942,7 @@ Percy nodded.
 
 "Alright," said Percy, "bring the fucking pigeon over whenever you are ready Captain Shakes. Right now let's get the _Gnat_ running up on the surface, and get the _Prospect_ further down. I don't like being this shallow during the day."
 
-With a fake salute, Shakes went rearward toward the galley to take a refill of coffee with him, and then climbed downward to the deepest part of the _Prospect_, and then even lower to get back aboard the _Gnat_. 
+Shakes gave a fake salute, and went rearward toward the galley to take a refill of coffee with him. He then climbed downward to the deepest part of the _Prospect_, and then even lower to get back aboard the _Gnat_. 
 
 With the _Gnat_ off and surfaced, the _Prospect_ dove down to 100 meters where Percy was more comfortable with a heavier cover of ocean above her.
 
@@ -949,33 +950,34 @@ With the _Gnat_ off and surfaced, the _Prospect_ dove down to 100 meters where P
  
 
 [//]: # (### Uneventful run through the day and the night)
-[//]: # (----- EDITED TO HERE -----)
 
-The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with its diesel emitting a long shit-string of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_. At the slower speed, the _Gnat_ was not obtrusively loud, about the same as an average surface cargo ship. That was to their benefit because Authority enforcement craft were less likely to purse a target that sounded like a surface cargo ship -- at least during the day -- since anything on the surface was likely to be moving with the full blessing of the Authority.
+The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with its diesel emitting a long brown shit-string of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_. At that slower speed, the _Gnat_ was not obtrusively loud, about the same as an average surface cargo ship. That was to their benefit because Authority enforcement craft were less likely to purse a target that sounded like a surface cargo ship -- at least during the day -- since anything on the surface was likely to be moving with the full blessing of the Authority.
 
-Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. And the two boats droned their way across the curve of the globe. The only thing that changed was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
-[//]: # (2k words from last EDIT point)
+Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. The two boats droned their way across the curve of the globe. The only thing that changed with the passing time was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
 
 [//]: # (night 2, run to Stilt City)
-The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Captain Percy raised the _Prospect_ to the surface and they began their night crew rotations with someone always on the radar and someone always in the lookout ring. A filet knife of a moon came up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric or leather. 
 
-Shakes ran the _Gnat_ off at some distance for the first half of the night, and then dove and brought it under to mate with the _Prospect_. This dramatically slowed the _Prospect's_ speed, but Percy figured this was worth the trade-off of keeping Shakes alert and relatively sane during the day. He came on board and ate a couple of large bowls of a hot brown soup Gregory had left simmering on the range, accompanied by thick slices of a stale and grainy bread which Shakes would cover in butter and soak in the soup until each bite softened. He slept for a few hours in one of the _Prospect's_ comfortably padded racks. As the sky lightened in the east, Captain Percy woke him and told him it was time to get the _Gnat_ off.
+The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Captain Percy raised the _Prospect_ to the surface and began night crew rotations, with someone always on the radar and someone always in the lookout ring. A filet knife of a moon came up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric or leather. 
 
+Shakes ran the _Gnat_ off at some distance for the first half of the night, and then dove and brought it under to mate with the _Prospect_. This dramatically slowed the _Prospect's_ speed, but Percy figured this was worth the trade-off of keeping Shakes alert and relatively sane during the day by giving him a chance to sleep while they kept moving. He came on board and ate a couple of large bowls of a hot brown soup Gregory had left simmering on the range, accompanied by thick slices of a stale and grainy bread which Shakes would cover in butter and soak in the soup until each bite softened. He slept for a few hours in one of the _Prospect's_ padded racks. As the sky lightened in the east, Captain Percy woke him and told him it was time to get the _Gnat_ off.
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Herschel comes aboard the _Prospect_ for the first time.)
 
 [//]: # (Morning: day 3, run to Stilt City)
-Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch leading to the _Gnat_. Shakes disappeared down through the hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakable intelligence to the eyes.
+Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch leading to the _Gnat_. Shakes disappeared down through that hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakable intelligence to the eyes.
 
-"Hemi meet fuckin' Herschel," said Shakes holding the cage up for Hemi to take while he climbed up out of the _Gnat_.
+"Fuckin' Hemi meet fuckin' Herschel," said Shakes holding the cage up for Hemi to take while he climbed up out of the _Gnat_.
 
-Hemi poked a thick finger between the bars and rubbed Herschel's head gently. "Captain Shakes this bird looks perhaps smarter than you."
+Hemi poked a thick finger between the bars and rubbed Herschel's head gently. "Captain Shakes this bird looks perhaps smarter than me, or yourself."
 
 "Maybe you should hire him to drive the fuckin' _Gnat_ for you," said Shakes.
 
 "Is this cage not too small for him?"
 
-"That's just his fuckin' travel cage. I have a nice comfy roost installed for him down in the _Gnat_. You don't want him to forget where his home is, otherwise he won't return there when you fuckin' release him."
+"That's just his travel cage. I have a nice comfy roost installed for him down in the _Gnat_. You don't want him to forget where his home is, otherwise he won't return there when you release him."
 
 "Can I let him out of this cage?"
 
@@ -983,11 +985,11 @@ Hemi poked a thick finger between the bars and rubbed Herschel's head gently. "C
 
 "I believe I shall give this fellow the run of the boat."
 
-Shakes handed Hemi a small leather case with tiny papers and a steel band. "This is his leg band. It's pretty fuckin' self-explanatory. Just write your message, attach it, and toss Herschel in the air. He'll find the _Gnat_, if it's anywhere on the surface within maybe a hundred miles or so."
+Shakes handed Hemi a small leather case with tiny papers and a steel band. "This is his leg band. It's pretty self-explanatory. Just write your message, attach it, and toss Herschel in the air. He'll find the _Gnat_, if it's anywhere on the surface within maybe a hundred miles or so."
 
-"How do we get him _back_ though?" Asked Hemi.
+"How do we get him _back_ though?" asked Hemi.
 
-"Well..." said Shake scratching his grimy neck with black fingernails. "It's kinda a one-fuckin'-way thing. I have to give him back to you in person. We might be able to get him to fly over to the _Prospect_ from the _Gnat_ if you were within sight... and maybe he knew you had some fuckin' food."
+"Well..." said Shakes scratching his grimy neck with black fingernails. "It's kinda a one-fuckin'-way thing. I have to give him back to you in person. We might be able to get him to fly over to the _Prospect_ from the _Gnat_ if you were within sight... and maybe if he knew you had some food."
 
 "I understand. It's a 'homing' pigeon. It only goes home."
 
@@ -998,4 +1000,3 @@ Shakes handed Hemi a small leather case with tiny papers and a steel band. "This
 "I expect to, though I'll miss having my copilot with me."
 
 
-[//]: # (Go back and delete comments with time/day references for run to stilt city?)
