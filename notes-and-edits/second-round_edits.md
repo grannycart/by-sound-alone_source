@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-18 12:35
+Last modified: 2023-03-19 11:03
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -18,8 +18,8 @@ Edits to pick up in second full pass through the book
 	* [ ] convert latex style emdashes --- to md style -- on all files
 		* :%s/---/--/g
 	* [ ] note for markdown:
-		* use single underbars for emphasis. two astericks for bold (if there is any)
-		* DON'T use single astericks for emphasis. I find that confusing.
+		* use single underbars for emphasis. two asterisks for bold (if there is any)
+		* DON'T use single asterisks for emphasis. I find that confusing.
 	* [ ] add invisible spacing elements (generally where the ### break notes are)
 	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
 		* [ ] do a search for capital-S "Said"
@@ -30,7 +30,7 @@ Edits to pick up in second full pass through the book
 		* (you should do confirm-search for this)
 	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
 	* [X] after chapter 3: search cigarillo and replace with cheroot
-		* I did this on each file already, but keep an eye out for oddball missing ones (mispelled or whatever)	
+		* I did this on each file already, but keep an eye out for oddball missing ones (misspelled or whatever)	
 * [X] remove references to the "con" -- too military
 * [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.
 * [ ] Shakes needs to say 'ain't' more, like he does when he first appears
@@ -183,6 +183,7 @@ Edits to pick up in second full pass through the book
 	* I believe the first real explanation of active is line chapt 4 line 642, where Hemi explains it to Cassandra (which is the _right_ place for it.)
 		* Not sure if I do it AGAIN later though. 
 * [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
+	* At the depot, Hemi makes Percy re-hire Chips -- but she does so without apologizing
 * [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
 	* [ ] add something about Cassandra listening to music? 
 * [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
@@ -220,7 +221,7 @@ Edits to pick up in second full pass through the book
 	* [X] confirm that he was able to transship is last load? or do we not really care?
 	* [X] Make a reference to the head --- a joke about how complex it is to operate.
 		* Added, Chap 4; like 840
-	* [ ] Have someone wash their hands with salt water soap
+	* [X] Have someone wash their hands with salt water soap
 * storm:
 	* [ ] Probably would make more sense for Owen to be the one who gets killed during the storm.
 		* you don't need him for the adultery motivation any more

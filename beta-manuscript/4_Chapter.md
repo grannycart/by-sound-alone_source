@@ -844,16 +844,16 @@ Captain Percy rolled her eyes. "Whatever. Don't ever say I'm a captain who isn't
 
 Percy decided to assume he was joking.
 
-[//]: # (----- EDITED TO HERE -----)
-[//]: # (2k words from last EDIT point)
 [//]: # (----- invisible character break)
  
 
 [//]: # (### They eat a meal; salmon can conversation)
 
-Percy called Gregory down from the control room and sent Owen up to relieve him. Gregory fired up the cooking range and soon had canned salmon simmering in a slightly sweet dark sauce with bits of ginger in it. He put a big pot of rice on to steam.
+Percy called Gregory down from the control room and sent Owen up to relieve him. Shakes soon joined them in the galley, and scrubbed his grimy hands with salt-water soap and water from the sink's sea-water tap. 
 
-"That smells fuckin' astonishing Gregory." Shakes said. "I eat that canned salmon all the time when I'm alone on the _Gnat_ -- usually just cold and straight from the can though."
+Gregory fired up the cooking range and soon had canned salmon simmering in a slightly sweet dark sauce with bits of ginger in it. He put a big pot of rice on to steam.
+
+"That smells fuckin' astonishing Gregory," Shakes said. "I eat that canned salmon all the time when I'm on the _Gnat_ -- usually just cold and straight from the can though."
 
 "That's... pretty fucking foul Captain Shakes," said Gregory from the range, stirring his bits of fish around.
 
@@ -861,21 +861,21 @@ Percy called Gregory down from the control room and sent Owen up to relieve him.
 
 "Actually, now that you mention it Captain Shakes, I always thought that was weird myself. There has to be 300 cans in the galley, and all of them are perfect cylinders except for the fuckin' salmon."
 
-"I wish all cans were tapered," said Shakes. "Sometimes I knock a fucking stack of cans over on the _Gnat_ and the regular ones will run off under some piece of equipment. I'm pretty fucking sure there's some cans in the bottom of the boat that rolled there years ago and I never fuckin' saw again. But the taper on the salmon cans makes 'em roll around in a tight circle. They stay roughly where they fall no matter what the boat is doing and I can pick them right up before they get fucking lost."
+"I wish all cans were tapered," said Shakes. "Sometimes I knock a stack of cans over on the _Gnat_ and the regular ones will run off under some piece of equipment. I'm pretty fucking sure there's some cans in the bottom of the boat that rolled there years ago and I never saw again. But the taper on the salmon cans makes 'em roll around in a tight circle. They stay roughly where they fall no matter what the boat is doing and I can pick them right up before they get lost."
 
-"Maybe salmon manufacturers know mariners and submariners have a lot of salmon on board, and they shape them like that so our seagoing friends don't lose their precious fucking cans in the corners of ships." Gregory suggested.
+"Maybe salmon manufacturers know mariners and submariners have a lot of salmon on board, and they shape them like that so our seagoing friends don't lose their precious cans in the corners of ships," Gregory suggested.
 
 [//]: # (This brilliant, but incorrect, idea comes from my friend Andrew Berman.)
 
-Hemi chuckled. "If you want to know the real reason, it is because the salmon canneries are all in remote parts of the north. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships moving the empty cans by nesting them."
+Hemi chuckled. "If you want to know the real reason, it is because the salmon canneries are all in remote parts of the North. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships moving the empty cans by nesting them."
 
 "Oh," said Shakes, sounding somewhat disappointed.
 
-In another twenty minutes or so Gregory had steaming piles of rice on their plates smothered in bits of fish and ginger. He stir fried a couple of boxes of frozen spinach and scooped them onto their plates to supplement the black and white mush with some dark green.
+In another twenty minutes or so Gregory had steaming piles of rice on their plates smothered in bits of fish and ginger. He stir-fried a couple of boxes of frozen spinach and scooped them onto their plates to supplement the black and white mush with some dark green.
 
 Percy called the rest of the crew in to eat in rotations that always kept one person in the control room and another listening to sonar. Shakes, as usual, ate twice again as much as anyone else. 
 
-"Sweet Fuck." He said. "If you keep feeding me food I want to eat instead of forcing myself to eat cold shit from cans, I'm going to get fucking fat." He reclined in his chair and closed his eyes.
+"Sweet fuck," he said, "if you keep feeding me food I want to eat instead of forcing myself to eat cold shit from cans, I'm going to get fucking fat." He reclined in his chair, unbuckled his belt, and closed his eyes.
 
 "Nothing stopping you from equipping your boat with a hot plate Captain Shakes," said Gregory.
 
@@ -885,15 +885,17 @@ Shakes waved his hand in Gregory's direction lazily without opening his eyes.
 
 Shakes nodded sleepily as Hemi and Percy headed up to the navigation and sonar compartment.
 
-"It's probably time for more fucking coffee," said Gregory reaching for the pot with the dregs of the previous batch slowly embalming a permanent black-brown stain on the bottom.
+"It's probably time for more coffee," said Gregory reaching for the pot with the dregs of the previous batch slowly embalming a permanent black-brown stain on the bottom.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Planning the run with Shakes)
 
 [//]: # (Midday: day 2, run to Stilt City)
-Shakes joined Hemi and Percy at the navigation table a short while later, somewhat revived by Gregory's coffee, and carrying two more tin mugs filled with coffee for Hemi and Percy. They received them gratefully.
+Shakes joined Hemi and Percy at the navigation table a short while later, somewhat revived by Gregory's coffee, and carrying two more tin mugs filled with coffee for Hemi and Percy, which they received gratefully.
 
-"Here's what we're thinking Captain Shakes," said Percy. "We're well fucking into Consolidated States' waters now. I think trouble from them is unlikely."
+"Here's what we're thinking Captain Shakes," said Percy, "we're well fucking into Consolidated States' waters now. I think trouble from them is unlikely."
 
 Shakes nodded.
 
@@ -903,48 +905,56 @@ Shakes reached into his denim vest and withdrew a small pencil and a notebook co
 
 "That's unfortunate, but fucking unavoidable since we're heading for the mainland port of Stilt City," said Percy.
 
-"...The locals do not call it that." Put in Hemi.
+"...The locals do not call it that," put in Hemi.
 
 [//]: # (Stilt City is a white-people name for a city with a large indigenous population. The moniker fits so well that no matter what effort the natives of the city put in to have their city addressed by its actual name, the rest of the world can't help but know it by anything other than Stilt City. This, of course, leaves the city vague and unspecified as a city in the real world in this story. It also has a pleasant dream-like quality.)
 
-Percy waved him off. "We estimate it will take three or four days and nights to fuckin' get there. That's running slow and deep during the day, and fast on the surface at night with all things fuckin' nominal."
+Percy waved him off. "We estimate it will take three or four days and nights to get there. That's running slow and deep during the day, and fast on the surface at night with all things fuckin' nominal."
 
-"And what's the fuckin' plan for the _Gnat_?" Shakes asked.
+[//]: # (What does nominal mean? Who knows. Could mean anything really. Look it up.)
 
-"Generally, we'll have you run on the surface during the day. You can shut down the diesel maybe once a fuckin' hour or so, and we'll check in on ship-to-ship."
+"And what's the plan for the _Gnat_?" Shakes asked.
 
-"That will also give us a chance to listen for any contacts without being swamped out by the noise of your boat." Added Hemi.
+"Generally, we'll have you run on the surface during the day. You can shut down the diesel maybe once an hour or so, and we'll check in on ship-to-ship."
 
-"At night, the _Gnat_ is less useful as a decoy, since the _Prospect_ will be on the surface anyway. I think then you can mate up the _Gnat_ and get some sleep and a meal aboard the _Prospect_ -- at least for a few fucking hours each night."
+"That will also give us a chance to listen for any contacts without being swamped out by the noise of your boat," added Hemi.
+
+"At night, the _Gnat_ is less useful as a decoy, since the _Prospect_ will be on the surface anyway. I think then you can mate up the _Gnat_ and get some sleep and a meal aboard the _Prospect_ -- at least for a few hours each night."
 
 Shakes grinned at the thought of hot meals. "What happens if someone comes the fuck up on us in the night?"
 
-"Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive. I hate the fucking delay getting the _Gnat_ disconnected will cause, but I'd hate to deprive you of your fuckin' precious hot meals."
+"Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive. I hate the delay getting the _Gnat_ disconnected will cause, but I'd hate to deprive you of your fuckin' precious hot meals."
 
-Shakes grinned. "No fucking doubt! Just don't fucking forget that if you dive too deep with the _Gnat_ attached, I'll have a bunch of wet scrap metal instead of a boat hanging off the bottom of this rusting fat cigar." He scribbled a few notes. "What about sub with the ram and those fuckin' guys who were after you? What if they are still fucking following you?"
+Shakes grinned. "No fucking doubt! Just don't forget that if you dive too deep with the _Gnat_ attached, I'll have a bunch of wet scrap metal instead of a boat hanging off the bottom of this rusting fat cigar." He scribbled a few notes. "What about the _Grackle_ and those fuckin' guys who were after you? What if they are still following you?"
 
-"I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed cargo sub across the middle of another fuckin' Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
+"I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed cargo sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
-"I have no fucking idea," said Shakes. "It entirely depends on who the fuck they talked to while they were up on the exchange level. I didn't get to observe any of that."
+"I have no idea," said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to observe any of that."
 
 Percy nodded.
 
-"What about Herschel?" Asked Hemi. "When will he be ready to come aboard the _Prospect_? The _Gnat_ could potentially be a long way off pretty quickly if we get into this situation where you are leading a contact away from the _Prospect's_ location. It would be nice to have Herschel ready to go find you, if that happens."
+"What about Herschel?" asked Hemi. "When will he be ready to come aboard the _Prospect_? The _Gnat_ could potentially be a long way off pretty quickly if we get into this situation where you are leading a contact away from the _Prospect's_ location. It would be nice to have Herschel ready to go find you, if that happens."
 
 "Is that what you are really thinking Hemi?" Percy asked with a grin. "Or are you just looking forward to having a fuckin' fluffy new crew member to take care of?"
 
 "I'm hoping Herschel is acclimated to the _Gnat_ in another day or two. Then we can move him aboard the _Prospect_," said Shakes.
 
-"Alright," said Percy, "bring the fucking pigeon over whenever you are ready Captain Shakes. Right now let's get the fuckin' _Gnat_ running up on the surface, and get the _Prospect_ further down. I don't like being this fucking shallow during the day."
+"Alright," said Percy, "bring the fucking pigeon over whenever you are ready Captain Shakes. Right now let's get the _Gnat_ running up on the surface, and get the _Prospect_ further down. I don't like being this shallow during the day."
 
-With a fake salute, Shakes went rearward toward the galley to take a refill of coffee with him, and then climbed downward to the deepest part of the _Prospect_, and then even lower to get back aboard the _Gnat_. With the _Gnat_ off and surfaced, the _Prospect_ dove down to 100 meters where Percy was more comfortable with a heavier cover of ocean above her.
+With a fake salute, Shakes went rearward toward the galley to take a refill of coffee with him, and then climbed downward to the deepest part of the _Prospect_, and then even lower to get back aboard the _Gnat_. 
 
+With the _Gnat_ off and surfaced, the _Prospect_ dove down to 100 meters where Percy was more comfortable with a heavier cover of ocean above her.
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Uneventful run through the day and the night)
+[//]: # (----- EDITED TO HERE -----)
 
 The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with its diesel emitting a long shit-string of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_. At the slower speed, the _Gnat_ was not obtrusively loud, about the same as an average surface cargo ship. That was to their benefit because Authority enforcement craft were less likely to purse a target that sounded like a surface cargo ship -- at least during the day -- since anything on the surface was likely to be moving with the full blessing of the Authority.
 
 Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. And the two boats droned their way across the curve of the globe. The only thing that changed was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
+[//]: # (2k words from last EDIT point)
 
 [//]: # (night 2, run to Stilt City)
 The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Captain Percy raised the _Prospect_ to the surface and they began their night crew rotations with someone always on the radar and someone always in the lookout ring. A filet knife of a moon came up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric or leather. 
