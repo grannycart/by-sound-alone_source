@@ -59,12 +59,12 @@ $(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 	pandoc -s $(TOC) --css=$(CSS) --self-contained $(DATE) --from markdown+smart --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
-	mkdir $(BUILD)/pdf
+	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
 	pandoc $(TOC) -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
-	mkdir $(BUILD)/latex
+	mkdir -p $(BUILD)/latex
 #	I use this target for prepping for paper version of the book 
 #	(so, scrbook latex class is used here and page it set to 5.5x8.25)
 #	No TOC for book printing file
