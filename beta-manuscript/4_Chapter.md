@@ -25,13 +25,12 @@
 # 4. Herschel
 
 
-[//]: # (----- EDIT REVIEWED TO HERE -----)
 [//]: # (### Next morning; loading compressed air)
 
 [//]: # (Morning: day 1, run to Stilt City)
-The next morning, Hemi was up first, and dragged a bleary and aching Bastian out of the rack to help him track down some dock workers with the rig that would recharge the compressed air tanks on the _Prospect_. Setting up this rig would involve running a length of expandable rigid pipes down the docking bay, through the cargo hatch, and connecting those to pipe fittings mounted to the ceiling of the _Prospect's_ cargo hold. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_, and that air was under such an immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well via some valves on the tank ballast panel in the control room to bleed off air from the high-pressure system to the low-pressure tanks.
+The next morning, Hemi was up first, and dragged a bleary and aching Bastian out of the rack to help him track down some dock workers who knew how to use the rig that would recharge the compressed air tanks on the _Prospect_. Setting this up would involve running a length of expandable rigid pipes down the docking bay, through the cargo hatch, and connecting those to pipe fittings mounted to the ceiling of the _Prospect's_ cargo hold. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_, and that air was under such an immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well via some valves on the tank ballast panel in the control room that would allow him to bleed off air from the high-pressure system to the low-pressure tanks.
 
-The docking bay had high-pressure pipes that were fed down from tanks and compressors located in some equipment space up above the exchange floor. The docking bay high-pressure system was mostly just kept ready for a flooding emergency where water might have to be blown out. Most subs at the dock already had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had equipment for it, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian and a bag full of money looking for those people.
+The docking bay had high-pressure pipes that were fed down from compressors located in some equipment space up above the exchange floor. The docking bay high-pressure system was mostly just kept ready for a flooding emergency where water might have to be blown out. Most subs at the dock already had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had equipment for it, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian and a bag full of money looking for those people.
 
 By the time they got back, the rest of the crew had managed to crawl slowly and painfully out of their racks, got themselves fed and coffeed, and busied themselves with odd jobs around the boat while waiting for Hemi to return with instructions for things that actually needed to get done. Hemi sent Gregory and Cassandra up to the exchange floor with a stack of coins to track down enough food and consumable supplies to get the crew through the run ahead of them. He figured Cassandra had been in this depot long enough that she might be able to help Gregory acquire some better-than-average submarine grub. Chips had Owen down in the engine room going over the diesels and the motors very carefully and Hemi was neither going to disrupt Chips in that process, nor take Owen from her for something else.
 
@@ -52,7 +51,7 @@ With food aboard, Hemi found Captain Percy in the sonar compartment around midda
 
 "Nice work Hemi. Do we have any money left?"
 
-"Well, we have been spending coin with a shovel to get this all done quickly. But even after covering Shake's costs, we should still come out a bit ahead."
+"Well, we have been spending coin with a shovel to get all this done quickly. But even after covering Shake's costs, we should still come out a bit ahead."
 
 "Clandestine work does fuckin' pay, don't it?"
 
@@ -62,7 +61,7 @@ Bastian's tall skinny form suddenly filled the hatchway forward to the next comp
 
 "Captain Percy, this guy says he has a message for you."
 
-The kid did not say anything but handed Percy a scrap of paper and then stood to one side looking at the deck.
+The kid did not say anything but handed Percy a scrap of paper and then stood to one side examining the deck with his head down.
 
 Percy unfolded the paper. Written in a slightly wavering hand with printed capital letters said: IT IS TIME TO LEAVE.
 
@@ -117,7 +116,7 @@ Percy put the headphones on and made some further adjustments to the filter swit
 
 In her headphones the groaning hull's pitch changed as it dropped further down the water column into the colder, denser water where sound found new rules by which it could propagate itself. The groan turned to a low rattling whine.
 
-And then Percy heard a crunching pop. She could hear a huge bubble of air escape, the life-bubble of whoever was inside that submarine, squeezed out of it instantaneously as the broken little sub sank beyond its crush depth. The compressed carcass of sub made no more sound, but she sat listening for a few seconds to the rushing sound of the bubble climbing the distance to the surface.
+And then Percy heard a crunching pop. And she heard a huge bubble of air escape, the life-bubble of whoever was inside that submarine, squeezed out of it instantaneously as the broken little sub sank beyond its crush depth. The compressed carcass of sub made no more sound, but she sat listening for a few seconds to the rushing sound of the bubble climbing the distance to the surface.
 
 [//]: # (----- invisible character break)
  
@@ -138,7 +137,7 @@ Hemi's voice came over the PA. "Everyone be ready to toss lines. Gregory, get th
 
 "I hope we didn't fuckin' forget anything," Bastian said.
 
-"I'd rather leave some stuff behind than be sucked onto a fuckin' slip when whoever fired that torpedo arrives here," said Percy.
+"I'd rather leave some stuff behind than be sucked onto a slip when whoever fired that torpedo arrives here," said Percy.
 
 Gregory's voice came over the ship PA. "Hemi, the cargo hatch is sealed and flooded. You can let go the docking clamps whenever you're ready. Cassandra and I are headed towards the sonar compartment."
 
@@ -173,6 +172,8 @@ It was time for Captain Percy to get her boat out from under the docking bay.  "
 "Correct," Hemi replied, "I have been keeping the tanks trimmed with just a bit of positive buoyancy while we have been docked to keep us pressed firmly up against the mating collar of the slip, so we will have to take on some water after we release."
 
 Percy nodded. It was a standard maneuver for a docking situation like this one. "OK, let go the docking clamps." 
+
+[//]: # (----- EDIT REVIEWED TO HERE -----)
 
 Hemi picked up the ship-to-ship mic and told the docking control office they were leaving. He did not wait for them to reply before reaching over and flipping the switch that operated the electro-magnets in the docking clamps. The clamps reversed with a loud clunk that echoed up the length of the _Prospect's_ hull.
 

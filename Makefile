@@ -31,7 +31,7 @@ all: book
 book: epub html pdf latex txt md 
 
 clean:
-	rm -r $(BUILD)
+	rm -rfd $(BUILD)
 
 epub: $(BUILD)/epub/$(BOOKNAME).epub
 
