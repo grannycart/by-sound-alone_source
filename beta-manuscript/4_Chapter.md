@@ -173,8 +173,6 @@ It was time for Captain Percy to get her boat out from under the docking bay.  "
 
 Percy nodded. It was a standard maneuver for a docking situation like this one. "OK, let go the docking clamps." 
 
-[//]: # (----- EDIT REVIEWED TO HERE -----)
-
 Hemi picked up the ship-to-ship mic and told the docking control office they were leaving. He did not wait for them to reply before reaching over and flipping the switch that operated the electro-magnets in the docking clamps. The clamps reversed with a loud clunk that echoed up the length of the _Prospect's_ hull.
 
 "I am going to open the main ballast vent valves," Hemi warned the other crew members with him in the control room. He stepped up to the tank trim control panel, and rolled open each of the wheels controlling the ballast valves.
@@ -185,7 +183,7 @@ There was a hiss of air escaping from the boat and the _Prospect_ fell slowly do
 
 Owen pulled the throttle controls backwards, and they felt a small acceleration towards the rear.
 
-"Control room!" Bastian shouted up from the sonar station. "There's fucking boats everywhere in the fucking water! Seems like no one wants to be hanging around this fucking shithole anymore. You're going to have to move slowly to get out of here without fucking hitting one of them."
+"Control room!" Bastian shouted up from the sonar station. "There's fucking boats everywhere in the water! Seems like no one wants to be hanging around this shithole anymore. You're going to have to move slowly to get out of here without hitting one of them."
 
 "The last thing any of them want is to move slowly and cautiously right now, of course," Percy said to Hemi as he hung on to the leather strap over the captain's station.
 
@@ -198,7 +196,7 @@ Hemi was too busy considering his options to respond. He was counting seconds to
 
 "Right Boss, hang on." A full minute passed. "It sounds like you can come about to 180, nobody moving directly to the south of us."
 
-"OK then. Owen, creep forward, port to 180 degrees." Hemi said. "Bastian, continue to ensure we are not headed into anyone."
+"OK then. Owen, creep forward, port to 180 degrees." Hemi said. "Bastian, continue to ensure we are not about to run into anyone."
 
 "Right Boss!" Bastian repeated.
 
@@ -222,7 +220,7 @@ As Gregory turned the dive plane wheel and steered the boat into the depths, Hem
 
 Percy reached for some switches on the wall that changed the lighting to night lighting. The white lights faded away and red bulbs came on bathing them all in a sanguine glow. It was not strictly necessary -- night lighting was really to preserve the night-vision for anyone who needed to look through the periscope -- but Percy was of the school that believed in switching to night lighting in any situation where she needed her crew to remain alert. The red light served as a constant reminder that they needed their sharpest skills and tactics.
 
-"Keep us close to that fucking seamount," said Percy, "it will give us extra cover if they decide to use their active sonar."
+"Keep us close to that seamount," said Percy, "it will give us extra cover if they decide to use their active sonar."
 
 "No reason not to make a tricky operation even trickier," said Hemi. "Bastian, are we clear of the traffic abandoning the depot?"
 
@@ -230,7 +228,7 @@ Percy reached for some switches on the wall that changed the lighting to night l
 
 "Any of them going deep?"
 
-"Doesn't sound like it. I think we're the only ones who took that fucked-up route."
+"Doesn't sound like it. I think we're the only ones who took that particular route."
 
 Hemi had Owen bring the bow around, and they sank obliquely, traveling close to and across the sloping wall of the seamount.
 
@@ -240,7 +238,7 @@ Hemi looked at Percy. He was not going to level off the dive until she said so.
 
 "210 meters. Still descending," said Gregory.
 
-"Ah ya fucking fuckturds!" Chips voice came up from the sonar compartment where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to fucking me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
+"Ah ya fucking fuckturds!" Chips voice came up from the sonar compartment where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
 
 "For fuck's sake Chips! If it's a choice between going deep or being fucking torpedoed, we're going deep," Percy replied. After a short pause, she said to herself, "I need a fuckin' smoke." She suddenly realized she had not smoked since the last time the _Prospect_ was moving. 
 
@@ -258,7 +256,7 @@ As Gregory started opening and closing valves on the trim tank control panel, th
 
 "Easy my pretty lady," Percy whispered to her boat.
 
-Hemi watched Gregory's work on the trim. When he was satisfied, he got them moving slowly and silently out into the deep ocean. "Creep speed -- three knots Owen. You can steer us away from the seamount wall now."
+Hemi monitored Gregory's work on the trim. When he was satisfied, he got them moving slowly and silently out into the deep ocean. "Creep speed -- three knots Owen. You can steer us away from the seamount wall now."
 
 They slunk away from the depot through the pitch deep. The depth-under-keel gauge rapidly climbed until it pegged itself on the 'bottomless' pin.
 
@@ -270,11 +268,11 @@ From sonar, Bastian reported that he thought he could hear some disturbing sound
 [//]: # (### looking at the charts)
 
 [//]: # (Mid-afternoon: day 1, run to Stilt City)
-The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on which everyone understood to mean the situation had returned to something like normal, even though it remained nothing like safe to be running beyond the edge of their normal operating depth.
+The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on, which everyone understood to mean the situation had returned to something like normal, even though it remained nothing like safe to continue running beyond the edge of their normal operating depth.
 
 "Hemi, join me at the navigation station, it's time for us to figure out where we're going," said Percy.
 
-They climbed down the ladder and turned the lights on over the navigation table. Hemi unsealed and unrolled a new chart, and laid it down under the glass. He wiped the old grease pencil marks off the glass with a rag.
+They climbed down the ladder and turned the lights on over the navigation table. Hemi unsealed and unrolled a new chart, and laid it down under the glass. He wiped the old grease pencil marks off with a rag.
 
 "I got us a more up-to-date chart at the depot," Hemi said. "Look, the depot is here. And..." He looked over some notes on their current course and speed from a clipboard he had been updating over the last couple of hours, then put a small x on the glass, not far from the deserted island that held the depot. "I estimate we are about here, now."
 
@@ -282,7 +280,9 @@ Percy pointed to a hashed arc printed on the chart that ran past one side of the
 
 "Yes," said Hemi. "Western Federated Socialists on the east side of it, Consolidated States of the Archipelago Islands on the west side of it." He looked at the date printed in the corner of the chart. "At least as of the printing of this chart, eight months ago."
 
-"We need to head towards Stilt City. But I think we should take a slightly less than direct course." Percy drew an arcing route on the chart with the tip of her finger. She indicated a point on the arc. "And I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
+"We need to head towards Stilt City. But I think we should take a slightly less than direct course." Percy drew an arcing route on the chart with the tip of her finger. She indicated a point on the arc. "I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
+
+[//]: # (----- EDIT REVIEWED TO HERE -----)
 
 "Good. And yes, further into the Consolidated States waters will be better. They are far less likely to bother us, and we can travel for a few days while remaining in their waters. But..." He took another chart from the stack of rolled charts and unrolled it in front of Percy. "To get to Stilt City, we eventually have to head through these waters in the south. A highly contested area. At least three -- up to five -- Authorities all claiming parts of it."
 
