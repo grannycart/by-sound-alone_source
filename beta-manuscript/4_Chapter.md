@@ -282,8 +282,6 @@ Percy pointed to a hashed arc printed on the chart that ran past one side of the
 
 "We need to head towards Stilt City. But I think we should take a slightly less than direct course." Percy drew an arcing route on the chart with the tip of her finger. She indicated a point on the arc. "I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
 
-[//]: # (----- EDIT REVIEWED TO HERE -----)
-
 "Good. And yes, further into the Consolidated States waters will be better. They are far less likely to bother us, and we can travel for a few days while remaining in their waters. But..." He took another chart from the stack of rolled charts and unrolled it in front of Percy. "To get to Stilt City, we eventually have to head through these waters in the south. A highly contested area. At least three -- up to five -- Authorities all claiming parts of it."
 
 "Well, we'll just have to be fucking careful when we move through there. We'll be disciplined about running on the surface only at night, and max out our underwater time during the day."
@@ -304,7 +302,7 @@ Percy pointed to a hashed arc printed on the chart that ran past one side of the
 
 Captain Percy considered. "I think so. Take us up to six knots. Only top sonar people deliberately looking for us could hear us at six knots at this range and depth. In a few hours more, we'll come up a bit shallower and you can start rearranging the hold."
 
-"Sounds good," said Hemi as he started climbing back up to the control room to have Owen put a little more speed on.
+"Sounds good," said Hemi as he started climbing back up to the control room to have Owen increase the throttle.
 
 [//]: # (----- invisible character break)
  
@@ -314,7 +312,7 @@ Captain Percy considered. "I think so. Take us up to six knots. Only top sonar p
 [//]: # (Late-afternoon: day 1, run to Stilt City)
 Six knots was still slow, but twice the speed at which they had crawled away from the depot. With three more hours of cruising, they were out of range of all the but the very best sonar gear and ears in the world. Percy had them come up to 100 meters to take some of the strain off the hull.
 
-When the boat reached this shallower depth, Hemi stood at the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said to her as she stood behind him smoking, "I think we can certainly do better with the trim if we move some of the cargo around down in the hold."
+When the boat reached this shallower depth, Hemi worked the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said to her as she stood behind him smoking, "I think we can certainly do better with the trim if we move some of the cargo around down in the hold."
 
 "OK. Take Owen and Bastian down there with you. I'll watch the trim with Gregory in case she starts to lean or something. Keep in mind that it might be bad if you drop any of those fucking crates."
 
@@ -329,7 +327,7 @@ Hemi had Owen rig a hoist and chain to sliding fixtures on the roof of the cargo
 Every so often they would come across a non-perishable food crate, and they would have to interrupt their re-arranging work to unpack the food and bring it up to the galley to be stowed.
 
 [//]: # (Early-evening: day 1, run to Stilt City)
-It ended up taking a few hours to complete a first pass at rearranging hold. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made slight adjustments to the trim of the boat, before Hemi returned to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
+It ended up taking a few hours to complete a first pass at rearranging the hold. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made slight adjustments to the trim of the boat, before Hemi returned to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
 
 "Fuckin' eh Hemi," said Gregory when Hemi was finally settled back into the control room, "seemed like the boat was trim enough when we left the fuckin' depot. Didn't slow us down none."
 
@@ -390,9 +388,11 @@ Cassandra closed her eyes. In her headphones she could hear a distant clicking, 
 
 Cassandra nodded again.
 
-"That is because the sonar uses a couple of sets of microphones, one on the front of the boat, and one at the rear. Sound coming in hits one microphone before the other, and the sonar rig puts the difference into the earphones for you. With practice, you can use the difference in how long it takes to estimate how far away a contact is, for instance, I can tell you these dolphins are about a third of a nautical mile away. That only works if the contact is close enough that we can hear the difference though. If you think about it: a contact that is farther away will send out a sound that will be murky enough by the time it gets to us to hit both the microphones on the bow of the _Prospect_ and the stern at basically the same time." 
+"That is because the sonar uses a couple of sets of microphones, one on the front of the boat, and one at the rear. Sound coming in hits one microphone before the other, and the sonar rig puts the difference into the earphones for you. With practice, you can use the difference in how long it takes to estimate how far away a contact is. For instance, I can tell you these dolphins are about a third of a nautical mile away. That only works if the contact is close enough that we can hear the difference though. If you think about it: a contact that is farther away will send out a sound that will be murky enough by the time it gets to us to hit both the microphones on the bow of the _Prospect_ and the stern at basically the same time." 
 
 "OK, ya, that makes sense," said Cassandra, picturing the sound waves bouncing off the boat in her head.
+
+[//]: # (----- EDIT REVIEWED TO HERE -----)
 
 Hemi smiled. "Miss Cassandra, you may have a career ahead of you. Keep practicing until we surface and start the diesels later tonight. You will not be able to hear anything after that."
 
