@@ -392,9 +392,7 @@ Cassandra nodded again.
 
 "OK, ya, that makes sense," said Cassandra, picturing the sound waves bouncing off the boat in her head.
 
-[//]: # (----- EDIT REVIEWED TO HERE -----)
-
-Hemi smiled. "Miss Cassandra, you may have a career ahead of you. Keep practicing until we surface and start the diesels later tonight. You will not be able to hear anything after that."
+Hemi smiled. "Miss Cassandra, you may have a career ahead of you. Keep practicing until we surface and we start the diesels later tonight. You will not be able to hear anything after that."
 
 "OK Hemi. Thanks."
 
@@ -414,7 +412,7 @@ Hemi left her there listening to the dolphins and climbed up next to Percy in th
 [//]: # (Early-night: night 1, run to Stilt City)
 A few hours later the clocks and sun charts coordinated to tell them that it was well after dark on the surface. Percy had the boat come up to periscope depth and she put the scope up to check the surface. Finding an empty black horizon in all directions, she had Gregory blow air into the main ballast tanks from the low-pressure system and raise the _Prospect_ fully up to the surface.
 
-Captain Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the diesels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic these days, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar -- on the surface they created a fairly strong radar signature. But they ran their own radar receiver. If anyone else was tracking the _Prospect_ with radar, the _Prospect's_ crew would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
+Captain Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the diesels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic these days, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar -- on the surface they created a fairly strong radar signature. But at the same time, they ran their own radar receiver. If anyone else was tracking the _Prospect_ with radar, the _Prospect's_ crew would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
 
 The only other way they might be found is if an Authority ship heard the _Prospect's_ rumbling diesels on sonar. But to do that they would have to be within ten or twenty nautical miles of the _Prospect_. Not an impossible scenario, but somewhat unlikely on any normal night of a cargo run.
 
@@ -424,7 +422,7 @@ Percy looked at Hemi. "Be glad you don't have to do fucking lookout duty anymore
 
 "I am," said Hemi, "I remember it well. At night, you are just standing up there in the wind, like you are swimming through pure blackness. Your mind starts to play tricks on you when you most need to keep your mind clear. It is a young person's job."
 
-"Reliable young people, anyway," said Percy. "Hey down there in the control room," she shouted down through the hatch, "you can start the diesels."
+"Reliable young people, anyway," said Percy. "Hey down there in the control room," she shouted through the hatch, "you can start the diesels."
 
 There was a moment more of the quiet of the water sloshing down the length of the hull pushed by the electric motors before the diesels deep in the belly of the _Prospect_ hissed, coughed, and fired. Black smoke streamed out behind the sail. The vibration of the engines carried up up through the deck and shook the soles of their feet.
 
@@ -444,7 +442,7 @@ Hemi called down to ask for their new speed and to confirm the heading. He marke
 
 "You're fucking kidding?"
 
-Hemi looked at her incredulously. He was hardly ever kidding. "Apparently with the whole boat underwater more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable 40 miles off or so on sonar."
+Hemi looked at her incredulously -- he was hardly ever kidding. "Apparently with the whole boat underwater more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable 40 miles off or so on sonar."
 
 "So once again the newfangled technology doesn't solve a fucking problem, it just creates more options for a captain to have to make fucking decisions about." Percy spat.
 
@@ -461,7 +459,7 @@ Percy lit a cheroot. Hemi looked up at the dark gray sky, mostly obscured by clo
 "And if we can rely on Shakes to know where he is..."
 
 [//]: # (Midnight: night 1, run to Stilt City)
-The night ground on with the unvarying drone of the diesel engines always under the foot of any crew member on deck, and relentlessly surrounding anyone below decks. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries that powered the electric motors that actually propelled the boat, they were always run at the same optimum-efficiency speed for spinning the generators. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For the crew at the controls, with no depth to control while they were on the surface and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
+The night ground on with the unvarying drone of the diesel engines always under the foot of any crew member on deck and relentlessly surrounding anyone below decks. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries that powered the electric motors that actually propelled the boat, they were always run at the same optimum-efficiency speed for spinning the generators. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For the crew at the controls, with no depth to control while they were on the surface and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
 
 Percy knew that this was the hardest part of the job -- remaining always ready to take action when there was absolutely nothing to do. The crew had to stay focused on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything was not just a grime-coated gray accompanied by a background of lush and never-changing noise that managed to be the exact auditory equivalent to the bland color that surrounded them.
 
@@ -497,7 +495,7 @@ Cassandra set the headphones back into their comfortable position on her ears, a
 
 "I didn't realize when I agreed to come on board that this job would be so mind-numbing... and boring."
 
-"That is what makes it so hard, and why only a certain type of person makes it as a submariner. I think on land there is something of a perception that it is this glorious job, where you are out from under the thumb of Authorities, free to pursue your own career, and helping to make world commerce go around. The people on land know it is dangerous, and that gets mixed into the legend of who a submariner is. But in reality, the people who make good submariners are the ones who can handle being in a cramped space for days on end with no changes in their environment at all, and still manage to keep their mind sharp enough to snap into action when a situation presents itself. It is not a job that is an expression of physical acuity. It is a job that puts your mental toughness to the test."
+"That is what makes it so hard, and why only a certain type of person makes it as a submariner. I think on land there is something of a perception that it is this glorious job, where you are out from under the thumb of Authorities, free to pursue your own career, and helping to make world commerce go around. The people on land know it is dangerous, and that gets mixed into the legend of who a submariner is. But in reality, the people who make good submariners are the ones who can handle being in a cramped space for days on end with no changes in their environment at all and still manage to keep their mind sharp enough to snap into action when a situation presents itself. It is not a job that is an expression of physical acuity. It is a job that puts your mental toughness to the test."
 
 "I certainly don't have much to offer in physical strength..." said Cassandra.
 
@@ -509,7 +507,7 @@ Cassandra set the headphones back into their comfortable position on her ears, a
 
  "Ah..." she said, her eyes widening as large piece of her world that didn't quite make sense before fell into place in her mind.
 
-"Unlike work on land, there are few regulations or rules controlling our work out here. The job has strong evolutionary forces in play. The only people doing the work are the ones who _can_. Everyone else goes home, back to their Authorities, and policies, and networks of contacts. On land you get a job based on what you look like, and who you know. Out here, you get a job if you can do the job. We do not care who you know, where you came from, or what you look like."
+"Unlike work on land, there are few regulations or rules controlling our work out here. The job has pure evolutionary forces in play. The only people doing the work are the ones who _can_. Everyone else goes home, back to their Authorities, and policies, and networks of contacts. On land you get a job based on what you look like, and who you know. Out here, you get a job if you can do the job. We do not care who you know, where you came from, or what you look like."
 
 A smile cracked across Cassandra's face. "That's why you hired me?"
 
@@ -560,6 +558,8 @@ Cassandra nodded.
 Hemi smiled, "and just a little bit of a cliché," he said more loudly for Owen's benefit. "I find a touch of the poetic gives some much-needed meaning to this black and gray metal world of ours. But if you let it go to your head, it could keep you from making the clear-minded assessments of situations that are necessary to remain alive as a submariner." Hemi took a sighting of another star and marked its altitude down on his clipboard. "OK Cassandra. Back to your radar scope. I need to make some minor course adjustments in the control room."
 
 Hemi and Cassandra climbed back down into the _Prospect_ leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
+
+[//]: # (----- EDIT REVIEWED TO HERE -----)
 
 [//]: # (----- invisible character break)
  
