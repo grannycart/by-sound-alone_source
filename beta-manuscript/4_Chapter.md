@@ -559,23 +559,21 @@ Hemi smiled, "and just a little bit of a cliché," he said more loudly for Owen'
 
 Hemi and Cassandra climbed back down into the _Prospect_ leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
 
-[//]: # (----- EDIT REVIEWED TO HERE -----)
-
 [//]: # (----- invisible character break)
  
 
 [//]: # (###  Listening for the Gnat)
 
 [//]: # (pre-dawn: day 2, run to Stilt City)
-Early in the pre-dawn hours, Bastian was up in the lookout ring when the sky began to lighten in the east, graying out the stars in that direction and creating an echo of light on the black disc of the ocean. When Bastian could see his hands in the gloom in front of him, he climbed down to the bridge and cupping one hand around his mouth shouted down to the control room that it might be time to dive.
+Early in the pre-dawn hours, Bastian was up in the lookout ring when the sky began to lighten in the east, graying out the stars in that direction and creating an echo of light on the black disk of the ocean. When Bastian could see his hands in the gloom in front of him, he climbed down to the bridge and cupping one hand around his mouth shouted down to the control room that it might be time to dive.
 
 Captain Percy climbed up to join Bastian on the bridge and looked around for a few minutes. She took some long breaths -- the last of the fresh air before the next twelve hours or so below deck -- and then told Bastian to follow her back down into the sub.
 
-They buttoned up the _Prospect_ and when all the hatches showed green lights on the board in the control room, they shut down the diesels and dove the boat down to 50 meters. After fixing their position earlier in the evening, Hemi had slept his three hours, and then returned immediately to the control room. Now that they were submerged again, he wanted to take the boat in a new direction as a precaution against the small chance that anyone had been tracking their course on the surface that they had not been aware of. With the cargo they were hauling, Hemi felt there was no reason not use to every stealth maneuver they had.
+They buttoned up the _Prospect_ and, when all the hatches showed green lights on the board in the control room, they shut down the diesels and dove the boat to 50 meters. After fixing their position earlier in the evening, Hemi had slept his three hours, and then returned immediately to the control room. Now that they were submerged again, he wanted to take the boat in a new direction as a precaution against the small chance that anyone had been tracking their course on the surface without their being aware of it. With the cargo they were hauling, Hemi felt there was no reason not use to every stealth maneuver they had.
 
 After they had leveled off, he had them bring the boat hard about to starboard. This was backtracking a bit, but they were now aimed directly at the rendezvous point for the _Gnat_, which they would reach in another two hours at their current speed.
 
-Those two hours remained nearly silent and uneventful. Everyone had low early-morning energy and no one felt like much of a conversationalist after a long night with short sleep. Though the social situation was improved after Gregory brought up the first pot of coffee and passed around tin mugs to the crew in the sonar compartment and the control room.
+Those two hours remained nearly silent and uneventful. Everyone had low early-morning energy and no one felt like much of a conversationalist after a long night with short sleep. Though the social situation was improved by Gregory bringing up the first pot of coffee and passing around tin mugs to the crew in the sonar compartment and the control room.
 
 They cruised to the rendezvous point, and then came up to 30 meters of depth. They shut down the electric motors entirely, and Hemi trimmed the boat until it sat hovering perfectly still and silent in the water.
 
@@ -613,15 +611,15 @@ Percy slid down the ladder and picked up the second sonar headset and put it on.
 
 "That can't be fucking Shakes, it sounds like a supertanker or an aircraft carrier or something. Go get Hemi. I think he should hear this."
 
-Cassandra went off to the Galley leaving Percy listening to the contact. She came back with Hemi holding a tin cup with the dregs of cold coffee in the bottom. He slipped the headphones on and stood there hold his coffee cup, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on, and listened again.
+Cassandra went off to the galley leaving Percy listening to the contact. She came back with Hemi holding a tin cup with the dregs of cold coffee in the bottom. He slipped the headphones on and stood there, his coffee cup tilting around his fingers, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on, and listened again.
 
-"Well," Hemi said, "that is strange. It does sound like a tanker or something big just from sheer volume. But it is moving very fast, too fast for a big ship...." He paused listening again. "It is closer now, and I can hear the prop revolutions... the frequencies are all wrong. The prop is spinning too fast, and sounds small, not like a big ship screw."
+"Well," Hemi said, "that is strange. It does sound like a tanker or something big just from sheer volume. But it is moving very fast, too fast for a big ship..." He paused listening again. "It is closer now, and I can hear the prop revolutions... the frequencies are all wrong. The prop is spinning too fast, and sounds small, not like a big ship screw."
 
 "Shakes was planning to modify the _Gnat_ to be louder -- you think that could be what his boat sounds like now?" Percy asked.
 
 "If that is Shakes, the job has been overdone..."
 
-"Really? You think it's fuckin' possible _Shakes_ overdid it, do you?" Percy grinned at Hemi. "Maybe instead of the sound of the _Gnat_ masquerading for the _Prospect_, the _Gnat_ will just drown out _everything_ in a 10 mile radius," said Percy.
+"Really? You think it's fuckin' possible _Shakes_ overdid it, do you?" Percy rolled her eyes. "Maybe instead of the sound of the _Gnat_ masquerading for the _Prospect_, the _Gnat_ will just drown out _everything_ in a 10 mile radius."
 
 "I just..." Hemi started, "just cannot believe that such a small boat could..." he paused listening again. "No, I am more sure of it now. The more detail I can hear, the more it makes sense that it is a very _very_ loud, small boat, not a big ship. Though he does have it tuned so low that from a distance anyone who is not skilled on sonar might easily be fooled into thinking the contact is displacing an enormous amount of water. Good job with the identification Cassandra."
 
@@ -631,23 +629,23 @@ Cassandra held onto a large and genuine smile.
 
 "I do not know," said Hemi. "The contact is well out of range of ship-to-ship. I would guess something like still 20 nautical miles off or so. We could hit it with active."
 
-"If it turns out you're wrong and the contact is actually that sub with the ram on its bow tearing its way towards us, then active pinging them will be sending a loud fucking signal telling them exactly where we are." Percy paused. "We have the advantage of being completely hidden at the moment. I hate to just hand that away."
+"If it turns out you're wrong and the contact is actually that sub with the ram tearing its way towards us, then an active ping will be like knocking on their hatch and telling them exactly where we are." Percy paused. "We have the advantage of being completely hidden at the moment. I hate to just hand that away."
 
-Hemi shrugged. "That is why I leave that decision to you."
+Hemi shrugged. "That is why I leave the decision to you."
 
 Percy considered her options. "You are fairly certain it's Shakes?" she asked Hemi.
 
 "I am fairly certain that contact is not the big ship it initially sounded like," said Hemi.
 
-"OK, fuck it. Ping it."
+"Fuck it. Ping it."
 
-"OK. Cassandra, remember I mentioned 'active' sonar during your training session? I am going to use that now. Follow what I do." He powered up the active sonar unit. "Passive sonar is like listening quietly in a dark room to figure out where other people might be standing. Active sonar is like quickly turning a bright light on and then off again to see where people are standing. The principles behind it are much more sophisticated than passive. But it is easy enough to operate." He set the direction indicator to point towards the contact. "Push the PING button Cassandra."
+"OK. Cassandra, remember I mentioned 'active' sonar during your training session? I am going to use that now. Follow what I do." He powered up the active sonar unit. "Passive sonar is like listening quietly in a dark room to figure out where other people might be standing. Active sonar is like quickly turning a bright light on and then off again so you can see the exact location of the people in the room. The principles behind it are much more sophisticated than passive. But it is easy enough to operate." He set the direction indicator to point towards the contact. "Push the PING button Cassandra."
 
-She held her small finger out flat, so as not to let the long fingernail on it get in the way, and crushed the button home. Even without the sonar headsets they could hear the smooth round ringing sound of the ping echo through the hull and spread out into the water around them. A few seconds later the active unit calculated and displayed the range and direction to the contact.
+She held her small finger out flat, so as not to let her long fingernail get in the way, and crushed the button home. Even without the sonar headsets they could hear the smooth round ringing sound of the ping echo through the hull and spread out into the water around them. A few seconds later the active unit calculated and displayed the range and direction to the contact.
 
 "The active sonar figures out very precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target," Hemi said, pointing to the readout on the active sonar unit. "That is very useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ does not have torpedoes, we do not often have reason to use it."
 
-"The active ping also tells the target exactly where _we_ are." added Percy. "Normally, we would not want to fucking do that -- never use the active sonar without an explicit instruction from me or Hemi -- but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let them know exactly where we are by hitting them with that active ping."
+"The active ping also tells the target exactly where _we_ are," added Percy. "Normally, we would not want to do that -- never use the active sonar without an explicit instruction from me or Hemi -- but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let them know exactly where we are by hitting them with that active ping."
 
 "We shall see what the contact does now," said Hemi, putting the sonar headset back on.
 
@@ -671,7 +669,7 @@ Within a minute of the _Prospect's_ ping, the contact went silent.
 
 "If they want to do unpleasant things, they are likely to begin long before reaching ship-to-ship range," said Hemi. "I advise we ping them again. If the contact does anything that seems suspicious, we will move off from this spot -- quietly."
 
-"...Alright," said Percy. "Ping them again. What do I care, it's just my boat and all our fuckin' lives."
+"...Alright," said Percy. "Fuckin' ping 'em again. What do I care, it's just my boat and all our lives."
 
 Hemi caught Cassandra's eye and pointed to the PING button. She reached out and pressed it again. Another resonant ping left the _Prospect_ and soared through the water. The range and direction displayed on the active sonar unit.
 
@@ -681,9 +679,11 @@ Cassandra nodded with one hand on an earpiece. She listened quietly for a minute
 
 Hemi listened closely. "OK, the contact is running on electric motor now. And I can tell by the pitch that it's definitely a small craft moving quickly... towards us." Hemi listened for a moment longer. "It is definitely the _Gnat_, I recognize it now."
 
-"Thank fuckin' hell," said Percy, "that was ridiculous Hemi. We've got to work out a better way of communicating with the _Gnat_ if we're going to keep working with that guy. We can't be pinging every tanker that goes over us hoping it's actually a tiny friendly submarine."
+"Thank fuckin' hell," said Percy, "that was ridiculous Hemi. We've got to work out a better way of communicating with the _Gnat_ if we're going to keep working with that guy. We can't be pinging every tanker that goes over us hoping it's actually our tiny submarine friend."
 
 "I'll talk to Shakes about it when we get him on board," said Hemi.
+
+[//]: # (----- EDIT REVIEWED TO HERE -----)
 
 [//]: # (----- invisible character break)
  
