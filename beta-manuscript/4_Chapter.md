@@ -683,8 +683,6 @@ Hemi listened closely. "OK, the contact is running on electric motor now. And I 
 
 "I'll talk to Shakes about it when we get him on board," said Hemi.
 
-[//]: # (----- EDIT REVIEWED TO HERE -----)
-
 [//]: # (----- invisible character break)
  
 
@@ -845,6 +843,8 @@ Captain Percy rolled her eyes. "Whatever. Don't ever say I'm a captain who isn't
 "Aye, it's been a while since I used the fuckin' head on a sub. I sank the last sub I took a shit on."
 
 Percy decided to assume he was joking.
+
+[//]: # (----- EDIT REVIEWED TO HERE -----)
 
 [//]: # (----- invisible character break)
  
