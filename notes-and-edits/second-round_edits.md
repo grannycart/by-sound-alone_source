@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-19 11:03
+Last modified: 2023-03-26 18:31
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -227,6 +227,7 @@ Edits to pick up in second full pass through the book
 		* you don't need him for the adultery motivation any more
 		* Chips is clearly more attached to Owen than Gregory.
 		* This leaves them without an engineer when Chips leaves, but I'm not sure they make much use of one for the rest of the book.
+	* [ ] Make sure Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
 * stilt city: 
 	* [ ] when Chips leaves -- have Hemi call her by her real name
 	* [ ] Fix Sturmey:

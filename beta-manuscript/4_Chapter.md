@@ -694,15 +694,15 @@ Within an hour, Shakes voice lit up the ship-to-ship radio in the control room. 
 
 Hemi climbed the ladder to the control room and took the mic from the overhead radio. "Indeed _Gnat_. This is the _Prospect_ and we are glad to know now that we were not pinging an Authority battleship."
 
-"Ah," said Shakes, "so my subterfugal modifications were effective? Wait till you see what I fuckin' did Hemi. You're going to fuckin' love it."
+"Ah," said Shakes, "so my subterfugal modifications were effective? Wait till you see what I fuckin' did Hemi. You're going to love it."
 
 Hemi smiled into the mic. "Sounds good Captain Shakes. You did not break off your mating collar while making those modifications did you?"
 
-"Nope. It's still riding with fucking pride atop the _Gnat's_ sail. Mating with the _Prospect_ should be at least as fuckin' smooth as last time."
+"Nope. It's still riding with fucking pride atop the _Gnat's_ sail. Mating with the _Prospect_ should be at least as smooth as last time."
 
 "I hope it does not go that badly," said Hemi. "OK, we will put the _Prospect_ in gear, and drive forward slowly. Just like last time, you can come up underneath, and put the _Gnat_ on the mating collar."
 
-"Roger that. But... you're going to have to fuckin' come up shallower. I might have more confidence than I used to, but I still don't want to push the _Gnat_ as deep as you are now if I don't fuckin' hafta."
+"Roger that. But... you're going to have to come up shallower. I might have more confidence than I used to, but I still don't want to push the _Gnat_ as deep as you are now if I don't fuckin' hafta."
 
 Captain Percy had been listening to the conversation from below at the navigation station. Now she climbed up to the control room to sort out the details of this maneuver with Hemi. 
 
@@ -712,7 +712,7 @@ Hemi caught her eye while she was still on the ladder. "Shakes needs us to come 
 
 "I believe the _Gnat's_ maximum depth was around 30 meters -- according to Shakes' estimate that was unchallenged by anything like an engineering background."
 
-"Can we do it with the _Prospect_ at 20 fuckin' meters?" She asked.
+"Can we do it with the _Prospect_ at 20 meters?" she asked.
 
 "I suspect so, that's about how deep we had it at the depot." Hemi thumbed the mic on the ship-to-ship. "Captain Shakes, what if we make the _Prospect's_ keel 20 meters down. Can you do the mating at that depth?"
 
@@ -724,13 +724,13 @@ Hemi caught her eye while she was still on the ladder. "Shakes needs us to come 
 
 They carried out the maneuver without incident. Shakes brought the _Gnat_ up under the _Prospect_ and connected to the mating collar. When he popped the hatch, Chips was there waiting for him, just like last time.
 
-"Ah fuck ya Captain Shakes. At least I didn't have to weld your fuckin' boat back together to get ya on board this fuckin' time."
+"Ah fuck-ya Captain Shakes. At least I didn't have to weld your fuckin' boat back together to get ya on board this fuckin' time."
 
-"Good to see you again too Chips. I'll have you know my boat has been adjusted and tuned to an absolute fucking precision-meister's peak of fuckin' performance. The _Gnat_ is now faster, more maneuverable, and louder than any other boat of its size and displacement."
+"Good to see you again too Chips. I'll have you know my boat has been adjusted and tuned to an absolute precision-meister's peak of fuckin' performance. The _Gnat_ is now faster, more maneuverable, and louder than any other boat of its size and displacement."
 
 "Ah, yer the first fucker I've ever fucking met who is proud to have a loud fucking submarine Captain Shakes."
 
-They made their way up to the galley, where Chips left Shakes to continue working on the efficiencies of her own engines in the engine room. Shakes poured some stale coffee from the pot into a mug and sat down. 
+They made their way up to the galley, where Chips parted with Shakes to continue working on the efficiencies of her own engines in the engine room. Shakes poured some stale coffee from the pot into a cup and sat down. 
 
 Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ settled back on course, leaving Gregory and Bastian at the controls. The boat would spend the remaining hours of daylight running underwater. Hemi did not neglect to warn Gregory to keep a very close eye on the depth and ballast control panel and not let the boat dive any deeper than they already were while the _Gnat_ was attached.
 
@@ -740,7 +740,7 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 "We got a tip to leave before anything very dramatic happened," said Hemi.
 
-"So I gathered from your note Captain Percy. Unfortunately I was in the middle of some work on the _Gnat_ when I got that note, otherwise I would have left right then myself. The _Gnat's_ engine was in fuckin' pieces -- I was putting a new exhaust in that I got in a deal in one of the parts shops on the exchange floor after I had got my cargo transshipped. So I was stuck on the fucking dock when that fuckin' Authority sub arrived."
+"So I gathered from your note Captain Percy. Unfortunately I was in the middle of some work on the _Gnat_ when I got that note, otherwise I would have left right then myself. The _Gnat's_ engine was in fuckin' pieces -- I was putting a new exhaust in that I got in a deal in one of the parts shops on the exchange floor after I had got my cargo transshipped. So I was stuck on the dock when that fuckin' Authority sub arrived."
 
 "What sub? Was it the sub with the ram?" Hemi asked.
 
@@ -754,9 +754,9 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 "What did you do to the Northern Points that would send them after you?"
 
-"Nothing! Fuckin' Nothing. I've never been there. Miss Mai suggests there might be larger shifts happening in the world that could affect our innocent little business here," said Percy.
+"Nothing! Fuckin' Nothing. I've never been there. Miss Mai suggests larger shifts happening in the world that could affect our innocent little business here, and the _Grackle_ may be a symptom of those global-scale changes," said Percy.
 
-"Well then. They docked and unloaded a bunch of big fucking goons. Bigger even than those who worked at the depot. Or, better fuckin' armed and armored at least. The goons tore through the whole fuckin' depot checking papers at every slip with a sub docked, questioning every person they saw in the docking bay."
+"Well then. That boat docked and unloaded a bunch of big fucking goons. Bigger even than those who worked at the depot. Or, better fuckin' armed and armored at least. The goons tore through the whole fuckin' depot checking papers at every slip with a sub docked, questioning every person they saw in the docking bay."
 
 "Including you?" Percy asked.
 
@@ -772,11 +772,11 @@ Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ se
 
 "They asked you about our fucking cargo too, eh?" said Percy.
 
-"Ya. Fortunately, they didn't seem to know anything about me coming in with you. I guess the other sub crew are afraid enough of Authority goons with guns to give up someone who isn't around, but aren't such cowards as to go so far as pointing at someone they can actually fuckin' see in the same space."
+"Ya. Fortunately, they didn't seem to know anything about me coming in with you. I guess the other sub crews were afraid enough of Authority goons with guns to give up someone who isn't around, but aren't such cowards as to go so far as pointing at someone they can actually fuckin' see in the same space."
 
 Hemi picked up a spoon and stirred his coffee. 
 
-Captain Percy lit a cheroot. "Shit," She said, "if they know we've got what-could-be-considered-by-certain-parties-as weapons parts on board, seems like they could take that as a fuckin' license to shoot to sink if they find us, rather than trying to get us to surface for an inspection."
+Captain Percy lit a cheroot. "Shit," she said, "if they know we've got what-could-be-considered-by-certain-parties-as weapons parts on board, seems like they could take that as a fuckin' license to shoot to sink if they find us, rather than merely demanding we surface for an inspection."
 
 "Oh," said Shakes after a pause, "I didn't tell you the best fuckin' part yet... So after they finish questioning me, I discreetly -- and as quickly as I could -- started prepping the _Gnat_ to leave. And as I'm on the dock getting some cans of food to load into the hold; I see the commander of the Authority sub climb up out of their sub at the slip they had commandeered -- the commander is a real round guy, he wears an Authority uniform with all the trimmings -- it looks as if he wears his full fucking dress uniform every day on board the sub! He takes a squad of goons -- maybe twenty of the fuckers -- and they go up the dock and out towards the exchange floor.
 
@@ -798,17 +798,17 @@ Captain Percy lit a cheroot. "Shit," She said, "if they know we've got what-coul
 
 "Which brings up another thing I wanted to ask you about Captain Shakes," said Hemi, "that boat of yours certainly is... loud now."
 
-"Fuck yeah! I told you I put in a new exhaust. Straight pipe. Wedged it right up against the hull so the sound goes directly out into the fuckin' water. I also tuned it for power and made some adjustments to the gear box. The _Gnat's_ diesel now puts out far more torque than just about any other boat of its fuckin' size, I'd say. And that torque is converted to unbelievably fast prop speeds."
+"Fuck yeah! I told you I put in a new exhaust. Straight pipe. Wedged it right up against the hull so the sound goes direct out into the fuckin' water. I also tuned it for power and made some adjustments to the gear box. The _Gnat's_ diesel now puts out far more torque than just about any other boat of its fuckin' size, I'd say. And that torque is converted to unbelievably fast prop speeds."
 
 "And a fast prop and new exhaust mean exceptional noise," said Hemi.
 
-"I'd say just about the loudest sub in the fuckin' water!" Said Shakes proudly. "'Cept maybe some of those old coastal tug subs. That was the fuckin' plan, right Captain Percy? The _Gnat_ runs loud and fast interference for the _Prospect_."
+"I'd say just about the loudest sub in the fuckin' water!" said Shakes proudly. "'Cept maybe some of those old coastal tug subs. That was the fuckin' plan, right Captain Percy? The _Gnat_ runs loud and fast interference for the _Prospect_."
 
 "Yes," said Percy, "though I was sort of expecting we could make the _Gnat_ sound like another big submarine, not an ocean liner."
 
 "The fuckin' louder, the fuckin' better, I fuckin' figured," said Shakes, popping a wad of dried green leaves into his cheek. "Oh! I almost forgot: the other modification I made to the _Gnat_: I got a fuckin' pigeon."
 
-"A pigeon?" Asked Hemi. "I have never heard of that. Some new kind of sonar unit?"
+"A pigeon?" asked Hemi. "I have never heard of that. Some new kind of sonar unit?"
 
 "No no, like an _actual_ fuckin' pigeon-bird. A homing pigeon. Goes by the name of Herschel."
 
