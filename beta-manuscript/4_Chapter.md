@@ -728,7 +728,7 @@ They carried out the maneuver without incident. Shakes brought the _Gnat_ up und
 
 "Ah, yer the first fucker I've ever fucking met who is proud to have a loud fucking submarine Captain Shakes."
 
-They made their way up to the galley, where Chips parted with Shakes to continue working on the efficiencies of her own engines in the engine room. Shakes poured some stale coffee from the pot into a cup and sat down. 
+They made their way up to the galley, where Chips parted with Shakes to continue working on the efficiencies of her own engines in the engine room. Shakes poured some stale coffee from the pot into a mug and sat down. 
 
 Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ settled back on course, leaving Gregory and Bastian at the controls. The boat would spend the remaining hours of daylight running underwater. Hemi did not neglect to warn Gregory to keep a very close eye on the depth and ballast control panel and not let the boat dive any deeper than they already were while the _Gnat_ was attached.
 
@@ -844,8 +844,6 @@ Captain Percy rolled her eyes. "Whatever. Don't ever say I'm a captain who isn't
 
 Percy decided to assume he was joking.
 
-[//]: # (----- EDIT REVIEWED TO HERE -----)
-
 [//]: # (----- invisible character break)
  
 
@@ -861,7 +859,7 @@ Gregory fired up the cooking range and soon had canned salmon simmering in a sli
 
 "You know, I always wondered why those salmon cans are tapered like that. Why don't they just run straight fucking up and down, like all the other cans?"
 
-"Actually, now that you mention it Captain Shakes, I always thought that was weird myself. There has to be 300 cans in the galley, and all of them are perfect cylinders except for the fuckin' salmon."
+"Actually, now that you mention it Captain Shakes, I always thought that was unusual myself. There has to be 300 cans in the galley, and all of them are perfect cylinders except for the fuckin' salmon."
 
 "I wish all cans were tapered," said Shakes. "Sometimes I knock a stack of cans over on the _Gnat_ and the regular ones will run off under some piece of equipment. I'm pretty fucking sure there's some cans in the bottom of the boat that rolled there years ago and I never saw again. But the taper on the salmon cans makes 'em roll around in a tight circle. They stay roughly where they fall no matter what the boat is doing and I can pick them right up before they get lost."
 
@@ -869,7 +867,7 @@ Gregory fired up the cooking range and soon had canned salmon simmering in a sli
 
 [//]: # (This brilliant, but incorrect, idea comes from my friend Andrew Berman.)
 
-Hemi chuckled. "If you want to know the real reason, it is because the salmon canneries are all in remote parts of the North. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships moving the empty cans by nesting them."
+Hemi chuckled. "If you want to know the real reason, it is because the salmon canneries are all in remote parts of the North. The cans are shipped up there empty to be filled with fresh-caught northern salmon. The tapered cans let them stack far more cans into the hold of ships, moving the empty cans by nesting them."
 
 "Oh," said Shakes, sounding somewhat disappointed.
 
@@ -921,13 +919,13 @@ Percy waved him off. "We estimate it will take three or four days and nights to 
 
 "That will also give us a chance to listen for any contacts without being swamped out by the noise of your boat," added Hemi.
 
-"At night, the _Gnat_ is less useful as a decoy, since the _Prospect_ will be on the surface anyway. I think then you can mate up the _Gnat_ and get some sleep and a meal aboard the _Prospect_ -- at least for a few hours each night."
+"At night, the _Gnat_ is less useful as a decoy, since the _Prospect_ will be on the surface anyway. I think then you can mate up the _Gnat_ and get a meal aboard the _Prospect_ and some sleep -- at least for a few hours each night."
 
 Shakes grinned at the thought of hot meals. "What happens if someone comes the fuck up on us in the night?"
 
 "Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive. I hate the delay getting the _Gnat_ disconnected will cause, but I'd hate to deprive you of your fuckin' precious hot meals."
 
-Shakes grinned. "No fucking doubt! Just don't forget that if you dive too deep with the _Gnat_ attached, I'll have a bunch of wet scrap metal instead of a boat hanging off the bottom of this rusting fat cigar." He scribbled a few notes. "What about the _Grackle_ and those fuckin' guys who were after you? What if they are still following you?"
+Shakes grinned. "No fucking doubt! Just don't panic in the heat of the moment and forget that if you dive too deep with the _Gnat_ attached, I'll have a bunch of wet scrap metal instead of a boat hanging off the bottom of this rusting fat cigar." He scribbled a few notes. "What about the _Grackle_ and those fuckin' guys who were after you? What if they are still following you?"
 
 "I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side an Authority line. It's another to pursue an unarmed cargo sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
@@ -952,9 +950,9 @@ With the _Gnat_ off and surfaced, the _Prospect_ dove down to 100 meters where P
 
 [//]: # (### Uneventful run through the day and the night)
 
-The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with its diesel emitting a long brown shit-string of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_. At that slower speed, the _Gnat_ was not obtrusively loud, about the same as an average surface cargo ship. That was to their benefit because Authority enforcement craft were less likely to purse a target that sounded like a surface cargo ship -- at least during the day -- since anything on the surface was likely to be moving with the full blessing of the Authority.
+The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface with its diesel emitting a long brown shit-string of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_. At that slower speed, the _Gnat_ was not obtrusively loud, about the same as an average surface cargo ship. That was to their benefit because Authority enforcement craft were less likely to purse a target that sounded like a cargo ship -- at least during the day -- since anything on the surface was likely to be moving with the full blessing of the Authority.
 
-Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky. The two boats droned their way across the curve of the globe. The only thing that changed with the passing time was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
+Shakes shut down the _Gnat's_ diesel once every hour or so, and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky, and the two boats droned their way across the curve of the globe. The only thing that changed with the passing time was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
 
 [//]: # (night 2, run to Stilt City)
 
@@ -968,7 +966,7 @@ Shakes ran the _Gnat_ off at some distance for the first half of the night, and 
 [//]: # (### Herschel comes aboard the _Prospect_ for the first time.)
 
 [//]: # (Morning: day 3, run to Stilt City)
-Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch leading to the _Gnat_. Shakes disappeared down through that hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakable intelligence to the eyes.
+Shakes stumbled to the galley to pick up his morning coffee. There he found Hemi who accompanied him down to the open hatch leading to the _Gnat_. Shakes disappeared through that hatch and returned holding a small wire cage with a splotchy gray bird. Herschel was sleek and trim, with an unmistakable intelligence to the eyes.
 
 "Fuckin' Hemi meet fuckin' Herschel," said Shakes holding the cage up for Hemi to take while he climbed up out of the _Gnat_.
 
