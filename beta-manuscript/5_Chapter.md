@@ -223,7 +223,7 @@ It was nothing very dramatic, just a slight roll and yaw that Percy's whole bein
 
 "Hemi... something's wrong," she said, but even the time it took to get the words out had been too long of a delay. A second motion that was far more dramatic had begun. She punched the collision alarm and the klaxon sounded in every compartment to the lowest depths of the boat.
 
-The _Prospect_ started to list to the starboard side. It was the motion of some sky-scraping giant lifting them closer to his near-sighted eyes for inspection without regard for the orientation of the strange object in his hand. In this case, the giant was a monster of a rogue wave.
+The _Prospect_ started to list to the starboard side. It was the motion of some sky-scraping giant lifting them closer to his near-sighted eyes for inspection without regard for the orientation of the strange object in his hand. In this case, the giant was a 20-meter rogue wave.
 
 The _Prospect_ rolled hard over to starboard, and it did not stop rolling.
 

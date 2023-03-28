@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-26 18:31
+Last modified: 2023-03-28 19:34
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -288,9 +288,12 @@ Edits to pick up in second full pass through the book
 	* consider adding a note about needing an editor/ beta version. (see comment in preface file)
 	* remove preface to the preface
 	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
-	* add something about how i's under on open liiscence and will remain s (possibly say something about wanting to give back to open source community but I'm not much of a programer. and this book was writte entirely with open source tools.)
-		* and if people have ideas that they wand to add or cange to the book I encourage them to run with it; as long as they ollow the stipulations of theno commercial use license. 
-		* (pretty sure thisnote is in promotion file too)
+	* add something about how it's under on open license and will remain so (possibly say something about wanting to give back to open source community but I'm not much of a programmer. and this book was written entirely with open source tools.)
+		* Put this at the end of the book, just ahead of the license
+		* and if people have ideas that they want to add or change to the book I encourage them to run with it; as long as they follow the stipulations of the no commercial use license. 
+		* (pretty sure this note is in promotion file too)
+		* rough draft:
+		This book is free. Not necessarily 'free' as in you paid nothing for it. Though if you read the e-book, you probably didn't pay anything. But if you read a paper copy, you might have paid something. That's good -- it helps cover the real cost of printing on paper and whatnot. But the book is free as in it's under a free license. And it will remain so. Under Creative Commons, the license is the book equivalent of an "open source" license (and maybe even more so than a typical Creative Commons work in that it literally has "source code" in that it was written in Markdown and compiled with pandoc software). Why is it free? Because my entire adult life I have benefitted from open source software. Indeed, every aspect of this book was created with open source software. (Which ones? The nerds among you ask: vim, markdown, pandoc, git, make, Inkscape, Gimp, tmux, screen, mupdf, and of course all of the various Linux distros that my computers run.) But I'm not much of a programmer so I can't give much back to the open source world (other than boring money). I did write this novel though. I put a lot of work into it. I hope it's got a good amount of entertainment value. I hope that in putting it out for free it entertains lots of people -- maybe some of those people will even been open source programmers! If you really, really liked this book, and you feel like you really, really want to give someone money for it, maybe consider one of the many open source software foundations. Try to pick one that is scrappy and small. The big software has companies that cover it.
 
 
 ## Feedback from test readers
