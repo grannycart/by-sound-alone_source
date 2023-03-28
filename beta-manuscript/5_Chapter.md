@@ -26,8 +26,8 @@
 # 5. A Storm
 
 
-[//]: # (---- EDITED TO HERE ----)
 [//]: # (### Shakes leads off the Grackle)
+
 
 The _Gnat_ was off and the _Prospect_ submerged and cruising at depth before the first molten blob of malevolent red sun percolated up on the horizon. Shakes was running the _Gnat_ hot and loud, standing in the pilot's chair with head head above the hatch in the wind, trying to blow the bleary sleep out of his eyes. He sucked on a cigarette, but the wind was feeding oxygen to the coal on the end so that it glowed a color not totally unlike that of the sun coming up on the horizon behind him. His cigarette was quickly disappearing into itself. A long shadow of the short sail of the _Gnat_ with his round head on top stretched out in front of him on the slate-gray water.
 
@@ -118,7 +118,6 @@ Cassandra kept listening to the sonar for another half hour, occasionally report
 
 The rest of the hours of the day ticked by with nothing to break the monotony and no changes to make other than occasional minor adjustments to the trim of the boat. Whereas earlier Cassandra had been cursing the noise of the _Gnat's_ engine polluting the water, now she found she missed it. Somehow it had been comforting to know Shakes was up there on the surface. Not to mention that his hourly check-ins were at least a way to mark time and shift her attention. Now they were down in this dark cold pit of water, blind and alone, and it began to feel like they were doomed to remain like this until the end of their days. 
 
-[//]: # (2k words from last EDIT point)
 [//]: # (----- invisible character break)
  
 
@@ -127,35 +126,33 @@ The rest of the hours of the day ticked by with nothing to break the monotony an
 [//]: # (Early-night: night 3, run to Stilt City)
 Hours later, when the clock said it should be early evening on the surface of the world, Cassandra's eyes were bleary and drooping as she stared blankly at the sonar console. Captain Percy and Hemi were having a discussion behind her in the sonar compartment about whether it was time to surface and begin their nighttime run.
 
-"How's the fuckin' charge on the batteries Hemi?" Percy asked.
+"How's the charge on the batteries Hemi?" Percy asked.
 
-"OK, but getting low. We're at maybe 10 percent capacity."
-
-[//]: # (Is 10 percent the right charge here? Or is that beyond what they would comfortably let it get to? And 4 to 5 hours at a creep -- is that accurate?)
+"OK, but getting low. We're at maybe 20 percent capacity."
 
 "So, we could stay under maybe another 4 or 5 hours at a creep."
 
-"Yes. We took a big chunk out of the batteries by leaving the area where we contacted the sub with the ram at such a high speed."
+"Yes. We took a big chunk out of the batteries by leaving the area where we contacted the _Grackle_ at such a high speed."
 
-"I know, but fuckin' strategically, putting on some fuckin' distance was the right thing to do."
+"I know, but strategically, putting on some fuckin' distance was the right thing to do."
 
 "I do not disagree," said Hemi.
 
-"So when should we surface? We definitely want to run the diesels and put a charge back on the batteries, but it opens us up as a radar contact for those fuckers following us. They could easily still be within range to detect us on fucking radar."
+"So when should we surface? We definitely want to run the diesels and put a charge back on the batteries, but it opens us up as a radar contact for those fuckers following us. They could easily still be within range to detect us on radar."
 
 "And if they do, the whole move with Shakes would have been wasted."
 
-"Fuckin' right. So, do you got a recommendation for me?" Percy asked.
+"Fuckin' right. So, do you got a recommendation for me?"
 
 Hemi turned to Cassandra and tapped her on the shoulder. "Any contacts on sonar Cassandra?"
 
-She pulled back a headphone. "Nothing... mechanical. But the background noise of the ocean has changed Hemi. It sounds... weird."
+She pulled back a headphone. "Nothing... mechanical. But the background noise of the ocean has changed Hemi. It sounds... weirdly energetic."
 
 "Hmm." Hemi picked up the other headset and made some adjustments. He listened for a moment and pulled the headset off. "Well, that complicates things. Seems like we drove right into that storm Shakes was predicting."
 
 "Fuck," said Percy.
 
-"Ohhh..." said Cassandra to herself, "so that's what a churned up surface sounds like." She filed away in her mind another almost-magical aspect of sonar. "But I don't feel any storm affecting the _Prospect_ Hemi?"
+"Ohhh..." said Cassandra to herself, "so that's what a churned up surface sounds like." She filed away in her mind another almost-magical aspect of sonar. "But Hemi, I don't feel any storm affecting the _Prospect_?"
 
 "Even bad storms do not stir the water this deep."
 
@@ -167,11 +164,11 @@ She pulled back a headphone. "Nothing... mechanical. But the background noise of
 
 "How bad does that storm sound Hemi?" Percy asked.
 
-"Pretty bad. Like there could be 10 meter waves up there."
+"Pretty Significant, I would say. There could be perhaps 10 meter waves up there."
 
 "That's the kind of weather we're better off staying the fuck under."
 
-"At least while we still have any battery left." Hemi agreed.
+"At least while we still have any battery left," Hemi agreed.
 
 "Normally, that's the obvious move. But we need to be thinking ahead as well: staying down now could force us to the surface in daylight with no charge at all on the battery. We could end up a helpless target. If we go up now we can get the batteries charged up with very little chance of being found."
 
@@ -179,16 +176,18 @@ She pulled back a headphone. "Nothing... mechanical. But the background noise of
 
 "She's a strong fuckin' boat Hemi, and with good pilots I think she can handle it. Let's prep to surface."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### they surface in a storm)
 
-Hemi and Captain Percy climbed up to the control room. Bastian and Owen were in the control seats watching the unmoving gauges with bored and sleepy eyes.
+Hemi and Captain Percy climbed up to the control room. Bastian and Owen sat in the control seats watching the unmoving gauges with bored and sleepy eyes.
 
 "We are going to surface," said Hemi. "And there is a pretty serious storm up there. Owen, I am going to sit in that plane control chair. I need you to go down to the navigation/sonar compartment and get ready to blow the main ballast tanks."
 
-"You're going to do an emergency blow?" Owen asked, surprised.
+"You want to do an emergency blow?" Owen asked, surprised.
 
-Owen stood and Hemi slipped his bulky form around him and down into the small boat planes control chair.
+Owen stood, and Hemi slipped his bulky form around him and down into the tight fit of the planes control chair.
 
 "Not a full blow. On my signal I just want you to open the high pressure air into the main ballast for a few seconds. I want to pop the boat up onto the surface. If we use the normal low-pressure system to ease up, there is too much of a chance for the intakes to be swamped in these seas. You all understand the procedure?"
 
@@ -200,13 +199,13 @@ The bow of the boat rose slowly ahead of them, and Percy, being the only one sta
 
 "Hemi, Another degree on the fuckin' bow, I should think," said Percy.
 
-Hemi turned the plane control wheel slightly, and the boat eased to a somewhat steeper angle. He made some small adjustments on the trim tank control panel to make the front of the boat a bit more buoyant so it did not have to put quite so much energy into lifting the bow.
+Hemi turned the plane control wheel slightly, and the boat eased to a somewhat steeper angle. He made some small adjustments on the trim tank control panel to make the front of the boat a bit more buoyant so the motors did not have to put quite so much energy into lifting the bow.
 
 "I am going to come level at just about 10 meters, then we will have Owen blow air into the main ballast tanks." Hemi kept his eyes locked on the depth gauge, watching it crawl slowly back around towards zero as the boat rose. Just as it passed the 10 meter mark, Hemi turned the plane control wheel and the bow of the boat came down to level. At this shallower depth, the boat took on the motion from the waves on the surface, slowly listing from one side to the other by 10 degrees or so. "OK!" Hemi yelled down to Owen. "Open the air into the main ballast Owen!"
 
 Percy punched the emergency blow alarm, to be sure that this time everyone on the boat was aware they were performing a dangerous maneuver.
 
-From below they heard the squeak of the turning valve, and a loud hiss. Air rushed through the pipes below them and down into the ballast. Hemi started counting to himself. There was a pause where nothing happened and then they all felt the upward acceleration of the _Prospect_ lifting.
+From below they heard the squeak of the turning valve, and a loud hiss. Air rushed through the pipes below them and out into the ballast. Hemi started counting to himself. There was a pause where nothing happened and then they all felt the upward acceleration of the _Prospect_ lifting.
 
 Hemi's count hit 5. "Close it down Owen!"
 
@@ -214,24 +213,23 @@ The hiss stopped, but the upward motion did not. Percy wrapped her fingers in th
 
 The depth gauge landed firmly on its zero pin and sat there. The boat rolled slowly and heavily with the surface swell.
 
-
 [//]: # (### The Prospect rolls over)
 
-All of these movements were well beyond the everyday range of motion for the _Prospect_, which typically experienced little more than a gentle roll in the course of a normal day of travel. But Captain Percy knew her boat very well after all these years. Even during a dramatic maneuver like blowing out the main ballast tanks the boat was well within its capabilities. Hemi and Bastian might have nervous looks on their faces, but Percy gripped her strap and casually smoked her cheroot as they took the express route to the surface.
+All of these movements were well beyond the everyday range of motion for the _Prospect_, which typically experienced little more than a gentle roll in the course of a normal day of travel. But Captain Percy knew her boat very well after all these years. Even during a dramatic maneuver like blowing out the main ballast tanks, the boat was well within its capabilities. Hemi and Bastian might have nervous looks on their faces, but Percy gripped her strap and casually smoked her cheroot as they took the express route to the surface.
 
 When the boat bobbed back downwards and began to settle on the surface, she was about to raise the periscope and have Chips prime the diesels for starting when she felt the deck below her feet move in a way that she was not expecting.
 
 It was nothing very dramatic, just a slight roll and yaw that Percy's whole being knew simply was not right. If the _Prospect_ was a haptic extension of Percy's own body, this was like she had just tripped over her own feet. While she had no worries during the rise to the surface, this sudden strange motion of the boat made her break out in a cold sweat. Nobody else seemed to even notice it.
 
-"Hemi... something's wrong." She said, but even the time it took to get the words out had been too long of a delay. A second motion that was far more dramatic had begun. She punched the collision alarm and the klaxon sounded to the lowest depths of the boat.
+"Hemi... something's wrong," she said, but even the time it took to get the words out had been too long of a delay. A second motion that was far more dramatic had begun. She punched the collision alarm and the klaxon sounded in every compartment to the lowest depths of the boat.
 
-The _Prospect_ started to list to the starboard side. It was the motion of some sky-scraping giant lifting them closer to his near-sighted eyes for inspection without regard for the orientation of the strange object in his hand. The giant was, in fact, a huge wave.
+The _Prospect_ started to list to the starboard side. It was the motion of some sky-scraping giant lifting them closer to his near-sighted eyes for inspection without regard for the orientation of the strange object in his hand. In this case, the giant was a monster of a rogue wave.
 
 The _Prospect_ rolled hard over to starboard, and it did not stop rolling.
 
 "Hemi! You brought us up in the ditch of a wave! We're going over!"
 
-The port wall became the ceiling. The boat was rolled over 90 degrees on its side by being caught in the wrong part of a huge wave. It kept rolling even past 90 degrees. Captain Percy crashed into the starboard wall. Hemi put one arm out to brace himself, and the other arm against Bastian to brace him. Hemi's enormous strength rippled through his body and held the two men firmly in place at their control stations, defying gravity. Throughout the boat the shifting, crashing sound of previously carefully stowed objects falling hard against the starboard side that was now acting as the temporary deck.
+The port wall became the ceiling. The boat was rolled over 90 degrees on its side by being caught in the wrong part of a huge wave. It kept rolling even past 90 degrees. Captain Percy crashed into the starboard wall. Hemi put one arm out to brace himself, and the other arm against Bastian to brace him. Hemi's enormous strength rippled through his body and held the two men firmly in place at their control stations, defying gravity. From every deck of the boat came the shifting, crashing sound of previously carefully stowed objects falling hard against the starboard side that was now acting as the temporary deck.
 
 As on all ships, the crew generally kept objects secured by strap or rail against the roll of the vessel. This both kept things from falling out of place with the normal motion of the boat, and on a submarine prevented a falling object from potentially making enough noise to give their position away on sonar. But objects were secured against maybe a 20 degree roll, not a 90 degree roll. At that angle nearly everything in the boat found itself yanked free by malevolent gravity.
 
@@ -245,15 +243,18 @@ Hemi responded to her with forceful strain, "Cassandra! Do not panic. Submarines
 
 "Hemi," said Percy flatly to him. "What about the cargo?"
 
-"We will put our faith in the packing material." He said. "If one of the warheads does explode, we will know it immediately. And a few seconds after that, it will not matter."
+"We will put our faith in the packing material," he said. "If one of the warheads does explode, we will know it immediately. And a few seconds after that, it will not matter."
 
 Bastian coughed.
 
-"We could open the main ballast valves, try to submerge again." Suggested Hemi.
+"We could open the main ballast valves, try to submerge again," Hemi suggested.
 
 "I'd be too worried about the tanks flooding unevenly. We could end up turning fuckin' turtle," said Percy. "We need to ride it out. She'll come up again..."
 
 The boat rocked on its side for terrifying minutes on end, sometimes rolling in the wrong direction far enough that it seemed impossible they would not end upside down. Occasionally the lights would flicker, but continually shorted out. They listened to the ongoing sounds of the boat's stores crashing and sliding through all the compartments.
+
+[//]: # (---- EDITED TO HERE ----)
+[//]: # (2k words from last EDIT point)
 
 As Hemi strained to hold himself in place and support Bastian in his, he began to doubt his own words. Maybe this was one of those times that the boat was not going to come back upright. And even if it did, coming upright could always be the final motion that set off one of the magnetic warheads. Cassandra had been reduced to whimpering on the deck below them, though they could hear the Owen had made his way over to her and was telling her things in a low voice they could not hear but clearly had a reassuring tone. Bastian just kept saying "fuck!" every few seconds, with more and more frustration.
 
