@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-28 19:34
+Last modified: 2023-03-29 13:04
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -257,6 +257,7 @@ Edits to pick up in second full pass through the book
 	* [ ] Keep this? (I'm sort of inclined to, until a professional editor tells me to remove it)
 	* [ ] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
 	* [ ] There is a reference to the bicycles chained up in the hold at word 4427
+	* [ ] Another reference: Chap 5, like 322 and 332
 * garbage gyre:
 	* [ ] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles
@@ -456,7 +457,7 @@ Edits to pick up in second full pass through the book
 * Other potential scenes to go:
 	* the spotted-from above section
 	* the post stilt city damaged floating in the water column section
-	* the bicycle race
+	* the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
 	* the cookout
 
 
