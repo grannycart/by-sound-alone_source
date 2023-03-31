@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-29 13:04
+Last modified: 2023-03-31 15:08
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -29,6 +29,7 @@ Edits to pick up in second full pass through the book
 		* %s/\ til\ /\ till\ /gc
 		* (you should do confirm-search for this)
 	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
+	* [ ] after chapter 5: change all referenced from Owen to Gregory, and visa versa
 	* [X] after chapter 3: search cigarillo and replace with cheroot
 		* I did this on each file already, but keep an eye out for oddball missing ones (misspelled or whatever)	
 * [X] remove references to the "con" -- too military
