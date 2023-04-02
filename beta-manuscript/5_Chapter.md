@@ -382,25 +382,23 @@ All of this came together to form something that, to Cassandra's ears, sounded l
 
 [//]: # (Cassandra knows of drone music because the cultural flow through the depot included people from all over the world -- even if she didn't exactly _experience_ the culture/music.)
 
-[//]: # (---- EDITED TO HERE ----)
+Cassandra let her mind sink into this strange music flowing through her headset, passing from one ear through the middle of her head to the other ear, at the same time letting her mind wander around in the sea surrounding them. This went on for more than an hour before she was jolted back to the sonar compartment by the distraction of Captain Percy and Chips having a loud and heated argument behind her. That was unfortunate because just at that moment she believed she could hear a new sound out in the darkness. It was something faint and far off. It was something incongruous and inappropriate.
 
-Cassandra let her mind sink into this strange music flowing through her headset, passing from one ear through the middle of her head to the other ear, and at the same time letting her mind wander around in the sea surrounding them. This went on for more than an hour before she was jolted back to the sonar compartment by the distraction of Captain Percy and Chips having a loud and heated argument behind her. That was unfortunate because just at that moment she believed she could hear a new sound out in the darkness. It was something faint and far off. It was something incongruous and inappropriate, like a soloist from some fast-tempo secular entertainment music had been dropped on top of her spiritual drone. 
+She opened her eyes and looked at her instruments. She swung the mics around towards the boat's rear starboard side. At about 160 degrees there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second, like some prairie rodent checking for raptors. Cassandra spun the mic direction wheel back across the bearing, and the needle went up and down again. Back and forth she scanned, and each time the needle bounced and now she was sure that she could hear a faint mechanical hum in hear earpiece when it did so.
 
-She opened her eyes and looked at her instruments. She swung the mics around towards the boat's rear starboard side. At about 160 degrees there was a slight, but very real, wavering of the signal strength indicator. It just popped its head up for a second, like some prairie rodent checking for raptors. Cassandra spun the mic direction wheel back across the bearing, and the needle went up and down again. Back and forth she scanned, and each time the needle moved and she was sure now that she could hear a faint mechanical hum in hear earpiece when it did so.
-
-She focused the mics on the source of the mechanical sound in the water, and listened to it. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium they worked in, gently tickling the sensitive membranes of the ship's mics, and then running close to the speed of light through the ship's wiring, past the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling at just a few hertz, but in a evenly repetitive way that was unmistakable.
+She focused the mics on the source of the mechanical sound in the water, and listened to it. It was nothing more than a soft hum that had diffused itself across some unknown amount of the dense medium she worked in, gently tickling the sensitive membranes of the ship's mics, and then running close to the speed of light through the ship's wiring, past the condensers and filters of her equipment, up the fading braided wires of the headset and into her ears. For all that, it was a pulpy mush of a signal, barely discernible as mechanical save for the slow cycle of rising and falling at just a few hertz, but in a evenly repetitive way that was unmistakable.
 
 She struggled to figure out if the source was far off or if it was closer but moving very quietly. The drone of the engines and the background noise from the surface was interfering with and confusing her sense of distance in the water. It made her feel a little like she was lost and alone on the surface, being lifted and dropped by the force of the storm. The source of the sound might be visible one second, and then she was deaf and blind under the water, and by the time she came to the surface again it had moved away.
 
-Captain Percy and Chip's argument grew louder. Cassandra had the sense they might be on the verge of blows. The verbal storm kept pulling her back to the sonar compartment when she knew she needed her mind out there in the water. But she still felt she did not have the authority to enforce quiet in the compartment.
+Captain Percy and Chip's argument grew louder. Cassandra had the sense they might be on the verge of blows. The verbal exchange kept pulling her back to the sonar compartment when she knew she needed her mind out there in the water. But she still felt she did not have the authority to enforce quiet in the compartment.
 
 She rested her elbows on the console, and cupped her hands over the metal and leather pieces of the earphones. She listened to the mechanical hum in the water, and tried to guess by the difference between her right and left ear how far away that sound was. But the white noise of the storm washed it all into one blended continuous sound. She stared at the signal strength indicator and dared it to move. 
 
 And then it did. It jumped up, marked a point and floated there for half a second. It was accompanied by a rattling clink in the headphones -- metal on metal somewhere out in the liquid expanse. A dropped steel pot or piece of equipment perhaps. The sound was distinctive, carrying Cassandra back to her childhood, to playing on the floor of a kitchen while a meal was being prepared above her. She tried to hold on to the feeling of safeness that brought to her as in her earphones the rattling-pot sound took on an other-worldly echo. An echo that her mind processed for distance -- which brought the rising terror of how close she now knew that sound to be.
 
-"Captain Percy! They're right fucking on us!" She turned and yelled.
+"Captain Percy! They're right on us!" she turned and yelled.
 
-Percy immediately broke off with the red-faced Chips and stared at Cassandra, her eyes going wide. It took her a second to process what Cassandra had said. "Oh fuck. A contact?" She asked Cassandra to confirm.
+Percy immediately broke off with the red-faced Chips and stared at Cassandra, her eyes going wide. It took her a second to process what Cassandra had said. "A contact?" she asked Cassandra to confirm.
 
 "Yes!" Cassandra put all the conviction she could into this word, worried that she wasn't conveying the seriousness of the situation quickly enough.
 
@@ -408,10 +406,11 @@ Percy immediately broke off with the red-faced Chips and stared at Cassandra, he
 
 "I don't know!" Cassandra panicked. "Too close! They're _here_!" She pointed her finger at the console. "Rear left side of the ship."
 
-
 [//]: # (### The pursuing sub rises and starts to shoot)
 
 Percy grabbed the gray steel rungs of the ladder up to the control room, feeling the old paint fleck off under her fingers where she gripped the rungs excessively tightly. She flew up the ladder, cupped her hands around her mouth and yelled up to Hemi, "Contact! Close rear port quarter!" She could hear Hemi repeating the information up to Owen in the lookout ring.
+
+[//]: # (---- EDITED TO HERE ----)
 [//]: # (2k words from last EDIT point)
 
 Owen made a motion to pull out the binoculars from under his slicker, but as he looked in the direction Hemi indicated, he realized he did not need them. There before him rose a shadowy leviathan, breaking out from the dropping curve of the next wave behind them. It was so dark that Owen would have thought it was literally a leviathan: a whale or a giant squid or something, except as soon as its huge dorsal area split the surface, two holes appeared in it's back, from which poured out a bright red glow, like the eyes of some corrupted pet of hell. The shadows of people briefly caused those eyes to blink, and Owen knew they were moving onto the deck of the sub that was so close it looked like the next wave could drop it on top of the _Prospect_.
