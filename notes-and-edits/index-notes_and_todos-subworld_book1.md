@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-04-02 22:57
+Last modified: 2023-04-03 10:28
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -30,6 +30,7 @@ Last modified: 2023-04-02 22:57
 * short lines:
 	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
 	* "Commerce always finds a way."
+	* If Kelly's Heroes took the liberty of sticking a hippie into WWII, this book takes the liberty of sticking a bunch of punk rockers into mid-century machines. 
 * more detailed description possibilities: 
 	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
 * just for a rough sense of scale, the average novel has:

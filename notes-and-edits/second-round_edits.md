@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-03-31 15:08
+Last modified: 2023-04-03 10:26
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -251,6 +251,7 @@ Edits to pick up in second full pass through the book
 			* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 			* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 		* There's a weakness in the motivation for the Grackle to continue the chase after Stilt City -- need to figure out why they continue so aggressively at that point
+	* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
 * spotted from above:
 	* [ ] delete either the spotting, or the suspended in the water column and damaged sequence, or both
 		* Might be better at this point to move right to the garbage gyre
