@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-03 10:26
+Last modified: 2023-04-04 13:46
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -250,9 +250,9 @@ Edits to pick up in second full pass through the book
 			* Though that rebel group might be the oppressors in 6 months
 			* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 			* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-		* There's a weakness in the motivation for the Grackle to continue the chase after Stilt City -- need to figure out why they continue so aggressively at that point
 	* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
 * spotted from above:
+	* [ ] After leaving stilt city they lose the Grackle. The assumption is floated that the Grackle gave up the chase because they know the Prospect no longer has cargo.
 	* [ ] delete either the spotting, or the suspended in the water column and damaged sequence, or both
 		* Might be better at this point to move right to the garbage gyre
 * bicycle race:
@@ -260,12 +260,21 @@ Edits to pick up in second full pass through the book
 	* [ ] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
 	* [ ] There is a reference to the bicycles chained up in the hold at word 4427
 	* [ ] Another reference: Chap 5, like 322 and 332
+	* [ ] Somewhere in here, the Grackle shows up again -- to their disbelief; why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
 * garbage gyre:
 	* [ ] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles
 		* maybe getting towards the gargbage gyre -- ships that have sunk
 		* like the dream I had
 	* [ ] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
+	* [ ] As the Grackle sinks, a voice comes over the ship-to-ship
+		* "Sylvia... you left me up there to die."
+		* "...Owen?"
+		* "You left me up there. I would have died. But I got washed onto the deck of the Grackle. They took me aboard, unlike you."
+		* "Owen.. I didn't..."
+		* "Shut up Sylvia. I told them your hold was full of weapons and supplies. Even after Stilt City. That you were going to be supplying rebels up and down the coast of ehfehgkegk. That you were a crazy idealist who would stop at nothing. That you had valuable metals aboard. I told them anything to keep them after you. I wanted you sunk."
+		* And the radio winks out at some point.
+		* [The Grackle was after them initially for the reasons Miss Mai stated, but Owen made it personal after Stilt City.]
 * Final bbq scene: 
 	* [ ] see Shakes' notes below
 * [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
