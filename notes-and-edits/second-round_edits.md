@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-04 13:46
+Last modified: 2023-04-05 21:57
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -224,7 +224,7 @@ Edits to pick up in second full pass through the book
 		* Added, Chap 4; like 840
 	* [X] Have someone wash their hands with salt water soap
 * storm:
-	* [ ] Probably would make more sense for Owen to be the one who gets killed during the storm.
+	* [X] Probably would make more sense for Owen to be the one who gets killed during the storm.
 		* you don't need him for the adultery motivation any more
 		* Chips is clearly more attached to Owen than Gregory.
 		* This leaves them without an engineer when Chips leaves, but I'm not sure they make much use of one for the rest of the book.
@@ -269,7 +269,7 @@ Edits to pick up in second full pass through the book
 	* [ ] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
 	* [ ] As the Grackle sinks, a voice comes over the ship-to-ship
 		* "Sylvia... you left me up there to die."
-		* "...Owen?"
+		* "...Owen? ...But how..."
 		* "You left me up there. I would have died. But I got washed onto the deck of the Grackle. They took me aboard, unlike you."
 		* "Owen.. I didn't..."
 		* "Shut up Sylvia. I told them your hold was full of weapons and supplies. Even after Stilt City. That you were going to be supplying rebels up and down the coast of ehfehgkegk. That you were a crazy idealist who would stop at nothing. That you had valuable metals aboard. I told them anything to keep them after you. I wanted you sunk."

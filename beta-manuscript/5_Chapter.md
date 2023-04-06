@@ -685,24 +685,31 @@ Another ping rang through the boat.
 
 "Fuck!" said Percy.
 
-[//]: # (---- EDITED TO HERE ----)
-
-"Hmm." said Hemi. "I am extremely curious as to why this particular boat is so persistent in pursuing us. Authorities often aggressively patrol their own waters. But the tension between them means they do not cross each other's lines. Almost always when we see an Authority craft after us over a long distance it is simply because they have claimed new territory from another Authority, and we did not know it. In this case... I am fairly certain they have chased us from one Authority territory into another, yet they continue on."
+"Hmm." said Hemi. "I am extremely curious as to why this particular boat is so persistent in pursuing us. Authorities often aggressively patrol their own waters, but the tension between them means they do not cross each other's lines. Almost always the reason any Authority craft might follow us over a long distance is simply because they have claimed new territory from another Authority, and we did not know it. In this case... I am fairly certain they have chased us from one Authority territory into another, yet they continue on."
 
 "And it looks like they have every fucking intention of pursuing us into a third..."
 
 "Do you think it is because they want to take this cargo we are hauling? Perhaps it is a strategic move for them: if we deliver, it undermines their position with another Authority somehow."
 
-"Even for actual weapons -- never mind weapons parts -- it's just too risky for one single Authority craft to cross deep into another Authority's area. No. I think it more likely that it is something along the lines of what Miss Mai said -- it's possible the Northern [whatevers -- check this against the Miss Mai section] may have put us on their 'privateers' list, and now the _Grackle_ -- and potentially many more boats -- now has the right to pursue us for our cargo across multiple Authority territories."
+"No, I think it more likely that it is something along the lines of something Miss Mai said to me: it's possible someone put us on the prize list for privateers. And the Commander of the _Grackle_ -- with a privateer's warrant from some powerful Authority in his fist -- believes he is empowered to pursue us as a prize regardless of Authority borders."
 
-[Something about how minor Authorities could be not thrilled about this -- so as to maintain the aggression against the Grackle in stilt city]
+"But surely whatever the warrant may _say_, other Authorities are not going to respect the rights of privateers to hunt us in their waters... seems like the _Grackle_ is taking an awfully large risk."
 
-[Need to make this conversation a refresher of what we learned from Miss Mai, plus a few more breadcrumbs, but leave the larger mystery in tact -- maybe even left bigger than before.]
+"I didn't put much stock in the suggestion myself at the time, for exactly that reason. But Miss Mai suggested it could be part of a bigger move, like some of the more powerful Authorities might _want_ to antagonize smaller and weaker ones. She made is sound like it could be the first step towards much bigger shifts, like perhaps some kind of collusion among the more powerful Authorities."
 
-"While that could make sense at an international political level, it is hard to fathom how this particular insantiation of that policy could be so 
+"They could carve up the world between them, if that's true."
 
-Hemi lifted Herschel up to the table, and balled up some leftover glop scrapings from his bowl and tossed it onto the table in front of the pigeon. Herschel pecked at the glob nonchalantly.
+"And take control of global shipping -- coordinated global shipping would eliminate the need for cargo submarines pretty fuckin' quick."
 
+"So if we survive this run, we might soon be out of business."
+
+"Well, those who play the game of global power lose as often as they win. Maybe we'll get lucky and the surface will end up _more_ dangerous and contentious because of this little experiment with privateers. That'll keep us in work for a good long fuckin' time."
+
+"The more dangerous shipping is, the better our business. Perhaps I chose the wrong line of work."
+
+"You could always retire to dry land and become a teacher Hemi."
+
+Hemi lifted Herschel up to the table, balled up some leftover glop scrapings from his bowl, and tossed it onto the table in front of the pigeon. Herschel pecked at the glob nonchalantly.
 
 [//]: # (### Chips comes in to tell them the bilge pump is broken)
 
@@ -710,7 +717,7 @@ Chips appeared in the hatchway to the galley. She caught Hemi's eye and ignored 
 
 Percy's eyes followed Herschel.
 
-"I am not surprised." Hemi replied. "Running this deep is putting a lot more pressure on the hull, so I would expect more water coming in. Those welds were never going to be perfect. How bad is it?"
+"I am not surprised," Hemi replied, "running this deep is putting a lot more pressure on the hull, so I would expect more water coming in. Those welds were never going to be perfect. How bad is it?"
 
 "Well, it would be no fucking problem," said Chips, "but one of the forward fucking bilge pumps has broke the fuck down. And the second forward pump isn't fucking keeping up. We're fucking flooding again."
 
@@ -722,7 +729,7 @@ Captain Percy suddenly remembered the pump motor in the depot hardware shop that
 
 "Ah. Well..." Hemi turned heftily to look at Gregory, "Gregory, leave your eggs aside and go down to the cargo hold with Chips. Rig up one or two of the portable bilges to pump into the trim tanks. Hopefully that will hold us until we can come shallower."
 
-"It's like we're right fucking back where we started with this fucking mess before we even did any fucking repairs!" Said Chips angrily. She turned towards the cargo hold without waiting for Gregory, who was a minute behind her after washing fry grease from his hands.
+"It's like we're right fucking back where we started with this fucking mess before we even did any fucking repairs!" said Chips. She turned towards the cargo hold without waiting for Gregory, who was a minute behind her after washing fry grease from his hands.
 
 "Fuck Hemi," said Percy, "now we have another factor we need to be thinking about in the equation."
 
@@ -730,33 +737,37 @@ Captain Percy suddenly remembered the pump motor in the depot hardware shop that
 
 "The fucking hull. I can't deal with Chips' fucking problems right now. We have a limited window -- that is, how long our batteries will hold out -- to find a way to lose these fuckers following us. I'm open to suggestions."
 
-"We could try shutting down entirely -- maybe they will fly right over the top of us?" Suggested Hemi.
+"We could try shutting down entirely -- maybe they will fly right over the top of us?"
 
 At that moment another ping bounced through the hull of the _Prospect_.
 
 Percy rolled her eyes. "That, of course, is why shutting down and hiding quietly won't work. There's no fucking way we will get out of range of active sonar at the rate we are moving."
 
-"We could speed up, get them to match our speed, then shut down and let them shoot past," said Hemi. "That way they would be the ones moving out of range, as relieve us of the effort."
+"We could speed up, get them to match our speed, then shut down and let them shoot past," said Hemi. "That way they would be the ones moving out of range, and relieve us of the effort."
 
 "How fast would we have to get them going so that they are out of sonar range by their next ping?"
 
 "Assuming they keep pinging every 15 minutes..." Hemi did some quick calculations, touching his thumb to his forefinger as he counted. "Fairly fast. Perhaps 15 knots?"
 
-"We'd use up the entire charge left on our battery in something like a quarter of a fucking hour at that speed."
+"We'd use up the entire charge left on our battery in something like a quarter of an hour at that speed."
 
 "It does indeed seem like this commander knows his tactics," said Hemi. "A less experienced sub driver would have made more mistakes. I do not see how we have any other option than to continue on our current course, and hope an opportunity presents itself."
 
 "But it fucking kills me to have no plan Hemi."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### The scattering layer)
 
-Captain Percy and Hemi refilled their coffee cups and Hemi brought an extra one to Bastian in the control room, who gratefully accepted it into the long fingers of the hand that wasn't holding a smoldering cigarette. Hemi sat down in the planes control seat, and swiveled to review the tank ballast control panel. He made some small adjustments to the ballast to trim the boat more level -- probably to account for the water they were once again taking through the poorly-welded gash in the pressure hull, he thought to himself as he went through his trim calculations.
+Percy and Hemi refilled their coffee cups and Hemi brought an extra one to Bastian in the control room, who gratefully accepted it into the long fingers of the hand that wasn't holding a smoldering cigarette. Hemi sat down in the planes control seat, and swiveled to review the tank ballast control panel. He made some small adjustments to the ballast to trim the boat more level -- probably to account for the water they were once again taking in through the poorly-welded gash in the pressure hull, he thought to himself.
 
 [//]: # (After midnight: night 3, run to Stilt City)
-Percy stayed below the control room in the sonar compartment with Cassandra still listening to the sonar. She confirmed with Cassandra that their situation had not changed at all, then stepped to the navigation table. She looked at the clock and then used a pair of calipers to measure against the ruler. She put the calipers to the chart, and marked down a single dash with the grease pencil to show the progress they had made in the last hour. The progress was painfully small and slowly achieved.
+Percy stayed below the control room in the sonar compartment with Cassandra still listening to the sonar. She confirmed with Cassandra that their situation had not changed at all, then stepped to the navigation table. She looked at the clock and then used a pair of calipers to measure against the ruler. She put the calipers to the chart, and marked down a single dash with the grease pencil to show the progress they had made in the last hour -- painfully small and slowly achieved progress.
 
-They sank quickly back into the mired boredom of the chase. In the control room, Bastian lit one cigarette off another as he awkwardly tried to lean back in the control chair and put his feet up on the panel in front of him. Despite the casual repose, he was professional enough with his job that his eyes never left the gauges showing the status of the boat -- even though the array of dials and their indicating needles had not moved in any substantial way for hours on end.
+The crew sank quickly back into the mired boredom of the chase. In the control room, Bastian lit one cigarette off another as he awkwardly tried to lean back in the control chair and put his feet up on the panel in front of him. Despite the casual repose, he was professional enough with his job that his eyes never left the gauges showing the status of the boat -- even though the array of dials and their indicating needles had not moved in any substantial way for hours on end.
+[//]: # (---- EDITED TO HERE ----)
+[//]: # (2k words from last EDIT point)
 
 The air thickened with smoke, became damp with the condensation of their breathing, and took on a shallow flatness after having been passed through carbon-dioxide scrubbers. The control room and sonar compartment felt hazy and wet. Hemi continually wiped water droplets from the ballast gauges with a grimy red cotton rag.
 
@@ -764,7 +775,6 @@ The air thickened with smoke, became damp with the condensation of their breathi
 Hours passed like this. Hemi and Bastian would try to start conversations with with each other, instinctively knowing that talking was a way to keep alert. But the thick atmosphere, red lighting, and the grinding drone of the motors continually laid down over their conversations like a fire blanket stifling them. Besides, every 15 minutes there was the piercing ping from their pursuers that reoriented their attention and their fear.
 
 At some point Gregory returned to the control room from below and reported that the portable bilge pumps seemed to be overcoming the weeping water from the welded seam and that they did not have to worry about sinking, for the moment. Gregory took over the plane control seat from Hemi, while Hemi reminded him to keep an eye on the ballast tank they were pumping bilge water into -- it would need to be blown out at some point.
-[//]: # (2k words from last EDIT point)
 
 With Gregory back in the control room, Percy had them start taking half hour breaks. "You're each in the rack for two pings from those fuckers up there." She said to them. 
 
