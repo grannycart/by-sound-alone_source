@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-04-03 10:28
+Last modified: 2023-04-06 14:03
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -41,6 +41,11 @@ Last modified: 2023-04-03 10:28
 	* get a drawing done of the Gnat sail in modest seas with spindrift coming off the whitecaps. On the top of the sail is a pigeon.
 	* Anyone who sees the cover should immediately see the pigeon and think: why is there a pigeon on a submarine on the cover of that book?
 	* scale might be a little challenging
+	* Or: A gradient of black from light at the sea surface to black in the deep.
+	* In the bottom is the silhouette of a submarine -- maybe the prospect, or maybe the broken grackle (add ram?)
+	* (unfortunately for accuracy the sub couldn't be more than three sub-lengths deep, but maybe the LOOK of a huge ocean of blackness is more important than accuracy)
+	* A tiny silhouette of a pigeon flying above the ocean surface. (maybe the pigeon is much closer to the viewer so can be bigger relative to the tiny submarine)
+	* (where are my other cover notes?)
 * [ ] Possible book (though not series) title:
 :titles:
 	* An Absolute and Blessed Silence
