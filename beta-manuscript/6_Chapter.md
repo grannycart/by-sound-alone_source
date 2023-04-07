@@ -30,6 +30,8 @@
 
 # 6. Stilt City
 
+[//]: # (---- EDITED TO HERE ----)
+[//]: # (2k words from last EDIT point)
 
 [//]: # (### Daytime running in the fog)
 
@@ -1022,3 +1024,4 @@ Percy put the periscope up and scanned around an empty sea. The western sky was 
 But it was not long before Percy had the crew back below deck to start the bilge pumps that would finally remove the water from the cargo hold, and run  the low-pressure air compressors to get the boat fully surfaced. She also decided it was time to risk a little more noise and they started the electric motors --- she would hold off on starting the diesels until after dark, even though they were moving on the surface now. She selected an eastern course to take them away from the sub with the ram and towards their rendezvous point with Shakes.
 
 
+[//]: # (Go back and delete comments with time/day references for run to stilt city? Plus previous 2 chapters.)

@@ -852,21 +852,17 @@ Hemi climbed up from sonar. He looked at the depth. "New record?" he asked as hi
 
 As if to remind Percy of the stress it was currently bearing, the _Prospect_ let a another slow groan rise from the guts of the boat. "My poor girl," said Percy. "Sorry baby, we'll take some of the fucking weight off soon."
 
-[//]: # (---- EDITED TO HERE ----)
-
-[//]: # (2k words from last EDIT point)
-
-"What happened back there?" Asked Gregory. "I thought we were going to hit the bottom for sure." 
+"What happened back there?" asked Gregory. "I thought we were going to hit the bottom for sure." 
 
 "False bottom," said Percy. "The deep scattering layer -- billions and billions of tiny bony fish come up from the depths in the night to feed -- such a fucking mass of them together that they reflect sonar back up, making them look like the bottom. We swam right through them, and came out underneath."
 
-"Just when you think submarining is fucking boring..," said Bastian.
+"Just when you think submarining is fucking boring..." said Bastian.
 
 Another ping from the pursuing submarine hit the _Prospect_, but this time it had a different quality to it -- not just less powerful, but also diffuse and muted, as if it were coming from much further away than the last ping.
 
 "So... they can't see us now because of the layer of fish between us and them?" Gregory asked.
 
-"With any luck their active sonar is nothing more than a damned fish-finder now." Percy replied. "And we'll just keep ourselves very fucking quiet for a few minutes here."
+"With any luck their active sonar is nothing more than a damned fish-finder now," Percy replied. "And we'll just keep ourselves very quiet for a few minutes here."
 
 "Maybe I should go back to my bunk then?" Cassandra asked, looking up at Percy from the compartment below, having returned from her short and harrowing break.
 
@@ -874,38 +870,37 @@ Another muted ping rang through the _Prospect_.
 
 "I don't think they are going to let you sleep Cassandra," said Percy. "Can you get back on sonar and see if you can figure out what their next move is?"
 
-"Sure Captain Percy." Cassandra said tiredly before flopping into the sonar station chair.
+"Sure Captain Percy," Cassandra said before flopping into the sonar station chair.
 
 A few seconds passed and another ping rang out.
 
 "They have lost us," said Hemi. "Now they are searching."
 
-The gaps between the pings became a few seconds, with no regular intervals.
+The gaps between the pings became an irregular few seconds.
 
 "Cassandra, can you tell what they're doing?"
 
-"They've got their motors going -- pretty fucking loud." Cassandra listened for another second as a ping passed through them. "They're moving at a good clip... It sounds like they're starting to turn in a circle?"
+"They've got their motors going -- pretty loud." Cassandra listened for another second as a ping passed through them. "They're moving at a good clip... It sounds like they're starting to turn in a circle?"
 
 "Starting a search pattern," said Hemi.
 
-"And they're moving quickly and loudly because they are relying on active sonar. I think I might go so far as to describe it as somewhat fucking desperate in character too. They've definitely fucking lost us." Percy added.
+"And they're moving quickly and loudly because they are relying on active sonar. I think I might go so far as to describe it as somewhat fucking desperate in character too. They've definitely lost us," Percy added.
 
-"So when do we make our move? Can we sneak away?" Asked Hemi.
+"So when do we make our move? Can we sneak away?" asked Hemi.
 
-"Go down to navigation and start tracking them from their fucking pings. We'll move when they are furthest from us."
+"Go down to navigation and start tracking them from their pings. We'll move when they are furthest from us."
 
-"OK." Hemi moved down to the navigation table. For the next 15 minutes every time he heard a ping from the sub with the ram he looked at the ranging equipment on the sonar and marked down the searching sub's precise location on the chart. Some of his dots were wildly off in random directions because the deep scattering layer was interfering with the ranging equipment. But the sub with the ram sent out so many active pings that Hemi was able to chart a accurate course of their movement. It was a circle that began where the _Prospect_ had dropped through the deep scattering layer, and turned in a miles-long arc away from that point.
+"OK." Hemi moved down to the navigation table. For the next 15 minutes every time he heard a ping from the _Grackle_ he looked at the ranging equipment on the sonar and marked down the searching sub's precise location on the chart. Some of his dots were wildly off in random directions because the deep scattering layer was interfering with the ranging equipment. But the sub with the ram sent out so many active pings that Hemi was able to chart a accurate course of their movement. It was a circle that began where the _Prospect_ had dropped through the deep scattering layer, and turned in a miles-long arc away from that point.
 
-"Percy." Hemi called up to the control room as the latest ping showed their pursuers at nearly 5 nautical miles away. "It looks like they are at the apogee of their search arc. Now might be a good time to move."
-
+"Percy," Hemi called up to the control room as the latest ping showed their pursuers at nearly 5 nautical miles away, "it looks like they are at the apogee of their search arc. Now might be a good time to move."
 
 [//]: # (### They run under the scattering layer)
 
-"Thanks Hemi. Keep plotting them." She called down. "Can you also give me a random course in some direction away from them? True fuckin' random, if you can."
+"Thanks Hemi. Keep plotting them," she called down. "Can you also give me a random course in some direction away from them? True fuckin' random, if you can."
 
-"One moment." Hemi replied. He pulled a book off the shelf above the navigation table that contained nothing but a million random numbers, plus instructions for selecting one of the numbers at random. Hemi looked at the chart and estimated about a dozen possible directions they could move that would take them away from the sub with the ram. Then he used the book to select a random number which he transposed into one of his dozen courses. "Here's a true random bearing Percy: 163 degrees."
+"One moment." Hemi pulled a book off the shelf above the navigation table that contained nothing but a million random numbers, plus instructions for selecting one of the numbers at random. Hemi looked at the chart and estimated about a dozen possible directions they could move that would take them away from the sub with the ram. Then he used the book to select a random number which he transposed into one of his dozen courses. "Here's a true random bearing Sylvia: 163 degrees."
 
-"OK Bastian, make it 3 fucking knots, come about to 163."
+"OK Bastian, make it 3 knots, come about to 1-6-3."
 
 Bastian shifted the throttle slight forward and the speed needle lifted slowly up off its zero pin. He turned the rudder wheel and the boat leaned slightly into the turn.
 
@@ -913,40 +908,42 @@ Bastian shifted the throttle slight forward and the speed needle lifted slowly u
 
 Gregory gave a gentle nudge to the bow plane control wheel so the boat would come up just a hair with the new forward momentum on it.
 
-They cruised ever so slowly and silently away from the spot where they had crossed the deep scattering layer. The pings from the sub with the ram quickly got more and more faint, though they could still hear them bouncing softly off the _Prospect_ long after Cassandra reported that she could not hear the pursuing sub's motors any more.
+They cruised slowly and silently away from the spot where they had crossed the deep scattering layer. The pings from the sub with the ram quickly got more and more faint, though they could still hear them bouncing softly off the _Prospect_ long after Cassandra reported that she could not hear the _Grackle's_ motors any more.
 
-Percy stood directly behind Gregory, carefully double checking his every move to make sure they did not accidentally gain any depth and sink below the boat's crush depth. After an hour, she personally relieved Gregory in the dive plane control seat and sent him to his rack for a break.
+Percy stood directly behind Gregory, carefully double checking his every move to make sure they did not accidentally sink below the boat's crush depth. After an hour, she personally relieved Gregory in the dive plane control seat and sent him to his rack for a break.
 
 At 3 knots the _Prospect's_ motor made just enough noise that with the right filters in place on sonar, Hemi could hear the echo of the Prospect off the deep scattering layer above them. He showed Cassandra what to listen for, and pretty soon she could give a rough estimate of their depth below the mass of fish. It stayed above them for more than 2 hours, but then Cassandra told Percy she could hear it coming slowly down on top of them -- the fish were beginning their daily vertical migration back down the water column to the safety of the very deep, far below the capabilities of the _Prospect_. 
 
 [//]: # (dawn: day 4, run to Stilt City)
-At the depth they were cruising at, near the very limits for the _Prospect_, the boat continually let out long moans as the steel flexed under the weight of the water and stresses of movement. The sounds had a visceral impact on Captain Percy, as if her child were suffering. So it was with a sense of relief that they passed back through the mass of fish as the school descended. Once they were back above the scattering layer, there was no purpose to staying so dangerously deep, so Percy adjusted the bow planes and the _Prospect_ rose to a much more comfortable 200 meters of depth.
+At the depth they were still cruising at, near the very limits for the _Prospect_, the boat continually let out long moans as the steel of the hull flexed under the weight of the water and stresses of movement. The sounds had a visceral impact on Captain Percy, as if her child were suffering. So it was with a sense of relief that they passed back through the mass of fish as the school descended. Once they were back above the scattering layer, there was no purpose to staying so dangerously deep, so Percy adjusted the bow planes and the _Prospect_ rose to a much more comfortable 200 meters of depth.
 
 When Gregory came back from his break, Percy stepped down the ladder to the sonar compartment and joined Hemi at the navigation table.
-
 
 [//]: # (### They come up in a fog bank)
 
 "Our next challenge," said Hemi as she stepped up to the lighted chart, "is how long the batteries will last."
 
-"Don't think for a fucking second that isn't front of my fucking mind," said Percy. "Coupla hours left, at best. Then we have to surface. And it's fucking daylight now -- barring another storm, we'll be bright targets -- both visual _and_ radar -- for those fuckers with the ram. They'll be back on us before we can get the fucking ballast tanks fully emptied."
+"Don't think for a second that isn't front of my mind," said Percy. "Coupla hours left, at best. Then we have to surface. And it's fucking daylight now -- barring another storm, we'll be bright targets -- both visual _and_ radar -- for those fuckers with the ram. They'll be back on us before we can get the ballast tanks fully emptied."
 
 "We could wait it out until nightfall without moving. We have enough power to keep the lights on at least."
 
-"I'm worried we haven't put enough distance between us and that crazy fucking sub commander friend of Owen's for that. If they find us running on the surface, at least we can try to outrun them. If they find us deep with no battery when they come back around on their next search circle, we're done for."
+"I'm worried we haven't put enough distance between for that. If they find us running on the surface, at least we can try to outrun them. If they find us deep with no battery when they come back around on their next search circle, we're done for."
 
 "We would benefit from another piece of covering luck like the deep scattering layer," said Hemi.
 
-"That move depended far too much on luck and a dangerous fucking gamble Hemi. Luck and gambling is no way to run a submarine. The odds are never in our favor. What I want is a fucking plan that is reliable and executable." She paused, feeling tired. "Fuck me," said Percy. "I'm going to lay down for a minute. Run the batteries down, and get me when we have only emergency reserves left."
+"That maneuver depended far too much on luck and a dangerous roll of the dice, Hemi. Luck and gambling is no way to run a submarine. The odds are never in our favor. What I want is a fucking plan that is reliable and executable." She paused, feeling tired. "Fuck me," said Percy. "I'm going to lay down for a minute. Run the batteries down, and get me when we have only emergency reserves left."
 
 Percy climbed down a deck and disappeared forward into the Captain's cabin. She was out almost immediately as she fell into her rack. The ability to fall asleep instantly was a talent she had gained from long years of experience working with short sleep on subs.
 
+[//]: # (----- invisible character break)
+ 
+
 [//]: # (early morning: day 4, run to Stilt City)
-They motored nearly silently though the black depths for another two hours before the battery depletion warning lights lit up on the electrical system panel in the control room. Hemi had them shut the motors down and keep the boat hovering steadily in place while using as little power as possible. He went down to the Captain's cabin and woke Percy. They returned to the sonar compartment together, updated their probably position on the chart -- still a long way from anywhere -- and decided to take the only reasonable action available to them: rise to periscope depth and have a look around.
+They motored nearly silently though the black depths for another two hours before the battery depletion warning lights lit up on the electrical system panel in the control room. Hemi had his deck crew shut the motors down and keep the boat hovering steadily in place while using as little power as possible. He went down to the Captain's cabin and woke Percy. They returned to the sonar compartment together, updated their probable position on the chart -- still a long way from anywhere -- and decided to take the only reasonable action available to them: rise to periscope depth and have a look around.
 
 Not wanting to waste battery power driving up to the surface, they opened the high-pressure air system just a bit on the main ballast tanks to gain a little buoyancy and floated upwards. They watched the depth gauge rotate back to the left making its way steadily towards zero. At periscope depth, Hemi flooded enough of the trim tanks to hold them there. Percy put the scope up.
 
-"Holy fuck, Hemi." She said quietly, with her eyes in the viewport of the periscope. She rotated around the periscope, swinging it around 360 degrees, as every submarine commander is trained to do their first day using a periscope. In every direction she was faced with a gray wall, that occasionally pushed back to reveal an underlayer of a slate-colored ocean -- much calmer now -- rising and falling with the long frequency of deep ocean swells. "Would you fucking believe our luck is still with us? We have a fucking thick fog bank. In every direction."
+"Holy fuck, Hemi," she said quietly, with her eyes in the viewport of the periscope. She rotated around the periscope, swinging it around 360 degrees, as every submarine pilot is trained to do their first day using a periscope. In every direction she was faced with a gray wall, that occasionally pushed back to reveal an underlayer of a slate-colored ocean -- much calmer now -- rising and falling with the long frequency of deep ocean swells. "Would you fucking believe our luck is still with us? We have a thick fog bank. In every direction."
 
 Hemi smiled. "Makes sense -- it was likely a big warm wall of air pushing that storm, and now all that hot air is sitting on the surface of the cold ocean, turning into cloud."
 
@@ -954,18 +951,17 @@ Hemi smiled. "Makes sense -- it was likely a big warm wall of air pushing that s
 
 Hemi flipped some switches on the ballast control panel and the hum of compressors vibrated up from far below deck. The _Prospect_ rose in place until the deck of the boat pushed through the tightly-bound tension of the surface and water washed off and over the curved sides.
 
-Hemi opened the hatch of the control room and climbed up to the bridge followed closely behind by Captain Percy. The air on the bridge was warm and wet. It sat on the surface of the water without moving, and left droplets forming rapidly on the pilled woolly fabric of Hemi and Percy's clothes. The fog was the color of purgatory, lit from somewhere far off above them to a flat dim nothingness. At some moments it was so thick they could not see beyond the top of the sail, and at others it pushed back just enough to see down to the bow of the boat.
+Hemi opened the hatch of the control room and climbed up to the bridge followed closely behind by Captain Percy. The air on the bridge was warm and wet. It sat on the surface of the water without moving, and left droplets forming rapidly on the woolly fabric of Hemi and Percy's clothes. The fog was the color of purgatory, lit from somewhere far off above them to a flat dim nothingness. At some moments it was so thick they could not see beyond the top of the sail, and at others it pushed back just enough to see down to the bow of the boat.
 
-A blinding fog was not a challenge for a submarine though -- which spent most of its time moving sightlessly through the world anyway -- but a useful resource, transforming the surface into a similar dense covering medium as the deep ocean.
+A blinding fog was not a challenge for a submarine though -- which spent most of its time moving sightlessly through the pits of the world anyway -- but a useful resource, transforming the surface into a similar dense covering medium as the deep ocean.
 
 Percy called down to Bastian to start the engines, push the boat up to its maximum surface speed of 15 knots, and come around to a direct course for Stilt City. A moment later came the loud hiss and roll of the high-pressure air system turning over the diesel engines until they were firing on their own. The exhaust shutters lifted and let out a stream of black froth into the gray fog from the rear end of the sail. A minute later Bastian engaged the motors and Percy felt a jolt as the _Prospect_ picked up speed.
-
 
 [//]: # (### They launch Herschel)
 
 "Welp." Percy said to Hemi above the noise of the diesels. "I guess it might be time to launch the pigeon."
 
-"Herschel." Corrected Hemi.
+"Herschel."
 
 "'Herschel.'" Percy repeated. "Do you think that little fella will be able to find Shakes in this fuckin' fog?"
 
@@ -979,36 +975,35 @@ Percy called down to Bastian to start the engines, push the boat up to its maxim
 
 "If I thought that, I would not send Herschel out. The other thing I have heard about homing pigeons is they are capable of flying extraordinary distances. I am confident Herschel will eventually find some place to land. I am just not convinced we will ever see him again. Of course I am not entirely convinced we will ever see Shakes again either."
 
-"OK Hemi, if you think the bird will be alright, and there's a chance it will help us reconnect with Shakes, let's fuckin' launch him."
+"OK Hemi, if you think the bird will be alright, and there's a chance it will help us reconnect with Shakes, let's launch him."
 
-"What shall the message Herschel carries say?"
+"What shall the message say?"
 
-"I noted on the chart the dock in Stilt City where we're supposed to drop the cargo. I guess we're close enough that at this point, you should should just give him the fucking dock info, and that our expected arrival is 24 hours or so from now. We'll meet him there, if it's at all fucking possible."
+"I noted on the chart the dock in Stilt City where we're supposed to drop the cargo. I guess we're close enough that at this point, you should should just give him the dock info, and that our expected arrival is 24 hours or so from now. We'll meet him there, if it's at all fucking possible."
 
 "Alright," said Hemi. "I will be back in a few minutes with Herschel."
 
-Percy watched Hemi's wet, tweed-covered bulk disappear down the ladder and through the hatch into the control room. She lit a cheroot and took in deep breaths of damp, smokey air. A sudden wave of exhaustion passed through her.  She looked at her hands gripping the fairing of the sail -- the black grime of her work ground into the seams of her knuckles and the cheroot smoking between her fingers. The coal of the tobacco glowed robustly now that the _Prospect's_ movement was pushing some wind across it. She'd had only a few hours of sleep and no relent from the tension of being pursued since they left the depot days ago. The warm fog enveloped her and gave her a sense of cover and safety that she realized now she had missed and desperately needed.
+Percy watched Hemi's wet, tweed-covered bulk disappear down the ladder and through the hatch into the control room. She lit a cheroot and took in deep breaths of damp, smokey air. A sudden wave of exhaustion passed through her.  She looked at her hands gripping the fairing of the sail -- the black grime of her work ground into the seams of her knuckles and the cheroot smoking between her fingers. The coal of the tobacco glowed robustly now that the _Prospect's_ movement was pushing some wind across it. She'd had only a few hours of sleep and no relief from the tension of being pursued since they left the depot days ago. The warm fog enveloped her and gave her a sense of cover and safety that she realized now she had missed and desperately needed.
 
-Hemi reappeared on the bridge of the sail, cupping Herschel in one big brown hand as he awkwardly climbed the ladder. The bird looked quite content there. One of Herschel's feet hung out through Hemi's fingers and had a small steel band with an even tinier cylinder attached to it. Percy instantly had a vision of how a few moments ago huge Hemi must have been hunched over the galley table printing extremely small letters with a very sharp pencil on a short roll of thin paper. She regretted missing that.
+Hemi reappeared on the bridge of the sail, cupping Herschel in one big hand as he awkwardly climbed the ladder. The bird looked quite content. One of Herschel's feet hung out through Hemi's fingers and had a small steel band with an even tinier cylinder attached to it. Percy instantly had a vision of how a few moments ago huge Hemi must have been hunched over the galley table printing extremely small letters with a very sharp pencil on a short roll of thin paper. She regretted missing that.
 
 "OK," said Hemi. "Herschel is ready to go."
 
-Percy watched him. "So... do you have to give the fuckin' bird any instructions or anything?"
+Percy watched him. "So... do you have to give the bird any instructions or anything?"
 
 "Assuming Shakes is right about Herschel's training, all we have to do is throw him up in the air."
 
 Percy nodded.
 
-Hemi swung Herschel with both hands and released him at the highest point of the arc his arms made. There was a wild flapping for an instant, then Herschel steadied, circled the sail of the _Prospect_ once as he selected a course, and the disappeared straight into the fog.
+Hemi swung Herschel with both hands and released him at the highest point of the arc his arms made. There was a wild flapping for an instant, then Herschel steadied, circled the sail of the _Prospect_ once as he selected a course, and disappeared straight into the fog.
 
 "I do hope we see Herschel again," said Hemi.
 
 [//]: # (I really wanted to use nautical to mean amazing/cool in the next line like the deadliest catch guys do, but I could not make it feel right.)
 
-"I know you say that because you've grown attached to that little fuckin' bird," said Percy, "but it would be pretty miraculous if it works... and we find Shakes at the dock in Stilt City."
+"I know you say that because you've grown attached to that little fuckin' bird," said Percy, "but it would be pretty miraculous if we see him again because it works... and we find Shakes at the dock in Stilt City."
 
 
-[//]: # (Go back and delete comments with time/day references for run to stilt city?)
 
 
 
