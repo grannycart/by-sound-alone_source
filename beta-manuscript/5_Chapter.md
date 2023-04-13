@@ -29,14 +29,14 @@
 [//]: # (### Shakes leads off the Grackle)
 
 
-The _Gnat_ was off and the _Prospect_ submerged and cruising at depth before the first molten blob of malevolent red sun percolated up on the horizon. Shakes was running the _Gnat_ hot and loud, standing in the pilot's chair with head head above the hatch in the wind, trying to blow the bleary sleep out of his eyes. He sucked on a cigarette, but the wind was feeding oxygen to the coal on the end so that it glowed a color not totally unlike that of the sun coming up on the horizon behind him. His cigarette was quickly disappearing into itself. A long shadow of the short sail of the _Gnat_ with his round head on top stretched out in front of him on the slate-gray water.
+The _Gnat_ was off and the _Prospect_ submerged and cruising at depth before the first molten blob of malevolent red sun percolated up on the horizon. Shakes was running the _Gnat_ hot and loud, standing in the pilot's chair with his head above the hatch in the wind, trying to blow the bleary sleep out of his eyes. He sucked on a cigarette, but the wind was feeding oxygen to the coal on the end so that it glowed a color not totally unlike that of the sun coming up on the horizon behind him. His cigarette was quickly disappearing into itself. A long shadow of the short sail of the _Gnat_ with his round head on top stretched out in front of him on the slate-colored water.
 
- In the _Prospect_ one hundred meters below, it was nearly silent as the crew eased into their more relaxed daytime shifts. Captain Percy was in the control room smoking with Bastian, and Cassandra had just woken when the boat dove, and was making her way with a coffee to the sonar station for the long day watch.
+ One-hundred meters below in the _Prospect_, it was nearly silent as the crew eased into their more relaxed daytime shifts. Captain Percy was in the control room smoking with Bastian. Cassandra had just woken when the boat dove and was making her way with a coffee to the sonar station for the long day watch.
 
-The first few hours passed with dull regularity. Shakes had nothing to report during diesel stops, and by her third cheroot Percy was settling into the comfortable state of mind-blanking boredom that she was her most familiar association with life aboard submarines.
+The first few hours passed with dull regularity. Shakes had nothing to report during diesel stops, and by her third cheroot Percy was settling into the comfortable state of mind-blanking boredom that was her most familiar association with life aboard submarines.
 
 [//]: # (Mid-morning: day 3, run to Stilt City)
-By mid-morning of the third day out from the depot, Shakes was shutting the diesel of the _Gnat_ down for the third time that morning to check in with the _Prospect_. 
+Mid-morning of the third day out from the depot, Shakes was shutting down the diesel of the _Gnat_ for the fourth time that morning to check in with the _Prospect_. 
 
 On sonar, Cassandra could heard the _Gnat's_ diesel putter away to a halt -- leaving a silent relief in her headphones. As usual, she called up to the control room to let them know the _Gnat_ was shut down for a listening and check-in session. "Captain Percy, the _Gnat_ just went silent."
 
@@ -46,13 +46,15 @@ On sonar, Cassandra could heard the _Gnat's_ diesel putter away to a halt -- lea
 
 Weather was not generally a concern for Percy, submarines could pass under even the worst weather at depth. But she could not guess at what the _Gnat_ was capable of handling. "Does that give you anything to worry about with the _Gnat_?"
 
-"Naw," Shakes voice crackled. "The _Gnat's_ been through the very fucking worst. If it gets bad, I'll dive and ride it out underwater. With all this running on the surface, the batteries are always fully topped up so I can stay down for a while."
+"Naw," Shakes voice crackled, "the _Gnat's_ been through the very fucking worst. If it gets bad, I'll dive and ride it out underwater. With all this running on the surface, the batteries are always fully topped up so I can stay down for a while."
 
-Knowing the _Gnat_ could not dive very deep at all, Percy was unconvinced that this was a solution to big weather, but she also knew Shakes had taken the _Gnat_ back and forth across deep ocean many times. She decided to trust his experience. "Alright then Captain Shakes. If you..."
+Knowing the _Gnat_ could not dive very deep at all, Percy was unconvinced that this was a solution to big weather, but she also knew Shakes had taken the _Gnat_ back and forth across the wide parts of the oceans many times. She decided to trust his experience. "Alright then Captain Shakes. If you..."
 
-"Captain Percy!" Cassandra interrupted with a shout from sonar. "I think I've got a contact."
+"Captain Percy!" Cassandra interrupted with a shout from sonar, "I think I've got a contact."
 
 "Hold on Shakes. We might have a contact. Don't start your diesel." Percy hung up the mic and slid down the ladder.
+
+[//]: # (---- REVIEWED TO HERE ----)
 
 Cassandra had her eyes closed and was concentrating intently on the sounds in her headset. She had the mics pointed towards the _Prospect's_ hard rear starboard quarter, and the signal strength indicator gauge was nodding weakly just a bit above the pin. "It feels like I'm only on the edge of the signal. They might be directly behind us."
 
