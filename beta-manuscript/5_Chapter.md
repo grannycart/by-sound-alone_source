@@ -201,9 +201,7 @@ Percy punched the emergency blow alarm, to be sure that this time everyone on th
 
 From below they heard the squeak of the turning valve, and a loud hiss. Air rushed through the pipes below them and out into the ballast. Hemi started counting to himself. There was a pause where nothing happened and then they all felt the upward acceleration of the _Prospect_ lifting.
 
-Hemi's count hit 5. "Close it down Owen!"
-
-[//]: # (---- REVIEWED TO HERE ----)
+Hemi's count hit five. "Close it down Owen!"
 
 The hiss stopped, but the upward motion did not. Percy wrapped her fingers in the leather strap hanging over her head. They rode the force of the expanding air upwards for a few seconds and then the boat went weightless for a moment as it reached the surface. They could feel their stomachs rise within, and Hemi and Bastian's knuckles went white as they tightened their grip on the control wheels.
 
@@ -211,9 +209,9 @@ The depth gauge landed firmly on its zero pin and sat there. The boat rolled slo
 
 [//]: # (### The Prospect rolls over)
 
-All of these movements were well beyond the everyday range of motion for the _Prospect_, which typically experienced little more than a gentle roll in the course of a normal day of travel. But Captain Percy knew her boat very well after all these years. Even during a dramatic maneuver like blowing out the main ballast tanks, the boat was well within its capabilities. Hemi and Bastian might have nervous looks on their faces, but Percy gripped her strap and casually smoked her cheroot as they took the express route to the surface.
+All of these movements were well beyond the everyday range of motion for the _Prospect_, which typically experienced little more than a gentle roll in the course of a normal day of travel. But Captain Percy knew her boat very well after all these years. Even during a dramatic maneuver like blowing out the main ballast tanks, the boat was well within its capabilities. Her crew might have nervous looks on their faces, but Percy gripped her strap and casually smoked her cheroot as they took the express route to the surface.
 
-When the boat bobbed back downwards and began to settle on the surface, she was about to raise the periscope and have Chips prime the diesels for starting when she felt the deck below her feet move in a way that she was not expecting.
+The boat bobbed back downwards and began to settle. She was about to raise the periscope and have Chips prime the diesels for starting when she felt the deck below her feet move in a way that she was not expecting.
 
 It was nothing very dramatic, just a slight roll and yaw that Percy's whole being knew simply was not right. If the _Prospect_ was a haptic extension of Percy's own body, this was like she had just tripped over her own feet. While she had no worries during the rise to the surface, this sudden strange motion of the boat made her break out in a cold sweat. Nobody else seemed to even notice it.
 
@@ -227,7 +225,7 @@ The _Prospect_ rolled hard over to starboard, and it did not stop rolling.
 
 The port wall became the ceiling. The boat was rolled over 90 degrees on its side by being caught in the wrong part of a huge wave. It kept rolling even past 90 degrees. Captain Percy crashed into the starboard wall. Hemi put one arm out to brace himself, and the other arm against Bastian to brace him. Hemi's enormous strength rippled through his body and held the two men firmly in place at their control stations, defying gravity. From every deck of the boat came the shifting, crashing sound of previously carefully stowed objects falling hard against the starboard side that was now acting as the temporary deck.
 
-As on all ships, the crew generally kept objects secured by strap or rail against the roll of the vessel. This both kept things from falling out of place with the normal motion of the boat, and on a submarine prevented a falling object from potentially making enough noise to give their position away on sonar. But objects were secured against maybe a 20 degree roll, not a 90 degree roll. At that angle nearly everything in the boat found itself yanked free by malevolent gravity.
+As on all ships, the crew generally kept objects secured by strap or rail against the roll of the vessel. This both kept things from falling out of place with the normal motion of the boat, and on a submarine prevented a falling object from potentially making enough noise to give their position away on sonar. But objects were secured against maybe a 20 degree roll, not a 90 degree roll. At that angle nearly everything in the boat found itself yanked free by the malevolent hand of gravity.
 
 The lights blinked a few times and then shorted out as bilge water made its way to places it did not belong. A few moments later the control room and sonar compartment were lit with the harsh white glare of the battery-backup emergency floodlights.
 
@@ -237,23 +235,21 @@ Hemi responded to her with forceful strain, "Cassandra! Do not panic. Submarines
 
 "Except when they fuckin' don't," said Bastian, but only loud enough for Hemi to hear.
 
-"Hemi," said Percy flatly to him. "What about the cargo?"
+"Hemi, what about the cargo?" Percy asked.
 
-"We will put our faith in the packing material," he said. "If one of the warheads does explode, we will know it immediately. And a few seconds after that, it will not matter."
+"We will put our faith in the packing material. If one of the warheads does explode, we will know it immediately. And a few seconds after that, it will not matter."
 
-Bastian coughed.
-
-"We could open the main ballast valves, try to submerge again," Hemi suggested.
+Bastian coughed.  "What if we try to submerge again?" he asked.
 
 "I'd be too worried about the tanks flooding unevenly. We could end up turning fuckin' turtle," said Percy. "We need to ride it out. She'll come up again..."
 
-The sub rocked on its side for terrifying minutes on end, sometimes rolling in the wrong direction far enough that it seemed impossible they would not end upside down. Occasionally the lights would flicker, but continually shorted out. They listened to the ongoing sounds of the boat's stores crashing and sliding through all the compartments.
+The sub rocked on its side for terrifying minutes, sometimes rolling in the wrong direction far enough that it seemed impossible they would not end upside down. Occasionally the lights would flicker, but continually shorted out. They listened to the ongoing sounds of the boat's stores crashing and sliding through all the compartments.
 
-As Hemi strained to hold himself in place and support Bastian in his, he began to doubt his own words. Maybe this was one of those times that the boat was not going to come back upright. And even if it did, coming upright could always be the final motion that set off one of the magnetic warheads. Cassandra had been reduced to whimpering on the deck below them, though they could hear that Owen had made his way over to her and was telling her things in a low voice they could not hear but clearly had a reassuring tone. Bastian just kept saying "fuck!" every few seconds, with more and more frustration.
+As Hemi strained to hold himself in place and support Bastian in his, he began to doubt his own words. Maybe this was one of those times that the boat was not going to come back upright. And even if it did, coming upright could always be the motion that set off one of the magnetic warheads. Cassandra had been reduced to whimpering on the deck below them, though they could hear that Owen had made his way over to her and was telling her things in a low voice they could not hear but clearly had a reassuring tone. Bastian just kept saying "fuck!" every few seconds, with more and more frustration.
 
 Captain Percy lay against the starboard wall. She spat, and her intuitive expectation gleaned from years of experience that she would watch it arc to the deck was defied by gravity, which pulled the brown glop back against the side of the ship.
 
-But as she was the first to feel the boat go wrong, Captain Percy was also the first to feel it begin to right itself. There was the slightest relaxing of the angle, she could feel a tiny bit more pressure from the deck through her boots, and somehow she knew it was the beginning of a more substantive movement. The _Prospect_ was telling her it was coming back up.
+But as she was the first to feel the boat go wrong, Captain Percy was also the first to feel it begin to right itself. There was the slightest relaxing of the angle, she could feel a tiny bit more pressure from the deck through her boots, and somehow she knew it was the beginning of a more substantive movement. The _Prospect_ was telling her she was coming back up.
 
 At first it was just a slow rotation, but then it gathered speed and soon the control room was whipped up into the air, and then came back again as the _Prospect_ found its upright footing.
 
@@ -283,9 +279,11 @@ Percy grabbed at the boat PA mic and thumbed the transmitter, but there was no p
 
 "Ya, I fucking fell out of the rack when we rolled, but I'm O-fucking-K."
 
-"Good. Get a flashlight and go down to the cargo hold and check the cargo -- make sure nothing's about to fuckin' explode on us, and get it re-stowed, OK?"
+"Good. Get a flashlight and go down to the cargo hold and check the cargo -- make sure nothing's about to explode on us, and get it re-stowed, OK?"
 
-"Ya, I'm on it." Gregory pushed his way forward through the compartment against the sudden mountain grade he faced as the boat rocked. Now that it was on the surface, the _Prospect_ was clearly taking a beating from the weather.
+"Ya, I'm on it." Gregory pushed his way forward through the compartment against the sudden mountain grade he faced as the boat rocked. Now that it was on the surface, the _Prospect_ was taking a beating from the weather.
+
+[//]: # (---- REVIEWED TO HERE ----)
 
 Hemi returned wearing a full-length rubber foul-weather slicker and carrying a coil of heavy rope over his arm.
 
