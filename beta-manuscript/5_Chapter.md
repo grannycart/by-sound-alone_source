@@ -283,17 +283,15 @@ Percy grabbed at the boat PA mic and thumbed the transmitter, but there was no p
 
 "Ya, I'm on it." Gregory pushed his way forward through the compartment against the sudden mountain grade he faced as the boat rocked. Now that it was on the surface, the _Prospect_ was taking a beating from the weather.
 
-[//]: # (---- REVIEWED TO HERE ----)
-
 Hemi returned wearing a full-length rubber foul-weather slicker and carrying a coil of heavy rope over his arm.
 
 "We will not be able to see much up there Sylvia. We need to rig some floodlights."
 
-"I know, but we can't do that without fucking power. Just do your best to feel your way out of the fucking ditch. As soon as the main power comes on, we'll send some clamp-lights up."
+"I know, but we can't do that without power. Just do your best to feel your way out of the fucking ditch. As soon as the main power comes on, we'll send some clamp-lights up."
 
-Hemi opened the hatch at the top of the control room, and wind immediately whipped into the boat, driving rain with it. Hemi climbed up and tied the heavy line around himself and hitched it to secure rings behind the fairing of the bridge. The topside world was an environment of darkness pressing against blackness. Hemi was surrounded by huge moving mountains of pitch, rolling upwards and trying to touch the black sky that hung just over them, pressing down. 
+Hemi opened the hatch at the top of the control room, and wind immediately whipped into the boat, driving rain with it. Hemi climbed up, secured the heavy line around himself, and hitched it to steel rings welded in place behind the fairing of the bridge. The topside world was an environment of darkness pressing against blackness. Hemi was surrounded by huge moving mountains of pitch, rolling upwards and trying to touch the black sky that hung just over them, pressing down. 
 
-"OK Bastian!" Hemi shouted down to the control room. "Left-rudder, three degrees."
+"OK Bastian!" Hemi shouted down to the control room, "left-rudder, three degrees."
 
 Bastian shouted the order back up to Hemi, repeating it like the pilot of a military ship would, knowing that Hemi had to be sure he was executing exactly the move Hemi needed.
 
@@ -301,17 +299,17 @@ Bastian shouted the order back up to Hemi, repeating it like the pilot of a mili
 
 [//]: # (I guess I'm just assuming Chips got the starters for the diesels back together -- she certainly had plenty of time.)
 
-She stepped up to the engine control panel located just behind Bastian. This panel was showing no power to the lights and indicators that usually glowed comfortably as they showed the core propulsion systems of the boat were working. Percy flipped the switch to turn on power to the diesels regardless -- that circuit was also isolated from the main power circuits as a safety precaution. She pushed and held the starter buttons for the diesels. These were mechanically rigged to valves in the high-pressure system that let air flow into the engines with enough force to turn over the crankshaft and the big cylinder bores. The diesels required no external electricity source to start or run.
+Captain Percy stepped up to the engine control panel located just behind Bastian. This panel was showing no power to the lights and indicators that usually glowed comfortably as they communicated to the control room crew that the core propulsion systems of the boat were working. Percy flipped the switch to turn on power to the diesels regardless -- that circuit was also isolated from the main power circuits as a safety precaution. She pushed and held the starter buttons for the diesels. These were mechanically rigged to valves in the high-pressure system that let air flow into the engines with enough force to turn over the crankshaft and the big cylinder bores. The diesels required no external electricity source to start or run.
 
 After a few seconds of listening to the high-pitched hiss of air flowing through the boat and down to the engines, Percy heard the rumbling vibrations of the diesels firing down in the deep parts of the boat and released the starter buttons. 
 
-"A little more throttle Bastian!" Hemi called down after the diesels started bellowing their confident exhaust behind him. Now he felt like the _Prospect_ had the power to confront this big weather they were driving into.
+"A little more throttle Bastian!" Hemi called down after the diesels started bellowing their confident exhaust behind him. Now he felt the _Prospect_ had the muscle to confront this big weather they were driving into.
 
 A few minutes later the regular lighting came back on, and the harsh shadows of the emergency floodlights faded away. Power returned to the ship panel by panel, along with the reassuring hums of all the electric motors, circuits, and filaments that bathed every moment of their lives onboard the boat.
 
 Percy picked up the PA mic. "Nice work Chips." She waited a second but there was no reply over the ship PA. "Bastian, I'm going to the cargo hold to check on the load."
 
-The ship was a mess. Percy made her way stepping over all the detritus of a working sub scattered over every deck: tools, bedding, cans of food, cleaning supplies, scattered stacks of papers, half-unrolled charts, pencils, rags, parts, and steel-encased equipment. For all the mess in the main decks though, the cargo hold was not too bad. Hemi's careful re-arrangement of the cargo crates earlier had included strapping the crates hard up against the wall, and the old cotton-web straps had mostly held. Only a couple of crates had broken loose. Owen and Gregory were using the block and tackle to move them out of the center area of the cargo hold. Chips had joined him, and was stowing equipment that had been shaken loose. She had one of the broken bicycles that had escaped from the rusty bicycle pile in her hands when she saw Percy.
+The ship was a mess. Percy made her way stepping over all the detritus of a working sub scattered over every deck: tools, bedding, cans of food, cleaning supplies, scattered stacks of papers, half-unrolled charts, pencils, rags, parts, and steel-encased equipment. For all the mess in the main decks though, the cargo hold was not too bad. Hemi's careful re-arrangement of the cargo crates earlier had included strapping the crates hard up against the wall, and the old cotton-web straps had mostly held. Only a couple of crates had broken loose. Owen and Gregory were using the chain hoist to move the loose crate from the center area of the cargo hold. Chips had joined them, and was stowing equipment that had been shaken loose. She had one of the broken bicycles that had escaped from the rusty bicycle pile in her hands when she saw Percy.
 
 Chips' face immediately went red. "That's the second fuckin' time Percy. Two fuckin' times you almost fuckin' killed me now. You fuckin' surface the boat in a fuckin' storm? Fuckin' damn you to a cold fuckin' watery hell you fuckin' shit-faced asshole."
 
@@ -319,12 +317,16 @@ Chips' face immediately went red. "That's the second fuckin' time Percy. Two fuc
 
 "But with a hold full of fuckin' explosives? Ride out bad fuckin' storms submerged -- every stupid-fuckin' green boat driver knows that. But apparently, you fuckin' think it's fine to surface with a hold full of fuckin' TNT. We were a fuckin' mite's-dick away from being blown to the bottom of the fuckin' hole!"
 
-Percy leveled her emotions. "I don't fucking need this right now. I have bigger problems than you. Go cool the fuck down Chips." Percy turned and walked away.
+Percy leveled her emotions. "I don't fucking need this right now. I have bigger problems than you." Percy turned and walked away.
 
 Chips threw the rusted bicycle frame into the corner with the other bicycles. The hollow tubes of thin steel crashed and locked together.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They drive through the storm)
+
+[//]: # (---- REVIEWED TO HERE ----)
 
 With the power restored, Captain Percy tracked down some powerful floodlights in the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this, where the boat needed to be piloted visually from the top of the sail, but visibility was nearly zero. Powering the lights required running heavy weather-proof electrical cables up from the control room to the bridge. 
 
