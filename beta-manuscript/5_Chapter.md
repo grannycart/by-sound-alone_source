@@ -326,15 +326,15 @@ Chips threw the rusted bicycle frame into the corner with the other bicycles. Th
 
 [//]: # (### They drive through the storm)
 
-[//]: # (---- REVIEWED TO HERE ----)
-
 With the power restored, Captain Percy tracked down some powerful floodlights in the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this, where the boat needed to be piloted visually from the top of the sail, but visibility was nearly zero. Powering the lights required running heavy weather-proof electrical cables up from the control room to the bridge. 
 
 She called on the PA for Gregory to come help her. Together they managed to get the heavy lighting units hauled through the control room and up to the bridge of the sail. In the slashing rain, Percy held each of the four lights in place while Gregory clamped the lights onto the fairing by bolts tightened with a wet and slipping wrench. Gregory draped the cables down through the sail and into the control room where he connected them to high-amperage power sockets.
 
-So far, Hemi had been mostly guessing from which way the big waves were coming at him, and having Bastian adjust the course to to keep them moving laterally across the trough of the waves, where they faced the most risk of rolling over again. The powerful lights pushed back the darkness to reveal the black throbbing landscape surrounding him and stretching out in front of him. Huge mountains, the color of crude oil, slipped towards him and under the boat, lifting it high up among the spindrift blowing white from their peaks and violently twisting off deep into the ferocious darkness.
+So far, Hemi had been mostly guessing from which direction the biggest waves would approach, and then have Bastian adjust the course to to keep the _Prospect_ moving laterally across the troughs of the waves, where they faced the most risk of rolling over again. The powerful lights pushed back the darkness to reveal the black throbbing landscape surrounding him. Huge mountains, the color of crude oil, slipped towards him and under the boat, lifting it high up among the spindrift blowing white from their peaks and violently twisting off deep into the ferocious darkness.
 
-Hemi tried to spot the big ones coming at him from a couple of waves away. When he saw one, he would have Bastian steer into them, driving up their sides, splitting through the top and crashing down into the valley below. The wind blew without relent, carrying a mix of rain and blown water from which no distinction could be made whether it was moving upwards or downwards.
+Hemi tried to spot the big ones from a couple of waves away. When he saw one, he would have Bastian steer into it, driving up the side, splitting through the top and crashing down into the valley below. The wind blew relentlessly, carrying a mix of rain and blown water from which no distinction could be made whether it was moving upwards or downwards.
+
+[//]: # (---- REVIEWED TO HERE ----)
 
 To the uninitiated, this was a hellscape, an unstable surface on an alien world. Any ship in weather like this was a tiny figure on a vast plane roamed by monsters the size of apartment buildings that arrived with stealth, and an ability and intent to crush even the most formidable intruders and drive them down into the bottomless hole they effortlessly strode over.
 
