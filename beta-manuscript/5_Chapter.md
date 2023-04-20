@@ -416,17 +416,15 @@ Hemi immediately dropped to the deck of the bridge, below the protective ridge o
 
 "Were they _firing_ on us? That same sub -- the _Grackle_?" Percy asked.
 
-[//]: # (---- REVIEWED TO HERE ----)
-
 "Yes. I saw the ram," said Hemi. "We need to dive. Now. Open the main ballast vents." But he knew his words were redundant. Gregory had already shut down the diesels, and Bastian was putting an angle on the dive plane and the main ballast was flooding. The bow tilted towards the depths. But the row of lights that showed the status of the hatches contained one glaring red light among the green -- the control room hatch.
 
 The depth gauge had already climbed off its zero pin. The deck of the _Prospect_ would be awash in a matter of seconds. The control room would be under shortly after that. Hemi looked up through the open hatch "Owen! We're going down!" But all he could see was black rain blowing across the bridge. "He was pretty exposed up in the lookout ring when they started firing. He may have been hit," Hemi said to Percy.
 
-They suddenly all made a coordinated, involuntarily, and wincing motion to duck down as more shrapnel hit the sail. 
+They suddenly all made a coordinated, involuntarily, wincing motion to duck down as more shrapnel hit the sail. 
 
 A rain of blood driven by the wind sprayed down through the open hatch above them.
 
-Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the pursuing sub, so that all enunciation blended together into one long echoing drone of command. "Do not submerge. Disengage your motors and prepared to be boarded." 
+Through the hatch they could hear a loud, low voice, enlarged by loudspeakers mounted to the sail of the pursuing sub, so that all enunciation blended together into one long echoing drone of command. "Do not submerge. Disengage your motors and prepare to be boarded." 
 
 This was followed by a long string of regional control organizations, treaty clauses, and naval ranks by which the following sub conveyed its unshakable and inviolable authority to issue such a command. 
 
@@ -440,7 +438,7 @@ This was followed by a long string of regional control organizations, treaty cla
 
 She screwed the squeaking hatch-sealing wheel down tight. The light on the hatch-status board went from red to green.
 
-More bits of lead smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced involuntarily again. There was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just such a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
+More bits of lead smacked against the sail and along the hull of the _Prospect_ just below the waterline. Percy winced again. There was no telling what kind of damage they could be doing. It might be nothing, or it might wound the _Prospect_ in just such a particular way that under exactly the right pressure of water, at some unknowable depth, the whole boat would collapse on itself.
 
 "They're tearing us apart!" shouted Bastian.
 
@@ -461,17 +459,17 @@ Not the loud thunks of bullets, but the soft rhythmic bump of someone banging on
 
 [//]: # (But nobody _saw_ Owen die...)
 
-Chips stood at the foot of the control room ladder looking up at Percy through the hatch. "Fuck you," she said softly. "The fuckin' judges in hell will fuck you for eternity for that, Percy." Chips turned and disappeared towards the stern of the boat.
+Chips stood at the foot of the control room ladder looking up at Percy through the hatch. "Fuck you," she said softly. "The fuckin' judges in hell will hold you for eternity for that, Percy." Chips turned and disappeared towards the stern of the boat.
 
 Nobody else said anything. Percy spat. "Flood the fucking dive tanks!"
 
 Hemi reached over to the tank trim panel and opened valves that let more water into the boat. Throughout the whole of the _Prospect_ huge volumes of water poured into the ballast tanks as air was displaced up pipes and vented out above them in streams of bubbles. Percy flipped the lights from white to red.
 
-"Set the planes down steep," said Hemi, "full power to the electric motors. Drive us down as fast as possible." Gregory pushed the main throttles all the way forward, and the hum of the powerful electric motors rose up around them mixing with the sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill statuses within their pitted chrome casings -- one with a cracked glass face -- all rose evenly and quickly.
+"Set the planes down steep," said Hemi, "full power to the electric motors. Drive us down as fast as possible." Gregory pushed the main throttles all the way forward, and the hum of the electric motors rose up around them mixing with the sound of water rushing in to fill the boat. The rows of smaller dials showing the tank-fill statuses within their pitted chrome casings -- one with a cracked glass face -- all rose evenly and quickly.
 
-The _Prospect's_ bow feel downwards ahead of them. Percy and Hemi grabbed the hanging leather straps and counter-angled themselves against the incline. The boat was going down fast enough that they could feel their stomachs rise against the descent.
+The _Prospect's_ bow fell downwards ahead of them. Percy and Hemi grabbed the hanging leather straps and counter-angled themselves against the incline. The boat was going down fast enough that they could feel their stomachs rise against the descent.
 
-The ship-to-ship radio lit up, and the communication from the pursuing sub continued where it had left off when Percy closed the hatch. "Diving submarine: you are ordered to discontinue your dive. Return to the surface and disengage your engines. If you do not, we _will_ launch a torpedo at you. Under the International Water Territorial Authority Control Agreement we are permitted to inspect any--" Percy punched the button cutting power to the ship-to-ship radio.
+The ship-to-ship radio lit up, and the communication from the pursuing sub continued where it had left off when Percy closed the hatch. "Diving submarine: you are ordered to discontinue your dive. Return to the surface and disengage your engines. If you do not, we _will_ launch a torpedo at you. Under the International Waters Territorial Authority Control Agreement we are permitted to inspect any--" Percy punched the button cutting power to the ship-to-ship radio.
 
 [//]: # (### Figuring out what the pursuing sub is going to do)
 
@@ -481,7 +479,9 @@ The ship-to-ship radio lit up, and the communication from the pursuing sub conti
 
 "So we're not that scared?" asked Bastian. He put a cigarette to his lips for a long draw, not expecting a reply.
 
-Percy sized up the situation. "It must have just been total bad luck for us. There's no way they could have tracked us down in that storm. ...Don't ya think Hemi?"
+[//]: # (---- REVIEWED TO HERE ----)
+
+Percy sized up the situation. "It must have just been total bad luck for us. There's no way they could have fucking tracked us down in that storm. ...Don't ya think Hemi?"
 
 "It is incredibly unlikely. They may have just been riding out the storm themselves, and suddenly found they were on us."
 
