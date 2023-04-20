@@ -479,8 +479,6 @@ The ship-to-ship radio lit up, and the communication from the pursuing sub conti
 
 "So we're not that scared?" asked Bastian. He put a cigarette to his lips for a long draw, not expecting a reply.
 
-[//]: # (---- REVIEWED TO HERE ----)
-
 Percy sized up the situation. "It must have just been total bad luck for us. There's no way they could have fucking tracked us down in that storm. ...Don't ya think Hemi?"
 
 "It is incredibly unlikely. They may have just been riding out the storm themselves, and suddenly found they were on us."
@@ -503,11 +501,11 @@ Hemi considered. "Well, if they are diving, I believe that suggests they want ta
 
 "Only a truly suicidal sub driver would try a ramming while submerged. There's too much risk of damaging their own boat beyond repair." 
 
-"There is nothing to indicate that this commander is not suicidal..," said Hemi.
+"Cautious restraint is hardly how I would characterize the actions of this sub commander so far..," said Hemi.
 
 "Cassandra!" Percy called down again, "what's the range to the contact now?"
 
-"Um.." Cassandra struggled, "I can't really tell Captain Percy. The background noise in the water is still so loud that it's making ranging very difficult."
+"Um.." Cassandra struggled, "I can't really tell Captain Percy. The background noise in the water is making ranging difficult."
 
 "You had better go down there and get on the sonar with her," Percy said to Hemi.
 
@@ -529,13 +527,13 @@ Bastian turned the dive plane control wheel to give the planes a steeper angle. 
 
 "If they have rear torpedo tubes, they will not have to turn," Hemi replied. "And they are so close a torpedo will be in the water for only a minute before it hits us," he added.
 
-Percy spat again. "Then let me know if there's any indication at all that they are about to fire Hemi."
+Percy spat again. "Hell's bells. Then just fucking let me know if there's any indication at all that they are about to fire Hemi."
 
 "It is tough Sylvia. Cassandra is right, there is a lot of background noise."
 
 Gregory reached up and wiped his sweating fingers on a rag hanging on the forward wall between the gauges. "I could never get used to going down fast like this, controlled or not," he said, as if voicing his fear might let some of it out from his guts and disperse it around the room a little. His eyes rapidly scanned over the stacks of dozens and dozens of dials and readouts on the front wall of the con. What Gregory read from those dials was that the sub was being put through the very limits of its endurable capabilities.  
 
-The rising and falling needles on the dials, which usually moved with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line. The battery indicators were showing the batteries being drained so fast that Gregory could actually see the needles falling on the dials. The plane angle indicators were showing a steep angle. And the ballast tank status indicators were rapidly pushing towards a completely flooded boat. 
+The rising and falling needles on the dials, which usually moved with a deliberate and controlled slowness, were all rapidly chasing new positions. The RPM indicators for the electric motors were near red-line. The battery indicators were showing the batteries draining so fast that Gregory could actually see the needles falling on the dials. The plane angle indicators were showing a steep angle. And the ballast tank status indicators were rapidly pushing towards a completely flooded boat. 
 
 The depth indicator was the one that Gregory's eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column.  It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity. Within a few minutes it was passing through the range of 175 and 180 meters. 
 
@@ -571,11 +569,13 @@ Gregory looked at Percy, "What happened?"
 
 [//]: # (I do not think a torpedo has a pressurized hull, so it would not implode, it would just fail.)
 
-"Most of the torpedoes on these Authority subs are older ones because they manufactured fuckin' huge numbers of them. They generally can't swim below 200 meters or so. The one homing on us probably just stopped functioning when critical components failed under the pressure." Percy paused, thinking to herself. "It's entirely possible that they are now loading a more modern torpedo into their tubes that can reach us at this depth, and all we've done is delayed the fuckin' inevitable."
+"Most of the torpedoes on these Authority subs are older ones because they manufactured fuckin' huge numbers of them. They generally can't swim below 200 meters or so. The one homing on us probably just stopped functioning when critical components failed under the pressure." Percy paused, thinking to herself. "It's entirely possible that they are now loading a more modern torpedo into their tubes that can reach us at this depth, and all we've done is delayed the inevitable."
 
-Percy tilted her head slightly and said loudly, "what are they doing Hemi now?" 
+Percy tilted her head slightly and said loudly, "what are they doing now Hemi?" 
 
-Hemi and Cassandra had their headsets back on and were listening. "Sounds like they stopped moving Percy. They may have decided to wait us out," said Hemi.
+Hemi and Cassandra had their headsets back on and were listening. "Sounds like they stopped moving Percy. They may have decided to wait us out."
+
+[//]: # (---- REVIEWED TO HERE ----)
 
 [//]: # (### Hiding deep)
 
