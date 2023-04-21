@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-05 21:57
+Last modified: 2023-04-21 14:27
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -465,6 +465,9 @@ Edits to pick up in second full pass through the book
 	* keep track of pages to be cut as you edit
 * [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 	* Is C right? Should I cut the whole thing before the depot and start it there?
+* [ ] Edit the racist comments of the bartender at the Depot:
+	* either eliminate them entirely
+	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * Other potential scenes to go:
 	* the spotted-from above section
 	* the post stilt city damaged floating in the water column section

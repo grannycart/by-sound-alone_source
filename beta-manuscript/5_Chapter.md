@@ -326,7 +326,7 @@ Chips threw the rusted bicycle frame into the corner with the other bicycles. Th
 
 [//]: # (### They drive through the storm)
 
-With the power restored, Captain Percy tracked down some powerful floodlights in the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this, where the boat needed to be piloted visually from the top of the sail, but visibility was nearly zero. Powering the lights required running heavy weather-proof electrical cables up from the control room to the bridge. 
+With the power restored, Captain Percy tracked down heavy floodlights in the storage hold. They were designed to be clamped onto the fairing of the sail for situations like this, where the boat needed to be piloted visually from the top of the sail, but visibility was nearly zero. Powering the lights required running heavy weather-proof electrical cables up from the control room to the bridge. 
 
 She called on the PA for Gregory to come help her. Together they managed to get the heavy lighting units hauled through the control room and up to the bridge of the sail. In the slashing rain, Percy held each of the four lights in place while Gregory clamped the lights onto the fairing by bolts tightened with a wet and slipping wrench. Gregory draped the cables down through the sail and into the control room where he connected them to high-amperage power sockets.
 
@@ -575,27 +575,25 @@ Percy tilted her head slightly and said loudly, "what are they doing now Hemi?"
 
 Hemi and Cassandra had their headsets back on and were listening. "Sounds like they stopped moving Percy. They may have decided to wait us out."
 
-[//]: # (---- REVIEWED TO HERE ----)
-
 [//]: # (### Hiding deep)
 
 "OK," she said to Bastian and Gregory, "level us out. Hold us at this depth for the moment."
 
-Bastian eased back the wheel on the dive plane while Gregory pulled the throttle back to the zero mark, and flipped some switches. The electric hum died away as the deck of the boat came up under their feet to something like level ground.  Bastian opened the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank fill needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally held level at 232 meters down.
+Bastian eased back the dive plane wheel while Gregory slid the throttle back to the zero mark. The electric hum died away as the deck of the boat came up under their feet to something like level ground.  Bastian opened the valves controlling airflow to the ballast tanks, and a soft hissing whispered through the boat.  The ballast tank gauge needles worked their way slowly back toward the middle marks on their dials. The depth gauge slowed and slowed, and then finally held level at 232 meters.
 
-The stress Captain Percy was feeling changed in character. A few moments before her mind was working quickly in the desperate survival mode of flight. Now that immediate pressure was off, replaced by an almost overwhelming cloud of slow and helpless dread as they switched to a mode of silent hiding and no further action could be taken. 
+The anxiety Captain Percy was feeling changed in character. A few moments before her mind was working quickly in the desperate survival mode of flight. Now that immediate pressure was off, replaced by an almost overwhelming cloud of slow and helpless dread as they switched to a mode of silent hiding where no further action could be taken. 
 
-She looked around her in the crimson gloom. With the motors shut down her boat was completely silent. Their breathing loaded the air with dampness that condensed on the metal fixtures and gathered until it released a soft drip. The randomness of the dripping in the control room was maddening -- like it was irregularly marking time towards absolutely nothing. 
+She looked around in the crimson gloom. With the motors shut down her boat was completely silent. Their breathing loaded the air with dampness that condensed on the metal fixtures and gathered until it released with soft drips. The randomness of the dripping in the control room was maddening -- like works that irregularly marked time towards absolutely nothing. 
 
 Bastian knew better than to ask, but Gregory did not, "what's our plan Captain?"
 
 "Fuck Gregory! Let me think." She stared at the depth gauge, unblinking.
 
-Bastian opened a valve on the tank trim control panel slightly further to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out for the palm-sized control wheel.
+Bastian opened a valve on the tank trim control panel slightly further to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out toward the palm-sized control wheel.
 
-Percy lit a cheroot and put it between her lips. "Do not make any moves." she said to Gregory and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the sub with the ram bounced off the _Prospect's_ hull and rang through the crew's ears.
+Percy placed a cheroot between her lips and lit it. "Do not make any moves." she said to Gregory and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the sub with the ram bounced off the _Prospect's_ hull and rang in the crew's ears.
 
-"They are 734 meters behind us, rear port quarter. They are at 150 meters deep," Hemi told Percy, reading off the ranging equipment. "Do you think they will fire another torpedo?"
+"They are 734 meters behind us, rear port quarter; 150 meters deep," Hemi told Percy, reading off the ranging equipment. "Do you think they will fire another torpedo?"
 
 Percy stepped over to the sonar console. "I think if they had a torpedo that could swim this deep they would have fired it already. No, I think they just want to be fucking sure we have not gone anywhere."
 
@@ -619,7 +617,7 @@ Hemi nodded.
 
 "Any other features we can use? A relatively shallow place we can hide on the bottom again, like the tablemount?" Hemi asked.
 
-Percy took a long draft off her cheroot and then leaned closely over the chart. She pulled down the magnifier and sited her target through it with the tips of her fingers, holding the burning coal of the cheroot just off the glass. "There's nothing but fuckin' deep-sea. Bottomless for hundreds of miles in every direction."
+Percy took a long draft off her cheroot and then leaned closely over the chart. She pulled down the magnifier and sighted her target through it with the tips of her fingers, holding the burning coal of the cheroot just off the glass. "There's nothing but fuckin' deep-sea. Bottomless for hundreds of miles in every direction."
 
 "They are likely looking at the same chart and figuring they can simply wait out our batteries. They know we do not have a full charge since they caught us on the surface, and figure anything less than 20 hours comes out in their favor if they are patient about it," said Hemi.
 
@@ -647,7 +645,9 @@ The ping prompted Gregory to speak up again, "Captain Percy, don't you think we 
 
 "The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection," said Percy. "We aren't going to pass any inspections with our current cargo. And something tells me those guys aren't going be open to a bribe either..." She trailed off. "Besides, they are out of ship-to-ship range now -- probably trying to keep enough distance to fire a torpedo at us if we come back up above 200 meters.
 
-They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along through the deep -- beyond the depth in which it was designed to operate -- under 230 meters of water. The pursuing sub stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motors it did not take long for their fears to subside, to be replaced with sleepy routine.
+[//]: # (---- REVIEWED TO HERE ----)
+
+They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along under 230 meters of water -- beyond the depth at which it was designed to operate. The pursuing sub stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motors it did not take long for their fears to subside, to be replaced with sleepy routine.
 
 But every 15 minutes, like a grating and persistent alarm, another reverberating ping broke through the silence. Each ping was always followed immediately after by Hemi's report from the sonar compartment that the pursuing submarine was maintaining nearly the exact same distance behind them. This he could, and did, tell Captain Percy with great precision.
 
