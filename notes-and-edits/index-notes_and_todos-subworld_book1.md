@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-04-19 10:18
+Last modified: 2023-04-22 12:37
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -37,7 +37,7 @@ Last modified: 2023-04-19 10:18
 	* 300 words per page
 	* 3000 words per chapter
 	* 90,000 words for a novel.
-* [ ] Cover revision:
+* [ ] Cover revision possibilities:
 	* get a drawing done of the Gnat sail in modest seas with spindrift coming off the whitecaps. On the top of the sail is a pigeon.
 	* Anyone who sees the cover should immediately see the pigeon and think: why is there a pigeon on a submarine on the cover of that book?
 	* scale might be a little challenging
@@ -65,6 +65,10 @@ Last modified: 2023-04-19 10:18
 	* Oceans of Oil
 	* Sea Truckers; Undersea Truckers
 	* Above the dark below / the dark below
+	* It's a long way down
+		* reference to the junior brown song: https://www.youtube.com/watch?v=WmNc0lmZkto 
+		* "Long Way Down" is a published novel and newbury winner
+		* "It's a long way down" is an amazon unlimited novel about an entirely unrelated subject
 
 
 
