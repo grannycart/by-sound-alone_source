@@ -30,41 +30,34 @@
 
 # 6. Stilt City
 
-[//]: # (--- EDITED TO HERE ---)
-[//]: # (----- invisible character break)
- 
-
-[//]: # (2k words from last EDIT point)
-
 [//]: # (### Daytime running in the fog)
 
 [//]: # (~Midday: day 4, run to Stilt City)
-They ran at full speed on the surface for the rest of the day. The fog held out for them, laying in varying but unbroken thickness on the water they traveled through for all the daylight hours. Percy put them on 6-hour daytime rotations despite the fact that they were moving on the surface, and they all finally managed to get some meaningful sleep. Down a crew member and with limited visibility due to the fog, Percy skipped posting a lookout. It was somewhat risky to charge ahead on the surface at full speed with no lookout. Especially since the fog also played havoc with the radar. But that was also useful, since it would foul up anyone searching for them with radar as well. Percy kept either Cassandra or Hemi on sonar at all times, and counted on them to hear another vessel above the sound of the _Prospect's_ diesels soon enough that they would be able to take action if was necessary to avoid a collision.
+They ran at full speed on the surface for the rest of the day. The fog held out, covering them with a varying but unbroken thickness for all the daylight hours. Percy put the crew on 6-hour daytime rotations despite the fact that they were moving on the surface, and they all finally managed to get some meaningful sleep. Down a crew member and with limited visibility due to the fog, Percy skipped posting a lookout. It was somewhat risky to charge ahead on the surface at full speed with no lookout, especially since the fog also played havoc with the radar. But the limitations of radar were also useful, since it would foul up anyone searching for them with radar as well. Percy kept either Cassandra or Hemi on sonar at all times, and counted on them to hear another vessel above the sound of the _Prospect's_ diesels soon enough that they would be able to take action if was necessary.
 
-Even with no official lookout posted in the ring, there was almost always someone on the bridge anyway. Since the crew were free to spend their off hours on deck, most of them chose to spend at least part of it in the open air.
+Even with no official lookout posted in the ring, there was almost always someone on the bridge anyway. Since the crew were free to spend their off-hours on deck, most of them chose to while away at least part of it in the open air.
 
 [//]: # (Early-evening: night 4, run to Stilt City)
-The fog lasted until dark, which was all they needed. The plunged into the settling darkness with the stacks streaking flames above. The fog gave way to the cooler air of night, and the _Prospect_ came out under a dome of stars. The boat cut its way across the surface of the planet and left an open gash of white wake behind through the black of the water.
-
+The fog lasted until dark, which was all they needed. The boat plunged into the settling darkness with the stacks streaking flames above. The fog gave way to the cooler air of night, and the _Prospect_ came out under a dome of stars. They cut their way across the surface of the planet and left an open gash of white wake through the black water behind.
 
 [//]: # (### Hemi and Chips conversation about Owen)
 
-Hemi kept the chart accurate with their position, the dashed line straight and true, and rapidly growing in the direction of the continental coast, marred by the large black dot showing the location of Stilt City. Around nightfall they had crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area that was contested by a number of different Authorities. With the fog lifted and the higher risk of Authority interference, Percy put them back on 3 hour nighttime shifts and started keeping someone on lookout again.
+Hemi kept the chart accurate with their position, the dashed line straight and true, and rapidly growing in the direction of the continental coast, which was marred with the large black dot showing the location of Stilt City. Around nightfall they crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area contested by a number of different Authorities. With the fog lifted and the higher risk of Authority interference, Percy put them back on 3-hour nighttime shifts and kept someone on lookout again.
 
 [//]: # (middle-night: night 4, run to Stilt City)
-Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody except Gregory had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived in the control room on her way to the bridge a few minutes later. She climbed upwards with binoculars in hand and without a word. It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take sighting of some stars and get a solid fix on their course.
+Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived in the control room on her way to the bridge a few minutes later. She climbed upwards with binoculars in hand and without a word. It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take sighting of some stars and get a solid fix on their course.
 
 Hemi looked up at Chips from the bridge. "I was not entirely sure you would show for your lookout shift Chips."
 
-"I'm a fuckin' professional Hemi. I may not be fucking happy about working on this fucking demon-infested boat, but I'm going to do the fuckin' job I was fuckin' hired to do until we hit the fuckin' dock."
+"Have you ever known me to be anything but a fuckin' professional Hemi? I may not be fucking happy about working on this fucking demon-infested boat, but I'm going to do the fuckin' job I was fuckin' hired to do until we hit the fuckin' dock."
 
 "And then what?"
 
-"As soon as this fuckin' cursed boat bumps, I'm stepping the fuck off Hemi. And not looking the fuck back at all. If you had any fuckin' sense you'd be fuckin' leaving with me. The whole fuckin' crew should be leaving with me. How many fuckin' times do I have to be fuckin' pushed right up to the fuckin' edge of the abyss for my job? How many fuckin' times do I have to look fuckin' death in his cold and ugly fuckin' face? How many times do I have to watch people I fuckin' care about fall off that abyss Hemi?"
+"As soon as this fuckin' cursed boat bumps, I'm stepping the fuck off. And not looking the fuck back at all. If you had any fuckin' sense you'd be fuckin' leaving with me. The whole fuckin' crew should be leaving with me. How many fuckin' times do I have to be fuckin' pushed right up to the fuckin' edge of the abyss for my job? How many fuckin' times do I have to look fuckin' death in his cold and ugly fuckin' face? How many times do I have to watch people I fuckin' care about fall off that abyss Hemi?"
 
-"What happened with Owen could not be helped Chips. I was there, Sylvia had to make a tough choice without a clearly correct answer, and she did. I regret what happened to Owen, I really do, but this job is dangerous."
+"What happened with Owen could not be helped Chips. I was there, Sylvia had to make a tough choice without a clearly correct course of actioon, and she did. I regret what happened to Owen, I really do, but this job is dangerous. He knew that."
 
-"Don't you fuckin' defend that fuckin' twat with your fuckin' burden-of-command bullshit Hemi. This isn't a fuckin' war boat, it's a commercial fuckin' cargo sub. She had plenty of fuckin' choices that could have ended with Owen fuckin' alive. I'm all for moving cargo under the fuckin' attention of Authorities, but not at the fuckin' cost of people's fuckin' lives! She could have turned this fuckin' boat over to them. It's not like they would fuckin' execute us. We'd just be fucked back to land for a while. Eventually go the fuck back out on some other fuckin' boat. There's no fuckin' reason for anyone to fuckin' die!"
+"Don't you fuckin' defend that fuckin' twat with your fuckin' burden-of-command bullshit Hemi. This isn't a fuckin' war boat, it's a commercial fuckin' cargo sub. She had plenty of fuckin' choices that could have ended with Owen fuckin' alive. I'm all for moving cargo under the fuckin' attention of Authorities, but not at the fuckin' cost of people's fuckin' lives! She could have turned this fuckin' boat over to them. It's not like they would fuckin' execute us. We'd just be fucked back to land for a while. Eventually we could go the fuck back out on some other fuckin' boat -- no fuckin' shortage of need for skilled submariners. There was no fuckin' reason for anyone to die!"
 
 "They fired at us first Chips. Owen was probably hit in the first barrage."
 
@@ -72,19 +65,21 @@ Hemi looked up at Chips from the bridge. "I was not entirely sure you would show
 
 "You know she could never turn over this boat like that."
 
-"_That_ is why that's the fuckin' _hard_ call Hemi. That's the fucking burden of fuckin' command." Chips was fuming now breathing hard through her nostrils, barely able to keep the binoculars raised, and repeatedly interrupting her scanning arc of the horizon and starting again. "You're guilty too Hemi. Don't fuckin' think this is all on fuckin' Percy. You could have easily aborted the dive."
+"_That_ is why that's the fuckin' _hard_ call Hemi. That's the actual fucking burden of command." Chips was fuming now breathing hard through her nostrils, barely able to keep the binoculars raised, and repeatedly interrupting her scanning arc of the horizon and starting again. "You're guilty too Hemi. Don't fuckin' think this is all on fuckin' Percy. You could have easily aborted the dive."
 
 Hemi looked off at the ocean. "But I did not. I made the decision I did in the moment. Aborting the dive did not even occur to me. I did what I was supposed to do as the Deck Boss."
 
-"And that right fuckin' there is why I'm leaving this fuckin' boat. I respect you Hemi Howell, and I like workin' with you. But this boat is hers from fuckin' bridge to fuckin' keel, and she's a fuckin' stubborn piece of fuckin' dried shit that foulin' the fuckin' air of my fucking life. Yours too... Fuck."
+"And that right fuckin' there is why I'm leaving this fuckin' boat. I respect you Hemi Howell, and I like workin' with you. But this boat is hers from fuckin' bridge to fuckin' keel, and she's a fuckin' stubborn piece of fuckin' dried shit that's foulin' the fuckin' air of my whole fucking life right now. Yours too... Fuck."
 
-Hemi looked through the sextant and adjusted it slowly and smoothly, watching the bright star in the finder fall from the sky to meet the rising black depths of the horizon line. He noted their position on his clipboard, and climbed silently down off the bridge.
+Hemi looked through the sextant and adjusted it with slow, smooth motions, watching the bright star in the finder fall from the sky to meet the rising black pool of the horizon line. He noted their position on his clipboard, and climbed silently down off the bridge.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They enter Stilt City)
 
 [//]: # (day: day 5, run to Stilt City)
-They continued to run at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they moved slowly under the remaining contested territory, following the very gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led in the last 20 years to the rapid growth of what had come to be known worldwide as Stilt City. This policing was also the same thing that led to the heavy contesting of the waters further out from the Collective's control.
+They continued to run at high speed on the surface for the rest of the night without incident. At dawn the _Prospect_ dove, and they moved slowly under the remaining contested territory, tracing the very gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led in the last 20 years to the rapid growth of what had come to be known worldwide as Stilt City. This policing was also the root cause of the heavy contesting of the waters further out from the Collective's control.
 
 The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
 
@@ -94,21 +89,21 @@ The moniker 'Stilt City' might have been somewhat pejorative, but it was accurat
 
 The _Prospect_ floated into the main channel that led into the city. It was nearly a mile wide for much of its passage, forming an artificial equivalent to the large river that bisects so many coastal cities. 
 
-The rapid growth of Stilt City had brought wealth in, but the wealth did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of fire and ax blade. The most common craft, of which there must have been thousands, was an angular home-built wooden boat, driven either by singular canvas sails taught on rough wood masts and booms, or by long thin oars that were used to row the boats in deep waters and pole the boats through shallower waters.
+The rapid growth of Stilt City had brought wealth in, but the wealth did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of fire and ax blade. The most common craft, of which there must have been thousands, was an angular home-built wooden boat, driven either by singular canvas sails bound taught on rough wood masts and booms, or by long thin oars that were used to row the boats in deep waters and pole the boats through shallower waters.
 
-Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people were trading goods across the networks of hulls.
+Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people traded goods across the networks of hulls.
 
-As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. They reduced speed to 3 knots and crawled along through the still murky water with no wake. Though the stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea down in the depths. 
+As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. They reduced speed to 3 knots and crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea down in the depths. 
 
 Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that swarmed around them. He called maneuvers down through the hatch to Gregory and Bastian who sat at the controls.
 
-"So this entire place is built on stilts?" Asked Cassandra.
+"So this entire place is built on stilts?" asked Cassandra.
 
 "That's why they call it fuckin' Stilt City," said Percy.
 
 [//]: # (This world does not deviate so much from the history of the real world that influence and names of Europe are not spread all around the globe from the impacts of the European colonial period and continued colonialism. As cool as it would be to write that book, I am not sure I could do it. See also the name of Sir Trelew.)
 
-"Again, 'they' does not include the locals who actually live here." Hemi corrected. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land. Many cities around the world are built on swamps because that is where the large rivers meet the sea, and that is where major ports come together. In richer places, they drain the swamps to get to dry land under them. Here, they found it more economical to just build above the water line on stilts, at least in recent years."
+"Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land. Many cities around the world are built on swamps because that is where the large rivers meet the sea, and that is where major ports come together. In richer places, they drain the swamps to get to dry land under them. Here, they found it more economical to just build above the water line on stilts, at least in recent years."
 
 "All these structures don't get washed away in storms?" Cassandra asked.
 
@@ -116,26 +111,28 @@ Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and
 
 "Where does all the material for building come from?"
 
-"Mostly the cut it down on shore and then float it out. That is why everything is made of wood. I do think they sometimes pull sunken waterlogged trees up from the bottom though."
+"Mostly the cut it down on shore and then float it out. That is why everything is made of wood. I think they do sometimes pull sunken waterlogged trees up from the bottom though."
 
 The channel began to narrow, pushing the sea craft using it together. Hemi steered the _Prospect_ to take advantage of a path carved through the smaller craft by a huge oiler making its way slowly up the channel in front of them. On either side of the channel the structures raised on pylons above the water grew denser. In places there were masses of small thatched-roof huts, with walls made of thin rotting wood panels and the roofs of cut and dried shore grasses. There were dozens of huts clumped together, as if they gained strength to stand on their wobbling stilts by leaning against each other. Between the clumps ran narrow channels of dark water, in many places only passable by the smallest of the boats that traversed back and forth across Stilt City. Those narrow channels fed into slightly larger winding passages that let residents access homes that were buried deep in the dense clumps of development.
 
-Every so often the masses of huts were broken up by a large access channel running off the main channel. Around these access channels most of the commercial trade had risen up, which had led to the building of long docks and piers, more substantial warehouses, and larger building propped up on stilts. The fancier buildings had paid the extra cost to ship out and install steel roofs. The big steel cargo and transport ships would make their way into these access channels and dock against the flimsy, leaning piers of crunching wood that barely seemed able to keep the big ships immobile -- and perhaps would not have at all if the waters were not so still. The cargo was unloaded onto these docks and from there moved off to its destination by local labor: either into the warehouses, onto another cargo ship, or dispersed around Stilt City -- sometimes up onto the mainland and ground-based logistical connections.
+Every so often the masses of huts were broken up by a large access channel running off the main channel. Around these access channels most of the commercial trade had risen up, which had led to the building of long docks and piers, more substantial warehouses, and larger buildings propped on stilts. The fancier buildings had paid the extra cost to ship out and install steel roofs. The big steel cargo and transport ships would make their way into these access channels and dock against the flimsy, leaning piers of crunching wood that barely seemed able to keep the big ships immobile -- and perhaps would not have at all if the waters were not so still. The cargo was unloaded onto these docks and from there moved off to its destination by local labor: either into the warehouses, onto another cargo ship, or dispersed around Stilt City -- sometimes up onto the mainland and ground-based logistical connections.
 
 
 [//]: # (### They hire Sir Trelew, the pilot)
 
-As they pushed their way slowly up the main channel and deeper and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the fuckin' dock we are supposed to unload at in all this fuckin' mess?"
+As they pushed their way slowly up the main channel and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the fuckin' dock we are supposed to unload at in all this fuckin' mess?"
 
 "There is a system to the dock numbers," said Hemi. "I am fairly certain that we are moving in the right direction. However the system is complex and poorly maintained. We shall have to ask for some guidance at some point."
 
 Percy asked Cassandra to use the binoculars to scout out the hand-painted signs that indicated the dock numbers accessible from each access channel they passed, and report them to Hemi. The descending order of the dock numbers reassured Captain Percy somewhat, but she would have been much more satisfied with a quality chart of the many passages and byways of Stilt City.
 
-The open lane of the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships knowing that the big ships were far less maneuverable and took much longer to stop. But a ship making its way up the channel still had a bit of a job clearing a path, whereas very few local boats would try to cut between two ships moving up the channel. One did though. A small dugout canoe, that moved very slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no way it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man rowing the dug out kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down to Bastian to reverse thrust and bring the _Prospect_ to a stop. The man in the canoe angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect's_ hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a ring while holding his canoe still with the other. He looped a painter from the canoe around one of the step rings so it could not get away and then shimmied up the handholds to the deck.
+The open lane of the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships knowing that the big ships were far less maneuverable and took much longer to stop. But a ship making its way up the channel still had a bit of a job clearing a path, whereas very few local boats would try to cut between two ships moving up the channel. 
+
+One did though. A small dugout canoe, that moved very slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no way it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man rowing the dug out kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down to Bastian to reverse thrust and bring the _Prospect_ to a stop. The man in the canoe angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect's_ hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a rung while holding his canoe still with the other. He looped a painter from the canoe around one of the step rungs so it could not get away and then shimmied up the handholds to the deck.
 
 "'Hoy there! Do you need a pilot?" He shouted up to the bridge of the sail as he continued to move towards them. "I can bring your sub marine in to where-the-fuck-ever. I know all the ways and docks around here. I can make sure you don't ground -- the water is very suddenly shallow in many places."
 
-Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fairing to join them. He was a small, thin man. His pure-white shortly trimmed beard and hair stood out in stark contrast to the leathery skin all the older local residents developed after spending all their adult working years on the unshaded open water He was wearing an oddly fitted and assuredly ancient three-piece wool suit into which he was sweating profusely after climbing up the sail.
+Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fairing to join them. He was a small, thin man. His pure-white shortly trimmed beard and hair stood out in stark contrast to the leathery skin all the older local residents developed after spending all their adult working years on the unshaded open water. He was wearing an oddly fitted and assuredly ancient three-piece wool suit into which he was sweating profusely after climbing up the sail.
 
 "Name's Sir Trelew -- tee-ar-ee-loo, at least that's how most off-shore folks pronounce it."
 
@@ -145,7 +142,7 @@ Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fa
 
 "Knighted by whom?" Hemi asked, and letting that pass then proceeded to introduced himself and the others on the bridge before before outlining the issue they were facing to Sir Trelew. "We were in fact just thinking that we may need some guidance to our dock. Here is our dock number." Hemi handed over a small piece of paper with a long number broken up by dashes on it. "Can you get us there?"
 
-The man looked it over. "Sure. That's no great fuckin' way from here."
+The man looked it over. "Surely. That's no great fuckin' way from here."
 
 "Have you ever piloted a submarine before Sir Trelew?" Percy asked. "It's not totally like fuckin' surface ships."
 
@@ -161,20 +158,22 @@ The man looked it over. "Sure. That's no great fuckin' way from here."
 
 Hemi agreed and paid him right there. Sir Trelew made a move to go retrieve his canoe, but Hemi asked Cassandra to do it while he showed Sir Trelew the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
 
-Sir Trelew took over command of the _Prospect_. He stood on the bridge, and with borrowed binoculars read the numbers of the channels and water lanes they passed by. After a quarter mile or so he had Bastian bring the bow around and without slowing speed, and with a great deal of confidence, plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
+Sir Trelew took over command of the _Prospect_. He stood on the bridge, and with borrowed binoculars read the numbers of the channels and water lanes they passed by. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed -- and with a great deal of confidence -- plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
 
-They passed along this narrow channel for a long way through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed up under and smacked against the floorboards of the huts. In places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
+They passed along this channel for a long way, through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed up under and smacked against the floorboards of the huts. In places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
 
 Captain Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sir Trelew.
 
-"This is a short way." He told her. "We will come out in a larger channel soon, but it is longer around to follow that way all the way from the main channel."
+"This is a short way," he told her, "we will come out in a larger channel soon, but it is longer around to follow that way all the way from the main channel."
 
 The _Prospect_, which so often felt like a small cramped place, suddenly seemed to take on enormous proportions relative to the huts around them. The bow was the length of dozens of huts put together, and from the sail they towered over the thatched roofs that spread out on either side of them in a huge field of sprouted homes. The passage they were taking that cut through the dense huts reminded Percy of rowing a canoe on clear paths through reed patches on a small lake.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### The Prospect gets stuck in shallow water)
 
-Bastian called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow -- 2 meters."
+Bastian suddenly called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow -- 2 meters."
 
 "Umm, Sir Trelew... are you sure there's enough fuckin' water here?" Percy asked him."
 
@@ -184,19 +183,19 @@ Bastian called up from the control room with a sense of urgency. "Up on the brid
 
 "Sub marines. Ya ya."
 
-At that moment the grounding alarm started buzzing loudly in the control room. Percy flew down the ladder, and stood behind Bastian staring at the wall of gauges. The depth-under-keel gauge had a bright red light lit next to it, and the needle was hovering just off the zero pin. Percy punched the button that silenced the annoying buzz of the alarm.
+At that moment the grounding alarm buzzed loudly in the control room. Percy flew down the ladder, and stood behind Bastian staring at the wall of gauges. The depth-under-keel gauge had a bright red light lit next to it, and the needle was hovering just off the zero pin. Percy punched the button that silenced the annoying buzz of the alarm.
 
-"Sir Trelew!" She called up to the bridge. "There is very very little water under us..."
+"Trelew!" She called up to the bridge. "There is very very little water under us!"
 
-"It's OK!" He shouted back just as the _Prospect_ came to an abrupt stop. Even at the careful speed they had been moving at, the stop was violent enough to jolt them all forward. Empty tin coffee cups fell and clanked along the deck while clipboards fluttered through the air.
+"It's OK!" he shouted back just as the _Prospect_ came to an abrupt stop. Even at the careful speed they had been moving at, the stop was violent enough to jolt them all forward. Empty tin coffee cups fell and clanked along the deck while clipboards fluttered through the air.
 
 The alarm started sounding again and a second red light lit on the depth-under-keel gauge indicating they were firmly wedged on the bottom.
 
-"Fuck!" Percy yelled, punching the alarm-silence button a second time. "Fucking fuck! Sir Trelew you fucking amateur, what the fuck did you do? Bastian, power down the fucking motor before we're driven deeper into the muck."
+"Fuck!" Percy yelled, punching the alarm-silence button a second time. "Fucking fuck! Trelew you fucking amateur, what the fuck did you do? Bastian, power down the fucking motor before we're driven permanently into the muck."
 
-Bastian pulled the throttle back to zero. Percy could hear Hemi and Sir Trelew discussing the situation on the bridge. Sir Trelew's voice was aggravated. Hemi was talking in his usual even tone. But Percy could not quite make out what they were saying. She climbed to the bridge.
+Bastian pulled the throttle back to zero. Percy could hear Hemi and Trelew discussing the situation on the bridge. Trelew's voice was aggravated. Hemi was speaking in his usual even tone. But Percy could not quite make out what they were saying. She climbed to the bridge.
 
-"Captain Percy, this never happened before." Sir Trelew said as she came through the hatch. "The silt underneath sometimes moves around. This channel has always been deep enough."
+"Captain Percy, this never happened before." Trelew said as she came through the hatch. "The silt underneath sometimes moves around. This channel has always been deep enough."
 
 "For a fucking _loaded_ submarine? Or have you just brought fucking empty transport ships through here before?" Percy was turning red.
 
@@ -210,16 +209,21 @@ Bastian pulled the throttle back to zero. Percy could hear Hemi and Sir Trelew d
 
 One local saw a stuck ship as an opportunity and rowed his dugout canoe full of fish up to the side of the _Prospect_. Hemi sent Cassandra down with a few coins to buy some.
 
-Moving backwards did get them off the bottom. As soon as Bastian reported they had some water under the keel again, they carefully forwarded the throttle to try to bring the _Prospect_ to a dead stop, but it was impossible to have that much control over such a large ship in such a tight space. The _Prospect_ very slowly -- but with a lot of inertia -- bumped into a cluster of huts, and the whole cluster leaned over against the push from the ship with a sickening crack of the pylons that supported the huts from underneath. A surprising number of people poured out of the huts, cursing and gesturing towards the bridge of the _Prospect_ in a variety of languages. The huts were well built and the pylons held, but the residents knew from the sound that deep structural damage had been done. Hemi also knew they had damaged the foundations of the huts, so he sent Cassandra down with more coins that she distributed among the residents until the cursing had mostly died away.
+Moving backwards did get them off the bottom. As soon as Bastian reported they had some water under the keel again, they carefully forwarded the throttle to try to bring the _Prospect_ to a dead stop, but it was impossible to have that much control over such a large vessel in such a tight space. The _Prospect_ very slowly -- but with much inertia -- bumped into a cluster of huts, and the whole cluster leaned over against the push from the submarine with a sickening crack of the pylons that supported the huts from underneath. A surprising number of people poured out of the huts, cursing and gesturing towards the bridge of the _Prospect_ in a variety of languages. The huts were well built and the pylons held, but the residents knew from the sound that deep structural damage had been done. Hemi understood they had damaged the foundations of the huts too, so he sent Cassandra down with more coins that she distributed among the residents until the cursing had mostly died away.
 
 Percy just put her face into her hands, both too embarrassed and angry to look at anyone at that moment.
 
-Sir Trelew had Gregory throw the main ballast blow switches and the high-pressure  air system blew out whatever water was left in the main tanks along with a lot of excess bubbles that burbled up the side of the boat to the delight of the children who were now climbing up the side of the _Prospect_ and running around on the deck. Sir Trelew also had Gregory empty every trim tank the boat had, and turn on all the bilges. Long streams of foul water poured out from the side of the hull of the _Prospect_, in one case a cataract that squarely landed against the wall of a hut, and required yet another payment from Cassandra to ease the cursing.
+Trelew had Gregory open the main ballast blow valves and the high-pressure air system blew out whatever water was left in the main tanks along with a lot of excess bubbles that burbled up the side of the boat to the delight of the children who were now climbing up the side of the _Prospect_ and running around on the deck. Trelew also had Gregory empty every trim tank the boat had, and turn on all the bilges. Long streams of foul water poured out from the side of the hull of the _Prospect_, in one case a cataract that squarely landed against the wall of a hut, and required yet another payment from Cassandra to ease the cursing.
 
-Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Sir Trelew had them slowly move forward again. Percy went back down to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounding alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft, sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot and the gauge showed a clear 4 meters of water under them.
+Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Trelew had them slowly move forward again. Percy went back down to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounding alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft, sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot and the gauge showed a clear 4 meters of water under them.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They arrive at the dock)
+
+[//]: # (--- EDITED TO HERE ---)
+[//]: # (2k words from last EDIT point)
 
 They had to squeeze the _Prospect_ over two more shallow spots before Sir Trelew finally turned them out into a somewhat larger channel -- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic on the water. Sir Trelew steamed the _Prospect_ up this channel for another mile or so, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some were open to the sky. Some were stacked high with cargo waiting for a ship to be loaded onto, and others were cleared waiting for a loaded ship to come in. The platforms either had one side set with a row of docking pylons, or were otherwise connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left as open water so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. There only a few people about though, since this area was far more heavily populated with cargo than people.
 
