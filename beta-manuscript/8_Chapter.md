@@ -43,7 +43,7 @@ At this, Percy lowered the lenses and looked at him. "You have another option an
 
 "They are the only weapon we have."
 
-"Indeed. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon, as Trinity mentioned a number of times. We can't just underhand one over the water at them."
+"Indeed. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon, as Miss Mai mentioned a number of times. We can't just underhand one over the water at them."
 
 "That is the part of my idea that might get us killed --- I propose we use the _Gnat_."
 
