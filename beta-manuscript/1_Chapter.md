@@ -423,7 +423,7 @@ Captain Percy gave Bastian and Gregory a new heading, and Bastian brought the su
 
 "You guys have to do everything you can to keep us up," she told the two men at the controls, "like gliding an airplane with a stalled engine. And I want to creep out of here. If we go too fast those fuckers above will hear us and know we are still moving. If we are slow and silent, they might just assume we disappeared down into the hole. Give us three knots forward speed Bastian."
 
-His long arm moved the throttle controls forward until the speed needle hovered a few hashes above its zero pin, indicating 3 knots. He withdrew his hands from the controls and attempted to lean his body back in the stiff control seat. He pulled a cigarette from a pack sitting next to the throttle control and put it to his lips and lit it.
+His long arm moved the throttle controls forward until the speed needle hovered a few hashes above its zero pin, indicating three knots. He withdrew his hands from the controls and attempted to lean his body back in the stiff control seat. He pulled a cigarette from a pack sitting next to the throttle control and put it to his lips and lit it.
 
 "Hey Gregory, you ever think about what the fuck it must be like when a submarine goes down?"
 
@@ -500,7 +500,7 @@ But the depth-under-keel needle moved again, rising up and falling back, like a 
 
 Captain Percy reached above her head for a strap, "drive boys, drive." The sea floor was moving towards them, but still far, far below. So far below that if the boat went down now the _Prospect_ would be crushed into nothing but a greasy stain on that bottom. But it was at least a measurable distance now instead of the unknowable nothingness of the hole.
 
-Minutes later the depth-under-keel gauge started rising steadily, as if with intention. It gave the impression that they were moving quickly, though in fact their forward speed remained the same steady crawl, while the slope of the bottom had drastically increased. It was rising under them -- a sheer undersea mountain wall. The needle accelerated to show a shockingly quick lift in the sea floor, in such a way to give the impression they were about to smack into a mountainside -- from where they would slide helplessly down into the dark pit. Instead, the depth gauge needle rolled hard to the left and then rose back to show they had about 10 meters to the bottom. It remained hovering at that level.
+Minutes later the depth-under-keel gauge started rising steadily, as if with intention. It gave the impression that they were moving quickly, though in fact their forward speed remained the same steady crawl, while the slope of the bottom had drastically increased. It was rising under them -- a sheer undersea mountain wall. The needle accelerated to show a shockingly quick lift in the sea floor, in such a way to give the impression they were about to smack into a mountainside -- from where they would slide helplessly down into the dark pit. Instead, the depth gauge needle rolled hard to the left and then rose back to show they had about ten meters to the bottom. It remained hovering at that level.
 
 "OK Gregory, now the stupid part: give me a gentle dive plane down angle," Percy said quietly.
 

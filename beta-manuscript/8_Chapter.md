@@ -118,11 +118,11 @@ Hemi closed the trim tank valves and picked up the ship-to-ship mic from where i
 
 Percy's voice came back over the ship-to-ship. "How does your inhumanly calculating mind put the odds that this plan will fuckin' actually work?" 
 
-Hemi held up a finger to Shakes. "Frankly, I give it about 1 chance in 5." Hemi said into the mic.
+Hemi held up a finger to Shakes. "Frankly, I give it about one chance in five." Hemi said into the mic.
 
 "And what are the chances that you will blow up either the _Gnat_ or the _Prospect_ or both?" Asked Captain Percy.
 
-"At least one of the two boats? I would say 1 chance in 4."
+"At least one of the two boats? I would say one chance in five."
 
 "One in fuckin' four?!" Shouted Shakes.
 
@@ -185,7 +185,7 @@ Being direct drive, unlike the _Prospect_, the _Gnat's_ engine also shook the bo
 
 Hemi squeezed himself into the small space next to the pilot's seat where Shakes was guiding the boat. In that space he could reach the sonar controls, which Shakes had set up close enough to the pilot's seat that normally he would work the sonar himself while driving the boat. With Hemi aboard he was happy to let Hemi keep an eye on the sonar.
 
-Hemi did not even bother with the headset. There was no way they would hear anything on passive sonar above the raucous engine noise of the _Gnat's_ diesel. But he punched the active sonar ping button and it was loud enough to get a response. The sonar sweep laid out a speckled ground plan of contacts in the 10 nautical miles or so around the _Gnat_. Hemi waited 5 minutes and then fired off another ping. Only one dot had changed position, and that was the sub with the ram. It had moved from its intercept course with the _Prospect_ and swung around to follow the engine noise of the _Gnat_.
+Hemi did not even bother with the headset. There was no way they would hear anything on passive sonar above the raucous engine noise of the _Gnat's_ diesel. But he punched the active sonar ping button and it was loud enough to get a response. The sonar sweep laid out a speckled ground plan of contacts in the ten nautical miles or so around the _Gnat_. Hemi waited five minutes and then fired off another ping. Only one dot had changed position, and that was the sub with the ram. It had moved from its intercept course with the _Prospect_ and swung around to follow the engine noise of the _Gnat_.
 
 [//]: # (A ground plan of _Hell_ of course. )
 
@@ -251,17 +251,17 @@ Hemi put the headset earpieces back over his ears and listened closely as he slo
 
 "Really? Seems fucking stupid with that sub looking for her."
 
-"That's the 'bait' part of the plan: she will let the sub with the ram find her, and chase her. As soon as she heard us shut down the diesel she ramped the _Prospect_ up to something like 10 knots --- to make it look like she is trying to make a run for it."
+"That's the 'bait' part of the plan: she will let the sub with the ram find her, and chase her. As soon as she heard us shut down the diesel she ramped the _Prospect_ up to something like ten knots --- to make it look like she is trying to make a run for it."
 
 "They are submerged?"
 
-"Yes. We planned for the _Prospect_ to run at about 30 meters down --- that way they can move fast with less risk of hitting a derelict. But her batteries are very low. I estimate she can only maintain 10 knots for perhaps 20 minutes, so we have to move quickly to put this plan into action."
+"Yes. We planned for the _Prospect_ to run at about 30 meters down --- that way they can move fast with less risk of hitting a derelict. But her batteries are very low. I estimate she can only maintain ten knots for perhaps 20 minutes, so we have to move quickly to put this plan into action."
 
 Shakes leaned his hand on the throttle, but it was already pushed all the way to the forward stop. The electric motor whined steadily from behind them, driving the small boat forward with all the force it could muster.
 
 "Come port to 227 degrees." Said Hemi, with his hand cupped over the earpieces of the headphone, trying to eek out just that marginal amount more sound dampening that might be what he needed to hear some crucial thing out in the water. Shakes leaned the yoke slightly to the left and the boat heeled over in response.
 
-"Down. 30 meters. The sub with the ram has clearly heard the _Prospect's_ run and matched its depth. They are lined up in pursuit a little less than 5 miles behind. We need to intercept their course in the next ten minutes or so, if we possibly can." Hemi lifted a stopwatch that hung from the same peg the sonar headset was stowed on and clicked it once to reset it to zero. He counted for a few seconds while listening, and then clicked it a second time to start the stopwatch. He made a note on the clipboard.
+"Down. 30 meters. The sub with the ram has clearly heard the _Prospect's_ run and matched its depth. They are lined up in pursuit a little less than five miles behind. We need to intercept their course in the next ten minutes or so, if we possibly can." Hemi lifted a stopwatch that hung from the same peg the sonar headset was stowed on and clicked it once to reset it to zero. He counted for a few seconds while listening, and then clicked it a second time to start the stopwatch. He made a note on the clipboard.
 
 "If your plan doesn't fuckin' work, the _Prospect_ is fuckin' done for. Honestly, I'm not even sure why those fuckers haven't already fired a fuckin' torpedo."
 
@@ -277,9 +277,9 @@ The escape trunk was located behind the engine and motor, so it took some effort
 
 It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuff the bumpers in. The bumpers were even more of a challenge to position so they would stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the bumpers to stay in the trunk by propping them on the ledge and leaning the two bumpers against each other.
 
-Finally, Hemi reached back up into the escape trunk and wound the mechanical timers that would close the circuit to arm the warheads when the timer reached zero. He set them to a frighteningly-short 5 minutes --- hardly enough time for the _Gnat_ to drive clear of the amount of explosive the combined warheads packed. But he could not risk the devices being unarmed when the sub with the ram came within range of them. 
+Finally, Hemi reached back up into the escape trunk and wound the mechanical timers that would close the circuit to arm the warheads when the timer reached zero. He set them to a frighteningly-short five minutes --- hardly enough time for the _Gnat_ to drive clear of the amount of explosive the combined warheads packed. But he could not risk the devices being unarmed when the sub with the ram came within range of them. 
 
-Time was compressing down on Hemi. The little mechanical timers buzzed away with their sound reverberating around inside the circular steel walls of the escape trunk. The rickety little devices strove desperately to count out their 5 minutes with some precision. Hemi gingerly lowered the escape trunk hatch down and spun the sealing wheel closed, which cut off the quick ticking of the timers and left him in silence.
+Time was compressing down on Hemi. The little mechanical timers buzzed away with their sound reverberating around inside the circular steel walls of the escape trunk. The rickety little devices strove desperately to count out their five minutes with some precision. Hemi gingerly lowered the escape trunk hatch down and spun the sealing wheel closed, which cut off the quick ticking of the timers and left him in silence.
 
 [//]: # (### Releasing the devices; breaching the Gnat)
 
@@ -299,7 +299,7 @@ Hemi held the stopwatch up in front of his eyes and the second hand rapidly scre
 
 The second hand curled around and came up level. In Hemi's head the boats were all in the exact position. His thick fingers tightened on the lever and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
 
-But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of 3 atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
+But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of three atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
 
 "The device is away Shakes!" Hemi called forward.
 
@@ -441,7 +441,7 @@ Percy ignored Owen. "Cassandra, the next task is to find the fucking _Gnat_ and 
 
 "2.3 nautical miles. And they are increasing speed now."
 
-"They're trying to close on us. You might be right Owen." Percy glanced at the battery gauges. They were moving fast enough at 10 knots that she could almost see the batteries draining. Those gauges had passed into the hatched red zone. They only had a matter of 20 minutes or so of battery remaining. Then they would be forced to remain stationary or surface --- either was they would be an easy target for a final ramming.
+"They're trying to close on us. You might be right Owen." Percy glanced at the battery gauges. They were moving fast enough at ten knots that she could almost see the batteries draining. Those gauges had passed into the hatched red zone. They only had a matter of 20 minutes or so of battery remaining. Then they would be forced to remain stationary or surface --- either was they would be an easy target for a final ramming.
 
 "Find the _Gnat_ Cassandra! Quickly!"
 

@@ -93,7 +93,7 @@ The rapid growth of Stilt City had brought wealth in, but the wealth did not flo
 
 Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people traded goods across the networks of hulls.
 
-As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. They reduced speed to 3 knots and crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea down in the depths. 
+As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. They reduced speed to three knots and crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea down in the depths. 
 
 Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that swarmed around them. He called maneuvers down through the hatch to Gregory and Bastian who sat at the controls.
 
@@ -173,7 +173,7 @@ The _Prospect_, which so often felt like a small cramped place, suddenly seemed 
 
 [//]: # (### The Prospect gets stuck in shallow water)
 
-Bastian suddenly called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow -- 2 meters."
+Bastian suddenly called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow -- two meters."
 
 "Umm, Sir Trelew... are you sure there's enough fuckin' water here?" Percy asked him."
 
@@ -199,7 +199,7 @@ Bastian pulled the throttle back to zero. Percy could hear Hemi and Trelew discu
 
 "For a fucking _loaded_ submarine? Or have you just brought fucking empty transport ships through here before?" Percy was turning red.
 
-"I'll get you off, do not worry Captain Percy." He leaned over the hatch and cupped one small hand to the side of his mouth. "'Hoy! You at the throttle controls: reverse motor, 2 knots." 
+"I'll get you off, do not worry Captain Percy." He leaned over the hatch and cupped one small hand to the side of his mouth. "'Hoy! You at the throttle controls: reverse motor, two knots." 
 
 "And then what? Fucking back the whole way out to the main channel? It's not like there's room to fucking turn around here."
 
@@ -314,7 +314,7 @@ Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat
 
 "It is good to see you Captain Shakes," said Hemi, "and Herschel. What happened after you left us?"
 
-"Well, there's not much to fuckin' tell of it, really. I drove the _Gnat_ hard in a sorta random northerly direction -- away from the _Prospect's_ location. Did some weaving back and forth and shit, just in case they fired a torp or something, but kept the fuckin' throttle up the whole time. With the volume of the _Gnat's_ engines, I couldn't really be listening to sonar or anything, so I just kept pinging them every 10 minutes or so to see how far behind me they were."
+"Well, there's not much to fuckin' tell of it, really. I drove the _Gnat_ hard in a sorta random northerly direction -- away from the _Prospect's_ location. Did some weaving back and forth and shit, just in case they fired a torp or something, but kept the fuckin' throttle up the whole time. With the volume of the _Gnat's_ engines, I couldn't really be listening to sonar or anything, so I just kept pinging them every ten minutes or so to see how far behind me they were."
 
 "Ah," Hemi interrupted, "So the _Gnat_ does have an active sonar system?"
 
@@ -324,7 +324,7 @@ Hemi repeated his question.
 
 "Of course! I don't cheap out on anything on my fuckin' boat," said Shakes. "So: I kept that _Grackle_ a few miles off and ran them northwards for three or four hours. But by that time the sea was starting to chop up from the storm. The _Gnat_ was taking frothy green water right up against the sail. I figured we were probably far enough from the _Prospect_, so I went silent and dove the _Gnat_ and disappeared under the waves for the duration of the storm. Lost track of the pursuing sub at that point. How'd you all do in that fucking storm?"
 
-"Hemi brought the _Prospect_ up to the surface in the ditch of a 10 meter wave, rolled her right the fuck over. She was completely on her side for a bit, but eventually came upright again," said Percy.
+"Hemi brought the _Prospect_ up to the surface in the ditch of a ten meter wave, rolled her right the fuck over. She was completely on her side for a bit, but eventually came upright again," said Percy.
 
 Shakes whistled. "Shit, I never saw weather that fuckin' big on this trip. You must have been much more toward the center of the storm."
 
@@ -458,9 +458,8 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 "OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the winding ways of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The sub with the ram might be right behind them but she had no way of knowing.
 
 [//]: # (--- EDITED TO HERE ---)
-[//]: # (2k words from last EDIT point)
 
-A few minutes later Sir Trelew called down to Bastian to slow the _Prospect_ to 5 knots. Sir Trelew scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
+A few minutes later Sir Trelew called down to Bastian to slow the _Prospect_ to five knots. Sir Trelew scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
 
 She nodded. "None too fucking soon." She said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
@@ -554,6 +553,8 @@ Percy punched the dive alarm. "OK, take us down to periscope depth."
 
 "Ah shit, the fuckin' bird. You're right." She pressed the dive alarm button a second time to deactivate it, and then got on the PA that echoed through the whole boat to let anyone listening know that the dive had been postponed. She did this even though the only person on the boat who was not in the control room at that moment was Cassandra -- and she was only a few meters below in the sonar compartment. It was good practice to use the PA to announce boat maneuvers regardless of the location of your crew members, as Chips had often pointed out to her.
 
+[//]: # (2k words from last EDIT point)
+
 Hemi climbed down to the navigation station and reviewed the current chart laid out under the glass. He leaned over it, with the magnifier in his hand. He selected a spot of deep water on the chart, just off the continental shelf, about a day's run out from Stilt City. Holding a tiny scrap of paper down against the glass of the navigation table with his thick fingers splayed, he copied the coordinates with a very sharp pencil. He also selected a backup location for the rendezvous just in case something went wrong and wrote that on the reverse side of the paper. He scooped Herschel up from the deck where he had been walking around aimlessly and fixed the tiny paper into the bird's leg cylinder. 
 
 Captain Percy was anxious to get the boat underwater, so as soon as she saw Hemi starting up the ladder to the control room with Herschel in one hand and nodding to her, she punched the dive alarm again. "Start the dive. Hemi, get the bird off."
@@ -578,7 +579,7 @@ She focused the periscope forward and spoke without pulling back from the viewfi
 
 With Hemi settled on sonar, Percy brought the _Prospect_ down to 20 meters below the surface. In some ways this made Hemi's job simpler because all the traffic was now above them -- there should be no other submerged submarines in the channel. But with only 50 meters of depth to play with, the sounds of the traffic above reflected off the bottom of the channel, back up, and then off in every direction making the space they were moving through feel very compressed to Hemi.
 
-They had maintained a very fast 15 knots since submerging. One of the first things Hemi asked Percy to do was to slow the boat down -- both because it would make the sonar much more clear, and because even at 6 knots he estimated they would be doing twice the speed of the giant prop of the cargo ship above his head.
+They had maintained a very fast 15 knots since submerging. One of the first things Hemi asked Percy to do was to slow the boat down -- both because it would make the sonar much more clear, and because even at six knots he estimated they would be doing twice the speed of the giant prop of the cargo ship above his head.
 
 Hemi began a steady and careful dialog with Percy, much of which she relayed to Bastian and Gregory, to bring the _Prospect_ up under the cargo ship, and then throttle back to match the slow-moving, building-sized ship that was cruising above.
 
@@ -631,7 +632,7 @@ Percy nodded. "Yeah. With all the fucking pinging they are going to find us unde
 
 "I do not," said Hemi, as another ping hit them. He turned back to his work on the sonar unit.
 
-Percy climbed up to the control room. She worked with Gregory on the dive planes and the trim tanks to bring the to boat to a scant 2 meters off the bottom. She had them slow to 2 knots to make it less catastrophic if they hit anything -- there was no such thing as a perfect chart. Hemi reported that the cargo ship above them was creeping away ahead of the _Prospect_.
+Percy climbed up to the control room. She worked with Gregory on the dive planes and the trim tanks to bring the to boat to a scant two meters off the bottom. She had them slow to two knots to make it less catastrophic if they hit anything -- there was no such thing as a perfect chart. Hemi reported that the cargo ship above them was creeping away ahead of the _Prospect_.
 
 After a few minutes Percy noticed that the regular pings had stopped. "Hemi, what the fuck is going on? No more pings?"
 
@@ -664,7 +665,7 @@ Percy moved down to the sonar station and for the next hour or so Hemi reported 
 
 "...But if it fucking forces them to hole up for any significant length of time then we have a shot at never being found by those fucknuts again. The Stilt City Authority boats incapacitating the sub with the ram would surely be a blessing from fucking hell, but just losing them will be fucking good enough for me."
 
-As much as Captain Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect's_ position. They crawled at a painfully slow, but very discreet, 3 knots on the more or less random northerly course Bastian had chosen for them for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind them, along with any kind of contact or signal that the sub with the ram continued to pursue them.
+As much as Captain Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect's_ position. They crawled at a painfully slow, but very discreet, three knots on the more or less random northerly course Bastian had chosen for them for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind them, along with any kind of contact or signal that the sub with the ram continued to pursue them.
 
 Percy was feeling more confident. After they gained the full cover of darkness, she brought the boat to the surface, and they turned the diesels over. She pushed the _Prospect_ up to its full 15 knots. She wanted to cover as much of the distance across the continental shelf as she could under the cover of darkness.
 
@@ -676,9 +677,9 @@ A few times during the night they had to shut down the radar unit because it det
 
 [//]: # (I think, like sonar, there is a difference between a radar _receiver_ and a transmitter. But what the fuck. I guess shutting it down just implies that they wanted to be using their radar transmitter, but realized it was too risky when they saw other vessel's radar transmitting.)
 
-Before the eastern sky even began to lighten they submerged and dove to just off the bottom of the continental shelf again. At about 60 meters down, they resumed their slow underwater crawl towards the end of the shelf at 5 knots. Hemi estimated they still had 4 hours to go before they were out over the deep parts of the central ocean again.
+Before the eastern sky even began to lighten they submerged and dove to just off the bottom of the continental shelf again. At about 60 meters down, they resumed their slow underwater crawl towards the end of the shelf at five knots. Hemi estimated they still had four hours to go before they were out over the deep parts of the central ocean again.
 
-As Percy and Gregory were finishing trimming the tanks to hold the _Prospect_ steady just off the bottom, Cassandra arrived in the sonar compartment with a metal cup full of coffee that she was gingerly moving between burning fingers. With red-rimmed eyes she relieved Bastian who had been staring vacantly at the swirl of the radar sweep for the last 3 hours while Cassandra was in her rack. He gratefully handed over the station to her as she began her 6 hour daytime shift on sonar, even though up on the surface nobody would describe it as daytime yet. 
+As Percy and Gregory were finishing trimming the tanks to hold the _Prospect_ steady just off the bottom, Cassandra arrived in the sonar compartment with a metal cup full of coffee that she was gingerly moving between burning fingers. With red-rimmed eyes she relieved Bastian who had been staring vacantly at the swirl of the radar sweep for the last three hours while Cassandra was in her rack. He gratefully handed over the station to her as she began her six hour daytime shift on sonar, even though up on the surface nobody would describe it as daytime yet. 
 
 
 [//]: # (### The sub with the ram is after them on the surface; they continue the run along the shelf)
@@ -766,7 +767,7 @@ The _Prospect_ hummed with life under their feet. Something about the electric m
 
 Hemi kept a very close eye on Bastian's dive plane angle and the depth-under-keel gauge. Constant attention was required at this speed along with tiny adjustments to keep the boat from plowing into the bottom, or shooting up to the surface. Hemi trimmed the tanks so the _Prospect_ was just slightly heavier in the bow, that way Bastian could adjust the dive planes to err on the side of the boat moving towards the surface -- definitely the lesser of the two evil mistakes Bastian could make.
 
-Captain Percy was also diligently watching the depth-under-keel gauge. She never looked away. It was, for the moment, the only gauge that mattered. With Hemi and Bastian's careful depth control, it hovered stubbornly at 2 meters. 2 measly meters between them and the bottom -- Hemi could not even stand in the space between the bottom and her keel.
+Captain Percy was also diligently watching the depth-under-keel gauge. She never looked away. It was, for the moment, the only gauge that mattered. With Hemi and Bastian's careful depth control, it hovered stubbornly at two meters. Two measly meters between them and the bottom -- Hemi could not even stand in the space between the bottom and her keel.
 
 "Cassandra!" Percy called down. "How are they doing?"
 
@@ -820,7 +821,7 @@ The _Prospect_ let out a long groan, rising slowly in pitch, as the hull adjuste
 
 [//]: # (### The sub with the ram attempts to ram them at depth)
 
-"Level us off." Percy said. "Bring us to 5 knots."
+"Level us off." Percy said. "Bring us to five knots."
 
 Hemi had Bastian level the dive planes and Gregory reverse the prop for a moment to take the speed off. Hemi opened valves that allowed compressed air to start creating a new void in the main ballast to replace the one they had so recently released to the atmosphere above. They were all thrust gently forward by the reverse acceleration, and the angle of the deck came slowly up until it was even under their feet again. 
 
@@ -876,7 +877,7 @@ Gregory looked up at Percy with the look of prey having fully consumed his eyes.
 
 "You've had the _Prospect_ down this deep before?" Gregory asked.
 
-"Honestly," said Percy, "this is a new record for her. By about 5 meters or so."
+"Honestly," said Percy, "this is a new record for her. By about five meters or so."
 
 "Though that's another half atmosphere..." Gregory said to himself under his breath.
 
@@ -901,7 +902,7 @@ The bow of the _Prospect_ once again fell away in front of them. The depth gauge
 
 "They are still coming Sylvia. Adjusted their course and diving. They will be on us in seconds."
 
-Captain Percy had never dreamed of taking her boat this deep. The sounds of her boat under stress rolled back and forth repeatedly throughout the length of the boat, and traveled up to Percy's empathetically sensitive ears in the control room. A long, weak sigh that went on and on was followed by prickly cracking sounds. A low rumble fell underneath those in registers that echoed the very bones of the ship straining to accept the weight of 10 atmospheres. Her boat was very much alive now, and suffering. And it pained Captain Percy. 
+Captain Percy had never dreamed of taking her boat this deep. The sounds of her boat under stress rolled back and forth repeatedly throughout the length of the boat, and traveled up to Percy's empathetically sensitive ears in the control room. A long, weak sigh that went on and on was followed by prickly cracking sounds. A low rumble fell underneath those in registers that echoed the very bones of the ship straining to accept the weight of ten atmospheres. Her boat was very much alive now, and suffering. And it pained Captain Percy. 
 
 The depth gauge needle tapped against the far right pin at 300 meters.
 
@@ -993,7 +994,7 @@ She worked with Bastian to try to correct it, but they realized the trim tanks h
 
 She consulted with Hemi at the navigation table. "How much distance have we gained from the fuckers?"
 
-"We have been drifting for a bit more than an hour. The current appears to be 2 knots or so -- so we are maybe a bit more than 2 nautical miles from them," said Hemi.
+"We have been drifting for a bit more than an hour. The current appears to be two knots or so -- so we are maybe a bit more than two nautical miles from them," said Hemi.
 
 "That's not very fucking much to play with. Do you think we can start the bilge pumps without them hearing?"
 
@@ -1015,7 +1016,7 @@ Percy reached up and patted him on his big shoulder and climbed up to the contro
 
 Being slightly shallower did slow the leaking somewhat. And for a short while they were able to overcome the weight of the water in the cargo hold by displacing a little more water from the trim tanks. But as time passed, the bow sank deeper and deeper as water relentlessly seeped in. The deck was soon at a 60 degree down-angle as they drifted like a derelict through the black water 250 meters down. It was getting more and more difficult to move around the boat, and the dramatic effort required by even simple tasks was causing panic to vein its way into the moral of the crew. Cassandra had to constantly press her feet against the sonar console to keep from sliding off her chair into it, and her leg muscles were burning with the effort.
 
-Finally, when they had gained maybe 5 nautical miles, Percy's patience overcame her fear, and she gave Gregory the order to fully blow out the main ballast. With the scraping creak of the rusty valves as Gregory opened them, the _Prospect_ shot up from the depths. The hull screamed and groaned with relief the whole way, and the boat burst through the surface, settling back down to just under with the deck awash. 
+Finally, when they had gained maybe five nautical miles, Percy's patience overcame her fear, and she gave Gregory the order to fully blow out the main ballast. With the scraping creak of the rusty valves as Gregory opened them, the _Prospect_ shot up from the depths. The hull screamed and groaned with relief the whole way, and the boat burst through the surface, settling back down to just under with the deck awash. 
 
 Percy put the periscope up and scanned around an empty sea. The western sky was starting to redden with late-day light. She opened the hatch from the control room, and the whole crew followed her up on to the bridge. Even though the _Prospect_ still had the semblance of a sinking vessel -- with a bow-down tilt, and only the sail above water -- she let the crew have a moment in the fresh air. They had been scarily deep. It had felt to Percy like they had stood on the very edge of the black hole under them and hurled insults at it while daring it to swallow them. Yet here they were back to the safety of the planar world. She was going to let her crew appreciate that for a moment before they got back to work.
 

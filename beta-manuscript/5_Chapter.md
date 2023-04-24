@@ -84,13 +84,13 @@ Hemi took over the sonar directional control wheel from Cassandra and made some 
 
 She nodded.
 
-After a few minutes of listening Hemi reported to Percy: "it... seems like it is working Sylvia. The _Grackle_ is definitely following Shakes. And..." He paused for a moment to continue listening, "Shakes seems to be able to stay well ahead of them." He pointed to the mic directional indicator. "They are already 10 degrees off our course, and moving away quickly."
+After a few minutes of listening Hemi reported to Percy: "it... seems like it is working Sylvia. The _Grackle_ is definitely following Shakes. And..." He paused for a moment to continue listening, "Shakes seems to be able to stay well ahead of them." He pointed to the mic directional indicator. "They are already ten degrees off our course, and moving away quickly."
 
 "That's fucking excellent Hemi," Percy said.
 
 "Can't they like, shoot at Captain Shakes or something?" asked Cassandra.
 
-"It is very difficult to hit such a small fast-moving target as the _Gnat_ with a torpedo. Though the _Gnat's_ engine is so loud that it is doubtful Shakes would hear an incoming torpedo. Hopefully he is experienced enough to make random course changes every 5 miles or so to make aiming a torpedo more challenging..." Hemi looked doubtful.
+"It is very difficult to hit such a small fast-moving target as the _Gnat_ with a torpedo. Though the _Gnat's_ engine is so loud that it is doubtful Shakes would hear an incoming torpedo. Hopefully he is experienced enough to make random course changes every five miles or so to make aiming a torpedo more challenging..." Hemi looked doubtful.
 
 "Well, keep the fuck on them," said Percy. "Let me know if anything changes... or what the final result is." She stuck a cheroot between her teeth and climbed the ladder to the control room.
 
@@ -126,7 +126,7 @@ Hours later, when the clock said it should be early evening on the surface of th
 
 "OK, but getting low. We are at maybe 20 percent capacity."
 
-"So, we could stay under maybe another 4 or 5 hours at a creep."
+"So, we could stay under maybe another four or five hours at a creep."
 
 "Yes. We took a big chunk out of the batteries by leaving the area where we contacted the _Grackle_ at such a high speed."
 
@@ -160,7 +160,7 @@ She pulled back a headphone. "Nothing... mechanical. But the background noise of
 
 "How bad does that storm sound Hemi?" Percy asked.
 
-"Significant, I would say. There could be 10 meter waves up there."
+"Significant, I would say. There could be ten meter waves up there."
 
 "That's the kind of weather we're better off staying under."
 
@@ -195,7 +195,7 @@ The bow of the boat rose slowly ahead of them, and Percy, being the only one sta
 
 Hemi turned the plane control wheel slightly, and the boat eased to a somewhat steeper angle. He made some small adjustments on the trim tank control panel to make the front of the boat a bit more buoyant so the motors did not have to put quite so much energy into lifting the bow.
 
-"I am going to come level at just about 10 meters, then we will have Owen blow air into the main ballast tanks." Hemi kept his eyes locked on the depth gauge, watching it crawl slowly back around towards the zero mark as the boat rose. Just as it passed the 10 meter mark, Hemi turned the plane control wheel and the bow of the boat came down to level. At this shallower depth, the boat took on the motion from the waves on the surface, slowly listing from one side to the other by 10 degrees or so. "OK!" Hemi yelled down to Owen. "Open the air into the main ballast Owen!"
+"I am going to come level at just about ten meters, then we will have Owen blow air into the main ballast tanks." Hemi kept his eyes locked on the depth gauge, watching it crawl slowly back around towards the zero mark as the boat rose. Just as it passed the ten meter mark, Hemi turned the plane control wheel and the bow of the boat came down to level. At this shallower depth, the boat took on the motion from the waves on the surface, slowly listing from one side to the other by ten degrees or so. "OK!" Hemi yelled down to Owen. "Open the air into the main ballast Owen!"
 
 Percy punched the emergency blow alarm, to be sure that this time everyone on the boat was aware they were performing a dangerous maneuver.
 
@@ -339,7 +339,7 @@ To the uninitiated, this was a hellscape; an unstable surface on an alien world.
 But Hemi felt no fear as long as the hum of the diesels shook his boots, and the heat of the exhaust bellowed from the pipes behind him. He had been through weather like this hundreds of times over the years and knew a well-found ship with a strong engine should have no trouble. As old as the boat was, he had all faith in the _Prospect_. The storm could try its evil best to do them down, but Hemi was not going to go without a fight.
  
 [//]: # (First quarter of night: night 3, run to Stilt City)
-After an hour of firing into the storm, the giant on the bridge was starting to feel the wear of it though. Hemi was not a loud man, and his voice was cracking from continually shouting directives down to the control room. It also took an enormous amount of energy to keep his concentration focused on the nearly-featureless black seascape. Wild as it was, it became debilitatingly repetitive in a short time. And then it took physical stamina just to stay standing on the bridge against the wind and roll of the boat. But the most distressing thing to Hemi was that he had only been at this for an hour. There was a chance they could be running through the dark of this storm until dawn -- something like 10 hours away.
+After an hour of firing into the storm, the giant on the bridge was starting to feel the wear of it though. Hemi was not a loud man, and his voice was cracking from continually shouting directives down to the control room. It also took an enormous amount of energy to keep his concentration focused on the nearly-featureless black seascape. Wild as it was, it became debilitatingly repetitive in a short time. And then it took physical stamina just to stay standing on the bridge against the wind and roll of the boat. But the most distressing thing to Hemi was that he had only been at this for an hour. There was a chance they could be running through the dark of this storm until dawn -- something like ten hours away.
 
 Owen, dressed in a black foul-weather slicker that covered him from crown to calves, where it draped over heavy rain boots, climbed up through the sail to join Hemi on the bridge. 
 
@@ -607,9 +607,9 @@ Percy pulled Hemi over to the navigation chart. Hemi did not remove the sonar he
 
 "We did OK charging the batteries on the surface during the storm. We have about a half charge on them," Percy said, as a starting point for managing all the variables they needed to weigh.
 
-"So we can do a creeping speed for maybe 10 hours." Hemi did not express his opinion aloud that having 10 hours of charge, a somewhat luxurious electrical hoard considering their current situation, meant they could have, and maybe should have, submerged earlier -- and thus avoided the encounter with the _Grackle_. 
+"So we can do a creeping speed for maybe ten hours." Hemi did not express his opinion aloud that having ten hours of charge, a somewhat luxurious electrical hoard considering their current situation, meant they could have, and maybe should have, submerged earlier -- and thus avoided the encounter with the _Grackle_. 
 
-"OK. 3 knots, 10 hours. Let's see." Percy measured a compass against a graduated straight edge and then deftly spun the compass against the chart, drawing an arced dashed line with the grease pencil. "That gets us somewhere along this line."
+"OK. three knots, ten hours. Let's see." Percy measured a compass against a graduated straight edge and then deftly spun the compass against the chart, drawing an arced dashed line with the grease pencil. "That gets us somewhere along this line."
 
 Hemi nodded.
 
@@ -629,7 +629,7 @@ Percy took a long draft off her cheroot and then leaned closely over the chart. 
 
 Hemi looked grim.
 
-"We need to get something between us and those fuckers up there, whether it's Shakes, other Authority craft, or some feature of the seascape. I just need something to hide my boat," said Percy, wracking her mind for options. "Gregory! Give us 3 knots."
+"We need to get something between us and those fuckers up there, whether it's Shakes, other Authority craft, or some feature of the seascape. I just need something to hide my boat," said Percy, wracking her mind for options. "Gregory! Give us three knots."
 
 The soft hum of the electric motors rose up through the silence.
 
@@ -788,7 +788,7 @@ Percy lit a cheroot and stared at the gauges.
 
 "Another undersea mountain?" Bastian asked.
 
-"No..." said Percy, "this came out of nowhere, it's something weird..." She hung her weight from the strap above her, and leaned over Bastian as she smoked, watching the depth-under-keel gauge slowly rise. "Give us a little more speed Bastian; 10 knots." 
+"No..." said Percy, "this came out of nowhere, it's something weird..." She hung her weight from the strap above her, and leaned over Bastian as she smoked, watching the depth-under-keel gauge slowly rise. "Give us a little more speed Bastian; ten knots." 
 
 Bastian eased the throttle forward and the hum of the motors doubled in volume.
 
@@ -828,7 +828,7 @@ Bastian immediately yanked the throttle into reverse, and Gregory spun the dive 
 
 The engineers who designed the _Prospect_ intended the boat to operate normally down to 215 meters. But Percy had pushed the boat beyond that many times, and despite the age of the boat had full confidence in its ability to withstand 250 meters of depth -- though she generally only tested that confidence in an emergency. Beyond that was the mystery of the death zone. The original engineers anticipated full collapse of the boat at 300m. But terrible things could happen in that range between 250 and 300 meters that they were passing into at the moment.
 
-Every 10 meters further down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Prospect_, reinforced with the strength of the steel pressure hull. On a boat 100 meters long like the _Prospect_, in a steep dive like this, the bow could easily already be under an entire atmosphere more pressure than what the depth gauge (that measured from the sail) was showing Percy. A small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank, could take them down in a matter of seconds the last critical meters beyond what the boat could stand. Percy knew they were within meters of crossing that unknowable line where critical parts of the _Prospect_ would fail, and they would never get the boat to rise again.
+Every ten meters further down added another atmosphere of pressure to the hull. The equivalent of another entire column of the weight of the air on the surface pressing down from space. And against that had to stand the measly one atmosphere of pressure inside the _Prospect_, reinforced with the strength of the steel pressure hull. On a boat 100 meters long like the _Prospect_, in a steep dive like this, the bow could easily already be under an entire atmosphere more pressure than what the depth gauge (that measured from the sail) was showing Percy. A small adjustment in the wrong direction of the huge planing fins that guided the sub up or down, or one valve accidentally left partially open and flooding a ballast tank, could take them down in a matter of seconds the last critical meters beyond what the boat could stand. Percy knew they were within meters of crossing that unknowable line where critical parts of the _Prospect_ would fail, and they would never get the boat to rise again.
 
 The _Prospect's_ motors were spinning the propeller in reverse now, pulling hard against the fall of the boat.
 
@@ -888,7 +888,7 @@ The gaps between the pings starting coming in an irregular pattern, every few se
 
 "OK." Hemi moved down to the navigation table. For the next 15 minutes every time he heard a ping from the _Grackle_ he looked at the ranging equipment on the sonar and marked down the searching sub's precise location on the chart. Some of his dots were wildly off in random directions because the deep scattering layer was interfering with the ranging equipment. But the _Grackle_ sent out so many active pings that Hemi was able to chart a accurate course of their movement. It was a circle that began where the _Prospect_ had dropped through the deep scattering layer, and turned in a miles-long arc away from that point.
 
-"Percy," Hemi called up to the control room as the latest ping showed their pursuers at nearly 5 nautical miles away, "it looks like they are at the apogee of their search arc. Now might be a good time to move."
+"Percy," Hemi called up to the control room as the latest ping showed their pursuers at nearly five nautical miles away, "it looks like they are at the apogee of their search arc. Now might be a good time to move."
 
 [//]: # (### They run under the scattering layer)
 
@@ -896,7 +896,7 @@ The gaps between the pings starting coming in an irregular pattern, every few se
 
 "One moment." Hemi pulled a book off the shelf above the navigation table that contained nothing but a million random numbers, plus instructions for selecting one of the numbers at random. Hemi looked at the chart and estimated about a dozen possible directions they could move that would take them away from the _Grackle_. Then he used the book to select a random number which he transposed into one of his dozen courses. "Here's a true random bearing Sylvia: 163 degrees."
 
-"OK Bastian, make it 3 knots, come about to 1-6-3."
+"OK Bastian, make it three knots, come about to 1-6-3."
 
 Bastian shifted the throttle slightly forward and the speed needle raised slowly off its zero pin. He turned the rudder wheel and the boat leaned slightly into the turn.
 
@@ -908,7 +908,7 @@ They cruised slowly and silently away from the spot where they had crossed the d
 
 Percy stood directly behind Gregory, carefully double checking his every move to make sure they did not accidentally sink below the boat's crush depth. After an hour, she personally relieved Gregory in the dive plane control seat and sent him to his rack for a break.
 
-At 3 knots the _Prospect's_ motor made just enough noise that with the right filters in place on sonar, Hemi could hear the echo of the Prospect off the deep scattering layer above them. He showed Cassandra what to listen for, and pretty soon she could give a rough estimate of their depth below the mass of fish. It stayed above them for more than 2 hours, but then Cassandra told Percy she could hear it coming slowly down on top of them -- the fish were beginning their daily vertical migration back down the water column to the safety of the very deep, far below the capabilities of the _Prospect_. 
+At three knots the _Prospect's_ motor made just enough noise that with the right filters in place on sonar, Hemi could hear the echo of the Prospect off the deep scattering layer above them. He showed Cassandra what to listen for, and pretty soon she could give a rough estimate of their depth below the mass of fish. It stayed above them for more than two hours, but then Cassandra told Percy she could hear it coming slowly down on top of them -- the fish were beginning their daily vertical migration back down the water column to the safety of the very deep, far below the capabilities of the _Prospect_. 
 
 [//]: # (dawn: day 4, run to Stilt City)
 At the depth they were cruising at, the boat continually let out long moans as the steel of the hull flexed under the weight of the water and stresses of movement. The sounds had a visceral impact on Captain Percy, as if her child were suffering. So it was with a sense of relief that they passed back through the mass of fish as the school descended. Once they were back above the scattering layer, there was no purpose to staying so dangerously deep, so Percy adjusted the bow planes and the _Prospect_ rose to a much more comfortable 200 meters of depth.

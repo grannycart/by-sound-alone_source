@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-22 22:45
+Last modified: 2023-04-24 19:27
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -106,12 +106,13 @@ Edits to pick up in second full pass through the book
 		* Then maybe for certain characters they are all about rejecting that default cultural background (punk rock) 
 * [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 	* Also see B's note on using bearings earlier
-* [ ] make consistent whether numbers are written out or not
+* [X] make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
 	* except zero --- that needs to be written out.
-	* the rule is going to be: 
+	* ~~the rule is going to be: 
 		* for numbers that are part of the 'language' of the piece (including one through ten, or maybe twenty? --- twenty is where you have to start hyphenating after all) you write them out
-		* And numbers that are actual measurements of things (off gauges or whatever) are numerals
+		* And numbers that are actual measurements of things (off gauges or whatever) are numerals~~
+	* No, instead the rule is 1-10 are spelled out. (This was relatively easily adjusted using grep and vim)
 * [ ] Consider adding more description of the spaces --- particularly inside the Prospect
 	* How is it decorated?
 	* What does it _feel_ like?

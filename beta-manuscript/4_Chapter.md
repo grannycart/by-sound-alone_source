@@ -619,7 +619,7 @@ Cassandra went off to the galley leaving Percy listening to the contact. She cam
 
 "If that is Shakes, the job has been overdone..."
 
-"Really? You think it's fuckin' possible _Shakes_ overdid it, do you?" Percy rolled her eyes. "Maybe instead of the sound of the _Gnat_ masquerading for the _Prospect_, the _Gnat_ will just drown out _everything_ in a 10 mile radius."
+"Really? You think it's fuckin' possible _Shakes_ overdid it, do you?" Percy rolled her eyes. "Maybe instead of the sound of the _Gnat_ masquerading for the _Prospect_, the _Gnat_ will just drown out _everything_ in a ten mile radius."
 
 "I just..." Hemi started, "just cannot believe that such a small boat could..." he paused listening again. "No, I am more sure of it now. The more detail I can hear, the more it makes sense that it is a very _very_ loud, small boat, not a big ship. Though he does have it tuned so low that from a distance anyone who is not skilled on sonar might easily be fooled into thinking the contact is displacing an enormous amount of water. Good job with the identification Cassandra."
 

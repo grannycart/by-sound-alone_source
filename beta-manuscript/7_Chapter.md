@@ -22,7 +22,7 @@ With darkness Hemi was able to take a sighting from a star, and he calculated th
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels and there was no sign of the sub with the ram.
 
-Even as the sun rose in front of them, Percy kept the boat on the surface wanting to make up some of the time they had lost during the previous day. She was hoping to make the rendezvous with Shakes more or less on time. The sun was well up above the horizon and they had clear visibility for something like 10 miles from the lookout ring before Percy finally called for the submarine to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them very precisely to the correct spot.
+Even as the sun rose in front of them, Percy kept the boat on the surface wanting to make up some of the time they had lost during the previous day. She was hoping to make the rendezvous with Shakes more or less on time. The sun was well up above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them very precisely to the correct spot.
 
 A few hours later Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters down, and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
 
@@ -72,7 +72,7 @@ Percy picked up the conversational thread with Shakes. "Regardless of what foule
 
 Percy ignored Owen. "Once it seems like we've gotten ourselves some distance, we'll put into a port somewhere and start looking for work again. And hopefully we'll be able to include the _Gnat_ in whatever new fuckin' endeavor we take up."
 
-For the next 3 days and nights the two boats ran next to each other. They fell back into the steady routine of a cargo run, moving fast with the power of diesels at night, and slowly crawling along underwater during the day. They crossed almost a thousand miles of ocean, and Percy was feeling like they might soon be able to consider heading into a port somewhere and getting back to normal work. 
+For the next three days and nights the two boats ran next to each other. They fell back into the steady routine of a cargo run, moving fast with the power of diesels at night, and slowly crawling along underwater during the day. They crossed almost a thousand miles of ocean, and Percy was feeling like they might soon be able to consider heading into a port somewhere and getting back to normal work. 
 
 
 [//]: # (### underwater bicycle race)
@@ -111,7 +111,7 @@ Shakes selected a promising looking machine from the pile Hemi was still adding 
 
 "I thought the only rule is don't get hurt?" Shakes asked.
 
-"Don't get hurt, _badly_. Fucking yeah." Bastian lit a cigarette, and started pedaling away madly down the grating of the cargo hold. After 10 meters or so he slapped the pedals backwards and skidded for 5 more meters. "Fucking deck is still wet from the flooding! Good skidding." He said looking towards Percy with the cigarette still between his lips.
+"Don't get hurt, _badly_. Fucking yeah." Bastian lit a cigarette, and started pedaling away madly down the grating of the cargo hold. After ten meters or so he slapped the pedals backwards and skidded for five more meters. "Fucking deck is still wet from the flooding! Good skidding." He said looking towards Percy with the cigarette still between his lips.
 
 Shakes took off after Bastian and, since he was riding a bigger bicycle, easily caught Bastian who was now spinning the tiny bicycle at a high cadence. But as Shakes tried to come around, Bastian swerved hard into him and drove Shakes into one of the old crates pushed up against the hull wall. 
 
@@ -169,7 +169,7 @@ Bastian scoffed. "I guess that's why you're the fucking captain. I don't find I 
 
 Hemi took his leave, pointing out that poor Cassandra had been stuck up on sonar and he would relieve her for a bit. A few minutes later Cassandra appeared and they explained the solitary bike "racing" rule to her. She selected a small sturdy children's bicycle and carefully pedaled down the cargo hold, without daring to tackle the ramp.
 
-Then they heard a hiss of water through the piping that ran along the side of the cargo hold and the deck tilted slowly downward beneath their feet. Hemi had let some water into forward trim tanks. The cargo hold deck took on a 10 degree down angle.
+Then they heard a hiss of water through the piping that ran along the side of the cargo hold and the deck tilted slowly downward beneath their feet. Hemi had let some water into forward trim tanks. The cargo hold deck took on a ten degree down angle.
 
 Each of them selected a bicycle and used the slope Hemi had given them to get a lot of speed down the length of the cargo hold. With some trepidation and false starts, each of them eventually tried a jump off the ramp, some landing more successfully --- and more dryly than others.
 
@@ -204,7 +204,7 @@ But as the radar passed to the front of the _Prospect_ it laid down a sprinkling
 
 "Hemi, what's that? It looks like a fucking fleet!" Said Cassandra, her eyes going wide and reflecting the green glow of the radar display.
 
-"Hmm. That is not alright. Bastian!" Hemi called up to the control room. "Throttle back to 5 knots... and shut down the diesels!"
+"Hmm. That is not alright. Bastian!" Hemi called up to the control room. "Throttle back to five knots... and shut down the diesels!"
 
 A few seconds after, the sound of the diesels died away, Percy arrived in the sonar compartment having been directed there from above by Bastian. "What the fuck is going on Hemi?"
 
@@ -246,7 +246,7 @@ Percy looked away from the periscope viewfinder at Hemi, who was holding the shi
 
 Hemi and Shakes chatted for a few minutes over the ship-to-ship. They decided that if they kept the speed of the boats low, they should be able to navigate through the sea of derelicts safely. 
 
-The _Prospect_ surfaced and they pushed forward at 3 knots. The _Gnat_ took up a position 100 meters or so behind. Shakes kept the _Gnat's_ diesel off as he followed in the _Prospect's_ wake so he could keep in constant contact with the _Prospect_ over the ship-to-ship.
+The _Prospect_ surfaced and they pushed forward at three knots. The _Gnat_ took up a position 100 meters or so behind. Shakes kept the _Gnat's_ diesel off as he followed in the _Prospect's_ wake so he could keep in constant contact with the _Prospect_ over the ship-to-ship.
 
 [//]: # (Does the ship-to-ship work with the diesels running? Lets say yes, but a much more limited distance.)
 
@@ -267,7 +267,7 @@ As the sun crept upwards and its light filled out the entire spectrum, the lake 
 
 By the full light of day Percy felt far too exposed. She waved down Shakes until he stopped the _Gnat's_ engine and Hemi could contact him via radio to tell him to bring the _Gnat_ underneath and mate with the _Prospect_. This was fine with Shakes who had not slept the entire night, and looked forward to taking a rest aboard the much larger and relatively luxurious submarine.
 
-With the _Gnat_ attached, Percy had the _Prospect's_ diesels shut down, and they submerged to 20 meters. It was much quieter underwater with no noise but the gentle hum of the electric motors. But they continued to send out a ping every 10 minutes or so with the active sonar to avoid the submerged wrecks, which occasionally hung bow- or stern-down hundreds of meters into the water.
+With the _Gnat_ attached, Percy had the _Prospect's_ diesels shut down, and they submerged to 20 meters. It was much quieter underwater with no noise but the gentle hum of the electric motors. But they continued to send out a ping every ten minutes or so with the active sonar to avoid the submerged wrecks, which occasionally hung bow- or stern-down hundreds of meters into the water.
 
 Between the active pings, Cassandra could now see a picture in her mind of the complex seascape around her. The sound of the _Prospect's_ motors refracted out and away around her, and came bouncing back from the heavy surface and reflected off larger pieces that bobbed around them. She spent the first few hours of the morning scanning around herself in circles with the sonar and flipping filters on and off. She was continually fascinated by the images of the underwater landscape that were drawn in her mind by the sounds the sonar put into her ears.
 
@@ -318,7 +318,7 @@ He looked up at her. "You must admit, there is almost a kind of classic literary
 
 "No way to tell just yet. They likely have the same difficulty as us --- moving fast through the surface garbage puts them at risk of hitting something."
 
-"On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through all this heavy shit. With that in mind --- we run like the fearful fucking bitch-offspring we are. We remain submerged! Bastian, 7 knots. Fuck! No, wait. Owen --- first go find fucking Shakes and get that leaching boat of his detached from my _Prospect_."
+"On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through all this heavy shit. With that in mind --- we run like the fearful fucking bitch-offspring we are. We remain submerged! Bastian, seven knots. Fuck! No, wait. Owen --- first go find fucking Shakes and get that leaching boat of his detached from my _Prospect_."
 
 
 [//]: # (### They are pursued through the night)
@@ -335,9 +335,9 @@ The hours droned by with unvarying regularity. Hemi and Cassandra felt their min
 
 When Percy inspected the page on the clipboard next to Cassandra's sonar unit she found it was rapidly filling up with notations describing the objects the active sonar was reflecting back, and the signal strength of the sub with the ram. Percy willed the _Prospect_ on, trying desperately to get the numbers to add up to some more distance between herself and that dogged signal out there in the water. But the numbers eased ever closer together, and she knew it was only a matter of time before the sub with the ram would be in torpedo range. That sub's commander must have known it too, because he did not increase speed, preferring to slowly reel his target in with minimal risk to him own boat. Given how quickly he had jumped to taking risks to gain an upper hand on the _Prospect_ in the past, the patience the sub with the ram's commander was currently showing telegraphed to Percy an unnerving amount of confidence he had in the coming demise of her boat.
 
-When Captain Percy came down to the sonar compartment in the middle of the night to check on the contacts, Cassandra showed her that the list of signal strengths had steadily increased with the closing of their pursuers. Percy broke out in another cold sweat --- this time from the fear of the torpedo that she now realized could be released at any second. The sub with the ram was now rendering clearly on the active sonar readouts --- it had crept within 10 nautical miles.
+When Captain Percy came down to the sonar compartment in the middle of the night to check on the contacts, Cassandra showed her that the list of signal strengths had steadily increased with the closing of their pursuers. Percy broke out in another cold sweat --- this time from the fear of the torpedo that she now realized could be released at any second. The sub with the ram was now rendering clearly on the active sonar readouts --- it had crept within ten nautical miles.
 
-Almost regretting it as she said it, Percy asked Cassandra to lay off the active pings and use only passive sonar to track objects in the water. It would be challenging given the density of objects in the fouled water they were moving through, but at 7 knots the _Prospect_ was putting out just enough noise that a good sonar operator should be able to see clearly the surrounding seascape for miles in every direction. Hemi's faith in Cassandra's natural skills was rubbing off on Percy.
+Almost regretting it as she said it, Percy asked Cassandra to lay off the active pings and use only passive sonar to track objects in the water. It would be challenging given the density of objects in the fouled water they were moving through, but at seven knots the _Prospect_ was putting out just enough noise that a good sonar operator should be able to see clearly the surrounding seascape for miles in every direction. Hemi's faith in Cassandra's natural skills was rubbing off on Percy.
 
 With the active sonar off, Cassandra soon reported that the sub with the ram had slowed and was losing some distance. Captain Percy knew exactly what the cause of that was --- they had to run slowly and more silently to hear the _Prospect's_ engine noise now. Discontinuing the active sonar pings felt like the right move to Percy.
 
@@ -350,7 +350,7 @@ By the time Hemi arrived back in the sonar compartment from his rack, Cassandra 
 
 While he was on the ladder, the crunching sound of an impact --- a recapitulation of the sound they all heard the first time the sub had rammed them --- shook the _Prospect_ bow to stern.
 
-"Owen! Reduce speed to 2 knots!" Percy shouted almost instinctively. As the boat slowed, Percy's next thought was that they had in fact been rammed again --- that Cassandra had not heard the sub with the ram charging at them. "Cassandra you little shit! You let them hit us!"
+"Owen! Reduce speed to two knots!" Percy shouted almost instinctively. As the boat slowed, Percy's next thought was that they had in fact been rammed again --- that Cassandra had not heard the sub with the ram charging at them. "Cassandra you little shit! You let them hit us!"
 
 "No Captain Percy!" Cassandra wailed with the deep-grained panic of someone who knows they had made a mistake, "it definitely wasn't them! They're still miles and miles off."
 
@@ -358,7 +358,7 @@ Percy looked down at Hemi, who still clung to the ladder, his huge stone form he
 
 Hemi slowly lowered himself to the deck of the sonar compartment, and nodded to Cassandra. She stood, wobbly on her feet, and handed him the sonar headset. Hemi looked towards the hatch that led to the crew quarters and Cassandra followed his eyes, first with her own eyes and then her whole body. She disappeared silently below decks.
 
-Hemi put the sonar headset on and listened closely for a minute. "It was just a derelict... Cassandra was right, the pursuing sub is still close to 10 miles behind us."
+Hemi put the sonar headset on and listened closely for a minute. "It was just a derelict... Cassandra was right, the pursuing sub is still close to ten miles behind us."
 
 "She still fucked us Hemi. A competent operator would have fucking heard that derelict coming on."
 
@@ -408,7 +408,7 @@ Hemi removed the sonar headset and stood at the foot of the ladder to the contro
 
 "And how far behind are our fucking malformed pursuers?"
 
-"Fewer than 10 nautical miles."
+"Fewer than ten nautical miles."
 
 "Shit. Ah fucking well. Up we go boys! Hemi, want to let some air into the main ballast?"
 
@@ -476,9 +476,9 @@ At least at first. But in another hour, Hemi's reports made it clear that their 
 
 By the third hour, the fear of being found started to convert into a somewhat safer feeling that came with the monotony. It was clear that the active sonar pinging was not helping the pursuing sub sort through the mass of contacts that echoed back to find the _Prospect_. The sub with the ram gave no signal that it would leave off its diligent search, but Percy began to feel more and more confident that unless they were spotted visually, the _Prospect_ could continue to play the part of the proverbial needle while the sub with the ram dug through the haystack.
 
-After hours alone in the empty cargo hold standing in reeking bilge water, Owen finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the substantial part of the leaking. She reached over and patted his head, and then wiped her palm on her pants. By now the bow of the _Prospect_ leaned down about 5 degrees. She opened a couple of valves on the trim tank control panel and let water flow into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was another derelict.
+After hours alone in the empty cargo hold standing in reeking bilge water, Owen finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the substantial part of the leaking. She reached over and patted his head, and then wiped her palm on her pants. By now the bow of the _Prospect_ leaned down about five degrees. She opened a couple of valves on the trim tank control panel and let water flow into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was another derelict.
 
-[//]: # (5 degree slope on a 300 meter ship puts the bow... how far under water? Is 5 degrees dramatic enough here?)
+[//]: # (5 degree slope on a 300 meter ship puts the bow... how far under water? Is five degrees dramatic enough here?)
 
 Long hours of this stagnant situation turned into even longer hours. While Captain Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping this was the reason so much cargo now crawled across the face of the globe underwater. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the sub with the ram would intuit the same conclusion.
 
