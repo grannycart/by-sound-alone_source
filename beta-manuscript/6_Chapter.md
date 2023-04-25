@@ -455,36 +455,36 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 "Just another quarter mile or so. We have to slow the boat down even before we get there -- it is easy to miss a small lane like that, and also no turnaround." 
 
-"OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the winding ways of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The sub with the ram might be right behind them but she had no way of knowing.
-
-[//]: # (--- EDITED TO HERE ---)
+"OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the winding ways of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The _Grackle_ might be right behind them, but she had no way of knowing.
 
 A few minutes later Sir Trelew called down to Bastian to slow the _Prospect_ to five knots. Sir Trelew scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
 
-She nodded. "None too fucking soon." She said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
+She nodded. "None too fucking soon." she said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
-As Sir Trelew brought the _Prospect_ into the narrow way of the shortcut, they could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the already loud sounds of the _Prospect's_ own engines underneath them. As Sir Trelew began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub had not come into sight.  Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
+As Sir Trelew brought the _Prospect_ into the narrow way of the shortcut, Captain Percy could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the already loud sounds of the _Prospect's_ own engines. As Sir Trelew began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub had not come into sight.  Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 
-The _Prospect_ moved into the narrow channel between the huts, backtracking the route it had come in by. Sir Trelew had them moving faster this time though, kicking up enough wake to slosh up against the bottoms of the huts, but just short of driving water into the huts. That did not prevent residents from coming out and cursing their passing though.
+The _Prospect_ moved into the small channel between the huts, backtracking the route it had come in by. Sir Trelew had them moving faster this time though, kicking up enough wake to slosh up against the bottoms of the huts, but just short of driving water into the huts. That did not prevent residents from coming out and cursing their passing though.
 
 As before, they wound their way through the small homes. Sir Trelew faced the bow and scanned the path in front of them with binoculars. Occasionally he cupped a hand around his mouth and yelled forward loudly in various local languages to try to get a local fisherman or kids rowing tiny coracles to make way for the _Prospect_ to pass. He kept up a never ending stream of instructions to Hemi and Bastian below, making tiny corrections in their course to keep them in the center of the narrow passage.
 
 Percy rode her boat facing the stern, on the lookout for the thing she feared -- the black shadow of the sub rising up somewhere back in their wake among the densely-clustered huts. 
 
-It was just as she was beginning to believe the other sub may have gone for the bait and followed Shakes when she heard the loud sound of a thump followed by crunching wood. The strange sound bounced over the thatched roofs of the huts to her ears. She lifted her binoculars in the direction of the sound. There she saw long boards, clumps of thatch, and huge splinters shooting up into the air. A path of monstrous destruction, moving rapidly towards them.
+It was just as she was beginning to believe the other sub may have gone for the bait and followed Shakes when she heard a loud thump followed by crunching wood. The strange sound bounced over the thatched roofs of the huts to her ears. She lifted her binoculars in the direction of the sound. There she saw long boards, clumps of thatch, and huge splinters shooting up into the air. A path of monstrous destruction, moving rapidly towards them.
 
 The sub with the ram was on their path, and coming at them at a high speed, with no regard for any structure or home that stood in their way.
 
-"Sir Trelew, that sub that was after us? They are, um, kinda coming this fucking way," said Percy. "Is there any way we can move faster through here?"
+"Sir Trelew, that sub that was after us? They are, um, kinda coming this way," said Percy. "Is there any chance we can move faster through here?"
 
-Sir Trelew looked behind him and saw the rampaging destruction headed towards them."
+Sir Trelew looked behind him and saw the rampaging destruction headed towards them.
 
 "Sorry Captain Percy, I am not destroying my neighbors homes for the sake of your boat."
 
-"You aren't going to fucking ground us again, are you? We're fucking finished if we get stopped."
+"You aren't going to ground us again, are you? We're finished if we get stopped."
 
 "No no. No fucking way! Your boat was loaded before. It is unloaded now -- lots of clearance."
 
@@ -492,29 +492,27 @@ Sir Trelew looked behind him and saw the rampaging destruction headed towards th
 
 Sir Trelew did not reply. He resumed shouting directions down to the control room.
 
-
 [//]: # (### The pursuing sub gets stuck)
 
 Captain Percy did not have nearly as much faith as Sir Trelew that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if a warning light came on.
 
 It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sir Trelew pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down till it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
 
-She climbed back up to the bridge with a smile on her face and patted Sir Trelew on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them, suggested to her that the _Prospect_ might have an opportunity coming.
+She climbed back up to the bridge with a smile on her face and patted Sir Trelew on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them suggested to her that the _Prospect_ might have an opportunity coming.
 
-She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessly up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. And it drove into the shallow bar with no relent in its speed. The sharp front edge of the ram plowed deep enough into the sludgy ground that the muck erupted up from the bottom in a black moraine that rose until it cleared the surface. A small tsunami of brown water turbid with black muck rose and traveled up the small channel in front of it.
+She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessly up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. And it drove into the shallow bar with no reduction in its speed at all. The sharp front edge of the ram plowed deep enough into the sludgy ground that the muck erupted up from the bottom in a black moraine that rose until it cleared the surface. A small tsunami of brown water, turbid with black muck, rose and traveled up the small channel in front of it.
 
 Their pursuers were stopped dead in the passage. Through her binoculars Percy imagined she could almost see the shadows of the men directing the boat from the top of the sail thrust forward against the forward edge of the fairing as the momentum suddenly came off the boat. She could see an arm raised in anger and hear the vitriol spilling off the sub's sail.
 
 As soon as the residents in the surrounding area realized what happened, they attacked the grounded sub, throwing rotting food, scraps of wood, and rusted pieces of oily metal at the black monster that had been tearing up their neighborhood.  
 
-The sub with the ram began shooting jets of bilge water out of its sides, and presumably blowing any remaining water out of their ballast tanks as well. Captain Percy could see they were also driving forward at full throttle, hoping to push through the shallow spot on main power. The screws were kicking up a tremendous frothy wash of white water behind the sub, enough that nearby huts leaned back from the pressure against their stilts. This just angered the residents still more. They began to land on the black sub, beating on the deck with long metal poles and trying to pry up hatches. One local tried to climb the hand holds to the sail. That was when Percy saw the thin shadow of an arm extend and then a flash, followed a moment later by the report of a small-caliber pistol reaching her ears. The body of the climber fell back through the air, hit the curved deck of the sub and slid into the brackish water.
+The _Grackle_ began shooting jets of bilge water out of its sides, and presumably blowing any remaining water out of their ballast tanks as well. Captain Percy could see they were also driving forward at full throttle, hoping to push through the shallow spot on straight thrust. The screws were kicking up a tremendous frothy wash of white water behind the sub, enough that nearby huts leaned back from the pressure against their stilts. This just angered the residents still more. They began to land on the black sub, beating on the deck with long metal poles and trying to pry up hatches. One local tried to climb the hand holds to the sail. That was when Percy saw the thin shadow of an arm extend and then a flash, followed a moment later by the report of a small-caliber pistol reaching her ears. The body of the climber fell back through the air, hit the curved deck of the sub and slid into the brackish water.
 
 After that, the men on the sail opened up on the locals and there was shot after shot. Figures fell to the deck amid the mass of residents scrambling to get off the deck and back to their small boats and canoes alongside. 
 
-
 [//]: # (### Into the main channel; pay off Sir Trelew)
 
-The _Prospect_ was now gaining crucial ground on their pursuers, quickly finding their path through the winding way. Percy could see the main channel ahead of them. Further behind, amidst the chaos and the violence, it did appear that the sub with the ram was making headway against its bottoming. Percy estimated they might push clear with just a few minutes more.
+The _Prospect_ was now gaining crucial ground on their pursuers, quickly finding their path through the winding way. Percy could see the main channel ahead of them. Further behind, amid the chaos and the violence, it did appear that the _Grackle_ was making headway against its bottoming. Percy estimated they might push clear with just a few minutes more.
 
 The _Prospect_ turned out into the main channel and Percy took over command. She immediately had Bastian throttle up to the _Prospect's_ full surface speed of 15 knots. 
 
@@ -524,7 +522,7 @@ The _Prospect_ turned out into the main channel and Percy took over command. She
 
 "That seems true enough. Here I must leave you then. If the Authority catches me piloting a craft at this speed in the channel, I will no longer be a pilot. Besides, there's 50 meters of water in the channel, you do not need me any more -- as long as you manage not to get crushed by a moving freighter."
 
-"Well fuck. That was as fine a bit of piloting as I have ever fucking seen," said Percy. She leaned over and called down to Hemi in the control room. "Hemi! Toss up the pay for Sir Trelew."
+"Well fuck. That was as fine a bit of piloting as I have ever seen," said Percy. She leaned over and called down to Hemi in the control room. "Hemi! Toss up the pay for Sir Trelew."
 
 Hemi underhanded a small cloth pouch clinking with coins up from the control room and Percy snatched it from the zenith of its rise.
 
@@ -532,26 +530,30 @@ She handed it to Sir Trelew. "You'll find a generous gratuity in there for your 
 
 "I am the best pilot in the city Captain Percy! If you come in this way again, be sure to ask for me."
 
-"We fuckin' will, for sure. Can you get your canoe off at this fuckin' speed? I really don't want to slow down."
+"We fuckin' will, for sure. Can you get your canoe off at this speed? I really don't want to slow down."
 
-"No problem. I was born and bred on the fucking water!"
+"No problem. I was born and bred on the water!"
 
-Sir Trelew tucked the bag of coins into his pants, gave Percy a casual salute, and nimbly went over the side of the sail. He pulled his dugout canoe to the side of the deck and sat down in it. He lifted his paddle and pushed off. He slid the tiny craft down the curve of the _Prospect's_ hull and into the rapidly passing water like someone negotiating over a big rock in river rapids. After a few paddles Sir Trelew had safely made some distance from the giant steel cylinder flying past him, and he paused to give one final wave to Percy on the sail before paddling in the direction of a large oiler that was crawling upstream to see if he could win a second job for the day.
+Sir Trelew tucked the bag of coins into his pants, gave Percy a casual salute, and nimbly went over the side of the sail. He pulled his dugout canoe to the edge of the deck and sat down in it. He lifted his paddle and pushed off. He slid the tiny craft down the curve of the _Prospect's_ hull and into the rapidly passing water like someone maneuvering over a big rock in river rapids. After a few paddles he had safely made some distance from the giant steel cylinder flying past, and he paused to give one final wave to Percy on the sail before paddling in the direction of a large oiler that was crawling upstream to see if he could win a second job for the day.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Navigating out of the channel)
 
 Captain Percy climbed down to the control room while closing and sealing the hatch above her head.
 
-"Did you guys get the fucking cargo hatch sealed?" She asked.
+"Did you guys get the cargo hatch sealed?" she asked.
 
-"Yup." Replied Gregory as he pointed upwards to the hatch control panel lit up all green indicating all the hatches on the boat were sealed.
+"Yup," replied Gregory as he pointed upwards to the hatch control panel lit up all green indicating all the hatches on the boat were sealed.
 
 Percy punched the dive alarm. "OK, take us down to periscope depth." 
 
 "Sylvia," said Hemi, "may I suggest that we send up Herschel with a rendezvous point for Shakes before we dive."
 
-"Ah shit, the fuckin' bird. You're right." She pressed the dive alarm button a second time to deactivate it, and then got on the PA that echoed through the whole boat to let anyone listening know that the dive had been postponed. She did this even though the only person on the boat who was not in the control room at that moment was Cassandra -- and she was only a few meters below in the sonar compartment. It was good practice to use the PA to announce boat maneuvers regardless of the location of your crew members, as Chips had often pointed out to her.
+"Ah shit, the fuckin' bird. You're right." She pressed the dive alarm button a second time to deactivate it, and then got on the PA that echoed through the whole boat to let anyone listening know that the dive had been postponed. She did this even though the only person on the boat who was not in the control room at that moment was Cassandra -- and she was only a few meters below in the sonar compartment. It was simply good practice to use the PA to announce boat maneuvers regardless of the location of your crew members, as Chips had often pointed out to her.
+
+[//]: # (--- EDITED TO HERE ---)
 
 [//]: # (2k words from last EDIT point)
 
