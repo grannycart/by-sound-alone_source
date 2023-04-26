@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-24 19:27
+Last modified: 2023-04-26 15:43
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -460,6 +460,8 @@ Edits to pick up in second full pass through the book
 * [ ] Do a search on 'really' and consider removing any
 * [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 	* This is basically impossible
+* [ ] Do a grep for the mispelling "Grackel" 
+* [ ] Grep "sub with the ram" and make sure it isn't used too much now that we know the boat is named the Grackle
 
 ## Post "Director's Cut" things to remove
 * [ ]  consider finishing a version with everything in -- a directors cut -- after committing that cut out all the bigger scenesbeing cut

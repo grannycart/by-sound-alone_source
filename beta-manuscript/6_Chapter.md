@@ -651,52 +651,47 @@ A minute passed. Then the crew in the control room heard low rumblings that came
 
 "Right Cap," said Bastian, rolling the rudder control wheel in his hands to port as the compass on the wall of gauges started to swing.
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (2k words from last EDIT point)
-
 [//]: # (### They think they are finally sneaking away from the pursuers)
 
-Percy moved down to the sonar station and for the next hour or so Hemi reported charges being dropped in waves with Percy standing behind him watching the dials of the sonar rig rise and fall with the sounds Hemi and Cassandra were hearing. "It seems like they are dropping charges in a random pattern around the area where the last ping came from an hour ago." Hemi said mapping an image in his head of the rough location of the dozens of explosions he had heard.
+Percy moved down to the sonar station and for the next hour or so Hemi reported charges being dropped in waves, while Percy stood behind him watching the dials of the sonar rig rise and fall with the sounds Hemi and Cassandra were hearing. "It seems like they are dropping charges in a random pattern around the area where the last ping came from an hour ago," Hemi said mapping an image in his head of the rough location of the dozens of explosions he had heard.
 
-"It could be the sub with the ram is now hiding on the fuckin' bottom themselves." Percy replied. "The Stilt City Authority ships probably lost them in that fucking brown muck water from the river outflow, and are hoping a random charge will force them to the fuckin' surface." 
+"It could be the _Grackle_ is now hiding on the bottom themselves," Percy replied. "The Stilt City Authority ships probably lost them in that brown muck water from the river outflow, and are hoping a random charge will force them to the surface." 
 
 "That does not seem entirely likely to be successful," said Hemi.
 
-"...But if it fucking forces them to hole up for any significant length of time then we have a shot at never being found by those fucknuts again. The Stilt City Authority boats incapacitating the sub with the ram would surely be a blessing from fucking hell, but just losing them will be fucking good enough for me."
+"...But if it forces them to hole up for any significant length of time then we have a shot at never being found by those fucknuts again. The Stilt City Authority boats incapacitating the sub with the ram would surely be a blessing from hell, but just losing them will be good enough for me."
 
-As much as Captain Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect's_ position. They crawled at a painfully slow, but very discreet, three knots on the more or less random northerly course Bastian had chosen for them for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind them, along with any kind of contact or signal that the sub with the ram continued to pursue them.
+As much as Captain Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect's_ position. They crawled at a painfully slow, but very discreet, three knots on the more or less random northerly course Bastian had chosen for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind, along with any kind of contact or signal that they might still be pursued.
 
-Percy was feeling more confident. After they gained the full cover of darkness, she brought the boat to the surface, and they turned the diesels over. She pushed the _Prospect_ up to its full 15 knots. She wanted to cover as much of the distance across the continental shelf as she could under the cover of darkness.
+Percy was feeling more confident. After gaining the full cover of darkness, she brought the boat to the surface, and they turned the diesels over. She pushed the _Prospect_ up to its full 15 knots. She wanted to cover as much of the distance across the continental shelf as she could under the cover of darkness.
 
 Hemi took a sighting off a star with his sextant and he and Percy fixed their exact position on the chart. They measured the remaining distance to the edge of the continental shelf and realized they were not going to make it by sunrise, but they would be close. Percy could not let herself truly feel like they had lost their pursuers until they could get back to running in deep water during the day.
 
-They cruised through the blackness. Percy had the red night lighting on in the control room and sonar compartment, and she had them keep the control room hatch closed to minimize any chance of the red light escaping from the top of the sail and giving their position away. She even forbade smoking on the bridge of the sail for fear of the lit coal being spotted, depriving her crew of one of the very visceral pleasures of running a vessel on the surface in a warm climate. 
+They cruised through the dark. Percy had the red night lighting on in the control room and sonar compartment, and she had them keep the control room hatch closed to minimize any chance of the red light escaping from the top of the sail and giving their position away. She even forbade smoking on the bridge of the sail for fear of the lit coal being spotted, depriving her crew of one of the very visceral pleasures of running a vessel on the surface in a warm climate. 
 
-A few times during the night they had to shut down the radar unit because it detected other radar scans washing over them. These waters were fairly heavily trafficked though, and that was to be expected. Percy was not going to let random radar contacts worry her unless another vessel was detected moving towards their position.
+A few times during the night they had to shut down the radar unit because it detected other radar scans washing over them. These waters were fairly heavily trafficked, and that was to be expected. Percy was not going to let random radar contacts worry her unless another vessel was detected moving towards their position.
 
 [//]: # (I think, like sonar, there is a difference between a radar _receiver_ and a transmitter. But what the fuck. I guess shutting it down just implies that they wanted to be using their radar transmitter, but realized it was too risky when they saw other vessel's radar transmitting.)
 
-Before the eastern sky even began to lighten they submerged and dove to just off the bottom of the continental shelf again. At about 60 meters down, they resumed their slow underwater crawl towards the end of the shelf at five knots. Hemi estimated they still had four hours to go before they were out over the deep parts of the central ocean again.
+Before the eastern sky even began to lighten they submerged and dove to just off the bottom of the continental shelf again. At about 60 meters down, they resumed their slow underwater crawl, heading towards the edge of the shelf at five knots. Hemi estimated they still had four hours to go before they were out over the deep parts of the central ocean again.
 
-As Percy and Gregory were finishing trimming the tanks to hold the _Prospect_ steady just off the bottom, Cassandra arrived in the sonar compartment with a metal cup full of coffee that she was gingerly moving between burning fingers. With red-rimmed eyes she relieved Bastian who had been staring vacantly at the swirl of the radar sweep for the last three hours while Cassandra was in her rack. He gratefully handed over the station to her as she began her six hour daytime shift on sonar, even though up on the surface nobody would describe it as daytime yet. 
-
+As Percy and Gregory were finishing trimming the tanks to hold the _Prospect_ a steady height above the bottom, Cassandra arrived in the sonar compartment with a metal cup full of coffee that she was gingerly moving between burning fingers. With red-rimmed eyes she relieved Bastian who had been staring vacantly at the swirl of the radar sweep for the last three hours while Cassandra was in her rack. He gratefully handed over the station to her as she began her six hour daytime shift on sonar, even though up on the surface nobody would describe it as daytime yet. 
 
 [//]: # (### The sub with the ram is after them on the surface; they continue the run along the shelf)
 
-It was very quiet in the sonar compartment. Cassandra yawned as she put the headset on, and powered up the sonar unit. She slowly scanned around them 360 degrees, and then back and forth behind them while flipping various filters on and off. All the filters did was change the tone of the silence. They had made enough distance into the emptier parts of the ocean during the night that there was nothing out there to be heard now.
+It was very quiet in the sonar compartment. Cassandra yawned as she put the headset on, and powered up the sonar unit. She slowly scanned around them 360 degrees, and then back and forth behind while flipping the now-habitual array of filters on and off. All the filters did was change the tone of the silence. The boat had made enough distance into the emptier parts of the ocean during the night that there was nothing out there to be heard now.
 
-She listened to the empty hiss of static in her ears modulated by the swish of the _Prospect's_ prop when the sonar was pointed anywhere towards the back of the boat. The static was underpinned by the low hum of the electric motors. She closed her eyes, and an hour passed while her mind was out beyond the boat floating in completely empty acoustic space.
+She listened to the empty hiss of static in her ears modulated by the swish of the _Prospect's_ prop when the sonar was pointed anywhere in the neighborhood of the stern. The static was underpinned by the familiar low hum of the electric motors. She closed her eyes, and an hour passed while her mind was out beyond the boat floating in completely empty acoustic space.
 
-Some more time passed. She may have even fallen asleep in her chair. But when she heard the growl of a long-off diesel engine coming through the sonar she suddenly became alert. Her mind snapped back from the ethereal world it had been floating in, and her attention came down on the sonar contact the way a beam of light could go from wide to narrow as the focus of a lens changed. 
+Some more time passed. She may have even fallen asleep in her chair. But when she heard the growl of a long-off diesel engine coming through the sonar she was suddenly alert. Her mind snapped back from the ethereal world it had been floating in, and her attention came down on the sonar contact the way a beam of light could go from wide to narrow as the focus of a lens changed. 
 
-She ran the mics back and forth across the bearing of the contact until she had it dead to center. She flipped filters and the noise from the _Prospect_ faded away and she could concentrate exclusively around the sound of the contact behind them.
+She ran the mics back and forth across the bearing of the contact until she had it dead to center. She flipped filters, and the noise from the _Prospect_ faded away and she could concentrate exclusively on the sound of the contact behind them.
 
 Hemi was standing at the navigation table holding a cup of coffee and reviewing the charts to figure out the best course to take them to the point where they were to rendezvous with Shakes. 
 
-Cassandra turned to him. "Hemi, if I didn't know better, I'd say the sub with the ram is on the surface behind us... again."
+Cassandra turned to him. "Hemi, if I didn't know better, I'd say the _Grackle_ is on the surface behind us... again."
 
-Hemi turned and lifted the spare headset the long distance up to his head. He held one earpiece over his ear with one hand and listened while running the fingers of his other hand through his beard. "That is indeed them." He sat down next to Cassandra and somewhat tiredly put both earpieces over his ears. He focused on what he was hearing. "Go get the Captain from her cabin." He said to Cassandra.
+Hemi turned and raised the spare headset to the altitude of his head. He held one earpiece over his ear with one hand and listened while running the fingers of his other hand through his beard. "That is indeed them." He sat down next to Cassandra and somewhat tiredly put both earpieces over his ears. He focused on what he was hearing. "Go get the Captain from her cabin."
 
 A few minutes later Cassandra and Percy's entrance to the sonar compartment was preceded by a string of oaths Percy was sending out ahead of her as she made her way through her boat.
 
@@ -704,19 +699,21 @@ A few minutes later Cassandra and Percy's entrance to the sonar compartment was 
 
 "I can not quite tell if they are explicitly seeking us at the moment, but unquestionably they are back in our vicinity," said Hemi, pointing to the steadily hovering signal strength indicator. "And, from the last few minutes of listening, I would estimate that they are generally making headway in our direction."
 
-"Fucking fuck!" Percy kicked the panel under the sonar unit. She climbed up to the control room. A second later the _Prospect_ listed slightly to starboard. "New fuckin' course Hemi!" Percy yelled down to him. "I'm making it...  27.5 degrees."
+"Fucking ---!" Percy kicked the panel under the sonar unit. She climbed up to the control room. A second later the _Prospect_ listed slightly to starboard. "New fuckin' course Hemi!" Percy yelled down to him, "I'm making it...  27.5 degrees."
 
 In the sonar compartment, Hemi stood and moved to the navigation table without removing the sonar headset. He made some marks on the chart with the grease pencil to make sure he would not lose track of their position.
 
-For the next hour Hemi and Cassandra sat at the sonar tracking the contact following them. Despite their course change, the contact steadily gained on them. Captain Percy spent most of the hour standing directly behind Hemi and Cassandra at the sonar station, dreading the updates coming from Hemi. By the end of the hour, Hemi reported to Percy that the contact was virtually on top of them in terms of open sea space: within half a nautical mile. The contact was still running on the surface, though slower, matching the _Prospect's_ 5-knot speed. This last fact was the thing that finally made it absolutely clear to Hemi that the sub with the ram had found them again.
+For the next hour Hemi and Cassandra sat at the sonar tracking the contact following them. Despite their course change, the contact steadily gained on them. Captain Percy spent most of the hour standing directly behind Hemi and Cassandra at the sonar station, dreading the updates coming from Hemi. By the end of the hour, Hemi reported to Percy that the contact was virtually on top of them in terms of open sea space: within half a nautical mile. The contact was still running on the surface, though slower, matching the _Prospect's_ 5-knot speed. This last fact was the thing that finally made it absolutely clear to Hemi that the _Grackle_ had found them again.
 
-"Fucking fuck Hemi! How could they have fucking found us again? That's beyond dumb fucking luck. That's just strategically fucking unfair is what that is."
+"Fuck Hemi! How could they have fucking found us again? That's beyond dumb fucking luck. That's just strategically fucking unfair is what that is."
 
 Hemi considered for a moment. "It does seem to defy probability."
 
 "If it is them -- and, honestly, who else could it even fucking be -- then why aren't they fucking pinging us again? Hell, why haven't they fucking shot us down?" Percy asked.
 
-"It is likely they are not pinging because they learned their lesson from the attention it brought them from the Stilt City Authorities last time they were actively pinging. As for shooting..." Hemi tapped his pencil against the rusting metal of the sonar console. "We know the contact we are listening to is the sub with the ram. But they might not know they have us. One can see through the water here clear to the bottom. An airplane flying over could easily have spotted our shadow at this depth, and there are a number of Authorities that might have air patrols through here. This is just a guess, but I suppose if the sub with the ram had received or intercepted a report from one of those aircraft, they would have a strong suspicion that it might be us." He paused, thinking some more. "Now they are close enough they might be tracking us visually just from their lookout on their sail -- but they might not have a way to know for sure what boat they are following. And if they sink a Stilt City boat, the Stilt City Authorities will come down on them with a vengeance."
+"It is likely they are not pinging because they learned their lesson from the attention it brought them from the Stilt City Authorities last time they were actively pinging. As for shooting..." Hemi tapped his pencil against the rusting metal of the sonar console. "We know the contact we are listening to is the _Grackle_. But they might not know they have us. One can see through the water here clear to the bottom. An airplane flying over could easily have spotted our shadow at this depth, and there are a number of Authorities that might have air patrols through this contested area. This is just a guess, but I suppose if the _Grackle_ had received or intercepted a report from one of those aircraft, they would have a strong suspicion that it might be us." 
+
+He paused, thinking some more. "And now they are close enough they might be tracking us visually just from the lookout on their sail -- but they might not have a way to know for sure what boat they are following. And if they sink a Stilt City boat, the Stilt City Authorities will come down on them with a vengeance."
 
 "Fuck me again! You think they can literally _see_ us?" Percy cursed and spat. "We have to get off the shelf and go deep."
 
@@ -724,7 +721,11 @@ Hemi considered for a moment. "It does seem to defy probability."
 
 "Couldn't they just listen to the sonar and identify us by our sound, like you do when you listen to them Hemi?" Cassandra asked.
 
-"That ram they have makes the sound of their boat extremely unique. There are many submarines that are very similar to the _Prospect_, and they all more or less sound the same."
+"That ram they have makes the sound of their boat extremely unique. There are many submarines that are very similar to the _Prospect_, and they all more or less sound the same to the typical sonar operator."
+
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (2k words from last EDIT point)
 
 "The blessing of being indistinguishably fucking average," said Percy. "What if we try to outrun them? The _Prospect_ is fast underwater, we might be able to get off the shelf in under an hour."
 
