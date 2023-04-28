@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-27 19:56
+Last modified: 2023-04-28 17:52
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -475,6 +475,7 @@ Edits to pick up in second full pass through the book
 	* the spotted-from above section
 		* Chap 6, around line 682
 		* this goes with the long chase off the continental shelf to the very-deep limit-pushing dive. This whole section could probably be sliced out with little lost.
+		* This section runs right to the end of the chapter -- could probably cut 10k words or so here.
 	* the post stilt city damaged floating in the water column section
 	* the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
 	* the cookout

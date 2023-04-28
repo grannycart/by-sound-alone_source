@@ -452,7 +452,7 @@ Shakes set his coffee mug down on the glass covering the chart and pulled down t
 
 "Well, when you put it that way -- that particularly profitable way, I mean..."
 
-Hemi picked up a pair of calipers and measured the distance between the small grease-pencil x and the deserted island. "About 100 nautical miles..." he muttered mostly to himself. He set his notebook on the glass and scribbled calculations, pausing to take further measurements at some points. "We have to cut everything to the bone, but the math says we could make it. _Could_."
+Hemi picked up a pair of calipers and measured the distance between the small grease-pencil x and the deserted island. "About 100 nautical miles..." he muttered mostly to himself. He set his notebook on the glass and scribbled calculations, pausing to take further measurements at some points. "We have to cut everything to the bone, but the maths says we could make it. _Could_."
 
 "Wait a damned second, I put it to you again: what do _I_ get out of this fuckin' mechanical monstrosity of a plan?" Shakes was stabbing his finger against the table, leaving smudgy black prints on the glass.
 
