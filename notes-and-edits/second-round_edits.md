@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-28 17:52
+Last modified: 2023-04-29 14:04
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -471,11 +471,13 @@ Edits to pick up in second full pass through the book
 * [ ] Edit the racist comments of the bartender at the Depot:
 	* either eliminate them entirely
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
+* [ ] remove 'twat' references? (already removed cunt)
 * Other potential scenes to go:
 	* the spotted-from above section
 		* Chap 6, around line 682
 		* this goes with the long chase off the continental shelf to the very-deep limit-pushing dive. This whole section could probably be sliced out with little lost.
 		* This section runs right to the end of the chapter -- could probably cut 10k words or so here.
+		* maybe you can just end this section with the Grackle being depth-charged. The idea being that they _could_ be finished (though obviously this is a hope of the characters, not something the reader would believe -- an interesting disctinction of things in the macguffin territory)
 	* the post stilt city damaged floating in the water column section
 	* the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
 	* the cookout
