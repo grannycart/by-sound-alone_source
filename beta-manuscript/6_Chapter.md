@@ -217,32 +217,28 @@ Trelew had Gregory open the main ballast blow valves and the high-pressure air s
 
 Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Trelew had them slowly move forward again. Percy returned to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounding alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft, sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot, and the gauge showed a clear four meters of water under them.
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (2k words from last EDIT point)
-
 [//]: # (----- invisible character break)
  
 
 [//]: # (### They arrive at the dock)
 
-They had to squeeze the _Prospect_ over two more shallow spots before Sir Trelew finally turned them out into a somewhat larger channel -- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic on the water. Sir Trelew steamed the _Prospect_ up this channel for another mile or so, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some were open to the sky. Some were stacked high with cargo waiting for a ship to be loaded onto, and others were cleared waiting for a loaded ship to come in. The platforms either had one side set with a row of docking pylons, or were otherwise connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left as open water so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. Only a few people were about though, since this area was far more heavily populated with cargo than people.
+They had to squeeze the _Prospect_ over two more shallow spots before Sir Trelew finally turned them out into a somewhat larger channel -- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic moving on it. Sir Trelew steamed the _Prospect_ along this channel for another mile or so, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some were open to the sky. Some were stacked high with cargo waiting for a ship to be loaded onto, and others were cleared waiting for a loaded ship to come in. The platforms either had one side set with a row of docking pylons, or were otherwise connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left as open water so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. Only a few people were about though, since this area was far more heavily populated with cargo than people.
 
-Finally Sir Trelew pointed to a bay off their port side while looking through the binoculars. He turned the _Prospect_ into the bay and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign with a dock number that matched the one on the paper he had shown to Sir Trelew. As Sir Trelew and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Gregory to meet him on the deck. The three of them brought thick docking hawsers up from the cargo hold through the big deck hatch and secured them to cleats on the deck. Gregory made a daring leap from the handholds on the side of the _Prospect_ to the dock over the sloshing water in the closing gap. Hemi and Chips tossed the lines over to him so he could secure them around the docking pylons.
+Finally Sir Trelew pointed to a bay ahead off the port side while looking through the binoculars. He turned the _Prospect_ into the bay, and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign matching the dock number they were looking for. As Sir Trelew and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Gregory to meet him on the deck. The three of them brought thick docking hawsers up from the cargo hold through the big hatch and secured them to cleats on the deck. Gregory made a daring leap from the handholds on the side of the _Prospect_ to the dock over the sloshing water in the closing gap. Hemi and Chips tossed the lines over to him so he could secure them to the docking pylons.
 
-The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so wide, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. About halfway out, the dock widened to accommodate the base of a rusty and flimsy looking crane which was left angled at its joints in such a way that it looked like the giant crooked finger of a crone cursing the fates before her. Further out from the crane, the dock narrowed again to just enough space for a single person to walk.
+The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so wide, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. About halfway out, the dock widened to accommodate the base of a rusty and flimsy looking crane which was left angled at its joints in such a way that it looked like the giant crooked finger of a crone cursing the fates before her. Further out from the crane, the dock narrowed again to just enough space for an individual to walk.
 
-The dock ran into a large and mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through in many places. At the far end of the platform was a squat little cube of an office, with a few stacks of crates near it, from which the business of the platform and dock was executed.
+The dock ran into a large and mostly-empty platform. It was one of the platforms that had a roof built over it, supported on the same graying wood pylons as the dock, and roofed with roughly-hewn old boards that had gaps and holes that let light, and presumably rain, pass through in many places. At the far end of the platform was a squat little cube of an office with a few stacks of crates near it from which the business of the platform and dock was executed.
 
 [//]: # (### Chips quits)
 
-As soon as the lines were secured Chips hauled two large and frayed black canvas duffels containing all her gear up from the cargo hold catwalk and onto the deck. From there she threw the heavy bags across to the dock where Gregory made sure they landed without falling off into the water on the other side. She left Hemi with an awkward hug on the deck of the _Prospect_, then made the jump across to the dock where she hefted her bags and patted Gregory on the back affectionately before walking up the dock towards the platform. Hemi and Gregory watched her until she got to the far side of the platform, where it did not take long for her to hail a passing boat that would take her into the center-city labor yards for shipping.
+As soon as the lines were secured Chips hauled two large and frayed canvas duffels containing all her gear up from the cargo hold catwalk and onto the deck. From there she threw the heavy bags across to the dock where Gregory made sure they landed without falling off into the water on the other side. She left Hemi with an awkward hug on the deck of the _Prospect_, then made the jump across to the dock where she hefted her bags and patted Gregory on the back before walking up the dock towards the platform. Hemi and Gregory watched her until she got to the far side of the platform, where it did not take long for her to hail a passing boat that would carry her into the center-city labor yards for shipping.
 
 After Chips had disappeared off the far side of the platform, Gregory was ready to get to work. "Should we set up the gangway Hemi?"
 
-"Yes. But rather than messing with our own winch, let's ask if we can use the crane," said Hemi, pointing to the rusty metal structure leaning above their heads. 
+"Yes. But rather than messing with our own winch, let's ask if we can use the crane." Hemi pointed to the rusty metal structure leaning above their heads. 
 
-Hemi retrieved a clipboard full of papers that he had left on the catwalk, climbed down the side of the _Prospect_, and jumped over to the dock to join Gregory. They made their way up the dock and onto the platform. Nobody had yet come out to greet them. Hemi knocked heavily on the door of the little square building.
+Having retrieved a clipboard full of papers that he had left on the catwalk, Hemi climbed down the side of the _Prospect_ and jumped over to the dock to join Gregory. They made their way along the dock and onto the platform. Nobody had yet come out to greet them. Hemi knocked heavily on the door of the little square building.
 
 A few minutes later it was opened by a squat, fat man wearing pince-nez. "Who are you?" he asked Hemi.
 
@@ -268,7 +264,7 @@ Hemi nodded.
 
 Hemi waved an arm in acknowledgment but did not bother turning to look back at the man.
 
-Out of earshot, Gregory asked quietly, "Are we going to start unloading the _Prospect_ by ourselves Hemi?"  He imagined the total weight of the hundreds of heavy wooden crates in the hold.
+Out of earshot, Gregory asked quietly, "Are we going to start unloading the _Prospect_ by ourselves?"  He imagined the total weight of the hundreds of heavy crates in the hold.
 
 "No. That is their responsibility. They want the cargo, they need to move it. You and I are going to set up the gangway."
 
@@ -276,7 +272,7 @@ Hemi got the engine for the crane started and when it was pouring black diesel s
 
 With the gangway set, Hemi shut down the crane and made his way back aboard the _Prospect_. He found Percy and advised her they should lay low inside the boat until the dock boss' crew got there. So Captain Percy, Hemi, Bastian, Gregory, and Sir Trelew rounded up in the galley around a new pot of coffee. Cassandra had gone off to her rack to catch up on sleep.
 
-They proceeded to drink two and a half pots of coffee as a couple of hours went by, but eventually there was the sound of feet on the _Prospect's_ deck above and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people -- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing -- were already rigging crates onto the hook of the crane and preparing to unload.
+They proceeded to drink two and a half pots of coffee as a couple of hours passed, but eventually there was the sound of feet on the _Prospect's_ deck above and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people -- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing -- were already rigging crates onto the hook of the crane and preparing to unload.
 
 The dock and platform that had been so quiet and empty was now full of noise and people. The crates were hoisted out of the cargo hold one-by-one, carefully stacked four to a cart. Then a team of dockworkers hauled the creaking carts up to the platform where the team would unload and stack the crates by hand.
 
@@ -288,7 +284,7 @@ Then Percy asked, "so Chips is fucking gone?"
 
 "What are we going to do about that? We need a fucking engineer."
 
-"I think we will feel the loss of Chips poignantly." Hemi said with only the tiniest trace of blame in his voice. "We will have to hire someone qualified eventually. But for the moment, I suppose I will have to take on much of the engineering work."
+"I think we will feel the loss of Chips poignantly," Hemi said with only the tiniest trace of blame in his voice. "We will have to hire someone qualified eventually. But for the moment, I suppose I will have to take on much of the engineering work."
 
 "That's why you're my fuckin' Deck Boss Hemi -- is there nothing you can't do?"
 
@@ -304,11 +300,11 @@ Into the middle of their conversation crept the roll of heavy diesels from a lar
 
 Shakes waved one arm back at them.
 
-Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat_ in carefully along the opposite side from the _Prospect_. He put the engine in neutral and hopped out of the sail to catch a line tossed to him from Hemi which he secured to the deck cleats.
+Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat_ in carefully along the opposite side from the _Prospect_. He put the engine in neutral and hopped out of the sail to catch a dock line tossed to him from Hemi which he secured to the deck cleats.
 
-"How y'all be fuckin' doing?" he asked them while still standing on the deck of the _Gnat_.
+"How y'all be fuckin' doing?" he asked, while still standing on the deck of the _Gnat_.
 
-"Mission fuckin' accomplished, and unloading; as you can see," said Percy. "How'd you find us Shakes?"
+"Job completed, and unloading; as you can see," said Percy. "How'd you find us Shakes?"
 
 "Captain Shakes, if you please. As for finding you: it was fuckin' Herschel of course! Hang on..." He disappeared into the sail and came back up with a little gray puff of feathers in his hand. Once he got his arms up above the sail, he tossed Herschel into the air. Herschel flapped and then flew circles around the _Gnat_ excitedly while Shakes leapt over to the dock to join Hemi and Percy.
 
@@ -326,7 +322,7 @@ Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat
 
 Hemi repeated his question.
 
-"Of course! I don't cheap out on anything on my fuckin' boat," said Shakes. "So: I kept that _Grackle_ a few miles off and ran them northwards for three or four hours. But by that time the sea was starting to chop up from the storm. The _Gnat_ was taking frothy green water right up against the sail. I figured we were probably far enough from the _Prospect_, so I went silent and dove the _Gnat_ and disappeared under the waves for the duration of the storm. Lost track of the pursuing sub at that point. How'd you all do in that fucking storm?"
+"Of course! I don't cheap out on anything on my fuckin' boat. So anyways, I kept that _Grackle_ a few miles off and ran them northwards for three or four hours. But by that time the sea was starting to chop up from the storm. The _Gnat_ was taking frothy green water right up against the sail. I figured we were probably far enough from the _Prospect_, so I went silent and dove the _Gnat_ and disappeared under the waves for the duration of the storm. Lost track of the pursuing sub at that point. How'd you all do in that fucking storm?"
 
 "Hemi brought the _Prospect_ up to the surface in the ditch of a ten meter wave, rolled her right the fuck over. She was completely on her side for a bit, but eventually came upright again," said Percy.
 
@@ -353,9 +349,9 @@ Hemi and Shakes found the dock boss stomping around the dock on a crude prosthet
 
 "No it clearly is not. I will adjust the payment based on your delivery." He scribbled some figures with his pencil on the clipboard for a minute and showed it to Hemi. "Does that look right?"
 
-Hemi nodded when he saw that the amount agreed with the calculations he had previously done himself in his head. The dock boss emptied a heavy leather sack of coins onto a crate in front of them and counted out and arranged stacks. When he finished counting, with Hemi double checking every stack of coins, Hemi swept all the stacks off the crate with one swipe of his big hand into a canvas bag he pulled from the inside pocket of his tweed jacket. Hemi thanked the dock boss gruffly. As he and Shakes walked back to the _Prospect_, Hemi counted out Shakes' second deck-hand share he was owed. They agreed to leave the payment for the modifications to the _Gnat_ for a later time when Shakes could figure the cost more precisely.
+Hemi nodded when he saw that the amount agreed with the calculations he had previously done himself in his head. The dock boss emptied a heavy leather sack of coins onto a crate in front of them and counted out and arranged stacks. When he finished counting -- with Hemi double checking every stack -- Hemi swept all the coins off the crate with one swipe of his big hand into a canvas bag he pulled from the inside pocket of his tweed jacket. Hemi thanked the dock boss gruffly. As he and Shakes walked back to the _Prospect_, Hemi counted out Shakes' second deck-hand share he was owed. They agreed to leave the payment for the modifications to the _Gnat_ for a later time when Shakes could figure the cost more precisely.
 
-They had just stepped onto the dock when Shakes shaded his eyes and looked far up the channel that led to the dock. "What the fuck is going on up there?"
+They had just stepped onto the dock when Shakes shaded his eyes and looked far up the channel. "What the fuck is going on up there?"
 
 [//]: # (### The Grackle approaches; the Prospect and the Gnat leave)
 
@@ -371,7 +367,7 @@ A black shadow had formed, pushing itself between the brown line of the wooden s
 
 They two of them started running up the dock. The length of the rickety dock shook with the landing of each of Hemi's heavy steps. Shakes jumped from the dock to the deck of the _Gnat_ and had the bow line undone and tossed back to the dock in a few seconds.
 
-Hemi was a few strides behind Shakes and was about to turn up the gangway when Shakes called to him. He turned to look at the _Gnat_ and Shakes was leaning over from the _Gnat_ with both hands cupping a bundle of feathers. "Take Herschel!"
+Hemi was a few strides behind Shakes and was about to turn up the gangway when Shakes called to him. He turned to look, and Shakes was leaning over from the _Gnat_ with both hands cupping a bundle of feathers. "Take Herschel!"
 
 Hemi nodded as he accepted the bird into his big hands. He held Herschel in one hand as he ran up the gangway shouting to Percy on the bridge. Percy turned to look up the channel and from her height could easily see the approaching black sub. She could even see the strange fiercely-angled shape of the ram mounted on the bow sharply slicing the water.
 
@@ -387,11 +383,11 @@ Hemi turned back towards the sail, hearing a distant 'fuck' rise up from the dep
 
 "Our pursuing sub problem has arrived once again Bastian. Get the diesels started, we are leaving. Sir Trelew: if you can pilot us back to the main channel in a hurry, there will be a significant bonus for you."
 
-"Alright Mr. Hemi." Sir Trelew climbed the ladder up to the bridge from where his piloting would be carried out.
+"Alright Mister Hemi." Sir Trelew climbed the ladder up to the bridge from where his piloting would be carried out.
 
 Bastian did not ask any questions. He turned to the motor panel and flipped the starters. A moment after that came the hiss of the high-pressure air turning the diesels over. The engines came to life, filling the _Prospect_ with the reassuring and familiar rumble of its core power.
 
-Sir Trelew joined Percy on the bridge. Percy and Gregory established via some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Gregory a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing lines into the water. The gangway scraped with a loud steel-on-steel sound along the deck and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
+Sir Trelew joined Percy on the bridge. Percy and Gregory established via some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Gregory a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing lines into the water. The gangway scraped along the deck with a loud steel-on-steel sound, and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
 
 The round dock boss and the dockworkers were standing on the platform watching this procedure, a little stupefied. When the gangway hit the water the dock boss called out to Percy and Sir Trelew on the sail. "What are you doing? You can't leave that fucking junk here!"
 
@@ -405,17 +401,20 @@ The sub with the ram had moved quickly up the channel towards them. Defying the 
 
 With his head above the sail of the _Gnat_, Shakes could see what the monstrous black sub was planning. He lowered himself down to sit in the _Gnat's_ control seat and pulled the sail hatch closed above his head and sealed it. He opened the valves to flood the _Gnat's_ ballast.
 
-He started counting to himself. He lit a cigarette, sucked on it for a second, and then left it propped between his fingers as he used the same hand to give the boat some more throttle. The _Gnat_ picked up speed as it dove, the low sail leaving a thin wake that petered out to nothing as it sank under the surface of the brown water.
+He started counting to himself. He lit a cigarette, sucked on it for a second, and then left it propped between his fingers as he used the same hand to give the boat some more throttle. The _Gnat_ picked up speed as it dove, the low sail leaving a small v of a wake that shrank away to nothing as it sank silently under the surface of the brown water.
 
 Through the viewport of the sail, Shakes could see nothing but sludgy brown water ahead. He steered the boat on his mental time count and instinct, and a subconscious sense of the mathematics involved in the intercept course he planned.
 
 Far faster than he had anticipated, a black wall arose before him. 
 
-With a last-second hope that he was the charging sub with the ram, and not some random dock, he thrust the throttle lever all the way forward to its stop.
+With a last-second hope that he was in fact charging the _Grackle_, and not some random dock, he thrust the throttle lever all the way forward to its stop.
 
 He sucked in a deep breath, and from his diaphragm put all he could into his battle cry: "Ramming speed!" He stuck the cigarette back between his lips. Staring intently out the viewport and with his mouth half-closed, he said, "I always wanted to fucking say that."
 
-The electric motor whined with a pitch that pierced right to the center of Shakes' head. With a last burst of speed, the bow of the _Gnat_ smashed straight into the looming black underwater wall.
+The electric motor whined with a pitch that pierced right to the center of Shakes' head. With its last burst of speed, the bow of the _Gnat_ smashed into the looming black underwater wall.
+
+[//]: # (----- invisible character break)
+ 
 
 From the sail of the _Prospect_ Percy had watched the _Gnat_ back behind her boat's stern, and then plow forward and dive. That was the last she saw of the _Gnat_ because the water was so brown and silted. The _Grackle_ was just starting to come around to an angle where they could maintain the speed they had gained moving up the channel and still drive into the turnaround bay. The ram turned towards the _Prospect_, and just as they had the angle set so the ram would split the rear quarter of the _Prospect_ -- just as Percy was imagining the crazy fully-uniformed sub commander giving the order to put on a turn of the throttle -- the sickening low crunching sound of an underwater collision came up to her ears, and she watched the bow of the ramming sub divert away from the bay, and back into the channel. As the big submarine came around it took on an unnatural list to one side, its sail hanging clean out over the water. Percy knew immediately what Shakes had done to save them. The sub with the ram carved an awkward path, its forward momentum carrying it up the channel until the ram on the bow collided with a cargo platform, which split in two, a splintering crack widening along the sharp line of the ram. The _Grackle_ ground its way to a stop there.
 
@@ -425,11 +424,11 @@ But she did not have to wait for Hemi's report. The _Gnat_ rose to the surface o
 
 [//]: # (### Running back to the main channel in pursuit)
 
-"OK Sir Trelew." Percy said. "It's all on you now my new fuckin' friend. Can you get us back to the main channel?"
+"OK Sir Trelew," Percy said, "it's all on you now my new fuckin' friend. Can you get us back to the main channel?"
 
 "Yes yes. You think this is the first pursuit I have done through Stilt City? I have a few tricks up my suit sleeves."
 
-Calling commands down to the control room, he backed the _Prospect_ into the turnaround bay, and then pushed out into the channel. They got a good view of the sub with the ram as they passed. Black-uniformed crew were running back and forth on the deck with two-meter pry bars, pushing detritus from the platform off the deck. The channel was too narrow for a ship that size to turn around. If they could get unstuck, they would still have to maneuver into the turnaround bay before they could begin to follow the _Prospect_ and the _Gnat_.
+Calling commands down to the control room, he completed backing the _Prospect_ into the turnaround bay, and then pushed out into the channel. They got a good view of the sub with the ram as they passed. Black-uniformed crew were running back and forth on the deck with two-meter pry bars, pushing detritus from the platform off the deck. The channel was too narrow for a ship that size to turn around. If they could get unstuck, they would still have to maneuver into the turnaround bay before they could begin to follow the _Prospect_ and the _Gnat_.
 
 Once Sir Trelew had the _Prospect_ out in the channel, he put on as much speed as he thought they could without adding to the swamping of the structures along the channel and without risking accidentally driving into one of those structures. Behind them Percy could see the _Grackle_ was already freeing itself from its stuck position and maneuvering backwards towards the turnaround bay.
 
@@ -443,15 +442,17 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 "With Shakes constantly stopping to ask directions, it may not have been very difficult to do."
 
-"Well, maybe we can get them to follow him the fuck back out -- Sir Trelew, can we take your shortcut back out to the main channel again?"
+"Well, maybe we can get them to follow him back out too. Sir Trelew, can we take your shortcut again -- back to the main channel?"
 
-"That is maybe not such a good idea. Faster overall, but the boat has to go much slower through there," said Sir Trelew.
+"That is maybe not such a good idea. Faster overall, but the sub marine has to go much slower through," said Sir Trelew.
 
-"I'm willing to go slower if we can lose our fucking pursuers though," said Percy. "Hemi, let's ask Shakes to start the diesel on the _Gnat_, and we'll leave him to go back up the bigger channel he came in from. We'll turn into the shortcut, and with some luck, maybe the _Grackle_ will follow his loud ass instead of us." In one way it felt like a lot to ask of Shakes, who had just risked his boat for them. But one of Percy's principles of leadership was that if someone shows initiative, give them more responsibility.
+"I'm willing to go slower if it means losing our fucking pursuers though," said Percy. "Hemi, let's ask Shakes to start the diesel on the _Gnat_, and we'll leave him to go back up the bigger channel he came in from. We'll turn into the shortcut, and with some luck, maybe the _Grackle_ will follow his loud ass instead of us." In one way it felt like a lot to ask of Shakes, who had just risked his boat for them. But one of Percy's principles of leadership was that if someone shows initiative, give them more responsibility.
 
 "Alright," Hemi said, "I will raise Shakes on the ship-to-ship and let him know the plan."
 
 "There's too much of a risk that those fuckwads will overhear it if you use ship-to-ship. You should probably just flag Shakes down and shout across to him."
+
+[//]: # (Shakes is still running on battery here, so he has no problem hearing Hemi.)
 
 "Alright," said Hemi again, and climbed over the fairing of the sail and down to the deck. Percy watched him shout for Shakes' attention and when Shakes heard him he pulled the _Gnat_ alongside the _Prospect_ and he and Hemi ironed out the details of the plan by yelling across the gap between the two boats. When he was done Hemi climbed up to the sail and back down into the control room.
 
@@ -461,14 +462,11 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 "OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the winding ways of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The _Grackle_ might be right behind them, but she had no way of knowing.
 
-A few minutes later Sir Trelew called down to Bastian to slow the _Prospect_ to five knots. Sir Trelew scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a rapidly approaching small gap between the huts built along the channel. "There it is Captain Percy."
+A few minutes later Sir Trelew called down to Bastian to slow the _Prospect_ to five knots. Sir Trelew scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a small, rapidly-approaching gap between the huts built along the channel. "There it is Captain Percy."
 
-She nodded. "None too fucking soon." she said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
+She nodded. "None too fucking soon," she said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
-As Sir Trelew brought the _Prospect_ into the narrow way of the shortcut, Captain Percy could hear the cough and sputter of the _Gnat's_ noisy diesel starting even above the already loud sounds of the _Prospect's_ own engines. As Sir Trelew began his careful navigation of the shortcut pass, Percy kept looking back to make sure the pursuing sub had not come into sight.  Carbonous black smoke shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
-
-[//]: # (----- invisible character break)
- 
+As Sir Trelew brought the _Prospect_ into the narrow way of the shortcut, Captain Percy could hear the cough and sputter of the _Gnat's_ diesel starting even above the significant rumble of the _Prospect's_ own engines. As Sir Trelew began his careful navigation of the shortcut pass, Percy kept looking back to make sure the _Grackle_ had not come into sight.  Carbonous black soot shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 
@@ -478,7 +476,7 @@ As before, they wound their way through the small homes. Sir Trelew faced the bo
 
 Percy rode her boat facing the stern, on the lookout for the thing she feared -- the black shadow of the sub rising up somewhere back in their wake among the densely-clustered huts. 
 
-It was just as she was beginning to believe the other sub may have gone for the bait and followed Shakes when she heard a loud thump followed by crunching wood. The strange sound bounced over the thatched roofs of the huts to her ears. She lifted her binoculars in the direction of the sound. There she saw long boards, clumps of thatch, and huge splinters shooting up into the air. A path of monstrous destruction, moving rapidly towards them.
+It was just as she was beginning to believe the other sub may have gone for the bait and followed Shakes when she heard a loud thump followed by crunching wood. The strange sound bounced over the thatched roofs of the huts. She lifted her binoculars in the direction of the sound. There she saw long boards, clumps of thatch, and huge splinters shooting up into the air. A path of monstrous destruction, moving rapidly towards them.
 
 The sub with the ram was on their path, and coming at them at a high speed, with no regard for any structure or home that stood in their way.
 
@@ -495,6 +493,10 @@ Sir Trelew looked behind him and saw the rampaging destruction headed towards th
 "Unless the tide went out..," said Percy.
 
 Sir Trelew did not reply. He resumed shouting directions down to the control room.
+
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (2k words from last EDIT point)
 
 [//]: # (### The pursuing sub gets stuck)
 
