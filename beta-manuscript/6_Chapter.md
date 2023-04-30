@@ -476,11 +476,11 @@ As before, they wound their way through the small homes. Sir Trelew faced the bo
 
 Percy rode her boat facing the stern, on the lookout for the thing she feared -- the black shadow of the sub rising up somewhere back in their wake among the densely-clustered huts. 
 
-It was just as she was beginning to believe the other sub may have gone for the bait and followed Shakes when she heard a loud thump followed by crunching wood. The strange sound bounced over the thatched roofs of the huts. She lifted her binoculars in the direction of the sound. There she saw long boards, clumps of thatch, and huge splinters shooting up into the air. A path of monstrous destruction, moving rapidly towards them.
+It was just as she was beginning to believe the _Grackle_ may have gone for the bait and followed Shakes that she heard a muffled thump coming from some distance behind, followed by crunching wood. The sounds bounced over the thatched roofs of the huts. She lifted her binoculars and saw long boards, clumps of thatch, and huge splinters shooting up into the air. Every few seconds, another hollow thump and crunch, followed by more splintering wood. 
 
-The sub with the ram was on their path, and coming at them at a high speed, with no regard for any structure or home that stood in their way.
+The thumps came faster, flowing together until the detritus of the huts was being blasted into the air in a long continuous stream of pulverized wood and straw. The ram of the _Grackle_ was being used to plow a direct route through, as though the ramshackle homes were nothing but so much snow needing to be cleared from the central artery of some Northern city. A path of monstrous destruction, moving rapidly towards the _Prospect_.
 
-"Sir Trelew, that sub that was after us? They are, um, kinda coming this way," said Percy. "Is there any chance we can move faster through here?"
+"Sir Trelew, that sub that was after us? They are coming this way," said Percy. "Is there any chance we can move faster through here?"
 
 Sir Trelew looked behind him and saw the rampaging destruction headed towards them.
 
@@ -494,19 +494,19 @@ Sir Trelew looked behind him and saw the rampaging destruction headed towards th
 
 Sir Trelew did not reply. He resumed shouting directions down to the control room.
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (2k words from last EDIT point)
-
 [//]: # (### The pursuing sub gets stuck)
 
-Captain Percy did not have nearly as much faith as Sir Trelew that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if a warning light came on.
+Captain Percy did not have nearly as much faith as Sir Trelew that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if the warning light came on.
 
 It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sir Trelew pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down till it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
 
 She climbed back up to the bridge with a smile on her face and patted Sir Trelew on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them suggested to her that the _Prospect_ might have an opportunity coming.
 
-She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The sub with the ram was still charging recklessly up the narrow passage, plowing through and splintering the little huts on both sides of the waterway. And it drove into the shallow bar with no reduction in its speed at all. The sharp front edge of the ram plowed deep enough into the sludgy ground that the muck erupted up from the bottom in a black moraine that rose until it cleared the surface. A small tsunami of brown water, turbid with black muck, rose and traveled up the small channel in front of it.
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (2k words from last EDIT point)
+
+She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The _Grackle_ was still charging recklessly up the narrow passage, splintering the little huts on both sides of the waterway. And it drove into the shallow bar with no reduction in its speed at all. The sharp front edge of the ram plowed deep enough into the sludgy ground that the muck erupted up from the bottom in a black moraine that rose until it cleared the surface. A small tsunami of brown water, turbid with black muck, rose and traveled up the small channel in front of it.
 
 Their pursuers were stopped dead in the passage. Through her binoculars Percy imagined she could almost see the shadows of the men directing the boat from the top of the sail thrust forward against the forward edge of the fairing as the momentum suddenly came off the boat. She could see an arm raised in anger and hear the vitriol spilling off the sub's sail.
 
