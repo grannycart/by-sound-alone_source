@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-30 13:51
+Last modified: 2023-04-30 17:26
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -462,6 +462,8 @@ Edits to pick up in second full pass through the book
 		* this section includes the post stilt city damaged floating in the water column section at an angle section
 		* This section runs right to the end of the chapter -- could probably cut 10k words or so here.
 		* maybe you can just end this section with the Grackle being depth-charged. The idea being that they _could_ be finished (though obviously this is a hope of the characters, not something the reader would believe -- an interesting disctinction of things in the macguffin territory)
+			* Depth-charging happed around chap 6, line 674 
+			* would need some editing to make the Prospect think the Grackle might be sunk
 	* [ ] the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
 		* [ ] Bicycles mentioned in first chapter
 		* [ ] There is a reference to the bicycles chained up in the hold at word 4427
