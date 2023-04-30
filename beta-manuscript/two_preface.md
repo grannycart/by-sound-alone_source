@@ -5,7 +5,7 @@
 
 [//]: # (Maybe start with this: You can skip this preface. Go ahead, I don't mind. I'd much prefer you dove directly into the story than have you slog through this thing out of a sense of duty or completion. However for those of you inclined to wring the most you possibly can out of a book, I've got this preface in here to maybe shed some light on a few of the more obscure themes of this book. So if you're still reading and inclined to finish the preface, perhaps you'll have a ever so slightly fuller experience when you hit the book itself.)
 
-[//]: # (Add a graf about how you are sure you need an editor, but an editor is not a luxury I have -- and honestly, given a lot of books I read these days, it seems like maybe good editors are becoming few and far between. Until it gets an editor, it will remain in beta version. This note could probably go at the end, to replace the too many fucks given line.)
+[//]: # (Add a graf about how you are sure you need an editor, but an editor is not a luxury I have --- and honestly, given a lot of books I read these days, it seems like maybe good editors are becoming few and far between. Until it gets an editor, it will remain in beta version. This note could probably go at the end, to replace the too many fucks given line.)
 
 # Preface to the Beta Version
 

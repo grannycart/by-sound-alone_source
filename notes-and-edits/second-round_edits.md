@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-30 17:26
+Last modified: 2023-04-30 17:57
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -15,8 +15,9 @@ Edits to pick up in second full pass through the book
 ## General plot and character edits (throughout book)
 :plot:
 * on starting and finishing editing of each chapter file:
-	* [ ] convert latex style emdashes --- to md style -- on all files
+	* [-] convert latex style emdashes --- to md style -- on all files
 		* :%s/---/--/g
+		* I don't know if this was a problem before that was changed in pandoc (I feel like somewhere I was seeing --- interpreted as en-dash hyphen. But it looks right now when I did some test compiling that outputs in all formats (at least the ones that really matter: epub pdf and html) read --- as emdash; so I've replaced all -- with ---
 	* [ ] note for markdown:
 		* use single underbars for emphasis. two asterisks for bold (if there is any)
 		* DON'T use single asterisks for emphasis. I find that confusing.
@@ -445,6 +446,8 @@ Edits to pick up in second full pass through the book
 	* This is basically impossible
 * [ ] Do a grep for the mispelling "Grackel" 
 * [ ] Grep "sub with the ram" and make sure it isn't used too much now that we know the boat is named the Grackle
+* [ ] check --- emdashes are actually correct in all format. Also check ligatures for quotes. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33
+
 
 ## Post "Director's Cut" things to remove
 * [ ]  consider finishing a version with everything in -- a directors cut -- after committing that cut out all the bigger scenesbeing cut
