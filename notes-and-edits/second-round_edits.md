@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-04-29 14:04
+Last modified: 2023-04-30 13:51
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -172,27 +172,15 @@ Edits to pick up in second full pass through the book
 	* Maybe somehow they know the name of the sub with the ram, even if they don't know the name of the captain.
 	* Or maybe it's like butch cassidy and the sundance kid: where they just assume it's someone based on an assumption (though they later confirmed it by reading in the paper -- maybe someone in the depot or stilt city fills them in.)
 * [-] Maybe have the Prospect painted striped black and white disruptive camo (look it up) -- because they are the white whale, they are the prey (zebra)?
-* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
-* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
-	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
-* [ ] Maybe have Bastian decorating his quarters with plants?
-	* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
-	* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
-	* [ ] Ask A what plants could actually grow on a sub
-	* pot? See note on motivating Shakes
 * [X] make sure you only explain active sonar once
 	* [X] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* I believe the first real explanation of active is line chapt 4 line 642, where Hemi explains it to Cassandra (which is the _right_ place for it.)
 		* Not sure if I do it AGAIN later though. 
 * [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
 	* At the depot, Hemi makes Percy re-hire Chips -- but she does so without apologizing
-* [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
-	* [ ] add something about Cassandra listening to music? 
-* [ ] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
+* [X] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
 	* pretty sure I HAVE this, confirm
-* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
-	* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
 * depot:
 	* [-] Make Vickers the bartender at the depot pub? Make it the nub pub?
 		* I think I never mention him by name. So, I think instead he's just going to be Vicker's ol' concept of the skinny-fat guy.
@@ -229,39 +217,32 @@ Edits to pick up in second full pass through the book
 		* you don't need him for the adultery motivation any more
 		* Chips is clearly more attached to Owen than Gregory.
 		* This leaves them without an engineer when Chips leaves, but I'm not sure they make much use of one for the rest of the book.
-	* [ ] Make sure Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
 * stilt city: 
-	* [ ] when Chips leaves -- have Hemi call her by her real name
-	* [ ] Fix Sturmey:
+	* [X] when Chips leaves -- have Hemi call her by her real name
+	* [X] Fix Sir Trelew:
 		* needs a new name, maybe Zag something?
 		* less asian,
 		* different distinction for dialog
-		* Sturmey smokes big cigars or a pipe
-	* [ ] have Shakes pull his driving gloves on with his teeth (maybe when he's ramming)
-	* [ ] Somewhere in here needs to be some kind of surprising reveal about the Grackle's chase
+	* [X] Sir Trelew smokes big cigars or a pipe
+	* [X] have Shakes pull his driving gloves on with his teeth (maybe when he's ramming)
+	* [-] Somewhere in here needs to be some kind of surprising reveal about the Grackle's chase
 		* Like, maybe they have a conversation over ship-to-ship with the Prospect or something.
 		* Could be that you find out what the magnetic mines are actually _for_  
 			* terrorists going after innocent lives, so they have to question their own work?
 			* or supplying freedom fighters, thus the particular aggression of the grackle?
 			* something else? more subtle??
-		* [ ] So this note could go in at this point maybe: Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
-			* Maybe with shakes over ship-to-ship, just to keep it interesting
-			* Maybe Shakes wonders if it's moral to run weapons
-			* But Percy points out that they might be supplying a rebel group fighting for their freedoms
-			* Though that rebel group might be the oppressors in 6 months
-			* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
-			* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-	* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
+		* dropping this idea since it would just confuse the final Owen motivation
 * spotted from above:
-	* [ ] After leaving stilt city they lose the Grackle. The assumption is floated that the Grackle gave up the chase because they know the Prospect no longer has cargo.
-	* [ ] delete either the spotting, or the suspended in the water column and damaged sequence, or both
+	* [-] After leaving stilt city they lose the Grackle. The assumption is floated that the Grackle gave up the chase because they know the Prospect no longer has cargo. (This would cut the chase back out through the narrow passage -- the best part of the book!) 
+	* [X] delete either the spotting, or the suspended in the water column and damaged sequence, or both
 		* Might be better at this point to move right to the garbage gyre
+		* this is in line for being cut after the director's cut
 * bicycle race:
+	* [ ] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
+		* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
 	* [ ] Keep this? (I'm sort of inclined to, until a professional editor tells me to remove it)
+		* Or cut from post director's cut (see that section)
 	* [ ] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
-	* [ ] There is a reference to the bicycles chained up in the hold at word 4427
-	* [ ] Another reference: Chap 5, like 322 and 332
-	* [ ] Somewhere in here, the Grackle shows up again -- to their disbelief; why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
 * garbage gyre:
 	* [ ] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles
@@ -276,6 +257,8 @@ Edits to pick up in second full pass through the book
 		* "Shut up Sylvia. I told them your hold was full of weapons and supplies. Even after Stilt City. That you were going to be supplying rebels up and down the coast of ehfehgkegk. That you were a crazy idealist who would stop at nothing. That you had valuable metals aboard. I told them anything to keep them after you. I wanted you sunk."
 		* And the radio winks out at some point.
 		* [The Grackle was after them initially for the reasons Miss Mai stated, but Owen made it personal after Stilt City.]
+		* Add this comment here:
+			* [//]: # (Surprise! It was Owen all along. Or at least since the storm. In the early versions of the book, I made the motivation much more abstract -- that the commander of the Grackle was after them because Own screwed his wife; but at the same time he did not really _feel_ that, he just felt like it was his duty to be a jealous husband and so took up this chase simply because that is what society expected him to do, not because he particularly cared. I still find that idea compelling and interesting myself: How much do our actions REALLY come from our emotions, and how much are they societally determined? But test readers were universally confused by this idea, so I give the reader what they want: a straight revenge story with a twist ending. It fits better with the style of the book anyway and ties everything up in a neat narrative knot that may be unlike real life, but is very like what people want from a good story. I thought once maybe I could make this novel accessible and fun to read AND an art novel that probes deeper more abstract questions about human nature. I guess accessible and fun to read conquered abstraction and complexity -- at least I hope so!)
 * Final bbq scene: 
 	* [ ] see Shakes' notes below
 * [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
@@ -330,7 +313,7 @@ Edits to pick up in second full pass through the book
 	* Character development:
 		* I think you did a pretty good job with this. Since there are so few characters, it could have been nice to have Gregory and Owen and Bastian's characters developed a bit more, especially since Gregory dies. Also for there to be more clues as to the relationships between all of them. Regarding Gregory's death - it seemed a bit unrealistic that no one except Chips really seemed to care too much. I would imagine that even people working in super dangerous jobs still feel really disturbed when one of their crew members is randomly killed. As a reader, because we knew almost nothing about Gregory, it was also hard to care and his death felt random. I think you could do more with his character, the circumstances surrounding his death (maybe he's switched shifts with someone or something?) and the aftermath of death to make it feel more impactful. Getting into the characters backstories could be another way to world-build a bit more?
 		* Why did Cassandra have to be a prostitute? That seemed a bit gratuitous. I think also her being described as one of the only characters of color made it feel cringey for me, plus details about her hair and stuff whereas we didn't get that for the male crew members.
-		* It also felt a bit stereotypical that Sturmey has an Asian sounding name and then spoke broken English. 
+		* It also felt a bit stereotypical that Sir Trelew has an Asian sounding name and then spoke broken English. 
 		* Chips and Percy's disagreements often felt a bit too irrational on both sides, even given everyone’s lack of sleep and the pressure they're under. And then Chips leaving felt quite anti-climactic. Especially in the first half of the book, Percy felt a bit too unbelievably immature to be captain, as the leader of the ship I would want her emotional impulsivity balanced with some other more obvious positive personal characteristics besides an instinct for submarines.
 	* Submarines!
 		* One of the things you asked me is whether it would be interesting for people not interested in submarines - I think my answer would be - it depends. I definitely felt as though there were parts that were interesting to read about - for example when Hemi is teaching Cassandra how to use the sonar. But there were other parts, in particular in the first part of the book (pre-arriving at the depot) where it felt as though pages were dedicated to the workings of the submarine or the characters trying to fix parts of it, but the story wasn't advancing in a significant way. As a non-submarine-interested reader, I would have preferred for some of the excitement in the book to come from things other than mechanics of the sub and potential issues. I get that it's hard because so much of it takes place in open water, but it seemed as though every time the submarine decided to go up or down, for example, we got information about how it would do that with the ballast etc. In terms of my ideal book, almost all that detail would be cut so that there's enough detail left for the book to keep its sense of realism, but not so much that it bogs down the narrative. I guess in my ideal book the sub would still feature prominently but potential mechanical failures etc wouldn't be one of the main sources of tension, there'd be more varied challenges that come up. Kind of like how in a book that takes place on an above-ground ship, issues with storms and the ship itself would maybe only be part of the narrative but not the main driving thread.
@@ -472,15 +455,42 @@ Edits to pick up in second full pass through the book
 	* either eliminate them entirely
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * [ ] remove 'twat' references? (already removed cunt)
-* Other potential scenes to go:
-	* the spotted-from above section
+* [ ] Other potential scenes to go:
+	* [ ] the spotted-from above section
 		* Chap 6, around line 682
 		* this goes with the long chase off the continental shelf to the very-deep limit-pushing dive. This whole section could probably be sliced out with little lost.
+		* this section includes the post stilt city damaged floating in the water column section at an angle section
 		* This section runs right to the end of the chapter -- could probably cut 10k words or so here.
 		* maybe you can just end this section with the Grackle being depth-charged. The idea being that they _could_ be finished (though obviously this is a hope of the characters, not something the reader would believe -- an interesting disctinction of things in the macguffin territory)
-	* the post stilt city damaged floating in the water column section
-	* the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
-	* the cookout
+	* [ ] the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
+		* [ ] Bicycles mentioned in first chapter
+		* [ ] There is a reference to the bicycles chained up in the hold at word 4427
+		* [ ] Another reference: Chap 5, like 322 and 332
+	* [ ] the cookout
+* leftover ideas, add for director's cut?
+	* [ ] Have Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
+		* Chips is gone before Shakes arrives -- nowhere to do this.
+		* [ ] Check what shakes says about this: pretty sure he mentions the pigeon hatch when he first meets back up with them after the Depot
+		* might just be that the pigeon hatch remains an idea for this book.
+	* [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
+		* [ ] add something about Cassandra listening to music? 
+	* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
+	* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
+		* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
+	* [ ] Maybe have Bastian decorating his quarters with plants?
+		* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
+		* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
+		* [ ] Ask A what plants could actually grow on a sub
+		* pot? See note on motivating Shakes
+	* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
+		* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
+	* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+		* Maybe with shakes over ship-to-ship, just to keep it interesting
+		* Maybe Shakes wonders if it's moral to run weapons
+		* But Percy points out that they might be supplying a rebel group fighting for their freedoms
+		* Though that rebel group might be the oppressors in 6 months
+		* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
+		* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
 
 
 

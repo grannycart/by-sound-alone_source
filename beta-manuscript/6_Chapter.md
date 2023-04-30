@@ -161,7 +161,7 @@ The man looked it over. "Surely. That's no great fuckin' way from here."
 
 Hemi agreed and paid him an advance. Sir Trelew made a move to go retrieve his canoe, but Hemi asked Cassandra to do it while he showed Sir Trelew the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
 
-Sir Trelew took over command of the _Prospect_. He stood on the bridge, and with borrowed binoculars read the numbers of the channels and water lanes they passed by. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed -- and with a great deal of confidence -- plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
+Sir Trelew took over command of the _Prospect_. He stood on the bridge and lit a cigar that resembled a root vegetable. Chomping the torpedo between his teeth, he read the numbers of the channels and water lanes they passed by through borrowed binoculars. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed -- and with a great deal of confidence -- plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
 
 They passed along this channel for a long way, through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed up under and smacked against the floorboards of the huts. In some places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
 
@@ -232,7 +232,13 @@ The dock ran into a large and mostly-empty platform. It was one of the platforms
 
 [//]: # (### Chips quits)
 
-As soon as the lines were secured Chips hauled two large and frayed canvas duffels containing all her gear up from the cargo hold catwalk and onto the deck. From there she threw the heavy bags across to the dock where Gregory made sure they landed without falling off into the water on the other side. She left Hemi with an awkward hug on the deck of the _Prospect_, then made the jump across to the dock where she hefted her bags and patted Gregory on the back before walking up the dock towards the platform. Hemi and Gregory watched her until she got to the far side of the platform, where it did not take long for her to hail a passing boat that would carry her into the center-city labor yards for shipping.
+As soon as the lines were secured Chips hauled two large and frayed canvas duffels containing all her gear up from the cargo hold catwalk and onto the deck. From there she threw the heavy bags across to the dock where Gregory made sure they landed without falling off into the water on the other side. 
+
+Hemi joined her on the deck. "Take care of yourself, Irene."
+
+"You too, Hemi. And this fuckin' boat. Maybe it will be yours someday, and you'll need an engineer who isn't fuckin' shit at their work." She looked over at Gregory on the dock. "Watch out for those fuckin' guys too. I don't want this to become one of those fuckin' premonition stories I have to tell in a fuckin bar someday, about how I got off this doomed boat just in the fuckin' nick of time. But I can't say I have a good feeling about y'all's future prospects, as it fuckin' were." 
+
+Hemi looked grim. She left him with an awkward hug around his middle and made the jump across to the dock where she hefted her bags and patted Gregory on the back before walking up the dock towards the platform. Hemi and Gregory watched her until she got to the far side of the platform, where it did not take long for her to hail a passing boat that would carry her into the center-city labor yards for shipping.
 
 After Chips had disappeared off the far side of the platform, Gregory was ready to get to work. "Should we set up the gangway Hemi?"
 
@@ -401,11 +407,15 @@ The sub with the ram had moved quickly up the channel towards them. Defying the 
 
 With his head above the sail of the _Gnat_, Shakes could see what the monstrous black sub was planning. He lowered himself down to sit in the _Gnat's_ control seat and pulled the sail hatch closed above his head and sealed it. He opened the valves to flood the _Gnat's_ ballast.
 
-He started counting to himself. He lit a cigarette, sucked on it for a second, and then left it propped between his fingers as he used the same hand to give the boat some more throttle. The _Gnat_ picked up speed as it dove, the low sail leaving a small v of a wake that shrank away to nothing as it sank silently under the surface of the brown water.
+He started counting to himself as he pulled on a pair of well-broken leather gloves with his teeth, keeping each free hand on the controls as he did so. He lit a cigarette, sucked on it for a second, and then left it propped between his fingers as he used the same hand to give the boat some more throttle.
 
-Through the viewport of the sail, Shakes could see nothing but sludgy brown water ahead. He steered the boat on his mental time count and instinct, and a subconscious sense of the mathematics involved in the intercept course he planned.
+[//]: # (Glove with his teeth -- ala the Sundance Kid)
+
+The _Gnat_ picked up speed as it dove, the low sail leaving a small v of a wake that shrank away to nothing as it disappeared silently under the surface. Through the viewport of the sail, Shakes could see nothing but sludgy brown water ahead. He steered the boat on his mental time count and instinct, and a subconscious sense of the mathematics involved in the intercept course he planned.
 
 Far faster than he had anticipated, a black wall arose before him. 
+
+[//]: # (Faster than he anticipated because Shakes has a pretty poor sense of the mathematics involved, of course.)
 
 With a last-second hope that he was in fact charging the _Grackle_, and not some random dock, he thrust the throttle lever all the way forward to its stop.
 
