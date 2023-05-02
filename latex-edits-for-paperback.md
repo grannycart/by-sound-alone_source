@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2023-01-29 14:30
+Last modified: 2023-05-01 22:11
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -13,6 +13,7 @@ Last modified: 2023-01-29 14:30
 3. do vim command --- :%s/chapter{/chapter\*{/g to make chapter headers not display numbering
 	* There's a global way to do this in Latex, but I don't remember it.
 4. do a vim find-and-replace for ... with \ldots
+	* (It's possible the "smart" switch to pandoc does this for you (now). Also converts quotes ligatures and emdashes?)
 5. Add small pigeon graphic to title page:
 	* Add graphicx package:
 		* \usepackage{graphicx}
