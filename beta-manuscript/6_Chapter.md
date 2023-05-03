@@ -910,17 +910,17 @@ Gregory looked up at Percy with the look of prey having fully consumed his eyes.
 
 "They did. They went out to about 1000 meters, dove to our depth, and are on approach again... 500 meters and closing at high speed. I guess that sub commander changed his mind about pushing the limits of his boat."
 
-"OK boys," she said quietly before taking a deep breath, "we're going deeper." She pressed the dive alarm once again. "Bastian, full dive plane down. Again."
+"OK boys," Percy said quietly. Then, taking a deep breath, "we're going deeper." She sounded the dive alarm once again. "Bastian, full dive plane down. Again."
 
 Bastian stuck his cigarette between his lips, wiped his palms on his pants, and grabbed the dive plane control wheel. He spun it all the way to the stop.
 
-The bow of the _Prospect_ once again fell away in front of them. The depth gauge rounded into the final quadrant of the dial, where the ink of the graduation changed from thin black numbers to bold warning numbers. Were it not for the red light, those numbers would also be sitting in a red field on the dial.
+The bow of the _Prospect_ once again fell away in front of them. The depth gauge rounded into the final quadrant of the dial, where the demarcations of the graduations changed from thin black numbers to bold warning numbers. Were it not for the red light, those numbers would also be sitting in a red field.
 
 "Passing 275 meters!" Percy called out so Hemi could hear.
 
 "They are still coming Sylvia. Adjusted their course and diving. They will be on us in seconds."
 
-Captain Percy had never dreamed of taking her boat this deep. The sounds of the vessel under stress rolled back and forth repeatedly throughout the length of the boat, and traveled up to Percy's empathetically sensitive ears in the control room. A long, weak sigh that went on and on was followed by prickly cracking sounds. A low rumble fell underneath those in registers that echoed the very bones of the ship straining to accept the weight of ten atmospheres. Her boat was very much alive now, and suffering. And that suffering pained Captain Percy. 
+Captain Percy had never dreamed of taking her boat this deep. The sounds of the vessel under stress rolled back and forth repeatedly throughout the length of the boat, and traveled up to Percy's empathetically sensitive ears in the control room. A long, weak sigh that went on and on was followed by prickly cracking sounds and the intermittent clangs of what was hopefully non-critical elements failing. A low rumble fell underneath those sounds, in registers that echoed the very bones of the ship straining to accept the weight of ten atmospheres. Her boat was very much alive now, and suffering. And that suffering pained Captain Percy. 
 
 The depth gauge needle tapped against the far right pin at 300 meters.
 
@@ -958,7 +958,7 @@ More minutes passed with no sound except their breathing, the aggravatingly rand
 
 Gregory nodded and quietly climbed down the ladder out of the control room.
 
-Percy stepped up to the trim tank control panel. The boat was slowly settling with the bow dipping down, and that was extra stress on the hull that Percy did not need. She gingerly opened some of the high-pressure valves that would force air into the forward trim tanks. There was a long hiss that ran up the length of the boat from the stern forward into the deeper darkness.
+Percy stepped up to the trim tank control panel. The boat was slowly settling with the bow dipping downward, and that was extra stress on the hull that Percy did not need. She gingerly opened some of the high-pressure valves that would force air into the forward trim tanks. There was a long hiss that ran up the length of the boat from the stern forward into the deeper darkness.
 
 She kept an eye on the trim. The tank gauges were not showing any water emptying. It was possible they were so deep --- so far beyond where her boat was normally designed to operate --- that the high-pressure air system did not have enough pressure to push the water out of the tanks. She slowly opened the valve further and further, and when it hit the stop --- all the way open, the maximum capacity of the air system to displace water --- the trim tank gauges slowly turned towards their zero pins as at least some of the water in them was forced out.
 
@@ -966,7 +966,7 @@ Percy made a few further adjustments to the trim tanks, desperately tending the 
 
 She got the boat trimmed perfectly level, and then stood silently in the middle of the control room with a slight gap between her feet. She measured her own center of gravity against her boat's. In its current configuration it should be absolutely still. But she could feel some kind of movement. Very slow movement.
 
-"Sylvia, they passed us, a few hundred meters off to the west." Hemi reported, then after a pause continued. "They are swinging around again... It would seem that they may have lost us."
+"Sylvia, they passed us, a few hundred meters off to the west." Hemi reported, then after a pause, continued, "they are swinging around again... It would seem that they may have lost us."
 
 "They are unwilling to come this deep, and unwilling to risk firing off a ping to find us. Good. Keep tracking them Hemi," said Percy.
 
@@ -1033,13 +1033,12 @@ Hemi nodded.
 
 Percy reached up and patted him on his big shoulder and climbed up to the control room. She sent Gregory down to the sonar compartment to operate the emergency main ballast blow levers, and she stood next to Bastian reviewing every gauge reading and valve setting on the trim tank control panel. They worked together over the course of the next few hours to blast enough air from the high-pressure system into the main ballast tanks to lift them up 50 meters or so. At that depth, Cassandra could tell them from sonar that they were still drifting away from the sounds of the _Grackle_, so they still had the current.
 
-Being slightly shallower did slow the leaking somewhat. And for a short while they were able to overcome the weight of the water in the cargo hold by displacing a little more water from the trim tanks. But as time passed, the bow sank deeper and deeper as water relentlessly seeped in. The deck was soon at a 60 degree down-angle as they drifted like a derelict through the black water 250 meters down. It was getting more and more difficult to move around the boat, and the dramatic effort required by even simple tasks was causing panic to vein its way into the moral of the crew. Cassandra had to constantly press her feet against the sonar console to keep from sliding off her chair into it, and her leg muscles were burning with the effort.
+Being slightly shallower did slow the leaking somewhat. And for a short while they were able to overcome the weight of the water in the cargo hold by displacing a little more water from the trim tanks. But as time passed, the bow sank deeper and deeper as water relentlessly seeped in. The deck was soon at a 60 degree down-angle as they drifted like a derelict through the black water 250 meters down. It was getting more and more difficult to move around the boat, and the dramatic effort required by even simple tasks was causing panic to vein its way into the morale of the crew. Cassandra had to constantly press her feet against the sonar console to keep from sliding off her chair into it, and her leg muscles were burning with the effort.
 
 Finally, when they had gained maybe five nautical miles, Percy's patience overcame her fear, and she gave Gregory the order to fully blow out the main ballast. With the scraping creak of the rusty valves as Gregory opened them, the _Prospect_ shot up from the depths. The hull screamed and groaned with relief the whole way, and the boat burst through the surface, settling back down to just under with the deck awash. 
 
 Percy put the periscope up and scanned around an empty sea. The western sky was starting to redden with late-day light. She opened the hatch from the control room, and the whole crew followed her up on to the bridge. Even though the _Prospect_ still had the semblance of a sinking vessel --- with a bow-down tilt, and only the sail above water --- she let the crew have a moment in the fresh air. They had been terrifyingly deep. It had felt to Percy like they had stood on the very edge of the black hole under them and hurled insults at it while daring it to swallow them. Yet here they were back to the safety of the planar world. She was going to let her crew appreciate that for a moment before they got back to work.
 
-But it was not long before Percy had the crew back below deck to start the bilge pumps that would finally remove the water from the cargo hold, and run the low-pressure air compressors to get the boat fully surfaced. She also decided it was time to risk a little more noise and they started the electric motors --- she would hold off on starting the diesels until after dark, even though they were moving on the surface now. She selected an eastern course to take them away from the last known position of the _Grackle_ and towards their rendezvous point with Shakes.
+But it was not long before Percy had the crew back below deck to start the bilge pumps that would finally remove the water from the cargo hold, and run the low-pressure air compressors to get the boat fully surfaced. She also decided it was time to risk a little more noise and they started the electric motors --- she would hold off on starting the diesels until after dark, even though they were moving on the surface now. They took up an eastern course to continue away from the last known position of the _Grackle_ and towards their rendezvous with Shakes.
 
 
-[//]: # (Go back and delete comments with time/day references for run to stilt city? Plus previous 2 chapters.)
