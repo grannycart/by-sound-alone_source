@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: 2023-01-05 18:42
+Last modified: 2023-05-03 21:02
 
 
 # notes on sub diagrams
@@ -36,6 +36,7 @@ Last modified: 2023-01-05 18:42
 	* [ ] add dive plane outline?
 	* [ ] Add main ballast valves? (might be tough if the main ballast isn't shown)
 	* [ ] make fine adjustments to catwalk: should hang about 2 meters down/ 2/3s of a deck level
+	* [ ] Make the cargo hatch much more domed/standing up from the deck
 	* [X] Add cargo hatch in deck, catwalk to cargo hatch
 	* [X] add stair down from third deck to cargo bay floor
 	* [X] add trim tanks/express down tank under cargo deck
