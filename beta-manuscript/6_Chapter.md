@@ -885,9 +885,6 @@ The depth gauge passed 250 meters.
 
 "Level us Bastian, now!"
 
-[//]: # (--- EDITED TO HERE ---)
-[//]: # (3k words from last EDIT point)
-
 Bastian spun the dive plane wheel rapidly and the bow came up. The boat leveled out with the depth gauge reading 254 meters. Bastian was breathing quickly. He lifted his shaking hands from the wheel and lit a cigarette.
 
 Gregory looked up at Percy with the look of prey having fully consumed his eyes.
