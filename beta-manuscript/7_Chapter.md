@@ -19,68 +19,65 @@
 [//]: # (### Rendezvous with Shakes)
 
 [//]: # (--- EDITED TO HERE ---)
-[//]: # (2k words from last EDIT point)
 
-With darkness Hemi was able to take a sighting from a star, and he calculated they had made about 20 nautical miles from the point where they began their dive below 300 meters. Percy felt that was enough of a cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. They soon had the diesels turned over and roaring away below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not running the radar, feeling that it was too likely to give them away.
+With darkness, Hemi was able to take a sighting from a star, and he calculated they had made about 20 nautical miles from the point where they began their dive below 300 meters. Percy felt that was enough of a cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. The diesels were soon roaring below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels and there was no sign of the sub with the ram.
 
-Even as the sun rose in front of them, Percy kept the boat on the surface wanting to make up some of the time they had lost during the previous day. She was hoping to make the rendezvous with Shakes more or less on time. The sun was well up above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them very precisely to the correct spot.
+Even as the sun rose before them, Percy kept the boat on the surface wanting to make up some of the time they had lost during the previous day. She was hoping to make the rendezvous with Shakes more or less on time. 
 
-A few hours later Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters down, and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
+The sun was well up above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. They had only a few more miles to go to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them very precisely to the correct spot.
 
-A few miles off the sound of the diesel disappeared, and Cassandra assumed Shakes was diving before approaching the rendezvous point. She called Hemi up to the control room. An hour later Shakes voice came over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
+A few hours later Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters of depth, and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the approach of Shakes. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
 
-Hemi sent Bastian down to the lowest deck of the _Prospect_ and open the hatch to the _Gnat_. Even as he climbed up through the hatch, helped by a strongly gripping hand from Bastian, Shakes was already thinking about food.
+At a few miles off, the sound of the diesel disappeared. Cassandra assumed Shakes was diving before approaching the rendezvous point. She called Hemi up to the control room. An hour later Shakes voice came over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
+
+Hemi sent Bastian down to the lowest deck of the _Prospect_ to open the hatch to the _Gnat_. Even as he climbed up through the hatch, helped by Bastian's strongly gripping hand, Shakes was already thinking about food.
 
 "Bastian! Good to fuckin' see you again. It's about dinner time on this fuckin' vessel, ain't it?"
 
 "Sure it fucking is, Captain Shakes," said Bastian, through a cigarette in his mouth. "I think I smelled Gregory working on some fucking sticky glop or other in the galley, when I was making my way down here. You're hungry?"
 
-"Submarining is fucking hungry work Bastian. Let's go see what that fucking kid is burning."
+"Submarining is fucking hungry work Bastian. Let's go see what that feller is burning."
 
-They made their way up the decks with the wrenches hanging from Shakes' belt clanking loudly each time they ascended one of the ladders or steep stairways. In the galley, Hemi and Percy were sitting at the table and Gregory had a big curved steel pan from which smoke was rising upwards. They all sat and ate a heavy meal of boiled oats and cabbage with small bits of slightly charred canned ham sprinkled throughout. The oats had enough texture still left to them that the little grains popped between their teeth. Hemi brought a bowl in to Cassandra who was still on sonar duty.
+They made their way up the decks with the wrenches hanging from Shakes' belt clanking loudly each time they ascended one of the ladders or steep stairways. In the galley, Hemi and Percy were sitting at the table and Gregory had a big curved steel pan from which smoke was rising. They all sat and ate a heavy meal of boiled oats and cabbage with small bits of slightly-charred canned ham sprinkled throughout. The oats had enough texture still left to them that the little grains popped between their teeth. Hemi brought a bowl in to Cassandra who was still on sonar duty.
 
 After Shakes ate his third bowl, Gregory poured them all a cup of the requisite coffee that came after every meal, and Percy leaned back into the corner of the galley bench, stretching her arms.
 
 "I see you made it out of that fuckin' Stilt City," said Shakes, "when that sub turned off the channel to follow the _Prospect_ into that narrow waterway, I thought maybe our partnership was fuckin' done for."
 
-"Yet you still fuckin' managed to make the rendezvous point," said Captain Percy.
+"Yet you still managed to make the fuckin' rendezvous point," said Captain Percy.
 
 "Well that last job working for you was so fuckin' profitable, I wasn't just going to let that go because I thought y'all were fucking dead."
 
 Percy laughed.
 
-"So what's the fuckin' plan now? Is there a next job?" Asked Shakes.
+"So what's the fuckin' plan now? Is there a next job?" asked Shakes.
 
-"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking sub as possible. We have to lose those fuckers for good if we're going to resume business as usual --- I see that now. I can cut you loose if you like Shakes --- this is mostly our fuckin' headache, not yours. Did we tell you that we figured out the reason they are after us is because the kid Gregory slept with that fuckin' sub commander's wife?"
+"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking _Grackle_ as possible. We have to lose those fuckers for good if we're going to resume business as usual --- I see that now. I can cut you loose if you like Shakes --- this is mostly our fuckin' headache, not yours."
 
-"Your shittin' me --- this whole fuckin' life-and-fuckin'-death hassle is because of your young fuckin' cook?" Shakes grinned at Owen.
+Shakes stirred a number of spoonfuls of sugar into his coffee. "And what if I'm willing to make it my headache too?"
 
-"Fuckin' turns out. Ain't that a fuckin' bitch?"
-
-"Aww fuckin' come on," said Owen. "Yes that happened, but we've already been through this --- the fucking dude is way the fuck over-reacting. That, right there, is our fuckin' problem. Not some coupla fuckin' nights I spent with his wife."
-
-Shakes stirred his coffee with a raised eyebrow and a half-skeptical nod.
-
-Percy picked up the conversational thread with Shakes. "Regardless of what fouled spring from which our continuous fuckin' bad luck flows, I'd be happy to have you along if you're fuckin' willing. Having the _Gnat_ around could prove useful again."
+"Regardless of what fouled spring from which our continuous fuckin' bad luck flows, I'd be happy to have you along if you're fuckin' willing. Having the _Gnat_ around could prove useful again."
 
 "So you'll keep me on fuckin' retainer?"
 
 "Sure, if you like."
 
-"Alright," said Shakes. "If your plan includes keeping Gregory in the kitchen to feed me, I'll fucking stick with y'all for now."
+"Alright," said Shakes, "with the condition that you make Gregory continue to feed me, I'll fucking stick with y'all for now."
 
-"You know I do take care of a few other things on this boat besides the fuckin' food," said Owen. "Cooking is in fact a relatively recent addition to my duties."
+"You know I do take care of a few other things on this boat besides the fuckin' food," said Gregory.
 
-Percy ignored Owen. "Once it seems like we've gotten ourselves some distance, we'll put into a port somewhere and start looking for work again. And hopefully we'll be able to include the _Gnat_ in whatever new fuckin' endeavor we take up."
+Percy ignored Gregory. "Once it seems like we've gotten ourselves some distance, we'll put into a port somewhere and start looking for work again. And hopefully we'll be able to include the _Gnat_ in whatever new endeavor we take up."
 
-For the next three days and nights the two boats ran next to each other. They fell back into the steady routine of a cargo run, moving fast with the power of diesels at night, and slowly crawling along underwater during the day. They crossed almost a thousand miles of ocean, and Percy was feeling like they might soon be able to consider heading into a port somewhere and getting back to normal work. 
-
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### underwater bicycle race)
 
-But first, she felt like they all needed a bit of a break. At the breakfast table on the fourth day, while they were hovering without motors underwater with the _Gnat_ attached, Percy proposed some recreation.
+For the next three days and nights the two boats ran next to each other. They fell back into the steady routine of a cargo run, moving fast with the power of diesels at night, and slowly crawling along underwater during the day. They crossed almost a thousand miles of ocean, and Percy was feeling like they might soon be able to consider heading into a port somewhere and returning to normal work. 
+
+But first, she felt like they all needed a bit of a break. At the breakfast table on the fourth day, while they were hovering underwater with the _Gnat_ attached but without motors, Percy proposed some recreation.
 
 "Gentlemen. You know what? It's probably time we got some fucking exercise. How about a bicycle race tonight?"
 
@@ -94,15 +91,17 @@ Hemi nodded, but Shakes was deeply confused. "A bicycle race? Is that some kind 
 
 In the cargo hold, Hemi unchained the pile of rusty bicycles from the tie-down points on the wall.
 
-"As you may be aware," said Percy looking at the bit of a gut Shakes was showing after stashing away his giant portion of Owen's meal, "submarining is maybe not the healthiest of occupations --- even when we're not being fucking shot at. As a captain, it is my duty to look after all aspects of the welfare of my crew. For that reason I encourage time spent on deck for the fresh air --- when fuckin' possible --- and require participation in all _Prospect_ bicycle races." She pointed down the empty cargo hold. "Generally, we conduct races when... well, when the fucking hold is empty enough that we can."
+"As you may be aware," said Percy looking at the bit of a gut Shakes was showing after stashing away his giant portion of Gregory's meal, "submarining is maybe not the healthiest of occupations --- even when we're not being fucking shot at. As a captain, it is my duty to look after all aspects of the welfare of my crew. For that reason I encourage time spent on deck for the fresh air --- when fuckin' possible --- and require participation in all _Prospect_ bicycle races." She pointed down the empty cargo hold. "Generally, we conduct races when... well, when the fucking hold is empty enough that we can."
 
-"Fuckin' Cool," said Shakes. "What's the rules?"
+"Fuckin' cool," said Shakes. "What's the rules?"
 
 "The single rule is: don't get fucking hurt... badly," said Percy.
 
 "That's fuckin' it?"
 
-'That's fuckin' it." Percy pointed over to the pile of bicycles that Hemi was untangling and tossing one-by-one towards them. "Select your steed. Choose carefully, most have a surprise or two."
+'That's it." Percy pointed over to the pile of bicycles that Hemi was untangling and tossing one-by-one towards them. "Select your steed. Choose carefully, most have a surprise or two."
+
+[//]: # (2k words from last EDIT point)
 
 Shakes looked over the bicycles, which could only be called 'bicycles' if the only thing you knew about bicycles was that they had two wheels. Piled on the grating of the deck, they looked more like a giant rusting Mikado set laid out to play. Any individual bicycle appeared to be missing some critical part or another: a seat, or handle bars, or pedals. Or one of the wheels would have a giant dent in it so there was no chance it would roll smoothly. One or two appeared to be missing structural tubes and looked like they would collapse under the weight of an adult. Some were clearly bikes intended for children, with tiny wheels and faded and ripped streamers hanging from their tiny handlebars. On one someone had welded a motorcycle fork with a motorcycle wheel. Shakes guessed that particular 'bicycle' must weigh more than 50 kilograms.
 
@@ -176,7 +175,7 @@ Then they heard a hiss of water through the piping that ran along the side of th
 
 Each of them selected a bicycle and used the slope Hemi had given them to get a lot of speed down the length of the cargo hold. With some trepidation and false starts, each of them eventually tried a jump off the ramp, some landing more successfully --- and more dryly than others.
 
-Owen displayed an uncanny ability at bicycle handling. With the deck angled, he was able to pull his bike into a wheelie while skidding the rear wheel along the wet grating. He even managed to maintain enough speed doing this to still jump the bike when he hit the ramp.
+Gregory displayed an uncanny ability at bicycle handling. With the deck angled, he was able to pull his bike into a wheelie while skidding the rear wheel along the wet grating. He even managed to maintain enough speed doing this to still jump the bike when he hit the ramp.
 
 They circled up and back repeatedly. With the boat otherwise completely shut down it was pleasantly quiet other than the ticking spin of pawls, and the occasional echoing shout followed by a metal-on-metal crash followed by laughing.
 
@@ -184,7 +183,7 @@ Bastian, after breaking his first bicycle, selected a second one that was more u
 
 Cassandra was very timid on the way down the slope, squeezing the brakes and skidding the whole way. She only tried the ramp once, and found the landing terrifyingly rough. But she could beat them all back up the slope with a high-speed spin and a surprising show of strength in heart and lung.
 
-They raced on for the better part of two hours, until not one of them lacked a spot of blood running freely from somewhere on their body and a number of bruises as badges to prove the amount of fun they had achieved. There were no serious injuries other than a sprained ankle on Owen's part that would set him limping for the next week.
+They raced on for the better part of two hours, until not one of them lacked a spot of blood running freely from somewhere on their body and a number of bruises as badges to prove the amount of fun they had achieved. There were no serious injuries other than a sprained ankle on Gregory's part that would set him limping for the next week.
 
 Eventually, when the whole crew was looking like it had run out their physical capacities, Percy had Hemi level the _Prospect_ and then released them all to their bunks or coffee depending on individual preference for the rest of the day. 
 
@@ -195,7 +194,7 @@ When the clock indicated that it was fully dark up above the waves, Percy had th
 
 They kept a steady eastern course, moving deep into the central ocean. With both boats running their diesel engines they could sustain high speeds. They kept up a steady 15 knot average, covering the vast distances of the open ocean relatively quickly.
 
-Percy rode up on the bridge. Given the extreme darkness, she decided to forego putting a lookout in the ring. She had never felt like she had all the crew she needed to run the boat effectively, but having lost Owen and Chips she was feeling more pinched than ever by too-few hands.
+Percy rode up on the bridge. Given the extreme darkness, she decided to forego putting a lookout in the ring. She had never felt like she had all the crew she needed to run the boat effectively, but having lost Gregory and Chips she was feeling more pinched than ever by too-few hands.
 
 With no visibility on deck, and the sonar nearly useless over the volume of sound the diesel engines dumped into the water, the only real visibility Percy had was on radar. So every 20 minutes she had Cassandra turn on the radar for a few sweeps to make sure the ocean remained clear in front of them --- and that nobody was tailing behind.
 
@@ -353,7 +352,7 @@ By the time Hemi arrived back in the sonar compartment from his rack, Cassandra 
 
 While he was on the ladder, the crunching sound of an impact --- a recapitulation of the sound they all heard the first time the sub had rammed them --- shook the _Prospect_ bow to stern.
 
-"Owen! Reduce speed to two knots!" Percy shouted almost instinctively. As the boat slowed, Percy's next thought was that they had in fact been rammed again --- that Cassandra had not heard the sub with the ram charging at them. "Cassandra you little shit! You let them hit us!"
+"Gregory! Reduce speed to two knots!" Percy shouted almost instinctively. As the boat slowed, Percy's next thought was that they had in fact been rammed again --- that Cassandra had not heard the sub with the ram charging at them. "Cassandra you little shit! You let them hit us!"
 
 "No Captain Percy!" Cassandra wailed with the deep-grained panic of someone who knows they had made a mistake, "it definitely wasn't them! They're still miles and miles off."
 
@@ -373,9 +372,9 @@ Hemi did not reply.
 
 Bastian was climbing up through the hatch into the sonar compartment when Gregory reported to Percy that the _Prospect_ was losing buoyancy in the bow again. Percy had already known it through the feeling of the angle of the deck against her feet, but the thought had yet to register itself in the conscious part of her mind.
 
-Percy looked down and saw Bastian standing at the foot of the ladder up to the control room. "Bastian, get up here. Owen, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up again with that last little tussle."
+Percy looked down and saw Bastian standing at the foot of the ladder up to the control room. "Bastian, get up here. Gregory, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up again with that last little tussle."
 
-A few minutes later Owen's voice came crackling over the PA radio in the control room. "Fuck Captain Percy, you're right. Those welds are failing. There's already about a fucking foot of water in the bilge."
+A few minutes later Gregory's voice came crackling over the PA radio in the control room. "Fuck Captain Percy, you're right. Those welds are failing. There's already about a fucking foot of water in the bilge."
 
 "Fuck me!" Said Percy. She leaned over the trim control panel and flipped on the forward bilge pumps and slid the power controllers up to maximum. As the bilges ramped up, the higher-pitched hum of their small but powerful electric motors passed through the hull and lay down on top of the bass hum of the main drive motors. Bastian looked up at Percy with a doubtful look, but didn't express his doubt verbally.
 
