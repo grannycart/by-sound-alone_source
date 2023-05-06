@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-05 14:38
+Last modified: 2023-05-06 13:22
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -242,17 +242,18 @@ Edits to pick up in second full pass through the book
 		* Might be better at this point to move right to the garbage gyre
 		* this is in line for being cut after the director's cut
 * bicycle race:
-	* [ ] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
-		* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
-	* [ ] Keep this? (I'm sort of inclined to, until a professional editor tells me to remove it)
-		* Or cut from post director's cut (see that section)
-	* [ ] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
+	* [X] Keep this? (I'm sort of inclined to, until a professional editor tells me to remove it)
+		* cut from post director's cut (see that section)
+	* [X] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
+		* no, cut it
 * garbage gyre:
 	* [ ] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles
 		* maybe getting towards the gargbage gyre -- ships that have sunk
 		* like the dream I had
 	* [ ] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
+	* [ ] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
+		* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
 	* [ ] As the Grackle sinks, a voice comes over the ship-to-ship
 		* "Sylvia... you left me up there to die."
 		* "...Owen? ...But how..."
@@ -453,7 +454,7 @@ Edits to pick up in second full pass through the book
 
 
 ## Post "Director's Cut" things to remove
-* [ ]  consider finishing a version with everything in -- a directors cut -- after committing that cut out all the bigger scenesbeing cut
+* [ ]  finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
 	* keep track of pages to be cut as you edit
 * [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 	* Is C right? Should I cut the whole thing before the depot and start it there?
@@ -474,8 +475,11 @@ Edits to pick up in second full pass through the book
 		* [ ] Bicycles mentioned in first chapter
 		* [ ] There is a reference to the bicycles chained up in the hold at word 4427
 		* [ ] Another reference: Chap 5, like 322 and 332
+		* [ ] the bike race is in the beginning of chapter 7. clearly demarcated by notes, it could be easily sliced out
+			* [ ] though I think this has to go along with combining chapter 7 and 8. (maybe 8 gets a coda instead, and there's only 7 chapters + coda/epilogue)
 	* [ ] the cookout
 * leftover ideas, add for director's cut?
+	* [ ] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
 	* [ ] Have Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
 		* Chips is gone before Shakes arrives -- nowhere to do this.
 		* [ ] Check what shakes says about this: pretty sure he mentions the pigeon hatch when he first meets back up with them after the Depot
