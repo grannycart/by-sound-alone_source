@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-06 13:22
+Last modified: 2023-05-06 16:30
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -289,6 +289,7 @@ Edits to pick up in second full pass through the book
 	* consider adding a note about needing an editor/ beta version. (see comment in preface file)
 	* remove preface to the preface
 	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+	* consider adding bit referencing mice loving running on wheel research (since that was in the removed bicycle race scene) -- how mechanical moving things might be a deeply mammalian thing
 	* add something about how it's under on open license and will remain so (possibly say something about wanting to give back to open source community but I'm not much of a programmer. and this book was written entirely with open source tools.)
 		* Put this at the end of the book, just ahead of the license
 		* and if people have ideas that they want to add or change to the book I encourage them to run with it; as long as they follow the stipulations of the no commercial use license. 

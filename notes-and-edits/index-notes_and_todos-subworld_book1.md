@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-04-22 12:37
+Last modified: 2023-05-06 16:28
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -48,6 +48,8 @@ Last modified: 2023-04-22 12:37
 	* (where are my other cover notes?)
 * [ ] Possible book (though not series) title:
 :titles:
+	* Working title: By Sound Alone
+	* Former working title: Under Dark
 	* An Absolute and Blessed Silence
 	* The Salted wound
 		* (referring to the never-healing damage from the ramming at the beginning)
