@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-06 16:30
+Last modified: 2023-05-07 12:26
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -151,14 +151,17 @@ Edits to pick up in second full pass through the book
 	* Right now I think she reads more like the elder captain she will be in later stories
 	* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
 	* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
+	* Also, see note on Cassandra -- there are no pretty people in this world.
 * [X] make sure you make it clear early on that Hemi is the 'Deck Boss'
 * [X] make sure there's a scene where Percy understands something is wrong with her boat just by feeling it. (Like the DC captains knowing there's a leak just by the pitch of the roll)
 	* This happens right at the beginning with the first ramming.
 	* And again when she first notices the boat sinking with the leak in the cargo hold
 * [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
 * [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
-	* [ ] also the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
+* [ ] And the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
 * [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
+* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
+	* At the depot, Hemi makes Percy re-hire Chips -- but she does so without apologizing
 * [X] dumped Shakes description of depot, might need to go back in:
 	* "Mind if we ask where you're headed Captain Shakes?" Asked Percy
 	* "Aye, I was about to fuckin' say anyway: there's a mid-sea depot about 100 miles from here. It's just over the line in the waters of a different Authority. Somewhat more permissive folks; bit more friendly to commerce. That's why the Authority on this side of the line are such a bunch of aggressive motherfuckin' assholes though --- they don't want shit running through here to there. If you can get this dumpster of yers to the depot, you can definitely get fuel there, and probably some fuckin' poorly executed and overpriced repairs as well."
@@ -180,8 +183,6 @@ Edits to pick up in second full pass through the book
 	* [X] Make sure it's clear that the ping is the sound of 'active' sonar. Describe the sound of the ping
 	* I believe the first real explanation of active is line chapt 4 line 642, where Hemi explains it to Cassandra (which is the _right_ place for it.)
 		* Not sure if I do it AGAIN later though. 
-* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
-	* At the depot, Hemi makes Percy re-hire Chips -- but she does so without apologizing
 * [X] long slow chase scene akin to O'Brian books. they run until the batteries run out and they have to surface. on the surface they are saved from being seen by a fog bank (so they are just as, if not more, blind above water as below) 
 	* It would be nice to make this the _first_ story because it has all the elements of The Enemy Below. It's archetypal for a submarine story, and at the same time can introduce all styles and characters you want to use.  
 	* pretty sure I HAVE this, confirm
@@ -247,11 +248,12 @@ Edits to pick up in second full pass through the book
 	* [X] Should it be moved to a different part of the book? (post-storm, pre-stilt city?)
 		* no, cut it
 * garbage gyre:
-	* [ ] Add a scene where the outside landscape is detected on sonar:
+	* [-] Add a scene where the outside landscape is detected on sonar:
 		* huge sunken wrecked vehicles
 		* maybe getting towards the gargbage gyre -- ships that have sunk
 		* like the dream I had
-	* [ ] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
+		* unfortunately, I think I have to leave this to radar as it already is in the book -- they need to be over the deep in the garbage gyre section for the end result.
+	* [X] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
 	* [ ] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
 		* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
 	* [ ] As the Grackle sinks, a voice comes over the ship-to-ship

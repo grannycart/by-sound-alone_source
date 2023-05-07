@@ -196,27 +196,23 @@ With no visibility on deck, and the sonar nearly useless over the volume of soun
 
 For the first few hours of the night they settled into the monotonous drudgery of cruising. Gregory was in his rack, Cassandra listened to heavy noise in the sonar headset, Percy stared into the darkness from the bridge, and Hemi and Bastian stared at the wall of unmoving dials in the control room.
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (2k words from last EDIT point)
-
-Toward midnight, Hemi climbed tiredly down to the sonar station, and tapped Cassandra on the shoulder. She did not even look up, knowing that this was Hemi's signal that it was time to turn on the radar unit. She leaned over and flipped the switch and the green light of the radar flashed across the scope and then swept slowly around showing nothing behind or to the sides, except for the lone blip of the _Gnat_ to starboard.
+Toward midnight, Hemi climbed tiredly down to the sonar station, and tapped Cassandra on the shoulder. She did not even look up, having been expecting Hemi's signal that it was time again to do a radar check. She leaned over and flipped the switch. The green light of the radar flashed across the scope, then swept slowly around showing nothing behind or to the sides, except for the lone blip of the _Gnat_ to starboard.
 
 But as the radar passed to the front of the _Prospect_ it laid down a sprinkling of green glowing dots, like fireflies above an evening field, that slowly faded away until the sweep came around a second time and lit them all up again. A few of the dots were only a mile or two ahead of the _Prospect_. Further away they increased in density to a number that could not be quickly counted.
 
-"Hemi, what's that? It looks like a fucking fleet!" Said Cassandra, her eyes going wide and reflecting the green glow of the radar display.
+"Hemi, what's that? It looks like a fleet!" said Cassandra, her eyes going wide and reflecting the green glow of the radar display.
 
-"Hmm. That is not alright. Bastian!" Hemi called up to the control room. "Throttle back to five knots... and shut down the diesels!"
+"Hmm. That is not alright. Bastian!" Hemi called to the control room. "Throttle back to five knots... and shut down the diesels!"
 
-A few seconds after, the sound of the diesels died away, Percy arrived in the sonar compartment having been directed there from above by Bastian. "What the fuck is going on Hemi?"
+The sound of the diesels faded. Percy arrived in the sonar compartment soon after, having been directed there from above by Bastian. "What the fuck is going on Hemi?"
 
 He pointed to the scope as he adjusted the second sonar headset on his head. "We are going to give that strange pile of radar contacts a listen."
 
 Percy flipped off the radar. "Let's not give away our position more than we already fuckin' have. What do you think, should we dive?"
 
-"I don't hear anything Captain Percy." Cassandra interrupted. "At least, not above Shakes' engine."
+"I don't hear anything Captain Percy," Cassandra interrupted. "at least, not above Shakes' engine."
 
-"For fuck's sake. Ping him." Percy ordered. "We need Shakes to shut down, and he might respond to a ping."
+"For fuck's sake. Ping him," Percy ordered. "We need Shakes to shut down, and he might respond to a ping."
 
 Hemi reached over Cassandra and pressed the ping button on the active sonar. A second later the unit lit up.
 
@@ -226,25 +222,25 @@ Hemi reached over Cassandra and pressed the ping button on the active sonar. A s
 
 In the sonar compartment they could hear Shakes' voice crackling questions over the ship-to-ship in the control room and Bastian responding to him.
 
-"I suggest we make our friend Shakes a resource." Hemi said.
+"I suggest we make use of our friend Shakes as a resource," Hemi said.
 
-"Send the reckless risk-taker to check it out? That's my kind of fuckin' plan Hemi." Percy climbed up to the control room and took over the conversation with Shakes from Bastian. She explained the situation to him and they came up with a plan where Shakes would move forward on battery and check out the radar contacts while the _Prospect_ submerged to periscope depth and followed behind, staying within ship-to-ship range of the _Gnat_.
+"Send the reckless risk-taker to check it out the scary unknown objects? That's my kind of fuckin' plan Hemi." Percy climbed up to the control room and took over the conversation with Shakes from Bastian. She explained the situation to him and together they came up with a plan where Shakes would move forward on battery and check out the radar contacts while the _Prospect_ submerged to periscope depth and followed behind, staying within ship-to-ship range of the _Gnat_.
 
-15 minutes later, the _Gnat_ was coming up on the first of the radar contacts. Percy watched the blackness where the _Gnat_ was located ahead of them through the periscope. Soon a beam of light shot out from the water, and in the reflection of it she could see Shakes' spiky head at the top of the sail of the _Gnat_. Shakes ran the light beam forward and back along a black wall that road up and down on the ocean swell ahead of him.
+Fifteen minutes later, the _Gnat_ was coming up on the first of the radar contacts. Percy watched the blackness where the _Gnat_ was located ahead of them through the periscope. Soon a beam of light shot out from the water, and in the reflection of it she could see Shakes' spiky head at the top of the sail of the _Gnat_. Shakes ran the light beam forward and back along a black wall that rode up and down on the ocean swell ahead of him.
 
-At this range Cassandra could hear the object on the sonar --- water slapping against a steel void with the random regularity of ocean chop --- Cassandra was convinced it was a ship. 
+At this range Cassandra was now able to hear the object on the sonar --- water slapping against a steel void with the random regularity of ocean chop --- Cassandra was convinced it was a ship. 
 
-It was only a few minutes later that Shakes confirmed her guess over radio. "Yeah _Prospect_, the object is a big empty cargo vessel. Rusting away and half sunk, it looks like. You think all those contacts are abandoned ships?"
+Only a few minutes later, Shakes confirmed her guess over radio. "Yeah _Prospect_, the object is a big empty cargo vessel. Rusting away and half sunk, it looks like. You think all those contacts are abandoned ships?"
 
 Percy looked away from the periscope viewfinder at Hemi, who was holding the ship-to-ship radio mic. "What do you think Hemi?"
 
-"It is possible. I have heard rumors of such things: abandoned ships and garbage float into some kind of slow gyre in the middle of the ocean, where they sometimes circle for decades before they weaken enough for the ocean to draw them down."
+"It is possible. I have heard rumors of such things: abandoned ships, among other refuse, float into some kind of slow gyre in the middle of the ocean, where they sometimes circle for decades before they weaken enough for the ocean to draw them down."
 
 "Like a fucking ship graveyard," said Bastian.
 
 [//]: # (Is the garbage gyre the Zone from Stalker? Abso-fucking-lutely! But is not everything the Zone?)
 
-"A walk among those lost souls might be an fucking opportunity for a pair of boats that don't want to be found," said Percy. "Hemi, see if you can work out a way with Shakes that we might traverse this graveyard safely."
+"A walk among those lost souls might be a fucking opportunity for a pair of boats that don't want to be found," said Percy. "Hemi, see if you can work out a way with Shakes that we might traverse this graveyard without physically encountering one of these ghosts."
 
 Hemi and Shakes chatted for a few minutes over the ship-to-ship. They decided that if they kept the speed of the boats low, they should be able to navigate through the sea of derelicts safely. 
 
@@ -252,29 +248,42 @@ The _Prospect_ surfaced and they pushed forward at three knots. The _Gnat_ took 
 
 [//]: # (Does the ship-to-ship work with the diesels running? Lets say yes, but a much more limited distance.)
 
-At first, Cassandra was able to steer them around the big pieces of flotsam using the sonar. Since the ocean was very quiet, she could hear the sound of the _Prospect's_ diesel engines bouncing off the bigger floating pieces. But soon they entered an area so densely packed with wrecked ship hulks that they needed to use the active sonar to chart their way precisely through it. They started pinging at regular intervals a few minutes apart, and Cassandra would report obstructions ahead --- both above and below the surface. Hemi noted her reports on a clipboard and worked out a safe route forward. 
+At first, Cassandra was able to steer them around the big pieces of flotsam using the sonar. Since the ocean was very quiet, she could hear the sound of the _Prospect's_ diesel engines bouncing off the bigger floating pieces. But soon they entered an area so densely packed with wrecked hulks that they needed to use the active sonar to chart their way precisely through it. They started pinging at regular intervals a few minutes apart, and Cassandra would report obstructions ahead --- both above and below the surface. Hemi noted her reports on a clipboard and worked out a safe route forward. 
 
-Captain Percy ran a power wire up to the bridge and connected a hand-held spot light. She swept a beam back and forth, scraping away at the heavy blackness in front of her boat. Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the 1000 meter deep ocean by clinging to the last desperate bubble of buoyancy they yet retained from when the ships were alive. Under Percy's light the vessels were typically a low, black, curved, and oily form, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull.
+[//]: # (The distinction between flotsam and jetsam applies here: flotsam is debris not deliberately throw overboard, like from a sinking ship, while jetsam is stuff thrown overboard on purpose.)
 
-As they made their way further, the debris in the water grew more abundant. The breeze they had been driving into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. In among the larger debris pieces of the derelict vessels were rafts of rotting wood from ship decking and furniture: rusting barrels, bits of foam covered in bright cloth, frayed lines, pale bleached buoys and bumpers, and pieces of masts and tools. Anything that might fall from a ship or get tossed into the ocean and did not immediately sink seemed to have made its way to this huge gyre of refuse. The larger pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
+Captain Percy ran a power wire up to the bridge and connected a hand-held spot light. She swept a beam back and forth, scraping away at the heavy blackness in front of her boat. Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the 1000-meter deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were alive. Under Percy's light the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull.
 
+As they made their way further, the debris in the water grew more abundant. The breeze they had been driving into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. In among the larger debris pieces of the derelict vessels were rafts of rotting wood from ship decking and furniture: rusting barrels, bits of foam covered in bright cloth, frayed lines, bleached-pale buoys and bumpers, and pieces of masts and tools. Anything that might fall from a ship or get tossed into the ocean and did not immediately sink seemed to have made its way to this huge gyre of garbage. The larger pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
 
-[//]: # (### Through the dense part of the garbage patch at night; then in the morning they dive, and Cassandra hears the pursuing sub)
+Gregory, in the lookout ring, suddenly turned to one side with a jerk. "Captain Percy, am I hallucinating? I think I saw movement up on one of those low-sunken ships off the port side."
 
-They spent the entire night slowly pinging their way through the densely polluted surface water. The _Gnat_ followed dutifully behind. Percy instinctively was feeling uncomfortable about the racket the two ships were making, especially since every ping told anyone within a 10, maybe even 20, mile radius precisely where they were. And of course even at a near-idle, the _Gnat's_ diesel --- which Shakes was now running again --- growled loudly with sympathetic vibrations reflected back from the abandoned ship hulls surrounding them. Captain Percy reassured herself that they were far off any routine shipping lanes, and most vessels would steer around this patch they had plunged right into. This patch that was more and more appearing to be quite a massive obstacle to make one's way across.
+Percy immediately switched off the light. She peered into the darkness in the direction Gregory indicated. For a moment it was a futile effort to see where there was no light for her eyes to receive. But then a bright blue light outlined the shadow of a hunched gaunt figure just off to one side of where she was staring. It took her a moment to realize that she recognized the light of a cutting torch. "Scavengers Gregory. Any source of scrap metal, no matter how will remote, will also have someone who knows how to transform it into fucking treasure. It's possible they live out here. Sometimes whole communities will develop around a resource like this."
+
+Percy turned the spot light back on but didn't shine it in the direction she saw the cutting torch, guessing that scavengers in a place like this would prefer to be left alone. A moment later the _Prospect_ was slowly motoring past a low barge half loaded with a mound of rusting steel.
+
+[//]: # (----- invisible character break)
+ 
+
+[//]: # (### Through the dense part of the garbage patch at night; then in the morning they dive, and Cassandra hears the Grackle)
+
+They spent the entire night slowly pinging their way through the densely polluted surface water with the _Gnat_ following dutifully behind. Percy instinctively was feeling uncomfortable about the racket the two ships were making, especially since every ping told anyone within a 10, maybe even 20, mile radius precisely where they were. And of course even at a near-idle, the _Gnat's_ diesel --- which Shakes was now running again --- growled loudly with sympathetic vibrations reflected back from the abandoned ship hulls surrounding them. Captain Percy reassured herself that they were far off any routine shipping lanes, and most vessels would steer around this patch they had plunged right into. This refuse patch that was more and more appearing to be quite a massive obstacle to make one's way across.
 
 The boats were still on the surface and Percy was still standing on the bridge of the _Prospect_ when the morning sun eased itself up over the eastern horizon. Its long red rays ignited the landscape of black hulks around them until it looked like boats were stirring the dead waters of an underworld lake of blood.
 
-As the sun crept upwards and its light filled out the entire spectrum, the lake of blood turned into a turbid and viscous black sea --- all the bunker fuels, engine lubricants, solvents and greases; all the specially developed chemical mixes that drove or eased the movements of the giant steel machines through the water --- all eventually escaped from the rotting containers that held them and contaminated the clean water of the middle ocean. The contaminants floated on the surface, coating and binding together the more physical refuse. The stuck-together grime coalesced and joined forces with larger pieces that floated to defy the power of the perpetually sucking bottomless hole underneath.
+As the sun crept upwards and its light filled out the entire spectrum, the lake of blood turned into a turbid and viscous black sea --- all the bunker fuels, engine lubricants, solvents and greases; all the specially developed chemical mixes that drove or eased the movements of the giant steel machines through the water --- all eventually escaped from the rotting containers that held them and contaminated the pure sea water of the middle ocean. The contaminants floated on the surface, coating and binding together the more physical refuse. The stuck-together grime coalesced and joined forces with larger pieces that floated in defiance of the power of the perpetually sucking bottomless hole underneath.
 
-By the full light of day Percy felt far too exposed. She waved down Shakes until he stopped the _Gnat's_ engine and Hemi could contact him via radio to tell him to bring the _Gnat_ underneath and mate with the _Prospect_. This was fine with Shakes who had not slept the entire night, and looked forward to taking a rest aboard the much larger and relatively luxurious submarine.
+By the full light of day, Percy felt far too exposed. She waved down Shakes until he stopped the _Gnat's_ engine and Hemi could contact him via radio to tell him to bring the _Gnat_ underneath and mate with the _Prospect_. This was fine with Shakes who had not slept the entire night, and looked forward to taking a rest aboard the relatively luxurious larger submarine.
 
 With the _Gnat_ attached, Percy had the _Prospect's_ diesels shut down, and they submerged to 20 meters. It was much quieter underwater with no noise but the gentle hum of the electric motors. But they continued to send out a ping every ten minutes or so with the active sonar to avoid the submerged wrecks, which occasionally hung bow- or stern-down hundreds of meters into the water.
+
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (2k words from last EDIT point)
 
 Between the active pings, Cassandra could now see a picture in her mind of the complex seascape around her. The sound of the _Prospect's_ motors refracted out and away around her, and came bouncing back from the heavy surface and reflected off larger pieces that bobbed around them. She spent the first few hours of the morning scanning around herself in circles with the sonar and flipping filters on and off. She was continually fascinated by the images of the underwater landscape that were drawn in her mind by the sounds the sonar put into her ears.
 
 When she felt like she had found a good combination of filters for giving her the clearest view of the water around them while taking out the source sound of the _Prospect's_ motors, she did a slow sweep in every direction, scribbling notes on a pad as she went. Towards the rear port side she thought she could hear something oddly mechanical, making its way from far off through the dense medium of the contaminated surface water. She adjusted her filters and tried to pin it down, but it eluded her. It may have been the distant thrum of a motor, but it also could just be pieces of garbage grinding against each other. The sea was so full of signals and reflections that it was impossible to be sure what was real and what was just a acoustic mirage.
-
 
 [//]: # (### moving through the garbage patch the next day, confirmation that the sub with the ram is following them again)
 
