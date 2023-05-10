@@ -307,65 +307,66 @@ Hemi nodded as he patted Cassandra's shoulder again. "Sylvia!" He bellowed upwar
 
 Percy squatted on her haunches, her face a meter above Hemi's. "What the fuck is it this time?"
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (2k words from last EDIT point)
-
 "The _Grackle_... it is back again."
 
-"Sweet motherfucking fuck! How fucking far away are they?
+"Sweet motherfucking fuck! Why? Why are they still fucking after us? We. Have. No. Cargo." She breathed for a few seconds. "How far away are they?"
 
-"The contact is faint and far off. That is why Cassandra did not hear them before." His eye caught Cassandra's grateful face. "They are far enough away that the active ping is not returning a distance to them --- or at least the active unit can not sort it out from all the other refuse in the water."
+"The contact is faint and distant. That is why Cassandra did not hear them before." His eye caught Cassandra's grateful face. "They are far enough away that the active ping is not returning a distance to them --- or at least the active unit can not sort it out from all the other objects in the water."
 
-"But the pinging we've been doing has probably been leading them along through this garbage patch I fuckin'  mistakenly believed would provide us cover --- like fucking breadcrumbs through some fucking black forest. I know I've said it before, but I can't fucking _believe_ that fucking _ugly_ fucking boat is _still_ after us!"
+"But the pinging we've been doing has probably been leading them along through this garbage patch I fuckin'  mistakenly believed would provide us cover --- like fucking breadcrumbs through some fucking black forest. I know I've said it before, but I can't fucking _believe_ that _ugly_ fucking boat is _still_ after us!"
 
-"_Round Good Hope, and round the Horn, and round perdition's flames..._" Hemi said quietly to himself.
+
+"_Round Good Hope, and round the Horn, and round perdition's flames_..." Hemi said quietly to himself.
 
 But Percy heard him quite clearly. "Oh, so the _Prospect_ is the fucking white whale now?"
 
-He looked up at her. "You must admit, there is almost a kind of classic literary insanity to his actions."
+He looked up at her. "You must admit, there is almost a kind of classic literary insanity to their actions."
 
-"You stifle that fucking tendency of yours toward layered meanings expressed through overwritten symbolism right now Hemi. The Ocean is plenty fucking dramatic enough without having to spread some kind of pretentious icing of bullshit modern literary sludge on top of it. ...Alright, are they gaining on us? How long before we have to start worrying about them putting a torpedo in the water?"
+"You stifle that fucking tendency of yours toward layered meanings of overwritten symbolism right now Hemi. Whenever you do that, it gives me the same crawling-nauseated feeling as sticking my hand in a toilet bowl full of unflushed shit. The Ocean is plenty fucking dramatic enough without having to spread some kind of pretentious icing of bullshit modern literary sludge on top of it... Alright? Now, are they gaining on us? How long before we have to start worrying about them putting a torpedo in the water?"
 
 "No way to tell just yet. They likely have the same difficulty as us --- moving fast through the surface garbage puts them at risk of hitting something."
 
-"On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through all this heavy shit. With that in mind --- we run like the fearful fucking bitch-offspring we are. We remain submerged! Bastian, seven knots. Fuck! No, wait. Gregory --- first go find fucking Shakes and get that leaching boat of his detached from my _Prospect_."
+"On the other hand, they have a giant fucking ram mounted to the front of their fucking ugly-ass sub. Perhaps they have no fucking fear at all of plowing through any heavy obstacle before them. With that in mind: we run like the fearful little mammalian prey we are. We remain submerged! Bastian, seven knots. Fuck! No, wait. Gregory --- first go find fucking Shakes and get that leeching boat of his detached from my _Prospect_."
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They are pursued through the night)
 
-20 minutes later there was a clunk from the depths of the _Prospect_ as the _Gnat_ detached. Bastian eased the throttle forward slightly and the _Prospect_ responded with an increased hum. The difference in speed was not significant, and most of the crew did not detect their increased velocity through the water. 
+Twenty minutes later there was a clunk from the depths of the _Prospect_ as the _Gnat_ detached. Bastian eased the throttle forward slightly and the _Prospect_ responded with an increased pitch. The difference in speed was not significant, and most of the crew did not detect their increased velocity through the water. 
 
-But Percy could. To her it felt like her boat was now tearing through the deep, and the terror of what may be hanging down from the surface directly in the path of her boat made her break out in a cold sweat that did not evaporate in the damp cool air of the control room.
+But Percy could. To her it felt like her boat was now tearing through the deep, and the terror of what may be hanging down from the surface directly in her path made her break out in a cold sweat that did not evaporate in the cool, damp air of the control room.
 
-For the first half of the night, they kept up the active pings. Percy traded the assurance of a clear path for the fear that each ping almost certainly allowed the sub with the ram to continue to track them. 
+For the first half of the night, they kept up the active pings. Percy traded the assurance of a clear path for the fear that each ping almost certainly allowed the _Grackle_ to continue to track them. 
 
-As the night wore on though, Hemi and Cassandra's careful measurements of the strength of the sub with the ram's sonar signal suggested the _Prospect_ was not going to sneak away while the pinging was going on. In fact, it seemed they might be losing ground.
+As the night wore on though, Hemi and Cassandra's careful measurements of the strength of the _Grackle's_ sonar signal suggested the _Prospect_ was not going to gain any distance on their pursuers while the pinging was continued. In fact, it seemed they might be losing ground.
 
-The hours droned by with unvarying regularity. Hemi and Cassandra felt their minds softening with the persistence of the white noise in their headsets. While Percy desperately needed her crew, she also could not have them making bad decisions from lack of sleep. So after midnight she insisted that Hemi and Bastian hit the rack, with Cassandra and Gregory scheduled for a few hours rack time later in the night. She had no intention of sleeping herself.
+The hours droned by with unchanging regularity. Hemi and Cassandra felt their minds softening with the persistence of the noise in their headsets. While Percy desperately needed every member of her crew, she also could not have them making bad decisions from lack of sleep. So after midnight she insisted that Hemi and Bastian hit the rack, with Cassandra and Gregory scheduled for a few hours in their bunks later in the night. She had no intention of sleeping herself.
 
-When Percy inspected the page on the clipboard next to Cassandra's sonar unit she found it was rapidly filling up with notations describing the objects the active sonar was reflecting back, and the signal strength of the sub with the ram. Percy willed the _Prospect_ on, trying desperately to get the numbers to add up to some more distance between herself and that dogged signal out there in the water. But the numbers eased ever closer together, and she knew it was only a matter of time before the sub with the ram would be in torpedo range. That sub's commander must have known it too, because he did not increase speed, preferring to slowly reel his target in with minimal risk to him own boat. Given how quickly he had jumped to taking risks to gain an upper hand on the _Prospect_ in the past, the patience the sub with the ram's commander was currently showing telegraphed to Percy an unnerving amount of confidence he had in the coming demise of her boat.
+When Percy inspected the page on the clipboard next to Cassandra's sonar unit, she found it was rapidly filling up with notations describing the objects the active sonar was reflecting back, and the signal strength of the submarine following behind. Percy willed the _Prospect_ on, trying desperately to get the Cassandra's numbers to add up to some more distance between herself and that dogged signal out there in the water. But the numbers eased ever closer together, and she knew it was only a matter of time before the _Grackle_ would be within torpedo range. That sub's commander must have known it too, because he did not increase speed, preferring to slowly reel his target in with minimal risk to his own boat. Given how quickly he had jumped to taking risks to gain an upper hand on the _Prospect_ in the past, the patience the _Grackle's_ commander was currently showing telegraphed to Percy an unnerving amount of confidence he had in the coming demise of her boat.
 
-When Captain Percy came down to the sonar compartment in the middle of the night to check on the contacts, Cassandra showed her that the list of signal strengths had steadily increased with the closing of their pursuers. Percy broke out in another cold sweat --- this time from the fear of the torpedo that she now realized could be released at any second. The sub with the ram was now rendering clearly on the active sonar readouts --- it had crept within ten nautical miles.
+In the middle of the night, Captain Percy came down to the sonar compartment to check on the numbers once again. Cassandra showed her that the list of signal strengths had steadily increased with the closing of their pursuers. Percy broke out in another cold sweat --- this time from the fear of the torpedo that she now realized could be released at any second. The _Grackle_ was now rendering clearly on the active sonar readouts --- it had crept within ten nautical miles.
 
-Almost regretting it as she said it, Percy asked Cassandra to lay off the active pings and use only passive sonar to track objects in the water. It would be challenging given the density of objects in the fouled water they were moving through, but at seven knots the _Prospect_ was putting out just enough noise that a good sonar operator should be able to see clearly the surrounding seascape for miles in every direction. Hemi's faith in Cassandra's natural skills was rubbing off on Percy.
+Almost regretting it as she said it, Percy asked Cassandra to lay off the active pings and use only passive sonar to track objects in the water. It would be challenging given the density of objects fouling the space they were moving through, but at seven knots the _Prospect_ was putting out just enough noise that a good sonar operator should be able to see clearly the surrounding seascape for miles in every direction. Hemi's faith in Cassandra's natural skills was rubbing off on Percy.
 
-With the active sonar off, Cassandra soon reported that the sub with the ram had slowed and was losing some distance. Captain Percy knew exactly what the cause of that was --- they had to run slowly and more silently to hear the _Prospect's_ engine noise now. Discontinuing the active sonar pings felt like the right move to Percy.
+With the active sonar off, Cassandra soon reported that the _Grackle_ had slowed and was losing some distance. Captain Percy knew exactly what the cause of that was --- they had to run slowly and more silently to hear the _Prospect's_ engine noise now.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### They hit an obstruction in the water)
 
-For the next two hours Cassandra blearily focused on listening to the sonar contacts and shouting potential hazards she heard in the water up to the control room. Gregory and Percy were required to constantly make adjustments to their course to avoid one large object or another that rang out in Cassandra's earpieces. But she could not hear the smaller objects, and every so often one would bump threateningly against the hull, loud enough for them all to hear it regardless of which part of the ship had been struck. Every time this happened Percy shouted a string of curses down to Cassandra, and every time it happened the oaths were fiercer and lasted longer.
+For the next two hours Cassandra blearily focused on listening to the sonar contacts while shouting potential hazards she heard in the water up to the control room. Gregory and Percy were required to constantly make adjustments to their course to avoid one large object or another that rang out in Cassandra's earpieces. But she could not hear the smaller objects, and every so often one would bump threateningly against the hull, loud enough for them all to hear it regardless of which part of the ship had been struck. Every time this happened Percy shouted a string of curses down to Cassandra, and every time it happened the oaths were fiercer and lasted longer.
 
-By the time Hemi arrived back in the sonar compartment from his rack, Cassandra was clearly frayed. He consulted with her briefly to get caught up. He realized he would need to relieve Cassandra and let her get some rest. But first he wanted to check in with Percy, so he climbed up to the control room. 
+By the time Hemi arrived back in the sonar compartment from his rack, Cassandra was clearly frayed. He consulted with her briefly to get caught up. He realized he would need to relieve Cassandra and let her get some rest. But first he wanted to check in with Percy, so he climbed to the control room. 
 
-While he was on the ladder, the crunching sound of an impact --- a recapitulation of the sound they all heard the first time the sub had rammed them --- shook the _Prospect_ bow to stern.
+While he was on the ladder, the crunching sound of an impact --- a recapitulation of the sound they all heard the first time the _Grackle_ had rammed them --- shook the _Prospect_ bow to stern.
 
-"Gregory! Reduce speed to two knots!" Percy shouted almost instinctively. As the boat slowed, Percy's next thought was that they had in fact been rammed again --- that Cassandra had not heard the sub with the ram charging at them. "Cassandra you little shit! You let them hit us!"
+"Gregory! Reduce speed to two knots!" Percy shouted almost instinctively. As the boat slowed, Percy's next thought was that they had in fact been rammed again --- that Cassandra had not heard the _Grackle_ charging at them. "Cassandra you little shit! You let them hit us!"
 
 "No Captain Percy!" Cassandra wailed with the deep-grained panic of someone who knows they had made a mistake, "it definitely wasn't them! They're still miles and miles off."
 
-Percy looked down at Hemi, who still clung to the ladder, his huge stone form held by tense-hard muscles. "Hemi, you get that little fucking whore off my sonar immediately and tell me what the fuck is going on with my boat!" 
+Percy looked down at Hemi, who still clung to the ladder, his huge stone form held by hard, tensed muscles. "Hemi, you get that little fucking whore off my sonar immediately and tell me what the fuck is going on with my boat!" 
 
 Hemi slowly lowered himself to the deck of the sonar compartment, and nodded to Cassandra. She stood, wobbly on her feet, and handed him the sonar headset. Hemi looked towards the hatch that led to the crew quarters and Cassandra followed his eyes, first with her own eyes and then her whole body. She disappeared silently below decks.
 
@@ -373,7 +374,7 @@ Hemi put the sonar headset on and listened closely for a minute. "It was just a 
 
 "She still fucked us Hemi. A competent operator would have fucking heard that derelict coming on."
 
-"She was just tired Sylvia. She had been at the sonar station for nearly 20 hours. You or I could have made the same mistake in that condition."
+"She was just tired Sylvia. She had been at the sonar station for nearly twenty hours. You or I could have made the same mistake in that condition."
 
 "I can't use her in critical fucking situations, Hemi. It's too fucking risky."
 
@@ -381,19 +382,23 @@ Hemi did not reply.
 
 Bastian was climbing up through the hatch into the sonar compartment when Gregory reported to Percy that the _Prospect_ was losing buoyancy in the bow again. Percy had already known it through the feeling of the angle of the deck against her feet, but the thought had yet to register itself in the conscious part of her mind.
 
-Percy looked down and saw Bastian standing at the foot of the ladder up to the control room. "Bastian, get up here. Gregory, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up again with that last little tussle."
+Percy looked down and saw Bastian standing at the foot of the ladder to the control room. "Bastian, get up here. Gregory, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up yet fucking again with that last little boneshaker."
 
-A few minutes later Gregory's voice came crackling over the PA radio in the control room. "Fuck Captain Percy, you're right. Those welds are failing. There's already about a fucking foot of water in the bilge."
+A few minutes later Gregory's voice came crackling over the PA speaker above Percy's head in the control room. "Fuck Captain Percy, you're right. Those welds are failing. There's already about a foot of fucking water in the bilge."
 
-"Fuck me!" Said Percy. She leaned over the trim control panel and flipped on the forward bilge pumps and slid the power controllers up to maximum. As the bilges ramped up, the higher-pitched hum of their small but powerful electric motors passed through the hull and lay down on top of the bass hum of the main drive motors. Bastian looked up at Percy with a doubtful look, but didn't express his doubt verbally.
+"Fuck me again!" said Percy. She leaned over the trim control panel and flipped on the forward bilge pumps and slid the power controllers up to maximum. As the bilges ramped up, the higher-pitched hum of their small but powerful electric motors passed through the hull and lay down on top of the bass hum of the main drive motors. Bastian looked up at Percy with a doubtful look, but didn't express his doubt verbally.
 
-"Sylvia," Hemi's voice floated up from below, "whatever hope we have of the sub with the ram not tracking us is gone if you are going to run the bilge pumps."
+"Sylvia," Hemi's voice floated up from below, "whatever hope we have of the _Grackle_ not tracking us is gone if you are going to run the bilge pumps at max like that."
 
 "Well, we're not going to fuck around with sinking again Hemi. I've had too many fucking close calls with getting sucked down the hole recently. We'll just have to figure out some other fucking tactic."
 
-For the next few hours Hemi carefully tracked the pursuing sub on sonar. He grew ever more sure that they were back on the _Prospect's_ track and were gaining ground once again. Percy nervously watched the battery gauges as the needles dipped slowly down into the areas marked with red cross-hatching. The relatively fast speed they had kept up now combined with the added draw of the bilge pumps to leave them with terrifyingly little battery power.
+For the next few hours Hemi carefully tracked the pursuing sub on sonar. He grew ever more sure that the _Grackle_ was back on the _Prospect's_ track and was gaining ground once again. Percy nervously watched the battery gauges as the needles dipped slowly down into the areas marked with red cross-hatching. The relatively fast speed they had kept up now combined with the added draw of the bilge pumps to leave them with terrifyingly little battery power.
 
 Captain Percy had run out of ideas though. She just let the _Prospect_ run, leaning her weight from an overhead strap while she smoked. Hemi continued directing Bastian to make occasional adjustments to steer clear of dangerous objects in the water.
+
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (2k words from last EDIT point)
 
 It was just starting to seem to Percy that perhaps there were fewer calls up from Hemi for course adjustments when the needles on the battery gauges suddenly dipped down into the solid red zone and then fell onto their zero needles, flat and lifeless. The sound of the electric drive motors died away with them. And just a second after that the higher pitched whine of the forward bilge pumps died away too.
 

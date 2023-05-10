@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-07 12:26
+Last modified: 2023-05-09 21:59
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -254,7 +254,7 @@ Edits to pick up in second full pass through the book
 		* like the dream I had
 		* unfortunately, I think I have to leave this to radar as it already is in the book -- they need to be over the deep in the garbage gyre section for the end result.
 	* [X] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
-	* [ ] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
+	* [X] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
 		* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
 	* [ ] As the Grackle sinks, a voice comes over the ship-to-ship
 		* "Sylvia... you left me up there to die."
