@@ -18,6 +18,8 @@
 
 [//]: # (### Rendezvous with Shakes)
 
+[//]: # (--- REVIEWED TO HERE ---)
+
 With darkness, Hemi was able to take a sighting from a star, and he calculated they had made about 20 nautical miles from the point where they began their dive below 300 meters. Percy felt that was enough of a cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. The diesels were soon roaring below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels and there was no sign of the sub with the ram.
@@ -396,10 +398,6 @@ For the next few hours Hemi carefully tracked the pursuing sub on sonar. He grew
 
 Captain Percy had run out of ideas though. She just let the _Prospect_ run, leaning her weight from an overhead strap while she smoked. Hemi continued directing Bastian to make occasional adjustments to steer clear of dangerous objects in the water.
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (2k words from last EDIT point)
-
 It was just starting to seem to Percy that perhaps there were fewer calls coming up from Hemi for course adjustments when the needles on the battery gauges suddenly dipped down into the solid red zone and then fell onto their zero needles, flat and lifeless. The sound of the electric drive motors died away with them. And just a second after that the higher pitched whine of the forward bilge pumps died away too.
 
 The _Prospect_ sat dead in the water.
@@ -464,15 +462,15 @@ She pulled on her cheroot and stared blankly for a minute.
 
 "Go wake up Gregory and sic him on welding the fuckin' seam back together again. We'll risk taking on water until he gets the leaking slowed. Are we still in touch with Shakes?"
 
-"He checked in over the ship-to-ship maybe ten minutes ago. He should still be in range." Hemi said as he was climbing down the ladder.
+"He checked in over the ship-to-ship maybe ten minutes ago. He should still be in range," Hemi said as he was climbing down the ladder.
 
-Percy pulled down the ship-to-ship mic. "Captain Shakes, are you still out there?"
+Percy pulled the ship-to-ship mic to her, stretching the tangles out of the cord. "Captain Shakes, are you still out there?"
 
-"Captain Percy," Shakes voice came crackling back, "Nice to hear from you. I heard that fuckin' explosion and I thought for a second you were on your way down the hole."
+"Captain Percy," Shakes voice came crackling back, "nice to hear from you. I heard that fuckin' explosion and I thought for a second you were on your way down the hole."
 
 "They put a fuckin' torpedo in the water, but all they got was one of the derelicts. Listen, we're going to make like a derelict ourselves and shut everything down over here. I need you to try to confuse the situation, or they'll just fucking come right to the point where they last heard us. Make some noise, would ya?"
 
-"That's what I fucking do best these days," said Shakes. "I'll totally throw some fucking chaos and confusion into the situation. Right?"
+"That's what I do fucking best these days," said Shakes. "I'll totally throw some fucking chaos and confusion into the water. Right?"
 
 "Fuck right. Out."
 
@@ -480,21 +478,23 @@ A minute later the _Gnat's_ engine started. Percy could hear it without aid thro
 
 Hemi returned and reported that he successfully got a stumbling and groggy Gregory headed down to the cargo hold to seek out the welding gear. Percy put Hemi on sonar with a mandate to give detailed reports on the _Grackle's_ location --- as soon as the _Gnat_ had moved far enough off to be able to hear anything.
 
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### The Prospect hangs out silently on the surface while the sub with the ram searches)
 
-Percy spent the next few hours in the control room sitting in the dive planes control chair and smoking one cheroot lit off another as the cargo hold once again took in sea water and the bow of her boat slipped slowly further down into the water.
+Percy spent the next few hours in the control room sitting in the dive planes control chair and smoking one cheroot lit off another as sea water once again seeped into the cargo hold, and the bow of her boat slipped slowly further down into the water.
 
-Hemi would call up a report from sonar every ten minutes or so. The first hour passed quickly with Hemi's reports describing their pursuer's continued movement towards them. But Shakes' slow, noisy run off to the southeast seemed to have worked, and the sub with the ram adjusted its course to follow him. They were moving steadily away from the _Prospect's_ location.
+Hemi would call up a report from sonar every ten minutes or so. The first hour passed quickly, with Hemi's reports describing their pursuer's continued plodding movements towards the _Prospect's_ location. But Shakes' slow, noisy run off to the southeast eventually seemed to work, and the _Grackle_ adjusted its course to follow. The _Grackel_ began moving steadily away from the _Prospect's_.
 
-At least at first. But in another hour, Hemi's reports made it clear that their pursuers were now familiar with the tactic of using the _Gnat_ to draw them off. The sub with the ram gave up the chase to the southeast and started to move in large slowly-searching circles. They returned to using active sonar. The pings once again loudly echoing through the hull of the _Prospect_ every ten minutes or so, penetrating through the consciousness of every crew member.
+At least at first. But in another hour, Hemi's reports made it clear that their pursuers were now familiar with the tactic of using the _Gnat_ to draw them off. The _Grackle_ gave up the chase to the southeast and started to move in large slowly-searching circles. They returned to using active sonar. The pings once again unnervingly echoing through the hull of the _Prospect_ every ten minutes or so.
 
-By the third hour, the fear of being found started to convert into a somewhat safer feeling that came with the monotony. It was clear that the active sonar pinging was not helping the pursuing sub sort through the mass of contacts that echoed back to find the _Prospect_. The sub with the ram gave no signal that it would leave off its diligent search, but Percy began to feel more and more confident that unless they were spotted visually, the _Prospect_ could continue to play the part of the proverbial needle while the sub with the ram dug through the haystack.
+By the third hour, the fear of being found started to convert into the somewhat safer feeling that came with the monotony. It was clear that the active sonar pinging was not helping the _Grackle_ sort through the mass of contacts that echoed back to find the _Prospect_. The _Grackle_ gave no sign that it would leave off its diligent search, but Percy began to feel more and more confident that unless they were spotted visually, the _Prospect_ could continue to play the part of the proverbial needle while the _Grackle_ dug through the haystack.
 
-After hours alone in the empty cargo hold standing in reeking bilge water, Gregory finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the substantial part of the leaking. She reached over and patted his head, and then wiped her palm on her pants. By now the bow of the _Prospect_ leaned down about five degrees. She opened a couple of valves on the trim tank control panel and let water flow into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was another derelict.
+After hours alone in the empty cargo hold standing in reeking bilge water, Gregory finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the most substantial part of the leaking. She reached over and patted his head, and then wiped her palm on her pants. By now the bow of the _Prospect_ leaned down about five degrees. She opened a couple of valves on the trim tank control panel and let water flow into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was nothing but another derelict.
 
-[//]: # (5 degree slope on a 300 meter ship puts the bow... how far under water? Is five degrees dramatic enough here?)
+[//]: # (5 degree slope on a 100 meter ship puts the bow... 6 meters under water, I believe. Good thing the sail on the Prospect is located well back on the deck.)
 
-Long hours of this stagnant situation turned into even longer hours. While Captain Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping this was the reason so much cargo now crawled across the face of the globe underwater. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the sub with the ram would intuit the same conclusion.
+Long hours of this stagnant situation turned into even longer hours. While Captain Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping this was the reason so much cargo now crawled across the face of the globe underwater. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the _Grackle_ would intuit the same conclusion.
 
 
