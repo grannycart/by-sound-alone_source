@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-09 21:59
+Last modified: 2023-05-13 12:14
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -143,24 +143,11 @@ Edits to pick up in second full pass through the book
 ## Specific scene edits
 :scene:
 * [X] Somewhere make at least one direct reference to the "under dark"
-* [ ] In the engine room, or the control room: add something about the shine on the levers and wheels from the grip of hands.
-	* Maybe on the control wheels for the dive planes?
-* [ ] Need to include a description of Percy somewhere early in the book
-	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
-* [ ] Subtly reinforce Percy's beauty in more places?
-	* Right now I think she reads more like the elder captain she will be in later stories
-	* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
-	* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
-	* Also, see note on Cassandra -- there are no pretty people in this world.
 * [X] make sure you make it clear early on that Hemi is the 'Deck Boss'
 * [X] make sure there's a scene where Percy understands something is wrong with her boat just by feeling it. (Like the DC captains knowing there's a leak just by the pitch of the roll)
 	* This happens right at the beginning with the first ramming.
 	* And again when she first notices the boat sinking with the leak in the cargo hold
-* [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
-* [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
-* [ ] And the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
-* [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
-* [ ] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
+* [X] When Hemi convinces Chips to work again (around line 1084) he says Percy never apologizes --- make sure this is true throughout the book
 	* At the depot, Hemi makes Percy re-hire Chips -- but she does so without apologizing
 * [X] dumped Shakes description of depot, might need to go back in:
 	* "Mind if we ask where you're headed Captain Shakes?" Asked Percy
@@ -273,8 +260,6 @@ Edits to pick up in second full pass through the book
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
 	* I like that this will play in later when they decide what to do when they find out that Owen slept with the ramming sub's captain's wife.
 	* though maybe this human relations element is covered by the fight with Chips
-* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
-	* I don't think this will make it into the first book or short story
 * [X] give chapters headers (but remove numbers, those are not doing anything -- but keep the number on the md file name so the order is easy t follow):
 	1. Tablemount
 	2. The _Gnat_
@@ -456,6 +441,48 @@ Edits to pick up in second full pass through the book
 * [ ] check --- emdashes are actually correct in all format. Also check ligatures for quotes. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33
 
 
+## Leftover ideas, add for "director's cut"?
+* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
+	* I don't think this will make it into the first book or short story
+* [ ] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
+* [ ] Have Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
+	* Chips is gone before Shakes arrives -- nowhere to do this.
+	* [ ] Check what shakes says about this: pretty sure he mentions the pigeon hatch when he first meets back up with them after the Depot
+	* might just be that the pigeon hatch remains an idea for this book.
+* [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
+	* [ ] add something about Cassandra listening to music? 
+* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
+* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
+	* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
+* [ ] Maybe have Bastian decorating his quarters with plants?
+	* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
+	* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
+	* [ ] Ask A what plants could actually grow on a sub
+	* pot? See note on motivating Shakes
+* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
+	* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
+* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+	* Maybe with shakes over ship-to-ship, just to keep it interesting
+	* Maybe Shakes wonders if it's moral to run weapons
+	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
+	* Though that rebel group might be the oppressors in 6 months
+	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
+	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
+* [ ] In the engine room, or the control room: add something about the shine on the levers and wheels from the grip of hands.
+	* Maybe on the control wheels for the dive planes?
+* [ ] Need to include a description of Percy somewhere early in the book
+	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
+* [ ] Subtly reinforce Percy's beauty in more places?
+	* Right now I think she reads more like the elder captain she will be in later stories
+	* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
+	* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
+	* Also, see note on Cassandra -- there are no pretty people in this world.
+* [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
+* [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
+* [ ] And the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
+* [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
+
+
 ## Post "Director's Cut" things to remove
 * [ ]  finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
 	* keep track of pages to be cut as you edit
@@ -481,32 +508,6 @@ Edits to pick up in second full pass through the book
 		* [ ] the bike race is in the beginning of chapter 7. clearly demarcated by notes, it could be easily sliced out
 			* [ ] though I think this has to go along with combining chapter 7 and 8. (maybe 8 gets a coda instead, and there's only 7 chapters + coda/epilogue)
 	* [ ] the cookout
-* leftover ideas, add for director's cut?
-	* [ ] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
-	* [ ] Have Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
-		* Chips is gone before Shakes arrives -- nowhere to do this.
-		* [ ] Check what shakes says about this: pretty sure he mentions the pigeon hatch when he first meets back up with them after the Depot
-		* might just be that the pigeon hatch remains an idea for this book.
-	* [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
-		* [ ] add something about Cassandra listening to music? 
-	* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
-	* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
-		* [ ] A scene where he is reading The Recognitions (describe cover, not name title.)
-	* [ ] Maybe have Bastian decorating his quarters with plants?
-		* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
-		* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
-		* [ ] Ask A what plants could actually grow on a sub
-		* pot? See note on motivating Shakes
-	* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
-		* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
-	* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
-		* Maybe with shakes over ship-to-ship, just to keep it interesting
-		* Maybe Shakes wonders if it's moral to run weapons
-		* But Percy points out that they might be supplying a rebel group fighting for their freedoms
-		* Though that rebel group might be the oppressors in 6 months
-		* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
-		* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-
 
 
 
