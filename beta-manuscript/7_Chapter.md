@@ -371,8 +371,6 @@ As the boat slowed, Percy's next thought was that they had in fact been rammed a
 
 Percy looked down at Hemi, who still clung to the ladder, his huge stony form held by hard, tensed muscles. "Hemi, you get that little fucking whore off my sonar immediately and tell me what the fuck is going on with my boat!" 
 
-[//]: # (--- REVIEWED TO HERE ---)
-
 Hemi slowly lowered himself to the deck of the sonar compartment, and nodded to Cassandra. She stood, wobbly on her feet, and handed him the sonar headset. Hemi looked towards the hatch that led to the crew quarters and Cassandra followed his eyes, first with her own eyes and then her whole body. She disappeared silently below decks.
 
 Hemi put the sonar headset on and listened closely for a minute. "It was just a derelict... Cassandra was right, the pursuing sub is still close to ten miles behind us."
@@ -385,17 +383,17 @@ Hemi put the sonar headset on and listened closely for a minute. "It was just a 
 
 Hemi did not reply.
 
-Bastian was climbing up through the hatch into the sonar compartment when Gregory reported to Percy that the _Prospect_ was losing buoyancy in the bow again. Percy had already known it through the feeling of the angle of the deck against her feet, but the thought had yet to register itself in the conscious part of her mind.
+Bastian was coming through the hatch into the sonar compartment when Gregory reported to Percy that the _Prospect_ was losing buoyancy in the bow again. Subconsciously, Percy had already known it through the shift in the angle of the deck under her boots, but the thought had yet to register itself in the conscious part of her mind.
 
-Percy looked down and saw Bastian standing at the foot of the ladder to the control room. "Bastian, get up here. Gregory, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up yet fucking again with that last little boneshaker."
+Percy looked down and saw Bastian standing at the foot of the ladder to the control room. "Bastian, get up here. Gregory, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up yet again with that last little boneshaker."
 
 A few minutes later Gregory's voice came crackling over the PA speaker above Percy's head in the control room. "Fuck Captain Percy, you're right. Those welds are failing. There's already about a foot of fucking water in the bilge."
 
 "Fuck me again!" said Percy. She leaned over the trim control panel and flipped on the forward bilge pumps and slid the power controllers up to maximum. As the bilges ramped up, the higher-pitched hum of their small but powerful electric motors passed through the hull and lay down on top of the bass hum of the main drive motors. Bastian looked up at Percy with a doubtful look, but didn't express his doubt verbally.
 
-"Sylvia," Hemi's voice floated up from below, "whatever hope we have of the _Grackle_ not tracking us is gone if you are going to run the bilge pumps at max like that."
+"Sylvia," Hemi's voice floated up from below, "whatever hope we have of the _Grackle_ not tracking us is removed if you run the bilge pumps at max like that."
 
-"Well, we're not going to fuck around with sinking again Hemi. I've had too many fucking close calls with getting sucked down the hole recently. We'll just have to figure out some other fucking tactic."
+"Well, we're not going to fuck around with sinking again Hemi. I've had too many close calls with getting sucked down the hole recently. We'll just have to figure out some other fucking tactic."
 
 For the next few hours Hemi carefully tracked the pursuing sub on sonar. He grew ever more sure that the _Grackle_ was back on the _Prospect's_ track and was gaining ground once again. Percy nervously watched the battery gauges as the needles dipped slowly down into the areas marked with red cross-hatching. The relatively fast speed they had kept up now combined with the added draw of the bilge pumps to leave them with terrifyingly little battery power.
 
@@ -411,13 +409,13 @@ Bastian tapped the battery gauge, a smoking cigarette propped between two long f
 
 Hemi removed the sonar headset and stood at the foot of the ladder to the control room. "What do you want to do now?"
 
-"I'm fucking asking you: what the fuck can we do? All we've got is hotel power! ...And We're going to fucking sink if we don't have power to run those forward bilges. Give me options!"
+"I'm fucking asking you: what the fuck can we do? All we've got is hotel power! ...And we're going to fucking sink if we don't find some power to run those forward bilges real soon. Give me options!"
 
-"You could flip over the main power to draw from the emergency hotel batteries --- but with the bilge motors running, they'll deplete those batteries in a matter of an hour or so."
+"You could flip over the main power to draw from the emergency hotel batteries --- but with the bilge motors running, they will deplete those batteries in a matter of an hour or so."
 
-"No, that leaves us with no maneuvering. Give me another option."
+"No, that doesn't give us any maneuvering. Give me another option."
 
-"We could surface, of course. Though we will never lose them running diesels, and it is almost daylight now."
+"We could surface, of course. Though we will never lose them with the noise we will generate running diesels, and it is almost daylight now."
 
 "Of this I am fucking aware. But I think that's what we're fucking doing because at least we'll be moving. How much garbage is on the surface?"
 
@@ -427,23 +425,23 @@ Hemi removed the sonar headset and stood at the foot of the ladder to the contro
 
 "Fewer than ten nautical miles."
 
-"Shit. Ah fucking well. Up we go boys! Hemi, want to let some air into the main ballast?"
+"Shit. Ah fucking well. Up we go boys! Hemi, want to let some air into my girl?"
 
-A few minutes later a loud hiss pushed through the boat as Hemi opened up the compressed air into the main ballast tanks. The _Prospect_ rose slowly up until it bobbed with its deck awash at the surface.
+A few minutes later a loud hiss pushed through the boat as Hemi opened up the compressed air into the main ballast tanks. The _Prospect_ rose slowly until it bobbed with its deck awash at the surface.
 
 [//]: # (### They run diesels on the surface, with the bilge pumps --- noisily)
 
 Percy popped the hatch and climbed up to the bridge under a still-dark sky that was just beginning to lighten in the east. The oily water remained black around them, and bits of floating refuse and wood lay across the deck and in the water, but there were distinctly fewer of the large shadowed ship hulls in the dimly visible sea. 
 
-In the pre-dawn light Percy scanned around with a pair of binoculars, and not seeing anything of note on the first pass, she circled around the horizon a second time. There was nothing out there to see except the gray gradient field of the sky meeting the black field of the water.
+In the pre-dawn light Percy scanned around with a pair of binoculars. Not seeing anything of note on the first pass, she circled around the horizon a second time. There was nothing out there to see except the gray gradient field of the sky meeting the black field of the water.
 
 She called below and a minute later came the familiar whine of the compressed air turning over the diesels. The engines fired and a chugging black smoke rose above the sail behind her. As the big diesels spun their turbines, she could almost feel the power flooding back into all the systems of her boat that depended on it. 
 
-The _Prospect_ picked up speed, and the low-pressure air system soon had pumped enough into the ballast tanks to fully surface the boat, stranding big chunks of refuse on the now-dry deck.
+The _Prospect_ picked up speed, and the low-pressure air system soon had pumped enough into the ballast tanks to fully surface the boat, stranding pieces of refuse on the now-dry deck.
 
-Percy put Bastian in the lookout ring and had Hemi take over at the controls of the boat. She piloted herself, constantly scanning ahead of them, and sometimes yelling a small course correction down to Hemi.
+Percy put Bastian in the lookout ring and had Hemi take over at the controls of the boat. She piloted herself, constantly scanning ahead, and sometimes yelling a small course correction down to Hemi.
 
-In half an hour the eastern sky they moved towards had lightened but the western sky behind still pursued them with a dense blackness. With no crew to listen to sonar, they had no chance of hearing the torpedo that slipped into the water. They did not know it was there until the percussive sound of an explosion caught Percy and Bastian in the back of their heads. They spun around to find the source, and a glowing ball of orange was lifting slowly up from the surface a few miles back, a central point of sparkling and glowing light that reflected in the oily sheen and the shadowed chunks of refuse.
+In half an hour the eastern sky they moved towards had lightened but the western sky behind still pursued them with a dense blackness. With no crew to listen to sonar, they had no chance of hearing the torpedo that slipped into the water. They did not know it was there until the percussive sound of an explosion caught Percy and Bastian in the back of their heads. They spun around to find the source, and a glowing ball of orange was lifting slowly up from the surface a few miles back, a central point of sparkling light that reflected in the oily sheen and the shadowed chunks of refuse.
 
 "Fuck," said Bastian quietly.
 
@@ -469,13 +467,13 @@ She pulled on her cheroot and stared blankly for a minute.
 
 Percy pulled the ship-to-ship mic to her, stretching the tangles out of the cord. "Captain Shakes, are you still out there?"
 
-"Captain Percy," Shakes voice came crackling back, "nice to hear from you. I heard that fuckin' explosion and I thought for a second you were on your way down the hole."
+"Captain Percy," Shakes' voice came crackling back, "nice to hear from you. I heard that fuckin' explosion and I thought for a second you were on your way down the hole."
 
 "They put a fuckin' torpedo in the water, but all they got was one of the derelicts. Listen, we're going to make like a derelict ourselves and shut everything down over here. I need you to try to confuse the situation, or they'll just fucking come right to the point where they last heard us. Make some noise, would ya?"
 
-"That's what I do fucking best these days," said Shakes. "I'll totally throw some fucking chaos and confusion into the water. Right?"
+"That's what I fucking do best these days," said Shakes. "I'll totally throw some fucking chaos and confusion into the water. Right?"
 
-"Fuck right. Out."
+"Fuckin' right. Out."
 
 A minute later the _Gnat's_ engine started. Percy could hear it without aid through the hull of the _Prospect_ though it was a quarter mile in the distance.
 
@@ -488,7 +486,7 @@ Hemi returned and reported that he successfully got a stumbling and groggy Grego
 
 Percy spent the next few hours in the control room sitting in the dive planes control chair and smoking one cheroot lit off another as sea water once again seeped into the cargo hold, and the bow of her boat slipped slowly further down into the water.
 
-Hemi would call up a report from sonar every ten minutes or so. The first hour passed quickly, with Hemi's reports describing their pursuer's continued plodding movements towards the _Prospect's_ location. But Shakes' slow, noisy run off to the southeast eventually seemed to work, and the _Grackle_ adjusted its course to follow. The _Grackel_ began moving steadily away from the _Prospect's_.
+Hemi would call up a report from sonar every ten minutes or so. The first hour passed quickly, with Hemi's reports describing their pursuer's continued plodding movements towards the _Prospect's_ location. But Shakes' slow, noisy run off to the southeast eventually seemed to work, and the _Grackle_ adjusted its course to follow. The _Grackel_ began moving steadily away from the _Prospect_.
 
 At least at first. But in another hour, Hemi's reports made it clear that their pursuers were now familiar with the tactic of using the _Gnat_ to draw them off. The _Grackle_ gave up the chase to the southeast and started to move in large slowly-searching circles. They returned to using active sonar. The pings once again unnervingly echoing through the hull of the _Prospect_ every ten minutes or so.
 
