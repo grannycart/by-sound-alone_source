@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-13 12:14
+Last modified: 2023-05-14 11:58
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -439,6 +439,9 @@ Edits to pick up in second full pass through the book
 * [ ] Do a grep for the mispelling "Grackel" 
 * [ ] Grep "sub with the ram" and make sure it isn't used too much now that we know the boat is named the Grackle
 * [ ] check --- emdashes are actually correct in all format. Also check ligatures for quotes. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33
+* [ ] I keep going back and forth on chapter numbers:
+	* On one hand, the book is very linear. Maybe numbers make sense for their subtle "pull" feeling?
+	* On the other hand, do they do anything if you have chapter headers? (which I AM convinced I should keep now)
 
 
 ## Leftover ideas, add for "director's cut"?
