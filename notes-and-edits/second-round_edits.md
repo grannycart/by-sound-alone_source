@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-15 14:43
+Last modified: 2023-05-15 16:51
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -217,6 +217,8 @@ Edits to pick up in second full pass through the book
 	* [X] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
 	* [X] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
 		* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
+	* [ ] In the final battle, strip out all cursing
+		* (To add a quiet intensity)
 	* [ ] As the Grackle sinks, a voice comes over the ship-to-ship
 		* "Sylvia... you left me up there to die."
 		* "...Owen? ...But how..."
@@ -421,7 +423,7 @@ Edits to pick up in second full pass through the book
 ## Leftover ideas, add for "director's cut"?
 * [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
 * [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
-* [ ] Shakes affectionately calls the Gnat 'the bug'
+* [X] Shakes affectionately calls the Gnat 'the bug'
 * [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 	* I don't think this will make it into the first book or short story
 * [ ] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
