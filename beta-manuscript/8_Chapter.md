@@ -244,8 +244,6 @@ Hemi pulled back one earpiece and turned to Shakes. "There is not much time. Giv
 
 "Well of course this boat can _do_ it! ...I just never thought I'd be using my bug to play chicken with a full-sized full-speed foul-looking ram-headed military sub."
 
-[//]: # (--- EDITED TO HERE ---)
-
 [//]: # (### Getting the boats and the devices into position)
 
 Hemi put the headset earpieces back over his ears and listened closely as he slowly spun the sonar in an arc across the direction of the bow of the _Gnat_. He slowed when the microphones were pointed a little off the starboard side, and then stopped.
@@ -254,11 +252,11 @@ Hemi put the headset earpieces back over his ears and listened closely as he slo
 
 "Really? Seems stupid with that sub looking for her."
 
-"That's the 'bait' part of the plan: she will let the _Grackle_ find her, and chase her. As soon as she heard us shut down the diesel she ramped the _Prospect_ up to something like ten knots --- to make it look like she is trying to make a run for it."
+"That's the 'bait' part of the plan: she will let the _Grackle_ find her, and chase her. As soon as she heard us shut down the diesel she ramped the _Prospect_ up to something like ten knots --- to make it look as thought she is trying to make a run for it."
 
 "They are submerged?"
 
-"Yes. We planned for the _Prospect_ to run at about 30 meters down --- that way they can move fast with less risk of hitting a derelict. But her batteries are very low. I estimate she can only maintain ten knots for perhaps 20 minutes, so we have to move quickly to put this plan into action."
+"Yes. We planned for the _Prospect_ to run at about 30 meters down --- that way they can move fast with less risk of hitting a derelict. But her batteries are very low. I estimate she can only maintain ten knots for perhaps twenty minutes, so we have to move quickly to put this plan into action."
 
 Shakes leaned his hand on the throttle, but it was already pushed all the way to the forward stop. The electric motor whined steadily from behind them, driving the small boat forward with all the force it could muster.
 
@@ -266,7 +264,7 @@ Shakes leaned his hand on the throttle, but it was already pushed all the way to
 
 "Down. 30 meters. The _Grackle_ has clearly heard the _Prospect's_ run and matched its depth. They are lined up in pursuit a little less than five miles behind. We need to intercept their course in the next ten minutes or so, if we possibly can." Hemi lifted a stopwatch that hung from the same peg the sonar headset was stowed on and clicked it once to reset it to zero. He counted for a few seconds while listening, and then clicked it a second time to start the stopwatch. He made a note on the clipboard.
 
-"If your plan doesn't work, the _Prospect_ is done for. Honestly, I'm not even sure why they haven't already fired a torpedo."
+"If your plan doesn't work Hemi, the _Prospect_ is done for. Honestly, I'm not even sure why they haven't already fired a torp."
 
 "There are still a number of derelicts around. A torpedo is a precious thing. At the moment it is still too likely they would hit one of those garbage hulls rather than their target." Hemi looked down at the stopwatch, ticking away loudly and quickly. "I have to get ready. Do not change speed or course."
 
@@ -274,11 +272,11 @@ Shakes leaned his hand on the throttle, but it was already pushed all the way to
 
 Hemi left the headset behind on its peg, now relying entirely on the stopwatch and the unvarying speed and course of the _Gnat_ to know where he was in the water. He gingerly moved toward the stern, stepping over and around the detritus Shakes felt was perfectly reasonable to cast about in his only living space. 
 
-He picked up one of the devices, and it was heavy enough that even Hemi struggled a little to lift it. In addition to the sheer weight of the two warheads strapped together, he had to manage the awkward bumpers and lines that managed to tangle themselves repeatedly around the myriad protrusions that all submarines have into their interior spaces.
+He picked up one of the explosive devices. It was heavy enough that even Hemi struggled a little to lift it. In addition to the sheer weight of the two warheads strapped together, he had to manage the awkward bumpers and lines that tangled themselves repeatedly around the myriad protrusions that all submarines have into their interior spaces.
 
-The escape trunk was located behind the engine and motor, so it took some effort on Hemi's part to pass one of the heavy devices through the narrow space and push it back until it was underneath the thick cylinder of the escape trunk that hung down from above. The escape trunk had a heavy hand-screw sealed hatch on the bottom of the cylinder. Hemi opened the hatch and hefted the device up into the narrow interior space of the escape trunk. He struggled to get it to sit on the narrow ledge that circled the hatch inside. The ledge was intended to be a foothold for the person who wanted to escape while sealing the hatch from the inside. 
+The escape trunk was located behind the engine and motor, so it took some effort on Hemi's part to pass one of the heavy devices through the narrow space and push it back until it was underneath the cylinder of the escape trunk that hung down from above. The escape trunk had a heavy hand-screw sealed hatch on the bottom of the cylinder. Hemi opened the hatch and hefted the device up into the narrow interior space of the escape trunk. 
 
-It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuff the bumpers in. The bumpers were even more of a challenge to position so they would stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the bumpers to stay in the trunk by propping them on the ledge and leaning the two bumpers against each other.
+His intention was to get the device to sit on a narrow ledge that circled the hatch inside of the hatch. The ledge was intended to be a foothold for the person who wanted to escape while sealing the hatch from the inside. It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuffed the bumpers in. The bumpers were even more of a challenge to position so they would stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the bumpers to stay in the trunk by propping them on the ledge and leaning the two bumpers against each other.
 
 Finally, Hemi reached back up into the escape trunk and wound the mechanical timers that would close the circuit to arm the warheads when the timer reached zero. He set them to a frighteningly-short five minutes --- hardly enough time for the _Gnat_ to drive clear of the amount of explosive the combined warheads packed. But he could not risk the devices being unarmed when the _Grackle_ came within range of them. 
 
@@ -290,17 +288,19 @@ Hemi looked around the outside of the escape trunk for a control that would floo
 
 "Shakes, how do you flood the escape trunk?"
 
-"Flood? Hemi this ain't no commercial sub with some kind of specs-mandated flood-and-pump escape trunk for getting a crew of 50 off a boat. The _Gnat_ has a normal crew complement of just one, so the escape trunk is a one-time use only. That big ugly lever above your head releases the escape trunk topside hatch which is rigged a giant spring to open it. There's another lever inside the escape trunk just like it that does the same thing. The hatch opens and the ocean pours in. That's it."
+"Flood? Hemi this ain't no commercial sub with some kind of specs-mandated flood-and-pump escape trunk for getting a crew of 50 off a boat. The _Gnat_ has a normal crew complement of just one, so the escape trunk is a one-time use only. That big ugly lever above your head releases the escape trunk topside hatch which is rigged with a giant spring to open it. There's another lever inside the escape trunk just like it that does the same thing. The hatch opens and the ocean pours in. That's it."
 
 "So it cannot be reset underwater then?"
 
-"No. The only reason I even put in an escape trunk was so I could flush out any problematic cargo if I got into a sticky situation with a Authority vessel. That... and I was terrified of being stuck on the bottom of the ocean and unable to open the sail hatch."
+"No way. The only reason I even put in an escape trunk was so I could flush out any problematic cargo if I got into a sticky situation with a Authority vessel. That... and I was terrified of being stuck on the bottom of the ocean and unable to open the sail hatch."
 
 "Alright. It will have to do. Be ready, I will open the escape trunk in another minute or so."
 
 Hemi held the stopwatch up in front of his eyes and the second hand rapidly screwed itself across the face of the watch. In his head Hemi could see their position in the water, see where the _Prospect_ should be off to their port side, and see the _Grackle_ --- all black and fiercely toothy in the front in an way that was entirely unnatural for a submarine --- charging towards Shakes' rickety little craft from starboard. The boats all moved relative to each other in his head, driven into position by the second hand on the stopwatch. He put his hand up to the heavy iron lever covered with flecks of rust above his head.
 
 The second hand curled around and came up level. In Hemi's head the boats were all in the exact position. His thick fingers tightened on the lever and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
+
+[//]: # (--- EDITED TO HERE ---)
 
 But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of three atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
 
