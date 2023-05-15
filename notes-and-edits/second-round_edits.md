@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-14 11:58
+Last modified: 2023-05-15 14:43
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -22,14 +22,14 @@ Edits to pick up in second full pass through the book
 		* use single underbars for emphasis. two asterisks for bold (if there is any)
 		* DON'T use single asterisks for emphasis. I find that confusing.
 	* [ ] add invisible spacing elements (generally where the ### break notes are)
-	* [ ] check for quotes, see that 'saids' are set up as clauses, not sentences
-		* [ ] do a search for capital-S "Said"
+	* [X] check for quotes, see that 'saids' are set up as clauses, not sentences
+		* [X] do a search for capital-S "Said"
 			* %s/\.\"\ Said/\,\"\ said/gc
 		* Remember to keep an eye out for adverbs, particularly in the dialog attribution
-	* [ ] do a find-and-replace for til with till
+	* [X] do a find-and-replace for til with till
 		* %s/\ til\ /\ till\ /gc
 		* (you should do confirm-search for this)
-	* [ ] after chapter 5: change all referenced from Owen to Gregory, and visa versa
+	* [X] after chapter 5: change all referenced from Owen to Gregory, and visa versa
 		* search gregory; give each a uniqe marker; find and replace Owen:
 			* :%s/\ Owen\ /\ Gregory\ /gc
 		* Then change all the unique-marker Gregory's to owen
@@ -38,34 +38,12 @@ Edits to pick up in second full pass through the book
 		* I did this on each file already, but keep an eye out for oddball missing ones (misspelled or whatever)	
 * [X] remove references to the "con" -- too military
 * [X] **don't** change references to 'welding rig' -- arc welding is used under water -- see first round notes where you already fixed this.
-* [ ] Shakes needs to say 'ain't' more, like he does when he first appears
-* [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
-	* (see notes in research files)
-	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
-		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
-		* yeah, but WHY bother? just because it's cool?
-	* This is referenced first right at about 1000k words
-* [ ] Could the cursing be more along these lines:
-	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
-* [ ] Can't hurt for driving plot forward to have two characters with no fear of death. 
-	* Bastian might be a good candidate for this, to give him a little more depth
-	* though you want them up against characters who are TERRIFIED of death of course if you want to capture that staring-at-dials/The Haunting/Shirley Jackson tension.
-* [ ] you need characters that aren't too passive. think of mike hammer in mickey spillane's stories.
-	* you need a hot-head; not just grumpy resentment (like Chips) but who gets angry quickly and wants to charge into action
-		* it would be interesting to make this an element of Percy's character, particularly if Hemi is always-cool
-		* Like the aggressive boss/reasonable sub-boss relationship you see so often in industry
-		* this could tap into chain-of-command issues, like the Tenerife airport disaster. Something bad happens because someone doesn't want to challenge the captain.
-		* this would be way more interesting than just having everyone working to the best of their abilities ala star trek
-		* make the captain lovable, but falable. this aspect of tony soprano is worth copying
-* [ ] Percy is the only person who refers to the ship as 'she' 
+* [X] Percy is the only person who refers to the ship as 'she' 
 	* everyone else refers to it as 'the boat'
-* [ ] are the ballast valves operated by switches? or wheels?
+* [X] are the ballast valves operated by switches? or wheels?
 	* I'm going to make them **wheels** at chap 2 line 736
 	* (wheels/valves so they have fine-grained control over flooding)
-* [ ] fuel oil -- is what fuel is called
-* [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
-	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
-	* don't forget that in non-teardrop subs, the lower they are the slower they go on the surface.
+* [X] fuel oil -- is what fuel is called
 * names:
 	* [X] Change Trinity's name
 		* Trinity, turns out, is the name of the love-interest in the Matrix
@@ -79,7 +57,7 @@ Edits to pick up in second full pass through the book
 			* If Irene... could be more like the Irene character from All in the Family: liberal idealistic, smarter than everyone else -- conflict with Percy becomes more of a thing about what they see as (politically?) right?
 		* Sticking with Chips -- just gave the name a paragraph of background when she shows up
 	* [ ] play up the "Handsome Gregory" (a subtle reference to Gregory Peck) joke some more at some point.
-* [ ] Fix motivation for chase:
+* [X] Fix motivation for chase:
 	* (every reader comments on this -- none of them are getting your idea that the one-armed captain is just going through the motions for no reason other than not knowing what else to do)
 	* A possibility: The sub with the ram is after them because a global bounty has been declared on illicit cargo subs.
 		* The sub with the ram is a privateer, licensed to chase cargo subs, capture and take their cargo
@@ -92,23 +70,21 @@ Edits to pick up in second full pass through the book
 			* see notes for depot in scene edits below
 		* Chap 4; lines 743 to 777 (maybe a bit more) -- Shakes relating what happened at the depot after they left
 			* See notes for shakes reuniting after depot in scene edits below
-* [ ] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
+* [-] there may be TOO much up and down from the control room. Maybe consider ditching the control room in the sail and put it in the same room as navigation and sonar.
 	* Maybe all you need to do is remove the 'up' like: climbed into the control room, rather than: climbed up to the control room
-* [ ] Consider removing parts where Percy second-guesses herself.
+* [-] Consider removing parts where Percy second-guesses herself.
 	* Hard to say: on the one hand it contributes the tension by having her doubt the outcome of her decisions
 	* On the other hand, you could have Hemi do the questioning (gently) and have Percy be insistent that she's right.
 		* Might make for more interesting dialog
 		* and Percy is NOT always right, just most of the time.
-* [ ] Develop Gregory character more, especially since he dies. 
-	*  Show some ties that brought that particular crew together?
-* [ ] have the junior crew call hemi 'boss'
-* [ ] refer to Bastian, Gregory, and Owen as the 'deck crew'
-* [ ] There is never a reason to describe the race of a non-white character if you didn't have a reason to describe the race of a white character
+* [X] have the junior crew call hemi 'boss'
+* [X] refer to Bastian, Gregory, and Owen as the 'deck crew'
+* [X] There is never a reason to describe the race of a non-white character if you didn't have a reason to describe the race of a white character
 	* Sometimes you do need to describe the CULTURAL background of characters (regardless of race)
 	* Sometimes the point of the cultural background is that the character has rejected it.
 	* Or if there's a default cultural background to the scenes of the book (there always is, it HAS to be -- you can't remove cultural background from your head)
 		* Then maybe for certain characters they are all about rejecting that default cultural background (punk rock) 
-* [ ] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
+* [X] make sure any compass bearing degrees references are oriented to the globe, not relative to the boat
 	* Also see B's note on using bearings earlier
 * [X] make consistent whether numbers are written out or not
 	* I think I lean towards JUST using numerals. I don't love written-out numbers in text.
@@ -117,27 +93,25 @@ Edits to pick up in second full pass through the book
 		* for numbers that are part of the 'language' of the piece (including one through ten, or maybe twenty? --- twenty is where you have to start hyphenating after all) you write them out
 		* And numbers that are actual measurements of things (off gauges or whatever) are numerals~~
 	* No, instead the rule is 1-10 are spelled out. (This was relatively easily adjusted using grep and vim)
-* [ ] Consider adding more description of the spaces --- particularly inside the Prospect
+	* And... sometimes I write out numbers like twenty and fifteen because it reads better.
+* [X] Consider adding more description of the spaces --- particularly inside the Prospect
 	* How is it decorated?
 	* What does it _feel_ like?
 	* How is the galley laid out?
 	* What does the engine room feel like?
 	* What does the sonar compartment and control room feel like? (You spend so much time in those spaces)
 	* (I think the cargo hold is fairly well covered, it's the main decks that are a little weak)
-* [ ] watch the pacing, it's a little off in places:
-	* [ ] it should be a slow build up to a big singular event like the ballast blow
-	* [ ] And it should be a drawn-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
-	* [ ] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, (see pacing notes)
+* [-] watch the pacing, it's a little off in places:
+	* [-] it should be a slow build up to a big singular event like the ballast blow
+	* [-] And it should be a drawn-out grind in a staring-at-dials scene that goes hauls the tension along relentlessly
+	* [-] fill in the time-passing sections with something to pull the pacing along at a slow but steady rate, (see pacing notes)
 		* don't just montage over them, it makes it feel like things are moving too fast.
 	* See C's comments on pacing
-* [ ] Percy should have a captain's chair in the control room. Or at least a station she stands at.
+* [X] Percy should have a captain's chair in the control room. Or at least a station she stands at.
 	* (I think her standing station gets established later in the story, make sure it makes sense in the earlier parts of the book)
 	* maybe refer to it explicitly as the 'captain's station'? (akin to the sonar station and the navigation station)
-* [ ] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
+* [X] Is the PA one ship-wide system? Or does it go to different specific compartments? Or both?
 	* decide, edit and then make sure it's reflected in the Prospect notes file
-* [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
-* [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
-* [ ] Shakes affectionately calls the Gnat 'the bug'
 
 
 ## Specific scene edits
@@ -445,6 +419,9 @@ Edits to pick up in second full pass through the book
 
 
 ## Leftover ideas, add for "director's cut"?
+* [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
+* [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
+* [ ] Shakes affectionately calls the Gnat 'the bug'
 * [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 	* I don't think this will make it into the first book or short story
 * [ ] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
@@ -484,6 +461,28 @@ Edits to pick up in second full pass through the book
 * [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
 * [ ] And the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
 * [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
+* [ ] Shakes needs to say 'ain't' more, like he does when he first appears
+* [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
+	* (see notes in research files)
+	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
+		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
+		* yeah, but WHY bother? just because it's cool?
+	* This is referenced first right at about 1000k words
+* [ ] Could the cursing be more along these lines:
+	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
+* [ ] Can't hurt for driving plot forward to have two characters with no fear of death. 
+	* Bastian might be a good candidate for this, to give him a little more depth
+	* though you want them up against characters who are TERRIFIED of death of course if you want to capture that staring-at-dials/The Haunting/Shirley Jackson tension.
+* [ ] you need characters that aren't too passive. think of mike hammer in mickey spillane's stories.
+	* you need a hot-head; not just grumpy resentment (like Chips) but who gets angry quickly and wants to charge into action
+		* it would be interesting to make this an element of Percy's character, particularly if Hemi is always-cool
+		* Like the aggressive boss/reasonable sub-boss relationship you see so often in industry
+		* this could tap into chain-of-command issues, like the Tenerife airport disaster. Something bad happens because someone doesn't want to challenge the captain.
+		* this would be way more interesting than just having everyone working to the best of their abilities ala star trek
+		* make the captain lovable, but falable. this aspect of tony soprano is worth copying
+* [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
+	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
+	* don't forget that in non-teardrop subs, the lower they are the slower they go on the surface.
 
 
 ## Post "Director's Cut" things to remove
