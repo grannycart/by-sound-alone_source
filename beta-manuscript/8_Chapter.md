@@ -160,8 +160,6 @@ Hemi hung the mic back on the hook.
 
 "OK. To the surface and running on diesel it is." Shakes gave the _Gnat_ a little more throttle while peering through the small viewport in front of him. He turned the steering yoke and drove the _Gnat_ silently out from under the _Prospect_ for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
 
-[//]: # (--- EDITED TO HERE ---)
-
 "We're on the fuckin' surface." Shakes turned around in the pilot's seat to talk to Hemi who had moved rearward to sort the gear in the hold. "Can you switch the drive from the electric motor to the diesel? The levers are just back there behind the fuckin' engine."
 
 Hemi squeezed past the diesel engine that took up most of the interior deck-space in the rear third of the little submarine. There he found a series of levers that stuck up from the deck. He had to take a minute to read the hand-written labels, but it rapidly made sense to his mechanically-inclined mind. The system had a clutch so switching between the power sources to the propeller could be made without stopping the boat. Hemi threw out the clutch lever, moved the selection lever over to the diesel, and let the clutch back in.
@@ -226,24 +224,27 @@ Hemi pulled the levers in reverse order to before to disengage the drive from th
 
 Hemi stepped forward and powered up the passive sonar unit. He lifted the headset from the welded steel peg from which it hung and put it on. He listened to the quiet ocean around them. He could not hear the _Prospect_ at all --- Percy must be running very slowly. But swinging the mics around he found the _Grackle_ easily --- a few nautical miles off to the west of the _Gnat_. Even though the pursuing sub had to be much further away than the _Prospect_, and even though they were running submerged on electric motors, the _Grackle_ was running fast enough to be easily tracked. They did not care who knew where they were.
 
-It took Hemi about 15 minutes of listening to get a grasp on the situation. The _Grackle_ had given up the pursuit of the _Gnat_, probably not long after Shakes and Hemi had started the engines. Hemi assumed they had quickly realized the _Gnat_ was once again playing a decoy. But the _Gnat's_ run had apparently thrown just enough confusion into the water for the _Grackle_ to have lost their bead on the _Prospect_. They had taken up a search pattern again, and Hemi tracked them turning through a multi-mile diameter circle searching for the _Prospect_. They were pinging regularly, so if _Percy_ was moving, there was a good chance they would find the _Prospect_ soon.
+It took Hemi about fifteen minutes of listening to get a grasp on the situation. The _Grackle_ had given up the pursuit of the _Gnat_, probably not long after Shakes and Hemi had started the engines. Hemi assumed they had quickly realized the _Gnat_ was once again playing a decoy. But the _Gnat's_ run had apparently thrown just enough confusion into the water for the _Grackle_ to have lost their bead on the _Prospect_. They had taken up a search pattern again, and Hemi tracked them turning through a multi-mile diameter circle searching for the _Prospect_. They were pinging regularly, so if _Percy_ was moving, there was a good chance they would find the _Prospect_ soon.
 
-Hemi pulled back one earpiece and turned to Shakes. "There is not much time. Give us all the speed the _Gnat_ has got underwater. We have to get between the _Grackle_ and the _Prospect._"
+Hemi pulled back one earpiece and turned to Shakes. "There is not much time. Give us all the speed the _Gnat_ has got underwater. We have to get between the _Grackle_ and the _Prospect_."
 
-"Ya, OK Hemi. But... now you absolutely fuckin' have to tell me what the fuckin' plan is."
+[//]: # (No more oaths, from here to the end.)
+
+"Ya, OK Hemi. But... now you absolutely have to tell me what the plan is."
 
 "Well..." Hemi lowered the headset so it sat around his thick neck and made a wide gesture towards his devices piled up in the _Gnat's_ rear cargo space. "The plan is pretty simple, really. I intend to suspend some of the magnetic warheads I saved from the last shipment in the water column. With some careful calculations, I hope to set them in such a way that the _Grackle_ will move into one and set it off, hopefully disabling the submarine."
 
-"Ah," said Shakes. "So it's just a little fuckin' matter of flushing one of those bad boys out the escape trunk at precisely the right depth and in the path of that big ugly fucking sub, eh?"
+"Ah," said Shakes. "So it's just a little matter of flushing one of those bad boys out the escape trunk at precisely the right depth and in the path of that big ugly sub, eh?"
 
 "I can control the depth with the amount of air in these old boat bumpers. I have calculated the pressure needed in the bumpers with enough precision, I believe, so that they should float at precisely 25 meters deep. That should take care of the Z axis, but I need you to navigate us across the path of the _Grackle_."
 
-"That may not be so fucking easy."
+"That may not be so easy."
 
 "I am aware. I will be listening on sonar though. I am confident the _Gnat_ is capable of doing the job."
 
-"Well of course this boat can fuckin' do it! ...I just never thought I'd be using the _Gnat_ to play fuckin' chicken with a full-sized full-speed foul-looking ram-headed fuckin' military sub."
+"Well of course this boat can _do_ it! ...I just never thought I'd be using my bug to play chicken with a full-sized full-speed foul-looking ram-headed military sub."
 
+[//]: # (--- EDITED TO HERE ---)
 
 [//]: # (### Getting the boats and the devices into position)
 
@@ -251,7 +252,7 @@ Hemi put the headset earpieces back over his ears and listened closely as he slo
 
 "Sylvia is on the move." Hemi said quietly.
 
-"Really? Seems fucking stupid with that sub looking for her."
+"Really? Seems stupid with that sub looking for her."
 
 "That's the 'bait' part of the plan: she will let the _Grackle_ find her, and chase her. As soon as she heard us shut down the diesel she ramped the _Prospect_ up to something like ten knots --- to make it look like she is trying to make a run for it."
 
@@ -265,11 +266,11 @@ Shakes leaned his hand on the throttle, but it was already pushed all the way to
 
 "Down. 30 meters. The _Grackle_ has clearly heard the _Prospect's_ run and matched its depth. They are lined up in pursuit a little less than five miles behind. We need to intercept their course in the next ten minutes or so, if we possibly can." Hemi lifted a stopwatch that hung from the same peg the sonar headset was stowed on and clicked it once to reset it to zero. He counted for a few seconds while listening, and then clicked it a second time to start the stopwatch. He made a note on the clipboard.
 
-"If your plan doesn't fuckin' work, the _Prospect_ is fuckin' done for. Honestly, I'm not even sure why those fuckers haven't already fired a fuckin' torpedo."
+"If your plan doesn't work, the _Prospect_ is done for. Honestly, I'm not even sure why they haven't already fired a torpedo."
 
 "There are still a number of derelicts around. A torpedo is a precious thing. At the moment it is still too likely they would hit one of those garbage hulls rather than their target." Hemi looked down at the stopwatch, ticking away loudly and quickly. "I have to get ready. Do not change speed or course."
 
-"Fucking right."
+"Right."
 
 Hemi left the headset behind on its peg, now relying entirely on the stopwatch and the unvarying speed and course of the _Gnat_ to know where he was in the water. He gingerly moved toward the stern, stepping over and around the detritus Shakes felt was perfectly reasonable to cast about in his only living space. 
 
@@ -289,11 +290,11 @@ Hemi looked around the outside of the escape trunk for a control that would floo
 
 "Shakes, how do you flood the escape trunk?"
 
-"Flood? Hemi this ain't no fucking commercial sub with some kind of specs-mandated flood-and-pump escape trunk for getting a crew of 50 off a boat. The _Gnat_ has a normal crew complement of just one, so the escape trunk is a one-time use only. That big ugly lever above your head releases the escape trunk topside hatch which is rigged a giant fucking spring to open it. There's another lever inside the escape trunk just like it that does the same thing. The hatch opens and the ocean pours in. That's fucking it."
+"Flood? Hemi this ain't no commercial sub with some kind of specs-mandated flood-and-pump escape trunk for getting a crew of 50 off a boat. The _Gnat_ has a normal crew complement of just one, so the escape trunk is a one-time use only. That big ugly lever above your head releases the escape trunk topside hatch which is rigged a giant spring to open it. There's another lever inside the escape trunk just like it that does the same thing. The hatch opens and the ocean pours in. That's it."
 
 "So it cannot be reset underwater then?"
 
-"Hells the fuck no. Fuck, the only reason I even put in an escape trunk was so I could flush out any problematic cargo if I got into a sticky situation with a fuckin' Authority vessel. That... and I was fuckin' terrified of being stuck on the bottom of the ocean and unable to open the fuckin' sail hatch."
+"No. The only reason I even put in an escape trunk was so I could flush out any problematic cargo if I got into a sticky situation with a Authority vessel. That... and I was terrified of being stuck on the bottom of the ocean and unable to open the sail hatch."
 
 "Alright. It will have to do. Be ready, I will open the escape trunk in another minute or so."
 
@@ -305,11 +306,11 @@ But it budged, then gave, then swung back. From above his head came a loud clang
 
 "The device is away Shakes!" Hemi called forward.
 
-"...Are you sure about that? I'd hate to find out it's stuck in there and fuckin' arming itself."
+"...Are you sure about that? I'd hate to find out it's stuck in there and arming itself."
 
 "I am as sure as I can be. Blow the tanks --- the surface is going to be the safest place for us in the next few minutes."
 
-"Fuckin' aye Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water burbled heavily out from the boat's ballast tanks into the surrounding ocean. The Gnat started upwards --- slowly for a second --- and then a moment later gaining speed. "Hang the fuck on to something Hemi!"
+"Aye Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water burbled heavily out from the boat's ballast tanks into the surrounding ocean. The Gnat started upwards --- slowly for a second --- and then a moment later gaining speed. "Hang on to something Hemi!"
 
 Hemi could feel his stomach dropping and grabbed one of the freezing pipes that ran along the hull next to him. He gripped the pipe with his hard fists, his knuckles whitening through his cracked skin. The pipe was so cold the moisture of his palms froze and his skin stuck to the metal.
 
@@ -326,7 +327,7 @@ Nothing moved as one minute passed under that silent dome of sky, then another. 
 
 Another minute passed. And then, much closer than Shakes had anticipated, the heavy thud of an underwater explosion broke through the surface, and a plume of water, driven up and forward by explosive momentum shot upwards and dropped a gray oily rain onto the deck of the _Gnat_. The rain passed up in a rapid squall line from stern to bow, soaking Shakes where he sat on the sail.
 
-"Ha ha! Fuck Hemi! It fuckin' worked!"
+"Ha ha! Hemi! It worked!"
 
 "Hold on." Hemi's voice came up darkly from below. "I am tracking the sub on sonar."
 
@@ -334,27 +335,27 @@ Shakes initial feeling of excitement that such a claptrap device actually worked
 
 "The device worked, but I am not hearing any sign that they were damaged." From where he was standing below, Hemi's voice did not reveal any sense of disappointment. "They just passed under us, still tracking the _Prospect_." 
 
-"So that's fucking it? Impenetrable fuckin' hull?"
+"So that's it? Impenetrable hull?"
 
 "They hit my explosive with their ram, which is probably a very well-reinforced part of the ship." Hemi hesitated. "We need to figure out how to deliver a charge to a weaker part of the ship."
 
-"Yeah, and while you are pondering that tiny fuckin' challenge, they are closing in for a shot on the _Prospect_."
+"Yeah, and while you are pondering that tiny challenge, they are closing in for a shot on the _Prospect_."
 
 "Hopefully Captain Percy can manage one close pass by the _Grackle_ and give us time to get another device into position. We need to get the _Gnat_ back under water."
 
-"Hang on, don't forget we need to reset the fuckin' escape trunk first."
+"Hang on, don't forget we need to reset the escape trunk first."
 
 "How do you pump the water out of the flooded trunk?"
 
-"Pump! Ha. Just open the fuckin' bottom hatch down there, and let it run into the bilge. Then we'll turn on the bilge pumps to toss the water off the boat."
+"Pump! Ha. Just open the bottom hatch down there, and let it run into the bilge. Then we'll turn on the bilge pumps to toss the water off the boat."
 
 "Elegant." Hemi slid his big body back past the engine again, and a minute later Shakes saw the water in the escape trunk drop away into the bottom of the _Gnat_.
 
-Shakes stepped out of the sail and leaned over the now empty escape trunk where Hemi's round, black-bearded face was looking up at him. "Maybe I should rig some kind of pump for the escape trunk." Shakes said to him. "I actually have to do that emptying maneuver more often than I like. The fucking hatch opens sometimes while diving, just from the fucking stresses on the hull I guess. Fucking pain in my ass."
+Shakes stepped out of the sail and leaned over the now empty escape trunk where Hemi's round, black-bearded face was looking up at him. "Maybe I should rig some kind of pump for the escape trunk." Shakes said to him. "I actually have to do that emptying maneuver more often than I like. The hatch opens sometimes while diving, just from the stresses on the hull I guess. Drives me crazy."
 
 "You could just fix the latch to make sure it only opens when it is supposed to." Hemi said. "When we are done with this project, I can help you with that."
 
-"You mean if we _live_ through this fuckin' scare-quotes _project_."
+"You mean if we _live_ through this scare-quotes _project_."
 
 ------
 
@@ -363,25 +364,25 @@ Shakes stepped out of the sail and leaned over the now empty escape trunk where 
 
 In the control room of the _Prospect_, Captain Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through her boat's hull.
 
-"Cassandra!" Percy shouted down to the sonar compartment. "Tell me what they fuck just happened!"
+"Cassandra!" Percy shouted down to the sonar compartment. "Tell me what just happened!"
 
 Cassandra nervously fumbled with the directional control wheel for the sonar mics and flipped switches controlling filters on and off. "There was an explosion..."
 
-Percy sighed. "I fucking know that Cassandra. Did the explosion hit the _Grackle_ by any chance? Are those fuckers sinking right now?"
+Percy sighed. "I know that Cassandra. Did the explosion hit the _Grackle_ by any chance? Is it possible that ugly sub is sinking right now?"
 
 "I... I can't tell. There's nothing but silence out there at the moment."
 
-"Fucking figure it out Cassandra! I'm fuckin' depending on you here."
+"Figure it out Cassandra! I'm depending on you here."
 
 "The explosion definitely came from the pursuing sub --- I'd say they hit Hemi's device. But..."
 
 A full minute passed.
 
-"But what Cassandra? I need to know what is fucking happening!"
+"But what Cassandra? I need to know what is happening!"
 
-Cassandra sighed. "I can hear them now. The pursuing sub is still after us. It is definitely not sinking. As far as I can tell, it isn't even fucking damaged."
+Cassandra sighed. "I can hear them now. The pursuing sub is still after us. It is definitely not sinking. As far as I can tell, it isn't even damaged."
 
-"Fuck me!" Percy spat and lit a cheroot. "It sounded so fuckin' good. I thought we'd at least have taken a bit of wind out of their fuckin' sails." This she said mostly to herself.
+Percy spat and lit a cheroot. "It sounded so good. I thought we'd at least have taken a bit of wind out of their sails." This she said mostly to herself.
 
 
 [//]: # (### Another torpedo fired at the prospect; hits derelict)
@@ -412,7 +413,7 @@ Cassandra looked at the active sonar rig readout. "1.3 miles."
 
 "That's not very much room to play with Cap," said Bastian, nervously fingering the throttle control.
 
-"No shit Bastian."
+"I am aware Bastian."
 
 Bastian lit a cigarette and blew smoke out from one side of his mouth.
 
@@ -428,18 +429,18 @@ Cassandra scanned back and forth in wider arcs around the _Prospect_ with the so
 
 A second later the detonation rumbled through the hull of the _Prospect_.
 
-Percy smiled. "Nice fucking work Cassandra! I don't think they will risk another torpedo on us in these waters. They wasted two already, and those fucking things are expensive."
+Percy smiled. "Nice work Cassandra! I don't think they will risk another torpedo on us in these waters. They wasted two already, and those things are expensive."
 
-"Great," Gregory smirked, "So they'll just go back to trying to fucking ram us."
+"Great," Gregory smirked, "So they'll just go back to trying to ram us."
 
 
 [//]: # (### Cassandra finds the Gnat, they talk over ship-to-ship about the new plan)
 
-Percy ignored Gregory. "Cassandra, the next task is to find the fucking _Gnat_ and figure out what Hemi is doing.
+Percy ignored Gregory. "Cassandra, the next task is to find the _Gnat_ and figure out what Hemi is doing.
 
 "Right, Captain Percy."
 
-"And don't forget to track those fuckers pursuing us at the same time. What's the range?"
+"And don't forget to track those pursuing us at the same time. What's the range?"
 
 "2.3 nautical miles. And they are increasing speed now."
 
@@ -455,23 +456,23 @@ Then she heard the faintest rhythmic pumping noise, off to the starboard side. I
 
 "Excellent. They might hear us on ship-to-ship." Percy pulled down the radio mic and called out into the water for Shakes.
 
-"_Prospect!_ Captain Shakes here. I fucking read you. Nice to hear you didn't go down with that last fucking torp."
+"_Prospect_! Captain Shakes here. I read you. Nice to hear you didn't go down with that last torp."
 
-"Indeed. Unfortunately Gregory here has a theory that now those fuckers are after us for another ramming. Based on the speed they've put on, I'm inclined to agree with him. So... what's the plan now?"
+"Indeed. Unfortunately Gregory here has a theory that now the _Grackle_ is after us for another ramming. Based on the speed they've put on, I'm inclined to agree with him. So... what's the plan now?"
 
-"Aye, fuck. Well Hemi says he still thinks he can take them down. He just needs to deliver one of his devices to a weaker part of their sub than the ram --- which is what they detonated the last one with."
+"Aye. Well Hemi says he still thinks he can take them down. He just needs to deliver one of his devices to a weaker part of their sub than the ram --- which is what they detonated the last one with."
 
 "And how is he going to do that?"
 
-"Fuck if I know. I'm just steering the boat the way the Boss says. Hang on..." A few seconds of static came across the radio, and then Shakes picked up again. "Hemi says you should just keep running --- make evasive moves if you can. He's going to maneuver us into position to deliver a second device."
+"No idea. I'm just steering the boat the way the Boss says. Hang on..." A few seconds of static came across the radio, and then Shakes picked up again. "Hemi says you should just keep running --- make evasive moves if you can. He's going to maneuver us into position to deliver a second device."
 
 "OK Shakes. But keep in mind we're down to maybe 15 minutes on the battery here. As soon as we're out, we're a dead-still target for a boat with an intention to ram."
 
-Another second passed. "Hemi says --- fuckin' get this --- 'he will take your remaining battery into his calculations.'"
+Another second passed. "Hemi says --- get this --- 'he will take your remaining battery into his calculations.'"
 
-"If anyone beside Hemi had said that to me, I would not be able to take it as any kind of fucking reassurance. Don't fucking sink Shakes --- I need Hemi back."
+"If anyone beside Hemi had said that to me, I would not be able to take it as any kind of reassurance. Don't sink Shakes --- I need Hemi back."
 
-"Don't you fuckers sink either --- I've gotten used to the fuckin' hot meals on your boat! Out." Shakes clicked off.
+"Don't you sink either --- I've gotten used to the hot meals on your boat! Out." Shakes clicked off.
 
 As Percy hung the mic back up above her head, Bastian reached one long finger out and fruitlessly tapped the battery gauge.
 
@@ -481,11 +482,11 @@ As Percy hung the mic back up above her head, Bastian reached one long finger ou
 
 "We have to go deeper Shakes. 50 meters."
 
-"Can't fuckin' do that Hemi. The fuckin' _Gnat_ was built at altitude man! Below 30 and the seams start splitting. 50 is out of the fuckin' question."
+"Can't do that Hemi. The _Gnat_ was built at altitude man! Below 30 and the seams start splitting. 50 is out of the question."
 
 "If we lay the mines shallow, the _Grackle_ hits them head on. As you could see from the first device, the ram essentially acts as heavy plated armor. We are not going to do any damage if their boat hits the mine with the ram. If we can get the device _under_ their boat though --- if we can get it to detonate right in the middle of their sub --- the upward force of the explosion will blow through the middle and break the sub's back. Snap it in half. And all the watertight compartments in the world will not help them at that point. At least in theory."
 
-"That sounds to me like the _Gnat_ would have to be directly under them, release the mine, and have it go off almost immediately. How are we fucking surviving that Hemi?"
+"That sounds to me like the _Gnat_ would have to be directly under them, release the mine, and have it go off almost immediately. How are we surviving that Hemi?"
 
 "Not quite. I will set the arming timer. We can leave the mine under their path, and if I get the timer right, the weapon will arm just as the middle of the sub passes over it --- and detonate immediately. We would have a few minutes at least to move the _Gnat_ to safety, probably the surface again."
 
@@ -493,7 +494,7 @@ As Percy hung the mic back up above her head, Bastian reached one long finger ou
 
 "I believe so. It is just a refined use of dead reckoning."
 
-"Never was very fuckin' good at dead reckoning myself."
+"Never was very good at dead reckoning myself."
 
 "All you have to do is drive the boat Captain Shakes."
 
@@ -501,7 +502,7 @@ As Percy hung the mic back up above her head, Bastian reached one long finger ou
 
 Hemi pounded on one of the roughly-welded thwarts. "It is a good boat. I think it is capable of more than you give it credit for."
 
-"I'd have more fucking faith in that statement if it came at a time when you were not trying to convince me to do something incredibly fucking suicidally stupid with the _Gnat_."
+"I'd have more faith in that statement if it came at a time when you were not trying to convince me to do something incredibly suicidally stupid with the _Gnat_."
 
 Hemi grinned and patted Shakes on the shoulder. He picked up the sonar headset and put one earpiece over his ear. After a second of listening, he gave Shakes a new course. "Come left to 330. That will put us on an intercept with the _Grackle_ again." Hemi started his stopwatch.
 
@@ -509,11 +510,11 @@ It was natural that any person piloting the _Gnat_ could not help but look out t
 
 "10 minutes Shakes," said Hemi, speaking softly since he was less than a meter from Shakes' head. "We need to start descending now."
 
-"Just curious Hemi, how fuckin' deep do you think it is here?"
+"Just curious Hemi, how deep do you think it is here?"
 
 "More than 1000 meters. All we are asking the _Gnat_ to do is swim a bit deeper in the very top layer of all that water. No big deal."
 
-Shakes patted the rusting cold steel of the hull closest to his head. "Boat, You're the only thing that can keep us from being sucked into that hole under us. It wants us, I can feel it --- but you're a good little boat, even Hemi says so. You're just the tool to keep us out of that fucking hole." With this clandestine blessing, he pushed the yoke forward and the _Gnat's_ little dive planes responded by angling downward.
+Shakes patted the rusting cold steel of the hull closest to his head. "Boat, You're the only thing that can keep us from being sucked into that hole under us. It wants us, I can feel it --- but you're a good little boat, even Hemi says so. You're just the tool to keep us out of that hole." With this clandestine blessing, he pushed the yoke forward and the _Gnat's_ little dive planes responded by angling downward.
 
 They gained depth quickly, and almost immediately the hull of the _Gnat_ began to groan with the stress of it.
 
@@ -547,11 +548,11 @@ It took a second for Hemi to realize that was because the hatch above him did no
 
 "That hatch is not open!" Hemi yelled forward, real panic slipping into the baritone of his voice.
 
-"Fuck! The pressure Hemi! The whole hull is compressed, the hatch must be wedged in its fucking seat!"
+"The pressure Hemi! The whole hull is compressed, the hatch must be wedged in its seat!"
 
 Hemi smacked a heavy fist against the hull above him. 
 
-Shakes could hear the pounding in the pilot's seat. "Hemi. You have to get that open. If the weapon arms in the trunk, we're fucking done."
+Shakes could hear the pounding in the pilot's seat. "Hemi. You have to get that open. If the weapon arms in the trunk, we're done."
 
 "I am aware of that!" Hemi pressed his lips together, concentrating on revising his estimates of where the boats were in relation to each other, and at the same time trying to figure out a way to release the hatch. "Come shallow by a few meters," Hemi shouted forward, "...that might be all we need." A second went by and Hemi knew they were getting out of position. "You also need to come left to 222 degrees, Hard! Now!"
 
@@ -578,7 +579,7 @@ Shakes pulled the lever, and the air blew through the boat. But the depth gauge 
 
 Nothing happened.
 
-No fucking go Hemi." Shakes said with some kind of resolve reflecting in his voice. "We must have cracked the ballast tanks. The blow isn't fuckin' doin' anything."
+No go Hemi." Shakes said with some kind of resolve reflecting in his voice. "We must have cracked the ballast tanks. The blow isn't doin' anything."
 
 At that moment the mine detonated, far to close to the _Gnat_ for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the _Gnat's_ small sail. The sound was so loud that it rang Shakes' and Hemi's ears. Whatever small cracks that had opened in the seams before now split wide and freezing black water poured in.
 
@@ -586,13 +587,13 @@ The power blinked and then went out. Hemi felt his way forward in the blackness,
 
 "Emergency power. Does the boat have emergency power?" Hemi asked loudly.
 
-"No. Kinda like I said before. We're fucking done."
+"No. Kinda like I said before. We're done."
 
 The _Gnat_ was sinking. 
 
 But not so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn and the sail rolled back up to where it was supposed to be. 
 
-Shakes was almost ecstatic. He started laughing. "Hemi! This is fucking it. But at least the _Gnat_ is going down upright! With some fucking dignity!" He found his lighter and tried to light the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter showed them how dire their situation was.
+Shakes was almost ecstatic. He started laughing. "Hemi! This is it. But at least the _Gnat_ is going down upright! With some dignity!" He found his lighter and tried to light the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter showed them how dire their situation was.
 
 "Give me that." Hemi took the lighter from Shakes and snapped it aflame. He used it to look over the _Gnat's_ controls, waving the flame slowly in front of each terrifying dial and gauge. For good measure he pulled the emergency blow lever again. He opened all the tank trim valves. None of those things required electricity to function --- they were purely mechanical devices on all submarines as a safety precaution for a situation just like this. If there was no power, the sub should still be able to make it to the surface. 
 
@@ -609,13 +610,13 @@ A thick clang rang out in the darkness. Hemi had expected something like this. T
 
 Instead the _Gnat_ settled flat, and the descending sensation suddenly jolted to a stop. Hemi lit the lighter and Shakes was staring at him with a puzzled look on his face. Hemi looked at the depth gauge: it was rising.
 
-"What the fuck?" Shakes asked.
+"What the..." Shakes asked.
 
 "...The _Prospect_. They must have got under us."
 
-"And now they're fuckin' raising us to the surface? Like some fucking new born whale? Fuck me! Fucking fuck me!"
+"And now they're raising us to the surface? Like some new born whale?
 
-"I certainly find myself overcome with awe." Hemi replied.
+"I certainly find myself overcome with awe," Hemi replied.
 
 Shakes stood up and took the lighter back from Hemi. He lit it and with a renewed hope for life, he crawled forward. He pushed Herschel's empty and guano-covered roost aside and pulled open a fuse box panel that lay behind it. He rummaged through a pile of old and corroded fuses that lay at the bottom of the fuse box to find one that looked like it was still at least partially conductive. He ran his finger down the rows of blown fuses till he found the one he wanted and yanked it out. The hopefully-working replacement went into the fuse box in its place.
 
@@ -623,15 +624,15 @@ He knew it did work because the radio panel lit up and the rapidly dwindling spa
 
 Hemi picked up the mic from the front of the glowing box, and squeezed the transmitter. The transmit power needle snapped to the right, just as it should. "_Prospect_, this is Hemi, aboard the _Gnat_, do you copy."
 
-"Fuckin'-A Hemi!" Percy's voice came back through the box. "We were worried that you were already fucking flattened, and we'd just be bringing up your corpses in a squashed metal coffin! Fuck it's good to hear you. Shakes there?"
+"I do Hemi!" Percy's voice came back through the box. "We were worried that you were already flattened, and we'd just be bringing up your corpses in a squashed metal coffin! It's good to hear you. Shakes there?"
 
 "Captain Shakes is here, though wet. How did you find us?"
 
-"Fuckin' Cassandra of course! She managed to pick Shake's shitty little sinking craft out from all the noise of the _Grackle_ going down, and then she navigated us down with fucking dead-on precision until we were under you. Just in the fucking nick too! Our batteries flat-lined just after we picked you up. We're rising on a gentle ballast blow right now."
+"Cassandra of course! She managed to pick Shake's little sinking craft out from all the noise of the _Grackle_ going down, and then she navigated us down with dead-on precision until we were under you. Just in the nick too! Our batteries flat-lined just after we picked you up. We're rising on a gentle ballast blow right now."
 
 "The pursuing sub?"
 
-"Those fuckers are on their way down the hole Hemi, dragged by their black fuck ram first, I hope. Cassandra said she heard the boat split, and the bulkheads failing, and then the two biggest pieces went down."
+"They are on their way down the hole Hemi, dragged by their ram first, I hope. Cassandra said she heard the boat split, and the bulkheads failing, and then the two biggest pieces went down."
 
 There was now light coming through the viewport around the streams of water coming from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect's_ sail out there in the gloom.
 
