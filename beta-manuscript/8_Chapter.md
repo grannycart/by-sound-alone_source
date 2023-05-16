@@ -298,11 +298,11 @@ Hemi looked around the outside of the escape trunk for a control that would floo
 
 Hemi held the stopwatch up in front of his eyes and the second hand rapidly screwed itself across the face of the watch. In his head Hemi could see their position in the water, see where the _Prospect_ should be off to their port side, and see the _Grackle_ --- all black and fiercely toothy in the front in an way that was entirely unnatural for a submarine --- charging towards Shakes' rickety little craft from starboard. The boats all moved relative to each other in his head, driven into position by the second hand on the stopwatch. He put his hand up to the heavy iron lever covered with flecks of rust above his head.
 
-The second hand curled around and came up level. In Hemi's head the boats were all in the exact position. His thick fingers tightened on the lever and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
+The second hand curled around and came up level. In Hemi's head the boats were all in the exact position. His thick fingers tightened on the lever, and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
 
 [//]: # (--- EDITED TO HERE ---)
 
-But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of three atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
+But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and flapped back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of three atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold, damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
 
 "The device is away Shakes!" Hemi called forward.
 
@@ -310,40 +310,39 @@ But it budged, then gave, then swung back. From above his head came a loud clang
 
 "I am as sure as I can be. Blow the tanks --- the surface is going to be the safest place for us in the next few minutes."
 
-"Aye Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water burbled heavily out from the boat's ballast tanks into the surrounding ocean. The Gnat started upwards --- slowly for a second --- and then a moment later gaining speed. "Hang on to something Hemi!"
+"Aye Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water burbled heavily out from the ballast tanks into the surrounding ocean. The Gnat started upwards --- slowly for a second --- and then a moment later gaining speed. "Hang on to something Hemi!"
 
 Hemi could feel his stomach dropping and grabbed one of the freezing pipes that ran along the hull next to him. He gripped the pipe with his hard fists, his knuckles whitening through his cracked skin. The pipe was so cold the moisture of his palms froze and his skin stuck to the metal.
 
-Hemi had ridden submarine ballast blows up hundreds of times, but the tiny _Gnat_ was a different experience from a big cargo sub like the _Prospect_. In the _Prospect_ it was a dramatic but graceful maneuver, with the power and dynamism of a calving glacier. The _Gnat_ was another matter entirely. More like a bird of prey diving on a small sparrow. The whole boat shook with the strain of it, the hull made sounds like it was cracking apart --- and it was by no means clear to Hemi that it was not. When the bow popped through the surface a second later, the boat came down hard and Hemi was forced to rip one hand from the pipe and throw it up to keep his head from being driven up into the escape trunk lever.
+Hemi had ridden upwards on submarine ballast blows hundreds of times, but the tiny _Gnat_ was a different experience from a big cargo sub like the _Prospect_. In the _Prospect_ it was a dramatic but graceful maneuver, with the power and dynamism of a calving glacier. The _Gnat_ was another matter entirely. More like a bird of prey diving on a small sparrow. The whole boat shook with the strain of it, the hull made sounds like it was cracking apart --- and it was by no means clear to Hemi that it was not. When the bow popped through the surface a second later, the boat came down hard and Hemi was forced to rip one hand from the pipe and throw it up to keep his head from being driven up into the escape trunk lever.
 
-On the surface, the bow of the boat, which had taken on a dramatic upward angle from the ballast blow, settled slowly ahead of the two men. The _Gnat_ leveled out and a sense of calm flowed through the craft. As soon as he was sure the maneuver was complete, Hemi moved rapidly past the engine and pushed in next to the sonar unit. He had the headset on and was tracking the _Grackle_ in a few seconds.
-
+On the surface, the bow of the boat, which had taken on a dramatic upward angle during the ballast blow, settled slowly in front of the two men. The _Gnat_ leveled out and a sense of calm flowed through the craft. As soon as he was sure the maneuver was complete, Hemi moved rapidly past the engine and pushed in next to the sonar unit. He had the headset on and was tracking the _Grackle_ in a few seconds.
 
 [//]: # (### The first explosion)
 
-Shakes cut the throttle to the motor and caught Hemi's eye. He pointed to the hatch at the top of the sail with a questioning look, and Hemi nodded. Shakes lifted himself up, unscrewed the hatch and sat up on the sail scanning the flat gray water behind the _Gnat_. With little wind there was almost no noise. There was only a stifling silence, broken by nothing except the soft slap of water against the drifting hull. The sea was mottled in places with black oil that reflected back the gray of the sky, making Shakes feel like they were floating in bath of concrete slurry.
+Shakes cut the throttle to the motor and caught Hemi's eye. He pointed to the hatch at the top of the sail with a questioning look, and Hemi nodded. Shakes lifted himself up, unscrewed the hatch and sat up on the sail searching the flat gray water behind the _Gnat_. With little wind, there was almost no noise. Only a stifling silence, broken by nothing except the soft slap of water against the drifting hull. The sea was mottled in places with black oil that reflected back the gray of the sky, making Shakes feel like they were floating in bath of concrete slurry.
 
-Nothing moved as one minute passed under that silent dome of sky, then another. Shakes shaded his eyes against the brightness of the sky and scanned the water between him and the horizon line, looking for any surface manifestation of the movements going on below.
+Nothing moved under that silent dome of sky as one minute passed; then another. Shakes shaded his eyes against the brightness of the sky and scanned the water between him and the horizon line looking for any surface manifestation of the movements going on below.
 
 Another minute passed. And then, much closer than Shakes had anticipated, the heavy thud of an underwater explosion broke through the surface, and a plume of water, driven up and forward by explosive momentum shot upwards and dropped a gray oily rain onto the deck of the _Gnat_. The rain passed up in a rapid squall line from stern to bow, soaking Shakes where he sat on the sail.
 
 "Ha ha! Hemi! It worked!"
 
-"Hold on." Hemi's voice came up darkly from below. "I am tracking the sub on sonar."
+"Hold on," Hemi's voice came up darkly from below, "I am tracking the sub on sonar."
 
-Shakes initial feeling of excitement that such a claptrap device actually worked subsided to be replaced by the more rational thought that detonating the device was one thing, actually damaging the _Grackle_ was another. He stared into the water next to the _Gnat_ for a moment, and saw a long black shadow --- endlessly long and thin, it seemed to him --- pass under his boat down there in the depths below.
+Shakes initial feeling of excitement that such a claptrap device actually worked subsided to be replaced by the more rational thought that detonating the device was one thing, actually damaging the _Grackle_ was another. He stared into the water next to the _Gnat_ for a moment, and saw a long black shadow --- endlessly long and thin, it seemed to him --- pass under his boat down in the depths below.
 
-"The device worked, but I am not hearing any sign that they were damaged." From where he was standing below, Hemi's voice did not reveal any sense of disappointment. "They just passed under us, still tracking the _Prospect_." 
+"The device detonated, but I am not hearing any sign that they were damaged." From where he was standing below, Hemi's voice did not reveal any sense of disappointment. "They just passed under us, still tracking the _Prospect_." 
 
-"So that's it? Impenetrable hull?"
+"So that's it? An impenetrable hull?"
 
-"They hit my explosive with their ram, which is probably a very well-reinforced part of the ship." Hemi hesitated. "We need to figure out how to deliver a charge to a weaker part of the ship."
+"They hit my explosive with their ram, which is probably a very well-reinforced part of the sub." Hemi hesitated. "We need to figure out how to deliver a charge to a weaker point."
 
 "Yeah, and while you are pondering that tiny challenge, they are closing in for a shot on the _Prospect_."
 
 "Hopefully Captain Percy can manage one close pass by the _Grackle_ and give us time to get another device into position. We need to get the _Gnat_ back under water."
 
-"Hang on, don't forget we need to reset the escape trunk first."
+"Hold up. Don't forget we need to reset the escape trunk first."
 
 "How do you pump the water out of the flooded trunk?"
 
@@ -351,26 +350,26 @@ Shakes initial feeling of excitement that such a claptrap device actually worked
 
 "Elegant." Hemi slid his big body back past the engine again, and a minute later Shakes saw the water in the escape trunk drop away into the bottom of the _Gnat_.
 
-Shakes stepped out of the sail and leaned over the now empty escape trunk where Hemi's round, black-bearded face was looking up at him. "Maybe I should rig some kind of pump for the escape trunk." Shakes said to him. "I actually have to do that emptying maneuver more often than I like. The hatch opens sometimes while diving, just from the stresses on the hull I guess. Drives me crazy."
+Shakes stepped out of the sail and leaned over the now empty escape trunk where Hemi's round, black-bearded face was looking up at him. "Maybe I should rig some kind of pump for the escape trunk," Shakes said to him, "I actually have to do that emptying maneuver more often than I like. The hatch opens sometimes while diving, just from the stresses on the hull I guess. Drives me nuts."
 
-"You could just fix the latch to make sure it only opens when it is supposed to." Hemi said. "When we are done with this project, I can help you with that."
+"You could just fix the latch to make sure it only opens when it is supposed to," Hemi said. "When we are done with this project, I can help you with that."
 
 "You mean if we _live_ through this scare-quotes _project_."
 
-------
-
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### In the Prospect)
 
 In the control room of the _Prospect_, Captain Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through her boat's hull.
 
-"Cassandra!" Percy shouted down to the sonar compartment. "Tell me what just happened!"
+"Cassandra!" Percy shouted down to the sonar compartment, "tell me what just happened!"
 
 Cassandra nervously fumbled with the directional control wheel for the sonar mics and flipped switches controlling filters on and off. "There was an explosion..."
 
-Percy sighed. "I know that Cassandra. Did the explosion hit the _Grackle_ by any chance? Is it possible that ugly sub is sinking right now?"
+Percy sighed. "I know that Cassandra. Did the explosion hit the _Grackle_ by any chance? Is there even the smallest possible chance that ugly sub is sinking right now?"
 
-"I... I can't tell. There's nothing but silence out there at the moment."
+"I... I can't tell. There's nothing but silence at the moment."
 
 "Figure it out Cassandra! I'm depending on you here."
 
@@ -380,30 +379,29 @@ A full minute passed.
 
 "But what Cassandra? I need to know what is happening!"
 
-Cassandra sighed. "I can hear them now. The pursuing sub is still after us. It is definitely not sinking. As far as I can tell, it isn't even damaged."
+Cassandra sighed. "I can hear them now. The _Grackle_ is still after us. It is definitely not sinking. As far as I can tell, it isn't even damaged."
 
-Percy spat and lit a cheroot. "It sounded so good. I thought we'd at least have taken a bit of wind out of their sails." This she said mostly to herself.
-
+Percy spat and lit a cheroot. "It sounded so good. I thought we'd at least have taken a bit of wind out of their sails." This, mostly to herself.
 
 [//]: # (### Another torpedo fired at the prospect; hits derelict)
 
-"Captain Percy!" Cassandra was shouting now. "There's a torpedo in the water! They've fired at us!"
+"Captain Percy!" Cassandra was shouting now, "there's a torpedo in the water! They've fired at us!"
 
-"Stay calm Cassandra." Percy's kept her voice very even. "This is very important: has the torpedo acquired us? Is it pinging us? If so, we have to dive _now_. And if we dive, this plan is over."
+"Stay calm Cassandra." Percy's kept her voice even. "This is important: has the torpedo acquired us? Is it pinging us? If so, we have to dive _now_. And if we dive, this plan is over."
 
 "I don't know Captain Percy!"
 
 "Figure it out Cassandra. You know what a pinging torpedo sounds like. Listen until you can see what's happening in your head. Then tell me what I need to do."
 
-Cassandra slowly closed the lids over her large eyes. The earphones of the sonar pumped sound into her head and her mind passed out of the _Prospect_ and into the water. She searched around with it, looking to port, then to starboard behind the _Prospect_, passing over the dead zone where the prop wash made her deaf. She honed in on the torpedo --- a high whining electric motor just off their rear port side. She wrapped her head around it, and in her mind she could see the machine --- a long, slick steel tube slipping through the water at a speed that was far faster than anything else she'd ever heard. It was coming directly toward her.
+Cassandra slowly closed the lids over her large eyes. The earphones of the sonar pumped sound into her head and her mind passed out of the _Prospect_ and into the water. She searched around with it, looking to port, then to starboard behind the _Prospect_, passing over the dead zone where the prop wash made her deaf. She honed in on the torpedo --- a high whining electric motor just off their rear port side. She wrapped her head around it, and in her mind she could see the machine --- a long, slick steel tube slipping through the water at a speed that was far faster than anything else she'd ever seen in her mind's eye through sonar. It was coming directly toward her.
 
 It started pinging. The round ringing echo of it almost hurt her ears.
 
-"OK Captain Percy." She said loudly enough for Percy to hear, but kept her voice calm. "It's pinging."
+"OK Captain Percy," she said loudly enough for Percy to hear, but keeping her voice calm, "it's pinging."
 
-"That means it's probably armed. Now tell me if it seems like it is tracking the _Prospect_. Bastian, come port 20 degrees."
+"That means it has probably armed. Now tell me if it seems like it is tracking the _Prospect_. Bastian, come port to 280."
 
-Bastian spun the rudder control wheel and the boat listed slightly over to the left side as it made its turn.
+Bastian spun the rudder control wheel and the boat listed slightly over to one side as it made its turn.
 
 Cassandra did not hear any corresponding change to the torpedoes direction. "It doesn't seem to be tracking us Percy --- no change to direction."
 
@@ -421,7 +419,7 @@ Cassandra let her mind slip out into the water again. The frequency of the torpe
 
 Cassandra scanned back and forth in wider arcs around the _Prospect_ with the sonar. Then, farther off to their port side, she could hear a hole in the water. A mass that bounced back the torpedo's pings at her, and at the same time a void that sucked in her consciousness until her mind passed around and under it, and she could see the shape clearly in her head.
 
-"Captain Percy! The torpedo is tracking a derelict!" She announced confidently.
+"Captain Percy! The torpedo is tracking a derelict!" she said.
 
 "Are you sure?"
 
@@ -429,20 +427,21 @@ Cassandra scanned back and forth in wider arcs around the _Prospect_ with the so
 
 A second later the detonation rumbled through the hull of the _Prospect_.
 
-Percy smiled. "Nice work Cassandra! I don't think they will risk another torpedo on us in these waters. They wasted two already, and those things are expensive."
+Percy smiled. "Nice work Cassandra! They may not risk another torpedo on us in these waters. They wasted two already, and those things are expensive."
 
 "Great," Gregory smirked, "So they'll just go back to trying to ram us."
 
-
 [//]: # (### Cassandra finds the Gnat, they talk over ship-to-ship about the new plan)
 
-Percy ignored Gregory. "Cassandra, the next task is to find the _Gnat_ and figure out what Hemi is doing.
+"Cassandra, the next task is to find the _Gnat_ and figure out what Hemi is doing," Percy said.
 
-"Right, Captain Percy."
+"Right."
 
-"And don't forget to track those pursuing us at the same time. What's the range?"
+"And don't forget to track the _Grackle_ at the same time. What's the range?"
 
 "2.3 nautical miles. And they are increasing speed now."
+
+[//]: # (----- 2k words from last edit point -----)
 
 "They're trying to close on us. You might be right Gregory." Percy glanced at the battery gauges. They were moving fast enough at ten knots that she could almost see the batteries draining. Those gauges had passed into the hatched red zone. They only had a matter of 20 minutes or so of battery remaining. Then they would be forced to remain stationary or surface --- either was they would be an easy target for a final ramming.
 
