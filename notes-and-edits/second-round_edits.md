@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-15 16:51
+Last modified: 2023-05-17 11:33
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -217,18 +217,10 @@ Edits to pick up in second full pass through the book
 	* [X] Might be cool to have people living out among the garbage gyre hulks -- trash pickers on small boats that wander among the hulks
 	* [X] Somewhere in here, the Grackle shows up again -- to their disbelief; conversation about why should the grackle still be after them with no cargo? -- and chases them into the Garbage Gyre
 		* "It's the same sensation as sticking your hand into a shit-filled toilet bowl."
-	* [ ] In the final battle, strip out all cursing
+	* [X] In the final battle, strip out all cursing
 		* (To add a quiet intensity)
-	* [ ] As the Grackle sinks, a voice comes over the ship-to-ship
-		* "Sylvia... you left me up there to die."
-		* "...Owen? ...But how..."
-		* "You left me up there. I would have died. But I got washed onto the deck of the Grackle. They took me aboard, unlike you."
-		* "Owen.. I didn't..."
-		* "Shut up Sylvia. I told them your hold was full of weapons and supplies. Even after Stilt City. That you were going to be supplying rebels up and down the coast of ehfehgkegk. That you were a crazy idealist who would stop at nothing. That you had valuable metals aboard. I told them anything to keep them after you. I wanted you sunk."
-		* And the radio winks out at some point.
-		* [The Grackle was after them initially for the reasons Miss Mai stated, but Owen made it personal after Stilt City.]
-		* Add this comment here:
-			* [//]: # (Surprise! It was Owen all along. Or at least since the storm. In the early versions of the book, I made the motivation much more abstract -- that the commander of the Grackle was after them because Own screwed his wife; but at the same time he did not really _feel_ that, he just felt like it was his duty to be a jealous husband and so took up this chase simply because that is what society expected him to do, not because he particularly cared. I still find that idea compelling and interesting myself: How much do our actions REALLY come from our emotions, and how much are they societally determined? But test readers were universally confused by this idea, so I give the reader what they want: a straight revenge story with a twist ending. It fits better with the style of the book anyway and ties everything up in a neat narrative knot that may be unlike real life, but is very like what people want from a good story. I thought once maybe I could make this novel accessible and fun to read AND an art novel that probes deeper more abstract questions about human nature. I guess accessible and fun to read conquered abstraction and complexity -- at least I hope so!)
+	* [X] As the Grackle sinks, add Owen final dialog
+		* [X] Add comment about change in motivation
 * Final bbq scene: 
 	* [ ] see Shakes' notes below
 * [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize

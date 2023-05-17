@@ -403,7 +403,7 @@ It started pinging. The round ringing echo of it almost hurt her ears.
 
 Bastian spun the rudder control wheel and the boat listed slightly over to one side as it made its turn.
 
-Cassandra did not hear any corresponding change to the torpedoes direction. "It doesn't seem to be tracking us Percy --- no change to direction."
+Cassandra did not hear any corresponding change to the torpedo's direction. "It doesn't seem to be tracking us Percy --- no change to direction."
 
 "OK, it hasn't acquired us... yet. What's the range?"
 
@@ -493,7 +493,7 @@ As Percy hung the mic back up above her head, Bastian reached one long finger ou
 
 "I believe so. It is just a refined use of dead reckoning."
 
-"Never was very good at dead reckoning myself."
+"Never was very good at reckoning the dead myself."
 
 "All you have to do is drive the boat Captain Shakes."
 
@@ -523,7 +523,7 @@ They gained depth quickly, and almost immediately the hull of the _Gnat_ began t
 
 Crackling sounds snapped and echoed from somewhere deep in the forward compartment.
 
-"_Captain_ Shakes. And tell the boat, not me man," said Shakes. His hands were sweating. He put a cigarette to his lips, but forgot to light it.
+"_Captain_ Shakes. And tell the boat, not me man." Shakes' hands were sweating. He put a cigarette to his lips, but forgot to light it.
 
 Hemi stared at his ticking watch.
 
@@ -551,7 +551,7 @@ It took a second for Hemi to realize that was because the hatch above him did no
 
 Hemi smacked a heavy fist against the hull above him. 
 
-Shakes could hear the pounding in the pilot's seat. "Hemi. You have to get that open. If the weapon arms in the trunk, we're done."
+Shakes could hear the pounding in the pilot's seat. "Hemi. You have to get that open. We can't have that weapon arm itself in the trunk..."
 
 "I am aware of that!" Hemi pressed his lips together, concentrating on revising his estimates of where the boats were in relation to each other, and at the same time trying to figure out a way to release the hatch. "Come shallow by a few meters," Hemi shouted forward, "...that might be all we need." A second went by and Hemi knew they were getting out of position. "You also need to come left to 222 degrees, Hard! Now!"
 
@@ -580,7 +580,7 @@ Nothing happened.
 
 No go Hemi." Shakes said with some kind of resolve reflecting in his voice. "We must have cracked the ballast tanks. The blow isn't doin' anything."
 
-At that moment the mine detonated, far to close to the _Gnat_ for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the _Gnat's_ small sail. The sound was so loud that it rang Shakes' and Hemi's ears. Whatever small cracks that had opened in the seams before now split wide and freezing black water poured in.
+At that moment the mine detonated, far to close to the _Gnat_ for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the _Gnat's_ small sail and yanked on it. The sound was so loud that it rang Shakes' and Hemi's ears. Whatever small cracks that had opened in the seams before now split wide and freezing black water poured in.
 
 The power blinked and then went out. Hemi felt his way forward in the blackness, climbing over the engine. He found Shakes by feel. Shakes was laying against the sonar equipment on the side wall that was now the floor, in half a meter of water that was rising quickly.
 
@@ -590,7 +590,10 @@ The power blinked and then went out. Hemi felt his way forward in the blackness,
 
 The _Gnat_ was sinking. 
 
-But not so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn and the sail rolled back up to where it was supposed to be. 
+[//]: # (Add: back to the Prospect here)
+
+
+But the _Gnat_ was not so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn and the sail rolled back up to where it was supposed to be. 
 
 Shakes was almost ecstatic. He started laughing. "Hemi! This is it. But at least the _Gnat_ is going down upright! With some dignity!" He found his lighter and tried to light the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter showed them how dire their situation was.
 
