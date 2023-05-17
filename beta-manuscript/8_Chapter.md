@@ -300,8 +300,6 @@ Hemi held the stopwatch up in front of his eyes and the second hand rapidly scre
 
 The second hand curled around and came up level. In Hemi's head the boats were all in the exact position. His thick fingers tightened on the lever, and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
 
-[//]: # (--- EDITED TO HERE ---)
-
 But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and flapped back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of three atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold, damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
 
 "The device is away Shakes!" Hemi called forward.
@@ -441,19 +439,17 @@ Percy smiled. "Nice work Cassandra! They may not risk another torpedo on us in t
 
 "2.3 nautical miles. And they are increasing speed now."
 
-[//]: # (----- 2k words from last edit point -----)
-
-"They're trying to close on us. You might be right Gregory." Percy glanced at the battery gauges. They were moving fast enough at ten knots that she could almost see the batteries draining. Those gauges had passed into the hatched red zone. They only had a matter of 20 minutes or so of battery remaining. Then they would be forced to remain stationary or surface --- either was they would be an easy target for a final ramming.
+"They're trying to close on us. You might be right Gregory." Percy glanced at the battery gauges. They were moving fast enough at ten knots that the needles on the battery-charge gauges were dropping. Those gauges had passed into the hatched red zone. That left only a matter of 20 minutes or so of battery remaining. After that, they would be forced to remain stationary or surface --- either way they would be an easy target for a final ramming.
 
 "Find the _Gnat_ Cassandra! Quickly!"
 
-It was not an easy task. While the _Gnat_ created an earth-shaking amount of noise while running diesel on the surface, its small size and tiny electric motor made it nearly invisible under water. And even though it was relatively quite, the noise from the _Prospect's_ electric motors at this speed also drowned out much chance of hearing a target as small as the _Gnat_. The only way it could be done was by carefully filtering the _Prospect's_ motor noise out, and then somehow landing the sonar mics precisely on the bearing of the _Gnat_. Cassandra flipped filters on and off, and adjusted the fine-control dials carefully. Eventually she managed to limit the noise wash from the _Prospect_ to a degree that gave her some sense she might be able to hear her way around it.
+It was not an easy task. While the _Gnat_ created an earth-shaking amount of noise while running diesel on the surface, its small size and tiny electric motor made it nearly invisible under water. And even though it was relatively quiet, the noise from the _Prospect's_ electric motors at this speed also drowned out much chance of hearing a target as small as the _Gnat_. The only way it could be done was by carefully filtering the _Prospect's_ motor noise out, and then somehow landing the sonar mics precisely on the bearing of the _Gnat_. Cassandra flipped filters on and off, and adjusted the fine-control dials carefully. Eventually she managed to limit the noise wash from the _Prospect_ to a degree that gave her some sense she might be able to hear her way around it.
 
 She scanned and scanned, back and forth. All the way around the bow too, but mostly focusing on the direction behind where she had last heard the little boat moving. Her mind was out there, deep in the water behind her, but there was nothing but darkness there. She felt like she was blind to everything except for her sense of the _Prospect's_ position, and the _Grackle_ steadily gaining on them.
 
-Then she heard the faintest rhythmic pumping noise, off to the starboard side. It had to be mechanical, and the _Gnat_ was the only other machine in the area. She locked in on it, and tracked it carefully for a minute. "I've got them Captain Percy! 30 meters down, almost directly off our starboard side. About a quarter mile off."
+Then she heard the faintest rhythmic pumping noise, off to the starboard side. It had to be mechanical, and the _Gnat_ was the only other machine in the area. She locked in on it, and tracked it carefully for a minute. "I've got them Captain Percy. 30 meters down, almost directly off our starboard side. About a quarter mile off."
 
-"Excellent. They might hear us on ship-to-ship." Percy pulled down the radio mic and called out into the water for Shakes.
+"Excellent. They might hear us on ship-to-ship." Percy pulled down the mic and called out into the water for Shakes.
 
 "_Prospect_! Captain Shakes here. I read you. Nice to hear you didn't go down with that last torp."
 
@@ -475,19 +471,24 @@ Another second passed. "Hemi says --- get this --- 'he will take your remaining 
 
 As Percy hung the mic back up above her head, Bastian reached one long finger out and fruitlessly tapped the battery gauge.
 
-------
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (### Back in the Gnat to lay the final warhead)
 
 "We have to go deeper Shakes. 50 meters."
 
-"Can't do that Hemi. The _Gnat_ was built at altitude man! Below 30 and the seams start splitting. 50 is out of the question."
+"Can't do that Hemi. The _Gnat_ was built at altitude man! The heart of the boat is in the air, not underwater."
+
+"The _Gnat_ is a submarine Captain Shakes."
+
+"Below 30 and the seams start splitting. 50 is out of the question."
 
 "If we lay the mines shallow, the _Grackle_ hits them head on. As you could see from the first device, the ram essentially acts as heavy plated armor. We are not going to do any damage if their boat hits the mine with the ram. If we can get the device _under_ their boat though --- if we can get it to detonate right in the middle of their sub --- the upward force of the explosion will blow through the middle and break the sub's back. Snap it in half. And all the watertight compartments in the world will not help them at that point. At least in theory."
 
 "That sounds to me like the _Gnat_ would have to be directly under them, release the mine, and have it go off almost immediately. How are we surviving that Hemi?"
 
-"Not quite. I will set the arming timer. We can leave the mine under their path, and if I get the timer right, the weapon will arm just as the middle of the sub passes over it --- and detonate immediately. We would have a few minutes at least to move the _Gnat_ to safety, probably the surface again."
+"Not quite. I will set the arming timer. We can leave the mine under their path, and if I get the timer right, the weapon will arm just as the middle of the sub passes over it --- and detonate immediately. We would have a few minutes at least to move the _Gnat_ to safety, probably to the surface again."
 
 "You can calculate the timing that precisely?"
 
@@ -521,7 +522,7 @@ They gained depth quickly, and almost immediately the hull of the _Gnat_ began t
 
 "The boat is doing great Shakes."
 
-Crackling sounds snapped and echoed from somewhere deep in the forward compartment.
+Crackling sounds snapped and echoed from somewhere in the forward compartment.
 
 "_Captain_ Shakes. And tell the boat, not me man." Shakes' hands were sweating. He put a cigarette to his lips, but forgot to light it.
 
@@ -531,23 +532,23 @@ Hemi stared at his ticking watch.
 
 "OK, start leveling out," said Hemi, "I think you can stay above 50. I have to go prep and load the mine." Hemi listened for one second more to the sonar, checked his stopwatch, and sidled back to load the second device into the escape trunk. 
 
-The _Gnat_ clearly did not like being this deep, it groaned and cracked and gave every impression of being on the verge of imploding. Hemi reassured himself that he had been in lots of boats that were just 'noisy' when they went deep --- though apparently perfectly sound. Some boats just liked to vocally let their operators know about the stress they were suffering, like whiny children. On the other hand, those were professionally-built boats designed by engineers. Those boats just happened to have a few idiosyncrasies. Hemi could not shake off the knowledge that this boat was built by... Shakes. It was _all_ Idiosyncrasy.
+The _Gnat_ clearly did not like being this deep, it groaned and cracked and gave every impression of being on the verge of imploding. Hemi reassured himself that he had been in lots of boats that were just 'noisy' when they went deep --- though apparently perfectly sound. Some boats just liked to vocally let their operators know about the stress they were suffering, like whiny children. On the other hand, those were professionally-built boats designed by engineers. Those boats just happened to have a few idiosyncrasies. Hemi could not shake off the knowledge that this boat was built by... Shakes. It was _all_ Idiosyncrasies.
 
-It was only a minute later before both Hemi and Shakes knew it was not just the _Gnat_ being vocal. There was water in the bilge and it was rising. They could hear water sloshing around. Somewhere in the _Gnat_ the seams were leaking.
+It was only a minute later before both Hemi and Shakes knew it was not just the _Gnat_ being vocal. There was water in the bilge and it was rising. They could hear water sloshing around. Somewhere in the _Gnat_, the seams were leaking.
 
 "Better hurry Hemi. I'm not sure how much longer we can stay this deep."
 
 Hemi looked at the stopwatch. "3 minutes. Just hold the boat right at the level and speed you have --- do not let anything change."
 
-Hemi had stuffed the explosive cylinders, bumpers, and lines of the second device up into the still-wet escape trunk. He quickly scribbled calculations on his pad, made adjustments to his slide-rule, looked at the stopwatch, and came to a solution. He reached up and set the timers on the explosive cylinders. "I hope that is correct." He said to himself, and sealed the device into the escape trunk.
+Hemi had stuffed the explosive cylinders, bumpers, and lines of the second device up into the still-wet escape trunk. He quickly scribbled calculations on his pad, made adjustments to his slide-rule, looked at the stopwatch, and came to a solution. He reached up and set the timers on the explosive cylinders. "I hope that is correct," he said to himself, and sealed the device into the escape trunk.
 
 "30 seconds!" Hemi called forward. He put his hand on the lever. The hand of the stopwatch ticked around, climbing upwards. It hit the zero mark. Hemi hefted the lever that released the escape trunk hatch. It slid easily back this time. 
 
 It took a second for Hemi to realize that was because the hatch above him did not open.
 
-"That hatch is not open!" Hemi yelled forward, real panic slipping into the baritone of his voice.
+"That hatch is not open!" Hemi yelled forward, true panic slipping into the baritone of his voice.
 
-"The pressure Hemi! The whole hull is compressed, the hatch must be wedged in its seat!"
+"The pressure Hemi! The whole hull is compressed. The hatch must be wedged in its seat!"
 
 Hemi smacked a heavy fist against the hull above him. 
 
@@ -557,14 +558,17 @@ Shakes could hear the pounding in the pilot's seat. "Hemi. You have to get that 
 
 The boat leaned over dramatically as Shakes turned the yoke left all the way to its stop. At the same time the bow rose slowly in response to his gentle backwards pull on the yoke.
 
-Hemi pounded and pounded against the hull. He slid the release lever in and out uselessly. "No throttle! We will be too close!"
+Hemi pounded and pounded against the hull. He slid the release lever in and out uselessly. "No throttle! We have to release it right here!"
 
-Shakes pulled the throttle back and the boat drifted. Hemi picked up the crescent wrench and smacked the hull repeatedly until he left dents. Sweat beaded at his temples and his face went red with a deep anger rarely seen on his calm features. He let out a yell that scared Shakes to his core. 
+Shakes pulled the throttle back and the boat drifted. Hemi picked up the crescent wrench and smacked the hull repeatedly until he left dents. Sweat beaded at his temples and his face went red with a deep anger rarely seen on his calm features. He let out a yell that frightened Shakes to his core. 
 
 Hemi gave one final smack against the release lever with the wrench.
 
-He heard a pop, and water fall into the escape trunk. Hemi quickly leaned over and slapped his ear against the wet steel of the escape trunk. He could hear the mine lifting away out of it. "It opened! Full throttle! Any direction! Get us away from here!"
+He heard a pop, and water falling into the escape trunk. Hemi quickly leaned over and slapped his ear against the wet steel of the escape trunk. He could hear the mine lifting away out of it. "It opened! Full throttle! Any direction! Get us away from here!"
 
+[//]: # (--- EDITED TO HERE ---)
+
+[//]: # (----- 2k words from last edit point -----)
 
 [//]: # (### The _Grackle_ is exploded; the Gnat is sinking)
 
