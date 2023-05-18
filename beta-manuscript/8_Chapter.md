@@ -443,7 +443,7 @@ Percy smiled. "Nice work Cassandra! They may not risk another torpedo on us in t
 
 "They're trying to close on us. You might be right Gregory." Percy glanced at the battery gauges. They were moving fast enough at ten knots that the needles on the battery-charge gauges were dropping. Those gauges had passed into the hatched red zone. That left only a matter of 20 minutes or so of battery remaining. After that, they would be forced to remain stationary or surface --- either way they would be an easy target for a final ramming.
 
-"Find the _Gnat_ Cassandra! Quickly!"
+"Find the _Gnat_ Cassandra. Quickly!"
 
 It was not an easy task. While the _Gnat_ created an earth-shaking amount of noise while running diesel on the surface, its small size and tiny electric motor made it nearly invisible under water. And even though it was relatively quiet, the noise from the _Prospect's_ electric motors at this speed also drowned out much chance of hearing a target as small as the _Gnat_. The only way it could be done was by carefully filtering the _Prospect's_ motor noise out, and then somehow landing the sonar mics precisely on the bearing of the _Gnat_. Cassandra flipped filters on and off, and adjusted the fine-control dials carefully. Eventually she managed to limit the noise wash from the _Prospect_ to a degree that gave her some sense she might be able to hear her way around it.
 
@@ -532,11 +532,11 @@ Hemi stared at his ticking watch.
 
 "45 meters."
 
-"OK, start leveling out," said Hemi, "I think you can stay above 50. I have to go prep and load the mine." Hemi listened for one second more to the sonar, checked his stopwatch, and sidled back to load the second device into the escape trunk. 
+"OK, start leveling out," said Hemi, "I think you can stay just above 50. I have to go prep and load the mine." Hemi listened for one second longer to the sonar, checked his stopwatch, and sidled back to load the second device into the escape trunk. 
 
-The _Gnat_ clearly did not like being this deep, it groaned and cracked and gave every impression of being on the verge of imploding. Hemi reassured himself that he had been in lots of boats that were just 'noisy' when they went deep --- though apparently perfectly sound. Some boats just liked to vocally let their operators know about the stress they were suffering, like whiny children. On the other hand, those were professionally-built boats designed by engineers. Those boats just happened to have a few idiosyncrasies. Hemi could not shake off the knowledge that this boat was built by... Shakes. It was _all_ Idiosyncrasies.
+The _Gnat_ clearly did not like being this deep. It groaned and cracked and gave every impression of being on the verge of imploding. Hemi reassured himself that he had been in lots of boats that were just 'noisy' when they went deep --- though apparently perfectly sound. Some boats just liked to be vocal about letting their operators know the stress they were suffering, like whiny children. On the other hand, those were professionally-built boats designed by engineers. Those boats just happened to have a few idiosyncrasies. Hemi could not shake off the knowledge that this boat was built by... Shakes. It was _all_ idiosyncrasies.
 
-It was only a minute later before both Hemi and Shakes knew it was not just the _Gnat_ being vocal. There was water in the bilge and it was rising. They could hear water sloshing around. Somewhere in the _Gnat_, the seams were leaking.
+Only a minute later, both Hemi and Shakes knew it was not just the _Gnat_ being vocal. There was water in the bilge and it was rising. They could hear it sloshing around. Somewhere in the _Gnat_, the seams were leaking.
 
 "Better hurry Hemi. I'm not sure how much longer we can stay this deep."
 
@@ -611,9 +611,9 @@ Captain Percy was sure that the explosion of the second device had literally roc
 
 What had been one contact was now splitting into two distinct parts. Those parts resolved themselves over a matter of a few seconds, and then Cassandra could hear the two pieces falling away from her. "Captain Percy, the _Grackle_ is in two pieces, and sinking."
 
-Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! Find the _Gnat_! As fast as possible!"
+Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! You need to find the _Gnat_ again! Now!"
 
-Before Cassandra could reply the dial on the ship-to-ship unit lit up above Captain Percy's Head. "Sylvia..."
+Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Captain Percy's Head. "Sylvia..."
 
 Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Shakes.
 
@@ -631,7 +631,7 @@ Percy could hear Owen breathing heavily into the mic.
 
 "The worst thing isn't being left to die by you a second time. It's that there turned out to be no purpose to it all. Redeemed from drowning, the purpose to my life was clear. My story was to be left for dead, and the rise again to take you down Sylvia. But now... Now I see there is no purpose, no narrative to my life. The world is nothing. Nothing but people like you, and long odds against any achievement. And everything balanced precariously over a bottomless hole."
 
-The radio went dark, and did not light again.
+The radio went dark, and did not light again. Percy dropped the butt of her cheroot to the deck and crushed it under her boot heel.
 
 [//]: # (Surprise! It was Owen all along. Or at least since the storm. In the early versions of the book, I made the motivation much more abstract -- that the commander of the Grackle was after them because Own screwed his wife; but at the same time he did not really _feel_ that, he just felt like it was his duty to be a jealous husband and so took up this chase simply because that is what society expected him to do, not because he particularly cared. I still find that idea compelling and interesting myself: How much do our actions REALLY come from our emotions, and how much are they societally determined? But test readers were universally confused by this idea, so I give the reader what they want: a straight revenge story with a twist ending. It fits better with the style of the book anyway and ties everything up in a neat narrative knot that may be unlike real life, but is very like what people want from a good story. I thought once maybe I could make this novel accessible and fun to read AND an art novel that probes deeper more abstract questions about human nature. I guess accessible and fun to read conquered abstraction and complexity -- at least I hope so!)
 
