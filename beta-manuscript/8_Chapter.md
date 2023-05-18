@@ -14,6 +14,8 @@
 [//]: # (### Cassandra finds the Gnat, they talk over ship-to-ship about the new plan)
 [//]: # (### Back in the Gnat to lay the final warhead)
 [//]: # (### The _Grackle_ is exploded; the Gnat is sinking)
+[//]: # (### In the Prospect, the big reveal.)
+[//]: # (### Return to the sinking Gnat)
 [//]: # (### Rescued by the Prospect, lifted from underneath)
 [//]: # (### Fishing and grilling)
 
@@ -566,25 +568,25 @@ Hemi gave one final smack against the release lever with the wrench.
 
 He heard a pop, and water falling into the escape trunk. Hemi quickly leaned over and slapped his ear against the wet steel of the escape trunk. He could hear the mine lifting away out of it. "It opened! Full throttle! Any direction! Get us away from here!"
 
-[//]: # (--- EDITED TO HERE ---)
-
-[//]: # (----- 2k words from last edit point -----)
-
 [//]: # (### The _Grackle_ is exploded; the Gnat is sinking)
 
-The electric motor wound up behind Hemi and the sudden acceleration almost rolled Hemi off his feet.
+The electric motor behind Hemi wound up to speed, and the sudden acceleration almost rolled him off his feet.
 
-Shakes lowered his head and tried to see up through the tiny viewport. Above the _Gnat_ the water was lighter. He saw a dark shadow pass through the light. 
+Shakes lowered his head and tried to see up through the tiny viewport. Above the _Gnat_, the water was lighter. He saw a dark shadow pass through the light. 
 
 "Blow the tanks!" Hemi yelled from the rear of the sub.
 
-Shakes pulled the lever, and the air blew through the boat. But the depth gauge did not move. Shakes tapped the gauge. He pushed the lever down, and pulled it up again, hard. Shakes believed deeply that with mechanical things you sometimes just had to get physical.
+Shakes pulled the lever, and the gust slammed through the boat. Through the viewport, he saw a worrying string of bubbles pouring from the front of his boat. 
+
+The depth gauge did not move. 
+
+Shakes tapped the gauge. He pushed the lever down, and pulled it up again, hard. Shakes believed deeply that with mechanical things you sometimes just had to get physical.
 
 Nothing happened.
 
-No go Hemi." Shakes said with some kind of resolve reflecting in his voice. "We must have cracked the ballast tanks. The blow isn't doin' anything."
+"No go Hemi," Shakes said with some kind of doomed resolve reflecting in his voice. "We must have cracked the ballast tanks. The blow isn't doin' anything. I think we're done here."
 
-At that moment the mine detonated, far to close to the _Gnat_ for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the _Gnat's_ small sail and yanked on it. The sound was so loud that it rang Shakes' and Hemi's ears. Whatever small cracks that had opened in the seams before now split wide and freezing black water poured in.
+At that moment the mine detonated. Far too close to the _Gnat_ for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the _Gnat's_ small sail and yanked on it. The sound was so loud that it rang Shakes' and Hemi's ears. Whatever small cracks that had opened in the seams before now split wide and freezing black water poured in.
 
 The power blinked and then went out. Hemi felt his way forward in the blackness, climbing over the engine. He found Shakes by feel. Shakes was laying against the sonar equipment on the side wall that was now the floor, in half a meter of water that was rising quickly.
 
@@ -594,8 +596,49 @@ The power blinked and then went out. Hemi felt his way forward in the blackness,
 
 The _Gnat_ was sinking. 
 
-[//]: # (Add: back to the Prospect here)
+[//]: # (----- invisible character break)
+ 
 
+[//]: # (### In the Prospect, the big reveal.)
+
+[//]: # (--- EDITED TO HERE ---)
+
+Captain Percy was sure that the explosion of the second device had literally rocked her boat. Just a sway, but enough force to make Percy start worrying about the strength of the seam in the cargo hold once again.
+
+"Cassandra! The second detonation: I need to know the results. Now."
+
+"Yes Captain Percy... I'm hearing a lot of popping and crackling. Hold on..." She scanned the sonar. The soundscape was a confusing mess: massive churning bubbles of air rising towards the surface, creaking and cracking metal, rushing water ...and distant screams of terror.
+
+What had been one contact was now splitting into two distinct parts. Those parts resolved themselves over a matter of a few seconds, and then Cassandra could hear the two pieces falling away from her. "Captain Percy, the _Grackle_ is in two pieces, and sinking."
+
+Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! Find the _Gnat_! As fast as possible!"
+
+Before Cassandra could reply the dial on the ship-to-ship unit lit up above Captain Percy's Head. "Sylvia..."
+
+Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Shakes.
+
+"Sylvia... are you going to leave me to die a second time?" The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
+
+Sylvia slowly reached a hand up to take the mic. She thumbed the transmitter. "...Owen? ...But how?"
+
+"You left me wounded on the sail of the _Prospect_ when you dove. You knew I was still alive --- you heard me banging. And I would have died in minutes in that storm, except by sheer luck I washed aboard the deck of the _Grackle_. Unlike you, they opened the hatch when they heard banging. But I guess my fate is to be destroyed by your selfish disregard --- one way or another."
+
+"Owen... I didn't..." Her thumb fell off the transmitter. The radio was dead for a few seconds.
+
+"When the _Grackle_ opened the hatch, I thought I was being given a chance. A chance to clear the world of your callous ego. I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make a fat prize. I told them anything they needed to hear to keep them after you."
+
+Percy could hear Owen breathing heavily into the mic.
+
+"The worst thing isn't being left to die by you a second time. It's that there turned out to be no purpose to it all. Redeemed from drowning, the purpose to my life was clear. My story was to be left for dead, and the rise again to take you down Sylvia. But now... Now I see there is no purpose, no narrative to my life. The world is nothing. Nothing but people like you, and long odds against any achievement. And everything balanced precariously over a bottomless hole."
+
+The radio went dark, and did not light again.
+
+[//]: # (Surprise! It was Owen all along. Or at least since the storm. In the early versions of the book, I made the motivation much more abstract -- that the commander of the Grackle was after them because Own screwed his wife; but at the same time he did not really _feel_ that, he just felt like it was his duty to be a jealous husband and so took up this chase simply because that is what society expected him to do, not because he particularly cared. I still find that idea compelling and interesting myself: How much do our actions REALLY come from our emotions, and how much are they societally determined? But test readers were universally confused by this idea, so I give the reader what they want: a straight revenge story with a twist ending. It fits better with the style of the book anyway and ties everything up in a neat narrative knot that may be unlike real life, but is very like what people want from a good story. I thought once maybe I could make this novel accessible and fun to read AND an art novel that probes deeper more abstract questions about human nature. I guess accessible and fun to read conquered abstraction and complexity -- at least I hope so!)
+
+[//]: # (----- invisible character break)
+ 
+
+[//]: # (### Return to the sinking Gnat)
 
 But the _Gnat_ was not so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn and the sail rolled back up to where it was supposed to be. 
 
