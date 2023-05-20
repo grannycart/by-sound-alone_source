@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-17 16:46
+Last modified: 2023-05-20 14:05
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -410,11 +410,15 @@ Edits to pick up in second full pass through the book
 * [ ] I keep going back and forth on chapter numbers:
 	* On one hand, the book is very linear. Maybe numbers make sense for their subtle "pull" feeling?
 	* On the other hand, do they do anything if you have chapter headers? (which I AM convinced I should keep now)
+* [ ] need to add at least one more reference to "Handome Gregory" later in the book.
+* [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
+* [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
+* [ ] A scene where Hemi is reading The Recognitions (describe cover, not name title.)
+	* maybe while on sonar, like:
+		* "Hemi sat on sonar watch reading a novel the size of a small tombstone with an illustration on the cover of some tortured pious soul."
 
 
 ## Leftover ideas, add for "director's cut"?
-* [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
-* [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
 * [X] Shakes affectionately calls the Gnat 'the bug'
 * [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 	* I don't think this will make it into the first book or short story
@@ -427,9 +431,6 @@ Edits to pick up in second full pass through the book
 	* [ ] add something about Cassandra listening to music? 
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
 * [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
-* [ ] A scene where Hemi is reading The Recognitions (describe cover, not name title.)
-	* maybe while on sonar, like:
-		* "Hemi sat on sonar watch reading a novel the size of a small tombstone with an illustration on the cover of some tortured pious soul."
 * [ ] Maybe have Bastian decorating his quarters with plants?
 	* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
 	* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
