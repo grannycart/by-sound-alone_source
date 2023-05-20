@@ -601,46 +601,48 @@ The _Gnat_ was sinking.
 
 [//]: # (### In the Prospect, the big reveal.)
 
-[//]: # (--- EDITED TO HERE ---)
-
-Captain Percy was sure that the explosion of the second device had literally rocked her boat. Just a sway, but enough force to make Percy start worrying about the strength of the seam in the cargo hold once again.
+The explosion of the second device had rocked the _Prospect_. Just a sway, but enough force for Captain Percy to start worrying about the strength of the seam in the cargo hold once again.
 
 "Cassandra! The second detonation: I need to know the results. Now."
 
-"Yes Captain Percy... I'm hearing a lot of popping and crackling. Hold on..." She scanned the sonar. The soundscape was a confusing mess: massive churning bubbles of air rising towards the surface, creaking and cracking metal, rushing water ...and distant screams of terror.
+"Yes Captain Percy... I'm hearing a lot of popping and crackling. Hold on..." She scanned the sonar. The soundscape was a confusing mess: massive churning bubbles of air rising towards the surface, creaking and cracking metal, rushing water ...and distant screams of terror. "Captain Percy: I'm almost certain the _Grackle_ is done. I'm hearing nothing but... but _damage_."
 
-What had been one contact was now splitting into two distinct parts. Those parts resolved themselves over a matter of a few seconds, and then Cassandra could hear the two pieces falling away from her. "Captain Percy, the _Grackle_ is in two pieces, and sinking."
-
-Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! You need to find the _Gnat_ again! Now!"
+Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! You need to find the _Gnat_ again. Now!"
 
 Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Captain Percy's Head. "Sylvia..."
 
 Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Shakes.
 
-"Sylvia... are you going to leave me to die a second time?" The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
+"Sylvia... are you leaving me to die a second time?" The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
 
 Sylvia slowly reached a hand up to take the mic. She thumbed the transmitter. "...Owen? ...But how?"
 
-"You left me wounded on the sail of the _Prospect_ when you dove. You knew I was still alive --- you heard me banging. And I would have died in minutes in that storm, except by sheer luck I washed aboard the deck of the _Grackle_. Unlike you, they opened the hatch when they heard banging. But I guess my fate is to be destroyed by your selfish disregard --- one way or another."
+"How? You mean: _how_ am I still alive? You left me alive, remember? You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me alive on the sail of the _Prospect_, and you dove out from under me.
+
+"And I would have died in minutes in that storm, just as you expected --- except by sheer luck I washed aboard the deck of the _Grackle_. Unlike you, they opened the hatch when they heard banging."
+
+Percy could hear Owen breathing heavily into the mic. She took a deep breath and squeezed the mic in her hand. "Owen, why didn't you just say something? Why didn't you raise us on the ship-to-ship earlier? We could have done something to get you off the _Grackle_..."
+
+"Get me _off_ the _Grackle_? The _Grackle_ was a blessing! When the hatch opened, I felt I was being given a second chance. A chance I would use to clear the world of your callous ego, your selfish disregard. I made the _Grackle_ my tool. I'm the reason the _Grackle_ continued after you! I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make a fat prize. I told them anything they needed to hear to keep them in pursuit."
 
 "Owen... I didn't..." Her thumb fell off the transmitter. The radio was dead for a few seconds.
 
-"When the _Grackle_ opened the hatch, I thought I was being given a chance. A chance to clear the world of your callous ego. I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make a fat prize. I told them anything they needed to hear to keep them after you."
+"...The worst thing isn't being left to die by you a second time. It's that there turned out to be no purpose to it all. Redeemed from drowning, the purpose to my life was clear: my story was to be left for dead, and the rise again to take you down Sylvia. But now... Now I see there is no purpose, no narrative to my life. The world is nothing. Nothing but people like you, and long odds against anyone else. And all of us are balanced precariously over a bottomless hole."
 
-Percy could hear Owen breathing heavily into the mic.
+The ship-to-ship radio went dark. It did not light again. Percy hung the mic on its nub. She dropped the butt of her cheroot to the deck and crushed it under her boot heel.
 
-"The worst thing isn't being left to die by you a second time. It's that there turned out to be no purpose to it all. Redeemed from drowning, the purpose to my life was clear. My story was to be left for dead, and the rise again to take you down Sylvia. But now... Now I see there is no purpose, no narrative to my life. The world is nothing. Nothing but people like you, and long odds against any achievement. And everything balanced precariously over a bottomless hole."
+Cassandra kept the sonar tracking what was left of the _Grackle_. What had been one contact was now splitting into two distinct parts. Those parts resolved themselves over a matter of a few seconds, and then Cassandra could hear the two pieces falling away from her. "Captain Percy, the _Grackle_ is in two pieces. I'm losing the contact."
 
-The radio went dark, and did not light again. Percy dropped the butt of her cheroot to the deck and crushed it under her boot heel.
-
-[//]: # (Surprise! It was Owen all along. Or at least since the storm. In the early versions of the book, I made the motivation much more abstract -- that the commander of the Grackle was after them because Own screwed his wife; but at the same time he did not really _feel_ that, he just felt like it was his duty to be a jealous husband and so took up this chase simply because that is what society expected him to do, not because he particularly cared. I still find that idea compelling and interesting myself: How much do our actions REALLY come from our emotions, and how much are they societally determined? But test readers were universally confused by this idea, so I give the reader what they want: a straight revenge story with a twist ending. It fits better with the style of the book anyway and ties everything up in a neat narrative knot that may be unlike real life, but is very like what people want from a good story. I thought once maybe I could make this novel accessible and fun to read AND an art novel that probes deeper more abstract questions about human nature. I guess accessible and fun to read conquered abstraction and complexity -- at least I hope so!)
+[//]: # (Surprise! It was Owen all along. Or at least since the storm. In the early versions of the book, I made the motivation much more abstract --- that the commander of the Grackle was after them because Own screwed his wife; but at the same time he did not really _feel_ that, he just felt like it was his duty to be a jealous husband and so took up this chase simply because that is what society expected him to do, not because he particularly cared. I still find that idea compelling and interesting myself: How much do our actions REALLY come from our emotions, and how much are they societally determined? But test readers were universally confused by this idea, so I give the reader what they want: a straight revenge story with a twist ending. It fits better with the style of the book anyway and ties everything up in a neat narrative knot that may be unlike real life, but is very like what people want from a good story. And I think, in the end, Owen came around to a similar point of nihilism as the sub commander in the first version anyway --- just in a more narratively coherent way. I thought once maybe I could make this novel accessible and fun to read AND an art novel that probes deeper more abstract questions about human nature. I guess accessible and fun to read conquered abstraction and complexity -- at least I hope so!)
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Return to the sinking Gnat)
 
-But the _Gnat_ was not so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn and the sail rolled back up to where it was supposed to be. 
+[//]: # (--- EDITED TO HERE ---)
+
+But the _Gnat_ was not sinking so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn and the sail rolled back up to where it was supposed to be. 
 
 Shakes was almost ecstatic. He started laughing. "Hemi! This is it. But at least the _Gnat_ is going down upright! With some dignity!" He found his lighter and tried to light the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter showed them how dire their situation was.
 
