@@ -315,7 +315,7 @@ Miss Mai nodded. "Unfortunately there is some truth to that. There's no sure fut
 
 "You know how the Authorities are Captain Percy. In some places they pursue everything. An honest logistician cannot ever promise there won't be interference. That's why we move things by submarine: interference is a lot less likely if they don't know the shipping is happening. In this case, I would suggest that you do your absolute best to make sure no Authority finds out this particular shipment is happening."
 
-Captain Percy sat silently looking into the depths of her coffee cup for a moment. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and why we need the major repair work."
+Captain Percy ran her fingers through her cropped hair. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and why we need the major repair work."
 
 At the mention of the ram Miss Mai's eyebrows went up with a look of concern. "A ram on a submarine you say?"
 
