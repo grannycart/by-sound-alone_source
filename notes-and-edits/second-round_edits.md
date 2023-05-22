@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-20 14:05
+Last modified: 2023-05-22 13:43
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -410,7 +410,8 @@ Edits to pick up in second full pass through the book
 * [ ] I keep going back and forth on chapter numbers:
 	* On one hand, the book is very linear. Maybe numbers make sense for their subtle "pull" feeling?
 	* On the other hand, do they do anything if you have chapter headers? (which I AM convinced I should keep now)
-* [ ] need to add at least one more reference to "Handome Gregory" later in the book.
+* [X] need to add at least one more reference to "Handome Gregory" later in the book.
+	* Added it as the last thing Hemi says to Gregory
 * [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
 * [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
 * [ ] A scene where Hemi is reading The Recognitions (describe cover, not name title.)

@@ -25,15 +25,15 @@
 
 [//]: # (### Hemi comes up with a plan)
 
-Around mid-afternoon Hemi joined Percy on the bridge of the sail. Bastian had been sent off for much-needed rest, and Gregory was temporarily covering sonar for Hemi, who needed a break to clear his mind after the endless, numbing noise. Hemi would have asked Cassandra to cover for him, but there was no way to know how Percy would react if she found Cassandra returned to the sonar station.
+Around mid-afternoon Hemi joined Captain Percy on the bridge of the sail. Bastian had been sent off for much-needed rest, and Gregory was temporarily covering sonar for Hemi, who needed a break to clear his mind after the endless, numbing noise. Hemi would have asked Cassandra to cover for him, but there was no way to know how Percy would react if she found Cassandra returned to the sonar station.
 
 Percy was squinting into binoculars as she scanned around the horizon. She was unused to the brightness of the ocean under high daylight. 
 
-She heard Hemi's heavy step from the ladder onto the bridge, but she did not look away from the horizon while she spoke to him. "We have to make a move. The surface is an unnatural place for a submarine to hide. They are going to fucking find us eventually."
+She heard Hemi's heavy step from the ladder onto the bridge, but she did not look away from the horizon while she spoke to him. "We have to make a move. The surface is an unnatural place for a submarine to hide. They are going to find us sooner or later."
 
 "Having charted their search pattern, I agree. They are following an extremely systematic course, and that suggests to me that sub commander has high confidence that he will find us eventually --- and is willing to take the time to do it."
 
-"We need to fucking end this. We can't run and hide forever. That fucker might be under the delusion he's fighting an entrenched battle, and will go on fighting with all the deep-pocketed resources of an Authority. But we have got to get back to work. We have no fucking margin that covers operating in these conditions where we're constantly some kind of fucked-up prey."
+"We need to end this. We can't run and hide forever. That fucker might be under the delusion he's fighting an entrenched battle, and will go on fighting with all the deep-pocketed resources of an Authority. But we have got to get back to work. We have no margin that covers constantly operating in this fucked-up prey condition."
 
 "I have had the same thought. And I have an idea we could try --- though I warn you it is extremely unlikely to work."
 
@@ -51,46 +51,46 @@ At this, Percy lowered the lenses and looked at him. "You have another option an
 
 "I don't think Shakes is going to appreciate you turning his boat into a fuckin' torpedo. As small and shittily made as it is."
 
-Hemi proceeded to lay out a plan for her that, though likely to end with the destruction of the _Gnat_, did at least not intentionally involve blowing the _Gnat_ up. It did, however, feature the _Prospect_ as bait. It took some convincing on Hemi's part for Percy to fully come around to supporting the idea.
+Hemi proceeded to lay out a plan for her that, though it had a good chance of ending with the destruction of the _Gnat_, did at least not involve intentionally blowing the _Gnat_ up. It did, however, feature the _Prospect_ as bait. It took some convincing on Hemi's part for Percy to fully come around to supporting the idea.
 
-"OK. We're going to fucking try your insane plan to take out a military submarine with nothing but leftover parts hanging around my darling _Prospect_. Go ahead and get Shakes on the pigeon."
+"OK. We're going to try your --- frankly, fucking insane --- plan to take out a military submarine with nothing but leftover parts hanging around my darling _Prospect_. Go ahead and get Shakes on the pigeon."
 
 "You mean Herschel."
 
-"I don't care what the fuckin' bird's name is. Just make sure Shakes heads back this way as silently as fuckin' possible."
+"I don't care what the bird's name is. Just make sure Shakes heads back this way as silently as fuckin' possible."
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Loading the Gnat)
 
-Hemi got Herschel off carrying instructions to Shakes to return to the _Prospect_ submerged and running slowly on battery power. It was going to take a while for Herschel to find Shakes, and then a while longer for Shakes to motor quietly back. Hemi figured he had a couple of hours at least to gather the things he needed.
+Hemi got Herschel launched, carrying instructions to Shakes to return to the _Prospect_ submerged and running slowly on battery power. It was going to take a while for Herschel to find Shakes, and then a while longer for Shakes to motor quietly back. Hemi figured he had a couple of hours at least to gather the things he needed.
 
 The magnetic warheads were in the crates he had left in the cargo hold. He selected a half dozen of the ones that were least coated with rust and hauled them to a work table in the engine room. Each weighed about 25 kilograms and consisted of a cylinder containing high explosives that was about 300 millimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with a magnet that was strong enough to activate the switching mechanism, but weak enough that it was not likely to actually adhere itself to the target. The magnet was intended to be a trigger, not an attaching component.
 
 The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device would enable any idiotic naval deckhand to understand how it worked, and thus handle it safely. Details were printed right on the side of the explosives cylinder. 
 
-It was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons from extinct microscopic sea creatures. It could not be set off without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finicky that it would not go off in the close presence of another high explosive. A fortunate thing, because Hemi estimated he needed to chain at least two of these devices for detonation if he wanted to blow a hole through the pressure hull of a military submarine.
+It was from this block of text that Hemi learned the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons from extinct microscopic sea creatures. It could not be set off without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finicky that it would not go off in the close presence of another high explosive. A fortunate thing, because Hemi estimated he needed to chain at least two of these devices to detonate if he wanted to blow a hole through the pressure hull of a military submarine.
 
-He used large steel straps to join two of the cylinders together, orienting them so the magnetic trigger plates faced outwards on both ends. He tracked down some batteries and wired them in as the power supplies for the triggers. From a forgotten storage compartment for parts in the engine room he found a pile of old mechanical timed switches that could be wound up and the timer set for when they would close the circuit. He wired these into the arming circuit on each warhead.
+He used large steel straps to join two of the cylinders together, orienting them so the magnetic trigger plates faced outwards on both ends. He tracked down some batteries in waterproof cases and wired them in as the power supplies for the triggers. From a forgotten storage compartment for parts in the engine room he found a pile of old mechanical timed switches that could be wound up and the timer set for when they would close the circuit. He wired these into the arming circuit on each warhead.
 
 He made three more doubled-up units like this. With two magnetic warhead strapped together, each weighed more than 50 kilograms. Then he plundered the many storage compartments throughout the boat looking for the rest of the parts he needed: some old boat bumpers, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips. So a screwdriver went on his list of things to find too.
 
-He had most of the parts he needed gathered together when he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Gregory to help him move all the parts he had gathered down to the _Prospect's_ battery compartment near the hatch that opened down to the _Gnat_.
+He had most of the parts he needed gathered together when he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Gregory to help him move all of his parts and equipment down to the _Prospect's_ battery compartment near the hatch to the _Gnat_.
 
 As Gregory opened the hatch to see Shakes' greasy-haired visage grinning up at them, Percy's voice came back on the _Prospect's_ PA. "Hemi, Bastian is telling me that he is tracking the _Grackle_ closing on us. He thinks they picked up the _Gnat_ and followed Shakes in."
 
 Still down in the _Gnat's_ control seat, Shakes could hear the PA message. "Tell Percy there's no fuckin' way man --- I was ultra fucking slow and quiet on my approach. I could have passed through a sleeping baby's bedroom without fuckin' waking it."
 
-"They were pinging constantly," Hemi replied, leaning over the hatch down to the _Gnat_ to accept the small package of feathers, feet, and beak that Shakes was holding up to him. "They may have simply caught you in motion and followed the only moving object in the water. It cannot be helped now. Here Gregory, stow Herschel somewhere safe, and then help me get these parts down to the _Gnat_."
+"They were pinging constantly," Hemi replied, leaning over the hatch down to the _Gnat_ to accept the small package of feathers, feet, and beak that Shakes was holding up to him. "They may have simply caught you in motion and followed the only moving object in the water. It cannot be helped now. Here Gregory, stow Herschel somewhere safe, and then help me get these parts into the _Gnat_."
 
 "What's the fuckin' plan?" Shakes asked as he accepted some filthy old boat bumpers down through the hatch and tossed them backward into the cargo space behind him.
 
 "I am coming with you. If the _Grackle_ is coming in, we need to get the _Gnat_ off as quickly as possible. I will explain the plan on the way," said Hemi.
 
-Hemi had Shakes swap places with him, and standing down in the _Gnat_ received the heavy explosive units that a straining Gregory and Shakes lowered down to him. After that it was only a matter of minutes to pass down all the remaining odds and ends into the smaller boat.
+Hemi had Shakes swap places with him, and standing down in the _Gnat_ received the heavy explosive units that a straining Gregory and Shakes lowered down to him. After that, it was only a matter of minutes to pass down all the remaining odds and ends into the smaller boat.
 
-When it looked like everything was aboard, Shakes climbed down and joined Hemi in the _Gnat_.
+With everything aboard, Shakes climbed down and joined Hemi in the _Gnat_.
 
 "I hope you didn't fuckin' forget anything," Shakes said, looking at the pile of what appeared to be fundamentally garbage in the middle of his boat's cargo space.
 
@@ -100,7 +100,9 @@ Shakes grinned.
 
 "If y'all have everything, I'm going to seal these fuckin' hatches." Gregory called down from the _Prospect_.
 
-Hemi shuffled his big body forward in the cramped space and looked up at Gregory. Gregory reached out his hand, and Hemi lifted one meaty mitt to meet it. Shakes watched them shake.
+Hemi shuffled his big body forward in the cramped space and looked up at Gregory. "Handsome Gregory, may you always remain at least as attractive as you are today," said Hemi.
+
+Gregory reached out his hand, and Hemi lifted one meaty mitt to meet it. Shakes watched them shake.
 
 "Don't fuckin' die down there Captain Shakes," Gregory said, angling his head so his voice reached back to where Shakes was standing.
 
@@ -108,9 +110,11 @@ Hemi shuffled his big body forward in the cramped space and looked up at Gregory
 
 Shakes shimmied forward and slithered into the _Gnat's_ control seat. He unclipped one of the bigger wrenches from his hip and gave the hatch above his head a ringing double-tap to let Gregory know they were about to disconnect. As his hand with the wrench came down, he put out a finger and snapped open the switch that connected the circuit to the docking clamps. It was immediately followed by a low thump from the outside of the _Gnat's_ hull.
 
-Hemi was still wedged into the small space next to the control chair. "If you're going to take up that space there big guy, would you mind workin' the fuckin' trim? Give us a little flood if you don't mind."
+Hemi was still wedged into the small space next to the control chair. "If you're going to take up that space there big guy, would you mind workin' the fuckin' trim? Give us a bit o' flood if you don't mind."
 
 Shakes had left the _Gnat_ a little over-buoyant while it was attached to the _Prospect_, so even with the docking clamps disengaged the boat's mating collar was still pressed firmly against the _Prospect's_. Hemi twisted open a valve and they could hear water pouring into the _Gnat_. It was only seconds later that the boat dropped a meter or two. Shakes gave the electric motor some throttle. Most of the dials in front of the two men suddenly came to life with their little fingers of fate wagging at them.
+
+[//]: # (--- REVIEWED TO HERE ---)
 
 "_Gnat_, _Gnat_. You boys fuckin' listening?" Captain Percy's voice lit up the ship-to-ship radio.
 
@@ -640,8 +644,6 @@ Cassandra kept the sonar tracking what was left of the _Grackle_. What had been 
 
 [//]: # (### Return to the sinking Gnat)
 
-[//]: # (--- EDITED TO HERE ---)
-
 But the _Gnat_ was not sinking so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn and the sail rolled back up to where it was supposed to be. 
 
 Shakes was almost ecstatic. He started laughing. "Hemi! This is it. But at least the _Gnat_ is going down upright! With some dignity!" He found his lighter and tried to ignite the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter showed them how dire their situation was.
@@ -710,7 +712,7 @@ From the cargo hold he also hauled up an rusting platform made of welded deck gr
 
 Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some very old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the dampness was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
-Captain Percy stopped the _Prospect_, at let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
+Captain Percy remained below deck. She stopped the _Prospect_, at let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
 
 Hemi cleaned the fish, leaving a sparkling trail of sticky scales across the deck of the _Prospect_, and threw the spine, tail, and various viscera back over the side. Big steaks of the meat went onto the grill and Hemi spread a rub of salt, lime juice, and red pepper flakes across it. The flesh browned and burned a little at the edges, and Hemi took the steaks off smoking and dropped them into bowls of rice that Gregory brought up from the galley.
 
