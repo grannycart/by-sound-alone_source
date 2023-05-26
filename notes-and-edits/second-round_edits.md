@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-26 14:49
+Last modified: 2023-05-26 18:29
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -496,6 +496,7 @@ Edits to pick up in second full pass through the book
 	* either eliminate them entirely
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * [ ] remove 'twat' references? (already removed cunt)
+* [ ] remove references to Chips braid?
 * [ ] Other potential scenes to go:
 	* [ ] the spotted-from above section
 		* Chap 6, around line 682
