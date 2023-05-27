@@ -1,5 +1,6 @@
 # Ignore build directory with all the latex dump files:
 build
+built-files
 # Ignore final pic files:
 *.jpg
 *.jpeg

@@ -252,7 +252,7 @@ She sucked on the cheroot and the thought came to her that Chips probably was no
 
 "Leveled out at 220 meters," said Gregory. "I'm going to make some adjustments to the trim tanks, see if I can get us floating evenly."
 
-As Gregory started opening and closing valves on the trim tank control panel, the hull of the prospect let out a long groan.
+As Gregory started opening and closing valves on the trim tank control panel, the hull of the _Prospect_ let out a long groan.
 
 "Easy my pretty lady," Percy whispered to her boat.
 

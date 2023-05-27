@@ -312,7 +312,7 @@ But it budged, then gave, then swung back. From above his head came a loud clang
 
 "I am as sure as I can be. Blow the tanks --- the surface is going to be the safest place for us in the next few minutes."
 
-"Aye Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water burbled heavily out from the ballast tanks into the surrounding ocean. The Gnat started upwards --- slowly for a second --- and then a moment later gaining speed. "Hang on to something Hemi!"
+"Aye Boss." Shakes reached down and pulled up on the heavy red lever at his feet. The _Gnat's_ compressed air reserves blew past him in the boat's narrow pipes with a whistling hiss. Water burbled heavily out from the ballast tanks into the surrounding ocean. The _Gnat_ started upwards --- slowly for a second --- and then a moment later gaining speed. "Hang on to something Hemi!"
 
 As his stomach dropped, Hemi grabbed one of the freezing pipes that ran along the hull next to him. He gripped the pipe with his hard fists, his knuckles whitening through his cracked skin. The pipe was so cold the moisture of his palms froze and his skin stuck to the metal.
 
