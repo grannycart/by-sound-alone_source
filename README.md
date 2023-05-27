@@ -1,5 +1,5 @@
 
-# Manuscript Draft --- By Sound Alone: A Novel With Some Submarines (Beta version)
+# Manuscript --- By Sound Alone (Director's Cut)
 * By Mark Torrey
 
 
@@ -12,7 +12,7 @@
 ## Repo contents:
 * **cover/**: The cover graphic files.
 * **notes-and-edits/**: Todo lists and other documentation.
-* **beta-manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
+* **dc-manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
 * **sub-diagrams/**: Digrams of protaganist submarines in book.
 
 
@@ -66,7 +66,7 @@
 
 
 ## License:
-* This beta version of this book is under a CC license:
+* This Director's Cut version of this book is under a CC license:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE.txt)

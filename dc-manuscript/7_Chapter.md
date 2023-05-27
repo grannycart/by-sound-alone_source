@@ -486,7 +486,7 @@ Hemi returned and reported that he successfully got a stumbling and groggy Grego
 
 Percy spent the next few hours in the control room sitting in the dive planes control chair and smoking one cheroot lit off another as sea water once again seeped into the cargo hold, and the bow of her boat slipped slowly further down into the water.
 
-Hemi would call up a report from sonar every ten minutes or so. The first hour passed quickly, with Hemi's reports describing their pursuer's continued plodding movements towards the _Prospect's_ location. But Shakes' slow, noisy run off to the southeast eventually seemed to work, and the _Grackle_ adjusted its course to follow. The _Grackel_ began moving steadily away from the _Prospect_.
+Hemi would call up a report from sonar every ten minutes or so. The first hour passed quickly, with Hemi's reports describing their pursuer's continued plodding movements towards the _Prospect's_ location. But Shakes' slow, noisy run off to the southeast eventually seemed to work, and the _Grackle_ adjusted its course to follow. The _Grackle_ began moving steadily away from the _Prospect_.
 
 At least at first. But in another hour, Hemi's reports made it clear that their pursuers were now familiar with the tactic of using the _Gnat_ to draw them off. The _Grackle_ gave up the chase to the southeast and started to move in large slowly-searching circles. They returned to using active sonar. The pings once again unnervingly echoing through the hull of the _Prospect_ every ten minutes or so.
 

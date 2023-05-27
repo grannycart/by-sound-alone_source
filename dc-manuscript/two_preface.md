@@ -7,7 +7,7 @@
 
 [//]: # (Add a graf about how you are sure you need an editor, but an editor is not a luxury I have --- and honestly, given a lot of books I read these days, it seems like maybe good editors are becoming few and far between. Until it gets an editor, it will remain in beta version. This note could probably go at the end, to replace the too many fucks given line.)
 
-# Preface to the Beta Version
+# Preface to the Director's Cut
 
 This first 500 words isn't the preface. It's the preface to the Preface to The Pre-release Draft.
 

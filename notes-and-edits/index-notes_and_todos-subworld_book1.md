@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-05-06 16:28
+Last modified: 2023-05-27 12:34
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -42,13 +42,14 @@ Last modified: 2023-05-06 16:28
 	* Anyone who sees the cover should immediately see the pigeon and think: why is there a pigeon on a submarine on the cover of that book?
 	* scale might be a little challenging
 	* Or: A gradient of black from light at the sea surface to black in the deep.
-	* In the bottom is the silhouette of a submarine -- maybe the prospect, or maybe the broken grackle (add ram?)
-	* (unfortunately for accuracy the sub couldn't be more than three sub-lengths deep, but maybe the LOOK of a huge ocean of blackness is more important than accuracy)
-	* A tiny silhouette of a pigeon flying above the ocean surface. (maybe the pigeon is much closer to the viewer so can be bigger relative to the tiny submarine)
+		* This could be the 'director's cut' cover, and try to get the herschel-on-the-gnat cover for the final beta version
+		* In the bottom is the silhouette of a submarine -- maybe the prospect, or maybe the broken grackle (add ram?)
+		* (unfortunately for accuracy the sub couldn't be more than three sub-lengths deep, but maybe the LOOK of a huge ocean of blackness is more important than accuracy)
+		* A tiny silhouette of a pigeon flying above the ocean surface. (maybe the pigeon is much closer to the viewer so can be bigger relative to the tiny submarine)
 	* (where are my other cover notes?)
-* [ ] Possible book (though not series) title:
+* [X] Possible book (though not series) title:
 :titles:
-	* Working title: By Sound Alone
+	* [X] title: By Sound Alone
 	* Former working title: Under Dark
 	* An Absolute and Blessed Silence
 	* The Salted wound

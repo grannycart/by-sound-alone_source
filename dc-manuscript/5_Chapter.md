@@ -2,7 +2,7 @@
 [//]: # (5_Chapter.md)
 
 
-[//]: # (### Shakes leads off the sub with the ram )
+[//]: # (### Shakes leads off the Grackle)
 [//]: # (### they hear the storm above, decide whether to surface)
 [//]: # (### they surface in a storm)
 [//]: # (### The Prospect rolls over)
@@ -12,7 +12,7 @@
 [//]: # (### The pursuing sub rises and starts to shoot)
 [//]: # (### They dive; Owen dies)
 [//]: # (### Figuring out what the pursuing sub is going to do)
-[//]: # (### The sub with the ram fires a torpedo at them)
+[//]: # (### The Grackle fires a torpedo at them)
 [//]: # (### Hiding deep)
 [//]: # (### late dinner; some more speculation as the reason behind their pursuers)
 [//]: # (### Chips comes in to tell them the bilge pump is broken)
@@ -537,7 +537,7 @@ The rising and falling needles on the dials, which usually moved with a delibera
 
 The depth indicator was the one that Gregory's eyes kept coming back to though. He had never seen it move so fast, showing him quantitatively what he knew from the lightened weight of his stomach: the _Prospect_ was a many-thousand-ton steel stone dropping through the water column.  It was hard to imagine what would stop the boat from simply winking out of existence in the never-ending blackness of the deepest parts of the ocean, crushed like distant matter pulled into a singularity. Within a few minutes it was passing through the range of 175 and 180 meters. 
 
-[//]: # (### The sub with the ram fires a torpedo at them)
+[//]: # (### The Grackle fires a torpedo at them)
 
 Everyone silently gripped their stations.
 
@@ -591,7 +591,7 @@ Bastian knew better than to ask, but Gregory did not, "what's our plan Captain?"
 
 Bastian opened a valve on the tank trim control panel slightly further to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out toward the palm-sized control wheel.
 
-Percy placed a cheroot between her lips and lit it. "Do not make any moves." she said to Gregory and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the sub with the ram bounced off the _Prospect's_ hull and rang in the crew's ears.
+Percy placed a cheroot between her lips and lit it. "Do not make any moves." she said to Gregory and Bastian. She slowly climbed down the ladder to the sonar compartment. Half way down another ping from the _Grackle_ bounced off the _Prospect's_ hull and rang in the crew's ears.
 
 "They are 734 meters behind us, rear port quarter; 150 meters deep," Hemi told Percy, reading off the ranging equipment. "Do you think they will fire another torpedo?"
 

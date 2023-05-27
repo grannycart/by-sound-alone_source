@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-26 18:29
+Last modified: 2023-05-27 12:41
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -407,7 +407,7 @@ Edits to pick up in second full pass through the book
 * [ ] somewhere later in the book where the batteries are depleting, add: "Save our batteries, let's spin only one wheel."
 * [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 	* This is basically impossible
-* [ ] Do a grep for the mispelling "Grackel" 
+* [X] Do a grep for the mispelling "Grackel" 
 * [ ] Grep "sub with the ram" and make sure it isn't used too much now that we know the boat is named the Grackle
 * [ ] check --- emdashes are actually correct in all format. Also check ligatures for quotes. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33
 * [ ] I keep going back and forth on chapter numbers:
@@ -490,14 +490,15 @@ Edits to pick up in second full pass through the book
 ## Post "Director's Cut" things to remove
 * [ ]  finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
 	* keep track of pages to be cut as you edit
-* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
-	* Is C right? Should I cut the whole thing before the depot and start it there?
 * [ ] Edit the racist comments of the bartender at the Depot:
 	* either eliminate them entirely
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * [ ] remove 'twat' references? (already removed cunt)
 * [ ] remove references to Chips braid?
-* [ ] Other potential scenes to go:
+* [.] Potential scenes to remove:
+	* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
+		* Is C right? Should I cut the whole thing before the depot and start it there?
+		* [ ] grep 'circles' and remove references to the early circle search pattern of the grackle after that's removed (there's at least one of these before the depot --- if it didn't get cut with the rest of the search scene
 	* [ ] the spotted-from above section
 		* Chap 6, around line 682
 		* this goes with the long chase off the continental shelf to the very-deep limit-pushing dive. This whole section could probably be sliced out with little lost.
@@ -512,7 +513,8 @@ Edits to pick up in second full pass through the book
 		* [ ] Another reference: Chap 5, like 322 and 332
 		* [ ] the bike race is in the beginning of chapter 7. clearly demarcated by notes, it could be easily sliced out
 			* [ ] though I think this has to go along with combining chapter 7 and 8. (maybe 8 gets a coda instead, and there's only 7 chapters + coda/epilogue)
-	* [ ] the cookout
+	* [-] the cookout
+		* No, keep this.
 
 
 

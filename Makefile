@@ -11,7 +11,7 @@ TITLE = title.txt
 METADATA = metadata.xml
 # I believe separate chapter files are just separated by a space -- see maintainer version to check
 # one_diagrams.md is only added for epub, so it's in that section below, not here. Diagrams are added by hand to pdf for book printing -- see latex notes.
-CHAPTERS = beta-manuscript/two_preface.md beta-manuscript/1_Chapter.md beta-manuscript/2_Chapter.md beta-manuscript/3_Chapter.md beta-manuscript/4_Chapter.md beta-manuscript/5_Chapter.md beta-manuscript/6_Chapter.md beta-manuscript/7_Chapter.md beta-manuscript/8_Chapter.md ./LICENSE.txt
+CHAPTERS = dc-manuscript/two_preface.md dc-manuscript/1_Chapter.md dc-manuscript/2_Chapter.md dc-manuscript/3_Chapter.md dc-manuscript/4_Chapter.md dc-manuscript/5_Chapter.md dc-manuscript/6_Chapter.md dc-manuscript/7_Chapter.md dc-manuscript/8_Chapter.md ./LICENSE.txt
 TOC = --toc --toc-depth=1
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
 COVER_IMAGE = cover/pre-release-draft-front-cover-layout.png
@@ -45,18 +45,18 @@ txt: $(BUILD)/txt/$(BOOKNAME).txt
 
 md: $(BUILD)/markdown/$(BOOKNAME).md
 
-$(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) beta-manuscript/one_diagrams.md $(CHAPTERS)
+$(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) dc-manuscript/one_diagrams.md $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
 # 	the .epub target includes one_diagrams.md so the diagrams get included in the .epub
-# 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines.
+# 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines. ('smart' only does anything for markdown and latex outputs though, and is enabled by default, so this isn't doing anything. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33)
 # 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
-	pandoc $(TOC) --css=css/epub.css --from markdown+smart --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
+	pandoc $(TOC) --css=css/epub.css --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
 $(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/html
 #	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
 #	The --self-contained tells pandoc to include the css in the html file, rather than just referencing it.
-	pandoc -s $(TOC) --css=$(CSS) --self-contained $(DATE) --from markdown+smart --to=html5 -o $@ $^
+	pandoc -s $(TOC) --css=$(CSS) --self-contained $(DATE) --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
