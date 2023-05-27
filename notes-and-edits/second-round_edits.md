@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-27 12:41
+Last modified: 2023-05-27 14:08
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -396,30 +396,31 @@ Edits to pick up in second full pass through the book
 
 ## Post-edit searches
 :post:
-* [ ] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
-	* [ ] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
+* [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
+	* [X] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
 * [X] Should the ----- breaks just be double/triple spaced breaks in the text? I think that's the more conventional way of doing it.
-* [ ] make sure Hemi and Shakes talk about the escape trunk in the gnat when Hemi first goes aboard to scope out the boat
-* [ ] Do a search for ship names and make sure they are italicized
+* [X] Do a search for ship names and make sure they are italicized
 * [ ] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
 * [ ] make sure the grill gets mentioned in the early description of the stuff in the cargo hold (where the bicycles that will be removed from the post-director's cut version is.)
-* [ ] somewhere later in the book where the batteries are depleting, add: "Save our batteries, let's spin only one wheel."
 * [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 	* This is basically impossible
 * [X] Do a grep for the mispelling "Grackel" 
-* [ ] Grep "sub with the ram" and make sure it isn't used too much now that we know the boat is named the Grackle
-* [ ] check --- emdashes are actually correct in all format. Also check ligatures for quotes. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33
+* [X] Grep "sub with the ram" and make sure it isn't used too much now that we know the boat is named the Grackle
+* [X] check --- emdashes are actually correct in all compiled formats. Also check ligatures for quotes. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33
 * [ ] I keep going back and forth on chapter numbers:
 	* On one hand, the book is very linear. Maybe numbers make sense for their subtle "pull" feeling?
 	* On the other hand, do they do anything if you have chapter headers? (which I AM convinced I should keep now)
 * [X] need to add at least one more reference to "Handome Gregory" later in the book.
 	* Added it as the last thing Hemi says to Gregory
+* [ ] somewhere later in the book where the batteries are depleting, add: "Save our batteries, let's spin only one wheel."
+* [X] make sure Hemi and Shakes talk about the escape trunk in the gnat when Hemi first goes aboard to scope out the boat
 * [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
 * [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
 * [ ] A scene where Hemi is reading The Recognitions (describe cover, not name title.)
 	* maybe while on sonar, like:
 		* "Hemi sat on sonar watch reading a novel the size of a small tombstone with an illustration on the cover of some tortured pious soul."
+* [ ] Don't forget to re-write preface (special version for director's cut? I think so) and post-script about license
 
 
 ## Leftover ideas, add for "director's cut"?
@@ -488,13 +489,14 @@ Edits to pick up in second full pass through the book
 
 
 ## Post "Director's Cut" things to remove
-* [ ]  finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
+* [ ] finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
 	* keep track of pages to be cut as you edit
+* [ ] change version references from 'director's cut' to 'final beta'
 * [ ] Edit the racist comments of the bartender at the Depot:
 	* either eliminate them entirely
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * [ ] remove 'twat' references? (already removed cunt)
-* [ ] remove references to Chips braid?
+* [ ] remove references to Chip's braid?
 * [.] Potential scenes to remove:
 	* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 		* Is C right? Should I cut the whole thing before the depot and start it there?
@@ -515,6 +517,9 @@ Edits to pick up in second full pass through the book
 			* [ ] though I think this has to go along with combining chapter 7 and 8. (maybe 8 gets a coda instead, and there's only 7 chapters + coda/epilogue)
 	* [-] the cookout
 		* No, keep this.
+* [ ] Combine chapters 7 and 8 (since 7 is too short after removing the bike race).
+	* [ ] Make last chapter name (7) The Garbage Gyre
+	* [ ] Make Epilogue its own file?
 
 
 

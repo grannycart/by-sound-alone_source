@@ -184,7 +184,7 @@ There should not be this much water. Percy now knew exactly what was wrong with 
 
 "Keep this depth, and course, I will be down at sonar listening for that sub." Hemi climbed down from the cramped control room to the compartment below. If he turned and leaned back from the sonar station, he could almost see up into the control room just behind and above him and could still tell the men at the controls of the boat what he wanted them to do. Likewise, Gregory and Bastian could still give him reports on the _Prospect's_ status, albeit with a little more emphasis thrown into their voices so they carried below to Hemi. 
 
-Hemi did not bother sitting down at the sonar station. Instead, he stood behind the empty sonar operator's chair and slipped the headphones with the worn earpads onto his head. He covered one ear and left the other free. He spun the control wheel for the sonar around slowly, listening for human sounds out in the malevolent underwater darkness of the ocean. There was nothing but silence.
+Hemi did not bother sitting down at the sonar station. Instead, he stood behind the empty sonar operator's chair and slipped the headphones with the worn ear-pads onto his head. He covered one ear and left the other free. He spun the control wheel for the sonar around slowly, listening for human sounds out in the malevolent underwater darkness of the ocean. There was nothing but silence.
 
 "Hemi," Gregory called down through the hatch, "I'm having trouble keeping the boat level. I find I keep having to give it more and more upward dive plane angle just to keep from gaining depth."
 

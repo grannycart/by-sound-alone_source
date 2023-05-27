@@ -314,19 +314,19 @@ The configuration was obvious to Hemi. The greasy steel drive shaft came straigh
 
 "Sure, the direct-shaft drive means I've gotta have a transmission of course. I worked with a mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fuckin' hassle though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small --- it's slow; though fuckin' silent as a sunken graveyard."
 
-"It is the finest piece of mountain-top engineering I've ever seen on the sea," Hemi said honestly. 
+"It is the finest piece of mountain-top engineering I've ever seen on the sea," Hemi said honestly. "Is that an escape trunk back there?"
 
-Shakes grinned.
+"Yessir. Never know what you might need to be flushin' out of the fuckin' boat, including meself."
 
-"And the batteries?"
+"And where are the batteries?"
 
-"Eh, Batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them --- as they do right now --- if that helps somehow. Obviously not enough juice to power your giant fuckin' washtub over there."
+"Eh, batteries, fuel, ballast tanks are all below these deck panels. You have to pull them up to get at them. Since I rarely use the electric motor, the batteries almost always have a full charge on them --- as they do right now --- if that helps somehow. Obviously not enough juice to power your giant fuckin' washtub over there."
 
 "No, not nearly. How much fuel do you have?"
 
 "Wellsir, this is how we check that..." Shakes slipped his finger through a metal ring atop a pipe that ran upward from the deck along the curve of the wall. He pulled a long wavering piece of thin steel from the pipe and wiped it on a foul rag that hung on a hook on the wall. He replaced the dipstick and then quickly pulled it back out again and held it up for Hemi to see the graduation along the dipstick.
 
-Hemi winced as he caught an acrid whiff of petro-chemicals off the dipstick. "You buy decent quality fuel oil Captain Shakes?"
+Hemi winced as he caught an acrid whiff of petrochemicals off the dipstick. "You buy decent quality fuel oil Captain Shakes?"
 
 "Ah well fuck, you know: I buy whatever I can get at the trading posts. I'm sure they're sometimes selling me chunky bunker with the used oil from the cafeteria deep fryer dumped on top. But ain't that what the fuckin' fuel filter is for?" Shakes kicked at a rust-flaked cylinder mounted on a pipe running back towards the engine. "I consider it good quality fuel if I don't hafta siphon water out of the bottom of the tank after a top-up." 
 
@@ -412,7 +412,7 @@ Hemi put his pencil down. "Perhaps in your time on the sea some of you have beco
 
 "Hemi, let's try stepping around the long-winded symbolism and get to the fucking point," Percy said.
 
-"Here is what I propose," Hemi continued unfazed, "the _Prospect_ has a hatch with a mating collar on the bottom side of the boat. The normal intended use for it is underwater docking to another sub's topside hatch for discreet transhipping of small cargo. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. As a male anglerfish might..."
+"Here is what I propose," Hemi continued unfazed, "the _Prospect_ has a hatch with a mating collar on the bottom side of the boat. The normal intended use for it is underwater docking to another sub's topside hatch for discreet transshipping of small cargo. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. As a male anglerfish might..."
 
 [//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over --- though maybe there's some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive --- shallowly.)
 
@@ -940,7 +940,7 @@ Captain Percy flipped some switches to engage filters, and the texture of the so
 
 Chips came back holding one of the tin coffee cups. She put on the second sonar headset and remained standing a few steps from where Percy was sitting.
 
-After half an hour of this silent watch, Percy called up to Hemi to shut down the diesel so they could have a better listen, and a minute later a blessed quiequiet came into the headset. A feeling of genuine relief flowed through Percy as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly chewed away at her consciousness. Maybe someday all of the white noise that surrounded her would cause her subconscious to rise up and take control of her mind, and she would slip from the restrictions of sanity and rationality. 
+After half an hour of this silent watch, Percy called up to Hemi to shut down the diesel so they could have a better listen, and a minute later a blessed quiet came into the headset. A feeling of genuine relief flowed through Percy as the silence filled her ears. Sometimes she wondered if the eternal hum of machines that accompanied life aboard a submarine subtly and slowly chewed away at her consciousness. Maybe someday all of the white noise that surrounded her would cause her subconscious to rise up and take control of her mind, and she would slip from the restrictions of sanity and rationality. 
 
 For the moment, the silence was complete. There was no apparent sound of any other ships within sonar range. Percy flipped through a few filters, and the quality of the silence changed, from a deadened whoosh to a soft hiss. 
 

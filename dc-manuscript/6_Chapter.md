@@ -682,7 +682,7 @@ As much as Captain Percy wanted to cruise out of the area at high speed, she sti
 [//]: # (----- invisible character break)
  
 
-Percy was feeling more confident. After gaining the full cover of nightime, she brought the boat to the surface, and they turned the diesels over. She pushed the _Prospect_ up to its full 15 knots. She wanted to cover as much of the distance across the continental shelf as she could under the cover of dark.
+Percy was feeling more confident. After gaining the full cover of nighttime, she brought the boat to the surface, and they turned the diesels over. She pushed the _Prospect_ up to its full 15 knots. She wanted to cover as much of the distance across the continental shelf as she could under the cover of dark.
 
 Hemi took a sighting off a star with his sextant and he and Percy fixed their exact position on the chart. They measured the remaining distance to the edge of the continental shelf and realized they were not going to make it by sunrise. But they would be close. Percy could not let herself truly feel like they had lost their pursuers until they could get back to running in deep water during the day.
 
@@ -931,7 +931,7 @@ Bastian was visibly sweating, breathing in deeply though his cigarette and exhal
 
 From the front of the boat came another long groan --- one that sounded to Percy's ears like a sound of relief --- as the bow eased into a space of just slightly less pressure.
 
-"Beyond 300 meters Captain," said Bastain quietly. "The gauge can't even tell us."
+"Beyond 300 meters Captain," said Bastian quietly. "The gauge can't even tell us."
 
 "Gregory, shut down the motors," said Percy.
 
