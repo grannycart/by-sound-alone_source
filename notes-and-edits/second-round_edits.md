@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-27 14:08
+Last modified: 2023-05-27 15:38
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -18,10 +18,10 @@ Edits to pick up in second full pass through the book
 	* [-] convert latex style emdashes --- to md style -- on all files
 		* :%s/---/--/g
 		* I don't know if this was a problem before that was changed in pandoc (I feel like somewhere I was seeing --- interpreted as en-dash hyphen. But it looks right now when I did some test compiling that outputs in all formats (at least the ones that really matter: epub pdf and html) read --- as emdash; so I've replaced all -- with ---
-	* [ ] note for markdown:
+	* [X] note for markdown:
 		* use single underbars for emphasis. two asterisks for bold (if there is any)
 		* DON'T use single asterisks for emphasis. I find that confusing.
-	* [ ] add invisible spacing elements (generally where the ### break notes are)
+	* [X] add invisible spacing elements (generally where the ### break notes are)
 	* [X] check for quotes, see that 'saids' are set up as clauses, not sentences
 		* [X] do a search for capital-S "Said"
 			* %s/\.\"\ Said/\,\"\ said/gc
@@ -33,7 +33,7 @@ Edits to pick up in second full pass through the book
 		* search gregory; give each a uniqe marker; find and replace Owen:
 			* :%s/\ Owen\ /\ Gregory\ /gc
 		* Then change all the unique-marker Gregory's to owen
-	* [ ] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
+	* [X] do a re-read through of each chapter -- **compile** and read this in pdf, to check for formatting mistakes
 	* [X] after chapter 3: search cigarillo and replace with cheroot
 		* I did this on each file already, but keep an eye out for oddball missing ones (misspelled or whatever)	
 * [X] remove references to the "con" -- too military
@@ -222,7 +222,7 @@ Edits to pick up in second full pass through the book
 	* [X] As the Grackle sinks, add Owen final dialog
 		* [X] Add comment about change in motivation
 * Final bbq scene: 
-	* [ ] see Shakes' notes below
+	* [X] see Shakes' notes below
 * [-] Consider having Owen and Percy get into a conflict, Owen wants to make one move with the Prospect and Percy is determined to do something else. Owen turns out to be right. Percy doesn't apologize
 	* See C's note on beefing up Owen character to be more significant
 	* ...could also be Bastian for a little character development, but I think he remains just a skinny quiet smoking pole.
@@ -245,22 +245,24 @@ Edits to pick up in second full pass through the book
 	* remove preface to the preface
 	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 	* consider adding bit referencing mice loving running on wheel research (since that was in the removed bicycle race scene) -- how mechanical moving things might be a deeply mammalian thing
+* [ ] postscript:
 	* add something about how it's under on open license and will remain so (possibly say something about wanting to give back to open source community but I'm not much of a programmer. and this book was written entirely with open source tools.)
 		* Put this at the end of the book, just ahead of the license
 		* and if people have ideas that they want to add or change to the book I encourage them to run with it; as long as they follow the stipulations of the no commercial use license. 
 		* (pretty sure this note is in promotion file too)
 		* rough draft:
 		This book is free. Not necessarily 'free' as in you paid nothing for it. Though if you read the e-book, you probably didn't pay anything. But if you read a paper copy, you might have paid something. That's good -- it helps cover the real cost of printing on paper and whatnot. But the book is free as in it's under a free license. And it will remain so. Under Creative Commons, the license is the book equivalent of an "open source" license (and maybe even more so than a typical Creative Commons work in that it literally has "source code" in that it was written in Markdown and compiled with pandoc software). Why is it free? Because my entire adult life I have benefitted from open source software. Indeed, every aspect of this book was created with open source software. (Which ones? The nerds among you ask: vim, markdown, pandoc, git, make, Inkscape, Gimp, tmux, screen, mupdf, and of course all of the various Linux distros that my computers run.) But I'm not much of a programmer so I can't give much back to the open source world (other than boring money). I did write this novel though. I put a lot of work into it. I hope it's got a good amount of entertainment value. I hope that in putting it out for free it entertains lots of people -- maybe some of those people will even been open source programmers! If you really, really liked this book, and you feel like you really, really want to give someone money for it, maybe consider one of the many open source software foundations. Try to pick one that is scrappy and small. The big software has companies that cover it.
+* [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
 
 
 ## Feedback from test readers
 :feedback:
-* [ ] feedback from Shakes
+* [X] feedback from Shakes
 	* Alright, didn't get to it on Monday, sorry, was lazy/tired.  You were right, the second half definitely picked up speed - I really enjoyed the stopover sections at the island depot and the stilt city.  They added a lively vibrancy that acts as a nice counter to the continuous stresses of the pursuit, even though, sure, the pursuit continued in the stilt city.  But those locations definitely felt alive - the stilt city especially - I thought that was really well conceptualized.  Lots of good little details like the kids running alongside the canals as the sub navigated them made the world much broader than just the stifling interior of the sub.  For some reason, the stilt city evoked for me a combination of Venice and the set of the original Popeye movie that was filmed in Malta back in the day - https://en.wikipedia.org/wiki/Popeye_Village#/media/File:Popeye_Village_overview.JPG  The final pursuit/destruction of the 'sub with the ram' was also really good - I liked that Cassandra earned her keep and I'd honestly forgotten about the missing bombs that Hemi had glossed over earlier as just an inventory oversight.  I obviously dug seeing derbying included and having it happen in confined, dangerous spaces brought me back to the stories Skunk told me about the donut races they used to hold at the Merlin factory that were derbying's inspiration.  So, yeah, overall, I thought it was very well done, creative and you should be proud of what you've written.  In all the years I've known you, I never knew writing was one of your things.
 	* Ok, now to the questions/constructive criticism - as you mentioned earlier, there is some tightening up that can be done, especially at the beginning when they first encounter the 'sub with the ram'.  For example, you cut a few times to Chips doing repair on the sub and I felt like I kind of didn't need that many - we already knew she was down there, what she was doing and how the work was progressing.  I feel it tightened up well during the second half.  One of my main 'problems' was with the 'sub with the ram' - not as an adversary, sub vs sub is exciting, but what we knew about the sub and why they were so keen on intercepting the crew. I wish there'd been some radio interaction between the two, aside from just the boilerplate warnings received over ship to ship.  I felt that the justification for the chase lacked a little backbone for me, especially when recounting the traits of the captain - the description of him made it feel like he didn't really care about anything - if I recall correctly, it was mentioned that his affect was generally flat and uninterested, which makes me doubt his devotion to a vendetta.  And I kind of wish the sub had a name, something ominous, you know?  
 	* With the final scene of the derby/barbecue, it was a bit weird to so abruptly switch gears from constant chase/anxiety to relaxation - especially since it was the first time we'd really seen the crew bonding together in a playful manner.  I thought it would have worked a little better if maybe it opened w/the crew relaxing and having a good time together - just to cement the fact that they do indeed work as a cohesive unit when they're not relying on each other for survival.  One thing I wish there were more of that would kind of establish this is those one sentence insights into the character's personalities - I'm recalling specifically when Sylvia is thinking of Hemi struggling w/something and there's the short little aside that says "She wished she could have seen that" or something similar.  It just gave that quick extra insight to her personality and fleshed her out a little bit more.
 	* Alright, I'm kind of losing the thread here - been typing too much ha  I hope what I've provided is helpful and taken in the constructive manner it is intended.  Constructive criticism aside, your books is already many levels above some of the stuff I've randomly picked up and enjoyed on my kindle.  If you have any specific questions, happy to answer them.  I realized after finishing the book that I should have bookmarked some specific things that might have made what I wrote above make a little more sense, but let me know if there's anything I can clarify.  Thanks for letting me be the first to read it.
-* [ ] feedback from Clara
+* [X] feedback from Clara
 	* What I liked best:
 		* My favorite part of the book was definitely the world-building that you did. You created a real-seeming alternative world that was interesting enough for me to want to learn more about it. I thought that was great and I definitely would have wanted *way* more details about the situation above-ground and the world in general. Presumably it is pretty bad if working on the cargo sub is an attractive option for some people. I think the book needs more details about life on land because the situation there seems to be a motivating force for the action in the book, but it’s not really explained at all. 
 		* I think you also have a unique voice and a feel for language and descriptions.
@@ -278,19 +280,19 @@ Edits to pick up in second full pass through the book
 		* Chips and Percy's disagreements often felt a bit too irrational on both sides, even given everyone’s lack of sleep and the pressure they're under. And then Chips leaving felt quite anti-climactic. Especially in the first half of the book, Percy felt a bit too unbelievably immature to be captain, as the leader of the ship I would want her emotional impulsivity balanced with some other more obvious positive personal characteristics besides an instinct for submarines.
 	* Submarines!
 		* One of the things you asked me is whether it would be interesting for people not interested in submarines - I think my answer would be - it depends. I definitely felt as though there were parts that were interesting to read about - for example when Hemi is teaching Cassandra how to use the sonar. But there were other parts, in particular in the first part of the book (pre-arriving at the depot) where it felt as though pages were dedicated to the workings of the submarine or the characters trying to fix parts of it, but the story wasn't advancing in a significant way. As a non-submarine-interested reader, I would have preferred for some of the excitement in the book to come from things other than mechanics of the sub and potential issues. I get that it's hard because so much of it takes place in open water, but it seemed as though every time the submarine decided to go up or down, for example, we got information about how it would do that with the ballast etc. In terms of my ideal book, almost all that detail would be cut so that there's enough detail left for the book to keep its sense of realism, but not so much that it bogs down the narrative. I guess in my ideal book the sub would still feature prominently but potential mechanical failures etc wouldn't be one of the main sources of tension, there'd be more varied challenges that come up. Kind of like how in a book that takes place on an above-ground ship, issues with storms and the ship itself would maybe only be part of the narrative but not the main driving thread.
-* [ ] Feedback from Kevin Stokes:
-	* [ ] motivation for Shakes isn't strong enough ( --- maybe they can convince him to help out with a giant brick of pot? Maybe Bastian grows pot in his quarters, that's how they have enough to convince Shakes?)
-* [o] Feedback from Brian:
-	* [ ] The start is slow, maybe pick up the writing pace a bit to match the speed of the rest of the book
+* [X] Feedback from Kevin Stokes:
+	* [X] motivation for Shakes isn't strong enough ( --- maybe they can convince him to help out with a giant brick of pot? Maybe Bastian grows pot in his quarters, that's how they have enough to convince Shakes?)
+* [X] Feedback from Brian:
+	* [X] The start is slow, maybe pick up the writing pace a bit to match the speed of the rest of the book
 		* (MT says: I think what happened here is at first I didn't know how much space everything was going to take, so I wrote longer scenes, but later had so many ideas to cram in that there wasn't space for longer scenes)
-	* [ ] Cassandra says something like "I didn't realize when I agreed to this that it would be so boring" Which was maybe offensive she didn't agree since she was sold like a slave and she was escaping prostitution. 
+	* [X] Cassandra says something like "I didn't realize when I agreed to this that it would be so boring" Which was maybe offensive she didn't agree since she was sold like a slave and she was escaping prostitution. 
 	* [X] Some of the material handling scenes need work. People don't use a chain with a block. There is a thing called a chain hoist. You might also want to consider gantry cranes. A sub port isn't going to be fooling around.
 	* [X] There is a point where Shakes doesn't know the horsepower of the motors on his sub. That seems strange since he built it. But maybe it is intentional. 
-	* [ ] You start using bearings at some point but there are places earlier where they could be used. 
-	* [ ] There are a couple places in the first 15 or so pages where it is like "then this happened."  Along the line of show, don't tell, it should be something like "then Chips said to Hemi "there a X in the Y" and Hemi (did something)"
+	* [X] You start using bearings at some point but there are places earlier where they could be used. 
+	* [X] There are a couple places in the first 15 or so pages where it is like "then this happened."  Along the line of show, don't tell, it should be something like "then Chips said to Hemi "there a X in the Y" and Hemi (did something)"
 	* [X] There are a couple of parts where the text tells the reader to appreciate something or that something is a mystery.  You could cut those and let the reader do the work
 		* I can't quite figure out where these spots are. Hopefully I edited them out in general. I did grep 'mystery' but there wasn't much result.
-	* [ ] I felt that the air intake and exhaust were not handled when Gnat was coupled to Prospect in Ch 1 or 2.
+	* [X] I felt that the air intake and exhaust were not handled when Gnat was coupled to Prospect in Ch 1 or 2.
 	* [-] The sub port would be like a cup with air upside down underwater. Damage to the sub docking areas shouldn't cause flooding since the air is there, damage that would allow the air to escape would. But a large door would still be appropriate. 
 		* NB: I thought about this during the first draft: the depot would be kept at 1 atmosphere so it could maintain open doors with the surface. That avoids the problem of keeping all those people in the depot at saturation (both in terms of decompression time and complexity for them to enter and exit the depot, but also for health reasons --- people with weaker bodies (Trinity) likely couldn't constantly be compressing and decompressing. (Though, maybe an interesting idea for Trinity to live a huge chunk of her life at compression?) Also the subs are at 1 atmosphere so even if the dock is only 30 feet down that means the dock air would be at 2 atmospheres and you'd have to equalize that with the docking subs. That's not just technically challenging, but the subs would not be designed to be pressurized to 2 atmosphere's from the INSIDE.
 
