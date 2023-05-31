@@ -218,7 +218,7 @@ Hemi, with the intuitive three-dimensional thinking of an experienced submariner
 
 As Gregory turned the dive plane wheel and steered the boat into the depths, Hemi stepped over to the tank control panel and opened the valve to flood the forward fast-dive tank. Water sloshed through the ship, and the bow pitched downward. Percy and Hemi, standing, tightened their grips on the overhead straps.
 
-Percy reached for some switches on the wall that changed the lighting to night lighting. The white lights faded away and red bulbs came on bathing them all in a sanguine glow. It was not strictly necessary --- night lighting was really to preserve the night-vision for anyone who needed to look through the periscope --- but Percy was of the school that believed in switching to night lighting in any situation where she needed her crew to remain alert. The red light served as a constant reminder that they needed their sharpest skills and tactics.
+Percy reached for some switches on the wall that changed the lighting to night lighting. The white lights faded away and red bulbs came on bathing them all in a sanguine glow. It was not strictly necessary --- night lighting was actually to preserve the night-vision for anyone who needed to look through the periscope --- but Percy was of the school that believed in switching to night lighting in any situation where she needed her crew to remain alert. The red light served as a constant reminder that they needed their sharpest skills and tactics.
 
 "Keep us close to that seamount," said Percy, "it will give us extra cover if they decide to use their active sonar."
 
