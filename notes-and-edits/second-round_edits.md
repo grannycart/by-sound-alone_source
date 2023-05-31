@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-31 15:07
+Last modified: 2023-05-31 15:44
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -404,7 +404,7 @@ Edits to pick up in second full pass through the book
 * [X] Do a search for ship names and make sure they are italicized
 * [X] Do a search on 'very' and consider removing any
 * [X] Do a search on 'really' and consider removing any
-* [ ] make sure the grill gets mentioned in the early description of the stuff in the cargo hold (where the bicycles that will be removed from the post-director's cut version is.)
+* [X] make sure the grill gets mentioned in the early description of the stuff in the cargo hold (where the bicycles that will be removed from the post-director's cut version is.)
 * [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.
 	* This is basically impossible
 * [X] Do a grep for the mispelling "Grackel" 
@@ -413,15 +413,15 @@ Edits to pick up in second full pass through the book
 * [ ] I keep going back and forth on chapter numbers:
 	* On one hand, the book is very linear. Maybe numbers make sense for their subtle "pull" feeling?
 	* On the other hand, do they do anything if you have chapter headers? (which I AM convinced I should keep now)
-* [X] need to add at least one more reference to "Handome Gregory" later in the book.
+* [X] need to add at least one more reference to "Handsome Gregory" later in the book.
 	* Added it as the last thing Hemi says to Gregory
-* [ ] somewhere later in the book where the batteries are depleting, add: "Save our batteries, let's spin only one wheel."
+* [X] somewhere later in the book where the batteries are depleting, add: "Save our batteries, let's spin only one wheel."
 * [X] make sure Hemi and Shakes talk about the escape trunk in the gnat when Hemi first goes aboard to scope out the boat
-* [ ] Don't forget (later in the book particularly): Shakes chewing on coca leaves
-* [ ] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
-* [ ] A scene where Hemi is reading The Recognitions (describe cover, not name title.)
+* [X] Don't forget (later in the book particularly): Shakes chewing on coca leaves
+* [X] Don't forget (later in the book particularly): Hemi wears small-framed spectacles
+* [X] A scene where Hemi is reading The Recognitions (describe cover, not name title.)
 	* maybe while on sonar, like:
-		* "Hemi sat on sonar watch reading a novel the size of a small tombstone with an illustration on the cover of some tortured pious soul."
+		* "Hemi sat on sonar watch reading a novel the size of a footstone, with an illustration on the cover of some tortured pious soul."
 * [ ] Don't forget to re-write preface (special version for director's cut? I think so) and post-script about license
 
 
@@ -513,6 +513,7 @@ Edits to pick up in second full pass through the book
 			* would need some editing to make the Prospect think the Grackle might be sunk
 	* [ ] the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
 		* [ ] Bicycles mentioned in first chapter
+			* chap 1, line 174
 		* [ ] There is a reference to the bicycles chained up in the hold at word 4427
 		* [ ] Another reference: Chap 5, like 322 and 332
 		* [ ] the bike race is in the beginning of chapter 7. clearly demarcated by notes, it could be easily sliced out

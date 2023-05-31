@@ -42,7 +42,7 @@ On sonar, Cassandra could heard the _Gnat's_ diesel putter away to a halt --- le
 
 "Alright. Thanks Cassandra." Percy called back down to her. Percy took down the ship-to-ship mic. "Captain Shakes --- the usual: how're things looking up there?"
 
-"Well, for lack of anything else to report, I'll tell you that the weather is thickening up a bit. The haze has really set in, and there's a bit of a fuckin' chop coming on. It looks to me like the kind of things that could turn into real weather later."
+"Well, for lack of anything else to report, I'll tell you that the weather is thickening up a bit. The haze has really set in, and there's a bit of a fuckin' chop coming on." Percy could hear Shake chewing leaves and sucking saliva as he held the transmit button. "It looks to me like the kind of things that could turn into real weather later."
 
 Weather was not generally a concern for Percy, submarines could pass under even the worst weather at depth. But she could not guess at what the _Gnat_ was capable of handling. "Does that give you anything to worry about with the _Gnat_?"
 
