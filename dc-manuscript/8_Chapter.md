@@ -202,7 +202,7 @@ The surface was mostly calm, with light breeze under a bright gray sky. With the
 
 Hemi sat on the _Gnat's_ low sail, just astern the open hatch and in front of the diesel exhaust that blew away abaft in a long stream of airborne crud. Shakes reached down into the sail, withdrew a pair of binoculars, and handed them to Hemi. 
 
-Hemi could see nothing moving under power on the surface besides themselves, which meant the _Grackle_ was probably operating submerged. As with everything to do with submarining, Hemi's plan would be a series of very long, slow moves interspersed with fast and frightening determined actions.
+Hemi could see nothing moving under power on the surface besides themselves, which meant the _Grackle_ was probably operating submerged. As with everything to do with submarining, Hemi's plan would be a series of long, slow moves interspersed with fast and frightening determined actions.
 
 Hemi scanned back and forth across the horizon for twenty minutes or so, and then a small aspect change of the _Prospect's_ sail caught his practiced attention. It had stopped swaying, and was now holding itself bolt upright. Hemi focused his binoculars on it, and a few minutes later it sank silently downwards. The viscous black surface closed over it with a sucking sound that Hemi almost imagined he could hear.
 
@@ -710,7 +710,7 @@ Since they couldn't submerge without doing further damage to the _Gnat_, and sin
 
 From the cargo hold he also hauled up an rusting platform made of welded deck grating and cut tubes. Gregory bolted this platform to the deck next to the sail. It allowed crew to get past the curve of the _Prospect's_ hull and stand out over the water. From it hung a swim ladder that dipped down into the water below.
 
-Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some very old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the moisture was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
+Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the moisture was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
 Captain Percy remained below deck. She stopped the _Prospect_ and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
 

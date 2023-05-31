@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-27 15:38
+Last modified: 2023-05-31 14:58
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -402,7 +402,7 @@ Edits to pick up in second full pass through the book
 	* [X] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
 * [X] Should the ----- breaks just be double/triple spaced breaks in the text? I think that's the more conventional way of doing it.
 * [X] Do a search for ship names and make sure they are italicized
-* [ ] Do a search on 'very' and consider removing any
+* [X] Do a search on 'very' and consider removing any
 * [ ] Do a search on 'really' and consider removing any
 * [ ] make sure the grill gets mentioned in the early description of the stuff in the cargo hold (where the bicycles that will be removed from the post-director's cut version is.)
 * [-] do a search for '-ly' and remove any useless adverbs. Maybe 'that' too.

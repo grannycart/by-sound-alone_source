@@ -107,7 +107,7 @@ In this case, she thought turning on the radar was worth the risk. But the radar
 
 For the next few hours she chain-smoked and listened to the emptiness of the ocean around them on the passive sonar. It was a mind-numbing task trying to pick out a signal from the muted hiss and rush that came to her from the choppy surface. She swept the sonar mics in a circle covering every direction out from the _Prospect_ and back again. Having not found anything, she would then begin again. The continual effort at maintaining her attention on the search butted against the complete lack of any signal to focus on or track. She was beginning to think the best move might be to go check that they had enough food and water supplies to survive weeks of drifting on open ocean.
 
-Except then, way off their rear port side, a very soft throbbing came into her headset. She closed her eyes. It was faint and threaded, like the last heartbeats of a leviathan. She opened her eyes and glanced at the radar sweep, but it remained completely clean.
+Except then, way off their rear port side, a soft throbbing came into her headset. She closed her eyes. It was faint and threaded, like the last heartbeats of a leviathan. She opened her eyes and glanced at the radar sweep, but it remained completely clean.
 
 She called Hemi over. "Listen to this, and tell me what you think it is."
 
@@ -786,11 +786,11 @@ On board the _Gnat_, Shakes leaned his head down at a painful angle, looking up 
 
 He was pushing up from behind, moving slightly faster than the _Prospect_. Through the viewport, he could just see the little black circle of the mating collar he was shooting for. He realized now that he would lose sight of it when he got closer and the target slipped beyond his ability to crane his neck. 
 
-He squeezed the ballast blow handle in a very short burst, and the _Gnat_ popped up an entire meter closer to the underside of the _Prospect_. "Ugh, too fuckin' much, too fuckin' fast. _Gently_ --- was what Hemi said --- gently..." 
+He squeezed the ballast blow handle in a short burst, and the _Gnat_ popped up an entire meter closer to the underside of the _Prospect_. "Ugh, too fuckin' much, too fuckin' fast. _Gently_ --- was what Hemi said --- gently..." 
 
 He was slowly gaining on the _Prospect_. When the _Prospect's_ mating collar disappeared beyond the frame of the viewport, Shakes guessed he was directly underneath it. He gave the _Gnat's_ small dive planes a modest amount of up-angle. Suddenly he was within a meter of the _Prospect's_ belly, and he could feel the push of water from the moving hull of the big boat driving the _Gnat_ backwards. The push was also ruining his instinctive awareness of where he was. He felt a slight panic, until the mating collar popped into view again through the narrow viewport directly ahead of him. 
 
-He gave the _Gnat_ a little more power to the electric motor, and it moved forward through the streaming water. He held very close to the _Prospect_. The _Gnat_ slowly gained ground until the mating collar disappeared over his head again. He angled the dive planes up a bit, and with a loud clang the mating collars of the two ships collided.
+He gave the _Gnat_ a little more power to the electric motor, and it moved forward through the streaming water. He held close to the _Prospect_. The _Gnat_ slowly gained ground until the mating collar disappeared over his head again. He angled the dive planes up a bit, and with a loud clang the mating collars of the two ships collided.
 
 Shakes squeezed the ballast blow handle again --- with as short a burst as he could possibly get. This gave the _Gnat_ enough buoyancy to hold it firmly up against the bottom of the _Prospect_.
 
@@ -1004,7 +1004,7 @@ Minutes passed in silence broken only by the faint hum of the electric motor pus
 
 "That is how armed ships behave," said Hemi from the control seat. "Probably caught a whiff of us at a distance, and they are charging fast into a range where they can quiet down and take a listen; try to acquire the sound of our electric motor on sonar."
 
-Captain Percy pushed down a primitive urge to run from deep within herself. A fresh young sub driver might crank as hard as she could on the throttle to get away from a threat. But evolution had moved submarines toward a different escape tactic: slink away silently. They were in a very, very slow-speed race: get out of range of the pursuer's sonar, as slowly and quietly as possible.
+Captain Percy pushed down a primitive urge to run from deep within herself. A fresh young sub driver might crank as hard as she could on the throttle to get away from a threat. But evolution had moved submarines toward a different escape tactic: slink away silently. They were in a snail's-pace race: get out of range of the pursuer's sonar, as slowly and quietly as possible.
 
 After a few more minutes of staring at an empty black sea --- seeing nothing and at the same time knowing they were out there --- Percy could no longer stand just relying on Chips' range estimates. She lowered the periscope and slipped down the ladder and stepped to the navigation table. Chips immediately understood what she was doing, and without saying anything handed Percy a piece of scrap paper on which she had written a list of ranges and bearings for the contact in pencil. 
 
@@ -1046,7 +1046,7 @@ They waited. It took maybe twenty minutes for Chips to give a report. She called
 
 [//]: # (### They try to run from the sub with the ram)
 
-The hum of the electric motors came back up, and the _Prospect_ steadily moved on. Percy sat with Chips at the sonar station and listened to the sound of the pursuing sub's screws off in the distance.  The signal grew very weak as the sub with the ram reached the far end of their search circle, but grew stronger as they returned towards their starting point. Percy continually marked their track on the navigation chart according the ranges Chips calculated.
+The hum of the electric motors came back up, and the _Prospect_ steadily moved on. Percy sat with Chips at the sonar station and listened to the sound of the pursuing sub's screws off in the distance.  The signal grew weak as the sub with the ram reached the far end of their search circle, but grew stronger as they returned towards their starting point. Percy continually marked their track on the navigation chart according the ranges Chips calculated.
 
 "We're not out of this yet," Percy said to Chips, "they're moving fast. Makes it easy to track 'em, but their next search circle will almost certainly be the other side of a figure-eight, directly the opposite direction of their first --- and directly towards us." 
 

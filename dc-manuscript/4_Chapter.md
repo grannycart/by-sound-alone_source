@@ -32,7 +32,7 @@ The next morning, Hemi was up first, and dragged a bleary and aching Bastian out
 
 The docking bay had high-pressure pipes that were fed down from compressors located in some equipment space up above the exchange floor. The docking bay high-pressure system was mostly just kept ready for a flooding emergency where water might have to be blown out. Most subs at the dock already had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had equipment for it, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian and a bag full of money looking for those people.
 
-By the time they got back, the rest of the crew had managed to crawl slowly and painfully out of their racks, got themselves fed and coffeed, and busied themselves with odd jobs around the boat while waiting for Hemi to return with instructions for things that actually needed to get done. Hemi sent Gregory and Cassandra up to the exchange floor with a stack of coins to track down enough food and consumable supplies to get the crew through the run ahead of them. He figured Cassandra had been in this depot long enough that she might be able to help Gregory acquire some better-than-average submarine grub. Chips had Owen down in the engine room going over the diesels and the motors very carefully and Hemi was neither going to disrupt Chips in that process, nor take Owen from her for something else.
+By the time they got back, the rest of the crew had managed to crawl slowly and painfully out of their racks, got themselves fed and coffeed, and busied themselves with odd jobs around the boat while waiting for Hemi to return with instructions for things that actually needed to get done. Hemi sent Gregory and Cassandra up to the exchange floor with a stack of coins to track down enough food and consumable supplies to get the crew through the run ahead of them. He figured Cassandra had been in this depot long enough that she might be able to help Gregory acquire some better-than-average submarine grub. Chips had Owen down in the engine room carefully going over the diesels and the motors. Hemi was neither going to disrupt Chips in that process, nor take Owen from her for something else.
 
 Hemi and Bastian worked with the two men from the depot who knew how to rig the high-pressure pipes until they had a spindly and unwieldy-looking hook of pipe that arced through the air from the docking bay down into the _Prospect_. It took a while to get all the segments set up and double checked so that everyone working on it was confident it was not going to explode and blow every submarine off the docking bay when they let the high-pressure air into it. But once it was set up, charging the high-pressure tanks only took a few minutes.
 
@@ -352,7 +352,7 @@ Cassandra nodded.
 
 Cassandra adjusted the headset so it sat evenly with the headphones covering both her ears. 
 
-"OK," said Hemi as he began adjusting and tuning the sonar unit, "this is the 'passive' sonar rig. You can think of it as being nothing more than microphones for listening underwater. There's 'active' sonar too --- that's a lot more complicated: active sonar sends a ping out and we listen for its echo. We do not use that very often so do not worry about it for now. Passive is simpler, you are just listening, passively. Get it?"
+"OK," said Hemi as he began adjusting and tuning the sonar unit, "this is the 'passive' sonar rig. You can think of it as being nothing more than microphones for listening underwater. There's 'active' sonar too --- that's a lot more complicated: active sonar sends a ping out and we listen for its echo. We do not use that often so do not worry about it for now. Passive is simpler, you are just listening, passively. Get it?"
 
 Cassandra nodded.
 
@@ -382,7 +382,7 @@ Cassandra listened, her eyes watching the signal strength indicator needle waver
 
 "Correct! There is a small atoll a few miles in that direction and waves are breaking on its shore. Let's see what else is out there." Around the directional needle went, and Hemi slowed it, and stopped with the strength indicator needle throbbing slightly, like it had a pulse.
 
-Cassandra closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a strange kind of richness to them. They bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so very long ago when she was a child. "Is that the sound dolphins make?"
+Cassandra closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a strange kind of richness to them. They bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so long ago when she was a child. "Is that the sound dolphins make?"
 
 "Very good! Dolphins use active sonar, bouncing sounds off underwater objects to locate them. They are much better at it than we are. Did you notice that you could hear the dolphins in one ear slightly before the other?"
 
@@ -596,7 +596,7 @@ The _Prospect_ was currently at its absolute maximum sonar listening capacity, b
 
 It was incredibly tiring work.
 
-Two hours later, there had still been no sign of Shakes. Captain Percy could never sleep for very long, and so was soon back in the control room with a cup of coffee from the galley, smoking and making small adjustments to the trim of the boat. Each of these adjustments was accompanied by a brief rush of water or air through the piping of the ship. And each time this happened Cassandra got completely distracted for a few frustrating moments. Cassandra did not yet realize that the sonar operator could, in some instances, have some authority over even the captain on a submarine and request silence be maintained.
+Two hours later, there had still been no sign of Shakes. Captain Percy could never sleep for long, and so was soon back in the control room with a cup of coffee from the galley, smoking and making small adjustments to the trim of the boat. Each of these adjustments was accompanied by a brief rush of water or air through the piping of the ship. And each time this happened Cassandra got completely distracted for a few frustrating moments. Cassandra did not yet realize that the sonar operator could, in some instances, have some authority over even the captain on a submarine and request silence be maintained.
 
 [//]: # (Mid-morning: day 2, run to Stilt City)
 Another hour went by. Cassandra thought she was starting to crack. She considered asking Hemi to take over. She was worried that somehow Shakes had sneaked past her in his little sub. That she had missed him and screwed up her first real job. Rationally, she knew that was unlikely though. She pushed herself to keep listening to the silence.
@@ -643,7 +643,7 @@ Percy considered her options. "You are fairly certain it's Shakes?" she asked He
 
 She held her small finger out flat, so as not to let her long fingernail get in the way, and crushed the button home. Even without the sonar headsets they could hear the smooth round ringing sound of the ping echo through the hull and spread out into the water around them. A few seconds later the active unit calculated and displayed the range and direction to the contact.
 
-"The active sonar figures out very precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target," Hemi said, pointing to the readout on the active sonar unit. "That is very useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ does not have torpedoes, we do not often have reason to use it."
+"The active sonar figures out precisely where your contact is by calculating how long it takes for that ping sound to bounce back from the target," Hemi said, pointing to the readout on the active sonar unit. "That is useful if you have to do something like aim and fire a torpedo. But since the _Prospect_ does not have torpedoes, we do not often have reason to use it."
 
 "The active ping also tells the target exactly where _we_ are," added Percy. "Normally, we would not want to do that --- never use the active sonar without an explicit instruction from me or Hemi --- but assuming this contact _is_ Shakes..." she looked at Hemi, "then we just deliberately let them know exactly where we are by hitting them with that active ping."
 
@@ -730,7 +730,7 @@ They carried out the maneuver without incident. Shakes brought the _Gnat_ up und
 
 They made their way up to the galley, where Chips parted with Shakes to continue working on the efficiencies of her own engines in the engine room. Shakes poured some stale coffee from the pot into a mug and sat down. 
 
-Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ settled back on course, leaving Gregory and Bastian at the controls. The boat would spend the remaining hours of daylight running underwater. Hemi did not neglect to warn Gregory to keep a very close eye on the depth and ballast control panel and not let the boat dive any deeper than they already were while the _Gnat_ was attached.
+Hemi and Percy joined Shakes in the galley as soon as they got the _Prospect_ settled back on course, leaving Gregory and Bastian at the controls. The boat would spend the remaining hours of daylight running underwater. Hemi did not neglect to warn Gregory to keep a close eye on the depth and ballast control panel and not let the boat dive any deeper than they already were while the _Gnat_ was attached.
 
 "So Captain Shakes," said Percy, settling next to him with her own stale cup of coffee, "you made it out of the depot without causing a problem?"
 

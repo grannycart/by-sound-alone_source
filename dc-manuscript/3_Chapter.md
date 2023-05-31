@@ -36,7 +36,7 @@ Shakes squinted into the viewfinder. "Um... Cap'n Percy... there's nothing on th
 
 "Ah," said Shakes, tapping the side of his greasy nose knowingly. 
 
-It was fairly common for a depot that handled sensitive cargo to be built partly underwater --- particularly the submarine docking area. That kept Authority eyes off comings and goings. But usually there was also a small surface component for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care underwater fittings required when it was possible to do so. But with a depot located close to the border between two very aggressive Authorities, as this one was, there was a clear logic to keeping the whole operation off the surface.
+It was fairly common for a depot that handled sensitive cargo to be built partly underwater --- particularly the submarine docking area. That kept Authority eyes off comings and goings. But usually there was also a small surface component for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care underwater fittings required when it was possible to do so. But with a depot located close to the border between two aggressive Authorities, as this one was, there was a clear logic to keeping the whole operation off the surface.
 
 "So, how the fuck do we..." Shakes started to ask.
 
@@ -62,7 +62,7 @@ They climbed down the hatch. They spent the next 20 minutes crawling through the
 
 Percy suddenly regretted her comment that they were out of fuel. She had accidentally given them a lever to extract whatever they wanted from her for this "docking fee." And extract they did. Based on her experience, she estimated that probably 15 percent of the price they quoted her was legitimate. The rest they would pocket. She asked them to wait while she retrieved a stack of coins from her cabin.
 
-They split the coins between them, barely even pretending that it was a legitimate transaction. With the coins stashed in their pockets, the depot men became very friendly. "OK boss. You can get on your ship-to-ship and contact the docking control office. They'll give you a dock assignment and turn the sonar beacon on for ya. If there's anything else we can help you with, you can ring us up on ship-to-ship as well."
+They split the coins between them, barely even pretending that it was a legitimate transaction. With the coins stashed in their pockets, the depot men became quite friendly. "OK boss. You can get on your ship-to-ship and contact the docking control office. They'll give you a dock assignment and turn the sonar beacon on for ya. If there's anything else we can help you with, you can ring us up on ship-to-ship as well."
 
 "Thanks so fuckin' much," said Percy.
 
@@ -182,7 +182,7 @@ Larger items were displayed towards the front of the store, Percy realized that 
 
 As she moved towards the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks. 
 
-The shopkeeper somehow managed to show very little interest in the few customers poking around in the crates, and yet never stopped watching them.
+The shopkeeper somehow managed to show little interest in the few customers poking around in the crates, and yet never stopped watching them.
 
 Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit. Clamps were not currently on her hardware list, so she regretfully would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the to list and waiting to be purchased on at the next stop.
 
@@ -420,7 +420,7 @@ As she got closer the bartender said, "This lady might want to hire you." And tu
 
 "No. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
 
-"On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to mind-numbing ambient noise on the sonar for hours on end without going insane. Think you could do that? Think you might _want_ to do that kind of work?" Percy looked at the skinny young girl skeptically, though in the back of her mind she remembered that her start on submarines had not been very much different than this.
+"On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to mind-numbing ambient noise on the sonar for hours on end without going insane. Think you could do that? Think you might _want_ to do that kind of work?" Percy looked at the skinny young girl skeptically, though in the back of her mind she remembered that her start on submarines had not been much different than this.
 
 [//]: # (Explicitly: this references the fact that Percy didn't know anything about subs when she began. Implicitly: that she came from a darker place before subs?)
 
