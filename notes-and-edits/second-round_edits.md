@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-05-31 15:44
+Last modified: 2023-06-03 14:47
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -245,14 +245,13 @@ Edits to pick up in second full pass through the book
 	* remove preface to the preface
 	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 	* consider adding bit referencing mice loving running on wheel research (since that was in the removed bicycle race scene) -- how mechanical moving things might be a deeply mammalian thing
-* [ ] postscript:
+* [X] postscript / license header:
 	* add something about how it's under on open license and will remain so (possibly say something about wanting to give back to open source community but I'm not much of a programmer. and this book was written entirely with open source tools.)
 		* Put this at the end of the book, just ahead of the license
 		* and if people have ideas that they want to add or change to the book I encourage them to run with it; as long as they follow the stipulations of the no commercial use license. 
 		* (pretty sure this note is in promotion file too)
-		* rough draft:
-		This book is free. Not necessarily 'free' as in you paid nothing for it. Though if you read the e-book, you probably didn't pay anything. But if you read a paper copy, you might have paid something. That's good -- it helps cover the real cost of printing on paper and whatnot. But the book is free as in it's under a free license. And it will remain so. Under Creative Commons, the license is the book equivalent of an "open source" license (and maybe even more so than a typical Creative Commons work in that it literally has "source code" in that it was written in Markdown and compiled with pandoc software). Why is it free? Because my entire adult life I have benefitted from open source software. Indeed, every aspect of this book was created with open source software. (Which ones? The nerds among you ask: vim, markdown, pandoc, git, make, Inkscape, Gimp, tmux, screen, mupdf, and of course all of the various Linux distros that my computers run.) But I'm not much of a programmer so I can't give much back to the open source world (other than boring money). I did write this novel though. I put a lot of work into it. I hope it's got a good amount of entertainment value. I hope that in putting it out for free it entertains lots of people -- maybe some of those people will even been open source programmers! If you really, really liked this book, and you feel like you really, really want to give someone money for it, maybe consider one of the many open source software foundations. Try to pick one that is scrappy and small. The big software has companies that cover it.
 * [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
+	* Though remember you suggested donating to open-source software at the head of the license file.
 
 
 ## Feedback from test readers
@@ -299,16 +298,16 @@ Edits to pick up in second full pass through the book
 
 ## Conceptual and abstracted edits
 :concept:
-* [ ] Consider pulling back or deleting the metaphors
-* [X] See note on 'segments' in general notes, considerations. 
+* Consider pulling back or deleting the metaphors
+* See note on 'segments' in general notes, considerations. 
 	* Consider the implications for shorter chapters, coherent scenes
-* [ ] See note on subconscious vs conscious story details in notes, considerations
-* [ ] You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
-	* [ ] It isn't capturing the grittiness enough, build that up
+* See note on subconscious vs conscious story details in notes, considerations
+* You need to _see_ the aesthetic of the grime in your head if you want to describe it; the same way you see the mechanical bits.
+	* It isn't capturing the grittiness enough, build that up
 	* The scene where Percy is looking at her hands and contemplates the grime worn into the creases of her knuckles is a good example of _seeing_ the grime. I need more of that.
-* [ ] more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
-* [ ] make sure the _fear_ is in there, particularly in the build up to big inflection points
-* [ ] Keep in mind that in this world, like the opening set piece, nature is deliberately cruel and evil, tormenting
+* more strongly emphasize the feeling of _prey_. I think it feels like they are prey for the sub with the ram throughout the book, might as well explicitly double down on it.
+* make sure the _fear_ is in there, particularly in the build up to big inflection points
+* Keep in mind that in this world, like the opening set piece, nature is deliberately cruel and evil, tormenting
 	* So at some point, it should be _pulling_ them to the depths
 	* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
 	* The only way they survive in nature's cruelty is through their grimey, rational machine, the submarine. the submarine which always makes sense, if you can just figure it out
@@ -374,26 +373,26 @@ Edits to pick up in second full pass through the book
 
 ## pacing elements that can be used:
 :pacing:
-* [ ] Add a lot of broken things:
+* [-] Add a lot of broken things:
 	* Like, have characters on their down time working on repairing all sorts of stuff
 	* And for transitional passages, give a list of things repaired
 * food:
-	* [ ] the junior crew members have to rotate through cooking duties, like on deadliest catch
-	* [ ] clearly one or two of them are far better at it than others
+	* [X] the junior crew members have to rotate through cooking duties, like on deadliest catch
+	* [X] clearly one or two of them are far better at it than others
 	* [X] like other books I love, it would be nice to work up a detailed description of the food they eat.
-* [ ] a shift change: someone comes up from below to relieve someone on watch
+* [X] a shift change: someone comes up from below to relieve someone on watch
 	* At some point you could try working out the specific crew jobs and rotation schedules as background information to support your stories
 	* report outs or lists of broken things, things being repaired, things fixed
-* [ ] characters have to grab handholds and stand sloped against a sudden angle change in the boat
-* [ ] they are constantly wiping their hands on greasy rags. The rags hang from hooks all around the ship. they have metal grommets in the rags to keep them from falling off the hooks.
-* [ ] rolling/lighting/smoking a cigarette/cigar/pipe/flavored tobacco/joint
-* [ ] popping nodoze pills
-* [ ] drinking massive amount of coffee
-* [ ] eating snacks at their stations
-* [ ] drinking water or liquor from tin cups -- maybe coated in rubber for noise attenuation.
-* [ ] tossing something at a rat; watching a rat; rat does something interesting (wanders off with a slice of pizza like)
-* [ ] sharpening a grease pencil with a penknife
-* [ ] equalizing pressure in their ears
+* [X] characters have to grab handholds and stand sloped against a sudden angle change in the boat
+* [X] they are constantly wiping their hands on greasy rags. The rags hang from hooks all around the ship. they have metal grommets in the rags to keep them from falling off the hooks.
+* [X] rolling/lighting/smoking a cigarette/cigar/pipe/flavored tobacco/joint
+* [X] popping nodoze pills
+* [X] drinking massive amount of coffee
+* [X] eating snacks at their stations
+* [X] drinking water or liquor from tin cups -- maybe coated in rubber for noise attenuation.
+* [-] tossing something at a rat; watching a rat; rat does something interesting (wanders off with a slice of pizza like)
+* [-] sharpening a grease pencil with a penknife
+* [X] equalizing pressure in their ears
 
 
 ## Post-edit searches
@@ -423,6 +422,7 @@ Edits to pick up in second full pass through the book
 	* maybe while on sonar, like:
 		* "Hemi sat on sonar watch reading a novel the size of a footstone, with an illustration on the cover of some tortured pious soul."
 * [ ] Don't forget to re-write preface (special version for director's cut? I think so) and post-script about license
+* [ ] Need to consider changing Sir Trelew's name again --- maybe Sir Rogelio after the locksmith who found Yamashita's gold?
 
 
 ## Leftover ideas, add for "director's cut"?
