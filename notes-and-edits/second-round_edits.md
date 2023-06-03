@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-06-03 14:47
+Last modified: 2023-06-03 16:03
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -10,6 +10,8 @@ Edits to pick up in second full pass through the book
 * [Conceptual and abstract edits](#concept)
 * [Pacing elements](#pacing)
 * [Post-production edits](#post)
+* [Leftover ideas, add for "director's cut"?](#Leftover ideas, add for "director's cut"?)
+* [Post "Director's Cut" things to remove](#Post "Director's Cut" things to remove)
 
 
 ## General plot and character edits (throughout book)
@@ -239,12 +241,14 @@ Edits to pick up in second full pass through the book
 	8. Down The Hole
 	* (Consider making much shorter chapters -- maybe breaks by scene?)
 	* (Or, make the current chapters "sections" and then subdivide with unlabeled dividers)
-* [ ] preface:
-	* move to the end, make it an afterword -- or just see comment in preface file about telling people right off they don't have to read it.
-	* consider adding a note about needing an editor/ beta version. (see comment in preface file)
-	* remove preface to the preface
-	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
-	* consider adding bit referencing mice loving running on wheel research (since that was in the removed bicycle race scene) -- how mechanical moving things might be a deeply mammalian thing
+* [o] preface:
+	* [X] move to the end, make it an afterword -- or just see comment in preface file about telling people right off they don't have to read it.
+	* [X] remove preface to the preface
+	* [ ] [//]: # (Add a graf about how you are sure you need an editor, but an editor is not a luxury I have --- and honestly, given a lot of books I read these days, it seems like maybe good editors are becoming few and far between. Until it gets an editor, it will remain in beta version. This note could probably go at the end, to replace the too many fucks given line.)
+	* [X] consider adding bit referencing mice loving running on wheel research (since that was in the removed bicycle race scene) -- how mechanical moving things might be a deeply mammalian thing
+	* [ ] [//]: # (Maybe the preface should be less/not about this first part of the 20th Century generation thing and more about motorcycles. You could talk about how motorcycles are on the verge of going almost entirely electric --- and I understand why given the performance metrics, quiet, and most of all simplicity. But what if the pure mechanical pleasure of riding a motorcycle gets lost? I always want to ask riders of electric motorcycles: don't you miss shifting? Don't you miss the oneness with the bike you have when you learn to use a clutch? Mechanical pleasure might be something far more deeply ingrained in mammals than we suspect --- mice who choose to run on the wheel in the woods for instance. The bicycle and the old submarines totally tapped into this magic. This book is an attempt to capture the pure mechanical pleasures like that in novel form, and use it to tell a good story.]
+	* [ ] [//]: # (Maybe it's worth pointing out that the technology that drove old submarines is essentially the same that drives out newest hybrid cars. It's not the technology itself that is disappointing --- it will be hard to regret a shift away from fossil-fuel burning machines --- but the disassociation from mechanical things, and the rise of intelligent machines that don't require a human operator at the mechanical level.)
+	* [X] [//]: # (Or maybe you should use this space to tie it to how exciting staring at dials can be --- maybe even reference China Syndrome. Actually, that seems pretty strong --- use that as an argument for why mechanical-based stories are compelling?)
 * [X] postscript / license header:
 	* add something about how it's under on open license and will remain so (possibly say something about wanting to give back to open source community but I'm not much of a programmer. and this book was written entirely with open source tools.)
 		* Put this at the end of the book, just ahead of the license
@@ -252,6 +256,10 @@ Edits to pick up in second full pass through the book
 		* (pretty sure this note is in promotion file too)
 * [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
 	* Though remember you suggested donating to open-source software at the head of the license file.
+	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+* [ ] fix transition to CC license in epub file 
+	* [ ] this is an old note --- check if it doesn't look right?
+	* Maybe all you have to do is make the CC file .md formatted, and make the header a # level header
 
 
 ## Feedback from test readers
@@ -426,6 +434,7 @@ Edits to pick up in second full pass through the book
 
 
 ## Leftover ideas, add for "director's cut"?
+* [ ] add something to the preface introducing the "director's cut"?
 * [X] Shakes affectionately calls the Gnat 'the bug'
 * [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 	* I don't think this will make it into the first book or short story
@@ -491,6 +500,8 @@ Edits to pick up in second full pass through the book
 
 
 ## Post "Director's Cut" things to remove
+* [ ] revise preface again (see notes about about changing it to more centered on motorcycles, do you want to do this?)
+	* [ ] remove any specific references to the director's cut (title, any content added about it)
 * [ ] finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
 	* keep track of pages to be cut as you edit
 * [ ] change version references from 'director's cut' to 'final beta'
