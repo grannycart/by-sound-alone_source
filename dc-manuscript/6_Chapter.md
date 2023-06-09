@@ -5,7 +5,7 @@
 [//]: # (### Daytime running in the fog)
 [//]: # (### Hemi and Chips conversation about Owen)
 [//]: # (### They enter Stilt City)
-[//]: # (### They hire Sir Trelew, the pilot)
+[//]: # (### They hire Sir Piero, the pilot)
 [//]: # (### The Prospect gets stuck in shallow water)
 [//]: # (### They arrive at the dock)
 [//]: # (### Chips quits)
@@ -16,7 +16,7 @@
 [//]: # (### Running back to the main channel in pursuit)
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 [//]: # (### The pursuing sub gets stuck)
-[//]: # (### Into the main channel; pay off Sir Trelew)
+[//]: # (### Into the main channel; pay off Sir Piero)
 [//]: # (### Navigating out of the channel)
 [//]: # (### They drop to the bottom and try to hide along the continental shelf.)
 [//]: # (### They think they are finally sneaking away from the pursuers)
@@ -105,7 +105,7 @@ Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and
 
 "That's why they call it fuckin' Stilt City," said Percy.
 
-[//]: # (This world does not deviate so much from the history of the real world that influence and names of Europe are not spread all around the globe from the impacts of the European colonial period and continued colonialism. As cool as it would be to write that book, I am not sure I could do it. See also the name of Sir Trelew.)
+[//]: # (This world does not deviate so much from the history of the real world that influence and names of Europe are not spread all around the globe from the impacts of the European colonial period and continued colonialism. As cool as it would be to write that book, I am not sure I could do it. See also the name of Sir Piero --- Italian, named after the captain of the Andrea Doria.)
 
 "Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land. Many cities around the world are built on swamps because that is where the large rivers meet the sea, and that is where major ports come together. In richer places, they drain the swamps to get to dry land under them. Here, they found it more economical to just build above the water line on stilts, at least in recent years."
 
@@ -121,7 +121,7 @@ The channel began to narrow, pushing the sea craft using it together. Hemi steer
 
 Every so often the masses of huts were broken up by a large access channel running off the main channel. Around these access channels most of the commercial trade had risen up, which had led to the building of long docks and piers, more substantial warehouses, and larger buildings --- always sitting on stilts above the water. The fancier buildings had paid the extra cost to ship out and install steel roofs. Big steel cargo and transport ships would make their way into these access channels and dock against the flimsy, leaning piers of crunching wood that barely seemed able to keep the big ships immobile, and perhaps would not have at all if the waters were not so still. The cargo was unloaded onto these docks and from there moved off to its destination by local labor: either into the warehouses, onto other cargo ships, or dispersed around Stilt City --- sometimes up onto the mainland and ground-based logistical connections.
 
-[//]: # (### They hire Sir Trelew, the pilot)
+[//]: # (### They hire Sir Piero, the pilot)
 
 As they pushed their way slowly up the main channel and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the fuckin' dock we are supposed to unload at in all this fuckin' mess?"
 
@@ -137,9 +137,9 @@ One did though. A small dugout canoe, that moved slowly into the lane between th
 
 Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fairing to join them. He was a small, thin man. His pure-white, shortly-trimmed beard and hair stood out in stark contrast to his leathery skin, which all the older local residents developed after spending their adult working years on the unshaded open water. He was wearing an oddly fitted and assuredly ancient three-piece wool suit into which he was sweating profusely after climbing up the sail.
 
-"Name's Sir Trelew --- tee-ar-ee-loo, at least that's how most off-shore folks pronounce it."
+"Name's Sir Piero --- pee-ahr-oh, at least that's how most off-shore folks pronounce it."
 
-"_Sir_ Trelew?" Percy asked.
+"_Sir_ Piero?" Percy asked.
 
 "Knighted for my prest-ee-jee-ous piloting work. Respect the title, if you please."
 
@@ -147,7 +147,7 @@ Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fa
 
 The man looked it over. "Surely. That's no great fuckin' way from here."
 
-"Have you ever piloted a submarine before Sir Trelew?" Percy asked. "It's not totally like fuckin' surface ships."
+"Have you ever piloted a submarine before Sir Piero?" Percy asked. "It's not totally like fuckin' surface ships."
 
 "Surely! I piloted lots of sub marines in and out." He pronounced 'sub marine' like it was two separate words. "I'm a knighted pro fessional, all manner of craft experienced. I even had a pilot's license --- back when those used to be more strictly required."
 
@@ -159,13 +159,13 @@ The man looked it over. "Surely. That's no great fuckin' way from here."
 
 "10 coin. Both in and out. If you go back out today."
 
-Hemi agreed and paid him an advance. Sir Trelew made a move to go retrieve his canoe, but Hemi asked Cassandra to do it while he showed Sir Trelew the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
+Hemi agreed and paid him an advance. Sir Piero made a move to go retrieve his canoe, but Hemi asked Cassandra to do it while he showed Sir Piero the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
 
-Sir Trelew took over command of the _Prospect_. He stood on the bridge and lit a cigar that resembled a root vegetable. Chomping the torpedo between his teeth, he read the numbers of the channels and water lanes they passed by through borrowed binoculars. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed --- and with a great deal of confidence --- plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
+Sir Piero took over command of the _Prospect_. He stood on the bridge and lit a cigar that resembled a root vegetable. Chomping the torpedo between his teeth, he read the numbers of the channels and water lanes they passed by through borrowed binoculars. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed --- and with a great deal of confidence --- plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
 
 They passed along this channel for a long way, through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed up under and smacked against the floorboards of the huts. In some places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
 
-Captain Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sir Trelew.
+Captain Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sir Piero.
 
 "This is a short way," he told her, "we will come out in a larger channel soon, but it is longer around to follow that way all the way from the main channel."
 
@@ -175,7 +175,7 @@ The _Prospect_, which so often felt like a small cramped place, suddenly seemed 
 
 Bastian suddenly called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow --- two meters."
 
-"Umm, Sir Trelew... are you sure there's enough fuckin' water here?" Percy asked him."
+"Umm, Sir Piero... are you sure there's enough fuckin' water here?" Percy asked him."
 
 "Plenty of water. I have taken many ships through here."
 
@@ -185,17 +185,17 @@ Bastian suddenly called up from the control room with a sense of urgency. "Up on
 
 At that moment the grounding alarm buzzed loudly in the control room. Percy flew down the ladder, and stood behind Bastian staring at the wall of gauges. The depth-under-keel gauge had a bright red light lit next to it, and the needle was hovering just off the zero pin. Percy punched the button that silenced the annoying buzz of the alarm.
 
-"Trelew!" She called up to the bridge. "There is very very little water under us!"
+"Piero!" She called up to the bridge. "There is very very little water under us!"
 
 "It's OK!" he shouted back just as the _Prospect_ came to an abrupt stop. Even at the careful speed they had been moving at, the stop was violent enough to jolt them all forward. Empty tin coffee cups fell and clanked along the deck while clipboards fluttered through the air.
 
 The alarm started sounding again and a second red light lit on the depth-under-keel gauge, indicating they were firmly wedged on the bottom.
 
-"Fuck!" Percy yelled, punching the alarm-silence button a second time. "Fucking fuck! Trelew you fucking amateur, what the fuck did you do? Bastian, power down the fucking motor before we're driven permanently into the muck."
+"Fuck!" Percy yelled, punching the alarm-silence button a second time. "Fucking fuck! Piero you fucking amateur, what the fuck did you do? Bastian, power down the fucking motor before we're driven permanently into the muck."
 
-Bastian pulled the throttle back to zero. Percy could hear Hemi and Trelew discussing the situation on the bridge. Trelew's voice was aggravated. Hemi was speaking in his usual even tone. But Percy could not quite make out what they were saying. She climbed to the bridge.
+Bastian pulled the throttle back to zero. Percy could hear Hemi and Piero discussing the situation on the bridge. Piero's voice was aggravated. Hemi was speaking in his usual even tone. But Percy could not quite make out what they were saying. She climbed to the bridge.
 
-"Captain Percy, this never happened before." Trelew said as she came through the hatch. "The silt underneath sometimes moves around. This channel has always been deep enough."
+"Captain Percy, this never happened before." Piero said as she came through the hatch. "The silt underneath sometimes moves around. This channel has always been deep enough."
 
 "For a fucking _loaded_ submarine? Or have you just brought fucking empty transport ships through here before?" Percy was turning red.
 
@@ -203,7 +203,7 @@ Bastian pulled the throttle back to zero. Percy could hear Hemi and Trelew discu
 
 "And then what? Fucking back the whole way out to the main channel? It's not like there's room to fucking turn around here."
 
-"If we have to do that, we can," said Hemi, trying to calm the situation. "But Sir Trelew pointed out we probably have some water in the main ballast and trim tanks we can blow out. If we can get the boat up even half a meter or so, we might be able to clear the silt bar."
+"If we have to do that, we can," said Hemi, trying to calm the situation. "But Sir Piero pointed out we probably have some water in the main ballast and trim tanks we can blow out. If we can get the boat up even half a meter or so, we might be able to clear the silt bar."
 
 "Fuck," said Percy as the _Prospect_ slowly reversed, stirring the water behind them and pushing it forward along the hull. It washed outwards and under the nearby huts on either side where people had realized something was amiss and had come out to the platforms in front of their homes to watch. 
 
@@ -213,18 +213,18 @@ Moving backwards did get them off the bottom. As soon as Bastian reported they h
 
 Percy just put her face into her hands, both too embarrassed and angry to look at anyone for the moment.
 
-Trelew had Gregory open the main ballast blow valves and the high-pressure air system blew out whatever water was left in the main tanks along with a lot of excess bubbles that burbled up the side of the boat to the delight of the children who were now climbing the side of the _Prospect_ and running around on the deck. Trelew also had Gregory empty every trim tank the boat had, and turn on all the bilges. Long streams of foul water poured out from the side of the hull, in one case a cataract that squarely landed against the wall of a hut, and required yet another payment from Cassandra to ease the cursing.
+Piero had Gregory open the main ballast blow valves and the high-pressure air system blew out whatever water was left in the main tanks along with a lot of excess bubbles that burbled up the side of the boat to the delight of the children who were now climbing the side of the _Prospect_ and running around on the deck. Piero also had Gregory empty every trim tank the boat had, and turn on all the bilges. Long streams of foul water poured out from the side of the hull, in one case a cataract that squarely landed against the wall of a hut, and required yet another payment from Cassandra to ease the cursing.
 
-Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Trelew had them slowly move forward again. Percy returned to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounding alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft, sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot, and the gauge showed a clear four meters of water under them.
+Getting this excess water out of the boat did raise it up though. When Bastian reported an additional meter of water under the keel, Piero had them slowly move forward again. Percy returned to the control room to watch the gauges. The _Prospect_ crept over the shallow spot with the depth-under-keel gauge lowering all the way down to the zero pin and the grounding alarm coming back on. Percy could swear she heard the bottom sloshing along the hull as her boat pushed through a soft, sucking muck. But the forward progress was not stopped this time, and they soon came over the shallow spot, and the gauge showed a clear four meters of water under them.
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### They arrive at the dock)
 
-They had to squeeze the _Prospect_ over two more shallow spots before Sir Trelew finally turned them out into a somewhat larger channel --- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic moving on it. Sir Trelew steamed the _Prospect_ along this channel for another mile or so, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some were open to the sky. Some were stacked high with cargo waiting for a ship to be loaded onto, and others were cleared waiting for a loaded ship to come in. The platforms either had one side set with a row of docking pylons, or were otherwise connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left as open water so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. Only a few people were about though, since this area was far more heavily populated with cargo than people.
+They had to squeeze the _Prospect_ over two more shallow spots before Sir Piero finally turned them out into a somewhat larger channel --- maybe twice the width of the _Prospect's_ beam. This channel was consistently deeper and there was more commercial traffic moving on it. Sir Piero steamed the _Prospect_ along this channel for another mile or so, picking his way through a number of places where the channel branched left or right. The structures along the channel got larger and larger, and the traffic on the water thinned out as they moved into a part of the city that had less day-to-day trading and was more focused on storage and warehouses. The structures here tended to be large flat platforms, open on the side. Some had roofs built over them and some were open to the sky. Some were stacked high with cargo waiting for a ship to be loaded onto, and others were cleared waiting for a loaded ship to come in. The platforms either had one side set with a row of docking pylons, or were otherwise connected to rickety piers of weathered and gray wood that extended out from the platforms into small bays that were left as open water so that bigger ships would have enough room to maneuver in them. Many of these piers had ships of various sizes moored up against them. Only a few people were about though, since this area was far more heavily populated with cargo than people.
 
-Finally Sir Trelew pointed to a bay ahead off the port side while looking through the binoculars. He turned the _Prospect_ into the bay, and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign matching the dock number they were looking for. As Sir Trelew and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Gregory to meet him on the deck. The three of them brought thick docking hawsers up from the cargo hold through the big hatch and secured them to cleats on the deck. Gregory made a daring leap from the handholds on the side of the _Prospect_ to the dock over the sloshing water in the closing gap. Hemi and Chips tossed the lines over to him so he could secure them to the docking pylons.
+Finally Sir Piero pointed to a bay ahead off the port side while looking through the binoculars. He turned the _Prospect_ into the bay, and Hemi could see through his own binoculars that the third dock in from the channel had a small hand-lettered sign matching the dock number they were looking for. As Sir Piero and Bastian worked to bring the boat alongside the dock, Hemi got on the PA and asked Chips and Gregory to meet him on the deck. The three of them brought thick docking hawsers up from the cargo hold through the big hatch and secured them to cleats on the deck. Gregory made a daring leap from the handholds on the side of the _Prospect_ to the dock over the sloshing water in the closing gap. Hemi and Chips tossed the lines over to him so he could secure them to the docking pylons.
 
 The dock was exceedingly narrow for handling a ship of the _Prospect's_ size, maybe just two meters or so wide, and when the _Prospect_ leaned its weight up against it, the whole dock shifted its center of gravity towards the other side. The _Prospect_ took up the entire length of the dock, and then extended another quarter ship-length out beyond it into the turnaround bay. The dock was supported by ancient poles of wood, weathered to a smooth but grainy gray texture. The cross planks had many knot holes and splintered easily under scuffing feet. About halfway out, the dock widened to accommodate the base of a rusty and flimsy looking crane which was left angled at its joints in such a way that it looked like the giant crooked finger of a crone cursing the fates before her. Further out from the crane, the dock narrowed again to just enough space for an individual to walk.
 
@@ -276,7 +276,7 @@ Out of earshot, Gregory asked quietly, "Are we going to start unloading the _Pro
 
 Hemi got the engine for the crane started and when it was pouring black diesel smoke at a nice consistent rate out over the channel, he lowered the boom, and dropped the hook into the cargo hold of the _Prospect_. Gregory, down on the deck in the cargo hold, rigged the gangway to it, and Hemi lifted it up and settled it down on deck. Hemi waited for Gregory to appear on deck, and then moved the gangway out over the gap between the boat and the dock, while Gregory guided it into place, and then lashed it down.
 
-With the gangway set, Hemi shut down the crane and made his way back aboard the _Prospect_. He found Percy and advised her they should lay low inside the boat until the dock boss' crew got there. So Captain Percy, Hemi, Bastian, Gregory, and Sir Trelew rounded up in the galley around a new pot of coffee. Cassandra had gone off to her rack to catch up on sleep. Hemi sat in the corner of the galley reading a novel the size of a footstone with an illustration on the cover of some tortured pious soul, while the rest got a game of dominoes going.
+With the gangway set, Hemi shut down the crane and made his way back aboard the _Prospect_. He found Percy and advised her they should lay low inside the boat until the dock boss' crew got there. So Captain Percy, Hemi, Bastian, Gregory, and Sir Piero rounded up in the galley around a new pot of coffee. Cassandra had gone off to her rack to catch up on sleep. Hemi sat in the corner of the galley reading a novel the size of a footstone with an illustration on the cover of some tortured pious soul, while the rest got a game of dominoes going.
 
 They proceeded to drink two and a half pots of coffee as a couple of hours passed, but eventually there was the sound of feet on the _Prospect's_ deck above and the grind of the crane's diesel starting up. When Percy got down to the cargo hold, the deck boss' crew of people --- men and women, but all of a hefty dockworker build and wearing tough, undyed canvas clothing --- were already rigging crates onto the hook of the crane and preparing to unload.
 
@@ -385,17 +385,17 @@ Hemi leaned over the open cargo hatch as he came up to it on the deck and saw Gr
 
 Hemi looked at the rusted and dented ramp leading from the deck of the _Prospect_ to the dock, then back to Gregory. "Just undo its securing lines. We are going to leave it here." 
 
-Hemi turned back towards the sail, hearing a distant 'fuck' rise up from the depths of the cargo hold. He was up on the bridge of the sail a few seconds later asking Percy to make sure Gregory got the deck cleared for leaving dock. A few seconds after that he was on the PA in the control room, calling Sir Trelew and Bastian to meet him immediately. They both arrived from the galley moments later.
+Hemi turned back towards the sail, hearing a distant 'fuck' rise up from the depths of the cargo hold. He was up on the bridge of the sail a few seconds later asking Percy to make sure Gregory got the deck cleared for leaving dock. A few seconds after that he was on the PA in the control room, calling Sir Piero and Bastian to meet him immediately. They both arrived from the galley moments later.
 
-"Our pursuing sub problem has arrived once again Bastian. Get the diesels started, we are leaving. Sir Trelew: if you can pilot us back to the main channel in a hurry, there will be a significant bonus for you."
+"Our pursuing sub problem has arrived once again Bastian. Get the diesels started, we are leaving. Sir Piero: if you can pilot us back to the main channel in a hurry, there will be a significant bonus for you."
 
-"Alright Mister Hemi." Sir Trelew climbed the ladder up to the bridge from where his piloting would be carried out.
+"Alright Mister Hemi." Sir Piero climbed the ladder up to the bridge from where his piloting would be carried out.
 
 Bastian did not ask any questions. He turned to the motor panel and flipped the starters. A moment after that came the hiss of the high-pressure air turning the diesels over. The engines came to life, filling the _Prospect_ with the reassuring and familiar rumble of its core power.
 
-Sir Trelew joined Percy on the bridge. Percy and Gregory established via some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Gregory a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing lines into the water. The gangway scraped along the deck with a loud steel-on-steel sound, and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
+Sir Piero joined Percy on the bridge. Percy and Gregory established via some consultation yelled back and forth from the top of the sail to the deck that they would leave the gangway and the hawsers. It only took Gregory a few minutes to remove the securing lines from the gangway and undo the hawsers from the _Prospect's_ deck cleats. As soon as they were loose Percy shouted down to Bastian and Hemi in the control room to reverse thrust and start backing them away from the dock into the turnaround bay. As the _Prospect_ slipped away from the dock the hawsers draped and then fell in long splashing lines into the water. The gangway scraped along the deck with a loud steel-on-steel sound, and then it followed the hawsers down the side of the _Prospect's_ hull and into the water.
 
-The round dock boss and the dockworkers were standing on the platform watching this procedure, a little stupefied. When the gangway hit the water the dock boss called out to Percy and Sir Trelew on the sail. "What are you doing? You can't leave that fucking junk here!"
+The round dock boss and the dockworkers were standing on the platform watching this procedure, a little stupefied. When the gangway hit the water the dock boss called out to Percy and Sir Piero on the sail. "What are you doing? You can't leave that fucking junk here!"
 
 Percy ignored him, annoyed that she had to leave the junk. Those heavy hawsers were not cheap.
 
@@ -434,13 +434,13 @@ But she did not have to wait for Hemi's report. The _Gnat_ rose to the surface o
 
 [//]: # (### Running back to the main channel in pursuit)
 
-"OK Sir Trelew," Percy said, "it's all on you now my new fuckin' friend. Can you get us back to the main channel?"
+"OK Sir Piero," Percy said, "it's all on you now my new fuckin' friend. Can you get us back to the main channel?"
 
 "Yes yes. You think this is the first pursuit I have done through Stilt City? I have a few tricks up my suit sleeves."
 
 Calling commands down to the control room, he completed backing the _Prospect_ into the turnaround bay, and then pushed out into the channel. They got a good view of the sub with the ram as they passed. Black-uniformed crew were running back and forth on the deck with two-meter pry bars, pushing detritus from the platform off the deck. The channel was too narrow for a ship that size to turn around. If they could get unstuck, they would still have to maneuver into the turnaround bay before they could begin to follow the _Prospect_ and the _Gnat_.
 
-Once Sir Trelew had the _Prospect_ out in the channel, he put on as much speed as he thought they could without adding to the swamping of the structures along the channel and without risking accidentally driving into one of those structures. Behind them Percy could see the _Grackle_ was already freeing itself from its stuck position and maneuvering backwards towards the turnaround bay.
+Once Sir Piero had the _Prospect_ out in the channel, he put on as much speed as he thought they could without adding to the swamping of the structures along the channel and without risking accidentally driving into one of those structures. Behind them Percy could see the _Grackle_ was already freeing itself from its stuck position and maneuvering backwards towards the turnaround bay.
 
 With the _Prospect_ successfully underway, Hemi climbed up to the bridge to consult with Captain Percy.
 
@@ -452,9 +452,9 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 "With Shakes constantly stopping to ask directions, it may not have been very difficult to do."
 
-"Well, maybe we can get them to follow him back out too. Sir Trelew, can we take your shortcut again --- back to the main channel?"
+"Well, maybe we can get them to follow him back out too. Sir Piero, can we take your shortcut again --- back to the main channel?"
 
-"That is maybe not such a good idea. Faster overall, but the sub marine has to go much slower through," said Sir Trelew.
+"That is maybe not such a good idea. Faster overall, but the sub marine has to go much slower through," said Sir Piero.
 
 "I'm willing to go slower if it means losing our fucking pursuers though," said Percy. "Hemi, let's ask Shakes to start the diesel on the _Gnat_, and we'll leave him to go back up the bigger channel he came in from. We'll turn into the shortcut, and with some luck, maybe the _Grackle_ will follow his loud ass instead of us." In one way it felt like a lot to ask of Shakes, who had just risked his boat for them. But one of Percy's principles of leadership was that if someone shows initiative, give them more responsibility.
 
@@ -466,23 +466,23 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 "Alright," said Hemi again, and climbed over the fairing of the sail and down to the deck. Percy watched him shout for Shakes' attention and when Shakes heard him he pulled the _Gnat_ alongside the _Prospect_ and he and Hemi ironed out the details of the plan by yelling across the gap between the two boats. When he was done Hemi climbed up to the sail and back down into the control room.
 
-"How much further do we have to go to the shortcut?" Percy asked Sir Trelew.
+"How much further do we have to go to the shortcut?" Percy asked Sir Piero.
 
 "Just another quarter mile or so. We have to slow the boat down even before we get there --- it is easy to miss a small lane like that, and also no turnaround." 
 
 "OK, when you're sure you're close, have Bastian slow us down as much as you think you need to." Percy looked behind. There was no pursuing sub there, but she could only see about a quarter mile down the channel before the sighting was lost in the winding ways of the channel and the clusters of warehouses and cargo platforms. A quarter mile was nothing. The _Grackle_ might be right behind them, but she had no way of knowing.
 
-A few minutes later Sir Trelew called down to Bastian to slow the _Prospect_ to five knots. Sir Trelew scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a small, rapidly-approaching gap between the huts built along the channel. "There it is Captain Percy."
+A few minutes later Sir Piero called down to Bastian to slow the _Prospect_ to five knots. Sir Piero scanned the signs and structures along the port side of the channel ahead of them. Then he pointed to a small, rapidly-approaching gap between the huts built along the channel. "There it is Captain Percy."
 
 She nodded. "None too fucking soon," she said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
-As Sir Trelew brought the _Prospect_ into the narrow way of the shortcut, Captain Percy could hear the cough and sputter of the _Gnat's_ diesel starting even above the significant rumble of the _Prospect's_ own engines. As Sir Trelew began his careful navigation of the shortcut pass, Percy kept looking back to make sure the _Grackle_ had not come into sight.  Carbonous black soot shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
+As Sir Piero brought the _Prospect_ into the narrow way of the shortcut, Captain Percy could hear the cough and sputter of the _Gnat's_ diesel starting even above the significant rumble of the _Prospect's_ own engines. As Sir Piero began his careful navigation of the shortcut pass, Percy kept looking back to make sure the _Grackle_ had not come into sight.  Carbonous black soot shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 
-The _Prospect_ moved into the small channel between the huts, backtracking the route it had come in by. Sir Trelew had them moving faster this time though, kicking up enough wake to slosh up against the bottoms of the huts, but just short of driving water into the huts. That did not prevent residents from coming out and cursing their passing though.
+The _Prospect_ moved into the small channel between the huts, backtracking the route it had come in by. Sir Piero had them moving faster this time though, kicking up enough wake to slosh up against the bottoms of the huts, but just short of driving water into the huts. That did not prevent residents from coming out and cursing their passing though.
 
-As before, they wound their way through the small homes. Sir Trelew faced the bow and scanned the path in front of them with binoculars. Occasionally he cupped a hand around his mouth and yelled forward loudly in various local languages to try to get a local fisherman or kids rowing tiny coracles to make way for the _Prospect_ to pass. He kept up a never ending stream of instructions to Hemi and Bastian below, making tiny corrections in their course to keep them in the center of the narrow passage.
+As before, they wound their way through the small homes. Sir Piero faced the bow and scanned the path in front of them with binoculars. Occasionally he cupped a hand around his mouth and yelled forward loudly in various local languages to try to get a local fisherman or kids rowing tiny coracles to make way for the _Prospect_ to pass. He kept up a never ending stream of instructions to Hemi and Bastian below, making tiny corrections in their course to keep them in the center of the narrow passage.
 
 Percy rode her boat facing the stern, on the lookout for the thing she feared --- the black shadow of the sub rising up somewhere back in their wake among the densely-clustered huts. 
 
@@ -490,9 +490,9 @@ She was just beginning to believe the _Grackle_ may have gone for the bait and f
 
 The thumps came faster, flowing together until the detritus of the huts was being blasted into the air in a long continuous stream of pulverized wood and straw. The ram of the _Grackle_ was being used to plow a direct route through, as though the ramshackle homes were nothing but so much snow needing to be cleared from the central artery of some Northern city. A path of monstrous destruction, moving rapidly towards the _Prospect_.
 
-"Sir Trelew, that sub that was after us? They are coming this way," said Percy. "Is there any chance we can move faster through here?"
+"Sir Piero, that sub that was after us? They are coming this way," said Percy. "Is there any chance we can move faster through here?"
 
-Sir Trelew looked behind him and saw the rampaging destruction headed towards them.
+Sir Piero looked behind him and saw the rampaging destruction headed towards them.
 
 "Sorry Captain Percy, I am not destroying my neighbors homes for the sake of your boat."
 
@@ -502,15 +502,15 @@ Sir Trelew looked behind him and saw the rampaging destruction headed towards th
 
 "Unless the tide went out..," said Percy.
 
-Sir Trelew did not reply. He resumed shouting directions down to the control room.
+Sir Piero did not reply. He resumed shouting directions down to the control room.
 
 [//]: # (### The pursuing sub gets stuck)
 
-Captain Percy did not have nearly as much faith as Sir Trelew that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if the warning light came on.
+Captain Percy did not have nearly as much faith as Sir Piero that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if the warning light came on.
 
-It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sir Trelew pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down till it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
+It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sir Piero pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down till it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
 
-She climbed back up to the bridge with a smile on her face and patted Sir Trelew on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them suggested to her that the _Prospect_ might have an opportunity coming.
+She climbed back up to the bridge with a smile on her face and patted Sir Piero on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them suggested to her that the _Prospect_ might have an opportunity coming.
 
 She lifted her binoculars and leaned out from the sail to get a clear view around the _Prospect's_ exhaust stream. The _Grackle_ was still charging recklessly up the narrow passage, splintering the little huts on both sides of the waterway. She could see the faint shadows of people atop the sail directing its course. With no reduction in speed at all, it drove into the shallow bar. 
 
@@ -526,23 +526,23 @@ This angered the residents still more. They began to land on the stuck sub, beat
 
 After that, the people on the bridge opened up on the locals --- shot after shot rang across the water. Figures fell to the deck amid the mass of residents scrambling to get off the deck and back to their small boats and canoes alongside. 
 
-[//]: # (### Into the main channel; pay off Sir Trelew)
+[//]: # (### Into the main channel; pay off Sir Piero)
 
 The _Prospect_ was now gaining crucial ground on their pursuers, quickly finding their path through the winding way. Soon Percy could see the main channel ahead. Further behind, amid the chaos and the violence, it did appear that the _Grackle_ was making headway against its bottoming. Percy estimated they might push clear with just a few minutes more.
 
 The _Prospect_ turned out into the main channel and Percy took over command. She immediately had Bastian throttle up to the _Prospect's_ full surface speed of 15 knots. 
 
-"Careful Captain Percy," said Sir Trelew. "I cannot recommend all this speed in the channel full of big heavy ships and small wobbly boats. If any Authority vessels spots the _Prospect_ they will intervene to try to keep order in the channel."
+"Careful Captain Percy," said Sir Piero. "I cannot recommend all this speed in the channel full of big heavy ships and small wobbly boats. If any Authority vessels spots the _Prospect_ they will intervene to try to keep order in the channel."
 
 "I fucking know it. But those fuckers behind us are certainly not going to take it easy in the channel --- maybe the Authority will intervene with them instead!"
 
 "That seems true enough. Here I must leave you then. If the Authority catches me piloting a craft at this speed in the channel, I will no longer be a pilot. Besides, there's 50 meters of water in the channel, you do not need me any more --- as long as you manage not to get crushed by a moving freighter."
 
-"Well fuck. That was as fine a bit of piloting as I have ever seen," said Percy. She leaned over and called down to Hemi in the control room. "Hemi! Toss up the pay for Sir Trelew."
+"Well fuck. That was as fine a bit of piloting as I have ever seen," said Percy. She leaned over and called down to Hemi in the control room. "Hemi! Toss up the pay for Sir Piero."
 
 Hemi underhanded a small cloth pouch clinking with coins up from the control room and Percy snatched it from the zenith of its rise.
 
-She handed it to Sir Trelew. "You'll find a generous gratuity in there for your work under tense conditions Sir Trelew."
+She handed it to Sir Piero. "You'll find a generous gratuity in there for your work under tense conditions Sir Piero."
 
 "I am the best pilot in the city Captain Percy! If you come in this way again, be sure to ask for me."
 
@@ -550,7 +550,7 @@ She handed it to Sir Trelew. "You'll find a generous gratuity in there for your 
 
 "No problem. I was born and bred on the water!"
 
-Sir Trelew tucked the bag of coins into his pants, gave Percy a casual salute, and nimbly went over the side of the sail. He pulled his dugout canoe to the edge of the deck and sat down in it. He lifted his paddle and pushed off. He slid the tiny craft down the curve of the _Prospect's_ hull and into the rapidly passing water like someone maneuvering over a big rock in river rapids. After a few paddles he had safely made some distance from the giant steel cylinder flying past, and he paused to give one final wave to Percy on the sail before paddling in the direction of a large oiler that was crawling upstream to see if he could win a second job for the day.
+Sir Piero tucked the bag of coins into his pants, gave Percy a casual salute, and nimbly went over the side of the sail. He pulled his dugout canoe to the edge of the deck and sat down in it. He lifted his paddle and pushed off. He slid the tiny craft down the curve of the _Prospect's_ hull and into the rapidly passing water like someone maneuvering over a big rock in river rapids. After a few paddles he had safely made some distance from the giant steel cylinder flying past, and he paused to give one final wave to Percy on the sail before paddling in the direction of a large oiler that was crawling upstream to see if he could win a second job for the day.
 
 [//]: # (----- invisible character break)
  
@@ -581,7 +581,7 @@ Hemi dropped below and resealed the hatch above, silencing the alarm from the ha
 
 When the depth gauge showed the sail was under, Percy raised up the scope. As it came level with her eyes, she leaned into the viewfinder and started slowly scanning a full circle around the _Prospect_. She paid particular attention to the rear quarters, trying to see if she could catch a glimpse of the _Grackle_ behind. The sub would be harder to spot from the lower vantage of periscope depth, particularly with all the traffic in the channel, but Percy felt running submerged would be safer than cruising on the surface.
 
-The pursuing sub was not within visual range. It was possible it had gotten stuck again while navigating one of the other shallow spots in Sir Trelew's shortcut. Percy wondered if the _Prospect_ might be free and clear to head out to sea. But she was still going to use every tactic she could put together to get away discreetly.
+The pursuing sub was not within visual range. It was possible it had gotten stuck again while navigating one of the other shallow spots in Sir Piero's shortcut. Percy wondered if the _Prospect_ might be free and clear to head out to sea. But she was still going to use every tactic she could put together to get away discreetly.
 
 She focused the periscope forward and spoke without pulling back from the viewfinder. "Hemi, there's a big fuckin' outward bound cargo hauler about a quarter mile up the channel. I think I want to put the _Prospect_ under it, and hide in its shadow until we're well the fuck out."
 

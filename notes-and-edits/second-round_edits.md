@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-06-03 16:03
+Last modified: 2023-06-09 10:37
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -187,11 +187,11 @@ Edits to pick up in second full pass through the book
 		* This leaves them without an engineer when Chips leaves, but I'm not sure they make much use of one for the rest of the book.
 * stilt city: 
 	* [X] when Chips leaves -- have Hemi call her by her real name
-	* [X] Fix Sir Trelew:
+	* [X] Fix pilot name:
 		* needs a new name, maybe Zag something?
 		* less asian,
 		* different distinction for dialog
-	* [X] Sir Trelew smokes big cigars or a pipe
+	* [X] Sir Piero smokes big cigars or a pipe
 	* [X] have Shakes pull his driving gloves on with his teeth (maybe when he's ramming)
 	* [-] Somewhere in here needs to be some kind of surprising reveal about the Grackle's chase
 		* Like, maybe they have a conversation over ship-to-ship with the Prospect or something.
@@ -283,7 +283,7 @@ Edits to pick up in second full pass through the book
 	* Character development:
 		* I think you did a pretty good job with this. Since there are so few characters, it could have been nice to have Gregory and Owen and Bastian's characters developed a bit more, especially since Gregory dies. Also for there to be more clues as to the relationships between all of them. Regarding Gregory's death - it seemed a bit unrealistic that no one except Chips really seemed to care too much. I would imagine that even people working in super dangerous jobs still feel really disturbed when one of their crew members is randomly killed. As a reader, because we knew almost nothing about Gregory, it was also hard to care and his death felt random. I think you could do more with his character, the circumstances surrounding his death (maybe he's switched shifts with someone or something?) and the aftermath of death to make it feel more impactful. Getting into the characters backstories could be another way to world-build a bit more?
 		* Why did Cassandra have to be a prostitute? That seemed a bit gratuitous. I think also her being described as one of the only characters of color made it feel cringey for me, plus details about her hair and stuff whereas we didn't get that for the male crew members.
-		* It also felt a bit stereotypical that Sir Trelew has an Asian sounding name and then spoke broken English. 
+		* It also felt a bit stereotypical that the pilot has an Asian sounding name and then spoke broken English. 
 		* Chips and Percy's disagreements often felt a bit too irrational on both sides, even given everyone’s lack of sleep and the pressure they're under. And then Chips leaving felt quite anti-climactic. Especially in the first half of the book, Percy felt a bit too unbelievably immature to be captain, as the leader of the ship I would want her emotional impulsivity balanced with some other more obvious positive personal characteristics besides an instinct for submarines.
 	* Submarines!
 		* One of the things you asked me is whether it would be interesting for people not interested in submarines - I think my answer would be - it depends. I definitely felt as though there were parts that were interesting to read about - for example when Hemi is teaching Cassandra how to use the sonar. But there were other parts, in particular in the first part of the book (pre-arriving at the depot) where it felt as though pages were dedicated to the workings of the submarine or the characters trying to fix parts of it, but the story wasn't advancing in a significant way. As a non-submarine-interested reader, I would have preferred for some of the excitement in the book to come from things other than mechanics of the sub and potential issues. I get that it's hard because so much of it takes place in open water, but it seemed as though every time the submarine decided to go up or down, for example, we got information about how it would do that with the ballast etc. In terms of my ideal book, almost all that detail would be cut so that there's enough detail left for the book to keep its sense of realism, but not so much that it bogs down the narrative. I guess in my ideal book the sub would still feature prominently but potential mechanical failures etc wouldn't be one of the main sources of tension, there'd be more varied challenges that come up. Kind of like how in a book that takes place on an above-ground ship, issues with storms and the ship itself would maybe only be part of the narrative but not the main driving thread.
@@ -430,7 +430,8 @@ Edits to pick up in second full pass through the book
 	* maybe while on sonar, like:
 		* "Hemi sat on sonar watch reading a novel the size of a footstone, with an illustration on the cover of some tortured pious soul."
 * [ ] Don't forget to re-write preface (special version for director's cut? I think so) and post-script about license
-* [ ] Need to consider changing Sir Trelew's name again --- maybe Sir Rogelio after the locksmith who found Yamashita's gold?
+* [X] Need to consider changing the pilot's name again --- maybe Sir Rogelio after the locksmith who found Yamashita's gold?
+	* Went with Sir Piero, after the captain of the andrea doria
 
 
 ## Leftover ideas, add for "director's cut"?
