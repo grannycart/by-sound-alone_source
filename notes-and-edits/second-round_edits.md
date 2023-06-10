@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-06-10 11:14
+Last modified: 2023-06-10 12:42
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -403,7 +403,7 @@ Edits to pick up in second full pass through the book
 * [X] equalizing pressure in their ears
 
 
-## Post-edit searches
+## Post-edit revisions
 :post:
 * [X] After full draft revisions are complete: scan through with spell check on; and make sure all listed spelling errors are intentional.
 	* [X] After test-reader full round of edits: do a full scan through a different spellchecker, like libreoffice
@@ -417,9 +417,10 @@ Edits to pick up in second full pass through the book
 * [X] Do a grep for the mispelling "Grackel" 
 * [X] Grep "sub with the ram" and make sure it isn't used too much now that we know the boat is named the Grackle
 * [X] check --- emdashes are actually correct in all compiled formats. Also check ligatures for quotes. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33
-* [ ] I keep going back and forth on chapter numbers:
+* [X] I keep going back and forth on chapter numbers:
 	* On one hand, the book is very linear. Maybe numbers make sense for their subtle "pull" feeling?
 	* On the other hand, do they do anything if you have chapter headers? (which I AM convinced I should keep now)
+	* keep the chapter numbers.
 * [X] need to add at least one more reference to "Handsome Gregory" later in the book.
 	* Added it as the last thing Hemi says to Gregory
 * [X] somewhere later in the book where the batteries are depleting, add: "Save our batteries, let's spin only one wheel."
@@ -429,14 +430,23 @@ Edits to pick up in second full pass through the book
 * [X] A scene where Hemi is reading The Recognitions (describe cover, not name title.)
 	* maybe while on sonar, like:
 		* "Hemi sat on sonar watch reading a novel the size of a footstone, with an illustration on the cover of some tortured pious soul."
-* [ ] Don't forget to re-write preface and post-script about license
-	* [ ] add something to the preface introducing the "director's cut"?
+* [X] Don't forget to re-write preface and post-script about license
+	* [X] add something to the preface introducing the "director's cut"?
 * [X] Need to consider changing the pilot's name again --- maybe Sir Rogelio after the locksmith who found Yamashita's gold?
 	* Went with Sir Piero, after the captain of the andrea doria
-
-
-## Leftover ideas, add for "director's cut"?
+* [X] Need to include a description of Percy somewhere early in the book
+	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
+	* [X] she runs a hand through her cropped hair
 * [X] Shakes affectionately calls the Gnat 'the bug'
+* [X] Shakes needs to say 'ain't' more, like he does when he first appears
+* [X] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
+	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
+	* don't forget that in non-teardrop subs, the lower they are the slower they go on the surface.
+* [X] In the engine room, or the control room: add something about the shine on the levers and wheels from the grip of hands.
+	* Maybe on the control wheels for the dive planes?
+
+
+## Leftover ideas, add for a later version?
 * [-] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 	* I don't think this will make it into the first book or short story
 * [-] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
@@ -445,60 +455,46 @@ Edits to pick up in second full pass through the book
 	* [X] Check what shakes says about this: pretty sure he mentions the pigeon hatch when he first meets back up with them after the Depot
 	* might just be that the pigeon hatch remains an idea for this book.
 	* removed the one reference to the pigeon hatch. It's a cute idea, but doesn't really gain anything.
-* [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
-	* [ ] add something about Cassandra listening to music? 
-* [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
-* [ ] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
-* [ ] Maybe have Bastian decorating his quarters with plants?
+* [-] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
+	* [-] add something about Cassandra listening to music? 
+* [-] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.
+* [-] Hemi has stacks of books crammed into his rack (which is larger than most both because he's deck boss, and he's huge. (maybe he became deck boss _primarily_ for the larger rack. He's not one who _wants_ leadership).
+* [-] Maybe have Bastian decorating his quarters with plants?
 	* Maybe plants should be Gregory, to round outhis character more, and have something to reference him by later in the book
 	* Maybe not? Maybe the idea is that nature is out there in the water, not in the sub? since it is a human machine
-	* [ ] Ask A what plants could actually grow on a sub
+	* [-] Ask A what plants could actually grow on a sub
 	* pot? See note on motivating Shakes
-* [ ] Add? "The way sound travels underwater is complex, sometimes almost magical."
+* [-] Add? "The way sound travels underwater is complex, sometimes almost magical."
 	* Though there is already a line about how sound finds new and mysterious ways to propagate in the depths
-* [ ] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
+* [-] Add a conversation about the morality of running weapons parts when they have the magnetic mines aboard
 	* Maybe with shakes over ship-to-ship, just to keep it interesting
 	* Maybe Shakes wonders if it's moral to run weapons
 	* But Percy points out that they might be supplying a rebel group fighting for their freedoms
 	* Though that rebel group might be the oppressors in 6 months
 	* There's no way to keep track of who is in power, or even if there actually CAN be someone in power
 	* So instead just do the job at hand, and hope it all comes out as a moral wash in the long run
-* [ ] In the engine room, or the control room: add something about the shine on the levers and wheels from the grip of hands.
-	* Maybe on the control wheels for the dive planes?
-* [X] Need to include a description of Percy somewhere early in the book
-	* (There's the line about the leather pants she's wearing when she's kneeling on the grates; this might need to be moved up into or reflected in description of her)
-	* [X] she runs a hand through her cropped hair
-* [ ] Subtly reinforce Percy's beauty in more places?
-	* Right now I think she reads more like the elder captain she will be in later stories
-	* Other characters should sometimes react to her youth and beauty --- but she has no interest in that herself.
-	* The older version of her (see character notes) was really for being a role model for Shakes. That isn't in this first book. Maybe later.
-	* Also, see note on Cassandra -- there are no pretty people in this world.
-* [ ] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
-* [ ] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
-* [ ] And the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
-* [ ] Add a scene where they quick-fix a leak with a Power Actuated Tool?
-* [ ] Shakes needs to say 'ain't' more, like he does when he first appears
-* [ ] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
+* [-] mention that the navigation table is lit from underneath? (Is it? or is it just a well-lit station?)
+* [-] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
+* [-] And the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
+* [-] Add a scene where they quick-fix a leak with a Power Actuated Tool?
+* [-] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
 	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
 		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
 		* yeah, but WHY bother? just because it's cool?
 	* This is referenced first right at about 1000k words
-* [ ] Could the cursing be more along these lines:
+* [-] Could the cursing be more along these lines:
 	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
-* [ ] Can't hurt for driving plot forward to have two characters with no fear of death. 
+* [-] Can't hurt for driving plot forward to have two characters with no fear of death. 
 	* Bastian might be a good candidate for this, to give him a little more depth
 	* though you want them up against characters who are TERRIFIED of death of course if you want to capture that staring-at-dials/The Haunting/Shirley Jackson tension.
-* [ ] you need characters that aren't too passive. think of mike hammer in mickey spillane's stories.
+* [-] you need characters that aren't too passive. think of mike hammer in mickey spillane's stories.
 	* you need a hot-head; not just grumpy resentment (like Chips) but who gets angry quickly and wants to charge into action
 		* it would be interesting to make this an element of Percy's character, particularly if Hemi is always-cool
 		* Like the aggressive boss/reasonable sub-boss relationship you see so often in industry
 		* this could tap into chain-of-command issues, like the Tenerife airport disaster. Something bad happens because someone doesn't want to challenge the captain.
 		* this would be way more interesting than just having everyone working to the best of their abilities ala star trek
 		* make the captain lovable, but falable. this aspect of tony soprano is worth copying
-* [ ] fuel ballast -- normal fuel oil tanks are filled with water as they are emptied (since they are outside the pressure hull)
-	* fuel ballast tanks (not sure if these are extras, see USS Cod website) can be filled with air to get additional freeboard and run faster on the surface
-	* don't forget that in non-teardrop subs, the lower they are the slower they go on the surface.
 
 
 ## Post "Director's Cut" things to remove

@@ -508,7 +508,7 @@ Minutes later the depth-under-keel gauge started rising steadily, as if with int
 
 "Down Gregory. Right now. Take us to the sea floor."
 
-The dive plane wheel slipped through Gregory's thick fingers, and the bow of the boat eased downwards. Captain Percy pressed the collision alarm button and a klaxon blared through the ship. She pulled the boat PA mic down from the array of radio mics whose cords swayed just above her head and pressed the talk button. "Chips: leave the leak. You and Owen get out of the cargo hold. Seal the bulkheads behind you. We're going to bottom the boat, and there's a reasonable chance it will split our wounded hull there wide open."
+The dive plane wheel, the steel shiny from the grip of many hands over the years, slipped through Gregory's thick fingers. The bow of the boat eased downwards. Captain Percy pressed the collision alarm button and a klaxon blared through the ship. She pulled the boat PA mic down from the array of radio mics whose cords swayed just above her head and pressed the talk button. "Chips: leave the leak. You and Owen get out of the cargo hold. Seal the bulkheads behind you. We're going to bottom the boat, and there's a reasonable chance it will split our wounded hull there wide open."
 
 At the sound of the collision alarm Hemi came up through the hatch. His eyes passed over the gauges, taking in their situation. "Gently Gregory," he almost whispered.
 
