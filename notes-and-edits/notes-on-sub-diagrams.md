@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: 2023-05-03 21:02
+Last modified: 2023-06-10 11:15
 
 
 # notes on sub diagrams
@@ -51,7 +51,7 @@ Last modified: 2023-05-03 21:02
 	* [X] add/adjust scale
 	* [X] add 'sail' label
 	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
-	* [X] add pigeon hatch
+	* [ ] remove pigeon hatch (or leave it as a cutesy thing, but (now) unexplained in the book)
 	* [ ] add pigeon coop to Gnat?
 	* [ ] add dive plane outline?
 	* [ ] does the Gnat need a cargo hatch?

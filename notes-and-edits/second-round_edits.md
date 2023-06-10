@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-06-09 10:37
+Last modified: 2023-06-10 11:14
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -429,21 +429,22 @@ Edits to pick up in second full pass through the book
 * [X] A scene where Hemi is reading The Recognitions (describe cover, not name title.)
 	* maybe while on sonar, like:
 		* "Hemi sat on sonar watch reading a novel the size of a footstone, with an illustration on the cover of some tortured pious soul."
-* [ ] Don't forget to re-write preface (special version for director's cut? I think so) and post-script about license
+* [ ] Don't forget to re-write preface and post-script about license
+	* [ ] add something to the preface introducing the "director's cut"?
 * [X] Need to consider changing the pilot's name again --- maybe Sir Rogelio after the locksmith who found Yamashita's gold?
 	* Went with Sir Piero, after the captain of the andrea doria
 
 
 ## Leftover ideas, add for "director's cut"?
-* [ ] add something to the preface introducing the "director's cut"?
 * [X] Shakes affectionately calls the Gnat 'the bug'
-* [ ] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
+* [-] Add a symbol or logo to the side of the Prospect, something that could be visually rendered in the real world
 	* I don't think this will make it into the first book or short story
-* [ ] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
-* [ ] Have Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
+* [-] hydraulics? wouldn't SOMETHING run on hydraulics? Wouldn't whatever it is break or spring a leak?
+* [-] Have Chips helps Shakes cut the pigeon hole for Herschel (while they are on the surface) before she leaves at Stilt City.
 	* Chips is gone before Shakes arrives -- nowhere to do this.
-	* [ ] Check what shakes says about this: pretty sure he mentions the pigeon hatch when he first meets back up with them after the Depot
+	* [X] Check what shakes says about this: pretty sure he mentions the pigeon hatch when he first meets back up with them after the Depot
 	* might just be that the pigeon hatch remains an idea for this book.
+	* removed the one reference to the pigeon hatch. It's a cute idea, but doesn't really gain anything.
 * [ ] does the prospect have a record player? maybe they get one later. Maybe cassandra complains about the lack of one at some point, and that becomes your music reference for her.
 	* [ ] add something about Cassandra listening to music? 
 * [ ] consider adding a conversation about tools and how a character prefers hand tools whenever they can get them.

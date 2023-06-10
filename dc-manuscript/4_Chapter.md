@@ -814,21 +814,13 @@ Captain Percy lit a cheroot. "Shit," she said, "if they know we've got what-coul
 
 "Naw, Herschel's not a pet, I told ya --- he's a fuckin' upgrade to the _Gnat_! See I got him from a guy on the dock. He's specially trained to look for his home roost on a submarine on the surface of the ocean. His roost is on the _Gnat_ now, and I've been taking care of him. Soon he'll realize the _Gnat_ is his home. Then I just give him to you guys, and when you need me, you can send Herschel out to find the _Gnat_ with a message tied to his leg."
 
-"Umm. Why would we use a pigeon instead of, say, the fuckin' radio?"
+"Umm. Why would we use a pigeon instead of, say, the radio?"
 
 "Well, I realized that with the modifications I was making to the engine, the _Gnat_ is now so loud inside that I can't hear the radio while the diesel is running. I needed another way to communicate with you guys, and Herschel seemed perfect. Messages by pigeon are also more secure than radio."
 
-"A pigeon..." said Percy skeptically.
+"A pigeon..." said Percy. "Seems fuckin' ridiculous to me."
 
-"But if you have the _Gnat's_ hatch closed, how will you know when Herschel has returned to you?" asked Hemi. "It is not like you will be able to hear him tapping on the hatch with his beak..."
-
-"An astute fuckin' question my large friend. I don't want to leave the hatch open all the time. So I'm going to add a small hatch in the sail --- a hole just big enough for a pigeon. When Herschel has a message for me, he can just come in through his hatch. I only need Herschel when I'm running on the surface with the loud diesels, underwater we can just use ship-to-ship --- and keep Herschel's hatch closed, of course."
-
-Hemi grinned. "I cannot wait to meet Herschel. I volunteer to take responsibility for him while he's on board the _Prospect_. And I will ask Chips to help you with your pigeon hatch."
-
-"This seems fuckin' ridiculous to me," said Percy.
-
-"Sylvia, this pigeon goes a long way towards addressing the problem we had with communicating with Shakes. You asked me to talk with him about that, and here is an answer... maybe not a great answer, but I think Herschel could work. If we could figure out how we could launch him from the _Prospect_ while we are submerged, he would be a perfect communication medium...." Hemi trailed off, envisioning some kind of pigeon buoy they could release at depth.
+"Sylvia, this pigeon goes a long way towards addressing the problem we had with communicating with Shakes. You asked me to talk with him about that, and here is an answer... maybe not a great answer, but I think Herschel could work. If we could just figure out how we could launch him from the _Prospect_ while we are submerged, he would be a perfect communication medium..." Hemi trailed off, envisioning some kind of pigeon buoy they could release at depth.
 
 Captain Percy rolled her eyes. "Whatever. Don't ever say I'm a captain who isn't willing to give new technology a fucking try. We'll take the pigeon aboard as our eighth crew member on a trial basis. Captain Shakes: how about a meal?"
 
@@ -838,7 +830,7 @@ Captain Percy rolled her eyes. "Whatever. Don't ever say I'm a captain who isn't
 
 "Naw. I prefer to waft my bum in the fortifying fresh air of the surface, if that's an option. But seeing as we're under right now..."
 
-"It's on the middle deck, aft of the crew quarters. Be careful. Make sure you read all the fucking instructions. It's complicated."
+"It's on the middle deck, aft of the crew quarters. Be careful. Make sure you read all the instructions. It's fucking complicated."
 
 "Aye, it's been a while since I used the fuckin' head on a sub. I sank the last sub I took a shit on."
 
