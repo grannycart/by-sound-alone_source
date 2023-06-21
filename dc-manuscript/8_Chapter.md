@@ -621,19 +621,19 @@ Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Sha
 
 Sylvia slowly reached a hand up to take the mic. She thumbed the transmitter. "...Owen? ...But how?"
 
-"How? You mean: _how_ am I still alive? You _left_ me alive, remember? You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me on the sail of the _Prospect_, and you dove out from under me --- thinking there was no way I could survive.
+"How? You mean: _how_ am I still alive? You _left_ me alive, remember?" The radio went silent for a few seconds, then the transmission resumed. "You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me on the sail of the _Prospect_, and you dove out from under me --- thinking there was no way I could survive.
 
 "And I would have died in that storm, just as you expected. Probably within a matter of minutes --- except by sheer luck I washed aboard the deck of the _Grackle_. ...Unlike you, they opened the hatch when they heard banging."
 
-Percy could hear Owen breathing heavily into the mic. She took a deep breath and squeezed the mic in her hand. "Owen, why didn't you just say something? Why didn't you raise us on the ship-to-ship earlier? We could have done something to get you off the _Grackle_."
+Percy could hear Owen breathing heavily into the mic. She squeezed the mic in her hand. "Owen, why didn't you just say something? Why didn't you raise us on the ship-to-ship earlier? We could have done something to get you off the _Grackle_."
 
-"Get me _off_ the _Grackle_? The _Grackle_ was a blessing! When the hatch opened, I felt I was being given a second chance. A chance I would use to clear the world of your callous ego, your selfish disregard. I made the _Grackle_ my tool. I'm the reason the _Grackle_ continued after you! I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make for the fattest of prizes. I told them anything they needed to hear to keep them in pursuit."
+"Get me _off_ the _Grackle_? The _Grackle_ was a blessing! When the hatch opened, I felt I was given a second chance. A chance I would use to clear the world of your callous ego, Sylvia, your selfish disregard. I made the _Grackle_ my tool. I'm the reason the _Grackle_ continued after you! I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make for the fattest of prizes. I told them anything they needed to hear to keep them in pursuit."
 
 "Owen... I didn't know..." Her thumb fell off the transmitter. The radio remained dead for a few seconds.
 
-The radio dial re-lit. "...The worst thing isn't being left to die by you a second time. I made my peace with death when you killed me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down Sylvia. But now... now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually."
+The radio dial re-lit. "...The worst thing isn't being left to die by you a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down Sylvia. But now... now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually."
 
-The ship-to-ship radio went dark. It did not light again. Percy hung the mic on its nubbin. She dropped the butt of her cheroot to the deck and crushed it under her boot heel.
+The ship-to-ship radio went dark. It did not light again. Percy hung the mic up. She dropped the butt of her cheroot to the deck and crushed it under her boot heel.
 
 Cassandra kept the sonar tracking what was left of the _Grackle_. What had been one contact was now splitting into two distinct parts. Those parts resolved themselves over a matter of a few seconds, and then Cassandra could hear the two pieces falling away from her. "Captain Percy, the _Grackle_ is in two pieces. I'm losing the contact."
 
@@ -712,13 +712,30 @@ From the cargo hold he also hauled up an rusting platform made of welded deck gr
 
 Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the moisture was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
-Captain Percy remained below deck. She stopped the _Prospect_ and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
+Below deck, Captain Percy stopped the _Prospect_ and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
 
 Hemi cleaned the fish, leaving a sparkling trail of sticky scales across the deck of the _Prospect_, and threw the spine, tail, and various viscera back over the side. Big steaks of the meat went onto the grill and Hemi spread a rub of salt, lime juice, and red pepper flakes across it. The flesh browned and burned a little at the edges. Hemi took the smoking steaks off and dropped them into bowls of rice that Gregory brought up from the galley.
 
 The crew sat on the deck or with legs dangling from the platform, poking at their late breakfast with old bent forks and watching the rising and falling landscape of water surrounding them. Herschel waddled among the feet of those on the deck, pecking dropped bits of rice from the steel grating. 
 
-Drifting with the diesel engine shut down left the surface of the ocean nearly silent, and no one felt the need at all to tamper with that silence.
+When Percy finished her food, she climbed the side of the sail. On the bridge, she lit a cheroot and watched the horizon as she instinctively adjusted her weight to balance against the roll of her boat. Hemi soon joined her and they both looked out over the sunlit water. 
+
+Hemi eventually broke the silence. "So it was Owen all along?"
+
+"Who filled you in?"
+
+"Cassandra."
+
+"The little shit." She spat a fleck of tobacco that had caught at her lip. "Yeah. Fucking Owen. Not all along, of course, only after... you know, I left him for fucking dead."
+
+"Do you feel that was a mistake?"
+
+"Fuck no Hemi. I mean, I didn't tell him that when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants to believe with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision Hemi. I would make the same choice again. And even if I hadn't, he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I say it again: fuck Owen."
+
+"I do not believe it possible for souls to wander uneasily, except in the minds of the living. I simply wanted to be sure the events with Owen will not keep you awake nights."
+
+"Trust me Hemi, Owen is not fucking haunting me. The only thing haunting me is the same thing as always: where is our next job coming from?" She threw the remainder of her cheroot to the waves, where it gave a small hiss on impact.
+
 
 
 
