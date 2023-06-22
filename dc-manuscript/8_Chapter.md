@@ -712,7 +712,7 @@ From the cargo hold he also hauled up an rusting platform made of welded deck gr
 
 Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the moisture was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
-Below deck, Captain Percy stopped the _Prospect_ and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
+Below deck, Captain Percy stopped the _Prospect's_ motors and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
 
 Hemi cleaned the fish, leaving a sparkling trail of sticky scales across the deck of the _Prospect_, and threw the spine, tail, and various viscera back over the side. Big steaks of the meat went onto the grill and Hemi spread a rub of salt, lime juice, and red pepper flakes across it. The flesh browned and burned a little at the edges. Hemi took the smoking steaks off and dropped them into bowls of rice that Gregory brought up from the galley.
 
@@ -720,22 +720,25 @@ The crew sat on the deck or with legs dangling from the platform, poking at thei
 
 When Percy finished her food, she climbed the side of the sail. On the bridge, she lit a cheroot and watched the horizon as she instinctively adjusted her weight to balance against the roll of her boat. Hemi soon joined her and they both looked out over the sunlit water. 
 
-Hemi eventually broke the silence. "So it was Owen all along?"
+Hemi broke the silence. "So it was Owen all along?"
 
 "Who filled you in?"
 
 "Cassandra."
 
-"The little shit." She spat a fleck of tobacco that had caught at her lip. "Yeah. Fucking Owen. Not all along, of course, only after... you know, I left him for fucking dead."
+"The little shit." Percy spat a fleck of tobacco that had caught at her lip. "Yeah. Fucking Owen. Not all along, of course, only after... you know, I left him for fucking dead."
 
 "Do you feel that was a mistake?"
 
-"Fuck no Hemi. I mean, I didn't tell him that when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants to believe with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision Hemi. I would make the same choice again. And even if I hadn't, he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I say it again: fuck Owen."
+"Fuck no Hemi. I mean, I didn't tell Owen that when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants to believe with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision Hemi. I would make the same choice again. And even if I hadn't, he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I say it again: fuck Owen."
 
 "I do not believe it possible for souls to wander uneasily, except in the minds of the living. I simply wanted to be sure the events with Owen will not keep you awake nights."
 
-"Trust me Hemi, Owen is not fucking haunting me. The only thing haunting me is the same thing as always: where is our next job coming from?" She threw the remainder of her cheroot to the waves, where it gave a small hiss on impact.
+"Trust me Hemi, Owen is not fucking haunting me. The only thing haunting me is the same thing as always: where is our next job coming from?" The swell was coming up and the boat was rolling over further. "We need to power up the motors again Hemi, before we get swamped."
 
+He nodded and slipped down the hatch to the control room.
+
+Percy tracked the incoming waves, trying to get a feel for the pattern. She closed one eye and aimed for a particular crest before throwing the remainder of her cheroot at it. The smoking butt gave off a small hiss on impact. 
 
 
 
