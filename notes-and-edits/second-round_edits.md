@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-06-10 12:42
+Last modified: 2023-06-22 16:11
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -498,7 +498,9 @@ Edits to pick up in second full pass through the book
 
 
 ## Post "Director's Cut" things to remove
-* [ ] revise preface again (see notes about about changing it to more centered on motorcycles, do you want to do this?)
+* [ ] revise preface again 
+	* [ ] (see notes about about changing it to more centered on motorcycles, do you want to do this?)
+	* [ ] remove petcock section, other references to motorcycle (I think it will read cleaner)
 	* [ ] remove any specific references to the director's cut (title, any content added about it)
 * [ ] finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
 	* keep track of pages to be cut as you edit
