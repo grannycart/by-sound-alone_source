@@ -730,15 +730,17 @@ Hemi broke the silence. "So it was Owen all along?"
 
 "Do you feel that was a mistake?"
 
-"Fuck no Hemi. I mean, I didn't tell Owen that when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants to believe with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision Hemi. I would make the same choice again. And even if I hadn't, he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I say it again: fuck Owen."
+"Fuck no Hemi. I mean, that's not what I told  Owen when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision Hemi. I would make the same choice again. And even if I hadn't --- he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I'll say it again: fuck Owen. And fuck his ghost."
 
 "I do not believe it possible for souls to wander uneasily, except in the minds of the living. I simply wanted to be sure the events with Owen will not keep you awake nights."
 
-"Trust me Hemi, Owen is not fucking haunting me. The only thing haunting me is the same thing as always: where is our next job coming from?" The swell was coming up and the boat was rolling over further. "We need to power up the motors again Hemi, before we get swamped."
+"Trust me Hemi, Owen is not fucking haunting me. The only thing haunting me is the same thing as always: where is our next job coming from?" 
+
+The swell was coming up and the boat was rolling over further. "We need to power up the motors again Hemi, before we get swamped."
 
 He nodded and slipped down the hatch to the control room.
 
-Percy tracked the incoming waves, trying to get a feel for the pattern. She closed one eye and aimed for a particular crest before throwing the remainder of her cheroot at it. The smoking butt gave off a small hiss on impact. 
+Percy tracked the incoming waves, trying to get a feel for the pattern. She closed one eye and aimed for a particular crest before throwing the remainder of her cheroot at it. The smoking butt gave off a small hiss on impact and then disappeared silently below the surface. 
 
 
 
