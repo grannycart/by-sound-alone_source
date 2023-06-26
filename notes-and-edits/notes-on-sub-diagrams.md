@@ -1,5 +1,5 @@
 notes-on-sub-diagrams.md
-Last modified: 2023-06-10 11:15
+Last modified: 2023-06-25 20:50
 
 
 # notes on sub diagrams
@@ -19,32 +19,34 @@ Last modified: 2023-06-10 11:15
 	* [X] add 'bridge' label to top of the sail (since it's a technical term you use often in the book)
 	* [X] make sure label diagram for sonar compartment includes navigation and radar as well
 	* [ ] add speckle-noise to the diagrams to give the impression that they are old blueprints?
-	* [ ] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
-	* [ ] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
+	* [X] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
+	* [X] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
+	* [ ] Add main ballast valves? (might be tough if the main ballast isn't shown)
+	* [X] add dive plane outline?
 	* [X] change cargo 'bays' to cargo holds
 	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
-	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
+	* [-] add diesel exhaust pipe at back of sail (with little shutter open)
 		* Or does this get changed to exhaust at deck level?
+		* leave it off to avoid raising questions I don't have answers to
 	* [X] add/adjust scale
 	* [X] add stairs up from forward battery room to cargo bay
-	* [ ] create stairs and ladders to replace sketch lines
-		* [ ] make a line used for stairs that looks more like a steep ladder
+	* [X] create stairs and ladders to replace sketch lines
+		* [X] make a line used for stairs that looks more like a steep ladder
 	* [X] change 'cargo bay' label to 'cargo hold'
+	* [X] Add escape trunk
 	* [ ] label above engine rooms: piping and equipment run
 	* [ ] Add little X mark lines to trim tanks / fuel ballast, like US Subs does
-	* [ ] add dive plane outline?
-	* [ ] Add main ballast valves? (might be tough if the main ballast isn't shown)
-	* [ ] make fine adjustments to catwalk: should hang about 2 meters down/ 2/3s of a deck level
+	* [X] make fine adjustments to catwalk: should hang about 2 meters down/ 2/3s of a deck level
 	* [ ] Make the cargo hatch much more domed/standing up from the deck
 	* [X] Add cargo hatch in deck, catwalk to cargo hatch
 	* [X] add stair down from third deck to cargo bay floor
 	* [X] add trim tanks/express down tank under cargo deck
 	* [X] add smugglers hold (stern room?)
 	* [X] add note about main ballast being in saddle tanks on the side of the pressure hull
-	* [ ] Change sonar array to be top and bottom boxes near bow rather than whole-nose thingy
+	* [X] Change sonar array to be top and bottom boxes near bow rather than whole-nose thingy
 	* [X] make sure there's enough room in the engine rooms for an equipment room (air compressors, tanks other odds and ends)
-	* [ ] Add battery banks
+	* [X] Add battery banks
 * Gnat:
 	* [X] add title for diagram
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
