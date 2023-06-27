@@ -1,11 +1,12 @@
 notes-on-sub-diagrams.md
-Last modified: 2023-06-25 20:50
+Last modified: 2023-06-26 22:13
 
 
 # notes on sub diagrams
 
 ## diagram edits to make:
-* [ ] adjust sub layouts so engines are balanced around the middle of the boat. maybe cargo bays on both ends?
+* [ ] While the rest of the book is CC license, the diagrams should be public domain
+* [X] adjust sub layouts so engines are balanced around the middle of the boat. maybe cargo bays on both ends?
 	* in most subs, the rear ends are heavy with the engines, and they need to use leaded weight in the front --- at least until new equipment is installed
 	* this issue can also be addressed through trim and main ballast tanks 
 		* the cargo subs could/SHOULD be designed to run empty with flooded forward tanks to counter-balance the engines, and empty those tanks when there's a full cargo load.
@@ -21,7 +22,7 @@ Last modified: 2023-06-25 20:50
 	* [ ] add speckle-noise to the diagrams to give the impression that they are old blueprints?
 	* [X] add 'sleeping racks' to labels on diagram? (since it's a technical term you use often in the book)
 	* [X] add a dotted line to Prospect showing where ballast tanks are outside the pressure hull
-	* [ ] Add main ballast valves? (might be tough if the main ballast isn't shown)
+	* [X] Add main ballast valves? (might be tough if the main ballast isn't shown)
 	* [X] add dive plane outline?
 	* [X] change cargo 'bays' to cargo holds
 	* [X] add title for diagram
@@ -38,7 +39,7 @@ Last modified: 2023-06-25 20:50
 	* [ ] label above engine rooms: piping and equipment run
 	* [ ] Add little X mark lines to trim tanks / fuel ballast, like US Subs does
 	* [X] make fine adjustments to catwalk: should hang about 2 meters down/ 2/3s of a deck level
-	* [ ] Make the cargo hatch much more domed/standing up from the deck
+	* [X] Make the cargo hatch much more domed/standing up from the deck
 	* [X] Add cargo hatch in deck, catwalk to cargo hatch
 	* [X] add stair down from third deck to cargo bay floor
 	* [X] add trim tanks/express down tank under cargo deck
@@ -52,11 +53,11 @@ Last modified: 2023-06-25 20:50
 	* [ ] add some cargo boxes in cargo hold and smuggler's hold
 	* [X] add/adjust scale
 	* [X] add 'sail' label
-	* [ ] add diesel exhaust pipe at back of sail (with little shutter open)
-	* [ ] remove pigeon hatch (or leave it as a cutesy thing, but (now) unexplained in the book)
-	* [ ] add pigeon coop to Gnat?
-	* [ ] add dive plane outline?
-	* [ ] does the Gnat need a cargo hatch?
+	* [-] add diesel exhaust pipe at back of sail (with little shutter open)
+	* [X] remove pigeon hatch (or leave it as a cutesy thing, but (now) unexplained in the book)
+	* [X] add pigeon coop to Gnat?
+	* [X] add dive plane outline?
+	* [X] does the Gnat need a cargo hatch?
 	* [X] move the Gnat motor switch lever labels aft of the engine
 	* [X] make sure top hatch opens upward
 	* [X] add mating collar
