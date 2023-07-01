@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-06-30 21:57
+# Last modified: 2023-07-01 11:57
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -27,7 +27,7 @@ LATEX_CLASS = article
 # This corresponds to the --css switch in the pandoc command:
 CSS = css/clean-html.css
 # This line puts a version date into the compiled pandoc file using the -M metadata switch. The default setup puts in today's date:
-DATE = -M date="Version date - `date "+%B %e, %Y"`" 
+DATE = -M date="Director's Cut; Version date - `date "+%B %e, %Y"`" 
 
 all: book
 
@@ -64,7 +64,7 @@ $(BUILD)/html/$(BOOKNAME).html: $(TITLE) dc-manuscript/one_diagrams.md $(CHAPTER
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
-	pandoc $(TOC) -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V classoption:twocolumn -V classoption:landscape -V papersize=letter -o $@ $^
+	pandoc $(TOC) -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS)
 	mkdir -p $(BUILD)/latex
