@@ -5,7 +5,6 @@
 
 
 # Preface 
---------------------------------------------------------------------------------
 
 You can skip this preface. Go ahead, I don't mind at all. Actually, I encourage you to. I'd much prefer you dove directly into the story than have you slog through this first 1500 words or so for no other reason than a sense of duty or a need to complete things. 'Entertainment first' is the rule here!
 
@@ -40,5 +39,8 @@ I do not think this version is _better_. If I did, this would be the published v
 It's not _hugely_ longer than the final published version. Maybe 30k more words or so. The bonus is that you get to experience scenes that only early rough-draft readers have read before. I enjoyed writing them. I still enjoy reading them. So if you are reading this version, I thank you for rescuing these moments from the cutting-room floor.
 
 -- Mark Torrey 2023-06-10 12:41
+
+--------------------------------------------------------------------------------
+
 
 

@@ -1,3 +1,5 @@
+# Makefile
+# Last modified: 2023-06-30 21:57
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -10,9 +12,10 @@ TITLE = title.txt
 # Metadata is a part of the epub standard, even if it repeats stuff in the title file -- only used in epub:
 METADATA = metadata.xml
 # I believe separate chapter files are just separated by a space -- see maintainer version to check
-# one_diagrams.md is only added for epub, so it's in that section below, not here. Diagrams are added by hand to pdf for book printing -- see latex notes.
+# one_diagrams.md is only added for epub and html, so it's in those sections below, not here. Diagrams are added by hand to pdf for book printing -- see latex notes.
 CHAPTERS = dc-manuscript/two_preface.md dc-manuscript/1_Chapter.md dc-manuscript/2_Chapter.md dc-manuscript/3_Chapter.md dc-manuscript/4_Chapter.md dc-manuscript/5_Chapter.md dc-manuscript/6_Chapter.md dc-manuscript/7_Chapter.md dc-manuscript/8_Chapter.md ./LICENSE.txt
-TOC = --toc --toc-depth=1
+# Disabling Table Of Contents:
+#TOC = --toc --toc-depth=1
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
 COVER_IMAGE = cover/directors-cut-front-cover-layout.png
 # While it seems like it would make sense to use 'book' for LATEX_CLASS,
@@ -52,7 +55,7 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(TITLE) dc-manuscript/one_diagrams.md $(CHAPTER
 # 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
 	pandoc $(TOC) --css=css/epub.css --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
-$(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(CHAPTERS)
+$(BUILD)/html/$(BOOKNAME).html: $(TITLE) dc-manuscript/one_diagrams.md $(CHAPTERS)
 	mkdir -p $(BUILD)/html
 #	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
 #	The --self-contained tells pandoc to include the css in the html file, rather than just referencing it.
