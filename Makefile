@@ -14,7 +14,7 @@ METADATA = metadata.xml
 CHAPTERS = dc-manuscript/two_preface.md dc-manuscript/1_Chapter.md dc-manuscript/2_Chapter.md dc-manuscript/3_Chapter.md dc-manuscript/4_Chapter.md dc-manuscript/5_Chapter.md dc-manuscript/6_Chapter.md dc-manuscript/7_Chapter.md dc-manuscript/8_Chapter.md ./LICENSE.txt
 TOC = --toc --toc-depth=1
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
-COVER_IMAGE = cover/pre-release-draft-front-cover-layout.png
+COVER_IMAGE = cover/directors-cut-front-cover-layout.png
 # While it seems like it would make sense to use 'book' for LATEX_CLASS,
 # book sets up the file for book printing -- putting end-of-book pages on the reverse of the front-of-book pages.
 # (There's probably a latex option to change that, but that is the default for book.)

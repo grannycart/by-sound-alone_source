@@ -745,9 +745,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime Bold';white-space:pre;shape-inside:url(#rect6284-3-7);display:inline;fill:#393954;fill-opacity:1"><tspan
          x="39.658203"
          y="79.359837"
-         id="tspan5199"><tspan
+         id="tspan721"><tspan
            style="font-weight:600;-inkscape-font-specification:'Courier Prime Semi-Bold'"
-           id="tspan5197">(Director's Cut)</tspan></tspan></text>
+           id="tspan719">(Director's Cut)</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,231.43852,179.71547)"
@@ -755,9 +755,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';white-space:pre;shape-inside:url(#rect6284-3);display:inline"><tspan
          x="39.658203"
          y="88.036867"
-         id="tspan5203"><tspan
+         id="tspan725"><tspan
            style="font-weight:600;-inkscape-font-specification:'Courier Prime Semi-Bold';fill:#ffffff"
-           id="tspan5201">Mark Torrey</tspan></tspan></text>
+           id="tspan723">Mark Torrey</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,164.09889,-7.4556985)"
@@ -765,12 +765,12 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.6667px;line-height:1.25;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono Bold';letter-spacing:-1.53px;word-spacing:-5.26px;white-space:pre;shape-inside:url(#rect6284);display:inline;fill:#393954;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none"><tspan
          x="39.658203"
          y="113.91214"
-         id="tspan5209">B<tspan
+         id="tspan731">B<tspan
    dx="0.45000124 5.2599969 -5.2599978"
    style="letter-spacing:-1.98px"
-   id="tspan5205">y S</tspan><tspan
+   id="tspan727">y S</tspan><tspan
    dx="-0.44999576 0 0 0 5.2599821 -5.2600126"
-   id="tspan5207">ound Alone</tspan></tspan></text>
+   id="tspan729">ound Alone</tspan></tspan></text>
     <image
        width="34.229183"
        height="16.134863"
@@ -785,7 +785,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="rear cover"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-0.18462159,87.51088)"
@@ -793,92 +794,92 @@
        style="font-weight:bold;font-size:14.6667px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect6284-3-7-1);fill:#ffffff;fill-opacity:1"><tspan
          x="39.658203"
          y="74.984059"
-         id="tspan5213"><tspan
+         id="tspan735"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5211">This is a pre-release draft of a novel. It features </tspan></tspan><tspan
+           id="tspan733">This is a pre-release draft of a novel. It features </tspan></tspan><tspan
          x="39.658203"
          y="93.998059"
-         id="tspan5217"><tspan
+         id="tspan739"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5215">submarines, but it's not much like traditional </tspan></tspan><tspan
+           id="tspan737">submarines, but it's not much like traditional </tspan></tspan><tspan
          x="39.658203"
          y="113.01206"
-         id="tspan5221"><tspan
+         id="tspan743"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5219">submarine stories. It has more in common with 1970s </tspan></tspan><tspan
+           id="tspan741">submarine stories. It has more in common with 1970s </tspan></tspan><tspan
          x="39.658203"
          y="132.02606"
-         id="tspan5225"><tspan
+         id="tspan747"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5223">trucker movies 
+           id="tspan745">trucker movies 
 </tspan></tspan><tspan
          x="39.658203"
          y="151.04006"
-         id="tspan5229"><tspan
+         id="tspan751"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5227">— though with more women.
+           id="tspan749">— though with more women.
 </tspan></tspan><tspan
          x="39.658203"
          y="170.05407"
-         id="tspan5233"><tspan
+         id="tspan755"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5231">
+           id="tspan753">
 </tspan></tspan><tspan
          x="39.658203"
          y="189.06807"
-         id="tspan5237"><tspan
+         id="tspan759"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5235">This draft is complete, revised, and ready-to-read. </tspan></tspan><tspan
+           id="tspan757">This draft is complete, revised, and ready-to-read. </tspan></tspan><tspan
          x="39.658203"
          y="208.08208"
-         id="tspan5241"><tspan
+         id="tspan763"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5239">But expect small grammar and spelling errors, and some </tspan></tspan><tspan
+           id="tspan761">But expect small grammar and spelling errors, and some </tspan></tspan><tspan
          x="39.658203"
          y="227.09609"
-         id="tspan5245"><tspan
+         id="tspan767"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5243">parts that could use the touch of an editor.
+           id="tspan765">parts that could use the touch of an editor.
 </tspan></tspan><tspan
          x="39.658203"
          y="246.1101"
-         id="tspan5249"><tspan
+         id="tspan771"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5247">
+           id="tspan769">
 </tspan></tspan><tspan
          x="39.658203"
          y="265.1241"
-         id="tspan5253"><tspan
+         id="tspan775"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5251">For more information, or to get the most up-to-date </tspan></tspan><tspan
+           id="tspan773">For more information, or to get the most up-to-date </tspan></tspan><tspan
          x="39.658203"
          y="284.13811"
-         id="tspan5257"><tspan
+         id="tspan779"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5255">version, visit:
+           id="tspan777">version, visit:
 </tspan></tspan><tspan
          x="39.658203"
          y="303.15212"
-         id="tspan5261"><tspan
+         id="tspan783"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5259">grannycart.net/subworld-pages/
+           id="tspan781">grannycart.net/subworld-pages/
 </tspan></tspan><tspan
          x="39.658203"
          y="322.16613"
-         id="tspan5265"><tspan
+         id="tspan787"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5263">
+           id="tspan785">
 </tspan></tspan><tspan
          x="39.658203"
          y="341.18013"
-         id="tspan5269"><tspan
+         id="tspan791"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5267">Questions? Suggestions? Send 'em to: </tspan></tspan><tspan
+           id="tspan789">Questions? Suggestions? Send 'em to: </tspan></tspan><tspan
          x="39.658203"
          y="360.19414"
-         id="tspan5273"><tspan
+         id="tspan795"><tspan
            style="font-weight:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime'"
-           id="tspan5271">grannycart@protonmail.com</tspan></tspan></text>
+           id="tspan793">grannycart@protonmail.com</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -891,16 +892,16 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:1.15;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono Bold';letter-spacing:-1.53px;word-spacing:-5.26px;white-space:pre;shape-inside:url(#rect6284-5-4);display:inline;fill:#393954;fill-opacity:1;stroke-width:1.00157;stroke-dasharray:none"><tspan
          x="39.658203"
          y="93.170416"
-         id="tspan5279">B<tspan
+         id="tspan801">B<tspan
    dx="0.44999933 5.2599988 -5.2600036"
    style="letter-spacing:-1.98px"
-   id="tspan5275">y S</tspan><tspan
+   id="tspan797">y S</tspan><tspan
    dx="-0.45000148 0 0 0 5.2599974"
-   id="tspan5277">ound
+   id="tspan799">ound
 </tspan></tspan><tspan
          x="39.658203"
          y="136.10371"
-         id="tspan5281">Alone</tspan></text>
+         id="tspan803">Alone</tspan></text>
   </g>
   <text
      xml:space="preserve"
@@ -909,9 +910,9 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';white-space:pre;shape-inside:url(#rect6284-3-8);display:inline"><tspan
        x="39.658203"
        y="88.036867"
-       id="tspan5285"><tspan
+       id="tspan807"><tspan
          style="font-weight:600;-inkscape-font-specification:'Courier Prime Semi-Bold';fill:#ffffff"
-         id="tspan5283">Mark Torrey</tspan></tspan></text>
+         id="tspan805">Mark Torrey</tspan></tspan></text>
   <g
      inkscape:groupmode="layer"
      id="layer8"
