@@ -5,7 +5,7 @@
 
 ## How to read it:
 * Available to read on github pages here:
-	* [Subworld Pages](http://grannycart.net/subworld-pages/)
+	* [Subworld Pages](http://grannycart.net/by-sound-alone/)
 * Or, compile from this source code using pandoc.
 	* (Or just read the straight markdown, available in source.)
 
