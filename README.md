@@ -67,10 +67,11 @@
 
 ## License:
 * This Director's Cut version of this book is under a CC license:
-* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-	* CC BY-NC-SA 4.0
-	* See: [LICENSE](./LICENSE.txt)
-* Future versions may be under some other license.
-* Original Makefile is under an [MIT LICENSE](makefile-maintainer/MIT-LICENSE-original-maintainer.txt)
+	* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+		* CC BY-NC-SA 4.0
+		* See: [Creative Commons license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* The sub diagrams (and only the sub diagrams) are released into the Public Domain (CC0):
+	* See: [Creative Commone public domain license](https://creativecommons.org/publicdomain/zero/1.0/)
+* Original Makefile was under an [MIT LICENSE](https://opensource.org/license/mit/)
 
 
