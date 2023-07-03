@@ -380,19 +380,7 @@ The bartender squinted up the side of his face where his eye would have been con
 
 Percy nodded.
 
-"The tastes of most of the folks who come through here are into something a bit... harder. And also paler. You know what the inability to market an off-color whore tells me about this place? 
-
-"What?"
-
-"It tells me there's a bunch of racist motherfuckers in these waters that's what."
-
-"And here we are thinking we're a modern people."
-
-"A modern people! That's fuckin' right."
-
-"What else can you tell me about this promising young prospect?"
-
-"Well, here's the other thing: she's got just the saddest fuckin' face. And she's too shy. Even I can't bring meself to bein' comfortable-like pimping her out. A pimp has got to have a heart you know."
+"The tastes of most of the folks who come through here are into something a bit... harder. Here's the big thing though: she's got just the saddest fuckin' face. And she's too shy. Even I can't bring meself to bein' comfortable-like pimping her out. A pimp has got to have a heart you know."
 
 "So you're saying you'll let me hire her off you because she makes you too fucking sad?"
 
@@ -613,7 +601,7 @@ There was an incoherent grumbling from the men standing in the puddle.
 
 "Chips," Percy hesitated, "look, I need an engineer. And I need a welder. You're both of those things and I can't get either of them on this forgotten rock. I need you... at the very least for the next run. Maybe you could stay on until we hit a major port, and then you can find new work there..."
 
-"What the fuck makes you so arrogant to fuckin' think I would go back out with a stubborn fucking ass-reamer like you?" Her face was flushing. "Fucking fuck! You'll fuckin' get me killed with your fuckin' stupidity, and is if that wasn't fucking bad enough, you would tell the story that it was my fucking fault somehow. You fucking twat."
+"What the fuck makes you so arrogant to fuckin' think I would go back out with a stubborn fucking ass-reamer like you?" Her face was flushing. "Fucking fuck! You'll fuckin' get me killed with your fuckin' stupidity, and is if that wasn't fucking bad enough, you would tell the story that it was my fucking fault somehow."
 
 "Fuck Chips! Look at the work these meatheads are doing --- if we don't have you aboard, we're going to go down when it fails and there's nobody who can fix it! Now, I've got a new job coming in, it pays really fucking good. I can offer you a fucking _double_ engineer's share for this next run. I'll even pay you half right fucking now," Percy said, reaching for her satchel full of coins.
 

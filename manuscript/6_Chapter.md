@@ -59,7 +59,7 @@ Hemi looked up at Chips from the bridge. "I was not entirely sure you would show
 
 "What happened with Owen could not be helped Chips. I was there, Sylvia had to make a tough choice without a clearly correct course of action, and she did. I regret what happened to Owen. I really do. But this job is dangerous, he knew that."
 
-"Don't you fuckin' defend that fuckin' twat with your fuckin' burden-of-command bullshit Hemi. This isn't a fuckin' war boat, it's a commercial fuckin' cargo sub. She had plenty of fuckin' choices that could have ended with Owen alive. I'm all for moving cargo under the fuckin' attention of Authorities, but not at the fuckin' cost of people's lives!
+"Don't you fuckin' defend her with your fuckin' burden-of-command bullshit Hemi. This isn't a fuckin' war boat, it's a commercial fuckin' cargo sub. She had plenty of fuckin' choices that could have ended with Owen alive. I'm all for moving cargo under the fuckin' attention of Authorities, but not at the fuckin' cost of people's lives!
 
 "She could have turned this fuckin' boat over to them. It's not like they would fuckin' execute us. We'd just be fucked back to land for a while. Eventually we could go the fuck back out on some other fuckin' boat --- no fuckin' shortage of need for skilled submariners. There was no fuckin' reason for anyone to die!"
 

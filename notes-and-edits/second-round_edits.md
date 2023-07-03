@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-06-22 16:11
+Last modified: 2023-07-03 17:44
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -254,12 +254,10 @@ Edits to pick up in second full pass through the book
 		* Put this at the end of the book, just ahead of the license
 		* and if people have ideas that they want to add or change to the book I encourage them to run with it; as long as they follow the stipulations of the no commercial use license. 
 		* (pretty sure this note is in promotion file too)
-* [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
-	* Though remember you suggested donating to open-source software at the head of the license file.
-	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
-* [ ] fix transition to CC license in epub file 
-	* [ ] this is an old note --- check if it doesn't look right?
+* [X] fix transition to CC license in epub file 
+	* [X] this is an old note --- check if it doesn't look right?
 	* Maybe all you have to do is make the CC file .md formatted, and make the header a # level header
+	* added an html bit that triggers a page break
 
 
 ## Feedback from test readers
@@ -498,18 +496,18 @@ Edits to pick up in second full pass through the book
 
 
 ## Post "Director's Cut" things to remove
-* [ ] revise preface again 
+* [X] finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
+	* keep track of pages to be cut as you edit
+	* [X] change version references from 'director's cut' to 'final beta'
+* [.] revise preface again 
 	* [ ] (see notes about about changing it to more centered on motorcycles, do you want to do this?)
 	* [ ] remove petcock section, other references to motorcycle (I think it will read cleaner)
-	* [ ] remove any specific references to the director's cut (title, any content added about it)
-* [ ] finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
-	* keep track of pages to be cut as you edit
-* [ ] change version references from 'director's cut' to 'final beta'
-* [ ] Edit the racist comments of the bartender at the Depot:
+	* [X] remove any specific references to the director's cut (title, any content added about it)
+* [X] Edit the racist comments of the bartender at the Depot:
 	* either eliminate them entirely
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
-* [ ] remove 'twat' references? (already removed cunt)
-* [ ] remove references to Chip's braid?
+* [X] remove 'twat' references? (already removed cunt)
+* [X] remove references to Chip's braid?
 * [.] Potential scenes to remove:
 	* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 		* Is C right? Should I cut the whole thing before the depot and start it there?
@@ -534,7 +532,9 @@ Edits to pick up in second full pass through the book
 * [ ] Combine chapters 7 and 8 (since 7 is too short after removing the bike race).
 	* [ ] Make last chapter name (7) The Garbage Gyre
 	* [ ] Make Epilogue its own file?
-
+* [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
+	* Though remember you suggested donating to open-source software at the head of the license file.
+	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 
 
 

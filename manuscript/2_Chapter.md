@@ -501,7 +501,7 @@ Hemi loaded up another bowl of rice from the galley and led Shakes to the crew q
 
 "Chips," Hemi addressed the curtain, "I brought you some food."
 
-"Ah fuck you and your gestures Hem'," came a muffled voice from behind the curtain. "Go spoon it into that twat you work for until she fuckin' chokes on it."
+"Ah fuck you and your gestures Hem'," came a muffled voice from behind the curtain. "Go spoon it into that asshole you work for until she fuckin' chokes on it."
 
 "Chips, you are certainly tough, no one would deny that. And I think that toughness comes partly from a genuine mean streak in you, and partly from the fact that you believe you know how to do things right. The problem is that Captain Percy has both of those qualities too, so just like you she is both sometimes mean and also not going to be the one to admit when she did something wrong."
 
