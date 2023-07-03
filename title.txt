@@ -2,9 +2,9 @@
 title: By Sound Alone
 author: Mark Torrey
 subtitle: A Novel With Some Submarines. Also a Pigeon. For more information visit --- grannycart.net/by-sound-alone/ 
-rights: Director's Cut. © 2023 Mark Torrey, CC BY-NC-SA --- see license attached at end of file.
+rights: © 2023 Mark Torrey, CC BY-NC-SA --- see license attached at end of file.
 description: A cargo submarine chase across the oceans of an alternative-history world.
-cover-image: ./cover/directors-cut-front-cover-layout.png
+cover-image: ./cover/final-beta-front-cover-layout.png
 ...
 
 

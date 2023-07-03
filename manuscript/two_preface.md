@@ -28,18 +28,6 @@ The story told in this book is hung on technologies that anyone could understand
 
 Today's technology has crossed a line into the magical, and there is no way to put that technology back in the bottle even if we wanted to. But it is possible in the context of fiction to imagine a world where the electro-mechanical remained the dominant root of our everyday technology for far longer than it did. It is possible to imagine that, but for the geopolitical and economic winds blowing in a slightly different direction, the commerce and industry of our world could still be carried out by independent operators driving grease-coated machines steered by mechanical linkages, rather than corporations watching global satellite tracking on digital displays. In other words, it is my hope that in this story you might find similar pleasures to those of riding an old motorcycle.
 
-
---------------------------------------------------------------------------------
-
-## The "Director's Cut"
-The version of _By Sound Alone_ that you are reading is the "Director's Cut." So labeled because it has all the elements that a director's cut of a movie would have: it's longer, it has got whole scenes of action that were cut from the final, it has got some extra dialog, and it has got some potentially offensive things.
-
-I do not think this version is _better_. If I did, this would be the published version. The stuff that was cut is often good, but slowed the story down unnecessarily or stepped just a bit too far from the core of the action. I particularly regret cutting the underwater bicycle race, so take a moment to appreciate the surreal qualities of that scene when it arrives.
-
-It's not _hugely_ longer than the final published version. Maybe 30k more words or so. The bonus is that you get to experience scenes that only early rough-draft readers have read before. I enjoyed writing them. I still enjoy reading them. So if you are reading this version, I thank you for rescuing these moments from the cutting-room floor.
-
--- Mark Torrey 2023-06-10 12:41
-
 --------------------------------------------------------------------------------
 
 
