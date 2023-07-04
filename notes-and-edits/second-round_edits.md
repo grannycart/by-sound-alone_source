@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-07-03 17:44
+Last modified: 2023-07-04 11:21
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -244,10 +244,10 @@ Edits to pick up in second full pass through the book
 * [o] preface:
 	* [X] move to the end, make it an afterword -- or just see comment in preface file about telling people right off they don't have to read it.
 	* [X] remove preface to the preface
-	* [ ] [//]: # (Add a graf about how you are sure you need an editor, but an editor is not a luxury I have --- and honestly, given a lot of books I read these days, it seems like maybe good editors are becoming few and far between. Until it gets an editor, it will remain in beta version. This note could probably go at the end, to replace the too many fucks given line.)
+	* [-] [//]: # (Add a graf about how you are sure you need an editor, but an editor is not a luxury I have --- and honestly, given a lot of books I read these days, it seems like maybe good editors are becoming few and far between. Until it gets an editor, it will remain in beta version. This note could probably go at the end, to replace the too many fucks given line.)
 	* [X] consider adding bit referencing mice loving running on wheel research (since that was in the removed bicycle race scene) -- how mechanical moving things might be a deeply mammalian thing
-	* [ ] [//]: # (Maybe the preface should be less/not about this first part of the 20th Century generation thing and more about motorcycles. You could talk about how motorcycles are on the verge of going almost entirely electric --- and I understand why given the performance metrics, quiet, and most of all simplicity. But what if the pure mechanical pleasure of riding a motorcycle gets lost? I always want to ask riders of electric motorcycles: don't you miss shifting? Don't you miss the oneness with the bike you have when you learn to use a clutch? Mechanical pleasure might be something far more deeply ingrained in mammals than we suspect --- mice who choose to run on the wheel in the woods for instance. The bicycle and the old submarines totally tapped into this magic. This book is an attempt to capture the pure mechanical pleasures like that in novel form, and use it to tell a good story.]
-	* [ ] [//]: # (Maybe it's worth pointing out that the technology that drove old submarines is essentially the same that drives out newest hybrid cars. It's not the technology itself that is disappointing --- it will be hard to regret a shift away from fossil-fuel burning machines --- but the disassociation from mechanical things, and the rise of intelligent machines that don't require a human operator at the mechanical level.)
+	* [-] [//]: # (Maybe the preface should be less/not about this first part of the 20th Century generation thing and more about motorcycles. You could talk about how motorcycles are on the verge of going almost entirely electric --- and I understand why given the performance metrics, quiet, and most of all simplicity. But what if the pure mechanical pleasure of riding a motorcycle gets lost? I always want to ask riders of electric motorcycles: don't you miss shifting? Don't you miss the oneness with the bike you have when you learn to use a clutch? Mechanical pleasure might be something far more deeply ingrained in mammals than we suspect --- mice who choose to run on the wheel in the woods for instance. The bicycle and the old submarines totally tapped into this magic. This book is an attempt to capture the pure mechanical pleasures like that in novel form, and use it to tell a good story.]
+		* [-] [//]: # (Maybe it's worth pointing out that the technology that drove old submarines is essentially the same that drives out newest hybrid cars. It's not the technology itself that is disappointing --- it will be hard to regret a shift away from fossil-fuel burning machines --- but the disassociation from mechanical things, and the rise of intelligent machines that don't require a human operator at the mechanical level.)
 	* [X] [//]: # (Or maybe you should use this space to tie it to how exciting staring at dials can be --- maybe even reference China Syndrome. Actually, that seems pretty strong --- use that as an argument for why mechanical-based stories are compelling?)
 * [X] postscript / license header:
 	* add something about how it's under on open license and will remain so (possibly say something about wanting to give back to open source community but I'm not much of a programmer. and this book was written entirely with open source tools.)
@@ -499,9 +499,9 @@ Edits to pick up in second full pass through the book
 * [X] finish a version with everything in -- a directors cut -- after committing that, cut out all the bigger scenes being cut
 	* keep track of pages to be cut as you edit
 	* [X] change version references from 'director's cut' to 'final beta'
-* [.] revise preface again 
-	* [ ] (see notes about about changing it to more centered on motorcycles, do you want to do this?)
-	* [ ] remove petcock section, other references to motorcycle (I think it will read cleaner)
+* [X] revise preface again 
+	* [-] (see notes about about changing it to more centered on motorcycles, do you want to do this?)
+	* [X] remove petcock section, other references to motorcycle (I think it will read cleaner)
 	* [X] remove any specific references to the director's cut (title, any content added about it)
 * [X] Edit the racist comments of the bartender at the Depot:
 	* either eliminate them entirely
