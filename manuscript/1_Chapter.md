@@ -1,4 +1,8 @@
 
+\newpage
+
+<div style="page-break-before:always;"></div>  
+  
 [//]: # (1_Chapter.md)
 
 

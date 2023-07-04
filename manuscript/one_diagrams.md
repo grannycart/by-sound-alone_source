@@ -1,4 +1,10 @@
 
+
+\newpage
+
+<div style="page-break-before:always;"></div>  
+  
+
 [//]: # (one_title-and-diagrams.md)
 
 [//]: # (this file is set to only run for .epub and .html pandoc compilations)
