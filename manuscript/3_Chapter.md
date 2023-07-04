@@ -19,7 +19,7 @@
 [//]: # (### Cassandra arrives at the Prospect)
 
 
-# 3. Depot
+## 3. Depot
 
 
 [//]: # (### They approach the depot island, are inspected)

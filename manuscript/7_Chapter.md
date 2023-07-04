@@ -13,7 +13,7 @@
 [//]: # (### The Prospect hangs out silently on the surface while Grackle ram searches)
 
 
-# 7. Garbage Gyre
+## 7. Garbage Gyre
 
 
 [//]: # (### Rendezvous with Shakes)

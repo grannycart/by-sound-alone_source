@@ -22,7 +22,7 @@
 [//]: # (### Herschel comes aboard the _Prospect_ for the first time.)
 
 
-# 4. Herschel
+## 4. Herschel
 
 
 [//]: # (### Next morning; loading compressed air)

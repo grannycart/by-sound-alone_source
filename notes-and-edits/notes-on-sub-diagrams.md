@@ -1,11 +1,11 @@
 notes-on-sub-diagrams.md
-Last modified: 2023-06-26 22:13
+Last modified: 2023-07-04 10:47
 
 
 # notes on sub diagrams
 
 ## diagram edits to make:
-* [ ] While the rest of the book is CC license, the diagrams should be public domain
+* [X] While the rest of the book is CC license, the diagrams should be public domain
 * [X] adjust sub layouts so engines are balanced around the middle of the boat. maybe cargo bays on both ends?
 	* in most subs, the rear ends are heavy with the engines, and they need to use leaded weight in the front --- at least until new equipment is installed
 	* this issue can also be addressed through trim and main ballast tanks 

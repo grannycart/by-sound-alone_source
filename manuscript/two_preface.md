@@ -4,7 +4,7 @@
 [//]: # (This is _two_ underscore preface because it should come after the diagrams.)
 
 
-# Preface 
+## Preface 
 
 You can skip this preface. Go ahead, I don't mind at all. Actually, I encourage you to. I'd much prefer you dove directly into the story than have you slog through this first 1500 words or so for no other reason than a sense of duty or a need to complete things. 'Entertainment first' is the rule here!
 
