@@ -10,7 +10,7 @@
 
 ## Preface 
 
-You can skip this preface. Go ahead, I don't mind at all. Actually, I encourage you to. I'd much prefer you dove directly into the story than have you slog through this first 1500 words or so for no other reason than a sense of duty or a need to complete things. 'Entertainment first' is the rule here!
+You can skip this preface. Go ahead, I don't mind at all. Actually, I encourage you to. I'd much prefer you dove directly into the story than have you slog through this first thousand words or so for no other reason than a sense of duty or a need to complete things. 'Entertainment first' is the rule here!
 
 But if you are among those inclined to wring the most you possibly can from a book --- or if you've already _read_ this book and are back for a second pass to try to to wring a bit more out of it --- well then for you I've got this preface in here to maybe shed some light on a few of the more obscure themes of the book. If you do finish the preface, you may stand to gain an ever-so-slightly fuller experience when you hit the book itself. And hey, that's a kind of entertainment too.
 

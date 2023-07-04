@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-07-04 11:21
+Last modified: 2023-07-04 12:04
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -508,10 +508,10 @@ Edits to pick up in second full pass through the book
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * [X] remove 'twat' references? (already removed cunt)
 * [X] remove references to Chip's braid?
-* [.] Potential scenes to remove:
-	* [ ] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
+* [o] Potential scenes to remove:
+	* [X] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 		* Is C right? Should I cut the whole thing before the depot and start it there?
-		* [ ] grep 'circles' and remove references to the early circle search pattern of the grackle after that's removed (there's at least one of these before the depot --- if it didn't get cut with the rest of the search scene
+		* [X] grep 'circles' and remove references to the early circle search pattern of the grackle after that's removed (there's at least one of these before the depot --- if it didn't get cut with the rest of the search scene
 	* [ ] the spotted-from above section
 		* Chap 6, around line 682
 		* this goes with the long chase off the continental shelf to the very-deep limit-pushing dive. This whole section could probably be sliced out with little lost.
