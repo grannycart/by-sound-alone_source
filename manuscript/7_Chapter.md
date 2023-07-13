@@ -18,13 +18,11 @@
 
 [//]: # (### Rendezvous with Shakes)
 
-With darkness, Hemi was able to take a sighting from a star, and he calculated they had made about 20 nautical miles from the point where they began their dive below 300 meters. Percy felt that was enough of a cushion that they could start the diesels --- on the surface at this range they were more likely to be detected on radar than sonar anyway. The diesels were soon roaring below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
+With darkness, Hemi was able to take a sighting from a star, and he calculated they had made about 20 nautical miles from the point where they had last heard the faintest echo of the depth charges. Percy felt that was enough of a cushion that they could start the diesels, and the engines were soon roaring below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
 
-They ran through the night on too much coffee and not enough sleep. But they saw no other vessels and there was no sign of the _Grackle_.
+They ran through the night on too much coffee and not enough sleep. But they saw no other vessels, and there was no sign of the _Grackle_.
 
-Even as the sun rose before them Percy kept the boat on the surface, wanting to make up some of the time they had lost the previous day. She was hoping to make the rendezvous with Shakes more or less on time. 
-
-The sun was well up above the horizon, and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them with his usual high precision to the correct spot.
+Even as the sun rose before them, Percy kept the boat on the surface hoping to make the rendezvous with Shakes more or less on time. The sun was well up above the horizon, and they had clear visibility for something like ten miles from the lookout ring, before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them with his usual high precision to the correct spot.
 
 A few hours later, Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters of depth and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the Shakes' approach. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
 

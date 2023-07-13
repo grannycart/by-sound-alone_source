@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-07-04 12:04
+Last modified: 2023-07-12 20:32
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -508,16 +508,16 @@ Edits to pick up in second full pass through the book
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * [X] remove 'twat' references? (already removed cunt)
 * [X] remove references to Chip's braid?
-* [o] Potential scenes to remove:
+* [O] Potential scenes to remove:
 	* [X] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 		* Is C right? Should I cut the whole thing before the depot and start it there?
 		* [X] grep 'circles' and remove references to the early circle search pattern of the grackle after that's removed (there's at least one of these before the depot --- if it didn't get cut with the rest of the search scene
-	* [ ] the spotted-from above section
+	* [X] the spotted-from above section
 		* Chap 6, around line 682
 		* this goes with the long chase off the continental shelf to the very-deep limit-pushing dive. This whole section could probably be sliced out with little lost.
 		* this section includes the post stilt city damaged floating in the water column section at an angle section
 		* This section runs right to the end of the chapter -- could probably cut 10k words or so here.
-		* maybe you can just end this section with the Grackle being depth-charged. The idea being that they _could_ be finished (though obviously this is a hope of the characters, not something the reader would believe -- an interesting disctinction of things in the macguffin territory)
+		* maybe you can just end this section with the Grackle being depth-charged. The idea being that they _could_ be finished (though obviously this is a hope of the characters, not something the reader would believe -- an interesting distinction of things in the macguffin territory of writing theory)
 			* Depth-charging happed around chap 6, line 674 
 			* would need some editing to make the Prospect think the Grackle might be sunk
 	* [ ] the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
