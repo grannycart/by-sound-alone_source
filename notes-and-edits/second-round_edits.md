@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-07-12 20:32
+Last modified: 2023-07-12 21:25
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -508,7 +508,7 @@ Edits to pick up in second full pass through the book
 	* or maybe figure out a way to make them not explicitly about the ascendency of white people? Maybe white people are simply the preferred class for whores in this world because they are unusual. Most people are some spectrum of brown.
 * [X] remove 'twat' references? (already removed cunt)
 * [X] remove references to Chip's braid?
-* [O] Potential scenes to remove:
+* [X] Potential scenes to remove:
 	* [X] consider going back and cutting the search pattern sequence before the depot -- might be slowing down the start of the book too much.
 		* Is C right? Should I cut the whole thing before the depot and start it there?
 		* [X] grep 'circles' and remove references to the early circle search pattern of the grackle after that's removed (there's at least one of these before the depot --- if it didn't get cut with the rest of the search scene
@@ -520,13 +520,13 @@ Edits to pick up in second full pass through the book
 		* maybe you can just end this section with the Grackle being depth-charged. The idea being that they _could_ be finished (though obviously this is a hope of the characters, not something the reader would believe -- an interesting distinction of things in the macguffin territory of writing theory)
 			* Depth-charging happed around chap 6, line 674 
 			* would need some editing to make the Prospect think the Grackle might be sunk
-	* [ ] the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
-		* [ ] Bicycles mentioned in first chapter
+	* [X] the bicycle race (you'll have to grep out 'bicycle' and 'bike' references)
+		* [X] Bicycles mentioned in first chapter
 			* chap 1, line 174
-		* [ ] There is a reference to the bicycles chained up in the hold at word 4427
-		* [ ] Another reference: Chap 5, like 322 and 332
-		* [ ] the bike race is in the beginning of chapter 7. clearly demarcated by notes, it could be easily sliced out
-			* [ ] though I think this has to go along with combining chapter 7 and 8. (maybe 8 gets a coda instead, and there's only 7 chapters + coda/epilogue)
+		* [X] There is a reference to the bicycles chained up in the hold at word 4428
+		* [X] Another reference: Chap 5, like 322 and 332
+		* [X] the bike race is in the beginning of chapter 7. clearly demarcated by notes, it could be easily sliced out
+			* [X] though I think this has to go along with combining chapter 7 and 8. (maybe 8 gets a coda instead, and there's only 7 chapters + coda/epilogue)
 	* [-] the cookout
 		* No, keep this.
 * [ ] Combine chapters 7 and 8 (since 7 is too short after removing the bike race).

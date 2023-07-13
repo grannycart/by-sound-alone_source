@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-07-02 21:10
+# Last modified: 2023-07-12 21:26
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -13,7 +13,7 @@ TITLE = title.txt
 METADATA = metadata.xml
 # I believe separate chapter files are just separated by a space -- see maintainer version to check
 # one_diagrams.md is only added for epub and html, so it's in those sections below, not here. Diagrams are added by hand to pdf for book printing -- see latex notes.
-CHAPTERS = manuscript/two_preface.md manuscript/1_Chapter.md manuscript/2_Chapter.md manuscript/3_Chapter.md manuscript/4_Chapter.md manuscript/5_Chapter.md manuscript/6_Chapter.md manuscript/7_Chapter.md manuscript/8_Chapter.md ./LICENSE.txt
+CHAPTERS = manuscript/two_preface.md manuscript/1_Chapter.md manuscript/2_Chapter.md manuscript/3_Chapter.md manuscript/4_Chapter.md manuscript/5_Chapter.md manuscript/6_Chapter.md manuscript/7_Chapter.md ./LICENSE.txt
 # Disabling Table Of Contents:
 #TOC = --toc --toc-depth=1
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub

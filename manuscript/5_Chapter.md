@@ -309,7 +309,7 @@ A few minutes later the regular lighting came back on, and the harsh shadows of 
 
 Percy picked up the PA mic. "Nice work Chips." She waited a second but there was no reply over the ship PA. "Bastian, I'm going to the cargo hold to check on the load."
 
-The ship was a mess. Percy made her way stepping over all the detritus of a working sub scattered over every deck: tools, bedding, cans of food, cleaning supplies, scattered stacks of papers, half-unrolled charts, pencils, rags, parts, and steel-encased equipment. For all the mess in the main decks though, the cargo hold was not too bad. Hemi's careful re-arrangement of the cargo crates earlier had included strapping the crates hard up against the wall, and the old cotton-web straps had mostly held. Only a couple of crates had broken loose. Owen and Gregory were using the chain hoist to move the loose crate from the center area of the cargo hold. Chips had joined them, and was stowing equipment that had been shaken loose. She had one of the broken bicycles that had escaped from the rusty bicycle pile in her hands when she saw Percy.
+The ship was a mess. Percy made her way stepping over all the detritus of a working sub scattered over every deck: tools, bedding, cans of food, cleaning supplies, scattered stacks of papers, half-unrolled charts, pencils, rags, parts, and steel-encased equipment. For all the mess in the main decks though, the cargo hold was not too bad. Hemi's careful re-arrangement of the cargo crates earlier had included strapping the crates hard up against the wall, and the old cotton-web straps had mostly held. Only a couple of crates had broken loose. Owen and Gregory were using the chain hoist to move the loose crate from the center area of the cargo hold. Chips had joined them, and was stowing equipment that had been shaken loose. She had a rusty piece of grating gripped in her gloves when she saw Percy.
 
 Chips' face immediately went red. "That's the second fuckin' time Percy. Two fuckin' times you almost fuckin' killed me now. You fuckin' surface the boat in a fuckin' storm? Fuckin' damn you to a cold fuckin' watery hell you fuckin' shit-faced asshole."
 
@@ -319,7 +319,7 @@ Chips' face immediately went red. "That's the second fuckin' time Percy. Two fuc
 
 Percy leveled her emotions. "I don't fucking need this right now. I have bigger problems than you." Percy turned and walked away.
 
-Chips threw the rusted bicycle frame into the corner with the other bicycles. The hollow tubes of thin steel crashed and locked together.
+Chips threw the rusted grating into the corner where it rang against the steel of the hull.
 
 [//]: # (----- invisible character break)
  
