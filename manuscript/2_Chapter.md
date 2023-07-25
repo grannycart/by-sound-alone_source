@@ -862,7 +862,7 @@ Hemi continued, "I am going to set up some heavy jumpers between the _Gnat's_ ba
 
 "This project is all you, Hem'," said Captain Percy.
 
-"From this moment," Hemi went on, "we need to shut down absolutely everything we are not using. We really should have done this already. We will need every bit of power we can suck out of the _Gnat_ to get across the Authority line into those vaguely friendlier waters. I am even shutting down the lighting, so you will all need to carry a light around with you. The good news is, if we get the diesels going, you can take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
+"From this moment," Hemi went on, "we need to shut down absolutely everything we are not using. We really should have done this already. We will need every bit of power we can suck out of the _Gnat_ to get across the Authority line into those vaguely friendlier waters. I am even shutting down the lighting, so you will all need to carry a light with you. The good news is, if we get the diesels going, you can take some rotations in the rack, since there will be no power to do anything else but sleep anyway.
 
 "Chips, take Owen and Gregory to work on fuel lines. Bastian, we will go dig up those jumpers. Try to stay out of each other's way everyone," Hemi finished up. 
 
@@ -877,15 +877,15 @@ Captain Percy looked down at the mess of patches and foul blackened welds that l
 
 [//]: # (### Rigged up and running)
 
-In a matter of a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power wired into the _Prospect's_ battery hold so that the _Gnat's_ batteries were now no more than an extra battery bank for the _Prospect_ --- conveniently with a nearly-full charge; and the thick fuel lines running up to the engine room, where the fuel pumps were engaged and tuned to gently suck the fuel oil up from the _Gnat's_ fuel ballast tanks.
+In a couple of hours they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power was wired into the _Prospect's_ battery hold so that the _Gnat's_ batteries were now no more than an extra battery bank for the _Prospect_ --- conveniently with a nearly-full charge; and the thick fuel lines running up to the engine room, where the fuel pumps were engaged and tuned to gently suck the fuel oil up from the _Gnat's_ fuel ballast tanks.
 
-To conserve fuel they started only one of the _Prospect's_ two diesel engines. And likewise started a single electric motor, driving only one of the _Prospect's_ two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. 
+To conserve fuel they started only one of the _Prospect's_ two diesel engines. And likewise started a single electric motor, driving only one of the _Prospect's_ two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance compared with the task of compensating for the drag of the _Gnat_. Normally they would also be charging the battery banks up while running on diesel, but they needed to put the all the fuel they had into forward motion. 
 
 The whole setup was a filthy inelegant mess, but they were making headway.
 
-Captain Percy insisted everyone who was not actively doing something should be in the rack. Chips, Shakes, and Hemi did not argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. They shut down the sonar since with the diesel running they would not be able to hear the approach of any kind of threat until it was too close to do anything about it anyway --- especially considering they did not have the ability to dive or perform any other evasive maneuver.
+Captain Percy insisted everyone who was not actively doing something should be in the rack. Chips, Shakes, and Hemi did not argue when they were assigned first shift in bed. She had Bastian and Gregory, who were more experienced with the controls of the boat, at the helm seats. They shut down the sonar since with the diesel running they would not be able to hear the approach of any kind of threat until it was too close to do anything about it anyway.
 
-But as a safety measure, Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface-enforcement ships for lack of paying attention. So Owen sat in the dark with his eye on the glowing radar screen, his mind turned to mush by watching it circle around endlessly, reflecting back nothing.
+But as a safety measure, Percy put Owen on radar. It would be just stupid to run into a fleet of Authority surface-enforcement ships for lack of paying attention --- especially considering they did not have the ability to dive or perform any other evasive maneuver. So Owen sat in the dark with his eye on the glowing radar screen, his mind turning to mush as he watched it circle around endlessly, reflecting back nothing.
 
 Percy made everyone in the control room take a pep pill and drink a cup of coffee, which she fixed for them in the dark galley by the light of a penlight.
 
@@ -901,7 +901,7 @@ After six hours listening to the uninterrupted engine-drone in the darkness, Per
 
 "I won't insist otherwise. Have a cup of coffee, we'll put you on throttle-rudder. With some luck, we can be at the depot in a few more hours, and maybe still with a few whiffs of fuel left to pump from the _Gnat_. We're gonna owe you something large for this _Captain_ Shakes." 
 
-"Ya know, I'm a friendly fella. And normally I'd say I'm just happy to help, but fuck that," said Shakes, "y'all sucking the life out of my little boat. A little financial help when we get t' the depot would be genuinely fucking appreciated."
+"Ya know, I'm a friendly fella. And normally I'd say I'm just happy to help, but fuck that," said Shakes, "with y'all sucking the life out of my little boat. A little financial help when we get t' the depot would be genuinely fucking appreciated."
 
 "It's going to be something of a layout for us to get the _Prospect_ repaired, refueled, and fitted up for our next cargo run. We'll do what we can for the _Gnat_, but don't expect a king's ransom or anything. It ain't like you rescued some fuckin' Authority oligarch yacht out there."
 
@@ -910,11 +910,11 @@ After six hours listening to the uninterrupted engine-drone in the darkness, Per
 [//]: # (----- invisible character break)
  
 
-When Percy felt more or less sure they had finally passed over where the Authority Control line might vaguely be, she climbed up to the bridge of the sail. Up in the light breeze she scanned around the horizon with a pair of binoculars. She saw some aircraft off in the distance, but they were not coming towards the _Prospect_. She felt like they must surely be in the new Authority's waters. But there was no way to tell with any certainty.
+When Percy felt more or less sure they had finally passed over where the Authority Control line might vaguely be, she climbed up to the bridge of the sail. Up in the light breeze she scanned around the horizon with a pair of binoculars. She saw some aircraft off in the distance, but they were not coming towards the _Prospect_. She felt like the _Prospect_ must surely be in new Authority's waters now. But there was no way to tell with any certainty.
 
-They cruised easily with the sail up and the diesel running for the next few hours. Hemi repeatedly made the trek down through the _Prospect_ and into the _Gnat_ to check the remaining fuel oil. Each time he diligently pulled the dipstick and held it up to his flashlight by an oily rag to note the fuel level remaining. 
+They cruised easily on the surface with the diesel running for the next few hours. Hemi repeatedly made the trek down through the _Prospect_ and into the _Gnat_ to check the remaining fuel oil. Each time he diligently pulled the dipstick and held it up to his flashlight by an oily rag to note the fuel level remaining. 
 
-On one of these trips through the boat he found Chips asleep in her rack and woke her up. "Chips, I need you to tune that engine to absolutely maximize efficient fuel consumption," he told her. She groggily got on her feet and marked the passage of the next several hours by keeping up a steady beat of oaths from deep in the ship, while she carefully and continually trimmed the diesel engine's fuel intake.
+On one of these trips through the boat he found Chips asleep in her rack and woke her up. "Chips, I need you to tune that engine to absolutely maximize efficient fuel consumption," he told her. She groggily got on her feet and marked the passage of the next several hours by keeping up a steady beat of oaths from deep in the ship while she carefully and continually trimmed the diesel engine's fuel intake.
 
 No matter how parsimonious they were with the power usage and the fuel consumption though, the _Prospect_ was so much bigger that it was eating through the remaining fuel oil in the _Gnat_ at an insatiable rate. Back in the control room of the _Prospect_, Hemi calculated how quickly they were burning fuel oil by hand, and measured it against how far they had to go. He could not promise Percy that they would not be rowing the _Prospect_ the last few miles.
 
@@ -923,7 +923,7 @@ No matter how parsimonious they were with the power usage and the fuel consumpti
 
 [//]: # (### They talk about why the sub with the ram is pursuing them)
 
-Hemi, Shakes, and Percy were exhaustedly staring at the wall of gauges in front of them. Most of the gauges remained completely static as they were not executing any changes to speed, direction, or depth, and the fuel gauge simply read empty, since it could not reflect the fuel they were sucking up from the _Gnat_. Other than Hemi's occasional forays down to the _Gnat_ to check the hard numbers, they were simply going on hope that they had enough fuel to make it to the depot and not get left stranded once again over an deserted --- and very deep --- part of the ocean.
+Hemi, Shakes, and Percy were exhaustedly staring at the wall of gauges in front of them. Most of the gauges remained completely static as they were not executing any changes to speed, direction, or depth, and the fuel gauge simply read empty, since it could not reflect the fuel they were sucking up from the _Gnat_. Other than Hemi's occasional forays down to the _Gnat_ to check the hard numbers, they were simply going on hope that they had enough fuel to make it to the depot and not get left stranded once again over a deserted --- and very deep --- part of the ocean.
 
 Hemi finally broke the bleary, hazy silence. "Something bothers me Sylvia."
 
@@ -951,6 +951,6 @@ Hemi nodded. "Then my primary question is: why did they ram _us_? I have no reco
 
 "Indeed," said Hemi, "though sometimes the pragmatic course of action is to leave the questions aside, and move in a different direction."
 
-The silence settled back in on them. Captain Percy pulled one of the few remaining cigarillos from the pack stashed against the wall and lit it. She puffed away at it steadily until she had filled up the small space of the control room with smoke. Hemi slid back down to the navigation chart with his flashlight, and a few minutes later called up to Percy. "Sylvia, by my calculations you should be able to see the depot island from the bridge now."
+The silence settled back in on them. Captain Percy pulled one of the few remaining cigarillos from the pack stashed against the wall and lit it. She puffed away steadily until she had filled up the small space of the control room with smoke. Hemi slid back down to the navigation chart with his flashlight, and a few minutes later called up to Percy. "Sylvia, by my calculations you should be able to see the depot island from the bridge now."
 
 
