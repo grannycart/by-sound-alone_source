@@ -39,13 +39,13 @@ With darkness, Hemi was able to take a sighting from a star, and he calculated t
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels, and there was no sign of the _Grackle_.
 
-Even as the sun rose before them, Percy kept the boat on the surface hoping to make the rendezvous with Shakes more or less on time. The sun was well up above the horizon, and they had clear visibility for something like ten miles from the lookout ring, before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them with his usual high precision to the correct spot.
+Even as the sun rose before them, Percy kept the boat on the surface hoping to make the rendezvous with Shakes more or less on time. The sun was well above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them with his usual high precision to the correct spot.
 
-A few hours later, Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters of depth and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours catching up on sleep and lazy recuperation. Cassandra was stuck listening to sonar to detect the Shakes' approach. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
+A few hours later, Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters of depth and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours in lazy recuperation and catching up on sleep. Cassandra was stuck listening to sonar, trying to detect the Shakes' approach. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous a high speed on the surface.
 
 At a few miles off, the sound of the diesel disappeared. Cassandra assumed Shakes was diving before approaching the rendezvous point. Percy called Hemi up to the control room. An hour later Shakes' voice came in over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
 
-Hemi sent Bastian down to the lowest deck of the _Prospect_ to open the hatch to the _Gnat_. Even as he climbed up through the hatch, helped by Bastian's strongly gripping hand, Shakes was already thinking about food.
+Hemi sent Bastian down to the lowest deck of the _Prospect_ to open the hatch to the _Gnat_. Even as he climbed up through the hatch, helped by Bastian's strong grip, Shakes was already thinking about food.
 
 "Bastian! Good to fuckin' see you again. It's about dinner time on this fuckin' vessel, ain't it?"
 
@@ -63,11 +63,11 @@ After Shakes ate his third bowl, Gregory poured everyone a cup of the requisite 
 
 "Well the last job working for you was so fuckin' profitable, I wasn't just going to let that go because I thought y'all were fucking dead."
 
-Percy laughed.
+Percy chuckled.
 
 "So what's the fuckin' plan now? Is there a next job?" asked Shakes.
 
-"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking _Grackle_ as possible. If there's a chance they are still swimming, we have to lose those fuckers for good if we're going to resume business as usual. I can cut you loose if you like Shakes --- it's mostly our fuckin' headache, not yours."
+"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking _Grackle_ as possible. If there's even a chance they are still swimming, we'll have to lose those fuckers for good before resuming business as usual. I can cut you loose if you like Shakes --- it's mostly our fuckin' headache, not yours."
 
 Shakes stirred a number of spoonfuls of sugar into his coffee. "And what if I'm willing to make it my headache too?"
 
@@ -81,14 +81,14 @@ Shakes stirred a number of spoonfuls of sugar into his coffee. "And what if I'm 
 
 "You know I do take care of a few other things on this boat besides the fuckin' food," said Gregory.
 
-Percy ignored Gregory. "Once it seems like we've gotten ourselves some distance, we'll put into a port somewhere and start looking for work again. And hopefully we'll be able to include the _Gnat_ in whatever new endeavor we take up."
+Percy ignored Gregory. "Once we've covered some significant expanse of ocean without crossing paths with the _Grackle_ again, we'll put into a port somewhere and start looking for work. And hopefully we'll be able to include the _Gnat_ in whatever new endeavor we take up."
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Into the garbage gyre)
 
-When the clock indicated that it was fully dark above the waves, Percy had them drive the _Prospect_ up to the surface. Hemi and Shakes got the _Gnat_ disconnected and surfaced. Soon both boats were running parallel to each other across a black sea of modest swells. The sky was loaded with heavy clouds which brought with them a steady breeze to drive the waves against the boats. The clouds made the night dark. So much so that while it was easy to hear the _Gnat's_ diesel engine from the bridge of the _Prospect_, it could not be seen out there in the blackness, except for the occasional spark of fire that escaped from its exhaust pipe.
+When the clock indicated that it was fully dark above the waves, Percy had them drive the _Prospect_ up to the surface. Hemi and Shakes got the _Gnat_ disconnected and surfaced. Soon both boats were running parallel to each other across a black sea of modest swells. The sky was loaded with heavy clouds which brought with them a steady breeze that drove the waves against the boats. The clouds made the night dark. So much so that while it was easy to hear the _Gnat's_ diesel engine from the bridge of the _Prospect_, it could not be seen out there in the blackness, except for the occasional spark of fire that escaped from its exhaust pipe.
 
 They kept a steady eastern course, moving deep into the central ocean. With both boats running their diesel engines they could sustain high speeds. Maintaining a steady 15 knot average, they covered the vast distances of the open ocean relatively quickly.
 
@@ -156,7 +156,7 @@ At first, Cassandra was able to steer them around the big pieces of flotsam usin
 
 Captain Percy ran a power wire up to the bridge and connected a hand-held spot light. She swept a beam back and forth, scraping away at the blackness in front of her boat. Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the 1000-meter deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light the vessels were typically low, black, curved, and oily forms; riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull.
 
-As they made their way further, the debris in the water grew more abundant. The breeze they had been driving into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. Among the larger debris pieces of the derelict vessels there were rafts of smaller junk clumping together: rotting wood from ship decking and furniture, rusting barrels, bits of foam covered in bright cloth, frayed lines, bleached-pale buoys and bumpers, pieces of masts, and tool handles. Anything that might fall from a ship or get tossed into the ocean and did not immediately sink seemed to have made its way to this huge gyre of garbage. Pieces bumped eerily against the hull of the _Prospect_, with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
+As they made their way further, the debris in the water grew more abundant. The breeze they had been driving into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. Among the larger debris pieces of the derelict vessels there were rafts of smaller junk clumping together: rotting wood from ship decking and furniture, rusting barrels, bits of foam covered in bright cloth, frayed lines, bleached-pale buoys and bumpers, pieces of masts, and tool handles. Anything that might fall from a ship or get tossed into the ocean and did not immediately sink seemed to have made its way to this huge gyre of garbage. Pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
 
 Gregory, in the lookout ring, suddenly turned to one side with a jerk. "Captain Percy, am I hallucinating? I think I saw movement up on one of those low-sunken ships off the port side."
 
@@ -171,7 +171,7 @@ Percy turned the spot light back on but didn't shine it in the direction of the 
 
 [//]: # (### Through the dense part of the garbage patch at night; then in the morning they dive, and Cassandra hears the Grackle)
 
-They spent the entire night slowly pinging their way through the densely polluted surface water with the _Gnat_ following dutifully behind. Percy instinctively was feeling uncomfortable about the racket the two ships were making, especially since every ping told anyone within a 10, maybe even 20, mile radius precisely where they were. And of course even at a near-idle, the _Gnat's_ diesel --- which Shakes was now running again --- growled loudly with sympathetic vibrations reflected back from the abandoned ship hulls surrounding them. Captain Percy reassured herself that they were far off any routine shipping lanes, and most vessels would steer around this patch they had chosen to plunge into. This refuse patch that was more and more appearing to be quite a massive obstacle to make one's way across.
+They spent the entire night pinging their way through the densely polluted surface water with the _Gnat_ following dutifully behind. Percy instinctively was feeling uncomfortable about the racket the two ships were making, especially since every ping told anyone within a 10, maybe even 20, mile radius precisely where they were. And of course even at a near-idle, the _Gnat's_ diesel --- which Shakes was now running again --- growled loudly with sympathetic vibrations reflected back from the abandoned ship hulls surrounding them. Captain Percy reassured herself that they were far off any routine shipping lanes, and most vessels would steer around this patch they had chosen to plunge into. This refuse patch that was more and more appearing to be quite a massive obstacle to make one's way across.
 
 The boats were still on the surface, and Percy was still standing on the bridge of the _Prospect_, when the morning sun eased itself up over the eastern horizon. Its long red rays ignited the landscape of black hulks around them until it looked like boats were stirring the dead waters of an underworld lake of blood.
 
@@ -1008,7 +1008,9 @@ Percy could hear Owen breathing heavily into the mic. She squeezed the mic in he
 
 "Owen... I didn't know..." Her thumb fell off the transmitter. The radio remained dead for a few seconds.
 
-The radio dial re-lit. "...The worst thing isn't being left to die by you a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down Sylvia. But now... now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually."
+The radio dial re-lit. "...The worst thing now isn't you leaving me to die a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down Sylvia. But now... now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually. 
+
+"...Everyone eventually. But for me, the pit is only a few seconds away now. Know this Sylvia: even now if I had one last chance, one last torpedo or any weapon I could reach you with at all, I would take that shot. I'd make firing on you my last act, if that was an option given to me. But I've got nothing now. No options at all."
 
 The ship-to-ship radio went dark. It did not light again. Percy hung the mic up. She dropped the butt of her cheroot to the deck and crushed it under her boot heel.
 
@@ -1079,9 +1081,9 @@ Even though it was bright daylight they could not submerge, for the _Gnat_ lay o
 
 All those whistling splits in the _Gnat's_ hull were the reason they could not submerge. The _Gnat_ was far too damaged from its brief dip below its crush depth for them to repair it at sea. And so it rode on top of the _Prospect_ until they could put in somewhere where repairs could be attempted.
 
-Shakes spent quite a while on the _Prospect's_ deck that morning, cataloging the damage to his boat. It was beginning to look like the _Gnat_ might end up being more weld than plate --- if it could be repaired at all. Even now, as the _Prospect_ rolled on a larger swell, water from the bilge would come streaming out of the _Gnat_ in long greasy lines where the hull was split. It was enough to bring tears to Shake's eyes.
+Shakes spent quite a while on the _Prospect's_ deck that morning, cataloging the damage to his boat. It was beginning to look like the _Gnat_ might end up being more weld than plate --- if it could be repaired at all. Even now, as the _Prospect_ rolled on a larger swell, water from the bilge came streaming out of the _Gnat_ in long greasy lines where the hull was split. It was enough to bring tears to Shake's eyes.
 
-Hemi was far less upset about the damage to the _Gnat_, and instead found himself unusually jubilant. He had been through close calls before, but never before had he given up and been ready to die. He was glad to be out of the _Gnat_. And he was glad to be outside on the deck of the _Prospect_. 
+Hemi was far less upset about the damage to the _Gnat_, and instead found himself unusually jubilant. He had been through close calls before, but never had he given up and been ready to die. He was glad to be out of the _Gnat_. And he was glad to be outside on the deck of the _Prospect_. 
 
 Since they couldn't submerge without doing further damage to the _Gnat_, and since they were going to be running on the surface through all the lovely warm daylight hours, Hemi decided some grilling was in order. He opened up the hatch to the cargo hold, and winched up the soot-covered black grill that had been made by welding legs onto a steel barrel, cutting it in half, and installing hinges to make the top a lid.
 
