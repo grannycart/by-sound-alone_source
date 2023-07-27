@@ -593,7 +593,7 @@ Hemi began a steady and careful dialog with Percy, much of which she relayed to 
 
 Percy stood directly next to Gregory and worked the tank trim panel herself, feeling the weight of her ship through its movements and finding an absolutely neutral buoyancy. When she was satisfied that her boat was trimmed so it would be perfectly level without any out-of-balance forces causing them to gain or lose depth, she took one step back from the panel. She tracked Gregory's moves on the dive plane carefully.
 
-"Bastian, do what you have to with the rudder, we have space to play with to our sides." She said to the men sitting at the controls of her boat. "But Gregory: only make the most delicate moves on the dive planes --- one degree up or down, maximum. We want to have lots of time to correct before we drive the bow into the muck or the sail into that steel wall above us."
+"Bastian, do what you have to with the rudder, we have space to play with to our sides," she said to the men sitting at the controls of her boat. "But Gregory: only make the most delicate moves on the dive planes --- one degree up or down, maximum. We want to have lots of time to correct before we drive the bow into the muck or the sail into that steel wall above us."
 
 "Right Captain," said Gregory, gripping the dive plane wheel. His eyes darted back and forth from the boat level indicators, to the depth indicator, to the depth-under-keel gauge.
 
@@ -667,9 +667,9 @@ Percy moved down to the sonar station and for the next hour or so Hemi reported 
 
 "It could be the _Grackle_ is now hiding on the bottom themselves," Percy replied. "The Stilt City Authority ships probably lost them in that brown muck water from the river outflow, and are hoping a random charge will force them to the surface." 
 
-"Given the intensity of the attack, I would suggest that it is unlikely the _Grackle_ could survive," said Hemi. "And I have recently heard sounds that would be not inconsistent with the failure of a pressure hull."
+"Given the intensity of the attack, I would suggest that it is unlikely the _Grackle_ could survive," said Hemi. "And I would add I have recently heard sounds that would be not inconsistent with the failure of a pressure hull."
 
-"The Stilt City Authority boats destroying the _Grackle_ would surely be a blessing from hell. If we had a way to _confirm_ their sinking, we could sleep easy for the first time in a long time. That would be the greatest blessing of all."
+"The Stilt City Authority boats destroying the _Grackle_ would surely be a blessing from hell. If we had a way to _confirm_ their sinking, we could sleep easy for the first time in a long time. That would be the greatest fuckin' blessing of 'em all."
 
 As much as Captain Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect's_ position. They crawled at a painfully slow, but discreet, three knots on the more or less random northerly course Bastian had chosen for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind, along with any kind of contact or signal that they might still be pursued.
 
