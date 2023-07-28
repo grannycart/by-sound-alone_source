@@ -1,9 +1,10 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-05-27 12:34
+Last modified: 2023-07-28 16:50
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
 * [file index](#index)
+* [Final production todos](#Final production todos)
 * [story descriptions](#descriptions)
 	* [titles and cover](#titles)
 * On writing this book
@@ -19,9 +20,16 @@ Last modified: 2023-05-27 12:34
 	* This file. List of notes specific to the _story/writing_ of this book; and things to not forget to do; as well as post-production checklist
 	* [completed_first-round_edits](./completed_first-round_edits.md)
 		* Edits picked up in first full-round pass through the book.
-	* [second-round_edits](./second-round_edits.md)
+	* [completed_second-round_edits](./completed_second-round_edits.md)
 * [Diagrams notes and todos](./notes-on-sub-diagrams)
 	* Notes on sub diagrams and edits to make
+
+## Final production todos
+--------------------------------------------------------------------------------
+* [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
+	* Though remember you suggested donating to open-source software at the head of the license file.
+	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+* [ ] Add back cover blurb for print book
 
 
 ## story descriptions and title possibilities: 

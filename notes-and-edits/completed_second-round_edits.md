@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-07-12 21:25
+Last modified: 2023-07-28 16:46
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -58,7 +58,7 @@ Edits to pick up in second full pass through the book
 		* Should she be more of an Irene character?
 			* If Irene... could be more like the Irene character from All in the Family: liberal idealistic, smarter than everyone else -- conflict with Percy becomes more of a thing about what they see as (politically?) right?
 		* Sticking with Chips -- just gave the name a paragraph of background when she shows up
-	* [ ] play up the "Handsome Gregory" (a subtle reference to Gregory Peck) joke some more at some point.
+	* [X] play up the "Handsome Gregory" (a subtle reference to Gregory Peck) joke some more at some point.
 * [X] Fix motivation for chase:
 	* (every reader comments on this -- none of them are getting your idea that the one-armed captain is just going through the motions for no reason other than not knowing what else to do)
 	* A possibility: The sub with the ram is after them because a global bounty has been declared on illicit cargo subs.
@@ -317,12 +317,6 @@ Edits to pick up in second full pass through the book
 	* So at some point, it should be _pulling_ them to the depths
 	* akin to the cruelty and evil of power --- the Authorities; but where the Authority cruelty is random, nature's cruelty is deliberate
 	* The only way they survive in nature's cruelty is through their grimey, rational machine, the submarine. the submarine which always makes sense, if you can just figure it out
-* [ ] think about writing a whole second novel worth of stuff into the comments of subworld
-	* The uncommented text becomes the accessible, readable adventure story.
-	* The comments become the metaphysical parallel "stalker" type story.
-	* Maybe this is during another read-through edit (after you finish the "complete first draft" and have people reading that) where you take care of all remaining unresolved comments and notes.
-		* maybe like every 1k words of main text there should be some bit of meta-writing?
-		* in each place that there is some over-wrought symbol; double down on it in the comments: like when the crane is a crone's finger, in the comments make it a whole bony hand of an ancient and giant witch, reaching up from the depths to ward off the demons... or something like that.
 * manliness:
 	* One thing I'm trying to do in this book is salvage the lone-male fantasy
 		* First by making it not exclusively "male"
@@ -529,12 +523,9 @@ Edits to pick up in second full pass through the book
 			* [X] though I think this has to go along with combining chapter 7 and 8. (maybe 8 gets a coda instead, and there's only 7 chapters + coda/epilogue)
 	* [-] the cookout
 		* No, keep this.
-* [ ] Combine chapters 7 and 8 (since 7 is too short after removing the bike race).
-	* [ ] Make last chapter name (7) The Garbage Gyre
-	* [ ] Make Epilogue its own file?
-* [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
-	* Though remember you suggested donating to open-source software at the head of the license file.
-	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+* [X] Combine chapters 7 and 8 (since 7 is too short after removing the bike race).
+	* [X] Make last chapter name (7) The Garbage Gyre
+	* [-] Make Epilogue its own file?
 
 
 
