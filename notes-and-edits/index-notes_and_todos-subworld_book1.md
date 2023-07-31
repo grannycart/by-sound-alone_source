@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-07-28 16:50
+Last modified: 2023-07-31 12:23
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -54,7 +54,27 @@ Last modified: 2023-07-28 16:50
 		* In the bottom is the silhouette of a submarine -- maybe the prospect, or maybe the broken grackle (add ram?)
 		* (unfortunately for accuracy the sub couldn't be more than three sub-lengths deep, but maybe the LOOK of a huge ocean of blackness is more important than accuracy)
 		* A tiny silhouette of a pigeon flying above the ocean surface. (maybe the pigeon is much closer to the viewer so can be bigger relative to the tiny submarine)
-	* (where are my other cover notes?)
+	* other possibilities:
+		* [X] do a 5.5 x 8.25 page layout for pre-release print-on-demand draft
+		* [O] At least for the beta near-final but-never-really-finalized version:
+			* [-] use the same image, but make the water grey-green blue (maybe eyedropped actual ocean water photo - marine park bridge)
+			* [-] maybe put the broken sub on the front on the spine?
+			* [X] re-do the title: Under Dark (etc)
+			* [X] remove "by" from by Mark Torrey
+		* [ ] have Dave do illustration
+		* [ ] It would be better, I think, to include illustrations of some of the characters ON the sub, rather than just the sub
+			* (just a sub will only appeal to sub people.)
+		* [ ] Maybe even anime-ish? To pull in the anime folks who might enjoy this story?
+		* [ ] It's important that the cover, the title, and the description really capture what the story is and _feels_ like.
+			* The worst thing you can do to an audience is mislead them about what a book might be;
+			* And the audience will punish anyone they feel mislead by
+		* [X] If you do a preview edition, or even a first edition, you could make your own cover from the WWII Tang drawings
+		* [ ] If you come up with a symbol for the Prospect, make sure it is shown on an illustrated cover
+		* [ ] could be an image of the Gnat's sail with just Herschel standing at his hatch --- this would certainly peak my interest!
+* [X] Draw diagrams of the Prospect and Gnat. Include with story.
+	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
+	* (No copyright problems, those are federal gov't drawings)
+	* (People like me eat that ship up --- it lets you visualize where in the boat the people are at any time.)
 * [X] Possible book (though not series) title:
 :titles:
 	* [X] title: By Sound Alone
