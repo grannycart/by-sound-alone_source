@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-08-03 21:32
+# Last modified: 2023-08-03 21:48
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -59,13 +59,13 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(CONTACT) $(TITLE) $(DIAGRAMS) $(CHAPTERS)
 # 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
 	pandoc $(TOC) --css=css/epub.css --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
-$(BUILD)/html/$(BOOKNAME).html: $(CONTACT) $(TITLE) $(DIAGRAMS) $(CHAPTERS)
+$(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(DIAGRAMS) $(CHAPTERS) $(CONTACT)
 	mkdir -p $(BUILD)/html
 #	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
 #	The --self-contained tells pandoc to include the css in the html file, rather than just referencing it.
 	pandoc -s $(TOC) --css=$(CSS) --self-contained $(DATE) --to=html5 -o $@ $^
 
-$(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
+$(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS) $(CONTACT) 
 	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
 #	Note 2023-08-03: pdf was not compiling on Manjaro system probably for lack of whatever Arch equivalent of fonts-lmodern apt package
