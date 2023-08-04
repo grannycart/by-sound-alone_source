@@ -9,6 +9,8 @@
 
 [//]: # (this file is set to only run for .epub and .html pandoc compilations)
 
+[//]: # (----- invisible character break)
+ 
 
 --------------------------------------------------------------------------------
 
@@ -21,5 +23,8 @@
 ![](./sub-diagrams/Gnat/Gnat-interior-diagram.png)  
 
 --------------------------------------------------------------------------------
+  
+[//]: # (----- invisible character break)
+ 
 
 
