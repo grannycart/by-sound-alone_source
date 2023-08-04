@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-08-03 22:29
+# Last modified: 2023-08-04 17:24
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -73,7 +73,7 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS) $(CONTACT) $(LICENSE)
 #	Note 2023-08-03: pdf was not compiling on Manjaro system probably for lack of whatever Arch equivalent of fonts-lmodern apt package
 	pandoc $(TOC) -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
 
-$(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS) $(CONTACT) $(LICENSE)
+$(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS) $(LICENSE) $(CONTACT)
 	mkdir -p $(BUILD)/latex
 #	I use this target for prepping for paper version of the book 
 #	(so, scrbook latex class is used here and page it set to 5.5x8.25)
