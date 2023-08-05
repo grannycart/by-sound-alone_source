@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-08-04 17:46
+# Last modified: 2023-08-04 20:53
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -57,6 +57,7 @@ md: $(BUILD)/markdown/$(BOOKNAME).md
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(CONTACT) $(TITLE) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/epub
+#	Note: Calibre comes with a tool that can convert epub to mobi (Amazon Kindle's format): ebook-convert
 # 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines. ('smart' only does anything for markdown and latex outputs though, and is enabled by default, so this isn't doing anything. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33)
 # 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
 	pandoc $(TOC) --css=css/epub.css --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
