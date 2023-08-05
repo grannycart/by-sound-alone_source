@@ -35,7 +35,7 @@
 
 [//]: # (### Opening scene --- night on a black dead calm sea)
 
-The weight of the atmosphere pressed the night air down on the ocean. The air above the black water was pinned under a murky dome of heavy cloud, held down like some great hunting feline gripping its claws into a dying songbird. The weight compressed the air to complete stillness, flattening the water until it was unable to raise more than a barely perceptible heave, forced up from somewhere deep below its glassy surface where it still held its hidden reserves of power. 
+The weight of the atmosphere pressed the night down on the ocean. The air above the black water was pinned under a murky dome of heavy cloud, held down like some great hunting feline gripping its claws into a dying songbird. The weight compressed the air to complete stillness, flattening the water until it was unable to raise more than a barely perceptible heave, forced up from somewhere deep below its glassy surface where it still held its hidden reserves of power. 
 
 A distant moon --- cast out by the atmosphere and not visible --- dimly lit the clouds to the color of the charred edges of a coal. The moon reclined, above and beyond, unable to muster enough warmth to intervene with the iron grip of the atmospheric pressure. It merely stood by helpless, feebly attempting to stir the ocean out from under the strong arm of the atmosphere by the force of tide. It was all it could do to provide even the coldest, dimmest light. That light filtered down through layer upon layer of gray cloud until it was so diluted and refracted that it left the sky only a few shades of black lighter than the water. 
 
