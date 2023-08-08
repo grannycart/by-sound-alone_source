@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-08-03 21:23
+Last modified: 2023-08-08 16:04
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -26,9 +26,9 @@ Last modified: 2023-08-03 21:23
 
 ## Final production todos
 --------------------------------------------------------------------------------
-* [ ] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
+* [X] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
 	* Though remember you suggested donating to open-source software at the head of the license file.
-	* add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+* [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 * [ ] Add back cover blurb for print book
 * [ ] make sure epub passes epubcheck validation
 
