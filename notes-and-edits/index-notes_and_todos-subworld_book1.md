@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-08-10 12:36
+Last modified: 2023-08-10 18:31
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -28,11 +28,13 @@ Last modified: 2023-08-10 12:36
 --------------------------------------------------------------------------------
 * [X] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
 	* Though remember you suggested donating to open-source software at the head of the license file.
-* [ ] get ISBN for print book
-	* then update ebook with ISBN
+* [X] get ISBN for print book
+	* B&N will provide a free ISBN for a print book
+	* ebooks don't require an ISBN, and if you get one it has to be different than the print book anyway (every version of a book gets its own ISBN)
 * [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 * [ ] Add back cover blurb for print book
 * [ ] make sure epub passes epubcheck validation
+	* AUR on Arch
 
 
 ## story descriptions and title possibilities: 

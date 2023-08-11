@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-08-04 20:53
+# Last modified: 2023-08-10 20:24
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -8,9 +8,8 @@
 BUILD = built-files
 # This BOOKNAME variable is the output file name, not the title:
 BOOKNAME = By-Sound-Alone
-TITLE = title.txt
-# Metadata is a part of the epub standard, even if it repeats stuff in the title file -- only used in epub:
-METADATA = metadata.xml
+# Metadata contains title and other info:
+METADATA = metadata.yaml
 # List of chapter files, in order, separated by a space.
 CHAPTERS = manuscript/two_preface.md manuscript/1_Chapter.md manuscript/2_Chapter.md manuscript/3_Chapter.md manuscript/4_Chapter.md manuscript/5_Chapter.md manuscript/6_Chapter.md manuscript/7_Chapter.md
 # Diagrams file. Diagrams are only added to epub and html, so that variable is in the pandoc lines for those sections below. 
@@ -55,26 +54,26 @@ txt: $(BUILD)/txt/$(BOOKNAME).txt
 
 md: $(BUILD)/markdown/$(BOOKNAME).md
 
-$(BUILD)/epub/$(BOOKNAME).epub: $(CONTACT) $(TITLE) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
+$(BUILD)/epub/$(BOOKNAME).epub: $(CONTACT) $(METADATA) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/epub
 #	Note: Calibre comes with a tool that can convert epub to mobi (Amazon Kindle's format): ebook-convert
 # 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines. ('smart' only does anything for markdown and latex outputs though, and is enabled by default, so this isn't doing anything. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33)
 # 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
-	pandoc $(TOC) --css=css/epub.css --epub-metadata=$(METADATA) $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
+	pandoc $(TOC) --css=css/epub.css $(DATE) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
-$(BUILD)/html/$(BOOKNAME).html: $(TITLE) $(DIAGRAMS) $(CHAPTERS) $(CONTACT) $(LICENSE)
+$(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(DIAGRAMS) $(CHAPTERS) $(CONTACT) $(LICENSE)
 	mkdir -p $(BUILD)/html
 #	Below: Compiling html with the TOC enabled. The -s (standalone) flag is required to get the TOC to work.
 #	The --self-contained tells pandoc to include the css in the html file, rather than just referencing it.
 	pandoc -s $(TOC) --css=$(CSS) --self-contained $(DATE) --to=html5 -o $@ $^
 
-$(BUILD)/pdf/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS) $(CONTACT) $(LICENSE)
+$(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA) $(CHAPTERS) $(CONTACT) $(LICENSE)
 	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
 #	Note 2023-08-03: pdf was not compiling on Manjaro system probably for lack of whatever Arch equivalent of fonts-lmodern apt package
 	pandoc $(TOC) -s --from markdown+smart --pdf-engine=xelatex $(DATE) -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
 
-$(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS) $(LICENSE) $(CONTACT)
+$(BUILD)/latex/$(BOOKNAME).tex: $(METADATA) $(CHAPTERS) $(LICENSE) $(CONTACT)
 	mkdir -p $(BUILD)/latex
 #	I use this target for prepping for paper version of the book 
 #	(so, scrbook latex class is used here and page it set to 5.5x8.25)
@@ -82,12 +81,12 @@ $(BUILD)/latex/$(BOOKNAME).tex: $(TITLE) $(CHAPTERS) $(LICENSE) $(CONTACT)
 #	Below with some latex options (-V) added.
 	pandoc -s --from markdown+smart --top-level-division=chapter $(DATE) -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
 
-$(BUILD)/txt/$(BOOKNAME).txt: $(TITLE) $(CHAPTERS) $(LICENSE)
+$(BUILD)/txt/$(BOOKNAME).txt: $(METADATA) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/txt
 #	No TOC for txt file
 	pandoc -s --from markdown+smart $(DATE) -o $@ $^
 
-$(BUILD)/markdown/$(BOOKNAME).md: $(TITLE) $(CHAPTERS) $(LICENSE)
+$(BUILD)/markdown/$(BOOKNAME).md: $(METADATA) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/markdown
 #	General Makefile note: $@ = output file name (listed before the : on the target line); $^ = inputs files names (after the : on the target line)
 # 	markdown target just turns the chapters into a single, cleaned up md file.
