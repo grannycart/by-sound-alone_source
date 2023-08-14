@@ -1,17 +1,11 @@
 ---
-title:
-- type: main
-  text: By Sound Alone
-- type: subtitle
-  text: |
+title: By Sound Alone
+subtitle: |
     A Novel With Some Submarines. Also a Pigeon. 
 
     (For more information visit: 
-
     grannycart.net/by-sound-alone/)
-creator:
-- role: author
-  text: Mark Torrey
+author: Mark Torrey
 date: 2023
 rights: © 2023 Mark Torrey, CC BY-NC-SA
 cover-image: ./cover/final-beta-front-cover-layout.png
