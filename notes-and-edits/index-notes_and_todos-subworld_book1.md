@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-08-10 21:04
+Last modified: 2023-08-15 11:47
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -33,6 +33,8 @@ Last modified: 2023-08-10 21:04
 	* ebooks don't require an ISBN, and if you get one it has to be different than the print book anyway (every version of a book gets its own ISBN)
 * [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
 * [ ] Add back cover blurb for print book
+* [ ] for book generation, this page might have useful tips about managing the css configuration:
+	* https://shkspr.mobi/blog/2023/04/using-pandoc-to-format-a-dissertation-from-markdown-to-html-pdf-and-epub/
 * [X] make sure epub passes epubcheck validation
 	* AUR on Arch
 
