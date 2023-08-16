@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2023-08-15 23:02
+Last modified: 2023-08-16 19:52
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -42,8 +42,22 @@ Last modified: 2023-08-15 23:02
 	```
 	* Take the date info from the \date line, and leave the \date{} with no content so it prints blank on the title page.
 8. return text to \normalsize for the note on the last page with contact info and email sign up
-9. Compile latex file; review compiled file
-10. Add other matter to pdf:
+9. Add blank page with:
+	```
+	\newpage 
+
+	\ % The empty page
+
+	\newpage
+	```
+	* after copyright page 
+	* after Preface
+	* before License 
+	* You can use this method to bring the page count up to a div/4
+		* Or add pages as part of the pdf when you include the diagrams (number 11)
+		* Ideally, any extra white pages would go between the last page of the book and the license
+10. Compile latex file; review compiled file
+11. Add other matter to pdf:
 	* Gather all the other necessary pdfs into a single directory:
 		* the main compiled pdf
 		* the diagrams
@@ -51,8 +65,7 @@ Last modified: 2023-08-15 23:02
 			* pdftk ./Subworldbook1.pdf cat 2 output ./blank-page.pdf
 	* Use pdftk or some other pdf manipulation software to add the diagram pages and other matter to the file. Assemble the final pdf, adding blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
 		* ```pdftk ./blank-page.pdf ./Prospect-interior-diagram_5.5x8.25-rotated.pdf ./Gnat-interior-diagram_5.5x8.25-rotated.pdf ./blank-page.pdf ./Subworldbook1.pdf cat output ./Subworldbook1+diagrams.pdf```
-		* Ideally, any extra white pages would go between the last page of the book and the license
-		* And the note about signing up for the email list would be on the inside cover
+		* Ideally The note about signing up for the email list would be the first paper page inside the cover
 
 
 
