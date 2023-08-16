@@ -28,6 +28,8 @@ The story told in this book is hung on technologies that anyone could understand
 
 Today's technology has crossed a line into the magical, and there is no way to put that technology back in the bottle even if we wanted to. But it is possible in the context of fiction to imagine a world where the electro-mechanical remained the dominant root of our everyday technology for far longer than it did. It is possible to imagine that, but for the geopolitical and economic winds blowing in a slightly different direction, the commerce and industry of our world could still be carried out by independent operators driving grease-coated machines steered by mechanical linkages. Such is this book.
 
+---M. Torrey, July 2023
+
 --------------------------------------------------------------------------------
 
 [//]: # (----- invisible character break)
