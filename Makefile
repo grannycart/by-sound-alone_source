@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-08-15 20:13
+# Last modified: 2023-08-15 21:22
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -81,7 +81,8 @@ $(BUILD)/latex/$(BOOKNAME).tex: $(METADATA) $(CHAPTERS) $(LICENSE) $(CONTACT)
 #	(so, scrbook latex class is used here and page it set to 5.5x8.25)
 #	Below with some latex options (-V) added.
 #	"rights" metadata set as "date" latex field here so it gets printed on first page as part of title block
-	pandoc -s --from markdown+smart --top-level-division=chapter -V date=$(RIGHTS) -V documentclass=scrbook -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
+#	the inner and outer geometry settings are the only way I could figure out to eliminate the stupid fucking Latex 'margin notes' space
+	pandoc -s --from markdown+smart --top-level-division=chapter -V date=$(RIGHTS) -V documentclass=scrbook -V geometry:inner=2cm -V geometry:outer=1.5cm -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
 
 $(BUILD)/txt/$(BOOKNAME).txt: $(METADATA) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/txt
