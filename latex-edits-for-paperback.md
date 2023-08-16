@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2023-08-15 20:25
+Last modified: 2023-08-15 21:08
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -12,7 +12,7 @@ Last modified: 2023-08-15 20:25
 	* Also for printing book: put a \newpage before the CC license at end of file
 3. do vim command ```:%s/chapter{/chapter\*{/g``` to make chapter headers not display numbering
 	* There's a global way to do this in Latex, but I don't remember it.
-4. do vim command ```:%s/ /\\subsection*\{\}/g``` to replace invisible break character with an invisible subsection break
+4. do vim command ```:%s/ /\\bigskip/g``` to replace invisible break character with a bigskip
 5. do a vim find-and-replace for ... with \ldots
 	* (It's possible the "smart" switch to pandoc does this for you (now). Also converts quotes ligatures and emdashes?)
 6. Add small pigeon graphic to title page:
