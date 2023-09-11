@@ -191,7 +191,7 @@ As it got closer they could see the big splotchy patches of rust all along the h
 
 A moment passed before a hatch opened at the top of the sail of the mini-sub, and the head of a man with yellow spiked hair emerged. His arms were still inside the sail working controls and he was standing propped on something inside so he could get his head and shoulders up high enough above the fairing to see as he guided it alongside the _Prospect_. 
 
-Bastian opened the hatch to a wet-storage locker on the deck and pulled out some large white rubber bumpers that were flat and deflated after being subjected to the underwater pressure. He connected each to a short hose that led to a fixture for the low-pressure compressed air system inside the wet-storage locker, and let a little puff of air into the bumpers until they had been restored to more or less their normal shape. Each bumper had a long line that he tied off to recessed deck cleats and lowered down between the two subs.
+Bastian opened the hatch to a wet-storage locker on the deck and pulled out some large white rubber fenders that were flat and deflated after being subjected to the underwater pressure. He connected each to a short hose that led to a fixture for the low-pressure compressed air system inside the wet-storage locker, and let a little puff of air into the fenders until they had been restored to more or less their normal shape. Each fender had a long line that he tied off to recessed deck cleats and lowered down between the two subs.
 
 "Toss a line!" the main in the mini-sub yelled as he let the engine run on idle and stepped over the fairing. He was wearing tall rubber boots as he ran up the washed deck of the small sub. The boots were pulled over leather pants that were originally probably black, but now were cracked and gray at the seams and joints. From the left side of his broken leather belt hung a couple of sizes of adjustable wrenches, the finish on the them beat away, matte and rusting in places, from years of banging against each other like chimes. He wore a faded black denim vest from which the sleeves had been inexpertly removed leaving stray threads of denim trailing behind him in the breeze and exposing a pair of sinewy arms.
 
@@ -253,7 +253,7 @@ Shakes eyes brightened at that. "Hrm. Well I've been eatin' nothing but cold cho
 
 "Right. Hang back a minute, let me go look around in there first, make sure all my pornography is put away. When I give you the signal, come across."
 
-Percy grinned as Shakes lowered himself down the side and leapt nimbly over the dangerous gap between the two boats where the chop occasionally ground the two walls of rusting steel against each other, crushing the breath out of the cracked old bumpers. He disappeared through the sail hatch of the _Gnat_.
+Percy grinned as Shakes lowered himself down the side and leapt nimbly over the dangerous gap between the two boats where the chop occasionally ground the two walls of rusting steel against each other, crushing the breath out of the cracked old fenders. He disappeared through the sail hatch of the _Gnat_.
 
 "Interesting character," said Hemi.
 
@@ -690,7 +690,7 @@ Shakes raised his middle finger and held it out in front of him, towards Hemi.
 
 "...When you are clamped on, bang on your hatch with one of those wrenches of yours. I will have Gregory down there waiting to hear from you. Do _not_ open the hatch till Gregory bangs back, OK? Even in its current condition, the _Prospect_ will do a lot better if your welds leak than the _Gnat_ will. Keep in touch over the ship-to-ship."
 
-Shakes pounded his acknowledgment on the side of the sail, and his head disappeared from the bridge. It was still so quiet aboard the _Prospect_ with no engines and so few systems running that they could hear the _Gnat's_ Diesels fire up, and inarticulate shouts from Shakes to Gregory on the deck as Shakes cast off the lines and Gregory retrieved them and pulled up the bumpers.
+Shakes pounded his acknowledgment on the side of the sail, and his head disappeared from the bridge. It was still so quiet aboard the _Prospect_ with no engines and so few systems running that they could hear the _Gnat's_ Diesels fire up, and inarticulate shouts from Shakes to Gregory on the deck as Shakes cast off the lines and Gregory retrieved them and pulled up the fenders.
 
 "Hey-fucking-ho!" Shakes voice came crackling over the ship-to-ship. "I'm fired up, buttoned up, and off fuckin' motoring. Out."
 

@@ -28,6 +28,7 @@
 	4. These files can be cleaned up a bit by hand. See notes below.
 * epub:
 	* formatting notes to come
+	* Calibre has a tool to convert epub to mobi. See comments in Makefile.
 * html:
 	* more or less works as compiled by pandoc, but it's not pretty
 * pdf:

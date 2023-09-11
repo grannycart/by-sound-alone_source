@@ -125,7 +125,7 @@ Percy asked Cassandra to use the binoculars to scout out the hand-painted signs 
 
 The open lane of the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships knowing that the big ships were far less maneuverable and took much longer to stop. But a ship making its way up the channel still had a bit of a job clearing a path, whereas few local boats would try to cut between two ships moving up the channel. 
 
-One did though. A small dugout canoe, that moved slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no chance it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man paddling the canoe kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down through the hatch to Bastian to reverse thrust and bring the _Prospect_ to a stop. The man in the canoe angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect's_ hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a rung while holding his canoe still with the other. He looped a painter from the canoe around one of the step rungs so it could not get away and then shimmied up the handholds to the deck.
+One did though. A small flat-bottomed boat, a kind of a wherry, that moved slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no chance it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man paddling the wherry kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down through the hatch to Bastian to reverse thrust and bring the _Prospect_ to a stop. The man in the wherry angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect's_ hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a rung while holding his boat still with the other. He looped a painter from the wherry around one of the step rungs so it could not get away and then shimmied up the handholds to the deck.
 
 "'Hoy there! Do you need a pilot?" He shouted up to the bridge of the sail as he continued to move towards them. "I can bring your sub marine in to where-the-fuck-ever. I know all the ways and docks around here. I can make sure you don't ground --- the water is very suddenly shallow in many places."
 
@@ -153,7 +153,7 @@ The man looked it over. "Surely. That's no great fuckin' way from here."
 
 "10 coin. Both in and out. If you go back out today."
 
-Hemi agreed and paid him an advance. Sir Piero made a move to go retrieve his canoe, but Hemi asked Cassandra to do it while he showed Sir Piero the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
+Hemi agreed and paid him an advance. Sir Piero made a move to go retrieve his boat, but Hemi asked Cassandra to do it while he showed Sir Piero the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
 
 Sir Piero took over command of the _Prospect_. He stood on the bridge and lit a cigar that resembled a root vegetable. Chomping the torpedo between his teeth, he read the numbers of the channels and water lanes they passed by through borrowed binoculars. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed --- and with a great deal of confidence --- plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
 
@@ -540,11 +540,11 @@ She handed it to Sir Piero. "You'll find a generous gratuity in there for your w
 
 "I am the best pilot in the city Captain Percy! If you come in this way again, be sure to ask for me."
 
-"We fuckin' will, for sure. Can you get your canoe off at this speed? I really don't want to slow down."
+"We fuckin' will, for sure. Can you get your boat off at this speed? I really don't want to slow down."
 
 "No problem. I was born and bred on the water!"
 
-Sir Piero tucked the bag of coins into his pants, gave Percy a casual salute, and nimbly went over the side of the sail. He pulled his dugout canoe to the edge of the deck and sat down in it. He lifted his paddle and pushed off. He slid the tiny craft down the curve of the _Prospect's_ hull and into the rapidly passing water like someone maneuvering over a big rock in river rapids. After a few paddles he had safely made some distance from the giant steel cylinder flying past, and he paused to give one final wave to Percy on the sail before paddling in the direction of a large oiler that was crawling upstream to see if he could win a second job for the day.
+Sir Piero tucked the bag of coins into his pants, gave Percy a casual salute, and nimbly went over the side of the sail. He pulled his wherry to the edge of the deck and sat down in it. He lifted his paddle and pushed off. He slid the tiny craft down the curve of the _Prospect's_ hull and into the rapidly passing water like someone maneuvering over a big rock in river rapids. After a few paddles he had safely made some distance from the giant steel cylinder flying past, and he paused to give one final wave to Percy on the sail before paddling in the direction of a large oiler that was crawling upstream to see if he could win a second job for the day.
 
 [//]: # (----- invisible character break)
  

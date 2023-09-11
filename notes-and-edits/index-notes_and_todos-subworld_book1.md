@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-08-15 11:47
+Last modified: 2023-09-07 14:00
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -9,6 +9,7 @@ Last modified: 2023-08-15 11:47
 	* [titles and cover](#titles)
 * On writing this book
 	* (Moved to shuttlebay)
+* [notes-from-consultations-with-Hagfish](notes-from-consultations-with-Hagfish)
 
 
 ## file index for submarine world story 1

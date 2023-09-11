@@ -156,7 +156,7 @@ At first, Cassandra was able to steer them around the big pieces of flotsam usin
 
 Captain Percy ran a power wire up to the bridge and connected a hand-held spot light. She swept a beam back and forth, scraping away at the blackness in front of her boat. Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the 1000-meter deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light the vessels were typically low, black, curved, and oily forms; riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull.
 
-As they made their way further, the debris in the water grew more abundant. The breeze they had been driving into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. Among the larger debris pieces of the derelict vessels there were rafts of smaller junk clumping together: rotting wood from ship decking and furniture, rusting barrels, bits of foam covered in bright cloth, frayed lines, bleached-pale buoys and bumpers, pieces of masts, and tool handles. Anything that might fall from a ship or get tossed into the ocean and did not immediately sink seemed to have made its way to this huge gyre of garbage. Pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
+As they made their way further, the debris in the water grew more abundant. The breeze they had been driving into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. Among the larger debris pieces of the derelict vessels there were rafts of smaller junk clumping together: rotting wood from ship decking and furniture, rusting barrels, bits of foam covered in bright cloth, frayed lines, bleached-pale buoys and fenders, pieces of masts, and tool handles. Anything that might fall from a ship or get tossed into the ocean and did not immediately sink seemed to have made its way to this huge gyre of garbage. Pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
 
 Gregory, in the lookout ring, suddenly turned to one side with a jerk. "Captain Percy, am I hallucinating? I think I saw movement up on one of those low-sunken ships off the port side."
 
@@ -451,7 +451,7 @@ Adjusting his glasses and reading this block of text, Hemi learned the particula
 
 He used large steel straps to join two of the cylinders together, orienting them so the magnetic trigger plates faced outwards on both ends. He tracked down some batteries in waterproof cases and wired them in as the power supplies for the triggers. From a forgotten storage compartment for parts in the engine room he found a pile of old mechanical timed switches that could be wound up and the timer set for when they would close the circuit. He wired these into the arming circuit on each warhead.
 
-He made three more doubled-up units like this. With two magnetic warhead strapped together, each weighed more than 50 kilograms. Then he plundered the many storage compartments throughout the boat looking for the rest of the parts he needed: some old boat bumpers, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips. So a screwdriver went on his list of things to find too.
+He made three more doubled-up units like this. With two magnetic warhead strapped together, each weighed more than 50 kilograms. Then he plundered the many storage compartments throughout the boat looking for the rest of the parts he needed: some old boat fenders, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips. So a screwdriver went on his list of things to find too.
 
 He had most of the parts he needed gathered together when he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Gregory to help him move all of his parts and equipment down to the _Prospect's_ battery compartment near the hatch to the _Gnat_.
 
@@ -461,7 +461,7 @@ Still down in the _Gnat's_ control seat, Shakes could hear the PA message. "Tell
 
 "They were pinging constantly," Hemi replied, leaning over the hatch down to the _Gnat_ to accept the small package of feathers, feet, and beak that Shakes was holding up to him. "They may have simply caught you in motion and followed the only moving object in the water. It cannot be helped now. Here Gregory, stow Herschel somewhere safe, and then help me get these parts into the _Gnat_."
 
-"What's the fuckin' plan?" Shakes asked as he accepted some filthy old boat bumpers down through the hatch and tossed them backward into the cargo space behind him.
+"What's the fuckin' plan?" Shakes asked as he accepted some filthy old boat fenders down through the hatch and tossed them backward into the cargo space behind him.
 
 "I am coming with you. If the _Grackle_ is coming in, we need to get the _Gnat_ off as quickly as possible. I will explain the plan on the way," said Hemi.
 
@@ -585,7 +585,7 @@ Hemi scanned back and forth across the horizon for twenty minutes or so, and the
 
 [//]: # (### The Gnat dives; assembling the devices; the plan)
 
-At this, Hemi signaled to Shakes to make way so he could climb back down into the bowels of the _Gnat_. He returned to assembling the devices he had been working on. He made careful calculations with his slide ruler, and noted them on his clipboard. Then he connected an air hose to a valve of the _Gnat's_ compressed air system, and blew air into the old boat bumpers he had brought from the _Prospect_. After each bumper was filled, he put a gauge on it and checked the precise pressure inside the bumper. When he was satisfied with the level of inflation, he sealed the bumper shut with a screw-tightened clip, and then lashed it to one of his twin explosive cylinder mine units.
+At this, Hemi signaled to Shakes to make way so he could climb back down into the bowels of the _Gnat_. He returned to assembling the devices he had been working on. He made careful calculations with his slide ruler, and noted them on his clipboard. Then he connected an air hose to a valve of the _Gnat's_ compressed air system, and blew air into the old boat fenders he had brought from the _Prospect_. After each fender was filled, he put a gauge on it and checked the precise pressure inside the fender. When he was satisfied with the level of inflation, he sealed the fender shut with a screw-tightened clip, and then lashed it to one of his twin explosive cylinder mine units.
 
 The resulting device was crude, but Hemi trusted the numbers on his clipboard and the fundamental simplicity of the weapons he had created.
 
@@ -617,7 +617,7 @@ Hemi pulled back one earpiece and turned to Shakes. "There is not much time. Giv
 
 "Ah," said Shakes, "so it's just a little matter of flushing one of those bad boys out the escape trunk at precisely the right depth and in the path of that big ugly sub, eh?"
 
-"I can control the depth with the amount of air in these old boat bumpers. I have calculated the pressure needed in the bumpers with enough precision, I believe, so that they should float at precisely 25 meters deep. That should take care of the Z axis, but I need you to navigate us across the path of the _Grackle_."
+"I can control the depth with the amount of air in these old boat fenders. I have calculated the pressure needed in the fenders with enough precision, I believe, so that they should float at precisely 25 meters deep. That should take care of the Z axis, but I need you to navigate us across the path of the _Grackle_."
 
 "That may not be so easy."
 
@@ -653,11 +653,11 @@ Shakes leaned his hand on the throttle, but it was already pushed all the way to
 
 Hemi left the headset behind on its peg, now relying entirely on the stopwatch and the unvarying speed and course of the _Gnat_ to know where he was in the water. He gingerly moved toward the stern, stepping over and around the detritus Shakes felt was perfectly reasonable to cast about in his only living space. 
 
-He picked up one of the explosive devices. It was heavy enough that even Hemi struggled a little to lift it. In addition to the sheer weight of the two warheads strapped together, he had to manage the awkward bumpers and lines that tangled themselves repeatedly around the myriad protrusions that all submarines have into their interior spaces.
+He picked up one of the explosive devices. It was heavy enough that even Hemi struggled a little to lift it. In addition to the sheer weight of the two warheads strapped together, he had to manage the awkward fenders and lines that tangled themselves repeatedly around the myriad protrusions that all submarines have into their interior spaces.
 
 The escape trunk was located behind the engine and motor, so it took some effort on Hemi's part to pass one of the heavy devices through the narrow space and push it back until it was underneath the cylinder of the escape trunk that hung down from above. The escape trunk had a heavy hand-screw sealed hatch on the bottom of the cylinder. Hemi opened the hatch and hefted the device up into the narrow interior space. 
 
-His intention was to get the device to sit on a narrow ledge that circled the hatch inside of the hatch. The ledge was intended to be a foothold for the person who wanted to escape to stand on while sealing the hatch from the inside. It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuffed the bumpers in. The bumpers were even more of a challenge to position so they would stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the bumpers to stay in the trunk by propping them on the ledge and leaning the two bumpers against each other.
+His intention was to get the device to sit on a narrow ledge that circled the hatch inside of the hatch. The ledge was intended to be a foothold for the person who wanted to escape to stand on while sealing the hatch from the inside. It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuffed the fenders in. The fenders were even more of a challenge to position so they would stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the fenders to stay in the trunk by propping them on the ledge and leaning the two fenders against each other.
 
 Finally, Hemi reached back up into the escape trunk and wound the mechanical timers that would close the circuit to arm the warheads when the timer reached zero. He set them to a frighteningly-short five minutes --- hardly enough time for the _Gnat_ to drive clear of the amount of explosive the combined warheads packed. But he could not risk the devices being unarmed when the _Grackle_ came within range of them. 
 
@@ -921,7 +921,7 @@ Only a minute later, both Hemi and Shakes knew it was not just the _Gnat_ being 
 
 Hemi looked at the stopwatch. "3 minutes. Just hold the boat right at the level and speed you have --- do not let anything change."
 
-Hemi had stuffed the explosive cylinders, bumpers, and lines of the second device up into the still-wet escape trunk. He quickly scribbled calculations on his pad, made adjustments to his slide-rule, looked at the stopwatch, and came to a solution. He reached up and set the timers on the explosive cylinders. "I hope that is correct," he said to himself, and sealed the device into the escape trunk.
+Hemi had stuffed the explosive cylinders, fenders, and lines of the second device up into the still-wet escape trunk. He quickly scribbled calculations on his pad, made adjustments to his slide-rule, looked at the stopwatch, and came to a solution. He reached up and set the timers on the explosive cylinders. "I hope that is correct," he said to himself, and sealed the device into the escape trunk.
 
 "30 seconds!" Hemi called forward. He put his hand on the lever. The hand of the stopwatch ticked around, climbing upwards. It hit the zero mark. Hemi hefted the lever that released the escape trunk hatch. It slid easily back this time. 
 
