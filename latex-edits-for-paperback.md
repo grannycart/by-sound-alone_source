@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2023-08-16 19:52
+Last modified: 2023-09-10 22:12
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -11,8 +11,9 @@ Last modified: 2023-08-16 19:52
 	* Actually, if you add the copyright page (number 7 below) the \small there will do the job
 	* For printing book especially, put a \tiny before the CC license at end of file
 	* Also for printing book: put a \newpage before the CC license at end of file
-3. do vim command ```:%s/chapter{/chapter\*{/g``` to make chapter headers not display numbering
+3. ~~do vim command ```:%s/chapter{/chapter\*{/gc``` to make chapter headers not display numbering~~
 	* There's a global way to do this in Latex, but I don't remember it.
+	* I changed the \chapters to \sections and it seems that pandoc disables section numbering, so this command is no longer needed (unless you go back to using \chapter instead of \section.
 4. search for \section and add a \newpage before every chapter
 	* so each chapter starts on a new page
 	* preface and license will already have it from markdown
@@ -42,7 +43,8 @@ Last modified: 2023-08-16 19:52
 	```
 	* Take the date info from the \date line, and leave the \date{} with no content so it prints blank on the title page.
 8. return text to \normalsize for the note on the last page with contact info and email sign up
-9. Add blank page with:
+9. Compile latex file; review compiled file
+10. If you still need blank pages, Add blank pages with:
 	```
 	\newpage 
 
@@ -50,13 +52,13 @@ Last modified: 2023-08-16 19:52
 
 	\newpage
 	```
-	* after copyright page 
-	* after Preface
-	* before License 
+	* Some places to consider:
+		* after copyright page 
+		* after Preface
+		* before License 
 	* You can use this method to bring the page count up to a div/4
 		* Or add pages as part of the pdf when you include the diagrams (number 11)
 		* Ideally, any extra white pages would go between the last page of the book and the license
-10. Compile latex file; review compiled file
 11. Add other matter to pdf:
 	* Gather all the other necessary pdfs into a single directory:
 		* the main compiled pdf
