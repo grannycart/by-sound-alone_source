@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-09-23 14:53
+Last modified: 2023-09-27 11:29
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -29,6 +29,7 @@ Last modified: 2023-09-23 14:53
 --------------------------------------------------------------------------------
 * [ ] hire hagfish
 * [ ] For next edit pass (do when you apply Hagfish revisions)
+	* [ ] do a run through to catch grammar/spelling errors caught by google docs
 	* [ ] remove fuel oil break in first chapter?
 	* [ ] search for didn't can't wouldn't couldn't etc outside of dialog (there's at least one in the first chapter)
 * [X] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
