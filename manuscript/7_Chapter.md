@@ -975,8 +975,6 @@ Hemi felt his way forward in the blackness, climbing over the engine. He found S
 
 The _Gnat_ was sinking. 
 
-[//]: # (--- REVIEWED TO HERE ---)
-
 [//]: # (----- invisible character break)
  
 

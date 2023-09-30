@@ -786,7 +786,7 @@ Captain Percy lit a cheroot. "Shit," she said, "if they know we've got what-coul
 
 "So I wasn't going to miss this wonderful opportunity of confusion --- I dumped whatever I could find laying around on the dock down into the _Gnat_, buttoned the boat up, and took the fuck off right then. Ran on battery as far as I could, then put the rest of the exhaust back together. Fortunately the diesel fired up no fucking problem and I made my way here."
 
-"Hmm," said Hemi, "whom do you suppose was willing to anger them further by closing the watertight bulkhead?"
+"Hmm," said Hemi, "who do you suppose was willing to anger them further by closing the watertight bulkhead?"
 
 "My guess," said Shakes, "is that it was that dock boss lady. She was the first one the Authority goons questioned, of course, and she didn't look very fuckin' happy about it afterwards."
 
