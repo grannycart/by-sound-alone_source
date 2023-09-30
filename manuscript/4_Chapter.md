@@ -899,7 +899,7 @@ Shakes reached into his denim vest and withdrew a small pencil and a notebook co
 
 "...The locals do not call it that," put in Hemi.
 
-[//]: # (Stilt City is a white-people name for a city with a large indigenous population. The moniker fits so well that no matter what effort the natives of the city put in to have their city addressed by its actual name, the rest of the world can't help but know it by anything other than Stilt City. This, of course, leaves the city vague and unspecified as a city in the real world in this story. It also has a pleasant dream-like quality.)
+[//]: # (Stilt City is a white-people name for a city with a large indigenous population. The moniker fits so well that no matter what effort the natives of the city put in to have their city addressed by its actual name, the rest of the world can not help but know it by anything other than Stilt City. This, of course, leaves the city vague and unspecified as a city in the real world in this story. It also has a pleasant dream-like quality.)
 
 Percy waved him off. "We estimate it will take three or four days and nights to get there. That's running slow and deep during the day, and fast on the surface at night with all things fuckin' nominal."
 

@@ -30,7 +30,7 @@
 
 [//]: # (### Surfaced)
 
-The _Prospect_ rose slowly. It tilted a little on one axis then the other as Captain Percy adjusted the trim of the tanks. But more or less the boat rose straight up since they didn't have the motors running and it was being lifted by buoyancy alone.
+The _Prospect_ rose slowly. It tilted a little on one axis then the other as Captain Percy adjusted the trim of the tanks. But more or less the boat rose straight up since they did not have the motors running and it was being lifted by buoyancy alone.
 
 Percy and Hemi watched the depth gauge slowly roll itself backwards, up past their test depth, up into what Percy would normally consider safe operating depth, then periscope depth, and then the sail broke through the surface. Those in the crew quarters could feel the boat bob like a cork to the surface, and at that they let out a small cheer that echoed to the control room from the depths of the boat. They arrived moments later at the bottom of the ladder to the control room, obviously expecting to go out on deck.
 
@@ -340,7 +340,7 @@ Hemi scratched his beard. "Well! Let me see that meter." He lowered himself to h
 
 "Always fuckin' does." Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt. "So... where were _you_ guys headed, before the whole fuckin' dead-ship thing?" 
 
-Hemi didn't look up from his work. "Captain Percy has been playing that particular piece of information close to her chest since we left the last port. I believe she has a line on our next job, but she has not yet shared details with me," Hemi said somewhat tentatively. He continued silently checking the status of the batteries while Shakes pulled a pack of cigarettes from his vest and lit one to chase down the flavor of the leaves he had been chomping on.
+Hemi did not look up from his work. "Captain Percy has been playing that particular piece of information close to her chest since we left the last port. I believe she has a line on our next job, but she has not yet shared details with me," Hemi said somewhat tentatively. He continued silently checking the status of the batteries while Shakes pulled a pack of cigarettes from his vest and lit one to chase down the flavor of the leaves he had been chomping on.
 
 After Shakes had filled up the small space with a haze of tobacco smoke, Hemi sat up straight and stashed his notebook and pencil back in his pocket. "I think I have enough information for the time being. That food Gregory was working on is probably ready. Shall we go see if we can find something hot to eat?"
 
@@ -406,7 +406,7 @@ Hemi put his pencil down. "Perhaps in your time on the sea some of you have beco
 
 "Here is what I propose," Hemi continued unfazed, "the _Prospect_ has a hatch with a mating collar on the bottom side of the boat. The normal intended use for it is underwater docking to another sub's topside hatch for discreet transshipping of small cargo. We could rig something so we could mate the _Gnat_ to the underside of the _Prospect_, and then feed up fuel and power into the _Prospect_ from the _Gnat_. As a male anglerfish might..."
 
-[//]: # (So: why aren't they just transferring Shakes' fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnat's batteries, they can't really transfer the charge over --- though maybe there's some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive --- shallowly.)
+[//]: # (So: why are they not just transferring Shakes fuel from the Gnat to the Prospect? I guess because then they would have to tow the Gnat behind them. And if it came to using the Gnats batteries, they cannot really transfer the charge over --- though maybe there is some complex way they could move the batteries over. I guess it does make some kind of vague sense to mate the two boats up. Also, being mated allows them to dive --- shallowly.)
 
 "Got it," Percy interrupted, "and you think there's enough juice left in the _Gnat_ for... what? How far could that possibly take us?"
 
@@ -774,7 +774,7 @@ On board the _Gnat_, Shakes leaned his head down at a painful angle, looking up 
 
 "Captain Shakes," Hemi's voice came over the ship-to-ship with all the bass notes stripped out of it, "do not forget that since we are moving, you are going to have to give your boat a little more motor when you get within a meter of the _Prospect_ or so. We are going slow enough that it should not be too dramatic, but you also do not want to get sucked back into the _Prospect's_ propellers."
 
-"Aye, fuck you all," he didn't bother to respond on the radio, his hands too busy with the controls of the _Gnat_. "This little boat weren't built for this shit. Handles like a fucking beach ball underwater."
+"Aye, fuck you all," he did not bother to respond on the radio, his hands too busy with the controls of the _Gnat_. "This little boat weren't built for this shit. Handles like a fucking beach ball underwater."
 
 He was pushing up from behind, moving slightly faster than the _Prospect_. Through the viewport, he could just see the little black circle of the mating collar he was shooting for. He realized now that he would lose sight of it when he got closer and the target slipped beyond his ability to crane his neck. 
 

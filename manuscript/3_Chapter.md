@@ -186,7 +186,7 @@ The shopkeeper somehow managed to show little interest in the few customers poki
 
 Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit. Clamps were not currently on her hardware list, so she regretfully would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the to list and waiting to be purchased on at the next stop.
 
-Percy picked up the box of clamps and moved to browse some of the larger parts. In one open crate there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she couldn't imagine not buying it. In the condition it was in, however, it would not be cheap.
+Percy picked up the box of clamps and moved to browse some of the larger parts. In one open crate there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she could not imagine not buying it. In the condition it was in, however, it would not be cheap.
 
 She leaned over the crate and ran her fingers under the cover to check for hidden grit and make sure it was actually factory-new, and not just well-cleaned old junk. As she did so, an old crone who had been looking at a box of steel piping near her leaned in her direction to admire the pump motor too. "That's a fine-looking piece of machine." The lady said to Percy, her voice croaking softly so it took Captain Percy a second to interpret what the lady had said.
 
@@ -358,7 +358,7 @@ She hummed to herself as she walked through the main hall of the noisy depot. Sh
 
 She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
 
-The man behind the bar was yet another giant, but only in the vertical direction. Rail thin, somewhat like Bastian, except he had a paunch around the belly. Years ago Percy had had a friend who would have described him as 'a skinny-fat guy.' He was grizzled about the face, like a piece of meat that hadn't been cleaned properly before being laid down in the frying pan. He was missing an eye which he didn't bother to cover with a patch, and wearing a stained leather apron. "What cha need there lady?" he asked Percy.
+The man behind the bar was yet another giant, but only in the vertical direction. Rail thin, somewhat like Bastian, except he had a paunch around the belly. Years ago Percy had had a friend who would have described him as 'a skinny-fat guy.' He was grizzled about the face, like a piece of meat that had not been cleaned properly before being laid down in the frying pan. He was missing an eye which he did not bother to cover with a patch, and wearing a stained leather apron. "What cha need there lady?" he asked Percy.
 
 "Give me something brown from that middle row there." She took one of her new coins from the heavy leather satchel Miss Mai had given her and laid it down on the wood of the bar. 
 
@@ -410,7 +410,7 @@ As she got closer the bartender said, "This lady might want to hire you." And tu
 
 "On a boat nobody cares how good you are at fucking. All I need is someone who is good at being alone for long periods of time and listening to mind-numbing ambient noise on the sonar for hours on end without going insane. Think you could do that? Think you might _want_ to do that kind of work?" Percy looked at the skinny young girl skeptically, though in the back of her mind she remembered that her start on submarines had not been much different than this.
 
-[//]: # (Explicitly: this references the fact that Percy didn't know anything about subs when she began. Implicitly: that she came from a darker place before subs?)
+[//]: # (Explicitly: this references the fact that Percy did not know anything about subs when she began. Implicitly: that she came from a darker place before subs?)
 
 Cassandra nodded firmly without saying anything, still looking at the floor.
 
@@ -640,7 +640,7 @@ Shakes grinned, "applying that leech _saved_ your fuckin' boat."
 
 Percy patted him on the arm like a grandmother pleased with the works of a younger generation.
 
-It didn't take too long for Hemi to seal Shakes into the _Gnat_ and get it disconnected from the _Prospect_. Though Hemi wanted some help coiling and stowing the heavy jumper wires that were no longer needed, and it took a while to find one of the deck crew to help him.
+It did not take too long for Hemi to seal Shakes into the _Gnat_ and get it disconnected from the _Prospect_. Though Hemi wanted some help coiling and stowing the heavy jumper wires that were no longer needed, and it took a while to find one of the deck crew to help him.
 
 Shakes steered the _Gnat_ further down the docking bay, and got it mated up to slip fifteen. After popping the _Gnat's_ hatch at that slip, he started the process of negotiating with the dock workers for finishing the job of getting the batteries charged up, and refueling the fuel ballast tanks. Pretty soon, the _Gnat_ was gorging on its own set of umbilicals running down through its sail hatch and into its belly.
 
