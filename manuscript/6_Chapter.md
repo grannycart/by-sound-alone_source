@@ -57,13 +57,13 @@ Hemi looked up at Chips from the bridge. "I was not entirely sure you would show
 
 "She could have turned this fuckin' boat over to them. It's not like they would fuckin' execute us. We'd just be fucked back to land for a while. Eventually we could go the fuck back out on some other fuckin' boat --- no fuckin' shortage of need for skilled submariners. There was no fuckin' reason for anyone to die!"
 
-"They fired at us first Chips. Owen was probably hit in the first barrage."
+"They fired at us first, Chips. Owen was probably hit in the first barrage."
 
 "But he wasn't fuckin' dead, was he Hemi? He was not fuckin' dead. And She fuckin' knew it --- we _all_ knew it Hemi. And as soon as we knew it, we should have aborted the fuckin' dive and saved fuckin' Owen!"
 
 "You know she could never turn over this boat like that."
 
-"_That_ is why that's the fuckin' _hard_ call Hemi. That's the actual fucking burden of command." Chips was breathing hard through her nostrils, barely able to keep the binoculars raised, and repeatedly interrupting her scanning arc of the horizon and beginning again. "You're guilty too Hemi Howell. Don't fuckin' think this is all on fuckin' Percy. You could have easily aborted the dive."
+"_That_ is why that's the fuckin' _hard_ call Hemi. That's the actual fucking burden of command." Chips was breathing hard through her nostrils, barely able to keep the binoculars raised, and repeatedly interrupting her scanning arc of the horizon and beginning again. "You're guilty too, Hemi Howell. Don't fuckin' think this is all on fuckin' Percy. You could have easily aborted the dive."
 
 Hemi looked off at the ocean. "But I did not. I made the decision I did in the moment. Aborting the dive did not even occur to me. I did what I was supposed to do as the Deck Boss."
 
@@ -91,7 +91,7 @@ The rapid growth of Stilt City and large volume of trade had brought wealth in, 
 
 Virtually all the trade of Stilt City was done on the open water or on the docks. In many places boats of all sizes were rafted up and people traded goods across the networks of hulls.
 
-As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. Speed was reduced speed to three knots and they crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea down in the depths. 
+As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. Speed was reduced to three knots and they crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea down in the depths. 
 
 Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that swarmed around them. He called maneuvers down through the hatch to Gregory and Bastian who sat at the controls.
 
@@ -137,7 +137,7 @@ Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fa
 
 "Knighted for my prest-ee-jee-ous piloting work. Respect the title, if you please."
 
-"Knighted by whom?" Hemi asked, and letting that pass then proceeded to introduced himself and the others on the bridge before before outlining the issue they were facing. "We were in fact just thinking that we may need some guidance to our dock. Here is our dock number." Hemi handed over a small piece of paper with a long number broken up by dashes on it. "Can you get us there?"
+"Knighted by whom?" Hemi asked, and letting that pass then proceeded to introduce himself and the others on the bridge before outlining the issue they were facing. "We were in fact just thinking that we may need some guidance to our dock. Here is our dock number." Hemi handed over a small piece of paper with a long number broken up by dashes on it. "Can you get us there?"
 
 The man looked it over. "Surely. That's no great fuckin' way from here."
 
@@ -161,7 +161,7 @@ They passed along this channel for a long way, through a more residential area w
 
 Captain Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sir Piero.
 
-"This is a short way," he told her, "we will come out in a larger channel soon, but it is longer around to follow that way all the way from the main channel."
+"This is a short way," he told her, "we will come out in a larger channel soon, but it is longer around to follow that way from the main channel."
 
 The _Prospect_, which so often felt like a small cramped place, suddenly seemed to take on enormous proportions relative to the huts around them. The bow was the length of dozens of huts put together, and from the sail they towered over the low thatched roofs that spread out on either side in a huge field of sprouted homes. The passage they were taking, cutting through the dense huts, reminded Percy of rowing a canoe on clear paths through reed patches in a wetland.
 
@@ -304,7 +304,7 @@ Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat
 
 "How y'all be fuckin' doing?" he asked, while still standing on the deck of the _Gnat_.
 
-"Job completed, and unloading; as you can see," said Percy. "How'd you find us Shakes?"
+"Job completed, and unloading; as you can see," said Percy. "How'd you find us, Shakes?"
 
 "Captain Shakes, if you please. As for finding you: it was fuckin' Herschel of course! Hang on..." He disappeared into the sail and came back up with a little gray puff of feathers in his hand. Once he got his arms up above the sail, he tossed Herschel into the air. Herschel flapped and then flew circles around the _Gnat_ excitedly while Shakes leapt over to the dock to join Hemi and Percy.
 
@@ -312,7 +312,7 @@ Hemi and Percy made their way down to the dock, as Shakes was bringing the _Gnat
 
 "Herschel was a total fucking champ! Found me cruising out in the middle of fucking endless expanse of green water. He gave me your message with the dock number... But Herschel was the easy part. The hard part was finding the dock on the way into Stilt City here. Had to stop and ask people probably a dozen fuckin' times --- and folks around here speak a strange fuckin' mix of languages I don't fuckin' understand, mostly."
 
-"It is good to see you Captain Shakes," said Hemi, "and Herschel. What happened after you left us?"
+"It is good to see you, Captain Shakes," said Hemi, "and Herschel. What happened after you left us?"
 
 "Well, there's not much to fuckin' tell of it, really. I drove the _Gnat_ hard in a sorta random northerly direction --- away from the _Prospect's_ location. Did some weaving back and forth and shit, just in case they fired a torp or something, but kept the fuckin' throttle up the whole time. With the volume of the _Gnat's_ engines, I couldn't really be listening to sonar or anything, so I just kept pinging them every ten minutes or so to see how far behind me they were."
 
@@ -365,7 +365,7 @@ A black shadow had formed, pushing itself between the brown line of the wooden s
 
 "Fuckin' right we do."
 
-They two of them started running up the dock. The length of the rickety dock shook with the landing of each of Hemi's heavy steps. Shakes jumped from the dock to the deck of the _Gnat_ and had the bow line undone and tossed back to the dock in a few seconds.
+The two of them started running up the dock. The length of the rickety dock shook with the landing of each of Hemi's heavy steps. Shakes jumped from the dock to the deck of the _Gnat_ and had the bow line undone and tossed back to the dock in a few seconds.
 
 Hemi was a few strides behind Shakes and was about to turn up the gangway when Shakes called to him. He turned to look, and Shakes was leaning over from the _Gnat_ with both hands cupping a bundle of feathers. "Take Herschel!"
 
@@ -502,7 +502,7 @@ Sir Piero did not reply. He resumed shouting directions down to the control room
 
 Captain Percy did not have nearly as much faith as Sir Piero that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if the warning light came on.
 
-It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sir Piero pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy sunk down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down till it triggered the warning light, and sunk to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
+It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sir Piero pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy tripped down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down till it triggered the warning light, and sank to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
 
 She climbed back up to the bridge with a smile on her face and patted Sir Piero on the back. She was feeling a sense of relief not just from clearing the bar so easily, but also because her intuition about the size and displacement of the sub pursuing them suggested to her that the _Prospect_ might have an opportunity coming.
 
@@ -579,7 +579,7 @@ The pursuing sub was not within visual range. It was possible it had gotten stuc
 
 She focused the periscope forward and spoke without pulling back from the viewfinder. "Hemi, there's a big fuckin' outward bound cargo hauler about a quarter mile up the channel. I think I want to put the _Prospect_ under it, and hide in its shadow until we're well the fuck out."
 
-"It is a dangerous maneuver in these shallow waters Sylvia," said Hemi.
+"It is a dangerous maneuver in these shallow waters, Sylvia," said Hemi.
 
 "That's why I need you on sonar. And their speed is pretty slow --- that will make it a bit safer."
 
@@ -603,7 +603,7 @@ Then a loud active sonar ping pierced through the _Prospect's_ hull.
 
 "Hemi!" Percy called down to sonar, "where the fuck did that come from? Was it them?"
 
-There was a brief silence while Hemi continued listening. Then he called back up to the control room, "the source was roughly a mile back up the river behind us. It must have been the _Grackle_. I do not imagine anyone else has a reason to be sending out pings. They must have guessed we submerged, and decided that if they light up the river with a ping, the only boat underwater would be us."
+There was a brief silence while Hemi continued listening. Then he called back up to the control room, "the source was roughly a mile back up the river behind us. It must have been the _Grackle_. I do not imagine anyone else has a reason to be sending out pings. They must have guessed we submerged, and decided that if they lit up the river with a ping, the only boat underwater would be us."
 
 "Do you think that will work?" Percy asked Hemi.
 
@@ -639,7 +639,7 @@ Percy nodded. "Yeah. With all the fucking pinging they are going to find us unde
 
 "I do not," said Hemi, as another ping hit them. He turned back to his work on the sonar unit.
 
-Percy climbed to the control room. She worked with Gregory on the dive planes and the trim tanks to bring the to boat to a scant two meters off the bottom. She had them slow to two knots to make it less catastrophic if they hit anything --- there was no such thing as a perfect chart. Hemi reported that the cargo ship above was creeping away ahead of the _Prospect_.
+Percy climbed to the control room. She worked with Gregory on the dive planes and the trim tanks to bring the boat to a scant two meters off the bottom. She had them slow to two knots to make it less catastrophic if they hit anything --- there was no such thing as a perfect chart. Hemi reported that the cargo ship above was creeping away ahead of the _Prospect_.
 
 After a few minutes Percy noticed that the regular pings had stopped. "Hemi, what the fuck is going on? No more pings?"
 
@@ -655,7 +655,7 @@ A minute passed. Then the crew in the control room heard low rumblings that came
 
 "Fuckin' depth charges," she said. And when his eyes took on a bit of prey-like fear, she added, "a little fuckin' ways off though."
 
-"The Authority surface ships are dropping charges Sylvia." Hemi confirmed her guess from the sonar compartment.
+"The Authority surface ships are dropping charges, Sylvia." Hemi confirmed her guess from the sonar compartment.
 
 "Ha," said Percy, "we should have thought of this before: it's a known truism that the best way to get out from under the attention of one fuckin' Authority is to sic another Authority on 'em. Bastian, let's take this opportunity to change course. Maybe we will finally be able to lose these fuckers. Come around to something north-ish."
 
@@ -663,7 +663,7 @@ A minute passed. Then the crew in the control room heard low rumblings that came
 
 [//]: # (### They think they are finally sneaking away from the pursuers)
 
-Percy moved down to the sonar station and for the next hour or so Hemi reported charges being dropped in waves, while Percy stood behind him watching the dials of the sonar rig rise and fall with the sounds Hemi and Cassandra were hearing. "It seems like they are dropping charges in a random pattern around the area where the last ping came from an hour ago," Hemi said mapping an image in his head of the rough location of the dozens of explosions he had heard.
+Percy moved down to the sonar station and for the next hour or so Hemi reported charges being dropped in waves, while Percy stood behind him watching the dials of the sonar rig rise and fall with the sounds Hemi and Cassandra were hearing. "It seems like they are dropping charges in a random pattern around the area where the last ping came from an hour ago," Hemi said, mapping an image in his head of the rough location of the dozens of explosions he had heard.
 
 "It could be the _Grackle_ is now hiding on the bottom themselves," Percy replied. "The Stilt City Authority ships probably lost them in that brown muck water from the river outflow, and are hoping a random charge will force them to the surface." 
 
