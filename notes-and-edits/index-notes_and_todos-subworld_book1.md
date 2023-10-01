@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-09-27 21:00
+Last modified: 2023-10-01 12:05
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -24,6 +24,11 @@ Last modified: 2023-09-27 21:00
 	* [completed_second-round_edits](./completed_second-round_edits.md)
 * [Diagrams notes and todos](./notes-on-sub-diagrams)
 	* Notes on sub diagrams and edits to make
+* hagfish-APA-review/
+	* Contains files for Hagfish's APA review.
+	* Generated .docx for them with pandoc: ```pandoc -s --from=markdown ./By-Sound-Alone.md --to=docx -o By-Sound-Alone.docx```
+		* Opened in Libreoffice, did a select-all and applied Arial as typeface to make it more system agnostic.
+		* ```By-Sound-Alone_20231001.docx``` version I sent to them (so no track changes edits)
 
 ## Final production todos
 --------------------------------------------------------------------------------
