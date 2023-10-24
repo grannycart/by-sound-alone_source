@@ -1,6 +1,7 @@
 
 
-
+Email to Julia
+--------------------
 
 Hi Mark,
 
@@ -30,5 +31,30 @@ Please let me know if you have any questions about what I've raised here or in t
 
 All the best,
 Julia
+
+
+And response from me 20231024
+--------------------
+
+Thanks so much Julia!
+
+I think that is the highest quality and most useful feedback I have received from a reader so far. (I guess unsurprisingly, considering you are a professional.) 
+
+I find it satisfying that you apparently got what I was going for. I was somewhat concerned that -- understanding this book strays from your typical genre -- it might have just ended up being a slog for you to work on. Even if you are being paid, it sucks to work on a slog!
+
+Honestly, I'm not sure it's really a genre I would read myself. But I'm not sure I can write the kind of book I would read, and instead ended up writing the kind of book I can write. Despite that, I do kinda love this book, and I do feel like if I could only figure out whose genre this book _is_, then maybe I can find some other readers who might love it too.
+
+I'll spare you responding to all of your points individually. (On first glance, they all look very strong to me.) But a couple of things that maybe bear a comment or two:
+
+    I appreciate that you did not want more details about the world. I really didn't want to write that book. But I have gotten that feedback from more than two readers: "Give more background on the world this is happening in." Honestly, it feels to me like the kind of feedback folks give when they don't know what else to say though, rather than something well-considered. And I wanted to keep it in the submarine, as it were.
+    And maybe you'd be interested to know that I have questions about Percy's character myself. All I can say is that she's derived directly from (many) work relationships I've been in; where a strong leader -- even ones I admire -- are often total dicks to people in day-to-day operations. And I've also had the experience of people who work directly under those leaders being among the effective and understanding people I've encountered in my life. (Which, every time, makes me wonder why THOSE people aren't the leaders and the strong-headed ones relegated to some subordinate post where they can drive people without damaging them.) Certainly for fiction it's normal (and I think easier) to just write a hero, or someone who goes on a journey of growth, or even a clear antihero. But none of those people are people I know in real life. In real life, the people I've known in charge are often extremely competent and admirable for what they achieve while being exploitative and abusive to people who work for them -- and at the same time still want to be and struggle to be decent people. 
+
+
+Anyway, none of that requires a response from you! Just FYI.
+
+But do I need to credit you somehow? What's normal for this kind of work?
+
+Thanks again!
+--Mark
 
 
