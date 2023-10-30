@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-10-01 12:05
+Last modified: 2023-10-29 14:21
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,11 +32,12 @@ Last modified: 2023-10-01 12:05
 
 ## Final production todos
 --------------------------------------------------------------------------------
-* [ ] hire hagfish
-* [.] For next edit pass (do when you apply Hagfish revisions)
-	* [ ] do a run through to catch grammar/spelling errors caught by google docs
+* [ ] after track changes review, go through Hagfish general feedback email and make sure general comments are considered
+* [X] hire hagfish
+* [X] For next edit pass (do when you apply Hagfish revisions)
+	* [X] do a run through to catch grammar/spelling errors caught by google docs
 		* (It seems like if you use the spelling/grammar tool, you get useless things. But the blue squiggly lines on Google Docs does pick up some actual mistakes the Libre office missed (I know I did a spelling run through with Libre Office). Annoying.)
-	* [ ] search for n't (can't didn't wouln't, etc) outside of dialog (there's at least one in the first chapter)
+	* [X] search for n't (can't didn't wouln't, etc) outside of dialog (there's at least one in the first chapter)
 	* [X] remove fuel oil break in first chapter?
 * [X] add how to get on mailing list, how to donate. Somewhere. (maybe very last, inside the back fold)
 	* Though remember you suggested donating to open-source software at the head of the license file.
