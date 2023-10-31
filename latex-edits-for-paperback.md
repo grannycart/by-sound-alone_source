@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2023-09-10 22:12
+Last modified: 2023-10-31 17:58
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -62,7 +62,7 @@ Last modified: 2023-09-10 22:12
 11. Add other matter to pdf:
 	* Gather all the other necessary pdfs into a single directory:
 		* the main compiled pdf
-		* the diagrams
+		* **Don't forget to add the diagrams!**
 		* Extract a blank page (check that page 2 is a blank page, otherwise just find a blank somewhere in the pdf):
 			* pdftk ./Subworldbook1.pdf cat 2 output ./blank-page.pdf
 	* Use pdftk or some other pdf manipulation software to add the diagram pages and other matter to the file. Assemble the final pdf, adding blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
