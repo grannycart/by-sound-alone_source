@@ -186,9 +186,9 @@ There should not be this much water. Now Percy knew exactly what was wrong with 
 
 [//]: # (### Hemi deals with the pursuing sub in the control room)
 
-"Keep this depth, and course, I will be down at sonar listening for that sub." Hemi climbed down from the cramped control room to the compartment below. If he turned and leaned back from the sonar station, he could almost see up into the control room just behind and above him and could still tell the men at the controls of the boat what he wanted them to do. Likewise, Gregory and Bastian could still give him reports on the _Prospect's_ status, albeit with a little more emphasis thrown into their voices so they carried below to Hemi. 
+"Keep this depth, and course, I will be down at sonar listening for that sub." Hemi climbed down from the cramped control room to the compartment below. If he turned and leaned back from the sonar station, he could almost see up into the control room just behind and above him, and could still instruct the men at the controls of the boat. Likewise, Gregory and Bastian could still give him reports on the _Prospect's_ status, albeit with a little more emphasis thrown into their voices so they carried below to Hemi. 
 
-Hemi did not bother sitting down at the sonar station. Instead, he stood behind the empty sonar operator's chair and slipped the headphones with the worn ear-pads onto his head. He covered one ear and left the other free. He spun the control wheel for the sonar around slowly, listening for human sounds out in the malevolent underwater darkness of the ocean. There was nothing but silence.
+Hemi did not bother sitting down at the sonar station. Instead, he stood behind the empty sonar operator's chair and slipped the headphones with the worn ear-pads onto his head, covering one ear. He spun the control wheel for the sonar slowly, listening for human sounds out in the malevolent underwater darkness. There was nothing but silence.
 
 "Hemi," Gregory called down through the hatch, "I'm having trouble keeping the boat level. I find I keep having to give it more and more upward dive plane angle just to keep from gaining depth."
 
@@ -196,26 +196,26 @@ Hemi did not bother sitting down at the sonar station. Instead, he stood behind 
 
 "Better, but still quite a bit more dive plane angle than I would expect just to keep the boat level," said Gregory.
 
-Hemi did not say out loud what he was thinking: they were sinking.
+Hemi did not say what he was thinking: that they were sinking.
   
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Captain Percy goes to recruit Chips to help fix the leak)
 
-"Sweet fucking hell," Percy said to herself. "Sweet fucking hell!" she repeated at a yell. She ran up the length of the cargo hold, her clomping boot steps echoing in the empty space. Back in the battery compartments, she pulled the heavy watertight bulkhead closed behind her with a loud metal-on-metal sound, and turned the wheel to seal the cargo hold. It took all her strength; the screw-wheel seals in this part of the sub were rarely used, and they were planting themselves ever more firmly into a rusted stasis as time passed.
+"Sweet fucking hell," Percy said to herself. "Sweet fucking hell!" she repeated at a yell. She ran up the length of the cargo hold, her clomping boot steps echoing in the empty space. Back in the battery compartments, she pulled the heavy watertight bulkhead closed behind her with a loud metal-on-metal sound and turned the wheel to seal the cargo hold. It took all her strength; the screw-wheel seals in this part of the sub were rarely used, and they were planting themselves ever more firmly into a rusted stasis with the passing of time.
 
-She climbed up a deck, and passed out from the back of crew quarters, through the galley, and into the engine room. The only sound there was the throb of the electric motors spinning in the next compartment back, and a randomized clanking of tools from the deck below. She leaned over the open hatch to the lower engine room.
+She climbed up a deck and crossed from the back of crew quarters, through the galley, and into the engine room. The only sounds there were the throb of the electric motors spinning in the next compartment, and a randomized clanking of tools from the deck below. She leaned over the open hatch to the lower engine room.
 
 "Chips! Chips, come over here."
 
-The clanking sound stopped and the face of the _Prospect's_ engineer appeared below the opening a moment later, peering up at her. Chips hands were black with grease that had also created a grimy patch on the leather apron she wore. In her hands, as if she had been butchering some small game animal for dinner, she held the shell of a deconstructed piece of machinery about the size of a baseball.
+The clanking sound stopped and the face of the _Prospect's_ engineer appeared below the opening a moment later, peering up at her. Chips's hands were black with grease that had also created a grimy patch on the leather apron she wore. In her hands, as if she had been butchering some small game animal for dinner, she held the shell of a deconstructed piece of machinery about the size of a baseball.
 
-Percy recalled that Chips' real name was Irene something-or-other, but Hemi had stuck her with the nickname "Chips" when she had signed on. According to Hemi, "Chips" was the traditional nickname for a ship's carpenter going back to antiquity. And even though there was little carpentry to be done on a submarine, the ship's carpenter was generally responsible for any number of random jobs that needed to be done but were not already assigned to the deck crew. When she had first come aboard, Hemi had such a list of things that needed doing on the _Prospect_ that he felt the name was appropriate to the new position. Also, he had always wanted a "Chips" on the boat --- he was a fan of the classics.
+Chips's real name was Irene something-or-other, but Hemi had stuck her with the nickname "Chips" when she had signed on. According to Hemi, "Chips" was the traditional nickname for a ship's carpenter, going back to antiquity. And even though there was little carpentry to be done on a submarine, the ship's carpenter was generally responsible for any number of random jobs that were not already assigned to the deck crew. When she had first come aboard, Hemi had such a list of things that needed doing on the _Prospect_ that he felt the name was appropriate to the new position. Also, he had always wanted a "Chips" on the boat --- he was a fan of the classics.
 
 "What the fuck is going on Percy?" Chips asked.
 
-"There's a leak." These were words no submariner ever wanted to hear. But Chips had fixed leaks before. It was the answer to the next question that Captain Percy was loath to give her.
+"There's a leak." These were words no submariner ever wanted to hear. But Chips had fixed leaks before. It would be the answer to Chips's next question that Captain Percy was loath to give her.
 
 "I was wondering when one of you assholes would make their way down here and tell me that the fuck's with all the fucked motions of the boat. Where are we leaking?"
 
@@ -225,21 +225,21 @@ Percy recalled that Chips' real name was Irene something-or-other, but Hemi had 
 
 "Ah, pretty... fucking bad. An Authority sub rammed us on the surface, apparently split open the pressure hull."
 
-"Split it... in the fucking cargo hold you said? So then we're fuckin' fucked, eh? Haven't I always fucking said that cargo hold's too fucking big, and it should have bulkheads? The fucking boat won't float if it's flooded; eh, Capt' Percy? That's what you're fuckin' thinking right now, ain't it? You probably didn't want to even fucking tell me because you know that we're fuckin' fucked!" She threw her piece of machinery at the wall where the loosely-held assembly separated and sent small parts flying far into the black corners of the lower engine room.
+"Split it... in the fucking cargo hold, you said? So then we're fuckin' fucked, eh? Haven't I always fucking said that cargo hold's too fucking big, and it should have bulkheads? The fucking boat won't float if it's flooded, eh, Capt' Percy? That's what you're fuckin' thinking right now, ain't it? You probably didn't want to even fucking tell me because you know that we're fuckin' fucked!" She threw her piece of machinery at the wall, where the loose assembly separated and sent small parts flying far into the black corners of the lower engine room.
 
-"For fuck's sake Chips, yes we're fucked, but we're not _fuckin'_ fucked, not yet... I need you to take one of the guys, go in there, and see if you can stop it and patch it so we don't get to the point where we _are_ fuckin' fucked. Right?"
+"For fuck's sake Chips, yes, we're fucked, but we're not _fuckin'_ fucked, not yet... I need you to take one of the guys, go in there, and see if you can stop it and patch it so we don't get to the point where we _are_ fuckin' fucked. Right?"
 
-"Ah, fuck ya Capt'." Chips started climbing up the ladder towards Percy without looking at her.
+"Ah, fuck ya, Capt'." Chips started climbing up the ladder towards Percy without looking at her.
 
-"You and your attitude! Listen to me," Percy held her arm, "good or bad, I need regular reports. Get Owen up and get him helping you."
+"Your fucking attitude! Listen to me," Percy held her arm. "Good or bad, I need regular reports. Get Owen up and get him helping you."
 
-Chips wrenched her arm free. "A- fuckin'- OK." She gave Percy a mock salute and pushed past to enter the upper engine room.
+Chips wrenched her arm free. "A-fuckin'-OK." She gave Percy a mock salute and pushed past toward the upper engine room.
 
 Captain Percy left Chips digging out hull patch kits from engineering storage compartments and returned to the control room.
 
 Gregory's square head came around and his beady eyes caught hers as her head popped up through the hatch in the floor of the control room. "Wish we had something to shoot at those fuckers who rammed us."
 
-"Someday, you handsome young man, I'll refit the _Prospect_ as the first merchant sub with a torpedo tube --- just for you. Until then, our defense is the same as any prey animal: run and hide."
+"Someday, you handsome young man, I'll refit the _Prospect_ as the first merchant sub with a torpedo tube --- just for you. Until then, our defense is the same as any prey animal's: run and hide."
 
 "If you are back in the control room for the moment," said Hemi, "I will go down to sonar to work on tracking that sub with the ram's location. And how is our boat? Holding up?"
 
@@ -253,21 +253,21 @@ Captain Percy stepped off the control room ladder and yielded it to Hemi on his 
 
 "Apparently we're fucking sinking," Gregory answered. 
 
-"Fucking apparently..." she agreed. She scanned the gauges. There was nothing immediate in their impending doom. It was written instead in subtle ways, spread across the dials, and only when the readings of the dials were taken altogether. The dive plane angle was too steep for the amount of forward drive they were giving the boat. The trim tanks too light. The depth deeper than she wanted to be.
+"Fucking apparently..." she agreed. She scanned the gauges. There was nothing immediate to announce their impending doom. It was written instead in subtle ways, spread across the dials, and only when the readings of the dials were taken together. The dive plane angle was too steep for the amount of forward drive they were giving the boat. The trim tanks too light. The depth deeper than she wanted.
 
 "Since that sub is going to know where we are anyway, you might as well crank the bilge pumps up to maximum power. Making a bunch of noise is better than sinking."
 
-Gregory flipped some switches and another frequency of vibration was added to the regular background hum from the motors propelling the boat. 
+Gregory flipped some switches and another frequency of vibration was added to the regular background hum from the motors. 
 
-Percy lit a cigarillo from the rapidly-depleting pack in her pocket and smoked it down, letting her mind sink into the ever-present hum of the machines that swamped her environment and ruminating on the gauges. "How's she handling generally?"
+Percy lit a cigarillo from the rapidly depleting pack in her pocket and smoked it down, letting her mind sink into the ever-present hum of the machines that swamped her environment, ruminating on the gauges. "How's she handling, generally?"
 
-"The boat just doesn't seem fucking normal Cap. It doesn't respond how I want it to," said Bastian.
+"The boat just doesn't seem fucking normal, Cap. It doesn't respond how I want it to," said Bastian.
 
 "Here, let me try the rudder." She reached over him and turned the wheel hard over. The _Prospect_ came about slowly but surely, leaning over slightly, as she should. But after a short delay the whole boat took on a sudden heavy list. Percy counter-steered and brought the _Prospect_ back to the course they had been on.
 
 "See? That doesn't seem quite fuckin' OK to me," said Bastian.
 
-Captain Percy knew it was worse than that. The sharp list after the delay was the weight of the slack water in the bilge pouring over to one side of the boat and dragging the rest of the boat over with the weight of its movement.
+Captain Percy knew it was worse than that. The sharp list after the delay was the weight of the slack water in the bilge pouring over to one side and dragging the rest of the boat over with the weight of its movement.
 
 [//]: # (----- invisible character break)
  
