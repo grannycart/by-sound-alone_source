@@ -387,33 +387,33 @@ Owen looked at Gregory with a specific question on his face, but asked a differe
 
 [//]: # (### Percy decides to head for the bottom)
 
-Captain Percy was running out of ideas. It was easy to make the decision to get to the surface at any cost while there still remained some levers to pull and options to choose between. But now nothing remained that she could think of that could move them upwards. 
+Captain Percy was running out of ideas. It was easy to make the decision to get to the surface at any cost while there still remained some levers to pull and options to choose between. But now there was nothing she could think of that could move them upward. 
 
-She cleared her mind. The surface was less than 100 meters away --- there were people who could throw a ball that distance. The surface was not her natural environment anyway. Up there was war, borderlines, treaties, enforcers and Authorities. Up there was conflict, nations, and bureaucracy. Under the dark water was where she belonged. Where she could steer her boat in whatever direction she chose, free to go where she liked, when she liked. This was a virtue of being able to move along the Z axis --- something only available to submarines. It provided an exponentially larger amount of room to maneuver. Still, she had no desire to die down here. And no matter how safe and free she felt underwater, there was always that yawning gulf underneath. A dark, cold, bottomless chasm. Once you go _too_ far under, you go under forever. She enjoyed her freedom, but she did not want to wallow in its icy depths.
+She cleared her mind. The surface was less than a hundred meters away --- there were people who could throw a ball that distance. The surface was not her natural environment anyway. Up there was war, borderlines, treaties, enforcers, and Authorities. Up there was conflict, nations, and bureaucracy. Under the dark water was where she belonged. Where she could steer her boat in whatever direction she chose, free to go where she liked, when she liked. This was a virtue of being able to move along the Z axis --- something only available to submarines. It provided an exponentially larger amount of room to maneuver. Still, she had no desire to die down here. And no matter how safe and free she felt underwater, there was always that yawning gulf underneath. A dark, cold, bottomless chasm. Once you go _too_ far under, you go under forever. She enjoyed her freedom, but she did not want to wallow in its icy depths.
 
 She put the idea of the surface aside. What if she did look under the dark water instead of up toward the surface light? What was down there in the abyss? What if they could find safety in the deep?
 
 "Hemi, how far down is the bottom where we are now?"
 
-"1000 meters, give or take. Essentially bottomless."
+"One thousand meters, give or take. Essentially bottomless."
 
 "Hmm." She slipped down the ladder from the control room and stepped forward to the navigation table located just behind the sonar operator's station.
 
-The navigation station sat on top of a stack of flat files which held charts that were not of immediate use. Behind the flat files, rolls of charts that were more commonly used were stacked between upright stakes. When they had the white lights on, the charts showed their age, yellowed and flaking at the edges.
+The navigation station sat on top of a stack of flat files containing charts that were not of immediate use. Behind the flat files, rolls of more commonly-used charts were stacked between upright stakes. With the white lights on, the charts showed their age, yellowed and flaking at the edges.
 
-Hemi had the _Prospect's_ current position marked with a grease pencil on a glass sheet laying over the chart that showed the region of the ocean they were moving through. The black smudges trailed up away from the shoreline they had left days before. They were in the middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. 
+Hemi had marked the _Prospect's_ current position on a glass sheet laying over the chart that showed the region of the ocean they were moving through. The black smudges of grease pencil trailed up away from the shoreline they had left days before. They were in the middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. 
 
 She pulled down a magnifier that hung from the ceiling by a retractable line. She looked closely at the grease markings on the chart, and the depth markings around them. "Hemi... come down here." 
 
-Hemi's bulk eased down the ladder from the control room a moment later. She pointed to a spot on the chart. "Figure out how to get us here --- assuming we can hold the boat over the pit and squeeze every last watt from our batteries."
+Hemi's bulk eased down the ladder from the control room. She pointed to a spot on the chart. "Figure out how to get us here --- assuming we can hold the boat over the pit and squeeze every last watt from our batteries."
 
-Hemi peered through the magnifier at the chart, then pulled his slide rule from his pocket. He made some adjustments and some marks with the grease pencil on the glass. He touched his fingertips with the point of the pencil while muttering some numbers out loud. "It is too close to call, mathematically. I can not say if it is possible."
+Hemi peered through the magnifier at the chart, then pulled his slide rule from his pocket. He made some adjustments and marks with the grease pencil on the glass. He touched his fingertips with the point of the pencil while muttering some numbers out loud. "It is too close to call, mathematically. I cannot say if it is possible."
 
 "If we can't do it, it's a fucking long way to the bottom."
 
-"If I spend some time tracking our exact depth, speed, battery status, and most importantly how quickly we are gaining depth, then I can get a sense of our rate of, um... decline. I would then be better able to tell you what our chances are. I need a short span of time to do that."
+"If I spend some time tracking our exact depth, speed, battery status, and most importantly how quickly we are gaining depth, then I can get a sense of our rate of, um...decline. I would then be better able to tell you what our chances are. I need a short span of time to do that."
 
-"No chances Hemi. I just want you to figure out how to make those numbers add up so we can find the bottom with the boat intact, and not a mile under water." She ascended to the control room.
+"I don't want chances Hemi. I just want you to figure out how to make those numbers add up so we can find the bottom with the boat intact, and not a mile under water." She ascended to the control room.
 
 [//]: # (----- invisible character break)
  
@@ -422,9 +422,9 @@ Hemi peered through the magnifier at the chart, then pulled his slide rule from 
 
 Captain Percy gave Bastian and Gregory a new heading, and Bastian brought the sub limping around to it by gingerly applying some rudder. 
 
-"You guys have to do everything you can to keep us up," she told the two men at the controls, "like gliding an airplane with a stalled engine. And I want to creep out of here. If we go too fast those fuckers above will hear us and know we are still moving. If we are slow and silent, they might just assume we disappeared down into the hole. Give us three knots forward speed Bastian."
+"You guys have to do everything you can to keep us up," she told the two men at the controls. "Like gliding an airplane with a stalled engine. And I want to creep out of here. If we go too fast those fuckers above will hear us and know we are still moving. If we are slow and silent, they might just assume we disappeared down into the hole. Give us three knots forward speed Bastian."
 
-His long arm moved the throttle controls forward until the speed needle hovered a few hashes above its zero pin, indicating three knots. He withdrew his hands from the controls and attempted to lean his body back in the stiff control seat. He pulled a cigarette from a pack sitting next to the throttle control and put it to his lips and lit it.
+His long arm moved the throttle controls forward until the speed needle hovered a few hashes above its zero pin, indicating three knots. He withdrew his hands from the controls and attempted to lean his body back in the stiff control seat. He pulled a cigarette from a pack sitting next to the throttle control, put it to his lips, and lit it.
 
 "Hey Gregory, you ever think about what the fuck it must be like when a submarine goes down?"
 
@@ -432,19 +432,19 @@ Gregory glanced at Bastian quickly, but returned his eyes to the controls.
 
 "Seriously," Bastian continued in his droning quiet voice. "Fuck. The worst thing about submarining is if something goes wrong, it usually isn't a fast death. Like, in an airplane, something goes wrong, you're gonna splat against a fucking mountain in a matter of minutes --- that's if you don't get blown to pieces at 30,000 feet in the first place. Or on a surface ship, if the thing capsizes, you'll drown in minutes. But on a sub, you usually know your fate long before it comes for you."
 
-"Shut the fuck up Bastian."
+"Shut the fuck up, Bastian."
 
-"It's important to be ready for this stuff Gregory! You gotta steel your mind, desensitize yourself to the possibility. Otherwise, you'll be fucking panicking when the time comes." Bastian put a reassuring hand on Gregory's shoulder and sucked at his cigarette. "But that is the fucking horror of a sub. We watch these dials in front of us all day and night, right? Those gauges have our fate encoded on them. Or, at least the fate of the _Prospect_. But at some point --- maybe not so far off --- the fate written on those dials might include our end." Bastian tapped a long finger on the depth gauge. "The dials are where we'll see it first. We will be looking at them, and the arrangement will slip, just a few ticks probably on just a few dials, but there it will be --- our damnation. And we'll know, every last one of us, and there will probably be fucking shit-all we can do about it."
+"It's important to be ready for this stuff Gregory! You gotta steel your mind, desensitize yourself to the possibility. Otherwise, you'll be fucking panicking when the time comes." Bastian put a reassuring hand on Gregory's shoulder and sucked at his cigarette. "But that is the fucking horror of a sub. We watch these dials in front of us all day and night, right? Those gauges have our fate encoded on them. Or at least the fate of the _Prospect_. But at some point --- maybe not so far off --- the fate written on those dials might include our end." Bastian tapped a long finger on the depth gauge. "The dials are where we'll see it first. We will be looking at them, and the arrangement will slip, just a few ticks, probably, on just a few dials, but there it will be --- our damnation. And we'll know, every last one of us, and there will probably be fucking shit-all we can do about it."
 
 "But your stupid fucking point is that it takes a long time on a sub..."
 
-"It takes a long time. From the moment we read it off the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_, it would still take the better part of a hour. And we'll be hearing the last throes of the boat the whole way down --- the groans of the hull, the creaking supports, the collapsing trim tanks... I like to think the final failure, the big one that sends the wall of water through the boat that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you --- that last failure; I like to think it will be silent. I like the idea that the last thing we will hear is rushing water. Somehow that's a fucking comfort to me."
+"It takes a long time. From the moment we read it off the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_, it would still take the better part of a hour. And we'll be hearing the last throes of the boat the whole way down --- the groans of the hull, the creaking supports, the collapsing trim tanks...I like to think the final failure, the big one that sends the wall of water through the boat that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you --- that last failure, I like to think it will be silent. I like the idea that the last thing we will hear is rushing water. Somehow that's a fucking comfort to me."
 
-"You are a motherfucker Bastian."
+"You are a motherfucker, Bastian."
 
-"This is _your_ lifestyle too Gregory. You should accept it instead of being afraid of it. Because having your skull caved in against the hull is the _good_ way to die on a sub. Un-fucking-fortunately, these boats are way stronger than the engineers give them credit for --- sure the boat might get too deep, we might lose control of it, might sink to the bottom mostly filled with water... But you might also get lucky --- lucky enough to end up in a compartment that holds on to its precious bubble of air. And then you'll sit in that compartment for days, maybe even more than a week, sucking up the last of your breathable oxygen. And there's nothing to do but stare at the dark, waiting to die."
+"This is _your_ lifestyle too, Gregory. You should accept it instead of being afraid of it. Because having your skull caved in against the hull is the _good_ way to die on a sub. Un-fucking-fortunately, these boats are way stronger than the engineers give them credit for --- sure, the boat might get too deep, we might lose control of it, might sink to the bottom mostly filled with water... But you might also get lucky --- lucky enough to end up in a compartment that holds on to its precious bubble of air. And then you'll sit in that compartment for days, maybe even more than a week, sucking up the last of your breathable oxygen. And there's nothing to do but stare at the dark, waiting to die."
 
-"Damn you Bastian! Shut the fuck up!"
+"Damn you, Bastian! Shut the fuck up!"
 
 "Bastian, lay off," said Percy. "No submariner is required to contemplate the worst possible scenarios if they don't fucking want to."
 
@@ -455,27 +455,27 @@ Bastian grinned and sucked at the last of his cigarette before stabbing it out i
 
 [//]: # (### staring at dials: depth vs the tablemount)
 
-"OK," Percy said to herself, "The only thing that matters right now: how fast are we sinking?"
+"OK," Percy said to herself. "The only thing that matters right now: how fast are we sinking?"
 
-Figuring this out required nothing more than reading their fate from the wall of dials and gauges in front of them, with their spindly little black fingers all creeping slowly one way or another depending on what each particular gauge was tasked with monitoring. The individual parts the dials had to play all came together in a symphony that marked time towards some unknown end. It could be their doom, as Bastian had been saying, but Percy preferred to leave the end result as an unknown. She just needed to know the _rate_ they were headed towards doom.
+Figuring this out required nothing more than reading their fate from the wall of dials and gauges in front of them, with their spindly little black fingers all creeping slowly one way or another, depending on what each was tasked with monitoring. The individual parts the dials had to play all came together in a symphony that marked time toward some unknown end. It could be their doom, as Bastian had been saying, but Percy preferred to leave the end result as an unknown. She just needed to know the _rate_ at which they were headed toward it.
 
 Each gauge represented a variable in the equation that controlled whether they lived or died: speed, battery charge, battery drain rate, the status of the trim tanks, course, rudder, ship angle, dive plane angle... Every metric mattered, but as in every equation, some variables weighed more than others. The two that mattered most to Captain Percy were the depth-of-ship gauge --- which featured in most submarine maneuvers --- and the depth-under-keel, which told them how far below the ocean bottom was. It rarely factored into a submarine maneuver, at least in the deep ocean.
 
-The depth of the boat was slowly, slowly increasing. Percy stared at the black line of the needle on the dial, and willed it to stay still. She was pretty sure Gregory and Bastian were doing the same. But it never stopped its shaky wavering, and it persistently made gains towards the deep end of the dial. It had already crept three quarters of the way around --- on a dial that was graduated in such a way that the far end, where its tiny steel bounding needle poked up, was theoretically beyond the capabilities of what the boat could survive. If the needle ever tapped that pin, no one would be alive to see it happen.
+The depth of the boat was slowly, slowly increasing. Percy stared at the black line of the needle on the dial and willed it to stay still. She was pretty sure Gregory and Bastian were doing the same. But it never stopped its shaky wavering, and it persistently made gains towards the deep end of the dial. It had already crept three quarters of the way around --- on a dial that was graduated in such a way that the far end, where its tiny steel bounding needle poked up, was theoretically deeper than the boat could survive. If the needle ever tapped that pin, no one would be alive to see it happen.
 
 They had watched the needle's traverse the way one might track a long journey on a map. It seemed they had traveled interminably far to get where they were now, and they looked back at the three quarters of the dial they had passed the way one remembers days and days on the road in a long cross-country journey. 
 
-The even more critical gauge at the moment was that depth-under-keel gauge. The sonic instrumentation that fed that gauge had a limit to its sensitivity. It could show the depth of the bottom far beyond what the submarine was capable of, but nowhere near the actual depths of the deep ocean. At the far end of that dial, its bounding pin was labeled in an ancient sailing tradition: "Bottomless." 
+The even more critical gauge at the moment was that depth-under-keel gauge. The sonic instrumentation that fed that gauge had a limit to its sensitivity. It could show the depth of the bottom far beyond what the submarine was capable of reaching, but nowhere near the actual depths of the deep ocean. At the far end of that dial, the bounding pin of this gauge was labeled according to ancient sailing tradition: "Bottomless." 
 
-And it did not matter that somewhere down there might be an actual bottom. For this sub, for their pursuing sub, for any submarine that Captain Percy had ever heard about, the deep ocean was in all practical ways a never-ending hole. Anyone who went down there would never find a bottom, and could never come back up. They each lived much of their submariner lives floating on delicate bubbles of gas over that dark hole that never ceased in its efforts to suck them down. The needle of the depth-under-keel dial had been pegged at "Bottomless" for days now as they had been crossing deep ocean.
+And it did not matter that somewhere down there might be an actual bottom. For this sub, for their pursuing sub, for any submarine that Captain Percy had ever heard about, the deep ocean was in all practical ways a never-ending hole. Anyone who went down there would never find a bottom and could never come back up. They each lived much of their submariner lives floating on delicate bubbles of gas over that dark hole, which never ceased in its efforts to suck them down. The needle of the depth-under-keel dial had been pegged at "Bottomless" for days now as they had been crossing deep ocean.
 
-Hemi came up through the hatch into the control room with a clipboard and a pencil, and leaned over the glowing red dials, raising the tiny lenses of his glasses with his fingers to bring them into sharper focus. He jotted readings off the dials onto his clipboard. 
+Hemi came up into the control room with a clipboard and a pencil and leaned over the glowing red dials, raising the tiny lenses of his glasses with his fingers to bring them into sharper focus. He jotted readings off the dials onto his clipboard. 
 
 Captain Percy fished her hand around among the joists that supported the pressure hull wall, and found a rumpled pack of cigarillos. She shook one out and lit it. "Are we going to make it Hemi?"
 
-"It is razor work Sylvia. Numbers slide past numbers, and a decimal point worth of difference changes our fate. And if the numbers _do_ work out in our favor, there is no way to say whether --- should your plan succeed initially --- it does not simply perpetrate the complete failure of the pressure hull and leave us permanently on the bottom regardless."
+"It is razor work, Sylvia. Numbers slide past numbers, and a decimal point worth of difference changes our fate. And even if the numbers _do_ work out in our favor, there is no way to say whether --- should your plan succeed initially --- it simply perpetrates the complete failure of the pressure hull and leaves us permanently on the bottom regardless."
 
-Percy sucked slowly on her cigarillo as she parsed Hemi's assessment. "What you are really saying is that even though it looks fucking hopeless there is still a goddamn chance."
+Percy sucked slowly on her cigarillo as she parsed Hemi's assessment. "What you are really saying is that even though it looks fucking hopeless, there is still a goddamn chance."
 
 "There is distinctly a chance, Sylvia."
 
@@ -487,7 +487,7 @@ For hours, Percy blearily followed the tiny needles as she sucked down one cigar
 
 Captain Percy's eyes wandered back and forth from the clock to their depth, to the battery-remaining, to the depth-under-keel gauge. Their depth and battery were squeezing hard up against the time they had remaining. She stared at the depth-under-keel needle and summoned all the superstitious powers of the universe to move the needle up off the "Bottomless" pin.
 
-For a moment she thought she saw the needle writhe, like the flash of a small bait fish seen catching the sun in a shallow pool of water. But with more sharply focused eyes, the needle remained sitting comfortably on the "Bottomless" pin.
+For a moment she thought she saw the needle writhe, like the flash of a small bait fish seen catching the sun in a shallow pool of water. But under more sharply focused eyes, the needle remained sitting comfortably on the "Bottomless" pin.
 
 She stood and took a rag from a hook and reached over Gregory to wipe the condensing droplets of water off the glass of the gauge, then circled around the aging pitted chrome casing for good measure. She could feel the little spots of rust and degrading metal catching against the fibers of the rag. She tapped the glass with her finger.
 
@@ -499,25 +499,25 @@ But the depth-under-keel needle moved again, rising up and falling back, like a 
 
 "Captain," said Bastian, his eyes on the depth-under-keel gauge, "the bottom seems to be coming up."
 
-Captain Percy reached above her head for a strap, "drive boys, drive." The sea floor was moving towards them, but still far, far below. So far below that if the boat went down now the _Prospect_ would be crushed into nothing but a greasy stain on that bottom. But it was at least a measurable distance now instead of the unknowable nothingness of the hole.
+Captain Percy reached above her head for a strap. "Drive boys, drive." The sea floor was moving towards them, but was still far, far below. So far below that if the boat went down now, the _Prospect_ would be crushed into nothing but a greasy stain on that bottom. But at least now it was a measurable distance instead of the unknowable nothingness of the hole.
 
-Minutes later the depth-under-keel gauge started rising steadily, as if with intention. It gave the impression that they were moving quickly, though in fact their forward speed remained the same steady crawl, while the slope of the bottom had drastically increased. It was rising under them --- a sheer undersea mountain wall. The needle accelerated to show a shockingly quick lift in the sea floor, in such a way to give the impression they were about to smack into a mountainside --- from where they would slide helplessly down into the dark pit. Instead, the depth gauge needle rolled hard to the left and then rose back to show they had about ten meters to the bottom. It remained hovering at that level.
+Minutes later the depth-under-keel gauge started rising steadily, as if with intention. It gave the impression that they were moving quickly, though in fact their forward speed remained the same steady crawl, while the slope of the bottom had drastically increased. It was rising under them --- a sheer undersea mountain wall. The needle accelerated to show a shockingly quick lift in the sea floor, threatening the possibility that they were about to smack into a mountainside --- from where they would slide helplessly down into the dark pit. Instead, the depth gauge needle rolled hard to the left and then rose back to show they were about ten meters from the bottom. It remained hovering at that level.
 
-"OK Gregory, now the stupid part: give me a gentle dive plane down angle," Percy said quietly.
+"OK, Gregory, now the stupid part: give me a gentle dive plane down angle," Percy said quietly.
 
 "You want to go _down_?"
 
-"Down Gregory. Right now. Take us to the sea floor."
+"Down, Gregory. Right now. Take us to the sea floor."
 
 The dive plane wheel, the steel shiny from the grip of many hands over the years, slipped through Gregory's thick fingers. The bow of the boat eased downwards. Captain Percy pressed the collision alarm button and a klaxon blared through the ship. She pulled the boat PA mic down from the array of radio mics whose cords swayed just above her head and pressed the talk button. "Chips: leave the leak. You and Owen get out of the cargo hold. Seal the bulkheads behind you. We're going to bottom the boat, and there's a reasonable chance it will split our wounded hull there wide open."
 
-At the sound of the collision alarm Hemi came up through the hatch. His eyes passed over the gauges, taking in their situation. "Gently Gregory," he almost whispered.
+At the sound of the collision alarm Hemi came up through the hatch. His eyes passed over the gauges, taking in their situation. "Gently, Gregory," he almost whispered.
 
-"Yes gently," followed up Percy, "as gentle as you've ever been, like you're laying down a fevered child. Bastian, disengage the motor. Let's use only what's left of our forward momentum, and let our leaking boat take us down in whatever way she wants to."
+"Yes, gently," added Percy, "as gentle as you've ever been, like you're laying down a fevered child. Bastian, disengage the motor. Let's use only what's left of our forward momentum, and let our leaking boat take us down in whatever way she wants to."
 
 Slowly, slowly, the depth gauge needle rotated to the right as the boat sank. And equally slowly, the depth-under-keel gauge turned to the left as the bottom rose. The depth gauge showed 248 meters. The depth-under-keel gauge came to rest on its other limit pin, labeled '0'. An alarm sounded, but only for a brief chirp because Hemi had been expecting it and had been holding his finger on the button to silence it. The whole of the _Prospect_ trembled as the bow touched the bottom. Captain Percy felt the slight angle under her feet relax as the stern came down slowly to rest on the bottom as well.
 
-"Fuck me," said Bastian, "248 meters down, on the bottom. An undersea mountain. And we've landed on the top, like some damned Noah crashing his ark into fucking Ararat."
+"Fuck me," said Bastian. "Two hundred and forty-eight meters down, on the bottom. An undersea mountain. And we've landed on the top, like some damned version of Noah crashing his ark into fucking Ararat."
 
 "Technically a tablemount," said Hemi. "A relatively flat surface worn down from an ancient volcano. And yes, if you like, very much an antediluvian feature of the sea floor."
 
@@ -529,7 +529,7 @@ Gregory glanced at Bastian with a dark look in his eyes.
 
 "...Regardless of the amount of time we need to spend here, being bottomed has the added bonus of rendering us nearly undetectable to active sonar. If the sub that rammed us is still searching for us, we will blend in with the bottom. They will likely assume we sank," observed Hemi.
 
-"We _did_ fucking sink Boss," said Bastian. "And I would not be the one to correct their potential thought that they will never see us rise to the surface again."
+"We _did_ fucking sink, Boss," said Bastian. "And I would not be the one to correct their potential thought that they will never see us rise to the surface again."
 
 It was time for Captain Percy to survey the damage. She got on the ship PA and told Chips to meet her at the entrance to the cargo hold.
 
