@@ -703,6 +703,6 @@ Hemi was steering Chips toward the hatch down out of the control room. He had to
 
 "I need it more than anyone, but you don't see me swinging pipes at people."
 
-Hemi nodded quietly. But he knew Chips was right on two counts: blowing the trim tanks without warning was incredibly dangerous. And they would never get to a port without Chips' continuous help to patch the leaking hull.
+Hemi nodded quietly. But he knew Chips was right on two counts: blowing the trim tanks without warning was incredibly dangerous. And they would never get to a port without Chips's continuous help to patch the leaking hull.
 
 
