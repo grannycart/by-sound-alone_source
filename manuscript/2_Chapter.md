@@ -280,31 +280,31 @@ Percy gave Bastian a pull on the sleeve, and he tossed a smoked-out butt into th
 
 "It's certainly a masterpiece of the genre," replied Hemi, even more evenly than usual.
 
-Hemi had spent nearly his entire life among and inside filthy machines, but he had never seen anything where the grime lay down quite as thickly as this. There was literal garbage all over the deck: empty cans, candy wrappers, and various greasy machine parts all rolled back and forth with the swell. A big open tin that had once contained herring served as an ashtray but seemed like it had not been used for ash but merely as a target to toss used butts at --- most of which had missed and lay scattered about. 
+Hemi had spent nearly his entire life among and inside filthy machines, but he had never seen anything where the grime lay down quite as thickly as this. There was literal garbage all over the deck; empty cans, candy wrappers, and various greasy machine parts all rolled back and forth with the swell. A big empty herring tin seemed intended to serve as an ashtray, but apparently had been used mostly as a target for used butts --- most of which had missed and lay scattered about. 
 
-There were stacks of pornography --- Shakes had not bothered to hide any of it. Or at least Hemi hoped that was true, because the stacks on display were of a class so deviant that Hemi could not imagine what Shakes would have deigned to feel needed hiding.
+There were stacks of pornography --- Shakes had not bothered to hide any of it. Or at least Hemi hoped that was true, because the stacks on display were of a class so deviant that Hemi could not imagine what Shakes would have found in need of hiding.
 
-In one space, recessed between the supports of the pressure hull, were columns of food cans still unopened. The labels had been peeled off and the contents written on them in grease pencil. Most appeared to be of some variety of highly-salted pasta-and-sauce. In another recess was a bin with what must have been a hundred different types of puzzle games that all had the basic premise of requiring squares of color to be sorted alike. Every single last puzzle was solved. 
+In one space, recessed between the supports of the pressure hull, were columns of still unopened food cans. The labels had been peeled off and the contents written on them in grease pencil. Most appeared to contain some variety of highly salted pasta-and-sauce. In another recess was a bin with what must have been a hundred different types of puzzle games that all had the basic premise of requiring squares of the same color to be sorted alike. Every last puzzle was solved. 
 
 [//]: # (Shakes is some kind of idiot-genius. And also has a lot of time on his hands.)
 
-The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were airplane-style: with a single yoke that controlled both the angle and direction of the boat --- a pretty sophisticated system for any submarine, but particularly a hand-built machine.
+The controls to the sub were aligned with and partially inside of the sail. Hemi noted that the controls were airplane-style, with a single yoke that controlled both the angle and direction of the boat --- a pretty sophisticated system for any submarine, but particularly a hand-built machine.
 
-The sail was the only place with enough headroom to stand upright. Or, at least Shakes could stand upright there, Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More crates were arranged behind the controls located in the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over the crates. There was a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so there was enough room to pass the crates.
+The sail was the only place with enough headroom to stand upright. Or, at least, Shakes could stand upright there; Hemi still had to crouch a bit. Through an open hatch leading forward, Hemi could see small wooden crates crammed into the bow section. More crates were arranged behind the controls located in the middle of the boat. Shakes had thrown what were clearly his sleeping blankets over them. There was a thin heavily-stained mattress to one side, which Shakes was raising to lean against the pressure hull so there was enough room to pass the crates.
 
-"Y'all woke me from a nap with the fuckin' ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the engines and batteries and what-fuckin-not? They're toward the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it and stuffed them into his cheek and masticated them slowly.
+"Y'all woke me from a nap with the fuckin' ship-to-ship call. That's why I didn't see ya earlier. I suppose you want to see the engines and batteries and what-fuckin-not? They're toward the back." Shakes reached into his denim vest and withdrew a leather pouch. He pinched some dried leaves from it, stuffed them into his cheek, and masticated them slowly.
 
 [//]: # (Shakes chews coca leaves --- he got into them building sub on the coffee farm in the mountains.)
 
-"Yes, the engines first if you please." Hemi squeezed past the crates and pulled a small notebook and pencil from an inside pocket of his tweed jacket. The engine was massive and took up the entire rear third of the boat. Now Hemi was genuinely impressed, "that's a lot of engine for such a small vessel."
+"Yes, the engines first, if you please." Hemi squeezed past the crates and pulled a small notebook and pencil from an inside pocket of his tweed jacket. The engine was massive and took up the entire rear third of the boat. Now Hemi was genuinely impressed. "That's a lot of engine for such a small vessel."
 
 "Took the thing out of a fuckin' tractor that had been broken down and rustin' in a coffee field for years. Had to build a gantry and borrow another tractor to haul it up the mountain to where I was building the _Gnat_ and get it installed. Direct-drive to the prop, so it's a genuine ship engine, not just a glorified generator to power an electric motor."
 
-The configuration was obvious to Hemi. The greasy steel drive shaft came straight from the back end of the diesel running along the center-line of the boat and passed out through the stern, like an egg on its side, pierced by a needle.
+The configuration was obvious to Hemi. The greasy steel drive shaft came straight from the back end of the diesel, ran along the centerline of the boat, and passed out through the stern, like a needle piercing an egg resting on its side.
 
-"But you said it has batteries too, the boat can swim underwater?"
+"But you said it has batteries, too? The boat can swim underwater?"
 
-"Sure, the direct-shaft drive means I've gotta have a transmission of course. I worked with a mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fuckin' hassle though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel and manually engage the electric motor with these levers. And the electric motor is small --- it's slow; though fuckin' silent as a sunken graveyard."
+"Sure. The direct-shaft drive means I've gotta have a transmission, of course. I worked with a mechanical genius who lived on the coffee farm to build this fancy-ass transmission that lets me switch over to that electric motor to drive.  It's a fuckin' hassle, though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel, and manually engage the electric motor with these levers. And the electric motor is small --- it's slow, though fuckin' silent as a sunken graveyard."
 
 "It is the finest piece of mountain-top engineering I've ever seen on the sea," Hemi said honestly. "Is that an escape trunk back there?"
 
@@ -316,21 +316,21 @@ The configuration was obvious to Hemi. The greasy steel drive shaft came straigh
 
 "No, not nearly. How much fuel do you have?"
 
-"Wellsir, this is how we check that..." Shakes slipped his finger through a metal ring atop a pipe that ran upward from the deck along the curve of the wall. He pulled a long wavering piece of thin steel from the pipe and wiped it on a foul rag that hung on a hook on the wall. He replaced the dipstick and then quickly pulled it back out again and held it up for Hemi to see the graduation along the dipstick.
+"Wellsir, this is how we check that..." Shakes slipped his finger through a metal ring atop a pipe that ran up from the deck along the curve of the wall. He pulled a long wavering piece of thin steel from the pipe and wiped it on a foul rag that hung on a hook on the wall. He replaced the dipstick and then quickly pulled it back out again and held it up for Hemi to see the graduation along its length.
 
-Hemi winced as he caught an acrid whiff of petrochemicals off the dipstick. "You buy decent quality fuel oil Captain Shakes?"
+Hemi winced as he caught an acrid whiff of petrochemicals. "You buy decent quality fuel oil, Captain Shakes?"
 
-"Ah well fuck, you know: I buy whatever I can get at the trading posts. I'm sure they're sometimes selling me chunky bunker with the used oil from the cafeteria deep fryer dumped on top. But ain't that what the fuckin' fuel filter is for?" Shakes kicked at a rust-flaked cylinder mounted on a pipe running back towards the engine. "I consider it good quality fuel if I don't hafta siphon water out of the bottom of the tank after a top-up." 
+"Ah well fuck, you know, I buy whatever I can get at the trading posts. I'm sure they're sometimes selling me chunky bunker with the used oil from the cafeteria deep fryer dumped on top. But ain't that what the fuckin' fuel filter is for?" Shakes kicked at a rust-flaked cylinder mounted on a pipe that ran back toward the engine. "I consider it good quality fuel if I don't hafta siphon water out of the bottom of the tank after a top-up." 
 
 "Indeed. And how long will that amount of fuel oil you have there last you?" Hemi asked, pointing the eraser side of his pencil at the dripping dipstick Shakes was still holding between them.
 
-"Maybe twelve hours worth left. Enough to get me where I'm fuckin' going."
+"Maybe twelve hours' worth left. Enough to get me where I'm fuckin' going."
 
 "Where are you going?"
 
 "I think I'm gonna keep that bit a' information to myself for the moment." Shakes set the dipstick back in its pipe.
 
-Hemi made a sound in his throat while he scribbled some calculations. He pointed to a gauge in front of the control yoke, "is that the battery charge?"
+Hemi made a sound in his throat while he scribbled some calculations. He pointed to a gauge in front of the control yoke. "Is that the battery charge?"
 
 "Such as it is. That's salvaged from tractor parts too. It shows me roughly how much charge is left on the battery, but mostly it's just got a fuckin' little red light that comes on when the batteries are about to kick off. If ya want any fuckin' precision, you gotta get down under those deck panels with the meter and take readings off each of the battery banks." Shakes kicked a small steel door that opened to a recessed cabinet in the wall. He pulled from the space a short pry bar and a small metal box with a dial gauge and a pair of electrical leads dangling from it. "Check this shit out." He levered the teeth of the prybar under the steel deck panel. Hemi stood on the other side and they lifted the panel together and propped it up.
 
@@ -338,9 +338,9 @@ Below were rows and rows of what Hemi was almost certain were lead-acid truck or
 
 Hemi scratched his beard. "Well! Let me see that meter." He lowered himself to his knees and reached out over the battery banks with the leads from the meter. He began touching the probes to various terminals on the batteries and writing down the results he read off the meter in his little notebook. "This is going to take a while."
 
-"Always fuckin' does." Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt. "So... where were _you_ guys headed, before the whole fuckin' dead-ship thing?" 
+"Always fuckin' does." Shakes took a comb from his pocket and dipped it in a bucket half-filled with oil that dripped from the diesel engine. He ran the comb through his hair, then teased it back up to a spiky randomness with the tips of his fingers. He wiped his fingers on his shirt. "So...where were _you_ guys headed, before the whole fuckin' dead-ship thing?" 
 
-Hemi did not look up from his work. "Captain Percy has been playing that particular piece of information close to her chest since we left the last port. I believe she has a line on our next job, but she has not yet shared details with me," Hemi said somewhat tentatively. He continued silently checking the status of the batteries while Shakes pulled a pack of cigarettes from his vest and lit one to chase down the flavor of the leaves he had been chomping on.
+Hemi did not look up from his work. "Captain Percy has been playing that particular piece of information close to her chest since we left the last port. I believe she has a line on our next job, but she has not yet shared details with me," He said somewhat tentatively. He continued silently checking the status of the batteries while Shakes pulled a pack of cigarettes from his vest and lit one to chase down the flavor of the leaves he had been chomping on.
 
 After Shakes had filled up the small space with a haze of tobacco smoke, Hemi sat up straight and stashed his notebook and pencil back in his pocket. "I think I have enough information for the time being. That food Gregory was working on is probably ready. Shall we go see if we can find something hot to eat?"
 
