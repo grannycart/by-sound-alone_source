@@ -24,19 +24,19 @@
 
 [//]: # (### They approach the depot island, are inspected)
 
-"About fuckin' time," said Percy. She planned to climb up to the bridge and check with Owen in a minute, but first she wanted to look through the periscope. Since it would be higher up above the surface, she would potentially be able to see further. The bearing was obviously straight ahead, so she swung the barrel of the periscope around while looking through the viewfinder. The cigarillo still hung from her lips, with smoke rising up to her nostrils. "Aye. Fuckin' dawn's cracking... and I see a blot of an island ahead of us." She watched it for a while. It slowly, slowly came towards her and details resolved themselves. It was a rocky, slightly-cliffed shore with some sparse vegetation on top.
+"About fuckin' time," said Percy. She planned to climb up to the bridge and check with Owen in a minute, but first she wanted to look through the periscope. Since it would be higher up above the surface, she would potentially be able to see farther. The bearing was obviously straight ahead, so she swung the barrel of the periscope around while looking through the viewfinder. The cigarillo still hung from her lips, with smoke rising up to her nostrils. "Aye. Fuckin' dawn's cracking...and I see a blot of an island ahead of us." She watched it for a while. It slowly, slowly came towards her and details resolved themselves. It was a rocky, slightly-cliffed shore with some sparse vegetation on top.
 
 "Mind if I look?" Shakes asked.
 
 "Help yourself." Percy stepped back and pulled the cigarillo from her lips as she exhaled.
 
-Shakes squinted into the viewfinder. "Um... Cap'n Percy... there's nothing on that fuckin' island."
+Shakes squinted into the viewfinder. "Um...Cap'n Percy...there's nothing on that fuckin' island."
 
 "No. The depot is for, ya know, discreet fuckin' operations. It's entirely underwater, built into the side of the seamount."
 
 "Ah," said Shakes, tapping the side of his greasy nose knowingly. 
 
-It was fairly common for a depot that handled sensitive cargo to be built partly underwater --- particularly the submarine docking area. That kept Authority eyes off comings and goings. But usually there was also a small surface component for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care underwater fittings required when it was possible to do so. But with a depot located close to the border between two aggressive Authorities, as this one was, there was a clear logic to keeping the whole operation off the surface.
+It was fairly common for a depot that handled sensitive cargo to be built partly underwater --- particularly the submarine docking area. That kept Authority eyes off comings and goings. But usually there was also a small surface component for handling completely licensed and permitted cargo, and for the convenience of being able to operate without the complexity and care underwater fittings required when it was possible to do so. But with a depot located close to the border between two aggressive Authorities, there was a clear logic to keeping the whole operation off the surface.
 
 "So, how the fuck do we..." Shakes started to ask.
 
@@ -44,25 +44,25 @@ The ship-to-ship radio lit up over their heads. _"To approaching submarine: stop
 
 "That's how," said Percy.
 
-They shut the _Prospect's_ motor down, and Percy headed up to the bridge on the top of the sail. A mini-sub, maybe 15 meters long, had surfaced off their starboard side. A pair of large men, almost as big as Hemi, were climbing into an inflatable boat. They motored across the gap between the two subs, and climbed up the steel rungs on the outside of the _Prospect's_ sail.
+They shut the _Prospect's_ motor down, and Percy headed up to the bridge on the top of the sail. A mini-sub, maybe fifteen meters long, had surfaced off their starboard side. A pair of large men, almost as big as Hemi, were climbing into an inflatable boat. They motored across the gap between the two subs and climbed up the steel rungs on the outside of the _Prospect's_ sail.
 
-"Transport sub?" was the first question as soon as they stood on the bridge. They wore old moth-eaten wool clothes: tightly worsted slacks, and cable-knit sweaters, like fishermen.
+"Transport sub?" was the first question as soon as they stood on the bridge. They wore old moth-eaten wool clothes, like fishermen: tightly worsted slacks and cable-knit sweaters.
 
-"Yes," said Percy, "we're unarmed: no tubes."
+"Yes," said Percy. "We're unarmed: no tubes."
 
 "Right," said the one of the two who had not spoken yet and spat on her deck. "We just gotta do a quick check if ya want to come any closer to the fuckin' island. Otherwise, ya gotta go back the way ya came."
 
 "Well, we got no fuel left, so we're not going back anywhere. Get your check over with."
 
-They climbed down the hatch. They spent the next 20 minutes crawling through the _Prospect_ with Shakes and Hemi. When they got back to the control room, they were a little less gruff. "Eh, fuck. Sorry, but being fucking careful in these waters is how we stay in fucking business. Y'all seem harmless enough, though it's fucking curious comin' in hauling another sub under ya."
+They climbed down the hatch. They spent the next twenty minutes crawling through the _Prospect_ with Shakes and Hemi. When they got back to the control room, they were a little less gruff. "Eh, fuck. Sorry, but being fucking careful in these waters is how we stay in fucking business. Y'all seem harmless enough, though it's fucking curious comin' in hauling another sub under ya."
 
 "Not exactly my original plan," said Captain Percy. "So what's the docking procedure here?"
 
 "Well, first fucking step is the dock fee. You pay that to us before you dock."
 
-Percy suddenly regretted her comment that they were out of fuel. She had accidentally given them a lever to extract whatever they wanted from her for this "docking fee." And extract they did. Based on her experience, she estimated that probably 15 percent of the price they quoted her was legitimate. The rest they would pocket. She asked them to wait while she retrieved a stack of coins from her cabin.
+Percy suddenly regretted her comment that they were out of fuel. She had accidentally given them a lever to extract whatever they wanted from her for this "docking fee." And extract they did. Based on her experience, she estimated that probably fifteen percent of the price they quoted her was legitimate. The rest they would pocket. She asked them to wait while she retrieved a stack of coins from her cabin.
 
-They split the coins between them, barely even pretending that it was a legitimate transaction. With the coins stashed in their pockets, the depot men became quite friendly. "OK boss. You can get on your ship-to-ship and contact the docking control office. They'll give you a dock assignment and turn the sonar beacon on for ya. If there's anything else we can help you with, you can ring us up on ship-to-ship as well."
+They split the coins between them, barely even pretending that it was a legitimate transaction. With the coins stashed in their pockets, the depot men became quite friendly. "OK, boss. You can get on your ship-to-ship and contact the docking control office. They'll give you a dock assignment and turn the sonar beacon on for ya. If there's anything else we can help you with, you can ring us up on ship-to-ship as well."
 
 "Thanks so fuckin' much," said Percy.
 
@@ -75,22 +75,21 @@ She followed them as they climbed back outside on the bridge. They puttered thei
 
 Back in the control room, Percy picked up the ship-to-ship mic and raised the docking control office. She got their assigned docking port and, sealing up the _Prospect's_ external hatch, they used the last remaining few minutes of their batteries to dive the boat. 
 
-It occurred to Shakes that diving the _Prospect_ to dock would push the _Gnat_ beyond his rough estimate of a depth limit --- deeper than it had ever been. For this reason, he decided to ride out the docking procedure down in his boat. If he heard sounds that indicated the hull might fail, he could warn Percy to surface. From the control chair of the _Gnat_ he could also watch the approaching depot docking bay through the viewport.
+It occurred to Shakes that diving the _Prospect_ to dock would push the _Gnat_ beyond his rough estimate of a depth limit --- deeper than it had ever been. For this reason, he decided to ride out the docking procedure down in his boat. If he heard sounds that indicated the hull might fail, he could warn Percy to surface. From the control chair of the _Gnat_, he could also watch the approaching depot docking bay through the viewport.
 
-The docking bay was located about 20 meters down underwater. It was typical of an underwater docking bay for cargo --- a long cylindrical tube of curved and welded plate steel. It stuck 100 meters out of the side of the seamount and was supported by hazardous and seemingly randomly placed steel bracing beams that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking all manner of sizes and orientations of cargo subs. There were between a dozen and two dozen slips, and maybe half of them had submarines docked at them already, arranged at an array of angles. They looked like leeches with their orifices sucking at a giant limb.
+The docking bay was located about twenty meters underwater. It was typical of an underwater docking bay for cargo --- a long cylindrical tube of curved and welded plate steel. It stuck a hundred meters out of the side of the seamount and was supported by hazardous and seemingly randomly-placed steel bracing beams that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking all manner of sizes and orientations of cargo subs. They numbered between a dozen and two dozen, and maybe half of them had submarines docked at them already, arranged at an array of angles. They looked like leeches with their orifices sucking at a giant limb.
 
 The _Prospect_ followed the sonar beacon to docking slip four, located on the bottom of the docking bay tube. It was the largest size slip this depot had available --- or even widely used in the cargo sub industry. A semi-standard size for large cargo hold hatches. They carefully eased the _Prospect_ under slip four, until the big cargo hatch on the _Prospect's_ deck came up to the docking slip and connected to it --- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
 
-Hemi went down to the cargo hold and walked, hunched over, out across the catwalk that hung two meters down from the ceiling. Captain Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. There, he picked up a rubber mallet that was left hanging on some hooks by the catwalk for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gonging sound that reverberated for a full 20 seconds. He waited a few second more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect's_ cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
+Hemi went down to the cargo hold and walked, hunched over, across the catwalk that hung two meters down from the ceiling. Captain Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. There, he picked up a rubber mallet that was left hanging on some hooks for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gonging sound that reverberated for a full twenty seconds. He waited a few seconds more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect's_ cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
 
 Two winches were set on either side of the cargo hatch along the catwalk. The big hatch was closed by two concave half-moon doors that lay one over the other to form a low dome. The upper one needed to be raised first. Hemi grabbed the wheel that turned the winch and put a good portion of his straining and powerful muscle into it, but it would not budge. This sometimes happened when the air pressure between a sub and a dock was not equalized. Hemi was trying to push up the door when there was slightly more than an atmosphere of pressure weighing on it.
 
-[//]: # (I do not _totally_ have a grip on the physics here. I believe that because a sub maintains its own atmosphere at what should more or less be the same pressure while on the surface the atmospheric pressure is constantly changing, it seems like the differential when opening a sub that was sealed could go either way. In _Das Boot_ he mentions a number of times the hatches popping open like corks when they surface and release the locks. But I do not recall him talking about the pressure going the other way. I am just going to assume that it can go either way though. In this case, the depot is open to the surface above, at one atmosphere of pressure, but the Prospect is submerged. Seems like there should be some differential at least, and since it is under . I am just going to go with it being the surface atmosphere that is higher.)
+[//]: # (I do not _totally_ have a grip on the physics here. I believe that because a sub maintains its own atmosphere at what should more or less be the same pressure while on the surface the atmospheric pressure is constantly changing, it seems like the differential when opening a sub that was sealed could go either way. In _Das Boot_ he mentions a number of times the hatches popping open like corks when they surface and release the locks. But I do not recall him talking about the pressure going the other way. I am just going to assume that it can go either way though. In this case, the depot is open to the surface above, at one atmosphere of pressure, but the Prospect is submerged. Seems like there should be some differential at least. And since it is under, I am just going to go with it being the surface atmosphere that is higher.)
 
 He picked up a breaker bar that hung next to the rubber mallet and set it over a fat pin of steel welded to the column of the winch wheel. With the extra meter or so of leverage, he easily turned the winch wheel a few degrees and there was an audible pop and hiss as the extra pressure of the air in the depot pushed through the slit in the cargo hatch and into the _Prospect_. Hemi pinched his nose and cleared his ears with a pop that sounded like a small version of the sound of the hatch opening.
 
-Once the seal was broken he stowed the breaker bar and easily, but somewhat slowly due to the gearing, winched open one cargo hatch door and then the other. When the doors were fully opened, he extended a steel ladder --- its pawls clanking on the locking teeth --- up into the docking bay so a person could climb up and down from the _Prospect_.
-
+Once the seal was broken, he stowed the breaker bar and easily, but somewhat slowly, due to the gearing, winched open one cargo hatch door and then the other. When the doors were fully opened, he extended a steel ladder --- its pawls clanking on the locking teeth --- up into the docking bay so a person could climb up and down from the _Prospect_.
 
 [//]: # (### Description of the docking bay)
 
@@ -100,22 +99,24 @@ These guys did give Hemi a rough handshake when he stepped off the ladder, but o
 
 Hemi lowered himself a few steps back down the ladder until he was enough inside the _Prospect_ to use the intercom to raise Captain Percy. He gave her his impressions of the docking bay and told her they needed to talk to the dock boss.
 
-"Stay there Hemi. I'll be there in a few minutes with Shakes," Percy responded over the intercom.
+"Stay there, Hemi. I'll be there in a few minutes with Shakes," Percy responded over the intercom.
 
 [//]: # (----- invisible character break)
  
 
 The two of them appeared a quarter of an hour later. Captain Percy was carrying a beaten and cracked leather folio in which she kept the ship's books. Shakes was empty-handed, but had apparently freshly greased and pointed his hair for the big outing on the depot dock.
 
-Hemi had been waiting on the deck of the docking bay. He gave Percy and Shakes a hand up the ladder. When they were all assembled, they started off towards the far end of the docking bay, where they could see a wooden sign hanging from the ceiling, painted white, with square hand-painted black letters that said "Dock Office." 
+Hemi had been waiting on the deck of the docking bay. He gave Percy and Shakes a hand up the ladder. When they were all assembled, they started off toward the far end of the docking bay, where they could see a wooden sign hanging from the ceiling, painted white, with square hand-painted black letters that said "Dock Office." 
 
-Actually getting to the dock office was a matter of navigating around the open holes in the deck which led down into the cargo holds of other docked subs. There were other obstacles too, like the ladders hanging down from the subs docked above, or stacks of crates waiting to be loaded into subs docked on either side. Where no submarines were docked, the space was used as staging areas for cargo that was making its way down the docking bay in steps towards whatever sub they were destined to be loaded onto, or otherwise up the dock from where they had been unloaded. It made for slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine --- maybe 12 to 15 meters in circumference --- but still cramped and grimed.
+Actually getting to the dock office was a matter of navigating around the open holes in the deck that led down into the cargo holds of other docked subs. There were other obstacles too, like the ladders hanging down from the subs docked above, or stacks of crates waiting to be loaded into subs docked on either side. Where no submarines were docked, the space was used as staging areas for cargo that was making its way down the docking bay in steps toward whatever sub it was destined to be loaded onto, or otherwise up the dock from where it had been unloaded. 
+
+They made slow progress, since they had to watch every step and stop to wait for workers who were in the process of moving cargo. The docking bay was bigger than any space on a submarine --- maybe twelve to fifteen meters in circumference --- but still cramped and grimed.
 
 [//]: # (### The dock office and the dock boss)
 
-They picked their way through the docking bay to the dock office. This was simply a partition made of cheap painted wood built in front of the disused space of the first docking slip in the docking bay. It was brightly lit. Both sides were lined with metal chairs on which were stacked folders and binders of paper. The center of the office was mostly taken by a large steel desk with a chipped and rusted enameled surface. It too was covered with papers: loose, stacked, on clipboards, and in binders.
+The dock office was simply a partition made of cheap painted wood built in front of the unused first docking slip. It was brightly lit. Both sides were lined with metal chairs on which were stacked folders and binders of paper. The center of the office was mostly taken up by a large steel desk with a chipped and rusted enameled surface. It too was covered with papers: loose, stacked, on clipboards, and in binders.
 
-Behind the desk sat yet another huge person, also dressed in similar heavy wool garments that had been aerated in places by moth larva. Hemi would not have tried to guess, being the parsimonious fellow he was, but the men who had met him on the dock had referred to the dock boss as 'she.' She tipped back her cap when they entered the office, and held a clipboard out at arm's length in front of herself, trying to get a little better focus on what was written on it.
+Behind the desk sat yet another huge person, also dressed in heavy wool garments that had been aerated by moth larva. Hemi would not have tried to guess, being the parsimonious fellow he was, but the men who had met him on the dock had referred to the dock boss as 'she.' She tipped back her cap when they entered the office, and held a clipboard out at arm's length in front of herself, trying to get a little better focus on what was written on it.
 
 "You must be from the boat that just came in on slip four, eh?" she asked.
 
