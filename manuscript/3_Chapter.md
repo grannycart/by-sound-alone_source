@@ -116,7 +116,7 @@ They made slow progress, since they had to watch every step and stop to wait for
 
 The dock office was simply a partition made of cheap painted wood built in front of the unused first docking slip. It was brightly lit. Both sides were lined with metal chairs on which were stacked folders and binders of paper. The center of the office was mostly taken up by a large steel desk with a chipped and rusted enameled surface. It too was covered with papers: loose, stacked, on clipboards, and in binders.
 
-Behind the desk sat yet another huge person, also dressed in heavy wool garments that had been aerated by moth larva. Hemi would not have tried to guess, being the parsimonious fellow he was, but the men who had met him on the dock had referred to the dock boss as 'she.' She tipped back her cap when they entered the office, and held a clipboard out at arm's length in front of herself, trying to get a little better focus on what was written on it.
+Behind the desk sat yet another huge person, also dressed in heavy wool garments that had been aerated by moth larva. Hemi would not have tried to guess, being the parsimonious fellow he was, but the men who had met him on the dock had referred to the dock boss as "she." She tipped back her cap when they entered the office and held a clipboard out at arm's length, trying to get a better focus on what was written on it.
 
 "You must be from the boat that just came in on slip four, eh?" she asked.
 
@@ -126,11 +126,13 @@ The dock boss squinted up at her.
 
 "Actually, there's two boats," said Shakes.
 
-"Ah, hmm," said the dock boss, "there's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual docking arrangement."
+"Ah, hmm," said the dock boss. "There's a note here that you have a mini sub mated on the bottom of the big boat. That's a pretty unusual docking arrangement."
+
+[//]: # (I am pretty sure I included this ah hmm here as a too-subtle nod to Gaddis. I remember him using that construction a number of times in his books, and thinking: who ever says that? Meanwhile people writing about Gaddis are always saying he captures language so well. Much as I love Gaddis, I always thought his dialog kinda missed in the actual way people speak department.)
 
 "We would not normally come in that way," said Hemi, "but we are in pretty bad shape. We had to rig up a whole complicated situation with the smaller sub to have enough power to get here. We have basically got no power, no fuel, and we need repairs and restock."
 
-"Hmph. Well. We're full-service here. This island is pretty isolated, so we keep a lot of stock and parts on hand. Having a deep supply is the good side of being isolated. The bad side is that shit's going to be pretty fucking expensive. It costs a premium to move it out here. I give folks honest assessments --- hell that's how I got this shitty dock boss position --- but most of the goods around here are sold from the crew of one independent operator to another. I can't control what prices those connivers might try to get from those who might be a little desperate."
+"Hmph. Well. We're full-service here. This island is pretty isolated, so we keep a lot of stock and parts on hand. Having a deep supply is the good side of being isolated. The bad side is that shit's going to be pretty fucking expensive. It costs a premium to move it out here. I give folks honest assessments --- hell, that's how I got this shitty dock boss position --- but most of the goods around here are sold from the crew of one independent operator to another. I can't control what prices those connivers might try to get from those who might be a little desperate."
 
 "Can you point us in the right direction for purchasing supplies and hiring some halfway decent welders who can do repairs?" Percy asked.
 
@@ -144,7 +146,7 @@ The dock boss squinted up at her.
 
 "What about Authorities? Is there significant activity from them around here?" Hemi asked.
 
-"Mostly they leave us alone. As I say, this is one of the only places you can move goods for cash in this part of the drink, so we end up being a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too --- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface to control. It's pleasantly remote here, it is. While it fucking lasts anyway."
+"Mostly they leave us alone. As I say, this is one of the only places you can move goods for cash in this part of the drink, so we ended up a small but critical operation. The Authorities on one side want their people to be able to trade goods, and the Authorities on the other side want that too --- even if they would never admit it, and endlessly skirmish over where exactly the fucking line lies. It's a good, quiet operation here, far from the fucking noise and crush of all the meaningless action and events that seem so important to those folks trying to carve up pieces of the surface to control. It's pleasantly remote here, it is. While it fucking lasts, anyway."
 
 "Sounds like a nice place to retire," said Shakes. "No sun, no wind, nothing to keep you from happily living out your days in a dank grimy hole."
 
@@ -152,26 +154,26 @@ The dock boss squinted up at her.
 
 Shakes nodded. 
 
-With a list of contacts from the deck boss and a few more passing words of thanks, they cleared out. Hemi and Shakes returned down the docking bay in the direction they had initially come from to start talking to vendors about refueling and repairs. Percy went the other way, up off the docking bay.
+With a list of contacts from the deck boss and a few more passing words of thanks, they cleared out. Hemi and Shakes returned down the docking bay to start talking to vendors about refueling and repairs. Percy went the other way, up off the docking bay.
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Percy walks up the exchange floor: description)
 
-The welded steel plating of the docking bay tube extended ten meters or so beyond the dock office and marked the end of the docking bay, where it was set into the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters wide, and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most unpressurized underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if something major happened --- say a docked submarine ripped away leaving a giant hole in the dock --- this door could be closed, divers would go in and make repairs, and they could then blow the water out of the dock with a high pressure air system. Of course, that would not save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures --- more of them than anyone would care to admit --- were the stuff of submariner's nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person like Captain Percy, since traditionally ports were associated with safety for ships.
+The welded steel plating of the docking bay tube extended ten meters or so beyond the dock office and marked the end of the docking bay, where it was set into the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most unpressurized underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if something major happened --- say, a docked submarine ripping away, leaving a giant hole in the dock --- this door could be closed, divers could go in and make repairs, and they could then blow the water out of the dock with a high pressure air system. Of course, that would not save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures --- more numerous than anyone would care to admit --- were the stuff of submariners' nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person like Captain Percy, since traditionally ports were associated with safety for ships.
 
-A little further up the ramp from the watertight bulkhead, the steel plating ended where it was riveted and sealed into the raw rock of the seamount. The space widened here. This whole part of the depot was hollowed out of the underground stone and the walls were left as raw, cut rock. In places the lines of drill holes could still be seen where explosives had been placed to more quickly open spaces for the chamber during its construction. This was all pretty unusual and expensive. Most depots with an underwater dock kept the underground construction to a minimum and moved as much of the operation to the surface as was practical. Percy guessed there must be the discreet funding of some Authority behind this place.
+A little farther up the ramp from the watertight bulkhead, the steel plating ended where it was riveted and sealed into the raw rock of the seamount. The space widened here. This whole part of the depot was hollowed out of the underground stone and the walls were left as raw, cut rock. In places, the lines of drill holes could still be seen, where explosives had been placed to more quickly open spaces for the chamber during its construction. This was all pretty unusual and expensive. Most depots with an underwater dock kept the underground construction to a minimum and moved as much of the operation to the surface as was practical. Percy guessed there must be the discreet funding of some Authority behind this place.
 
-The upward slope became less dramatic, just a slight ramp. But the ramp was maintained for an obvious reason: few underground spaces were totally dry and this one was not an exception. The ramp slowly drained a fetid and oily moisture down the middle of the open space of the upper parts of the depot. And the water carried along with it the accumulated grime of a working floor of industrial and commercial projects: metal shavings, coffee grounds, oils and solvents, random bits of floating garbage, and of course urine. It was all collected at the bottom of the ramp in a sluice-way covered by a choked and rusting grating that was supposed to keep any of this stuff from running further down to the docking bay.
+The upward slope became less dramatic, just a slight ramp. But the ramp was maintained for an obvious reason: few underground spaces were totally dry and this one was not an exception. The ramp slowly drained a fetid and oily moisture down the middle of the open space of the upper parts of the depot. And the water carried along with it the accumulated grime of a working floor of industrial and commercial projects: metal shavings, coffee grounds, oils and solvents, random bits of floating garbage, and, of course, urine. It was all collected at the bottom of the ramp in a sluiceway covered by a choked and rusting grating that was supposed to keep any of this stuff from running farther down to the docking bay.
 
-The wet grit ground under the hard soles of Captain Percy's boots as she made her way up the length of the merchant exchange floor, stepping around the places where oil or garbage had pooled on the uneven rock of the ground.
+The wet grit ground under the hard soles of Captain Percy's boots as she made her way up the length of the merchant exchange floor, stepping around the places where oil or garbage had pooled on the uneven rock.
 
 The main hall was lit by bright bars of harsh light overhead, which illuminated the middle of the space fairly well. The center of the entire length of the hall was being used for the activities that required the most space: stacks of wooden crates containing cargo that was being actively exchanged, repairs on large metal machines that were in some places slung from the ceiling by heavy chain, and the parked heavy equipment used to move all this tonnage up and down the space. 
 
 The lighting did not do much to illuminate the deeper sides of the space. Back in those corners were shadows created by smaller stacks of crates, punctuated by the occasional table set up by a trader and lit by a lamp. In some places there were alcoves carved back into the rock for a more formal shop space.
 
-There was a fairly loud wash of sound: the snap of arc welders liquefying bits of metal, traders negotiating the value of crates and where they would be moved from or to, and the clinking of chains as they strained on wheels to lift masses of weighty metal objects. There was also the inevitable unintelligible shout of panic as some heavy object suddenly moved in a way it was not supposed to. Her nostrils were assaulted by the smells of sweat, tobacco smoke, oil, and sharp ozone.
+There was a loud wash of sound: the snap of arc welders liquefying bits of metal, traders negotiating the value of crates and where they would be moved from or to, and the clinking of chains as they strained on wheels to lift masses of weighty metal objects. There was also the inevitable unintelligible shout of panic as some heavy object unexpectedly moved in a way it was not supposed to. Her nostrils were assaulted by the smells of sweat, tobacco smoke, oil, and sharp ozone.
 
 About a third of the way up the hall, her eye was caught by one of the bigger shops cut back into the wall. It was better lit than most, and the proprietor had taken the trouble to pry open a number of the crates stacked in the shop and arrange some of the more attractive goods to tempt potential customers.
 
@@ -179,47 +181,47 @@ About a third of the way up the hall, her eye was caught by one of the bigger sh
 
 Percy turned into the shop. It sold hardware. A wide array of tools and parts lay in a semi-organized fashion among the hay and batting used as packing material in the crates. Some of the packing material had inevitably escaped the crates and was crushed into the grime on the floor. 
 
-Larger items were displayed towards the front of the store, Percy realized that was probably because they were harder to steal. The crates at the front of the shop were left open face-up, and looking down into them she could see large motors, piping, valves, and other bigger elements that went into making a submarine work. 
+Larger items were displayed towards the front of the store, probably because they were harder to steal. The crates at the front of the shop were left open at the top, and looking down into them she could see large motors, piping, valves, and other bigger elements that went into making a submarine work. 
 
-As she moved towards the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks. 
+Toward the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks. 
 
 The shopkeeper somehow managed to show little interest in the few customers poking around in the crates, and yet never stopped watching them.
 
-Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit. Clamps were not currently on her hardware list, so she regretfully would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the to list and waiting to be purchased on at the next stop.
+Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit. Clamps were not currently on her hardware list, so she regrettably would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the "to" list and waiting to be purchased on at the next stop.
 
-Percy picked up the box of clamps and moved to browse some of the larger parts. In one open crate there was a beautiful pump motor. It was in factory-new condition a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she could not imagine not buying it. In the condition it was in, however, it would not be cheap.
+Percy picked up the box of clamps and moved to browse some of the larger parts. In one open crate there was a beautiful pump motor, in factory-new condition, a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she could not imagine not buying it. In this condition, however, it would not be cheap.
 
-She leaned over the crate and ran her fingers under the cover to check for hidden grit and make sure it was actually factory-new, and not just well-cleaned old junk. As she did so, an old crone who had been looking at a box of steel piping near her leaned in her direction to admire the pump motor too. "That's a fine-looking piece of machine." The lady said to Percy, her voice croaking softly so it took Captain Percy a second to interpret what the lady had said.
+She leaned over the crate and ran her fingers under the cover to check for hidden grit and make sure it was actually factory-new, and not just well-cleaned old junk. As she did so, an old crone who had been looking at a box of steel piping near her leaned in her direction to admire the pump motor too. "That's a fine-looking piece of machine," the lady said, her voice croaking so softly it took Percy a second to interpret what she had said.
 
 "I have a boat where I could use ten more of these," Percy replied.
 
-"Pretty expensive element for buying multiples of." The lady was frail and small. In this depot full of huge people, she was certainly the tiniest Percy had seen, or would even expect to see. She had big rubbery ears and a heavily-lined face with a tiny nose that wiggled when she talked. She was dressed in a wool cloak that was worn thin but clearly made of what was originally a high-quality material. Over it, she wore a fraying shawl with an intricate fair-isle pattern. She looked like a person who would never be quite warm enough in this hole-in-the-rock they were currently in.
+"Pretty expensive element for buying multiples of." The lady was frail and small. In this depot full of huge people, she was certainly the tiniest Percy had seen, or would even expect to see. She had big rubbery ears and a heavily lined face with a tiny nose that wiggled when she talked. She was dressed in a wool cloak that was worn thin but clearly made of what was originally a high-quality material. Over it, she wore a fraying shawl with an intricate Fair Isle pattern. She looked like a person who would never be quite warm enough in this hole-in-the-rock depot.
 
 "The cost is the reason I'll be lucky to get a single one of these," said Percy.
 
-"Hrmmm.... what if I told you I could set you up with a little cash?"
+"Hrmmm....what if I told you I could set you up with a little cash?"
 
 Percy looked at the tiny stick-figure-in-a-sack skeptically. "Like a loan?" she asked. Loan sharks certainly came in all shapes and sizes.
 
-"No no. I don't go in for usury. That's for the real criminals. I'm offering a job. But one that would pay exceptionally well."
+"No, no. I don't go in for usury. That's for the real criminals. I'm offering a job. But one that would pay exceptionally well."
 
-"Well, that's certainly a unlikely fucking coincidence that you happen to offer me work when I was just about to go inquiring about a job."
+"Well, that's certainly a fucking unlikely coincidence that you happen to offer me work when I was just about to go inquiring about a job."
 
-"That is, of course, no coincidence Captain Percy. I was looking for you."
+"That is, of course, no coincidence, Captain Percy. I was looking for you."
 
 "Then you must be Miss Mai? But how did you know who I was?"
 
-"To be transparent, I received a note that you had arrived. I came out to the hall to try to locate you. There is an element of urgency to the job I have for you."
+"I received a note that you had arrived. I came out to the hall to try to locate you. There is an element of urgency to the job I have for you."
 
-Percy remembered the dock boss had said she would send word ahead to Miss Mai. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidences like that suggest."
+Percy remembered the dock boss had said she would send word ahead to Miss Mai. "Thanks for the transparency. I don't like the suggestion of a benign universe that coincidences like that would suggest."
 
-"Ah yes. It's easier to believe the plot and the happenings are motivated by someone's will, eh? That it isn't all just random chaos, and the coin-toss sometimes comes up in your favor?"
+"Ah, yes. It's easier to believe the plot and the happenings are motivated by someone's will, eh? That it isn't all just random chaos, and the coin-toss sometimes comes up in your favor?"
 
-"Oh I believe in the chaos," said Percy, "I just don't believe it comes up in my fucking favor."
+"Oh, I believe in the chaos," said Percy, "I just don't believe it comes up in my fucking favor."
 
-Miss Mai grinned a gapped-toothed smile. "I think I can work with such a person. Can I encourage you to join me in my office to discuss the details of the offer I have for you? It's... not really fit for public spaces."
+Miss Mai grinned a gapped-toothed smile. "I think I can work with such a person. Can I encourage you to join me in my office to discuss the details of the offer I have for you? It's...not really fit for public spaces."
 
-"Miss Mai, nothing would please me more than to learn about this fucking opportunity." Percy put down the box of clamps, and noticed that the shopkeeper watching her do so.
+"Miss Mai, nothing would please me more than to learn about this fucking opportunity." Percy put down the box of clamps and noticed that the shopkeeper watched her do so.
 
 [//]: # (----- invisible character break)
  
@@ -228,23 +230,23 @@ Miss Mai grinned a gapped-toothed smile. "I think I can work with such a person.
 
 In the open space of the hall, Miss Mai hobbled next to Captain Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
 
-"So the dock boss told you all about me already?" Percy asked, hoping to assess the levelness of the playing field this negotiation would be carried out upon.
+"So, the dock boss told you all about me already?" Percy asked, hoping to assess the levelness of the playing field.
 
-"The dock boss, yes, and a few others... My friend Turnaround Bob told me you are eminently trustworthy and reliable. And also run a big enough boat for the particular job I need done."
+"The dock boss, yes, and a few others...My friend Turnaround Bob told me you are eminently trustworthy and reliable. And also run a big enough boat for the particular job I need done."
 
-"Yeah, Bob tracked me down on the mainland and suggested I head out to this shithole depot to look for you. He hinted the work might be... profitable."
+"Yeah, Bob tracked me down on the mainland and suggested I head out to this shithole depot to look for you. He hinted the work might be...profitable."
 
-My dear Captain Percy, would you mind toning down your colorful language a bit during our interactions?"
+"My dear Captain Percy, would you mind toning down your colorful language a bit during our interactions?"
 
 "I'm a fucking sailor. What do you expect?"
 
 [//]: # (Why is there so much gratuitous cursing in this story? Your answer is above!)
 
-Miss Mai shuffled on silently --- and Percy thought somewhat reproachfully --- for a minute. "Anyway. In my line of work, it is best to know a little something about those you hire. Though again, in the interest of transparency, all I really know is your name and that you have a boat."
+Miss Mai shuffled on silently --- and, Percy thought, somewhat reproachfully --- for a minute. "Anyway. In my line of work, it is best to know a little something about those you hire. Though again, in the interest of transparency, all I really know is your name and that you have a boat."
 
 "What's with all the transparency?" Percy asked.
 
-"Ah yes. Typically I play my cards a bit closer. But as I said, this job is of some urgency, so I am hoping to build some trust with you quickly. I can only hope you respond reciprocally. 
+"Ah, yes. Typically I play my cards a bit closer. But as I said, this job is of some urgency, so I am hoping to build some trust with you quickly. I can only hope you respond reciprocally."
 
 "Well then, in the interest of transparency you should know that my boat, as solid as she is, is currently in desperate need of some downtime for repairs. There's a limited amount of urgency we can put into picking up a job."
 
@@ -252,11 +254,11 @@ Miss Mai shuffled on silently --- and Percy thought somewhat reproachfully --- f
 
 "In that case I just hope we have similar ideas about what it costs to have priorities."
 
-Miss Mai nodded knowingly. "Here we are." She steered Percy towards a low creosoted wooden door set into the wall of the main hall. Inside, Miss Mai's office had the same bare rock walls as all the other depot spaces, but was more warmly lit from sconces in place along the walls. Many ancient wooden filing cabinets leaned against each other for support under the sconces, and also contributed their woody exteriors towards the effort to soften the feel of the place. In the center, a few large heavily-stuffed leather chairs sat across from each other, and a small table was stuck between them that appeared to be constructed of some exotic wood.
+Miss Mai nodded knowingly. "Here we are." She steered Percy towards a low creosoted wooden door set into the wall of the main hall. Inside, Miss Mai's office had the same bare rock walls as all the other depot spaces, but was more warmly lit from sconces along the walls. Many ancient wooden filing cabinets leaned against each other for support under the sconces, and contributed their woody exteriors to the effort to soften the feel of the place. In the center, a few large, heavily stuffed leather chairs sat across from each other; a small table stuck between them appeared to be constructed of some exotic wood.
 
 "I can offer you tea or coffee, Captain Percy."
 
-"Coffee please. A good amount of sugar."
+"Coffee, please. A good amount of sugar."
 
 "Cream?"
 
@@ -268,7 +270,7 @@ Miss Mai nodded knowingly. "Here we are." She steered Percy towards a low creoso
 
 "It's extremely expensive but, as with most things, it can be had here for the right price. I am happy to share a few drops with a business prospect."
 
-"By all means then."
+"By all means, then."
 
 Captain Percy sat in one of the leather chairs and accepted a ceramic cup with mud-colored contents with one hand. With the other hand she received the metal clipboard with chipping black paint and oil-stained pages that Miss Mai was holding out to her.  She scanned it while taking her first sip of coffee. 
 
@@ -282,9 +284,9 @@ Miss Mai lowered herself with a soft groan into the chair opposite Percy.
 
 "...For which the primary use would be mines, and thus still illegal to ship."
 
-"The units are absolutely agnostic in their uses. They don't have to be a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth --- and under, of course --- the surface of the sea; leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
+"The units are absolutely agnostic in their uses. They don't have to be for a mine: could be a torpedo, missile, suicide-bomber, sling-shot, whatever. The oceans teem with rusting hulks of ferrous metal, grinding their way back and forth atop --- and under, of course --- the surface of the sea; leaving their foul trails of oil, carbon, and noise. There is quite a bit of demand for units that can help clean up the mess."
 
-"Is that why you need me? You can't get an Authority seal to ship these because they are going to a group that's trying to 'clean' up the oceans?"
+"Is that why you need me? You can't get an Authority seal to ship these because they are going to a group that's trying to 'clean up' the oceans?"
 
 "You know as well as I do that the seal of one Authority just aggravates the aggression of another, regardless of where, or whom, your items are being shipped to." She sighed. "Unfortunately, these days, conventional shipping ends up being an unwinnable game of tic-tac-toe with a high chance that no matter how well stamped, sealed, and authorized a shipment like this might be, it will simply never arrive at its destination due to interference from another antagonist. The most reliable way is to use a specialty shipping services unit like yours, with your professional expertise at clandestine maneuvering and your discreet interests. It's simply a matter of reliability, you know. Nothing more."
 
@@ -294,7 +296,7 @@ Miss Mai lowered herself with a soft groan into the chair opposite Percy.
 
 "Well, that brings us to the price. To make the repairs a priority is not going to be cheap, especially from what I hear about the workers available on the dock."
 
-"Captain Percy, in this particular case money is a secondary consideration. Name your price."
+"Captain Percy, in this particular case, money is a secondary consideration. Name your price."
 
 Percy hesitated. "How about... three times a standard hull-load fee?"
 
@@ -308,9 +310,9 @@ Miss Mai stood and shuffled over to a sideboard where an enormous ledger book wa
 
 Miss Mai continued the conversation while counting as if it were no effort. "This must be quite a bit of money for you, Captain Percy. Tell me, have you thought about selling your boat after you make the delivery and taking all the profit you will have and settling down with a nice man somewhere?"
 
-Percy smiled at this matronly side of Miss Mai. "Well, you know what the old cliché says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you know how the surface life is: where it isn't chaos, it's bureaucracy. I'd rather stay underwater."
+Percy smiled at this matronly side of Miss Mai. "Well, you know what the old cliché says about captains: I'm married to my boat. There's no man who could compete with her. Besides, you also know how the surface life is: where it isn't chaos, it's bureaucracy. I'd rather stay underwater."
 
-Miss Mai nodded. "Unfortunately there is some truth to that. There's no sure future anywhere on the surface. Makes it hard to commit to settling down anywhere particular."
+Miss Mai nodded. "Unfortunately, there is some truth to that. There's no sure future anywhere on the surface. Makes it hard to commit to settling down anywhere particular."
 
 "Not to change the subject Miss Mai, but how likely is it that we're going to have some kind of Authority interference while trying to move this shipment of yours?"
 
@@ -318,11 +320,11 @@ Miss Mai nodded. "Unfortunately there is some truth to that. There's no sure fut
 
 Captain Percy ran her fingers through her cropped hair. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and why we need the major repair work."
 
-At the mention of the ram Miss Mai's eyebrows went up with a look of concern. "A ram on a submarine you say?"
+At the mention of the ram Miss Mai's eyebrows went up with a look of concern. "A ram on a submarine, you say?"
 
 Percy nodded.
 
-"The only time I've heard of such a thing --- at least within this century --- is on a boat called the _Grackle_, An Authority enforcer out of the Northern Points."
+"The only time I've heard of such a thing --- at least within the current century --- is on a boat called the _Grackle_, An Authority enforcer out of the Northern Points."
 
 "What would it be doing a thousand miles from its home waters?"
 
@@ -340,15 +342,15 @@ Percy nodded.
 
 "That's what concerns me the most. Turnaround Bob works quickly and means well, but his business networks leak worse than that docking bay down there. There's a chance that the job you are about to take on is already marked by some Authority as a valid concern for privateers. You may already be a target."
 
-Percy looked into her nearly-empty coffee cup, and then savored the last sip of its creamy sweetness. "Well, I guess you get what you're paid for." She stood. "Thanks for the coffee with cream." 
+Percy looked into her nearly empty coffee cup, and then savored the last sip of its creamy sweetness. "Well, I guess you get what you're paid for." She stood. "Thanks for the coffee with cream." 
 
 "You are most welcome. I'll have my men down on the dock by the end of today with the cargo, if you think you could be ready to load your boat by then."
 
 "Thanks." Percy turned to go.
 
-"Captain Percy, If I were you I would definitely make sure you are gone from here before the next 48 hours goes by."
+"Captain Percy, if I were you I would definitely make sure you are gone from here before the next 48 hours goes by."
 
-Percy nodded towards Miss Mai and closed the heavy door behind as she left the office.
+Percy nodded toward Miss Mai and closed the heavy door behind as she left the office.
 
 [//]: # (----- invisible character break)
  
