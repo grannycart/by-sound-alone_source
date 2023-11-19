@@ -438,7 +438,7 @@ Gregory glanced at Bastian quickly, but returned his eyes to the controls.
 
 "But your stupid fucking point is that it takes a long time on a sub..."
 
-"It takes a long time. From the moment we read it off the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_, it would still take the better part of a hour. And we'll be hearing the last throes of the boat the whole way down --- the groans of the hull, the creaking supports, the collapsing trim tanks...I like to think the final failure, the big one that sends the wall of water through the boat that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you --- that last failure, I like to think it will be silent. I like the idea that the last thing we will hear is rushing water. Somehow that's a fucking comfort to me."
+"It takes a long time. From the moment we read it off the dials, it could be _hours_ before we sink below crush depth. If we go down _fast_, it would still take the better part of a hour. And we'll be hearing the last throes of the boat the whole way down --- the groans of the hull, the creaking supports, the collapsing trim tanks... I like to think the final failure, the big one that sends the wall of water through the boat that comes so fast it smashes your skull against some rusty bit of steel and finally ends it for you --- that last failure, I like to think it will be silent. I like the idea that the last thing we will hear is rushing water. Somehow that's a fucking comfort to me."
 
 "You are a motherfucker, Bastian."
 

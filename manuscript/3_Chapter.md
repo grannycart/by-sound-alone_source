@@ -232,7 +232,7 @@ In the open space of the hall, Miss Mai hobbled next to Captain Percy.  Percy to
 
 "So, the dock boss told you all about me already?" Percy asked, hoping to assess the levelness of the playing field.
 
-"The dock boss, yes, and a few others...My friend Turnaround Bob told me you are eminently trustworthy and reliable. And also run a big enough boat for the particular job I need done."
+"The dock boss, yes, and a few others... My friend Turnaround Bob told me you are eminently trustworthy and reliable. And also run a big enough boat for the particular job I need done."
 
 "Yeah, Bob tracked me down on the mainland and suggested I head out to this shithole depot to look for you. He hinted the work might be...profitable."
 
@@ -361,17 +361,19 @@ She hummed to herself as she walked through the main hall of the noisy depot. Sh
 
 She followed the trickle of oily water down the slope a little way until she noticed a kind of canteen or saloon carved back into one of the walls. She walked in and stepped up to a bar at nearly the height of her chest. It was broad and made of dark wood from which decades of drinkers had worn away the original shellac coating. A universe of spilled drinks had stained it to a mottled gray color. As in all the remote places of the world, the bar was well stocked. Rows and rows of partially empty bottles of brown liquors were lined up behind it.
 
-The man behind the bar was yet another giant, but only in the vertical direction. Rail thin, somewhat like Bastian, except he had a paunch around the belly. Years ago Percy had had a friend who would have described him as 'a skinny-fat guy.' He was grizzled about the face, like a piece of meat that had not been cleaned properly before being laid down in the frying pan. He was missing an eye which he did not bother to cover with a patch, and wearing a stained leather apron. "What cha need there lady?" he asked Percy.
+The man behind the bar was yet another giant, but only in the vertical direction. Rail thin, somewhat like Bastian, except for a paunch around the belly. Years ago, Percy had had a friend who would have described him as 'a skinny, fat guy.' He was grizzled about the face, like a piece of meat that had not been cleaned properly before being laid down in the frying pan. He was missing an eye which he did not bother to cover with a patch and wearing a stained leather apron. "Whatcha need there, lady?" he asked Percy.
+
+[//]: # (Vickers Gringo -- Paul Daniel Lyon, 1978-2010 -- was the one who said he would someday be a skinny fat guy. One small detail of the dude, that maybe I am the only person who remembers. So I put it in here.)
 
 "Give me something brown from that middle row there." She took one of her new coins from the heavy leather satchel Miss Mai had given her and laid it down on the wood of the bar. 
 
-As the bartender set up a glass and was leaning to pour it Percy continued the conversation despite the fact that the bartender did not particularly look like he would want to. "Actually, I'm looking to hire some crew. I have a boat, and we're short a few people. Thought you might be able to steer me in the right direction to where the hiring is done around here."
+As the bartender set up a glass and leaned to pour it, Percy continued the conversation, despite the fact that the bartender did not particularly look like he would want to. "Actually, I'm looking to hire some crew. I have a boat, and we're short a few people. Thought you might be able to steer me in the right direction to where the hiring is done around here."
 
-"Most of the steering I do is towards the bottles," said the bartender. "You want crew you're better off down on the dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seem to be present." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. 200 meters and more."
+"Most of the steering I do is towards the bottles," said the bartender. "You want crew, you're better off down on the dock. Usually there's some fuckin' greenies hanging around, going boat to boat and just askin' for work even. Useless fuckers, skills wise, but always seem to be present." He thought for a few seconds while he finished off the pour. "On the second hand, a lot of big boats have come through in the last week or so. It's possible they've hired up all the greenies. _Big_ fuckin' boats. Two hundred meters and more."
 
 "Yeah, that kind of boat is always hiring. Shit, that doesn't sound good. I'm a little desperate."
 
-The bartender squinted up the side of his face where his eye would have been considering for a few seconds. "Hrmm. Well, if yer fuckin' desperate... Bartendin' is my side-gig. My main business, and much more profitable I might add, is pimpin'."
+The bartender squinted up the side of his face where his eye would have been considering for a few seconds. "Hrmm. Well, if yer fuckin' desperate...bartendin' is my side-gig. My main business, and much more profitable I might add, is pimpin'."
 
 "You don't fuckin' say."
 
@@ -383,11 +385,11 @@ The bartender squinted up the side of his face where his eye would have been con
 
 Percy nodded.
 
-"The tastes of most of the folks who come through here are into something a bit... harder. Here's the big thing though: she's got just the saddest fuckin' face. And she's too shy. Even I can't bring meself to bein' comfortable-like pimping her out. A pimp has got to have a heart you know."
+"The tastes of most of the folks who come through here are into something a bit...harder. Here's the big thing, though: she's got just the saddest fuckin' face. And she's too shy. Even I can't bring meself to bein' comfortable-like pimping her out. A pimp has got to have a heart, you know."
 
 "So you're saying you'll let me hire her off you because she makes you too fucking sad?"
 
-The bartender shrugged. "Plus a finders-fee like," he said, and Percy knew she had made another negotiating mistake in letting the bartender see the heavy satchel full of coins she was carrying.
+The bartender shrugged. "Plus a finders-fee, like," he said, and Percy knew she had made another negotiating mistake in letting the bartender see the heavy satchel full of coins she was carrying.
 
 "Thing is, I need a sonar operator. I don't care if she's tiny, but do you think she has good ears?"
 
@@ -401,13 +403,13 @@ A short girl with stick arms and huge eyes walked towards them. She was wearing 
 
 As she got closer the bartender said, "This lady might want to hire you." And turned away to deal with some other customers.
 
-"Fuck," said Percy, "can you see in the dark with those eyes girl?"
+"Fuck," said Percy, "can you see in the dark with those eyes, girl?"
 
 [//]: # (The convention in a sub story is the sonar operator has amazing ears, potentially signaled by having huge ears. Cassandra has giant eyes instead.)
 
 "I don't know," Cassandra said, looking down.
 
-"Look, I'm not trying to fuck you here. I've got a boat, and I'm leaving in less than 48 hours and need to crew up. Your friendly bartender-pimp says you might be willing to work on a boat instead of whatever it is you do now. You ever work on a boat before? Or anything technical? Maybe sonar or something sonics related?"
+"Look, I'm not trying to fuck you here. I've got a boat, and I'm leaving in less than forty-eight hours and need to crew up. Your friendly bartender-pimp says you might be willing to work on a boat instead of whatever it is you do now. You ever work on a boat before? Or anything technical? Maybe sonar or something sonics related?"
 
 "No. I'm a whore. Or, supposed to be. Apparently I'm not very good at that."
 
@@ -425,7 +427,7 @@ Cassandra nodded firmly without saying anything, still looking at the floor.
 
 "What good is wealth and freedom if you are dead though?"
 
-"Look, there's dangerous and there's really fucking dangerous. You'd be mostly working sonar, at least at first. That's about as dangerous as tuning your stereo. You wouldn't have to work down in the engine room or throw lines or anything like that. Heck you couldn't lift a line even if I needed you to." Percy glanced at Cassandra's arms. "You'd be facing the same base-level danger we all face on a submarine. If we are in a situation where you might die, we'll all be in that situation together. My boat has been running for decades without taking the whole crew down, and I expect she'll run for a couple more decades. That means you aren't going to die any time soon on this boat. Can you live with that?"
+"Look, there's dangerous and there's really fucking dangerous. You'd be mostly working sonar, at least at first. That's about as dangerous as tuning your stereo. You wouldn't have to work down in the engine room or throw lines or anything like that. Heck, you couldn't lift a line even if I needed you to." Percy glanced at Cassandra's arms. "You'd be facing the same base-level danger we all face on a submarine. If we are in a situation where you might die, we'll all be in that situation together. My boat has been running for decades without taking the whole crew down, and I expect she'll run for a couple more decades. That means you aren't going to die any time soon on this boat. Can you live with that?"
 
 Cassandra nodded slowly.
 
@@ -433,7 +435,7 @@ Cassandra nodded slowly.
 
 Cassandra looked around at the dingy canteen and then directly at Percy for the first time. "OK, I'll do it."
 
-"Fine. Get your things together and come down to slip four this evening ready to leave this place behind you. At the slip ask for Hemi. He'll get you settled and explain how the pay rates work for a green crew member.  We'll train you on board after we're underway in a couple of days. For now, just stay out of the way and keep your mouth shut until someone specifically asks you to do something. Make sure you're always nearby to help the crew, but don't volunteer for anything since you don't know how to do anything. The crew know how to ask for your help when they can use it, and they don't want your help doing things you might fuck up." 
+"Fine. Get your things together and come down to slip four this evening, ready to leave this place behind you. At the slip ask for Hemi. He'll get you settled and explain how the pay rates work for a green crew member.  We'll train you on board after we're underway in a couple of days. For now, just stay out of the way and keep your mouth shut until someone specifically asks you to do something. Make sure you're always nearby to help the crew, but don't volunteer for anything since you don't know how to do anything. The crew know how to ask for your help when they can use it, and they don't want your help doing things you might fuck up." 
 
 "I understand."
 
@@ -441,13 +443,13 @@ Percy put a heavy hand on Cassandra's shoulder and then turned away from the bar
 
 "Ahem!" The bartender turned towards them and looked at Captain Percy with one eye and one socket. He rubbed his forefinger and thumb together in the air in front of him. 
 
-"Right." She pulled a stack of coins out of the leather satchel, counted out more than a fair amount and stood them on the bar. She looked at Cassandra. "That was your first paycheck. Sorry it had to go to that fucking asshole, but it'll be the last one that does."
+"Right." She pulled a stack of coins out of the leather satchel, counted out more than a fair amount, and stood them on the bar. She looked at Cassandra. "That was your first paycheck. Sorry it had to go to that fucking asshole, but it'll be the last one that does."
 
 The bartender put a knuckle to his gristly eyebrow in a mock salute as they turned away again.
 
 "Here," said Percy, handing Cassandra a few coins, "that's an advance on your next paycheck. Buy some tougher clothes."
 
-With a shy smile Cassandra turned to take the ramp towards the stairs to the next level up where the barracks were located. Percy turned down the ramp feeling like it was probably time to get back to her boat and see how repairs were proceeding.
+With a shy smile Cassandra turned to take the ramp towards the stairs to the next level up where the barracks were located. Percy turned down the ramp, feeling like it was probably time to get back to her boat and see how repairs were proceeding.
 
 [//]: # (----- invisible character break)
  
@@ -456,17 +458,17 @@ With a shy smile Cassandra turned to take the ramp towards the stairs to the nex
 
  She was warm from the liquor and had a bit of a sweat breaking on her skin in the still and humid underground air. Walking downwards in the direction of the docks her eye caught the now-familiar clanking gait of Shakes coming up the slope. The collection of wrenches at his belt made him always walk like he had a limp. He put his hand up when his eye caught Percy coming towards him. "Captain! I was just coming looking for you. I wanted to talk to you about settling up and getting my boat off your tub."
 
-"Yeah, it's about time for it, eh Captain Shakes? Let me buy you that meal I promised you first."
+"Yeah, it's about time for it, eh, Captain Shakes? Let me buy you that meal I promised you first."
 
 "Not going to say no to any fuckin' grub."
 
-Percy turned to join Shakes in the upward direction on the ramp, and retraced her steps a short way back up the exchange floor. Across from the saloon, set back in the opposite wall was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
+Percy reversed direction to join Shakes, and retraced her steps a short way back up the exchange floor. Across from the saloon, set back in the opposite wall was a small eatery. It glowed with orangish-red light that contrasted with the cold blue light of the hall.
 
 Inside they got in line behind other patrons dressed in dingy shades of wool and leather. "Chicken or creamed spinach?" asked the short man with a large gravitational mass behind the row of steaming food as he tapped a long stamped-steel serving spoon against the metal tray.
 
-They got some of each, a mounded plate full of long-grained rice with bits of clove and chopped peas and cardamom scattered in it. Their plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a few of coins from her satchel, and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
+They got some of each, a mounded plate full of long-grained rice with bits of clove and chopped peas and cardamom scattered in it. Their plates were stacked on steel trays splotched with rust, and a couple of pieces of large crispy flat bread were piled on. Percy handed the tall man at the end of the counter a few coins from her satchel, and they sat down at a chipped Formica table amid the mild roar of basso-voiced dock worker conversations.
 
-Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He moved the bread back to the first hand, and then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth. He picked up a fork with his free hand and helped guide even more of the pile into his gullet.
+Shakes ripped off a piece of the bread and passed it to his other hand while he blew on the tips of his fingers. He moved the bread back to the first hand, then piled a good amount of white rice and green spinach onto it before leaning in and shoving half the wad into his gaping mouth. He picked up a fork with his free hand and helped guide even more of the pile into his gullet.
 
 While he was chewing with bulging cheeks, Percy brought him up to speed. "So I have locked down this job rumor I mentioned. Turns out to pay well. Really fucking well."
 
@@ -496,7 +498,7 @@ Percy nodded. "Something like that has always been my strategy too. But for this
 
 She paused for a second.
 
-"But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And the partner's job was to be _unstealthy_. To run as a decoy around and above the _Prospect_. Draw away the curious eye --- or ear --- so to speak. And this partner would be clean of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
+"But I thought: what if in addition to keeping the _Prospect_ stealthy, we also had a partner with another craft of some type. And the partner's job was to be _unstealthy_. To run as a decoy around and above the _Prospect_. Draw away the curious eye --- or ear --- so to speak. And this partner would be clean, of course. Any Authority inspection would turn up an empty hold or a dull cargo of stamped cigars or something."
 
 [//]: # (Is this the plot to Smokey and the Bandit? You fucking know it!)
 
@@ -504,15 +506,15 @@ She paused for a second.
 
 "Naw. Surface craft are fucking useless. The authorities have different methods for monitoring surface vessels and submerged ones. It has to be something that could be mistaken on sonar for the _Prospect_. Possibly a boat like the _Gnat_."
 
-Shakes swallowed. "So... what? You want me to juice up the _Gnat_ so it fucking sounds like it could be a big ol' fuckin' cargo sub --- and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
+Shakes swallowed. "So...what? You want me to juice up the _Gnat_ so it fucking sounds like it could be a big ol' fuckin' cargo sub --- and then you want to hire me to run around and get caught and inspected by various Authorities that might be hunting for the _Prospect_?"
 
-"Or maybe _not_ get caught... you said the _Gnat_ was fast, right? You could outrun them when they started pursuing you... and at the same time lead them away from the _Prospect_."
+"Or maybe _not_ get caught... You said the _Gnat_ was fast, right? You could outrun them when they started pursuing you...and at the same time lead them away from the _Prospect_."
 
-Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and --- what's the fuckin' word? brash --- after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing though."
+Shakes started chewing again while he thought. "There is something appealing about the idea of being loud, fast, and --- what's the fuckin' word? brash --- after all these years of trying to sneak around and stay quiet. I can't say I have much experience at that kind of thing, though."
 
 "I have a feeling you'd be a natural."
 
-"It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed. What are you offering me exactly?"
+"It would require a little work on the _Gnat_. I'd have to undo some of the dampening I've put in over the years. And I'd need to tune it up for speed. What are you offering me, exactly?"
 
 "How about hull rate, plus two deck-crew share's worth? And a deck-crew share on this run should be pretty lucrative."
 
@@ -536,7 +538,7 @@ Shakes nodded slowly, while chewing through another piece of bread. "Alright. Fu
 
 Shakes nodded and grinned through a mouthful of food. "Well --- partner --- who knew picking up a bunch of fucking filthy marooned scumbags in the middle of the ocean would lead to anything profitable! Fuckin' sweet."
 
-"Well if that's settled, I've been away from my boat for a couple of hours now, and that is enough for some serious fucking damage to have been done. I feel like I need to be getting back there."
+"Well, if that's settled, I've been away from my boat for a couple of hours now, and that is enough for some serious fucking damage to have been done. I feel like I need to be getting back there."
 
 "You go, Captain Percy. I'm going to finish loading up on this chow."
 

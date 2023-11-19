@@ -774,7 +774,7 @@ Percy sat in the seat vacated by Chips and glanced at the empty radar scope to m
 
 On board the _Gnat_, Shakes leaned his head down at a painful angle, looking up through the small viewport and trying to see exactly where he was in relation to the hulking gray wall slowly parting the waters above him.
 
-"Fuuuuuck. They shoulda mentioned that this would be stupidly fuckin' dangerous," Shakes said to himself. "I walked right into this, I guess. Or maybe they are like a backyard bully in a pool, tormenting me --- the scrawny kid --- by holding my head underwater...Though I suppose some people must be into that sort of thing." He glanced at the stacks of porn at his feet.
+"Fuuuuuck. They shoulda mentioned that this would be stupidly fuckin' dangerous," Shakes said to himself. "I walked right into this, I guess. Or maybe they are like a backyard bully in a pool, tormenting me --- the scrawny kid --- by holding my head underwater... Though I suppose some people must be into that sort of thing." He glanced at the stacks of porn at his feet.
 
 "Captain Shakes." Hemi's voice came over the ship-to-ship with all the bass notes stripped out of it. "Do not forget that since we are moving, you are going to have to give your boat a little more motor when you get within a meter of the _Prospect_ or so. We are going slow enough that it should not be too dramatic, but you also do not want to get sucked back into the _Prospect's_ propellers."
 
