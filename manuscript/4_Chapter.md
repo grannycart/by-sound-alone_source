@@ -237,7 +237,7 @@ Hemi looked at Percy. He was not going to level off the dive until she said so.
 
 "Two hundred and ten meters. Still descending," said Gregory.
 
-"Ah ya fucking fuckturds!" Chips' voice came up from the sonar compartment where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
+"Ah, ya fucking fuckturds!" Chips' voice came up from the sonar compartment, where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
 
 "For fuck's sake Chips! If it's a choice between going deep or being fucking torpedoed, we're going deep," Percy replied. After a short pause, she said to herself, "I need a fuckin' smoke." She suddenly realized she had not smoked since the last time the _Prospect_ was moving. 
 
@@ -245,19 +245,19 @@ Hemi looked at Percy. He was not going to level off the dive until she said so.
 
 Percy opened the packet. "This tobacco is as black as used motor oil." She sniffed. "Smells like petroleum too. These are going to be rough smokes. Still, better than fuckin' cigarettes. Thanks." She slid one of the thin cheroots from the packet with her lips and lit it from a match she struck on the hull. 
 
-She sucked on the cheroot and the thought came to her that Chips probably was not totally wrong about the quality of the welding work in the cargo hold. "Let's level her off Gregory."
+She sucked on the cheroot and the thought came to her that Chips probably was not totally wrong about the quality of the welding work in the cargo hold. "Let's level her off, Gregory."
 
-"Ah fuck! Ya fuckheads are going to want the fuckin' diesels any fucking minute now too, I'm sure --- and they're in fuckin' pieces." Chips smacked her hand against the bulkhead and crawled back down towards engineering.
+"Ah, fuck! Ya fuckheads are going to want the fuckin' diesels any fucking minute now too, I'm sure --- and they're in fuckin' pieces." Chips smacked her hand against the bulkhead and crawled back down towards engineering.
 
-"Leveled out at 220 meters," said Gregory. "I'm going to make some adjustments to the trim tanks, see if I can get us floating evenly."
+"Leveled out at two-twenty meters," said Gregory. "I'm going to make some adjustments to the trim tanks, see if I can get us floating evenly."
 
 As Gregory started opening and closing valves on the trim tank control panel, the hull of the _Prospect_ let out a long groan.
 
-"Easy my pretty lady," Percy whispered to her boat.
+"Easy, my pretty lady," Percy whispered to her boat.
 
-Hemi monitored Gregory's work on the trim. When he was satisfied, he got them moving slowly and silently out into the deep ocean. "Creep speed --- three knots Owen. You can steer us away from the seamount wall now."
+Hemi monitored Gregory's work on the trim. When he was satisfied, he got them moving slowly and silently out into the deep ocean. "Creep speed --- three knots, Owen. You can steer us away from the seamount wall now."
 
-They slunk away from the depot through the pitch deep. The depth-under-keel gauge rapidly climbed until it pegged itself on the 'bottomless' pin.
+They slunk away from the depot through the pitch deep. The depth-under-keel gauge rapidly climbed until it pegged itself on the "bottomless" pin.
 
 From sonar, Bastian reported that he thought he could hear some disturbing sounds from the depot, but could not pin down any specific thing that might be happening.
 
@@ -267,11 +267,11 @@ From sonar, Bastian reported that he thought he could hear some disturbing sound
 [//]: # (### looking at the charts)
 
 [//]: # (Mid-afternoon: day 1, run to Stilt City)
-The _Prospect_ continued on its course, slowly, silently, and steadily through the blackness under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on, which everyone understood to mean the situation had returned to something like normal, even though it remained nothing like safe to continue running beyond the edge of their normal operating depth.
+The _Prospect_ continued on its course, slowly, silently, and steadily, through the blackness, under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on, which everyone understood to mean that the situation had returned to something like normal, even though it remained nothing like safe to continue running beyond the edge of their normal operating depth.
 
-"Hemi, join me at the navigation station, it's time for us to figure out where we're going," said Percy.
+"Hemi, join me at the navigation station. It's time for us to figure out where we're going," said Percy.
 
-They climbed down the ladder and turned the lights on over the navigation table. Hemi unsealed and unrolled a new chart, and laid it down under the glass. He wiped the old grease pencil marks off with a rag.
+They climbed down the ladder and turned the lights on over the navigation table. Hemi unsealed and unrolled a new chart and laid it down under the glass. He wiped the old grease pencil marks off with a rag.
 
 "I got us a more up-to-date chart at the depot," Hemi said. "Look, the depot is here. And..." He looked over some notes on their current course and speed from a clipboard he had been updating over the last couple of hours, then put a small x on the glass, not far from the deserted island that held the depot. "I estimate we are about here, now."
 
@@ -279,7 +279,7 @@ Percy pointed to a hashed arc printed on the chart that ran past one side of the
 
 "Yes," said Hemi. "Western Federated Socialists on the east side of it, Consolidated States of the Archipelago Islands on the west side of it." He looked at the date printed in the corner of the chart. "At least as of the printing of this chart, eight months ago."
 
-"We need to head towards Stilt City. But I think we should take a slightly less than direct course." Percy drew an arcing route on the chart with the tip of her finger. She indicated a point on the arc. "I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
+"We need to head toward Stilt City. But I think we should take a slightly less than direct course." Percy drew an arcing route on the chart with the tip of her finger. She indicated a point on the arc. "I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
 
 "Good. And yes, further into the Consolidated States waters will be better. They are far less likely to bother us, and we can travel for a few days while remaining in their waters. But..." He took another chart from the stack of rolled charts and unrolled it in front of Percy. "To get to Stilt City, we eventually have to head through these waters in the south. A highly contested area. At least three --- up to five --- Authorities all claiming parts of it."
 
@@ -289,9 +289,9 @@ Percy pointed to a hashed arc printed on the chart that ran past one side of the
 
 "This isn't a rush job, Hemi. We have the time to take it slow and do the stealth thing right. Let's just be careful, be silent, and not be found. We'll deliver the cargo, collect our money, and by that time we'll be a few territories away --- an entirely different part of the world --- from wherever that sub with the ram came from. I'll bet we never see that ugly fuckin' boat again."
 
-"I hope you are right." Hemi paused, running through his mental checklist of all the things that kept the boat going. "Another thing I wanted to bring up with you is that while we were adjusting the trim it looked like the boat is a little by the bow."
+"I hope you are right." Hemi paused, running through his mental checklist of all the things that kept the boat going. "Another thing I wanted to bring up with you is that while we were adjusting the trim, it looked like the boat is a little by the bow."
 
-"Hardly surprising, we never seem to be able to load cargo in a way that doesn't throw off the fucking balance."
+"Hardly surprising; we never seem to be able to load cargo in a way that doesn't throw off the fucking balance."
 
 "True. I would like to bring some of the crew down to the cargo hold and shift cargo back towards the middle of the boat. See if we can get it stowed so it trims more evenly."
 
@@ -309,26 +309,26 @@ Captain Percy considered. "I think so. Take us up to six knots. Only top sonar p
 [//]: # (### trimming the boat to handle the cargo load)
 
 [//]: # (Late-afternoon: day 1, run to Stilt City)
-Six knots was still slow, but twice the speed at which they had crawled away from the depot. With three more hours of cruising, they were out of range of all but the very best sonar gear and ears in the world. Percy had them come up to 100 meters to take some of the strain off the hull.
+Six knots was still slow, but twice the speed at which they had crawled away from the depot. With three more hours of cruising, they were out of range of all but the very best sonar gear and ears in the world. Percy had them come up to one hundred meters to take some of the strain off the hull.
 
-When the boat reached this shallower depth, Hemi worked the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said to her as she stood behind him smoking, "I think we can certainly do better with the trim if we move some of the cargo around down in the hold."
+When the boat reached this shallower depth, Hemi worked the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said as she stood behind him, smoking, "I think we can certainly do better with the trim if we move some of the cargo around down in the hold."
 
 "OK. Take Owen and Bastian down there with you. I'll watch the trim with Gregory in case she starts to lean or something. Keep in mind that it might be bad if you drop any of those fucking crates."
 
-Hemi tapped Owen on the shoulder and they climbed down to the sonar compartment where Bastian joined them on the trip down to the cargo hold.
+Hemi tapped Owen on the shoulder, and they climbed down to the sonar compartment, where Bastian joined them on the trip down to the cargo hold.
 
-When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was continuing to seep. They might never have a completely dry cargo hold again. That was OK, that is what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
+When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was continuing to seep. They might never have a completely dry cargo hold again. That was OK; that was what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
 
-Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the skill needed. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly towards the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front towards the rear of the cargo hold while still leaving enough room for the crew to get through.
+Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the necessary skill. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly toward the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front toward the rear of the cargo hold while still leaving enough room for the crew to get through.
 
-Hemi had Owen rig a hoist and chain to sliding fixtures on the roof of the cargo hold. Then Owen would climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain while Owen guided it off the stack. The individual crates were only modestly sized but were surprisingly heavy, requiring Hemi and Bastian's full combined power to lift them even with the mechanical advantage of the hoist. The three of them would then drag the airborne crate up the length of the cargo hold with the hoist sliding along the rails, and Owen and Bastian would push it with poles while Hemi lowered it to its new place.
+Hemi had Owen rig a hoist and chain to sliding fixtures on the roof of the cargo hold. Then Owen could climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain while Owen guided it off the stack. The individual crates were only modestly sized but surprisingly heavy, requiring Hemi and Bastian's full combined power to lift them, even with the mechanical advantage of the hoist. The three of them would then drag the airborne crate up the length of the cargo hold with the hoist sliding along the rails, and Owen and Bastian would push it with poles while Hemi lowered it to its new place.
 
-Every so often they would come across a non-perishable food crate, and they would have to interrupt their re-arranging work to unpack the food and bring it up to the galley to be stowed.
+Every so often they would come across one of the food crates that had not been stowed in the galley earlier, and they would have to interrupt their re-arranging work to unpack the food and move it up to the galley.
 
 [//]: # (Early-evening: day 1, run to Stilt City)
 It ended up taking a few hours to complete a first pass at rearranging the hold. When Hemi felt like the weight distribution might be good, he left Owen and Bastian smoking in the cargo hold while he ran up to the control room. There, Hemi and Percy made slight adjustments to the trim of the boat, before Hemi returned to the cargo hold to move a few more crates around. It took another hour and three more trips up to the control room before Hemi was happy with the way the cargo sat and the boat was trimmed.
 
-"Fuckin' eh Hemi," said Gregory when Hemi was finally settled back into the control room, "seemed like the boat was trim enough when we left the fuckin' depot. Didn't slow us down none."
+"Fuckin' A, Hemi," said Gregory when Hemi was finally settled back into the control room, "seemed like the boat was trim enough when we left the fuckin' depot. Didn't slow us down none."
 
 "A submarine is like the hairs on the back of your neck, Gregory. It _always_ needs a trim."
 
@@ -349,9 +349,9 @@ Cassandra nodded.
 
 "There is nothing to be concerned about. It is not as complex as it might seem. Except for the parts that are, but we will get to those as we come to them. Put your headset over both ears... You need both ears to get a full sense of what any sound you hear on sonar is doing."
 
-Cassandra adjusted the headset so it sat evenly with the headphones covering both her ears. 
+Cassandra adjusted the headset so it sat evenly, with the headphones covering both her ears. 
 
-"OK," said Hemi as he began adjusting and tuning the sonar unit, "this is the 'passive' sonar rig. You can think of it as being nothing more than microphones for listening underwater. There's 'active' sonar too --- that's a lot more complicated: active sonar sends a ping out and we listen for its echo. We do not use that often so do not worry about it for now. Passive is simpler, you are just listening, passively. Get it?"
+"OK," said Hemi as he began adjusting and tuning the sonar unit, "this is the 'passive' sonar rig. You can think of it as being nothing more than microphones for listening underwater. There's 'active' sonar too --- that's a lot more complicated: active sonar sends a ping out and we listen for its echo. We do not use that often so do not worry about it for now. Passive is simpler, you are just listening, passively. Understand?"
 
 Cassandra nodded.
 
@@ -359,27 +359,29 @@ Cassandra nodded.
 
 "That seems simple enough," said Cassandra.
 
-"That part is. It will get a lot more complex when we start using the filters and transducers to tune in on a contact later. The thing is, the ocean is never absolutely silent. Let's start by just listening to what we hear on the sonar where there are no specific contacts we are trying to focus in on." Hemi and Cassandra both remained quiet for a minute with the background sound of the ocean washing through their headphones. "OK Cassandra. What do you hear?"
+"That part is. It will get a lot more complex when we start using the filters and transducers to tune in on a contact later. The thing is, the ocean is never absolutely silent. Let's start by just listening to what we hear on the sonar where there are no specific contacts we are trying to focus in on." Hemi and Cassandra both remained quiet for a minute with the background sound of the ocean washing through their headphones. "OK, Cassandra. What do you hear?"
 
-"I don't know..." She waved one small hand around in the air absently. "A hissing sound --- white noise?"
+"I don't know..." She waved one small hand absently. "A hissing sound --- white noise?"
 
 "Almost anything could be white noise. Describe it with more detail than that."
 
-"There's... a low rumble, a bit of a swishing sound..."
+"There's...a low rumble, a bit of a swishing sound..."
 
 "Good. We are running on the electric motors, underwater, at a modest speed. That is what it sounds like when the boat is moving while submerged. Later, when we are near the surface with the diesel engines running, it will be a lot louder and you will not be able to hear much in the water beyond the engines. But while we are on the electric motors, we can hear more on sonar. 
 
-"Sonar requires imagination," Hemi continued, "you have to put your mind out there in the water. When you hear a sound, you have to match it to an image in your head that shows how the sound could be made. The more detail you can imagine in the image to fit it to the sound, the more accurate your assessment of the contact will be. That is what makes a top sonar person." 
+"Sonar requires imagination," Hemi continued. "You have to put your mind out there in the water. When you hear a sound, you have to match it to an image in your head that shows how the sound could be made. The more detail you can imagine to fit it to the sound, the more accurate your assessment of the contact will be. That is what makes a top sonar person." 
 
 Hemi pointed to the largest of a set of gauges further up the sonar unit in front of them.
 
-"Now, the gauge above the directional indicator is the main signal strength indicator. All those smaller gauges above it show signal strength at different frequencies, but you only need to worry about this main signal strength indicator for now. Watch that needle, if you see it jump, there is a significant sound out there in the water, and you will want to focus on it, listen to it, and try to figure out what it is." 
+"Now, the gauge above the directional indicator is the main signal strength indicator. All those smaller gauges above it show signal strength at different frequencies, but you only need to worry about this main signal strength indicator for now. Watch that needle. If you see it jump, there is a significant sound out there in the water, and you will want to focus on it, listen to it, and try to figure out what it is. 
 
-"Let us see..." Hemi turned the direction dial slowly. About a quarter of the way around the strength indicator dial moved up a little and wavered there. "So see by the needle that there is something to hear in this direction. What do you hear in your headset now?"
+"Let us see..." Hemi turned the direction dial slowly. About a quarter of the way around, the strength indicator dial moved up a little and wavered there. "So, see by the needle that there is something to hear in this direction? What do you hear in your headset now?"
 
-Cassandra listened, her eyes watching the signal strength indicator needle wavering like a hummingbird feeding. It was moving in response to another kind of white noise; higher pitched than the sub's engines, which she could still hear rumbling in the lower frequencies. This sound was familiar, a washing, churning sound with an occasional rumble mixed in... She smiled, "it's breaking surf isn't it?"
+Cassandra listened, her eyes watching the signal strength indicator needle wavering like a hummingbird feeding. It was moving in response to another kind of white noise, higher pitched than the sub's engines, which she could still hear rumbling in the lower frequencies. This sound was familiar, a washing, churning sound with an occasional rumble mixed in... She smiled. "It's breaking surf, isn't it?"
 
 "Correct! There is a small atoll a few miles in that direction and waves are breaking on its shore. Let's see what else is out there." Around the directional needle went, and Hemi slowed it, and stopped with the strength indicator needle throbbing slightly, like it had a pulse.
+
+[//]: # (Julia from Hagfish caught the contraction Hemi uses in the above paragraph. I think this one has to say, it just sounds too awkward to write out Let us in this instance.)
 
 Cassandra closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a strange kind of richness to them. They bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so long ago when she was a child. "Is that the sound dolphins make?"
 
@@ -387,13 +389,13 @@ Cassandra closed her eyes. In her headphones she could hear a distant clicking, 
 
 Cassandra nodded again.
 
-"That is because the sonar uses a couple of sets of microphones, one on the front of the boat, and one at the rear. Sound coming in hits one microphone before the other, and the sonar rig puts the difference into the earphones for you. With practice, you can use the difference in how long it takes to estimate how far away a contact is. For instance, I can tell you these dolphins are about a third of a nautical mile away. That only works if the contact is close enough that we can hear the difference though. If you think about it: a contact that is farther away will send out a sound that will be murky enough by the time it gets to us to hit both the microphones on the bow of the _Prospect_ and the stern at basically the same time. It's not unlike the way the stars in the sky look like they are on a flat plane even though there's vast differences in the distance they might be from us." 
+"That is because the sonar uses a couple of sets of microphones, one on the front of the boat, and one at the rear. Sound coming in hits one microphone before the other, and the sonar rig puts the difference into the earphones for you. With practice, you can use the difference in how long it takes to estimate how far away a contact is. For instance, I can tell you these dolphins are about a third of a nautical mile away. That only works if the contact is close enough that we can hear the difference, though. If you think about it: a contact that is farther away will send out a sound that will be murky enough by the time it gets to us to hit both the microphones on the bow of the _Prospect_ and the stern at basically the same time. It's not unlike the way the stars in the sky look like they are on a flat plane even though there's vast differences in the distance they might be from us." 
 
 "OK, ya, that makes sense," said Cassandra, picturing the sound waves bouncing off the boat in her head.
 
 Hemi smiled. "Miss Cassandra, you may have a career ahead of you. Keep practicing until we surface and we start the diesels later tonight. You will not be able to hear anything after that."
 
-"OK Hemi. Thanks."
+"OK, Hemi. Thanks."
 
 Hemi left her there listening to the dolphins and climbed up next to Percy in the control room.
 
@@ -419,7 +421,7 @@ Captain Percy also always kept one more ancient backup system for spotting troub
 
 Percy looked at Hemi. "Be glad you don't have to do fucking lookout duty anymore."
 
-"I am," said Hemi, "I remember it well. At night, you are just standing up there in the wind, like you are swimming through pure blackness. Your mind starts to play tricks on you when you most need to keep your mind clear. It is a young person's job."
+"I am," said Hemi. "I remember it well. At night, you are just standing up there in the wind, like you are swimming through pure blackness. Your mind starts to play tricks on you when you most need to keep your mind clear. It is a young person's job."
 
 "Reliable young people, anyway," said Percy. "Hey down there in the control room," she shouted through the hatch, "you can start the diesels."
 
@@ -441,9 +443,9 @@ Hemi called down to ask for their new speed and to confirm the heading. He marke
 
 "You're fucking kidding?"
 
-Hemi looked at her incredulously --- he was hardly ever kidding. "Apparently with the whole boat underwater more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable 40 miles off or so on sonar."
+Hemi looked at her incredulously --- he was hardly ever kidding. "Apparently with the whole boat underwater, more of the sound of the running engines goes into the water. On the surface, some of it escapes into the air. Nobody expected that when they came up with the idea of the snorkel, but the boats out in the ocean were suddenly detectable forty miles off or so on sonar."
 
-"So once again the newfangled technology doesn't solve a fucking problem, it just creates more options for a captain to have to make fucking decisions about." Percy spat.
+"So once again the newfangled technology doesn't solve a fucking problem, it just creates more fucking decisions for a captain," Percy spat.
 
 "It is certainly not a job I would ever want. I prefer a measure of certainty in my work."
 
@@ -451,7 +453,7 @@ Percy lit a cheroot. Hemi looked up at the dark gray sky, mostly obscured by clo
 
 "How's the navigation going?" Percy exhaled a long stream of smoke that was caught up by the wind and braided into the diesel exhaust behind them.
 
-"I have been keeping very close track of our time, direction and speed, as usual. But you know my track is only as good as guesswork can be. If these clouds break up tonight, and we get some stars, I would like to fix our position on the chart. When is the rendezvous with Shakes?"
+"I have been keeping very close track of our time, direction, and speed, as usual. But you know my track is only as good as guesswork can be. If these clouds break up tonight, and we get some stars, I would like to fix our position on the chart. When is the rendezvous with Shakes?"
 
 "At dawn. It will certainly be easier if we know where we are with some precision."
 
@@ -460,9 +462,9 @@ Percy lit a cheroot. Hemi looked up at the dark gray sky, mostly obscured by clo
 [//]: # (Midnight: night 1, run to Stilt City)
 The night ground on with the unvarying drone of the diesel engines always under the foot of any crew member on deck and relentlessly surrounding anyone below decks. Since the diesel engines of the _Prospect_ were just generators that created electricity to charge the batteries that powered the electric motors that actually propelled the boat, they were always run at the same optimum-efficiency speed for spinning the generators. Even when the boat changed speed, the all-consuming hum around them never changed in pitch or amplitude. For the crew at the controls, with no depth to control while they were on the surface and a steady course, there was almost nothing to do. The needles of the rows of gauges all stood steadfastly at their marks. 
 
-Percy knew that this was the hardest part of the job --- remaining always ready to take action when there was absolutely nothing to do. The crew had to stay focused on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything was not just a grime-coated gray accompanied by a background of lush and never-changing noise that managed to be the exact auditory equivalent to the bland color that surrounded them.
+Percy knew that this was the hardest part of the job --- remaining always ready to take action when there was absolutely nothing to do. The crew had to stay focused on the job during hours and hours of virtually no sensory input at all. It was far too easy to fall asleep at the controls, or let one's mind wander off to a place where everything was not just a grime-coated gray accompanied by a background of lush and never-changing noise that managed to be the exact auditory equivalent of the bland color that surrounded them.
 
-She put the crew on rest rotations. Every three hours three of them would get three hours off. This kept two people in the control room at all times, one on lookout, and one at the radar/sonar station. The off-duty crew were free to spend their time on deck if they wanted. But since there was little to see up there but a black horizon tapped firmly against a dark gray one, most of the crew came back down after a few minutes and ended up in their rack sleeping. Except for Bastian: he wrapped his long thin form in a rubber foul-weather slicker to keep the wind off and lay out on the forward deck, apparently finding sleep there as easily as a warm puppy.
+She put the crew on rest rotations. Every three hours, three of them would get three hours off. This kept two people in the control room at all times, one on lookout, and one at the radar/sonar station. The off-duty crew were free to spend their time on deck if they wanted. But since there was little to see up there but a black horizon tapped firmly against a dark gray one, most of the crew came back down after a few minutes and ended up in their rack, sleeping. Except for Bastian: he wrapped his long thin form in a rubber foul-weather slicker to keep the wind off and lay out on the forward deck, apparently finding sleep there as easily as a warm puppy.
 
 [//]: # (----- invisible character break)
  
@@ -484,25 +486,25 @@ Hemi tapped her on the shoulder, and she jumped a little before smiling when she
 
 "Sonar is extremely limited with the engines running. But..." Hemi flipped some filter switches on the sonar control board, and adjusted some tone dials. These were familiar settings he used when he was on sonar while the engines were running. "Try it like that."
 
-Cassandra set the headphones back into their comfortable position on her ears, and listened for a minute. "That's much better. It's like the engines are at least not distracting my attention." She made some notes on a pad of the settings Hemi had made.
+Cassandra set the headphones back into their comfortable position on her ears and listened for a minute. "That's much better. It's like the engines are at least not distracting my attention." She made some notes on a pad of the settings Hemi had made.
 
 "You are keeping an eye on radar too, right? That is actually maybe more important while we are on the surface."
 
-"Yup. Owen showed me what to look for. The radar... has not done anything at all."
+"Yup. Owen showed me what to look for. The radar...has not done anything at all."
 
 "That is good."
 
-"I didn't realize when I agreed to come on board that this job would be so mind-numbing... and boring."
+"I didn't realize when I agreed to come on board that this job would be so mind-numbing...and boring."
 
 "That is what makes it so hard, and why only a certain type of person makes it as a submariner. I think on land there is something of a perception that it is this glorious job, where you are out from under the thumb of Authorities, free to pursue your own career, and helping to make world commerce go around. The people on land know it is dangerous, and that gets mixed into the legend of who a submariner is. But in reality, the people who make good submariners are the ones who can handle being in a cramped space for days on end with no changes in their environment at all and still manage to keep their mind sharp enough to snap into action when a situation presents itself. It is not a job that is an expression of physical acuity. It is a job that puts your mental toughness to the test."
 
 "I certainly don't have much to offer in physical strength..." said Cassandra.
 
-"People on land think it is a job for tough guys. We are always getting men looking for jobs on submarines. Men who look like, well, like me. Hefty guys with a lot of muscles. And some of those guys are fine. But Captain Percy and I have realized over the years that the mental toughness we need is not correlated to physical toughness. We hire people who we anticipate might have that mental fortitude, at least when we have an option in who we can hire. And we find that mental toughness in all kinds of people. It is not just me and Percy, most of the people who actually work in the submarine cargo industry these days look for that quality in all types. The Authority subs are still full of big men, but the commercial subs are a pretty diverse crowd of workers."
+"People on land think it is a job for tough guys. We are always getting men looking for jobs on submarines. Men who look like, well, like me. Hefty guys with a lot of muscles. And some of those guys are fine. But Captain Percy and I have realized over the years that the mental toughness we need is not correlated to physical toughness. We hire people who we anticipate might have that mental fortitude, at least when we have an option in who we can hire. And we find that mental toughness in all kinds of people. It is not just me and Percy; most of the people who actually work in the submarine cargo industry these days look for that quality in all types. The Authority subs are still full of big men, but the commercial subs are a pretty diverse crowd of workers."
 
 "The depot was full of big men..."
 
-"You know how that happens? Those men go looking for work on submarines thinking it is a good job for a strong fellow. But they find out they can not handle the mental strain, and they wash out. They end up working the next job out from the center of what they went looking for: _servicing_ submarines instead of working on them."
+"You know how that happens? Those men go looking for work on submarines thinking it is a good job for a strong fellow. But they find out they cannot handle the mental strain, and they wash out. They end up working the next job out from the center of what they went looking for: _servicing_ submarines instead of working on them."
 
  "Ah..." she said, her eyes widening as a large piece of her world that didn't quite make sense before fell into place in her mind.
 
@@ -510,7 +512,7 @@ Cassandra set the headphones back into their comfortable position on her ears, a
 
 A smile cracked across Cassandra's face. "That's why you hired me?"
 
-"No, no no. Captain Percy hired you because she was desperate for someone to sit on sonar. But you should know that you have just as good a chance at doing this job well as any other person. And... you have done well on your first day working."
+"No, no, no. Captain Percy hired you because she was desperate for someone to sit on sonar. But you should know that you have just as good a chance at doing this job well as any other person. And...you have done well on your first day working."
 
 Cassandra nodded.  "I want to learn as much as I can." She paused, thinking about her future. "What are you up to at this hour of the night, Hemi?"
 
@@ -520,7 +522,7 @@ Cassandra nodded.  "I want to learn as much as I can." She paused, thinking abou
 
 Cassandra hung the sonar headphones on the hook and joined Hemi at the navigation table. She looked at the big chart, and the dotted line marking their course from the depot island, and the little x marking their current position. "How do you know where we are?"
 
-"Honestly, it is mostly just a guess. I keep track of our speed and direction very carefully. Then I just plot that onto the chart based on how long we have been traveling. That is called dead-reckoning. If the chart is accurate and there are not too many mitigating factors, like, say, a strong current that I can not account for, then we know roughly where we are and that we will not run into anything."
+"Honestly, it is mostly just a guess. I keep track of our speed and direction very carefully. Then I just plot that onto the chart based on how long we have been traveling. That is called dead-reckoning. If the chart is accurate and there are not too many mitigating factors, like, say, a strong current that I cannot account for, then we know roughly where we are and that we will not run into anything."
 
 "What happens if there is a strong current that pushes you off course and you don't realize it?"
 
@@ -532,7 +534,7 @@ Cassandra hung the sonar headphones on the hook and joined Hemi at the navigatio
 
 They climbed up through the control room and up the interior ladders of the sail to the bridge. Owen was back in the lookout ring above them and greeted them when their heads shadowed the red light coming up from the open hatch, happy to have something to break the monotony of being on lookout.
 
-Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that it occurred far more often than seemed statistically probable that the _Prospect_ surfaced and he came out on deck to find a low, blanketing cloud cover. He could hardly recall the last time they surfaced to a clear sky and his deeply-rational self was challenged by the sense that being on the open surface was in fact nature's opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them.
+Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that it occurred far more often than seemed statistically probable that the _Prospect_ surfaced and he came out on deck to find a low, blanketing cloud cover. He could hardly recall the last time they surfaced to a clear sky, and his deeply rational self was challenged by the sense that being on the open surface was in fact nature's opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them.
 
 But not this night. The sky was clear from one horizon to the other, and the stars glowed in their visible tens-of-thousands, their appreciable numbers a heuristic suggesting the reality of the uncountable multiples of billions of other stars that existed invisibly in the universe above them. With no light over the horizon, the stars came right down to the surface of the water in every direction, infinity compressed to a perfectly smooth dome that lay over them.
 
@@ -550,13 +552,13 @@ Hemi took out his sextant, clipboard, star charts, and graphs. He took sightings
 
 Cassandra nodded.
 
-"Unlike mariners, the submariner does not often have the luxury of visual references to find their place in the world," Hemi continued, "we wander under the ocean, feeling our way by sound. And every once in a while poke our head up to secure our location in the swirling mass by judging ourselves against the stars."
+"Unlike mariners, the submariner does not often have the luxury of visual references to find their place in the world," Hemi continued. "We wander under the ocean, feeling our way by sound. And every once in a while poke our head up to secure our location in the swirling mass by judging ourselves against the stars."
 
 "That's poetic," said Owen, listening to their conversation from the lookout ring.
 
-Hemi smiled, "and just a little bit of a cliché," he said more loudly for Owen's benefit. "I find a touch of the poetic gives some much-needed meaning to this black and gray metal world of ours. But if you let it go to your head, it could keep you from making the clear-minded assessments of situations that are necessary to remain alive as a submariner." Hemi took a sighting of another star and marked its altitude down on his clipboard. "OK Cassandra. Back to your radar scope. I need to make some minor course adjustments in the control room."
+Hemi smiled. "And just a little bit of a cliché," he said more loudly, for Owen's benefit. "I find a touch of the poetic gives some much-needed meaning to this black and gray metal world of ours. But if you let it go to your head, it could keep you from making the clear-minded assessments of situations that are necessary to remain alive as a submariner." Hemi took a sighting of another star and marked its altitude down on his clipboard. "OK, Cassandra. Back to your radar scope. I need to make some minor course adjustments in the control room."
 
-Hemi and Cassandra climbed back down into the _Prospect_ leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
+Hemi and Cassandra climbed back down into the _Prospect_, leaving Owen alone to occupy the center point on a circular field of blackness under the perfect half-sphere of stars.
 
 [//]: # (----- invisible character break)
  
