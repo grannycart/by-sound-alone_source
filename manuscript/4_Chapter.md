@@ -122,13 +122,13 @@ And then Percy heard a crunching pop. And she heard a huge bubble of air escape,
 
 [//]: # (### they throw lines)
 
-Captain Percy took off the sonar headset and laid it on its hook. "We gotta get the fuck out of here," she said. Then louder, so Hemi could hear, "Hemi! We need to get out of here!"
+Captain Percy took off the sonar headset and laid it on its hook. "We gotta get the fuck out of here," she said. Then, louder, so Hemi could hear, "Hemi! We need to get out of here!"
 
 Bastian nodded, the other sonar headset still on his ears.
 
-"Right Sylvia. I concur," said Hemi from above.
+"Right, Sylvia. I concur," said Hemi from above.
 
-"Here kid." Percy ripped a piece of scrap paper from the pad at Bastian's elbow. She scribbled on it with a pencil and handed it to the messenger. "That's for a guy who goes by 'Shakes.' He's got a small boat at one of the slips. Find him and give him that message." She dug a few coins from her pocket and handed them to him.
+"Here, kid." Percy ripped a piece of scrap paper from the pad at Bastian's elbow. She scribbled on it with a pencil and handed it to the messenger. "That's for a guy who goes by 'Shakes.' He's got a small boat at one of the slips. Find him and give him that message." She dug a few coins from her pocket and handed them to him.
 
 The messenger was off with an energy one would never have suspected by the lethargy that had engulfed his sitting form just a few moments before.
 
@@ -142,11 +142,11 @@ Gregory's voice came over the ship PA. "Hemi, the cargo hatch is sealed and floo
 
 Percy could hear Hemi's voice take on a soft professional tone as he got on the ship-to-ship radio and notified the docking control office they intended to depart.
 
-A minute later Owen appeared. He took a rag from a hook on the wall and wiped his hands that were blackened with grease.
+A minute later, Owen appeared. He took a rag from a hook on the wall and wiped his hands that were blackened with grease.
 
 Percy motioned him up the ladder. "I think Hemi wants you in one of the control seats. We gotta get outta here. Is Chips ready to go in the engine room?"
 
-"Well, she's got all the compressed air lines off one of the diesels to check and clean 'em," he answered her as they were both climbing into the control room, "she's not going to be thrilled about finishing that job up while the boat is moving. And she cursed Hemi up and down the meridian for requesting me up here."
+"Well, she's got all the compressed air lines off one of the diesels to check and clean 'em," he answered her as they were both climbing into the control room. "She's not going to be thrilled about finishing that job up while the boat is moving. And she cursed Hemi up and down the meridian for requesting me up here."
 
 [//]: # (Referring to the compressed-air lines are used to turn the diesels over when starting the engines.)
 
@@ -158,11 +158,11 @@ Gregory arrived a few moments later and Hemi gestured him into the other control
 
 "No problem with the dock crew getting the hatch sealed?" Hemi asked Gregory.
 
-"Well, after that explosion sound, the whole dock went a little crazy. I think, like us, a lot of submariners have taken that as a signal to leave. But for a couple of coins I got that messenger kid to seal up the dock side hatch and flood it for us.
+"Well, after that explosion sound, the whole dock went a little crazy. I think, like us, a lot of submariners have taken that as a signal to leave. But for a couple of coins I got that messenger kid to seal up the dock side hatch and flood it for us."
 
 "Excellent," said Hemi.
 
-Percy looked down through the hatch to the sonar compartment and saw Cassandra standing quietly off to the side. Captain Percy leaned down and motioned to the second sonar operator's seat and the spare headset. "Sit over there Cassandra. Put that headset on, and start to familiarize yourself with the sonar rig."
+Percy looked down through the hatch to the sonar compartment and saw Cassandra standing quietly off to the side. Captain Percy leaned down and motioned to the second sonar operator's seat and the spare headset. "Sit over there, Cassandra. Put that headset on and start to familiarize yourself with the sonar rig."
 
 Cassandra moved to sit down next to Bastian without a word.
 
@@ -174,7 +174,7 @@ Percy nodded. It was a standard maneuver for a docking situation like this one. 
 
 Hemi picked up the ship-to-ship mic and told the docking control office they were leaving. He did not wait for them to reply before reaching over and flipping the switch that operated the electro-magnets in the docking clamps. The clamps reversed with a loud clunk that echoed up the length of the _Prospect's_ hull.
 
-"I am going to open the main ballast vent valves," Hemi warned the other crew members with him in the control room. He stepped up to the tank trim control panel, and rolled open each of the wheels controlling the ballast valves.
+"I am going to open the main ballast vent valves," Hemi warned the other crew members with him in the control room. He stepped up to the tank trim control panel and rolled open each of the wheels controlling the ballast valves.
 
 There was a hiss of air escaping from the boat and the _Prospect_ fell slowly downwards under their feet. 
 
@@ -184,14 +184,14 @@ Owen pulled the throttle controls backwards, and they felt a small acceleration 
 
 "Control room!" Bastian shouted up from the sonar station. "There's fucking boats everywhere in the water! Seems like no one wants to be hanging around this shithole anymore. You're going to have to move slowly to get out of here without hitting one of them."
 
-"The last thing any of them want is to move slowly and cautiously right now, of course," Percy said to Hemi as he hung on to the leather strap over the captain's station.
+"The last thing any of them wants is to move slowly and cautiously right now, of course," Percy said to Hemi as he hung on to the leather strap over the captain's station.
 
 "That might be exactly what whoever fired that torpedo was thinking," put in Gregory. "Scare all the fuckin' rats away and take the cheese for themselves."
 
 
 [//]: # (### They escape under the pursuing sub)
 
-Hemi was too busy considering his options to respond. He was counting seconds to himself, reckoning how much time there was until the _Prospect's_ bow was backed out from under the dock. As soon as he was sure they were clear, he leaned over Owen and put the throttle slightly into the forward position, waited until the boat slowed to nearly a stop and then backed off to no throttle. It was too dangerous to keep reversing --- there was no way to know if another boat was behind them. "Bastian," Hemi called down to sonar, "I need sea room --- some safe space to maneuver in."
+Hemi was too busy considering his options to respond. He was counting seconds to himself, reckoning how much time there was until the _Prospect's_ bow was backed out from under the dock. As soon as he was sure they were clear, he leaned over Owen and put the throttle slightly into the forward position, waited until the boat slowed to nearly a stop, and then backed off to no throttle. It was too dangerous to keep reversing --- there was no way to know if another boat was behind them. "Bastian," Hemi called down to sonar, "I need sea room --- some safe space to maneuver in."
 
 "Right Boss, hang on." A full minute passed. "It sounds like you can come about to 180, nobody moving directly to the south of us."
 
@@ -201,25 +201,25 @@ Hemi was too busy considering his options to respond. He was counting seconds to
 
 The _Prospect_ put a tiny, silent amount of speed on. They crawled out of the docking area, with Bastian --- swinging the sonar mics back and forth rapidly --- trying to make sure he was hearing every contact and understood where each was going. It was a good first lesson in sonar for Cassandra, though she found herself wildly confused by all the different sounds, their meanings, and their correlations to the range and heading calculations. She listened with an anxious look on her face.
 
-"You'll get the fuckin' hang of it eventually," Bastian said to her quietly so as not to lose track of what was happening in his earphones. "Or... you fuckin' won't. Seems to me like people either get sonar, or they don't. There's no in-between."
+"You'll get the fuckin' hang of it eventually," Bastian said to her quietly so as not to lose track of what was happening in his earphones. "Or...you fuckin' won't. Seems to me like people either get sonar, or they don't. There's no in between."
 
 Cassandra hardly looked reassured.
 
-"Hemi!" Bastian called up, "new contact. Coming in fast from the east, port-side." A few seconds passed. "I'd say, fairly big sub, pretty noisy amount of fucking water running along the hull. Fully submerged, and just charging towards the docking area."
+"Hemi!" Bastian called up. "New contact. Coming in fast from the east, port-side." A few seconds passed. "I'd say, fairly big sub, pretty noisy amount of fucking water running along the hull. Fully submerged, and just charging towards the docking area."
 
 "That's probably the one that did the firing," Hemi said to Percy.
 
 "Let's put some distance between us and that boat," said Percy.
 
-Hemi, with the intuitive three-dimensional thinking of an experienced submariner, understood immediately that when Percy said 'distance' she did not mean horizontal distance, like on a chart. To achieve that kind of distance would require increasing speed, and increasing speed would create enough motor noise that they could be heard and tracked. Hemi looked at the depth-under-keel gauge, already showing a hundred meters or so to the bottom and dropping fast as they moved away from the seamount the depot island was built atop of. "Some distance it is, Captain. Gregory, down plane please."
+Hemi, with the intuitive three-dimensional thinking of an experienced submariner, understood immediately that when Percy said "distance" she did not mean horizontal distance, like on a chart. To achieve that kind of distance would require increasing speed, and increasing speed would create enough motor noise that they could be heard and tracked. Hemi looked at the depth-under-keel gauge, already showing a hundred meters or so to the bottom and dropping fast as they moved away from the seamount the depot island was built atop of. "Some distance it is, Captain. Gregory, down plane, please."
 
 [//]: # (Hemi thinks three-dimensionally, unlike Khan! Could not resist a way-too-subtle Star Trek reference.)
 
 As Gregory turned the dive plane wheel and steered the boat into the depths, Hemi stepped over to the tank control panel and opened the valve to flood the forward fast-dive tank. Water sloshed through the ship, and the bow pitched downward. Percy and Hemi, standing, tightened their grips on the overhead straps.
 
-Percy reached for some switches on the wall that changed the lighting to night lighting. The white lights faded away and red bulbs came on bathing them all in a sanguine glow. It was not strictly necessary --- night lighting was actually to preserve the night-vision for anyone who needed to look through the periscope --- but Percy was of the school that believed in switching to night lighting in any situation where she needed her crew to remain alert. The red light served as a constant reminder that they needed their sharpest skills and tactics.
+Percy reached for some switches on the wall that changed the lighting to night lighting. The white lights faded away and red bulbs came on bathing them all in a sanguine glow. It was not strictly necessary --- night lighting was intended to preserve the night-vision for anyone who needed to look through the periscope --- but Percy was of the school that believed in switching to night lighting in any situation where she needed her crew to remain alert. The red light served as a constant reminder that they needed their sharpest skills and tactics.
 
-"Keep us close to that seamount," said Percy, "it will give us extra cover if they decide to use their active sonar."
+"Keep us close to that seamount," said Percy. "It will give us extra cover if they decide to use their active sonar."
 
 "No reason not to make a tricky operation even trickier," said Hemi. "Bastian, are we clear of the traffic abandoning the depot?"
 
@@ -229,13 +229,13 @@ Percy reached for some switches on the wall that changed the lighting to night l
 
 "Doesn't sound like it. I think we're the only ones who took that particular route."
 
-Hemi had Owen bring the bow around, and they sank obliquely, traveling close to and across the sloping wall of the seamount.
+Hemi had Owen bring the bow around and they sank obliquely, traveling close to and across the sloping wall of the seamount.
 
-"200 meters down. Depth-under-keel: 20 meters to the wall of the seamount," said Gregory.
+"Two hundred meters down. Depth-under-keel: twenty meters to the wall of the seamount," said Gregory.
 
 Hemi looked at Percy. He was not going to level off the dive until she said so.
 
-"210 meters. Still descending," said Gregory.
+"Two hundred and ten meters. Still descending," said Gregory.
 
 "Ah ya fucking fuckturds!" Chips' voice came up from the sonar compartment where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
 
