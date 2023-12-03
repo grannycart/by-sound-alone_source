@@ -115,7 +115,7 @@ She hung on the metal rungs of the ladder just under the hatch set in the ceilin
 
 "Give me full speed forward," said Hemi. He put one large hand on each of the shoulders of the two men who sat at the controls of the sub and instructed them to dive the boat. One of these men was a stick-figure of a man who went by the moniker Bastian. The other, "Handsome" Gregory, had a meaty square forehead that looked like a miniaturized version of his meaty square torso. Of the two of them, only Gregory looked like he belonged on a submarine.
 
-Diving the sub required delicacy even in the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements. Their eyes scanned continually over the wall of dials, gauges, switches, and valves in front of them that reflected the red glow of the night lighting. This wall at the front of the control room told them the _Prospect's_ angle, depth, speed, systems settings, battery charge --- the whole picture of the boat's orientation and movement. Indeed, this wall, plus some of the panels situated to their right and left, was the _only_ way to know the status of the boat while it was submerged.  
+Diving the sub required delicacy even in the calmest circumstances. Now Hemi and the two men at the controls carefully timed their movements. Their eyes scanned continually over the wall of dials, gauges, switches, and valves in front of them that reflected the red glow of the night lighting. This wall at the front of the control room told them the _Prospect_'s angle, depth, speed, systems settings, battery charge --- the whole picture of the boat's orientation and movement. Indeed, this wall, plus some of the panels situated to their right and left, was the _only_ way to know the status of the boat while it was submerged.  
 
 Gregory and Bastian made adjustments according to Hemi's instructions, choosing carefully which of the dozens of valves to open or close, or which switches to flip on or off. The submarine let out a long exhale: the air that had held it aloft on the surface being pressed out by an onrush of water from below into the flooding tanks.
 
@@ -167,7 +167,7 @@ Her eyes scanned back and forth across the dials, but the information did not co
 
 "I need to go look my girl over. Let me know on the PA if something happens." 
 
-Hemi nodded and Captain Percy slipped down the ladder to the deck below. She stepped to the front of the navigation and sonar compartment and climbed down a steel ladder to the middle deck of the boat. This was crew quarters. The _Prospect's_ third deck-crew member, Owen Smalls, was off watch and snoring in his rack behind one of the moth-eaten old bed curtains. She continued through a hatch at the rear end of crew quarters and down another steel ladder to the lowest of the three main decks. If there were something physically wrong with her boat, this deck was the most likely place to figure out what it was.
+Hemi nodded and Captain Percy slipped down the ladder to the deck below. She stepped to the front of the navigation and sonar compartment and climbed down a steel ladder to the middle deck of the boat. This was crew quarters. The _Prospect_'s third deck-crew member, Owen Smalls, was off watch and snoring in his rack behind one of the moth-eaten old bed curtains. She continued through a hatch at the rear end of crew quarters and down another steel ladder to the lowest of the three main decks. If there were something physically wrong with her boat, this deck was the most likely place to figure out what it was.
 
 She flipped on the lights. There was no red night lighting rigged down here, it was just bare white bulbs behind protective steel cages. The lights stretched off in a line on the ceiling, forward and aft of her. This particular lower-deck compartment was entirely full of batteries, strung together with a web of black cables as thick as her finger. The cables were grouped together with wire ties and slung along the racks in heavy bundles. The batteries were bolted with rusting steel straps to row upon row of steel shelves. 
 
@@ -179,14 +179,14 @@ The main cargo hold was one giant void occupying most of the front half of the b
 
 She walked along the centerline of the space, the spine of the boat, listening carefully. It seemed to her that there was something wrong with the sound of her footsteps on the metal grating. As she neared the front of the compartment, she realized it was not the sound of her footsteps that was off, it was that she could hear water trickling faintly. She knelt and pulled up the grating. There was a pond of oily black water just under the deck level. In it swam a small school of old cigarette butts. Little ripples formed from resonance with the hum of the electric motors, their vibrations passing up the hull and encoding themselves on the scum of the surface here. 
 
-There should not be this much water. Now Percy knew exactly what was wrong with her boat: the ramming had cracked the pressure hull, and the _Prospect's_ cargo hold was filling slowly with water.
+There should not be this much water. Now Percy knew exactly what was wrong with her boat: the ramming had cracked the pressure hull, and the _Prospect_'s cargo hold was filling slowly with water.
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### Hemi deals with the pursuing sub in the control room)
 
-"Keep this depth, and course, I will be down at sonar listening for that sub." Hemi climbed down from the cramped control room to the compartment below. If he turned and leaned back from the sonar station, he could almost see up into the control room just behind and above him, and could still instruct the men at the controls of the boat. Likewise, Gregory and Bastian could still give him reports on the _Prospect's_ status, albeit with a little more emphasis thrown into their voices so they carried below to Hemi. 
+"Keep this depth, and course, I will be down at sonar listening for that sub." Hemi climbed down from the cramped control room to the compartment below. If he turned and leaned back from the sonar station, he could almost see up into the control room just behind and above him, and could still instruct the men at the controls of the boat. Likewise, Gregory and Bastian could still give him reports on the _Prospect_'s status, albeit with a little more emphasis thrown into their voices so they carried below to Hemi. 
 
 Hemi did not bother sitting down at the sonar station. Instead, he stood behind the empty sonar operator's chair and slipped the headphones with the worn ear-pads onto his head, covering one ear. He spun the control wheel for the sonar slowly, listening for human sounds out in the malevolent underwater darkness. There was nothing but silence.
 
@@ -209,7 +209,7 @@ She climbed up a deck and crossed from the back of crew quarters, through the ga
 
 "Chips! Chips, come over here."
 
-The clanking sound stopped and the face of the _Prospect's_ engineer appeared below the opening a moment later, peering up at her. Chips's hands were black with grease that had also created a grimy patch on the leather apron she wore. In her hands, as if she had been butchering some small game animal for dinner, she held the shell of a deconstructed piece of machinery about the size of a baseball.
+The clanking sound stopped and the face of the _Prospect_'s engineer appeared below the opening a moment later, peering up at her. Chips's hands were black with grease that had also created a grimy patch on the leather apron she wore. In her hands, as if she had been butchering some small game animal for dinner, she held the shell of a deconstructed piece of machinery about the size of a baseball.
 
 Chips's real name was Irene something-or-other, but Hemi had stuck her with the nickname "Chips" when she had signed on. According to Hemi, "Chips" was the traditional nickname for a ship's carpenter, going back to antiquity. And even though there was little carpentry to be done on a submarine, the ship's carpenter was generally responsible for any number of random jobs that were not already assigned to the deck crew. When she had first come aboard, Hemi had such a list of things that needed doing on the _Prospect_ that he felt the name was appropriate to the new position. Also, he had always wanted a "Chips" on the boat --- he was a fan of the classics.
 
@@ -401,7 +401,7 @@ She put the idea of the surface aside. What if she did look under the dark water
 
 The navigation station sat on top of a stack of flat files containing charts that were not of immediate use. Behind the flat files, rolls of more commonly-used charts were stacked between upright stakes. With the white lights on, the charts showed their age, yellowed and flaking at the edges.
 
-Hemi had marked the _Prospect's_ current position on a glass sheet laying over the chart that showed the region of the ocean they were moving through. The black smudges of grease pencil trailed up away from the shoreline they had left days before. They were in the middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. 
+Hemi had marked the _Prospect_'s current position on a glass sheet laying over the chart that showed the region of the ocean they were moving through. The black smudges of grease pencil trailed up away from the shoreline they had left days before. They were in the middle of the ocean. It was a wasteland, far from any continental shelf or island that they could make it to on battery power alone, while slowly sinking. 
 
 She pulled down a magnifier that hung from the ceiling by a retractable line. She looked closely at the grease markings on the chart, and the depth markings around them. "Hemi... come down here." 
 

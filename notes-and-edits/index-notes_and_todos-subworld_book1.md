@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-10-29 14:21
+Last modified: 2023-12-03 11:20
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -33,6 +33,7 @@ Last modified: 2023-10-29 14:21
 ## Final production todos
 --------------------------------------------------------------------------------
 * [ ] after track changes review, go through Hagfish general feedback email and make sure general comments are considered
+* [X] Change possessive ship names so the 's is not italized (Chicago)
 * [X] hire hagfish
 * [X] For next edit pass (do when you apply Hagfish revisions)
 	* [X] do a run through to catch grammar/spelling errors caught by google docs

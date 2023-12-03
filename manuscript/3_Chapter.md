@@ -44,7 +44,7 @@ The ship-to-ship radio lit up over their heads. _"To approaching submarine: stop
 
 "That's how," said Percy.
 
-They shut the _Prospect's_ motor down, and Percy headed up to the bridge on the top of the sail. A mini-sub, maybe fifteen meters long, had surfaced off their starboard side. A pair of large men, almost as big as Hemi, were climbing into an inflatable boat. They motored across the gap between the two subs and climbed up the steel rungs on the outside of the _Prospect's_ sail.
+They shut the _Prospect_'s motor down, and Percy headed up to the bridge on the top of the sail. A mini-sub, maybe fifteen meters long, had surfaced off their starboard side. A pair of large men, almost as big as Hemi, were climbing into an inflatable boat. They motored across the gap between the two subs and climbed up the steel rungs on the outside of the _Prospect_'s sail.
 
 "Transport sub?" was the first question as soon as they stood on the bridge. They wore old moth-eaten wool clothes, like fishermen: tightly worsted slacks and cable-knit sweaters.
 
@@ -66,22 +66,22 @@ They split the coins between them, barely even pretending that it was a legitima
 
 "Thanks so fuckin' much," said Percy.
 
-She followed them as they climbed back outside on the bridge. They puttered their little inflatable boat back to their small patrol sub. Percy could see them sharing a laugh between themselves even from the height of the _Prospect's_ sail.
+She followed them as they climbed back outside on the bridge. They puttered their little inflatable boat back to their small patrol sub. Percy could see them sharing a laugh between themselves even from the height of the _Prospect_'s sail.
 
 [//]: # (----- invisible character break)
  
 
 [//]: # (### They dock at the underwater dock)
 
-Back in the control room, Percy picked up the ship-to-ship mic and raised the docking control office. She got their assigned docking port and, sealing up the _Prospect's_ external hatch, they used the last remaining few minutes of their batteries to dive the boat. 
+Back in the control room, Percy picked up the ship-to-ship mic and raised the docking control office. She got their assigned docking port and, sealing up the _Prospect_'s external hatch, they used the last remaining few minutes of their batteries to dive the boat. 
 
 It occurred to Shakes that diving the _Prospect_ to dock would push the _Gnat_ beyond his rough estimate of a depth limit --- deeper than it had ever been. For this reason, he decided to ride out the docking procedure down in his boat. If he heard sounds that indicated the hull might fail, he could warn Percy to surface. From the control chair of the _Gnat_, he could also watch the approaching depot docking bay through the viewport.
 
 The docking bay was located about twenty meters underwater. It was typical of an underwater docking bay for cargo --- a long cylindrical tube of curved and welded plate steel. It stuck a hundred meters out of the side of the seamount and was supported by hazardous and seemingly randomly-placed steel bracing beams that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking all manner of sizes and orientations of cargo subs. They numbered between a dozen and two dozen, and maybe half of them had submarines docked at them already, arranged at an array of angles. They looked like leeches with their orifices sucking at a giant limb.
 
-The _Prospect_ followed the sonar beacon to docking slip four, located on the bottom of the docking bay tube. It was the largest size slip this depot had available --- or even widely used in the cargo sub industry. A semi-standard size for large cargo hold hatches. They carefully eased the _Prospect_ under slip four, until the big cargo hatch on the _Prospect's_ deck came up to the docking slip and connected to it --- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
+The _Prospect_ followed the sonar beacon to docking slip four, located on the bottom of the docking bay tube. It was the largest size slip this depot had available --- or even widely used in the cargo sub industry. A semi-standard size for large cargo hold hatches. They carefully eased the _Prospect_ under slip four, until the big cargo hatch on the _Prospect_'s deck came up to the docking slip and connected to it --- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
 
-Hemi went down to the cargo hold and walked, hunched over, across the catwalk that hung two meters down from the ceiling. Captain Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. There, he picked up a rubber mallet that was left hanging on some hooks for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gonging sound that reverberated for a full twenty seconds. He waited a few seconds more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect's_ cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
+Hemi went down to the cargo hold and walked, hunched over, across the catwalk that hung two meters down from the ceiling. Captain Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. There, he picked up a rubber mallet that was left hanging on some hooks for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gonging sound that reverberated for a full twenty seconds. He waited a few seconds more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect_'s cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
 
 Two winches were set on either side of the cargo hatch along the catwalk. The big hatch was closed by two concave half-moon doors that lay one over the other to form a low dome. The upper one needed to be raised first. Hemi grabbed the wheel that turned the winch and put a good portion of his straining and powerful muscle into it, but it would not budge. This sometimes happened when the air pressure between a sub and a dock was not equalized. Hemi was trying to push up the door when there was slightly more than an atmosphere of pressure weighing on it.
 
@@ -629,7 +629,7 @@ At the other end of the cargo hold, Captain Percy found Shakes had made his way 
 
 "You got the _Gnat_ refueled already?"
 
-"Naw," said Shakes through a mouthful of oozing leaves, "but if you look back toward the end of the battery compartment, to the hatch down to the _Gnat_, you can see we've still got the _Gnat's_ batteries connected to the circuit. That means since we've been charging the _Prospect's_ batteries," he nodded toward the heavy cables hanging from the _Prospect's_ cargo hatch and running up the middle of the cargo hold, "we've been feeding the _Gnat_ juice too. Hemi here figures there's enough charge on now that I could move the _Gnat_ to its own slip, and refuel there. ...Remembering to send the bill to y'all, of course."
+"Naw," said Shakes through a mouthful of oozing leaves, "but if you look back toward the end of the battery compartment, to the hatch down to the _Gnat_, you can see we've still got the _Gnat_'s batteries connected to the circuit. That means since we've been charging the _Prospect_'s batteries," he nodded toward the heavy cables hanging from the _Prospect_'s cargo hatch and running up the middle of the cargo hold, "we've been feeding the _Gnat_ juice too. Hemi here figures there's enough charge on now that I could move the _Gnat_ to its own slip, and refuel there. ...Remembering to send the bill to y'all, of course."
 
 Hemi nodded. "With that mating collar we added, you should be able to dock at one of the regular slips for small boats."
 
@@ -647,7 +647,7 @@ Percy patted him on the arm like a grandmother pleased with the works of a young
 
 It did not take too long for Hemi to seal Shakes into the _Gnat_ and get it disconnected from the _Prospect_, though Hemi wanted some help coiling and stowing the heavy jumper wires that were no longer needed, and it took a while to find one of the deck crew to help him.
 
-Shakes steered the _Gnat_ further down the docking bay and got it mated up to slip fifteen. After popping the _Gnat's_ hatch at that slip, he started the process of negotiating with the dock workers for finishing the job of getting the batteries charged, and for refueling the fuel ballast tanks. Pretty soon, the _Gnat_ was gorging on its own set of umbilicals running down through its sail hatch and into its belly.
+Shakes steered the _Gnat_ further down the docking bay and got it mated up to slip fifteen. After popping the _Gnat_'s hatch at that slip, he started the process of negotiating with the dock workers for finishing the job of getting the batteries charged, and for refueling the fuel ballast tanks. Pretty soon, the _Gnat_ was gorging on its own set of umbilicals running down through its sail hatch and into its belly.
 
 [//]: # (----- invisible character break)
  
@@ -662,7 +662,7 @@ Getting the boat ready to go out again so quickly was not just expensive, it als
 
 The only fuel oil Hemi could contract for on the dock on such short notice was a gritty and sludgy bunker. Chips was also not going to be happy about feeding that stuff to her engine.
 
-By dinner time, most of the critical repair and refueling work was wrapping up. Most of the crew took off for the cafe on the exchange floor. Hemi and Percy stayed behind and ate in the _Prospect's_ galley, though they prepped dinner from somewhat fresher food items they had bought off the dock, including a head of cabbage and a bit of gristly meat.
+By dinner time, most of the critical repair and refueling work was wrapping up. Most of the crew took off for the cafe on the exchange floor. Hemi and Percy stayed behind and ate in the _Prospect_'s galley, though they prepped dinner from somewhat fresher food items they had bought off the dock, including a head of cabbage and a bit of gristly meat.
 
 "What's left for us to do, Hemi?"
 
@@ -703,7 +703,7 @@ Hemi forked his last bite of meat and squeezed his bulk out of the tight galley 
 
 [//]: # (### Loading the magnetic warheads)
 
-They climbed up the ladder from the catwalk to the depot docking bay to find dozens of large and molding wooden crates stacked up around the open hatch into the _Prospect's_ cargo hold. The sides of the crates were stamped with "XL Industries" and "CAUTION!" Apparently XL Industries knew better than to put the word "EXPLOSIVES" on their packing materials, with the attendant risk that would bring of attracting unnecessary attention during an inspection. But XL Industries still felt that anyone handling their products should have a heads up that they should not be tossed around casually.
+They climbed up the ladder from the catwalk to the depot docking bay to find dozens of large and molding wooden crates stacked up around the open hatch into the _Prospect_'s cargo hold. The sides of the crates were stamped with "XL Industries" and "CAUTION!" Apparently XL Industries knew better than to put the word "EXPLOSIVES" on their packing materials, with the attendant risk that would bring of attracting unnecessary attention during an inspection. But XL Industries still felt that anyone handling their products should have a heads up that they should not be tossed around casually.
 
 Making their way about the crates were a half dozen or so dock workers --- more huge swarthy men wearing moth-eaten tweed and leather suits, chomping on various forms of tobacco or seeds. They swarmed around a large pushcart stacked high with the wooden "Caution" crates. They were unloading the cart, lifting the crates by chains suspended from a sliding hoist that hung from anchor points welded to the roof of the depot's docking bay tube. This sliding hoist would be used to lower the crates down into the cargo hold of the _Prospect_. A couple of men made their way down to the deck of the cargo hold where they would receive the lowered crates.
 
@@ -723,7 +723,7 @@ Percy took the pen and scrawled her illegible name into the blank.
 
 Hemi adjusted his glasses and more studiously scanned over the contract before he signed the witness blank. The man tore off a carbon copy and held it out to Percy. Hemi took it, folded it, and put it into his inside jacket pocket.
 
-By the time this was done the dock crew already had the first crate in a sling suspended by chains and hanging out over the _Prospect's_ open cargo hold. The chain passed through a series of iron wheels in the hoist to a fat winch mounted to the wall of the docking bay. The chains looked like they were straining with tension at the edge of their capacity --- explosives were never a light cargo. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' winch now!" he yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect's_ cargo hold.
+By the time this was done the dock crew already had the first crate in a sling suspended by chains and hanging out over the _Prospect_'s open cargo hold. The chain passed through a series of iron wheels in the hoist to a fat winch mounted to the wall of the docking bay. The chains looked like they were straining with tension at the edge of their capacity --- explosives were never a light cargo. One of the big fellows was at the winch. "OK, I'm letting out some of the fuckin' winch now!" he yelled over to his mates at the cargo hold entrance. They relayed the update down to the men on the deck of the _Prospect_'s cargo hold.
 
 "Gregory, my attractive friend," Percy said, "go down to the cargo hold deck and make sure those goons are stowing things in a way that won't leave the boat totally fuckin' untrimmable."
 
