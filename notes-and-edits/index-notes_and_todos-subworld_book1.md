@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-12-03 11:20
+Last modified: 2023-12-09 17:25
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -33,6 +33,9 @@ Last modified: 2023-12-03 11:20
 ## Final production todos
 --------------------------------------------------------------------------------
 * [ ] after track changes review, go through Hagfish general feedback email and make sure general comments are considered
+    * [ ] Also make a copy of the changes-marked file, git rm --cached the changes-marked file (to delete the many iterations now saved of it) and then add the original and the changes-marked version back to the repo
+* [ ] Change donation page to suggest Deliveristas Unidos
+    * Make it explicitly "charityware" (suggest looking it up on wikipedia)
 * [X] Change possessive ship names so the 's is not italized (Chicago)
 * [X] hire hagfish
 * [X] For next edit pass (do when you apply Hagfish revisions)
