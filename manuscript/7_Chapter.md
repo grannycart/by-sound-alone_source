@@ -35,39 +35,39 @@
 
 [//]: # (### Rendezvous with Shakes)
 
-With darkness, Hemi was able to take a sighting from a star, and he calculated they had made about 20 nautical miles from the point where they had last heard the faintest echo of the depth charges. Percy felt that was enough of a cushion that they could start the diesels, and the engines were soon roaring below decks. Percy had them throttle up to 15 knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
+With darkness, Hemi was able to take a sighting from a star, and he calculated they had made about twenty nautical miles from the point where they had last heard the faintest echo of the depth charges. Percy felt that was enough of a cushion that they could start the diesels, and the engines were soon roaring below decks. Percy had them throttle up to fifteen knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels, and there was no sign of the _Grackle_.
 
-Even as the sun rose before them, Percy kept the boat on the surface hoping to make the rendezvous with Shakes more or less on time. The sun was well above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them with his usual high precision to the correct spot.
+Even as the sun rose before them, Percy kept the boat on the surface, hoping to make the rendezvous with Shakes more or less on time. The sun was well above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them with his usual high precision to the correct spot.
 
-A few hours later, Hemi announced they had arrived at the rendezvous point. They leveled the boat at 20 meters of depth and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours in lazy recuperation and catching up on sleep. Cassandra was stuck listening to sonar, trying to detect the Shakes' approach. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous at a high speed on the surface.
+A few hours later, Hemi announced they had arrived at the rendezvous point. They leveled the boat at twenty meters of depth and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours in lazy recuperation, catching up on sleep. Cassandra was stuck listening to sonar, trying to detect Shakes's approach. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous at a high speed on the surface.
 
-At a few miles off, the sound of the diesel disappeared. Cassandra assumed Shakes was diving before approaching the rendezvous point. Percy called Hemi up to the control room. An hour later Shakes' voice came in over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
+At a few miles off, the sound of the diesel disappeared. Cassandra assumed Shakes was diving before approaching the rendezvous point. Percy called Hemi up to the control room. An hour later Shakes's voice came in over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
 
 Hemi sent Bastian down to the lowest deck of the _Prospect_ to open the hatch to the _Gnat_. Even as he climbed up through the hatch, helped by Bastian's strong grip, Shakes was already thinking about food.
 
 "Bastian! Good to fuckin' see you again. It's about dinner time on this fuckin' vessel, ain't it?"
 
-"Sure it fucking is, Captain Shakes," said Bastian, through a cigarette in his mouth. "I think I smelled Gregory working on some fucking sticky glop or other in the galley, when I was making my way down here. You're hungry?"
+"Sure it fucking is, Captain Shakes," said Bastian, through a cigarette in his mouth. "I think I smelled Gregory working on some fucking sticky glop or other in the galley when I was making my way down here. You're hungry?"
 
-"Submarining is fucking hungry work Bastian. Let's go see what that feller is burning."
+"Submarining is fucking hungry work, Bastian. Let's go see what that feller is burning."
 
-They made their way up the decks with the wrenches hanging from Shakes' belt clanking loudly each time they ascended one of the ladders or steep stairways. In the galley, Hemi and Percy were sitting at the table and Gregory had a big curved steel pan from which smoke was rising. They all sat, and Gregory delivered a heavy meal of boiled oats and cabbage with small bits of slightly-charred canned ham sprinkled throughout. The oats had enough texture still left to them that the little grains popped between their teeth. Hemi brought a bowl in to Cassandra who was still on sonar duty.
+They made their way up the decks with the wrenches hanging from Shakes's belt clanking loudly each time they ascended one of the ladders or steep stairways. In the galley, Hemi and Percy were sitting at the table and Gregory had a big curved steel pan from which smoke was rising. They all sat, and Gregory delivered a heavy meal of boiled oats and cabbage with small bits of slightly-charred canned ham sprinkled throughout. The oats had enough texture still left to them that the little grains popped between their teeth. Hemi brought a bowl in to Cassandra, who was still on sonar duty.
 
-After Shakes ate his third bowl, Gregory poured everyone a cup of the requisite coffee that followed every meal. Percy leaned back into the corner of the galley bench, stretching her arms.
+After Shakes ate his third bowl, Gregory poured everyone a cup of the requisite coffee. Percy leaned back into the corner of the galley bench, stretching her arms.
 
-"I see you made it out of that fuckin' Stilt City," said Shakes, "when that sub turned off the channel to follow the _Prospect_ into that narrow waterway, I thought maybe our partnership was fuckin' done for."
+"I see you made it out of that fuckin' Stilt City," said Shakes. "When that sub turned off the channel to follow the _Prospect_ into that narrow waterway, I thought maybe our partnership was fuckin' done for."
 
 "Yet you still managed to make the fuckin' rendezvous point," said Captain Percy.
 
-"Well the last job working for you was so fuckin' profitable, I wasn't just going to let that go because I thought y'all were fucking dead."
+"Well, the last job working for you was so fuckin' profitable, I wasn't going to let that go just because I thought y'all were fucking dead."
 
 Percy chuckled.
 
 "So what's the fuckin' plan now? Is there a next job?" asked Shakes.
 
-"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking _Grackle_ as possible. If there's even a chance they are still swimming, we'll have to lose those fuckers for good before resuming business as usual. I can cut you loose if you like Shakes --- it's mostly our fuckin' headache, not yours."
+"For the moment, the plan is to put as much distance between ourselves and the last place we saw that fucking _Grackle_ as possible. If there's even a chance they are still swimming, we'll have to lose those fuckers for good before resuming business as usual. I can cut you loose if you like, Shakes --- it's mostly our fuckin' headache, not yours."
 
 Shakes stirred a number of spoonfuls of sugar into his coffee. "And what if I'm willing to make it my headache too?"
 
@@ -77,7 +77,7 @@ Shakes stirred a number of spoonfuls of sugar into his coffee. "And what if I'm 
 
 "Sure, if you like."
 
-"Alright," said Shakes, "with the condition that you make Gregory continue to feed me, I'll stick with y'all for now."
+"Alright," said Shakes. "With the condition that you make Gregory continue to feed me, I'll stick with y'all for now."
 
 "You know I do take care of a few other things on this boat besides the fuckin' food," said Gregory.
 
