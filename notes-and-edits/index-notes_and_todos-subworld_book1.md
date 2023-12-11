@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-12-09 17:25
+Last modified: 2023-12-11 11:19
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -36,6 +36,12 @@ Last modified: 2023-12-09 17:25
     * [ ] Also make a copy of the changes-marked file, git rm --cached the changes-marked file (to delete the many iterations now saved of it) and then add the original and the changes-marked version back to the repo
 * [ ] Change donation page to suggest Deliveristas Unidos
     * Make it explicitly "charityware" (suggest looking it up on wikipedia)
+* [ ] pick up Becci suggestions:
+    * [ ] The biggest thing I'd like to see is some more reaction to Hershel when he first joins the Prospect. I kept wondering why no one was affected by a pigeon flapping around the ship. I think at minimum you could move the bit about him taking up residence in the galley to an earlier part. Though I'd also like a bit more, eg who loves him and develops a relationship vs who is just annoyed.
+    * [ ] I did spend some time wondering why the grackle is trying to sink them, though obviously that gets resolved.
+    * [ ] I also felt like there could be a little more reaction to the loss of Owen and departure of Chips...  what does Cassandra think about all that?
+    * [ ] The ice cream sandwiches could make an appearance 😅 maybe one of the times someone is bringing the crew their post-meal coffee
+    * [ ] Add Becci to thanks list
 * [X] Change possessive ship names so the 's is not italized (Chicago)
 * [X] hire hagfish
 * [X] For next edit pass (do when you apply Hagfish revisions)
