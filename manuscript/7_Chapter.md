@@ -984,7 +984,7 @@ The explosion of the second device had rocked the _Prospect_. Just a sway, but e
 
 "Cassandra! The second detonation: I need to know the results. Now."
 
-"Yes Captain Percy... I'm hearing a lot of popping and crackling. Hold on..." She scanned the sonar. The soundscape was a confusing mess: massive churning bubbles of air rising towards the surface, creaking and cracking metal, rushing water ...and distant screams of terror. "Captain Percy: I'm almost certain the _Grackle_ is finished. I'm hearing nothing but... but _damage_."
+"Yes, Captain Percy... I'm hearing a lot of popping and crackling. Hold on..." She scanned the sonar. The soundscape was a confusing mess: massive churning bubbles of air rising towards the surface, creaking and cracking metal, rushing water ...and distant screams of terror. "Captain Percy: I'm almost certain the _Grackle_ is finished. I'm hearing nothing but...but _damage_."
 
 Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! Your top priority now is to find the _Gnat_ again."
 
@@ -992,13 +992,13 @@ Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Cap
 
 Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Shakes.
 
-"Sylvia... are you leaving me to die a second time?" The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
+"Sylvia...are you leaving me to die a second time?" The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
 
 Sylvia slowly reached a hand up to take the mic. She thumbed the transmitter. "...Owen? ...But how?"
 
 "How? You mean: _how_ am I still alive? You _left_ me alive, remember?" The radio went silent for a few seconds, then the transmission resumed. "You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me on the sail of the _Prospect_, and you dove out from under me --- thinking there was no way I could survive.
 
-"And I would have died in that storm, just as you expected. Probably within a matter of minutes --- except by sheer luck I washed aboard the deck of the _Grackle_. ...Unlike you, they opened the hatch when they heard banging."
+"And I would have died in that storm, just as you expected. Probably within a matter of minutes --- except by sheer luck I washed aboard the deck of the _Grackle_... Unlike you, they opened the hatch when they heard banging."
 
 Percy could hear Owen breathing heavily into the mic. She squeezed the mic in her hand. "Owen, why didn't you just say something? Why didn't you raise us on the ship-to-ship earlier? We could have done something to get you off the _Grackle_."
 
@@ -1006,9 +1006,9 @@ Percy could hear Owen breathing heavily into the mic. She squeezed the mic in he
 
 "Owen... I didn't know..." Her thumb fell off the transmitter. The radio remained dead for a few seconds.
 
-The radio dial re-lit. "...The worst thing now isn't you leaving me to die a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down Sylvia. But now... now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually. 
+The radio dial re-lit. "...The worst thing now isn't you leaving me to die a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down, Sylvia. But now...now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually. 
 
-"...Everyone eventually. But for me, the pit is only a few seconds away now. Know this Sylvia: even now if I had one last chance, one last torpedo or any weapon I could reach you with at all, I would take that shot. I'd make firing on you my last act, if that was an option given to me. But I've got nothing now. No options at all."
+"...Everyone eventually. But for me, the pit is only a few seconds away now. Know this, Sylvia: even now if I had one last chance, one last torpedo or any weapon I could reach you with at all, I would take that shot. I'd make firing on you my last act, if that was an option given to me. But I've got nothing now. No options at all."
 
 The ship-to-ship radio went dark. It did not light again. Percy hung the mic up. She dropped the butt of her cheroot to the deck and crushed it under her boot heel.
 
@@ -1029,11 +1029,11 @@ Shakes was almost ecstatic. He started laughing. "Hemi! This is certainly _it_. 
 
 But not if the ballast tanks had split and let the reserve air out. The bubble they needed to ride up had made its own way to the surface, leaving uselessly without them.
 
-The water Shakes sat in was rising quickly. Water was pissing in through cracks in the viewport. Hemi looked at the depth gauge --- pegged at 100 meters, which was the maximum reading for the gauge. 
+The water Shakes sat in was rising quickly. Water was pissing in through cracks in the viewport. Hemi looked at the depth gauge --- pegged at one hundred meters, which was the maximum reading for the gauge. 
 
 He let the lighter go out.
 
-His whole life he had been able to make these machines --- all machines --- do what he wanted them to. But this particular one was failing him now. Shakes' resignation seemed to be the only appropriate response left. In the darkness he listened the water streaming into the submarine. It sounded like babbling brooks he had known long ago in his youth, on land. With no visual sensory input in the darkness, his mind instead saw the bright sunny brooks that brought fresh water down to the sea on the island he had grown up on. All his years on rusting and leaking submarines, and running water --- a sound of death on submarines --- still remained firstly the sound of life and his youth. 
+His whole life he had been able to make these machines --- all machines --- do what he wanted them to. But this particular one was failing him now. Shakes' resignation seemed to be the only appropriate response left. In the darkness he listened the water streaming into the submarine. It sounded like babbling brooks he had known long ago in his youth, on land. With no visual sensory input in the darkness, his mind instead saw the bright sunny brooks that brought fresh water down to the sea on the island where he had grown up. All his years on rusting and leaking submarines, and running water --- a sound of death on submarines --- still remained firstly the sound of life and his youth. 
 
 [//]: # (### Rescued by the Prospect, lifted from underneath)
 
@@ -1045,7 +1045,7 @@ Instead the _Gnat_ settled flat, and the descending sensation suddenly jolted to
 
 "...The _Prospect_. They must have gotten under us."
 
-"And now they're raising us to the surface? Like some newborn whale?
+"And now they're raising us to the surface? Like some newborn whale?"
 
 "I certainly find myself overcome with awe."
 
@@ -1053,13 +1053,13 @@ Shakes stood up and took the lighter back from Hemi. He lit it and with a renewe
 
 He knew immediately that it did work because the radio panel lit up and the rapidly dwindling space of air in the sub was filled with the sound of radio static. "Try ship-to-ship!" he called back to Hemi.
 
-Hemi picked up the mic from the front of the glowing box, and squeezed the transmitter. The transmit power needle snapped to the right, just as it should. "_Prospect_, this is Hemi Howell, aboard the _Gnat_, do you copy?"
+Hemi picked up the mic from the front of the glowing box and squeezed the transmitter. The transmit power needle snapped to the right, just as it should. "_Prospect_, this is Hemi Howell, aboard the _Gnat_, do you copy?"
 
 "I sure do Hemi!" Percy's voice came back through the box. "We were worried that you were already flattened, and we'd just be bringing up your corpses in a squashed metal coffin! It's good to hear from you. Shakes there?"
 
 "Captain Shakes is here, though wet. How did you find us?"
 
-"Cassandra of course! She managed to pick Shake's little sinking craft out from all the noise of the _Grackle_ going down, and then she navigated us down with dead-on precision until we were under you. Just in the nick too! Our batteries flat-lined just after we picked you up. We're rising on a gentle ballast blow right now."
+"Cassandra of course! She managed to pick Shakes's little sinking craft out from all the noise of the _Grackle_ going down, and then she navigated us down with dead-on precision until we were under you. Just in the nick, too! Our batteries flatlined just after we picked you up. We're rising on a gentle ballast blow right now."
 
 "The _Grackle_?"
 
@@ -1073,19 +1073,19 @@ There was now light coming through the viewport around the streams of water comi
 
 [//]: # (### Fishing and grilling)
 
-The next morning they managed to motor out of the garbage gyre to find a patch of clear sea stretching around them in an enormous circle all the way to the horizon. By the time the sun achieved a mid-morning altitude that sent the shadow of the _Prospect_'s sail charging out over the water at an angle from the boat, the sea had turned a bright shade of slate-blue. A long slow deep-ocean swell rose and fell all around, giving the impression of passing through a landscape of low hills --- though in a queasy way where the traveler feels like they might be standing still, and the landscape is moving around them rather than the other way around.
+The next morning they managed to motor out of the garbage gyre to find a patch of clear sea stretching around them in an enormous circle all the way to the horizon. By the time the sun achieved a mid-morning altitude that sent the shadow of the _Prospect_'s sail charging out over the water at an angle from the boat, the sea had turned a bright shade of slate blue. A long slow deep-ocean swell rose and fell all around, giving the impression of passing through a landscape of low hills --- though in a queasy way where the traveler feels they might be standing still and the landscape instead moves around her.
 
-Even though it was bright daylight they could not submerge, for the _Gnat_ lay on the deck of the _Prospect_, angled to one side by the rounded bottom and the weight of the water still in the bilge. Gregory and Bastian had secured it to the deck with heavy rusted chains and thick grimy straps of webbed cotton, winched tight as piano wires. And indeed, when the wind blew through the straps and chains, they hummed with droning tones cut up by the quick staccato of the twisting straps. On top of the drone from the straps came a number of high whistles as the wind found its way through the numerous holes in the split hull of the _Gnat_.
+Even though it was bright daylight, they could not submerge, for the _Gnat_ lay on the deck of the _Prospect_, angled to one side by the rounded bottom and the weight of the water still in the bilge. Gregory and Bastian had secured it to the deck with heavy rusted chains and thick grimy straps of webbed cotton, winched tight as piano wires. And indeed, when the wind blew through the straps and chains, they hummed with droning tones cut up by the quick staccato of the twisting straps. On top of the drone from the straps came a number of high whistles as the wind found its way through the numerous holes in the split hull of the _Gnat_.
 
 All those whistling splits in the _Gnat_'s hull were the reason they could not submerge. The _Gnat_ was far too damaged from its brief dip below its crush depth for them to repair it at sea. And so it rode on top of the _Prospect_ until they could put in somewhere where repairs could be attempted.
 
-Shakes spent quite a while on the _Prospect_'s deck that morning, cataloging the damage to his boat. It was beginning to look like the _Gnat_ might end up being more weld than plate --- if it could be repaired at all. Even now, as the _Prospect_ rolled on a larger swell, water from the bilge came streaming out of the _Gnat_ in long greasy lines where the hull was split. It was enough to bring tears to Shake's eyes.
+Shakes spent quite a while on the _Prospect_'s deck that morning, cataloging the damage to his boat. It was beginning to look like the _Gnat_ might end up being more weld than plate --- if it could be repaired at all. Even now, as the _Prospect_ rolled on a larger swell, water from the bilge came streaming out of the _Gnat_ in long greasy lines where the hull was split. It was enough to bring tears to Shakes's eyes.
 
 Hemi was far less upset about the damage to the _Gnat_, and instead found himself unusually jubilant. He had been through close calls before, but never had he given up and been ready to die. He was glad to be out of the _Gnat_. And he was glad to be outside on the deck of the _Prospect_. 
 
-Since they could not submerge without doing further damage to the _Gnat_, and since they were going to be running on the surface through all the lovely warm daylight hours, Hemi decided some grilling was in order. He opened up the hatch to the cargo hold, and winched up the soot-covered black grill that had been made by welding legs onto a steel barrel, cutting it in half, and installing hinges to make the top a lid.
+Since they could not submerge without doing further damage to the _Gnat_, and since they were going to be running on the surface through all the lovely warm daylight hours, Hemi decided some grilling was in order. He opened up the hatch to the cargo hold and winched up the soot-covered black grill that had been made by welding legs onto a steel barrel, cutting it in half, and installing hinges to make the top a lid.
 
-From the cargo hold he also hauled up an rusting platform made of welded deck grating and cut tubes. Gregory bolted this platform to the deck next to the sail. It allowed the crew to get out past the curve of the _Prospect_'s hull and stand over the water. From it hung a swim ladder that dipped down into the water below.
+From the cargo hold he also hauled up a rusting platform made of welded deck grating and cut tubes. Gregory bolted this platform to the deck next to the sail. It allowed the crew to get out past the curve of the _Prospect_'s hull and stand over the water. From it hung a swim ladder that dipped down into the water below.
 
 Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the moisture was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
@@ -1103,15 +1103,15 @@ Hemi broke the silence. "So it was Owen all along?"
 
 "Cassandra."
 
-"The little shit." Percy spat a fleck of tobacco that had caught at her lip. "Yeah. Fucking Owen. Not all along, of course, only after... you know, I left him for fucking dead."
+"The little shit." Percy spat a fleck of tobacco that had caught at her lip. "Yeah. Fucking Owen. Not all along, of course, only after...you know, I left him for fucking dead."
 
 "Do you feel that was a mistake?"
 
-"Fuck no Hemi. I mean, that's not what I told  Owen when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision, Hemi. I would make the same choice again. And even if I hadn't --- he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I'll say it again: fuck Owen. And fuck his ghost."
+"Fuck no, Hemi. I mean, that's not what I told  Owen when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision, Hemi. I would make the same choice again. And even if I hadn't --- he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I'll say it again: fuck Owen. And fuck his ghost."
 
 "I do not believe it possible for souls to wander uneasily, except in the minds of the living. I simply wanted to be sure the events with Owen will not keep you awake nights."
 
-"Trust me Hemi, Owen is not fucking haunting me. The only thing haunting me is the same thing as always: where is our next job coming from?" 
+"Trust me, Hemi, Owen is not fucking haunting me. The only thing haunting me is the same thing as always: where is our next job coming from?" 
 
 The swell was coming up and the boat was rolling over further. "We need to power up the motors again, Hemi, before we get swamped."
 
