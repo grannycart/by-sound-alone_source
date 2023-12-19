@@ -47,6 +47,7 @@
 ## Credits:
 * Compiled using pandoc-ebook-template:
 	* https://github.com/evangoer/pandoc-ebook-template
+* Copy edited by Julia Ringo at [Hagfish](https://hag.fish/)
 * Test readers:
 	* Clark Smeltzer
 	* Kevin Noble
