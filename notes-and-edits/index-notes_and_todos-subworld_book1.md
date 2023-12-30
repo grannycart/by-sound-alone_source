@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-12-30 13:13
+Last modified: 2023-12-30 13:31
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -68,6 +68,7 @@ Last modified: 2023-12-30 13:13
 	* [ ] See her notes about blocking and description from her email
 * [ ] From Becci:
     * [ ] The biggest thing I'd like to see is some more reaction to Hershel when he first joins the Prospect. I kept wondering why no one was affected by a pigeon flapping around the ship. I think at minimum you could move the bit about him taking up residence in the galley to an earlier part. Though I'd also like a bit more, eg who loves him and develops a relationship vs who is just annoyed.
+        * I made a half-assed attempt to address this: chapter for line ~935 -- 2023-12-30 13:30
     * [ ] I also felt like there could be a little more reaction to the loss of Owen and departure of Chips...  what does Cassandra think about all that?
 * [ ] Cover revision possibilities:
 	* get a drawing done of the Gnat sail in modest seas with spindrift coming off the whitecaps. On the top of the sail is a pigeon.

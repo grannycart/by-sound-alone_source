@@ -922,7 +922,7 @@ Shakes grinned. "No fucking doubt! Just don't panic in the heat of the moment an
 
 "I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side of an Authority line. It's another to pursue an unarmed cargo sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
-"I have no idea," said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to observe any of that."
+"I have no idea," said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to see any of that."
 
 Percy nodded.
 
@@ -932,7 +932,7 @@ Percy nodded.
 
 "I'm hoping Herschel is acclimated to the _Gnat_ in another day or two. Then we can move him aboard the _Prospect_," said Shakes.
 
-"Alright," said Percy, "bring the fucking pigeon over whenever you are ready, Captain Shakes. Right now, let's get the _Gnat_ running up on the surface, and get the _Prospect_ further down. I don't like being this shallow during the day."
+"Alright," said Percy, "bring the fucking pigeon over whenever you are ready, Captain Shakes. And Hemi, don't forget to fill in the rest of the crew on why there's suddenly going to be birdshit everywhere. But for right now, let's get the _Gnat_ running up on the surface, and get the _Prospect_ further down. I don't like being this shallow during the day."
 
 Shakes gave a fake salute and went rearward toward the galley to take a refill of coffee with him. He then climbed downward to the deepest part of the _Prospect_, and then even lower to get back aboard the _Gnat_. 
 
