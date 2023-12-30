@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-12-30 13:13
+# Last modified: 2023-12-30 17:36
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -17,7 +17,7 @@ CHAPTERS = manuscript/two_preface.md manuscript/1_Chapter.md manuscript/2_Chapte
 DIAGRAMS = manuscript/one_diagrams.md 
 # Contact page file. It goes in different locations depending on format, so it gets its own pandoc variable.
 # (For epub, contact info should be included in 
-CONTACT = manuscript/contact.md
+CONTACT = manuscript/what-to-do-if-you-enjoyed-the-book.md
 # Similarly the license file's relation to CONTACT changes depending on format, so it too gets its own pandoc variable:
 LICENSE = LICENSE.txt
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
