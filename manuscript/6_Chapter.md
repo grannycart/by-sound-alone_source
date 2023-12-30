@@ -93,7 +93,7 @@ Virtually all the trade of Stilt City was done on the open water or on the docks
 
 As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. Speed was reduced to three knots and they crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea, down in the depths. 
 
-Captain Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that swarmed around them. He called maneuvers down through the hatch to Gregory and Bastian, who sat at the controls.
+Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that swarmed around them. He called maneuvers down through the hatch to Gregory and Bastian, who sat at the controls.
 
 "So this entire place is built on stilts?" asked Cassandra.
 
@@ -161,7 +161,7 @@ Sir Piero took over command of the _Prospect_. He stood on the bridge and lit a 
 
 They passed along this channel for a long way, through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed up under and smacked against the floorboards of the huts. In some places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
 
-Captain Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sir Piero.
+Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sir Piero.
 
 "This is a short way," he told her. "We will come out in a larger channel soon, but it is longer around to follow that way from the main channel."
 
@@ -438,7 +438,7 @@ Calling commands down to the control room, he completed backing the _Prospect_ i
 
 Once Sir Piero had the _Prospect_ out in the channel, he put on as much speed as he thought they could without adding to the swamping of the structures along the channel and without risking accidentally driving into one of those structures. Behind them Percy could see the _Grackle_ was already freeing itself from its stuck position and maneuvering backwards towards the turnaround bay.
 
-With the _Prospect_ successfully underway, Hemi climbed up to the bridge to consult with Captain Percy.
+With the _Prospect_ successfully underway, Hemi climbed up to the bridge to consult with Percy.
 
 "How the fuck did they find us in Stilt City, Hemi?" Percy asked. "The place is a fucking labyrinth!"
 
@@ -472,7 +472,7 @@ A few minutes later Sir Piero called down to Bastian to slow the _Prospect_ to f
 
 She nodded. "None too fucking soon," she said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
-As Sir Piero brought the _Prospect_ into the narrow way of the shortcut, Captain Percy could hear the cough and sputter of the _Gnat_'s diesel starting even above the significant rumble of the _Prospect_'s own engines. As Sir Piero began his careful navigation of the shortcut pass, Percy kept looking back to make sure the _Grackle_ had not come into sight.  Carbonous black soot shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
+As Sir Piero brought the _Prospect_ into the narrow way of the shortcut, Percy could hear the cough and sputter of the _Gnat_'s diesel starting even above the significant rumble of the _Prospect_'s own engines. As Sir Piero began his careful navigation of the shortcut pass, Percy kept looking back to make sure the _Grackle_ had not come into sight.  Carbonous black soot shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 
@@ -502,7 +502,7 @@ Sir Piero did not reply. He resumed shouting directions down to the control room
 
 [//]: # (### The pursuing sub gets stuck)
 
-Captain Percy did not have nearly as much faith as Sir Piero that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if the warning light came on.
+Percy did not have nearly as much faith as Sir Piero that the _Prospect_ would clear the bars of shallow muck so easily, even with her boat unloaded. She asked Hemi to keep a close eye on the depth-under-keel gauge and let her know immediately if the warning light came on.
 
 It was only moments later that she could see ahead the shade of water with a distinctively different ripple pattern on the surface that indicated a shallow spot running across the lane. Sir Piero pointed it out to her, but did not order the _Prospect_ to slow down at all. Percy tripped down the ladder to the control room and watched the depth-under-keel gauge intently. The needle lowered itself down till it triggered the warning light, and sank to under a meter of water, but they cruised over the shallow spot without even touching the muck this time.
 
@@ -516,7 +516,7 @@ Their pursuers were stopped dead in the passage. Through her binoculars, Percy i
 
 As soon as the residents in the surrounding area realized what happened, they attacked the grounded sub, throwing rotting food, scraps of wood, and rusted bars of metal at the black monster that had been tearing up their neighborhood.  
 
-The _Grackle_ began shooting jets of bilge water out of its sides, and presumably blowing any remaining water out of their ballast tanks as well. Captain Percy could see they were also driving forward at full throttle, hoping to push through the shallow spot on straight power. The screws were kicking up a tremendous wash of frothy water behind the sub, enough that nearby huts leaned back from the pressure against their stilts. 
+The _Grackle_ began shooting jets of bilge water out of its sides, and presumably blowing any remaining water out of their ballast tanks as well. Percy could see they were also driving forward at full throttle, hoping to push through the shallow spot on straight power. The screws were kicking up a tremendous wash of frothy water behind the sub, enough that nearby huts leaned back from the pressure against their stilts. 
 
 This angered the residents still more. They began to land on the stuck sub, beating on the deck with long metal poles and trying to pry up hatches. One local tried to climb the hand holds to the sail. That was when Percy saw the thin shadow of an arm extend and then a flash, followed a moment later by the report of a small-caliber pistol reaching her ears. The body of the climber fell back through the air, hit the curved deck of the sub and slid into the brackish water.
 
@@ -553,7 +553,7 @@ Sir Piero tucked the bag of coins into his pants, gave Percy a casual salute, an
 
 [//]: # (### Navigating out of the channel)
 
-Captain Percy climbed down to the control room while closing and sealing the hatch above her head.
+Percy climbed down to the control room while closing and sealing the hatch above her head.
 
 "Did you guys get the cargo hatch sealed?" she asked.
 
@@ -567,7 +567,7 @@ Percy punched the dive alarm. "OK, take us down to periscope depth."
 
 Hemi climbed down to the navigation station and reviewed the chart laid out under the glass. Leaning over with the magnifier in his hand, he selected a spot of deep water just off the continental shelf, about a day's run out from Stilt City. Holding a tiny scrap of paper down against the glass of the navigation table with splayed fingers, he copied the coordinates with a sharp pencil. He also selected a backup location for the rendezvous just in case something went wrong and noted that on the reverse side of the paper. He scooped Herschel up from the deck where the bird had been walking around aimlessly and fixed the tiny paper into Herschel's leg cylinder. 
 
-Captain Percy was anxious to get the boat underwater, so as soon as she saw Hemi starting up the ladder to the control room with Herschel in one hand and nodding to her, she punched the dive alarm again. "Start the dive. Hemi, get the bird off."
+Percy was anxious to get the boat underwater, so as soon as she saw Hemi starting up the ladder to the control room with Herschel in one hand and nodding to her, she punched the dive alarm again. "Start the dive. Hemi, get the bird off."
 
 Bastian flipped off the diesel engines and their rumble died away beneath their feet to leave only the much quieter hum of the electric motors. Gregory opened the main ballast valves. Hemi opened the hatch above the control room; a light on the hatch control panel lit up a brilliant red, and an alarm sounded because the main ballast valves were open at the same time as one of the boat hatches.
 
@@ -599,7 +599,7 @@ Percy stood directly next to Gregory and worked the tank trim panel herself, fee
 
 "Right, Captain," said Gregory, gripping the dive plane wheel. His eyes darted back and forth from the boat level indicators to the depth indicator to the depth-under-keel gauge.
 
-After twenty minutes without incident, they were feeling more confident with the maneuver and maintaining their position. Captain Percy wondered if they might be able to cruise right out into deep water like this, and then spend the rest of the day running deep until they were well out and away from Stilt City.
+After twenty minutes without incident, they were feeling more confident with the maneuver and maintaining their position. Percy wondered if they might be able to cruise right out into deep water like this, and then spend the rest of the day running deep until they were well out and away from Stilt City.
 
 Then a loud active sonar ping pierced through the _Prospect_'s hull. 
 
@@ -673,7 +673,7 @@ Percy moved down to the sonar station, and for the next hour or so, Hemi reporte
 
 "The Stilt City Authority boats destroying the _Grackle_ would surely be a blessing from hell. If we had a way to _confirm_ their sinking, we could sleep easy for the first time in a long time. That would be the greatest fuckin' blessing of 'em all."
 
-As much as Captain Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect_'s position. They crawled at a painfully slow, but discreet, three knots on the more or less random northerly course Bastian had chosen for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind, along with any kind of contact or signal that they might still be pursued.
+As much as Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect_'s position. They crawled at a painfully slow, but discreet, three knots on the more or less random northerly course Bastian had chosen for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind, along with any kind of contact or signal that they might still be pursued.
 
 
 

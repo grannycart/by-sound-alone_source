@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-12-20 23:02
+Last modified: 2023-12-30 12:01
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -35,7 +35,8 @@ Last modified: 2023-12-20 23:02
 * [ ] after track changes review, go through Hagfish general feedback email and make sure general comments are considered
     * [X] Also make a copy of the changes-marked file, git rm --cached the changes-marked file (to delete the many iterations now saved of it) and then add the original and the changes-marked version back to the repo
     * [-] Julia strongly suggests that the blocking and description slow down the plot too much. I disagree. The mechanics behind the book are to make the reader feel like they live in this world for a while. The plot is simple, really barely enough to keep the pages turning. It's the experience of _being_ there that I hope keeps the reader engaged.
-	* [ ] Julia also suggests dropping the fucks. But again, I think this helps the reader feel like they are there -- this is how people _actually_ talk, you can _hear_ them in your head. I think most writers shy away from the way people actually speak becuase they fear (maybe rightly so) that it will make them look like less of a writer, if not offend a big portion of the audience outright. But I want people to hear the characters delivering the lines, and these are working class folks, sailors. At least for me, it would detract from the sense of being there if they only cursed as often as the prolite accomodations of network television would allow.
+	* [-] Julia also suggests dropping the fucks. But again, I think this helps the reader feel like they are there -- this is how people _actually_ talk, you can _hear_ them in your head. I think most writers shy away from the way people actually speak becuase they fear (maybe rightly so) that it will make them look like less of a writer, if not offend a big portion of the audience outright. But I want people to hear the characters delivering the lines, and these are working class folks, sailors. At least for me, it would detract from the sense of being there if they only cursed as often as the prolite accomodations of network television would allow.
+	* [X] Rmove "Captain" before Percy where not necessary
 * [ ] Change donation page to suggest Deliveristas Unidos
     * Make it explicitly "charityware" (suggest looking it up on wikipedia)
 * [ ] pick up Becci suggestions:

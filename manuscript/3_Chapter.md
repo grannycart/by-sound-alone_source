@@ -56,7 +56,7 @@ They shut the _Prospect_'s motor down, and Percy headed up to the bridge on the 
 
 They climbed down the hatch. They spent the next twenty minutes crawling through the _Prospect_ with Shakes and Hemi. When they got back to the control room, they were a little less gruff. "Eh, fuck. Sorry, but being fucking careful in these waters is how we stay in fucking business. Y'all seem harmless enough, though it's fucking curious comin' in hauling another sub under ya."
 
-"Not exactly my original plan," said Captain Percy. "So what's the docking procedure here?"
+"Not exactly my original plan," said Percy. "So what's the docking procedure here?"
 
 "Well, first fucking step is the dock fee. You pay that to us before you dock."
 
@@ -81,7 +81,7 @@ The docking bay was located about twenty meters underwater. It was typical of an
 
 The _Prospect_ followed the sonar beacon to docking slip four, located on the bottom of the docking bay tube. It was the largest size slip this depot had available --- or even widely used in the cargo sub industry. A semi-standard size for large cargo hold hatches. They carefully eased the _Prospect_ under slip four, until the big cargo hatch on the _Prospect_'s deck came up to the docking slip and connected to it --- essentially a scaled-up maneuver of exactly how the _Gnat_ had mated to the underside of the _Prospect_.
 
-Hemi went down to the cargo hold and walked, hunched over, across the catwalk that hung two meters down from the ceiling. Captain Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. There, he picked up a rubber mallet that was left hanging on some hooks for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gonging sound that reverberated for a full twenty seconds. He waited a few seconds more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect_'s cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
+Hemi went down to the cargo hold and walked, hunched over, across the catwalk that hung two meters down from the ceiling. Percy could walk fully upright on the catwalk, but not Hemi. He made his way to the large cargo hatch above the far end of the catwalk. There, he picked up a rubber mallet that was left hanging on some hooks for this purpose and banged on the big cargo hatch with it, setting off a pleasant low gonging sound that reverberated for a full twenty seconds. He waited a few seconds more and then heard the pop of the dock crew unsealing the hatch into the docking bay above him, the whir of an electric pump sucking the residual water out of the slip well, and then a few minutes after that came the answering pounding on the _Prospect_'s cargo hatch letting Hemi know it was OK to pop it. He released the hatch locks.
 
 Two winches were set on either side of the cargo hatch along the catwalk. The big hatch was closed by two concave half-moon doors that lay one over the other to form a low dome. The upper one needed to be raised first. Hemi grabbed the wheel that turned the winch and put a good portion of his straining and powerful muscle into it, but it would not budge. This sometimes happened when the air pressure between a sub and a dock was not equalized. Hemi was trying to push up the door when there was slightly more than an atmosphere of pressure weighing on it.
 
@@ -97,14 +97,14 @@ Hemi climbed up the ladder and was greeted by two more men who Hemi would have s
 
 These guys did give Hemi a rough handshake when he stepped off the ladder, but offered little more in the way of welcome. Hemi managed to get some monosyllabic directions from them to the dock boss, and the impression that she would be able to set them up with repairs, refueling, and any other boat maintenance needs. Hemi thanked them, gave them a little money for their trouble, and with money in hand they quickly wandered off without any further pomp.
 
-Hemi lowered himself a few steps back down the ladder until he was enough inside the _Prospect_ to use the intercom to raise Captain Percy. He gave her his impressions of the docking bay and told her they needed to talk to the dock boss.
+Hemi lowered himself a few steps back down the ladder until he was enough inside the _Prospect_ to use the intercom to raise Percy. He gave her his impressions of the docking bay and told her they needed to talk to the dock boss.
 
 "Stay there, Hemi. I'll be there in a few minutes with Shakes," Percy responded over the intercom.
 
 [//]: # (----- invisible character break)
  
 
-The two of them appeared a quarter of an hour later. Captain Percy was carrying a beaten and cracked leather folio in which she kept the ship's books. Shakes was empty-handed, but had apparently freshly greased and pointed his hair for the big outing on the depot dock.
+The two of them appeared a quarter of an hour later. Percy was carrying a beaten and cracked leather folio in which she kept the ship's books. Shakes was empty-handed, but had apparently freshly greased and pointed his hair for the big outing on the depot dock.
 
 Hemi had been waiting on the deck of the docking bay. He gave Percy and Shakes a hand up the ladder. When they were all assembled, they started off toward the far end of the docking bay, where they could see a wooden sign hanging from the ceiling, painted white, with square hand-painted black letters that said "Dock Office." 
 
@@ -161,13 +161,13 @@ With a list of contacts from the deck boss and a few more passing words of thank
 
 [//]: # (### Percy walks up the exchange floor: description)
 
-The welded steel plating of the docking bay tube extended ten meters or so beyond the dock office and marked the end of the docking bay, where it was set into the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most unpressurized underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if something major happened --- say, a docked submarine ripping away, leaving a giant hole in the dock --- this door could be closed, divers could go in and make repairs, and they could then blow the water out of the dock with a high pressure air system. Of course, that would not save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures --- more numerous than anyone would care to admit --- were the stuff of submariners' nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person like Captain Percy, since traditionally ports were associated with safety for ships.
+The welded steel plating of the docking bay tube extended ten meters or so beyond the dock office and marked the end of the docking bay, where it was set into the sea mount. Just beyond the dock office the tube angled upwards, and Percy had to walk up a steep ramp. Then the tube narrowed to five or six meters and passed through a thick bulkhead with a large watertight door that could be closed by massive hydraulics. Most unpressurized underwater docks had some kind of system like this. Small leaks on the docks could be repaired while pumps moved the water out. But if something major happened --- say, a docked submarine ripping away, leaving a giant hole in the dock --- this door could be closed, divers could go in and make repairs, and they could then blow the water out of the dock with a high pressure air system. Of course, that would not save anyone trapped on the other side of the door when it closed, or keep any open cargo holds in docked subs from flooding. These underwater docks were in fact incredibly dangerous, and the stories of failures --- more numerous than anyone would care to admit --- were the stuff of submariners' nightmares. The repressed fear of a dock failure was an odd sense for a seagoing person like Percy, since traditionally ports were associated with safety for ships.
 
 A little farther up the ramp from the watertight bulkhead, the steel plating ended where it was riveted and sealed into the raw rock of the seamount. The space widened here. This whole part of the depot was hollowed out of the underground stone and the walls were left as raw, cut rock. In places, the lines of drill holes could still be seen, where explosives had been placed to more quickly open spaces for the chamber during its construction. This was all pretty unusual and expensive. Most depots with an underwater dock kept the underground construction to a minimum and moved as much of the operation to the surface as was practical. Percy guessed there must be the discreet funding of some Authority behind this place.
 
 The upward slope became less dramatic, just a slight ramp. But the ramp was maintained for an obvious reason: few underground spaces were totally dry and this one was not an exception. The ramp slowly drained a fetid and oily moisture down the middle of the open space of the upper parts of the depot. And the water carried along with it the accumulated grime of a working floor of industrial and commercial projects: metal shavings, coffee grounds, oils and solvents, random bits of floating garbage, and, of course, urine. It was all collected at the bottom of the ramp in a sluiceway covered by a choked and rusting grating that was supposed to keep any of this stuff from running farther down to the docking bay.
 
-The wet grit ground under the hard soles of Captain Percy's boots as she made her way up the length of the merchant exchange floor, stepping around the places where oil or garbage had pooled on the uneven rock.
+The wet grit ground under the hard soles of Percy's boots as she made her way up the length of the merchant exchange floor, stepping around the places where oil or garbage had pooled on the uneven rock.
 
 The main hall was lit by bright bars of harsh light overhead, which illuminated the middle of the space fairly well. The center of the entire length of the hall was being used for the activities that required the most space: stacks of wooden crates containing cargo that was being actively exchanged, repairs on large metal machines that were in some places slung from the ceiling by heavy chain, and the parked heavy equipment used to move all this tonnage up and down the space. 
 
@@ -228,7 +228,7 @@ Miss Mai grinned a gapped-toothed smile. "I think I can work with such a person.
 
 [//]: # (### Negotiation with Miss Mai for the explosives shipping job)
 
-In the open space of the hall, Miss Mai hobbled next to Captain Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
+In the open space of the hall, Miss Mai hobbled next to Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
 
 "So, the dock boss told you all about me already?" Percy asked, hoping to assess the levelness of the playing field.
 
@@ -272,7 +272,7 @@ Miss Mai nodded knowingly. "Here we are." She steered Percy towards a low creoso
 
 "By all means, then."
 
-Captain Percy sat in one of the leather chairs and accepted a ceramic cup with mud-colored contents with one hand. With the other hand she received the metal clipboard with chipping black paint and oil-stained pages that Miss Mai was holding out to her.  She scanned it while taking her first sip of coffee. 
+Percy sat in one of the leather chairs and accepted a ceramic cup with mud-colored contents with one hand. With the other hand she received the metal clipboard with chipping black paint and oil-stained pages that Miss Mai was holding out to her.  She scanned it while taking her first sip of coffee. 
 
 It was the best coffee Percy had had in months. 
 
@@ -318,7 +318,7 @@ Miss Mai nodded. "Unfortunately, there is some truth to that. There's no sure fu
 
 "You know how the Authorities are Captain Percy. In some places they pursue everything. An honest logistician cannot ever promise there won't be interference. That's why we move things by submarine: interference is a lot less likely if they don't know the shipping is happening. In this case, I would suggest that you do your absolute best to make sure no Authority finds out this particular shipment is happening."
 
-Captain Percy ran her fingers through her cropped hair. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and why we need the major repair work."
+Percy ran her fingers through her cropped hair. "Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the _Prospect_ in half on the way here. It's the reason we came limping in, and why we need the major repair work."
 
 At the mention of the ram Miss Mai's eyebrows went up with a look of concern. "A ram on a submarine, you say?"
 
@@ -441,7 +441,7 @@ Cassandra looked around at the dingy canteen and then directly at Percy for the 
 
 Percy put a heavy hand on Cassandra's shoulder and then turned away from the bar.
 
-"Ahem!" The bartender turned towards them and looked at Captain Percy with one eye and one socket. He rubbed his forefinger and thumb together in the air in front of him. 
+"Ahem!" The bartender turned towards them and looked at Percy with one eye and one socket. He rubbed his forefinger and thumb together in the air in front of him. 
 
 "Right." She pulled a stack of coins out of the leather satchel, counted out more than a fair amount, and stood them on the bar. She looked at Cassandra. "That was your first paycheck. Sorry it had to go to that fucking asshole, but it'll be the last one that does."
 
@@ -547,7 +547,7 @@ Shakes nodded and grinned through a mouthful of food. "Well --- partner --- who 
 
 [//]: # (### Back at the Prospect in the docking slip; talking to Hemi about re-hiring Chips)
 
-At docking slip four, the hole in the deck that led down to the cargo hold of the _Prospect_ was like a giant black maw, with lips sucking against the airlock dock of the depot. It now had a number of heavy cables and hoses draped into the hole, as though some kind of enormous dental maneuver was being worked. Captain Percy's eye traced the hoses and wires from fixtures mounted on the walls of the docking bay down over the edge of the hole. She leaned and looked down into the cargo hold where the cables and hoses were lashed together and ran in a hulking pile up the middle of the space back into the deeper parts of the ship, where they were hopefully connected to the battery terminals and fuel tanks that so desperately needed to be topped up. At the front of the cargo hold, Chips was overseeing a repair crew that was working on redoing and reinforcing the messy repair welds she had made earlier.
+At docking slip four, the hole in the deck that led down to the cargo hold of the _Prospect_ was like a giant black maw, with lips sucking against the airlock dock of the depot. It now had a number of heavy cables and hoses draped into the hole, as though some kind of enormous dental maneuver was being worked. Percy's eye traced the hoses and wires from fixtures mounted on the walls of the docking bay down over the edge of the hole. She leaned and looked down into the cargo hold where the cables and hoses were lashed together and ran in a hulking pile up the middle of the space back into the deeper parts of the ship, where they were hopefully connected to the battery terminals and fuel tanks that so desperately needed to be topped up. At the front of the cargo hold, Chips was overseeing a repair crew that was working on redoing and reinforcing the messy repair welds she had made earlier.
 
 Percy climbed down the ladder to the catwalk and made her way over and down to the deck of the cargo hold. From there she went aft into the forward battery room, where she found Hemi with a dock worker checking the cables hooked up to the battery bank that were recharging the batteries from the docking bay power system.
 
@@ -623,7 +623,7 @@ Percy walked away thinking she would do her best to just stay out of Chips's way
 
 [//]: # (### disconnecting the Gnat)
 
-At the other end of the cargo hold, Captain Percy found Shakes had made his way back from the cafe and was having a conversation with Hemi through the hatch into the forward battery compartment. He stepped a little to one side as she came up so she could join in.
+At the other end of the cargo hold, Percy found Shakes had made his way back from the cafe and was having a conversation with Hemi through the hatch into the forward battery compartment. He stepped a little to one side as she came up so she could join in.
 
 "Captain Percy. Hemi and I are talking about disconnecting my boat from the _Prospect_."
 
@@ -654,7 +654,7 @@ Shakes steered the _Gnat_ further down the docking bay and got it mated up to sl
 
 [//]: # (### Hemi and Percy have dinner)
 
-Refueling, recharging, and repairs were busily carried out over the next six hours. Captain Percy was uncomfortable with how many people were coming and going --- and crawling around --- inside her boat. In the long expanses of time that she lived in this steel tube, during most of it she knew exactly who was aboard her submarine. But in dock there was unusual and discomforting open access to her boat. Just another reason to be on the move, as far as she was concerned.
+Refueling, recharging, and repairs were busily carried out over the next six hours. Percy was uncomfortable with how many people were coming and going --- and crawling around --- inside her boat. In the long expanses of time that she lived in this steel tube, during most of it she knew exactly who was aboard her submarine. But in dock there was unusual and discomforting open access to her boat. Just another reason to be on the move, as far as she was concerned.
 
 All of the activity meant that Hemi was probably spending heavily to get things done quickly. Considering the condition they came in, in normal circumstances they would plan on staying on the dock for a week or two. The damage to the hull meant the _Prospect_ should really go into dry dock for serious repairs --- but that required a monetary flushness that was far beyond a single well-paid job, even if they had no limitations on their time at all. 
 
@@ -739,7 +739,7 @@ In the middle of the loading, Cassandra approached, a large canvas rucksack slun
 
 Percy was always on the lookout for little signs that a crew member might last beyond a single run. Green crew came and went on submarines like late-spring snows. A captain could hire a few in one port and they would all evaporate at the next, replaced by equally unskilled new crew. It was a tough job, and only those with a certain hardness of character managed to continue in the lifestyle. The others gave up, and, presumably, made their way back to the surface world to see what kind of life they could eke out in one territorial authority or another.
 
-Captain Percy tapped Hemi and nodded in the direction of Cassandra huffing her way down to the docking bay. "That's our new sonar watch."
+Percy tapped Hemi and nodded in the direction of Cassandra huffing her way down to the docking bay. "That's our new sonar watch."
 
 Hemi looked up from his clipboard and sized Cassandra up for a moment. "I hope she can steer or hear, because I do not know what else we could do with her."
 

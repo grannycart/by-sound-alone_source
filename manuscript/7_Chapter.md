@@ -59,7 +59,7 @@ After Shakes ate his third bowl, Gregory poured everyone a cup of the requisite 
 
 "I see you made it out of that fuckin' Stilt City," said Shakes. "When that sub turned off the channel to follow the _Prospect_ into that narrow waterway, I thought maybe our partnership was fuckin' done for."
 
-"Yet you still managed to make the fuckin' rendezvous point," said Captain Percy.
+"Yet you still managed to make the fuckin' rendezvous point," said Percy.
 
 "Well, the last job working for you was so fuckin' profitable, I wasn't going to let that go just because I thought y'all were fucking dead."
 
@@ -154,7 +154,7 @@ At first, Cassandra was able to steer them around the big pieces of flotsam usin
 
 [//]: # (The distinction between flotsam and jetsam applies here: flotsam is debris not deliberately throw overboard, like from a sinking ship, while jetsam is stuff thrown overboard on purpose.)
 
-Captain Percy ran a power wire up to the bridge and connected a hand-held spotlight. She swept a beam back and forth, scraping away at the blackness in front of her boat. Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the thousand-meter-deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light, the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull.
+Percy ran a power wire up to the bridge and connected a hand-held spotlight. She swept a beam back and forth, scraping away at the blackness in front of her boat. Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the thousand-meter-deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light, the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull.
 
 As they made their way further, the debris in the water grew more abundant. The breeze they had been driving into earlier died away and the ocean flattened out, as if held down by the thick greasy blanket of refuse laying on it. Among the larger debris pieces of the derelict vessels there were rafts of smaller junk clumping together: rotting wood from ship decking and furniture, rusting barrels, bits of foam covered in bright cloth, frayed lines, bleached-pale buoys and fenders, pieces of masts, and tool handles. Anything that might fall from a ship or get tossed into the ocean and did not immediately sink seemed to have made its way to this huge gyre of garbage. Pieces bumped eerily against the hull of the _Prospect_ with deep resonant thumps that could be heard throughout the boat. In many places an iridescent oily sheen sprinkled with clumps of floating grease reflected back in Percy's light.
 
@@ -171,7 +171,7 @@ Percy turned the spotlight back on but did not shine it in the direction of the 
 
 [//]: # (### Through the dense part of the garbage patch at night; then in the morning they dive, and Cassandra hears the Grackle)
 
-They spent the entire night pinging their way through the densely polluted surface water with the _Gnat_ following dutifully behind. Percy instinctively felt uncomfortable about the racket the two ships were making, especially since every ping told anyone within a ten, maybe even twenty, mile radius precisely where they were. And, of course, even at a near-idle, the _Gnat_'s diesel --- which Shakes was now running again --- growled loudly, with sympathetic vibrations from the abandoned ship hulls surrounding them. Captain Percy reassured herself that they were far off any routine shipping lanes, and most vessels would steer around this patch they had chosen to plunge into. This refuse patch, which increasingly appeared to be quite a massive obstacle.
+They spent the entire night pinging their way through the densely polluted surface water with the _Gnat_ following dutifully behind. Percy instinctively felt uncomfortable about the racket the two ships were making, especially since every ping told anyone within a ten, maybe even twenty, mile radius precisely where they were. And, of course, even at a near-idle, the _Gnat_'s diesel --- which Shakes was now running again --- growled loudly, with sympathetic vibrations from the abandoned ship hulls surrounding them. Percy reassured herself that they were far off any routine shipping lanes, and most vessels would steer around this patch they had chosen to plunge into. This refuse patch, which increasingly appeared to be quite a massive obstacle.
 
 The boats were still on the surface, and Percy was still standing on the bridge of the _Prospect_, when the morning sun eased itself up over the eastern horizon. Its long red rays ignited the landscape of black hulks around them until it looked like boats were stirring the dead waters of an underworld lake of blood.
 
@@ -196,7 +196,7 @@ By the end of the day, Cassandra's confidence was growing as she started to unde
 
 With confidence came a love of her job, and the long shift that Percy was currently asking her to do without breaks seemed like less of a burden than it had at first. She found time passed rapidly when her mind was out there swimming in the sea of sound.
 
-By the clock, it was just after dark when Captain Percy suggested they might want to move up to periscope depth and have a look around at the garbage patch from the surface. The _Prospect_'s batteries were about half discharged, and if it was safe to run on the surface, they could run the diesels and recharge the batteries as usual. She asked Cassandra to have one last listen before she started raising the boat. Percy shut down the motors entirely so Cassandra could hear as far as possible.
+By the clock, it was just after dark when Percy suggested they might want to move up to periscope depth and have a look around at the garbage patch from the surface. The _Prospect_'s batteries were about half discharged, and if it was safe to run on the surface, they could run the diesels and recharge the batteries as usual. She asked Cassandra to have one last listen before she started raising the boat. Percy shut down the motors entirely so Cassandra could hear as far as possible.
 
 In this complete silence, Cassandra swung the sonar mics slowly in a full circle around, listening to the sounds of the ocean in every direction. As the mics came around towards the rear of the boat, that soft far-off motorized sound arose again, floating up from the depths of the silence.
 
@@ -252,7 +252,7 @@ In the middle of the night, Percy came down to the sonar compartment to check on
 
 Almost regretting it as she said it, Percy asked Cassandra to lay off the active pings and use only passive sonar to track objects in the water. It would be challenging given the density of objects fouling the space they were moving through, but at seven knots the _Prospect_ was putting out just enough noise that a good sonar operator should be able to clearly see the surrounding seascape for miles in every direction. Hemi's faith in Cassandra's natural skills was rubbing off on Percy.
 
-With the active sonar off, Cassandra soon reported that the _Grackle_ had slowed and was losing some distance. Captain Percy knew exactly what the cause of that was --- they had to run slowly and more quietly to hear the _Prospect_'s engine noise now.
+With the active sonar off, Cassandra soon reported that the _Grackle_ had slowed and was losing some distance. Percy knew exactly what the cause of that was --- they had to run slowly and more quietly to hear the _Prospect_'s engine noise now.
 
 [//]: # (----- invisible character break)
  
@@ -299,7 +299,7 @@ A few minutes later Gregory's voice came crackling over the PA speaker above Per
 
 For the next few hours Hemi carefully tracked the pursuing sub on sonar. He grew ever surer that the _Grackle_ was back on the _Prospect_'s track and was gaining ground once again. Percy nervously watched the battery gauges as the needles dipped slowly down into the areas marked with red cross-hatching. The relatively fast speed they had kept up now combined with the added draw of the bilge pumps to leave them with terrifyingly little battery power.
 
-Captain Percy had run out of ideas though. She just let the _Prospect_ run, leaning her weight from an overhead strap while she smoked. Hemi continued directing Bastian to make occasional adjustments to steer clear of dangerous objects in the water.
+Percy had run out of ideas though. She just let the _Prospect_ run, leaning her weight from an overhead strap while she smoked. Hemi continued directing Bastian to make occasional adjustments to steer clear of dangerous objects in the water.
 
 It was just starting to seem to Percy that perhaps there were fewer calls coming up from Hemi for course adjustments when the needles on the battery gauges suddenly dipped down into the solid red zone and then fell onto their zero needles, flat and lifeless. The sound of the electric drive motors died away with them. And just a second after that, the higher pitched whine of the forward bilge pumps died away too.
 
@@ -398,11 +398,11 @@ After hours alone in the empty cargo hold, standing in reeking bilge water, Greg
 
 [//]: # (5 degree slope on a 100 meter ship puts the bow... 6 meters under water, I believe. Good thing the sail on the Prospect is located well back on the deck.)
 
-Long hours of this stagnant situation turned into even longer hours. While Captain Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping, this was the reason so much cargo now crawled across the globe underwater. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the _Grackle_ would intuit the same conclusion.
+Long hours of this stagnant situation turned into even longer hours. While Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping, this was the reason so much cargo now crawled across the globe underwater. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the _Grackle_ would intuit the same conclusion.
 
 [//]: # (### Hemi comes up with a plan)
 
-Around mid-afternoon, Hemi joined Captain Percy on the bridge of the sail. Bastian had been sent off for much-needed rest, and Gregory was temporarily covering sonar for Hemi, who needed a break to clear his mind after the endless, numbing noise. Hemi would have asked Cassandra to cover for him, but there was no way to know how Percy would react if she found Cassandra back at the sonar station.
+Around mid-afternoon, Hemi joined Percy on the bridge of the sail. Bastian had been sent off for much-needed rest, and Gregory was temporarily covering sonar for Hemi, who needed a break to clear his mind after the endless, numbing noise. Hemi would have asked Cassandra to cover for him, but there was no way to know how Percy would react if she found Cassandra back at the sonar station.
 
 Percy was squinting into binoculars as she scanned around the horizon. She was unused to the brightness of the ocean under high daylight. 
 
@@ -491,7 +491,7 @@ Hemi was still wedged into the small space next to the control chair. "If you're
 
 Shakes had left the _Gnat_ a little over-buoyant while it was attached to the _Prospect_, so even with the docking clamps disengaged, the boat's mating collar was still pressed firmly against the _Prospect_'s. Hemi twisted open a valve and they could hear water pouring into the _Gnat_. Only seconds later, the boat dropped a meter or two. Shakes gave the electric motor some throttle. Most of the dials in front of the two men suddenly came to life, their little fingers of fate wagging at them.
 
-"_Gnat_, _Gnat_. You boys fuckin' listening?" Captain Percy's voice lit up the ship-to-ship radio.
+"_Gnat_, _Gnat_. You boys fuckin' listening?" Percy's voice lit up the ship-to-ship radio.
 
 Hemi closed the trim tank valves and picked up the ship-to-ship mic from where it hung in front of Shakes. "We have you, Sylvia."
 
@@ -503,7 +503,7 @@ Percy's voice came back over the ship-to-ship. "How does your inhumanly calculat
 
 Hemi held up a finger to Shakes. "Frankly, I give it about one chance in five," Hemi said into the mic.
 
-"And what are the chances that you will blow up either the _Gnat_ or the _Prospect_ or both?" asked Captain Percy.
+"And what are the chances that you will blow up either the _Gnat_ or the _Prospect_ or both?" asked Percy.
 
 "At least one of the two boats? I would say one chance in four."
 
@@ -571,7 +571,7 @@ Hemi did not even bother with the headset. There was no way they would hear anyt
 
 [//]: # (A ground plan of _Hell_ of course. )
 
-A few minutes later Hemi let go one more ping just to be sure the _Grackle_ was still following the _Gnat_, which it was. Then he powered down the sonar unit. Any further pings would run the risk of giving away the position of the _Prospect_ to the _Grackle_ after Captain Percy started maneuvering her boat. For the time being, with the _Gnat_'s engine overwhelming everything else in the water, Hemi would have to just guess the status of the other boats by dead reckoning.
+A few minutes later Hemi let go one more ping just to be sure the _Grackle_ was still following the _Gnat_, which it was. Then he powered down the sonar unit. Any further pings would run the risk of giving away the position of the _Prospect_ to the _Grackle_ after Percy started maneuvering her boat. For the time being, with the _Gnat_'s engine overwhelming everything else in the water, Hemi would have to just guess the status of the other boats by dead reckoning.
 
 Hemi caught Shakes's eye and pointed up to the hatch. Shakes nodded and squeezed off the other side of the pilot's seat. Hemi passed through the space of the vacated pilot's chair to climb up and open the hatch above. He stepped out into the shallow stream that washed over the deck of the _Gnat_.
 
@@ -740,7 +740,7 @@ Shakes stepped out of the sail and leaned over the now empty escape trunk where 
 
 [//]: # (### In the Prospect)
 
-In the control room of the _Prospect_, Captain Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through her boat's hull.
+In the control room of the _Prospect_, Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through her boat's hull.
 
 "Cassandra!" Percy shouted down to the sonar compartment. "Tell me what just happened!"
 
@@ -980,7 +980,7 @@ The _Gnat_ was sinking.
 
 [//]: # (### In the Prospect, the big reveal.)
 
-The explosion of the second device had rocked the _Prospect_. Just a sway, but enough force for Captain Percy to start worrying about the strength of the seam in the cargo hold once again.
+The explosion of the second device had rocked the _Prospect_. Just a sway, but enough force for Percy to start worrying about the strength of the seam in the cargo hold once again.
 
 "Cassandra! The second detonation: I need to know the results. Now."
 
@@ -988,7 +988,7 @@ The explosion of the second device had rocked the _Prospect_. Just a sway, but e
 
 Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! Your top priority now is to find the _Gnat_ again."
 
-Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Captain Percy's Head. "Sylvia..."
+Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Percy's Head. "Sylvia..."
 
 Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Shakes.
 
@@ -1089,7 +1089,7 @@ From the cargo hold he also hauled up a rusting platform made of welded deck gra
 
 Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the moisture was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
-Below deck, Captain Percy stopped the _Prospect_'s motors and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
+Below deck, Percy stopped the _Prospect_'s motors and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
 
 Hemi cleaned the fish, leaving a sparkling trail of sticky scales across the deck of the _Prospect_, and threw the spine, tail, and various viscera back over the side. Big steaks of the meat went onto the grill and Hemi spread a rub of salt, lime juice, and red pepper flakes across it. The flesh browned and burned a little at the edges. Hemi took the smoking steaks off and dropped them into bowls of rice that Gregory brought up from the galley.
 
