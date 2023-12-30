@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-12-30 12:01
+Last modified: 2023-12-30 13:13
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,17 +32,19 @@ Last modified: 2023-12-30 12:01
 
 ## Final production todos
 --------------------------------------------------------------------------------
-* [ ] after track changes review, go through Hagfish general feedback email and make sure general comments are considered
+* [ ] Change donation page to suggest Deliveristas Unidos
+    * Make it explicitly "charityware" (suggest looking it up on wikipedia)
+* [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+* [ ] Add back cover blurb for print book
+* [ ] for book generation, this page might have useful tips about managing the css configuration:
+	* https://shkspr.mobi/blog/2023/04/using-pandoc-to-format-a-dissertation-from-markdown-to-html-pdf-and-epub/
+* [X] after track changes review, go through Hagfish general feedback email and make sure general comments are considered
     * [X] Also make a copy of the changes-marked file, git rm --cached the changes-marked file (to delete the many iterations now saved of it) and then add the original and the changes-marked version back to the repo
     * [-] Julia strongly suggests that the blocking and description slow down the plot too much. I disagree. The mechanics behind the book are to make the reader feel like they live in this world for a while. The plot is simple, really barely enough to keep the pages turning. It's the experience of _being_ there that I hope keeps the reader engaged.
 	* [-] Julia also suggests dropping the fucks. But again, I think this helps the reader feel like they are there -- this is how people _actually_ talk, you can _hear_ them in your head. I think most writers shy away from the way people actually speak becuase they fear (maybe rightly so) that it will make them look like less of a writer, if not offend a big portion of the audience outright. But I want people to hear the characters delivering the lines, and these are working class folks, sailors. At least for me, it would detract from the sense of being there if they only cursed as often as the prolite accomodations of network television would allow.
 	* [X] Rmove "Captain" before Percy where not necessary
-* [ ] Change donation page to suggest Deliveristas Unidos
-    * Make it explicitly "charityware" (suggest looking it up on wikipedia)
-* [ ] pick up Becci suggestions:
-    * [ ] The biggest thing I'd like to see is some more reaction to Hershel when he first joins the Prospect. I kept wondering why no one was affected by a pigeon flapping around the ship. I think at minimum you could move the bit about him taking up residence in the galley to an earlier part. Though I'd also like a bit more, eg who loves him and develops a relationship vs who is just annoyed.
-    * [ ] I did spend some time wondering why the grackle is trying to sink them, though obviously that gets resolved.
-    * [ ] I also felt like there could be a little more reaction to the loss of Owen and departure of Chips...  what does Cassandra think about all that?
+* [X] pick up Becci suggestions:
+    * [-] I did spend some time wondering why the grackle is trying to sink them, though obviously that gets resolved.
     * [X] The ice cream sandwiches could make an appearance 😅 maybe one of the times someone is bringing the crew their post-meal coffee
 		* There's a line in chapter 3 where someone is eating an ice cream sandwich. She must have just forgotten.
     * [X] Add Becci to thanks list
@@ -58,28 +60,15 @@ Last modified: 2023-12-30 12:01
 * [X] get ISBN for print book
 	* B&N will provide a free ISBN for a print book
 	* ebooks don't require an ISBN, and if you get one it has to be different than the print book anyway (every version of a book gets its own ISBN)
-* [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
-* [ ] Add back cover blurb for print book
-* [ ] for book generation, this page might have useful tips about managing the css configuration:
-	* https://shkspr.mobi/blog/2023/04/using-pandoc-to-format-a-dissertation-from-markdown-to-html-pdf-and-epub/
 * [X] make sure epub passes epubcheck validation
 	* AUR on Arch
 
-
-## story descriptions and title possibilities: 
---------------------------------------------------------------------------------
-:descriptions:
-* short lines:
-    * "Like Serenity, but on a submarine" -- Becci (Note: I've never seen Serenity)
-	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
-	* "Commerce always finds a way."
-	* If Kelly's Heroes took the liberty of sticking a hippie into WWII, this book takes the liberty of sticking a bunch of punk rockers into mid-century machines. 
-* more detailed description possibilities: 
-	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
-* just for a rough sense of scale, the average novel has:
-	* 300 words per page
-	* 3000 words per chapter
-	* 90,000 words for a novel.
+## For a potential future full-book revision:
+* [ ] From Julia at Hagfish:
+	* [ ] See her notes about blocking and description from her email
+* [ ] From Becci:
+    * [ ] The biggest thing I'd like to see is some more reaction to Hershel when he first joins the Prospect. I kept wondering why no one was affected by a pigeon flapping around the ship. I think at minimum you could move the bit about him taking up residence in the galley to an earlier part. Though I'd also like a bit more, eg who loves him and develops a relationship vs who is just annoyed.
+    * [ ] I also felt like there could be a little more reaction to the loss of Owen and departure of Chips...  what does Cassandra think about all that?
 * [ ] Cover revision possibilities:
 	* get a drawing done of the Gnat sail in modest seas with spindrift coming off the whitecaps. On the top of the sail is a pigeon.
 	* Anyone who sees the cover should immediately see the pigeon and think: why is there a pigeon on a submarine on the cover of that book?
@@ -106,6 +95,23 @@ Last modified: 2023-12-30 12:01
 		* [X] If you do a preview edition, or even a first edition, you could make your own cover from the WWII Tang drawings
 		* [ ] If you come up with a symbol for the Prospect, make sure it is shown on an illustrated cover
 		* [ ] could be an image of the Gnat's sail with just Herschel standing at his hatch --- this would certainly peak my interest!
+
+
+## story descriptions and title possibilities: 
+--------------------------------------------------------------------------------
+:descriptions:
+* short lines:
+    * "Like Serenity, but on a submarine" -- Becci (Note: I've never seen Serenity)
+	* "For them, the only way to know the difference between living and dying is the small movement of a needle on a gauge."
+	* "Commerce always finds a way."
+	* If Kelly's Heroes took the liberty of sticking a hippie into WWII, this book takes the liberty of sticking a bunch of punk rockers into mid-century machines. 
+	* Like a mashup of a 1960s submarine movie and a 1970s trucker movie
+* more detailed description possibilities: 
+	* Set in an alternate-timeline post-WWII Earth, where a combination of cold and hot wars have ground the entire surface of the planet down to a military-bureaucratic morass making free movement nearly impossible, commerce has found a way in the form of a network of semi-clandestine transport submarines that take advantage of the freedom of movement offered by the vast three-dimensional space offered by moving cargo underwater.
+* just for a rough sense of scale, the average novel has:
+	* 300 words per page
+	* 3000 words per chapter
+	* 90,000 words for a novel.
 * [X] Draw diagrams of the Prospect and Gnat. Include with story.
 	* (Possibly by scanning and modifying from US Subs book Tang drawings in Inkscape) 
 	* (No copyright problems, those are federal gov't drawings)
