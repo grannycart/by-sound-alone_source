@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2023-12-30 13:31
+Last modified: 2023-12-31 16:10
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,10 +32,13 @@ Last modified: 2023-12-30 13:31
 
 ## Final production todos
 --------------------------------------------------------------------------------
-* [ ] Change donation page to suggest Deliveristas Unidos
-    * Make it explicitly "charityware" (suggest looking it up on wikipedia)
-* [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
-* [ ] Add back cover blurb for print book
+* [ ] do a final review of back cover text and what to do if you enjoyed the book text
+* [ ] create a what to do if you enjoyed the book page to replace the contact page:
+    * [ ] Change donation page to suggest Deliveristas Unidos
+        * Make it explicitly "charityware" (suggest looking it up on wikipedia)
+    * [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+    * [ ] add how to get on email list
+* [X] Add back cover blurb for print book
 * [ ] for book generation, this page might have useful tips about managing the css configuration:
 	* https://shkspr.mobi/blog/2023/04/using-pandoc-to-format-a-dissertation-from-markdown-to-html-pdf-and-epub/
 * [X] after track changes review, go through Hagfish general feedback email and make sure general comments are considered
