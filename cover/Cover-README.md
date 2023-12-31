@@ -1,7 +1,11 @@
 Cover-README.md
-Last modified: 2023-09-24 15:47
+Last modified: 2023-12-31 13:57
 
-Note: If your page count changes by any signficant margin, you need to download the template from B&N and re-adjust the cover layour (particularly the spine) to fit the new book dimensions. (A different page count yields a fatter or skinnier book, so the horizontal dimension changes.)
+Note: If your page count changes by any significant margin, you need
+to download the template from B&N and re-adjust the cover layout
+(particularly the spine) to fit the new book dimensions. (A different
+page count yields a fatter or skinnier book, so the horizontal dimension
+changes.)
 
 
 
