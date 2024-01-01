@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-12-30 17:36
+# Last modified: 2023-12-31 19:51
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -21,7 +21,7 @@ CONTACT = manuscript/what-to-do-if-you-enjoyed-the-book.md
 # Similarly the license file's relation to CONTACT changes depending on format, so it too gets its own pandoc variable:
 LICENSE = LICENSE.txt
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
-COVER_IMAGE = cover/final-beta-front-cover-layout.png
+COVER_IMAGE = cover/final-front-cover-layout.png
 # While it seems like it would make sense to use 'book' for LATEX_CLASS,
 # book sets up the file for book printing -- putting end-of-book pages on the reverse of the front-of-book pages.
 # (There's probably a latex option to change that, but that is the default for book.)
@@ -33,7 +33,7 @@ CSS = css/clean-html.css
 # This line uses the -M switch to override the 'rights' field in metadata.yaml and puts a version date into the compiled pandoc file. 
 # (has to go here to run on the command line so it can use the 'date' command from Linux)
 # The default setup puts in today's date automatically:
-RIGHTS = "(Final Beta; Version-date: `date "+%B %e, %Y"`) © 2023 Mark Torrey, CC BY-NC-SA" 
+RIGHTS = "(Version-date: `date "+%B %e, %Y"`) © 2024 Mark Torrey, CC BY-NC-SA" 
 
 all: book
 
