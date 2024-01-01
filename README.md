@@ -9,6 +9,7 @@
 * Or, compile from this source code using pandoc.
 	* (Or just read the straight markdown, available in source.)
 
+
 ## Repo contents:
 * **cover/**: The cover graphic files.
 * **notes-and-edits/**: Todo lists and other documentation.
@@ -24,7 +25,8 @@
 	1. on a linux box 
 	2. make sure you have pandoc and latex installed 
 	3. then just run make. This will create an epub, html, pdf, latex, and plain txt version of the book.:
-		* Note: for draft versions I've added -M date="Version date - `date "+%B %e, %Y"`" to the pandoc compile lines in the Makefile so the compiled files have a reference date included in the title blocks. (Requires date command on the computer --- all unix boxes. -M adds the content to the metadata. This line should be removed from final published version.)
+        * Note: You will get lots of warnings that say: ```[WARNING] Duplicate link reference``` This is just a result of the yaml formatting of comments in the text. You can ignore these warnings.
+		* Note: for draft versions I've added -M date="Version date - `date "+%B %e, %Y"`" to the pandoc compile lines in the Makefile so the compiled files have a reference date included in the title blocks. (Requires date command on the computer. -M adds the content to the metadata. This line should be removed from final published version.)
 	4. These files can be cleaned up a bit by hand. See notes below.
 * epub:
 	* formatting notes to come
@@ -43,6 +45,20 @@
 	* Make sure this file exists and the links in it point to the diagrams
 	* Make sure the diagram files exist (ideally, the png versions would not be included in the git repo)
 	* This file only applies to the .epub compilation.
+
+### Software notes
+* In order to compile the book as is without having to fiddle with the Makefile and the markdown, you need certain software installed:
+    * git and make (obviously) 
+    * pandoc
+    * at least a basix latex install if you want to make pdfs 
+        * on Arch Linux: 
+            * you need to add the otf-latin-modern package to get the font lmroman10-regular
+            * and texlive-fontsrecommended to get lmodern.sty
+        * (probably some other specific packages, likely to vary depending on distro.)
+    * date (virtually all unix machines have this by default)
+    * calibre --- if you want to create .mobi files. (See comments in Makefile)
+    * Inkscape --- if you want to edit the diagrams
+
 
 ## Credits:
 * Compiled using pandoc-ebook-template:

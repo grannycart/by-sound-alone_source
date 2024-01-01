@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2023-12-31 19:51
+# Last modified: 2024-01-01 11:44
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -12,7 +12,7 @@ BOOKNAME = By-Sound-Alone
 METADATA = metadata.yaml
 # List of chapter files, in order, separated by a space.
 CHAPTERS = manuscript/two_preface.md manuscript/1_Chapter.md manuscript/2_Chapter.md manuscript/3_Chapter.md manuscript/4_Chapter.md manuscript/5_Chapter.md manuscript/6_Chapter.md manuscript/7_Chapter.md
-# Diagrams file. Diagrams are only added to epub and html, so that variable is in the pandoc lines for those sections below. 
+# Diagrams file. Diagrams are only added automatically to epub and html, so that variable is in the pandoc lines for those sections below. 
 # Diagrams are added by hand to pdf for book printing -- see latex notes.
 DIAGRAMS = manuscript/one_diagrams.md 
 # Contact page file. It goes in different locations depending on format, so it gets its own pandoc variable.
