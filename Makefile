@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-01-01 15:00
+# Last modified: 2024-01-01 16:49
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -54,7 +54,7 @@ txt: $(BUILD)/txt/$(BOOKNAME).txt
 
 md: $(BUILD)/markdown/$(BOOKNAME).md
 
-$(BUILD)/epub/$(BOOKNAME).epub: $(CONTACT) $(METADATA) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
+$(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/epub
 #	Note: Calibre comes with a tool that can convert epub to mobi (Amazon Kindle's format): ebook-convert
 # 	Note: if you look at the original source from the maintainer for this ebook compiler they have a -S in these lines. That switch is deprecated in modern pandoc. I added the --from markdown+smart instead to the pandoc compile lines. ('smart' only does anything for markdown and latex outputs though, and is enabled by default, so this isn't doing anything. See: https://www.uv.es/wikibase/doc/cas/pandoc_manual_2.7.3.wiki?33)
@@ -62,14 +62,14 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(CONTACT) $(METADATA) $(DIAGRAMS) $(CHAPTERS) $
 # 	After generating, use epubcheck tool (available on linux distros) to check the epub file
 	pandoc --css=css/epub.css -M rights=$(RIGHTS) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
-$(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(DIAGRAMS) $(CHAPTERS) $(CONTACT) $(LICENSE)
+$(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/html
 #	The html is formatted by css to be a clean web page. See file in css/
 #	"rights" is set as date for htmlso it gets printed on first page as part of title block 
 #	--standalone is set automatically for epub and pdf/latex, but not for html:
 	pandoc -s --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
 
-$(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA) $(CHAPTERS) $(CONTACT) $(LICENSE)
+$(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
 #	"rights" metadata set as "date" latex field here so it gets printed on first page as part of title block

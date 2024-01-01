@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2024-01-01 15:09
+Last modified: 2024-01-01 17:00
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -35,12 +35,12 @@ Last modified: 2024-01-01 15:09
 * [X] try adding xelatex engine to tex generation make line (if it works, add texlive-xetex to requirements for software in README, I think?)
     * See note in latex compiling notes
 * [ ] Remove date line from Makefile? (and lines that mention it in README)
-* [ ] do a final review of back cover text and what to do if you enjoyed the book text
-* [ ] create a what to do if you enjoyed the book page to replace the contact page:
-    * [ ] Change donation page to suggest Deliveristas Unidos
+* [X] do a final review of back cover text and what to do if you enjoyed the book text
+* [X] create a what to do if you enjoyed the book page to replace the contact page:
+    * [X] Change donation page to suggest Deliveristas Unidos
         * Make it explicitly "charityware" (suggest looking it up on wikipedia)
-    * [ ] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
-    * [ ] add how to get on email list
+    * [X] add a graf at the end about how the reader should pass on the book (especially if they made it to that paragraph). See notes about this in promotion.
+    * [X] add how to get on email list
 * [X] Add back cover blurb for print book
 * [ ] for book generation, this page might have useful tips about managing the css configuration:
 	* https://shkspr.mobi/blog/2023/04/using-pandoc-to-format-a-dissertation-from-markdown-to-html-pdf-and-epub/

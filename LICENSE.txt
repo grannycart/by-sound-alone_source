@@ -4,7 +4,7 @@
 
 <div style="page-break-before:always;"></div>  
   
-# License
+## License
   
 _This book is free. Not necessarily "free," as in you paid nothing for it. If you read the e-book, you probably didn't pay anything. But if you read a paper copy, you might have paid a little something. That's good -- it helps cover the real cost of printing on paper and whatnot. But the book is "free" in that it's under a free license. And it will remain so._
 
@@ -15,7 +15,7 @@ _The Creative Commons Attribution-NonCommercial-ShareAlike license (included bel
 
 ----------------------------------------------------------------------
 
-## CREATIVE COMMONS LICENSE INFORMATION
+### CREATIVE COMMONS LICENSE INFORMATION
 
 ----------------------------------------------------------------------
 
