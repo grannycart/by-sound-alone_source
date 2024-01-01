@@ -54,6 +54,7 @@
         * on Arch Linux: 
             * you need to add the otf-latin-modern package to get the font lmroman10-regular
             * and texlive-fontsrecommended to get lmodern.sty
+        * Xetex (on Arch Linux, the texlive-xetex package) --- xelatex engine is used for the pdf generation.
         * (probably some other specific packages, likely to vary depending on distro.)
     * date (virtually all unix machines have this by default)
     * calibre --- if you want to create .mobi files. (See comments in Makefile)

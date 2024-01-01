@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2024-01-01 11:44
+Last modified: 2024-01-01 15:09
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,7 +32,8 @@ Last modified: 2024-01-01 11:44
 
 ## Final production todos
 --------------------------------------------------------------------------------
-* [ ] try adding xelatex engine to tex generation make line (if it works, add texlive-xetex to requirements for software in README, I think?)
+* [X] try adding xelatex engine to tex generation make line (if it works, add texlive-xetex to requirements for software in README, I think?)
+    * See note in latex compiling notes
 * [ ] Remove date line from Makefile? (and lines that mention it in README)
 * [ ] do a final review of back cover text and what to do if you enjoyed the book text
 * [ ] create a what to do if you enjoyed the book page to replace the contact page:

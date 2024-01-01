@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2023-12-31 19:52
+Last modified: 2024-01-01 15:09
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -44,6 +44,7 @@ Last modified: 2023-12-31 19:52
 	* Take the date info from the \date line, and leave the \date{} with no content so it prints blank on the title page.
 8. return text to \normalsize for the note on the last page with contact info and email sign up
 9. Compile latex file; review compiled file
+	* Note: use pdflatex to compile. Even though ```make pdf``` uses the xelatex engine, xelatex causes more problems than it solves. For this final production paper book, stick to traditional ```pdflatex```
 10. If you still need blank pages, Add blank pages with:
 	```
 	\newpage 
