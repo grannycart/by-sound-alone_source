@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2024-01-01 15:09
+Last modified: 2024-01-02 21:46
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -42,9 +42,15 @@ Last modified: 2024-01-01 15:09
 	\clearpage
 	```
 	* Take the date info from the \date line, and leave the \date{} with no content so it prints blank on the title page.
-8. return text to \normalsize for the note on the last page with contact info and email sign up
+8. Set up Three things to do if you enjoy this book page:
+    * You might have to play with various things to get it to all fit on one page. You really want it to all fit on one page.
+    * Set new margins: After \newpage, add: ```\newgeometry{margin=1cm}```
+    * remove any \bigskips from the beginning and end of this page (Though there shouldn't be any now after I removed those characters from the markdown)
+    * Try chaning \section to \subsection to make the title of the page smaller
+	* Try setting text to \normalsize, though you might need \small 
 9. Compile latex file; review compiled file
 	* Note: use pdflatex to compile. Even though ```make pdf``` uses the xelatex engine, xelatex causes more problems than it solves. For this final production paper book, stick to traditional ```pdflatex```
+    * You should run the pdflate command at least twice to make sure all cross references generate correctly.
 10. If you still need blank pages, Add blank pages with:
 	```
 	\newpage 

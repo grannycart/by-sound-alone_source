@@ -6,9 +6,6 @@
 
 [//]: # (This is the page with contact information, which goes at the front or the back of the book, depending on format. See Makefile.)
 
-  
-[//]: # (----- invisible character break)
- 
 
 --------------------------------------------------------------------------------
 
@@ -27,12 +24,9 @@
 
     You can donate here:   
     https://secure.actblue.com/donate/workersjustice
-  
+ 
 
 
 --------------------------------------------------------------------------------
-  
-[//]: # (----- invisible character break)
- 
 
 
