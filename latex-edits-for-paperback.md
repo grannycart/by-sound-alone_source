@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2024-01-02 21:46
+Last modified: 2024-01-02 21:53
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -51,6 +51,7 @@ Last modified: 2024-01-02 21:46
 9. Compile latex file; review compiled file
 	* Note: use pdflatex to compile. Even though ```make pdf``` uses the xelatex engine, xelatex causes more problems than it solves. For this final production paper book, stick to traditional ```pdflatex```
     * You should run the pdflate command at least twice to make sure all cross references generate correctly.
+    * Check all the overfull hbox warnings and make sure the lines look good (usually it's just a period hanging off the end, no big deal).
 10. If you still need blank pages, Add blank pages with:
 	```
 	\newpage 
