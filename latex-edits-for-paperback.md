@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2024-01-02 21:53
+Last modified: 2024-01-02 22:10
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -36,7 +36,8 @@ Last modified: 2024-01-02 21:53
 	(Version-date: January 1, 2024)
 
 	For more information, visit:\\
-	grannycart.net/by-sound-alone/
+	grannycart.net/by-sound-alone/\\
+    (E-book version available free of charge)
 	
 	uuid: df78bb38-3009-4e40-a4ba-82a73e75a3c4
 	\clearpage
