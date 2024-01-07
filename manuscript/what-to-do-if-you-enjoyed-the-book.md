@@ -16,14 +16,14 @@
 2. I encourage you to sign up for the mailing list. There will be no spam. There will be very little email at all. Mostly it's a way for me to make sure the people who are most interested in my work will know about new stuff when it becomes available. 
 
     You can request to be added to the mailing list here:  
-    https://grannycart.net/contact
+    [https://grannycart.net/contact](https://grannycart.net/contact)
 
     Getting on the email list is one of the most important things you can do to support creative work you admire because it is the only way creators can stay in touch that doesn't depend on some corporate platform that could be taken over by a megalomaniacal billionaire and driven into the ground at any time. You should sign up for the email list of anyone whose work you value. By doing so you are giving them the gift of empowerment. In many ways it's more important than money.
 
 3. If you have the means, consider donating something to a worthy cause. May I recommend Los Deliveristas Unidos, a group working toward giving delivery workers who work through apps like GrubHub, DoorDash, and Uber Eats access to basic labor rights. Los Deliveristas Unidos is a project of the [Worker's Justice Project](http://www.workersjustice.org/workers-justice-project), which organizes to win better living and working conditions for gig workers and migrants in New York City. 
 
     You can donate here:   
-    https://secure.actblue.com/donate/workersjustice
+    [https://secure.actblue.com/donate/workersjustice](https://secure.actblue.com/donate/workersjustice)
  
 
 
