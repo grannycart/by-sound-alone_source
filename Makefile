@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-01-01 16:49
+# Last modified: 2024-01-10 11:06
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -37,12 +37,14 @@ RIGHTS = "(Version-date: `date "+%B %e, %Y"`) © 2024 Mark Torrey, CC BY-NC-SA"
 
 all: book
 
-book: epub html pdf latex txt md 
+book: epub sample html pdf latex txt md 
 
 clean:
 	rm -rfd $(BUILD)
 
 epub: $(BUILD)/epub/$(BOOKNAME).epub
+
+sample: $(BUILD)/epub/$(BOOKNAME)_chap1-sample.epub
 
 html: $(BUILD)/html/$(BOOKNAME).html
 
@@ -61,6 +63,13 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $
 # 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
 # 	After generating, use epubcheck tool (available on linux distros) to check the epub file
 	pandoc --css=css/epub.css -M rights=$(RIGHTS) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
+
+$(BUILD)/epub/$(BOOKNAME)_chap1-sample.epub: $(METADATA) $(DIAGRAMS) manuscript/1_Chapter.md
+	mkdir -p $(BUILD)/epub
+#	This target creates a single-chapter epub sample (which B&N uses on their site)
+# 	The --css references a simple css file used for formatting the epub. It is critically important because it centers the titles and separators among other things. It vastly improves the epub output. It is not included in the original maintainer's version.
+# 	After generating, use epubcheck tool (available on linux distros) to check the epub file
+	pandoc --css=css/epub.css --metadata=title:"By Sound Alone --- Chapter 1 (sample)" -M rights=$(RIGHTS) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
 $(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/html
@@ -96,4 +105,4 @@ $(BUILD)/markdown/$(BOOKNAME).md: $(METADATA) $(CHAPTERS) $(LICENSE)
 	pandoc -s --from markdown+smart -M rights=$(RIGHTS) --to=markdown -o $@ $^
 
 
-.PHONY: all book clean epub html pdf latex txt md
+.PHONY: all book clean epub sample html pdf latex txt md
