@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="in"
-     inkscape:zoom="1"
-     inkscape:cx="588"
-     inkscape:cy="402.5"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="516.89506"
+     inkscape:cy="303.34881"
      inkscape:window-width="1430"
      inkscape:window-height="1388"
      inkscape:window-x="0"
@@ -514,15 +514,17 @@
        y="0"><tspan
          x="991.05664"
          y="771.98603"
-         id="tspan2"><tspan
+         id="tspan6"><tspan
            style="font-weight:600;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime Semi-Bold'"
-           id="tspan1">2024 Mark Torrey
+           id="tspan5">2024 Mark Torrey
 </tspan></tspan><tspan
-         x="928.69727"
+         x="991.05664"
          y="782.75727"
-         id="tspan4"><tspan
+         id="tspan9"><tspan
            style="font-weight:600;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime Semi-Bold'"
-           id="tspan3">grannycart.net/by-sound-alone</tspan></tspan></text><image
+           id="tspan7">bysoundalone</tspan><tspan
+           style="font-weight:600;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime Semi-Bold'"
+           id="tspan8">.net</tspan></tspan></text><image
        width="248.49692"
        height="117.13583"
        preserveAspectRatio="none"
@@ -539,7 +541,7 @@
        y="109.99437"
        style="display:inline" /><g
        id="g3960"
-       transform="matrix(0.17392143,0,0,0.17392143,228.16908,202.91246)"
+       transform="matrix(0.17392143,0,0,0.17392143,228.16908,206.08748)"
        style="display:inline">
 	<path
    fill="#ffffff"
