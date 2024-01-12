@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2024-01-11 15:49
+Last modified: 2024-01-12 18:40
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -72,8 +72,8 @@ Last modified: 2024-01-11 15:49
 	* Gather all the other necessary pdfs into a single directory:
 		* the main compiled pdf
 		* **Don't forget to add the diagrams!**
-		* Extract a blank page (check that page 2 is a blank page, otherwise just find a blank somewhere in the pdf):
-			* pdftk ./Subworldbook1.pdf cat 2 output ./blank-page.pdf
+		* If you still need blank pages: Extract a blank page (check that page 2 is a blank page, otherwise just find a blank somewhere in the pdf):
+			* ```pdftk ./Subworldbook1.pdf cat 2 output ./blank-page.pdf```
 	* Use pdftk or some other pdf manipulation software to add the diagram pages and other matter to the file. Assemble the final pdf, adding blank pages where necessary to get the pages to flow correctly for printing, and get div/4 number of pages:
         * for example:
             * ```pdftk ./blank-page.pdf ./Prospect-interior-diagram_5.5x8.25-rotated.pdf ./Gnat-interior-diagram_5.5x8.25-rotated.pdf ./By-Sound-Alone_paper-book-production-file.pdf output ./By-Sound-Alone_paper-book-production-file+diagrams.pdf```
