@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-01-28 17:31
+# Last modified: 2024-01-28 17:55
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -91,6 +91,7 @@ $(BUILD)/latex/$(BOOKNAME).tex: $(METADATA) $(CHAPTERS) $(LICENSE) $(CONTACT)
 #	I use this target for prepping for paper version of the book 
 #	(so, scrbook latex class is used here and page it set to 5.5x8.25)
 #	Below with some latex options (-V) added.
+#	5.5x8.25 is the book size for B&N. Other publishers need different sizes. See paper production directory.
 #	"rights" metadata set as "date" latex field here so it gets printed on first page as part of title block
 #	the inner and outer geometry settings are the only way I could figure out to eliminate the stupid fucking Latex 'margin notes' space
 	pandoc -s --from markdown+smart --top-level-division=chapter -V date=$(RIGHTS) -V documentclass=scrbook -V geometry:inner=2cm -V geometry:outer=1.5cm -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
