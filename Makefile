@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-01-10 11:06
+# Last modified: 2024-01-28 17:31
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -74,6 +74,7 @@ $(BUILD)/epub/$(BOOKNAME)_chap1-sample.epub: $(METADATA) $(DIAGRAMS) manuscript/
 $(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/html
 #	The html is formatted by css to be a clean web page. See file in css/
+#	--embed-resources requires at least pandoc 2.19
 #	"rights" is set as date for htmlso it gets printed on first page as part of title block 
 #	--standalone is set automatically for epub and pdf/latex, but not for html:
 	pandoc -s --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
