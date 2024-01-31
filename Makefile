@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-01-28 17:55
+# Last modified: 2024-01-30 23:34
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -77,14 +77,14 @@ $(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $
 #	--embed-resources requires at least pandoc 2.19
 #	"rights" is set as date for htmlso it gets printed on first page as part of title block 
 #	--standalone is set automatically for epub and pdf/latex, but not for html:
-	pandoc -s --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
+	pandoc -s --toc --toc-depth=2 --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
 #	"rights" metadata set as "date" latex field here so it gets printed on first page as part of title block
 #	xelatex engine is necessary to process unicode character I used for section breaks
-	pandoc -s --from markdown+smart --pdf-engine=xelatex -V date=$(RIGHTS) -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
+	pandoc -s --toc --toc-depth=2 --from markdown+smart --pdf-engine=xelatex -V date=$(RIGHTS) -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
 
 $(BUILD)/latex/$(BOOKNAME).tex: $(METADATA) $(CHAPTERS) $(LICENSE) $(CONTACT)
 	mkdir -p $(BUILD)/latex
