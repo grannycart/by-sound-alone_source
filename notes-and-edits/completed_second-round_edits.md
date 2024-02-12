@@ -1,5 +1,5 @@
 subworld-book1/documentation/second-round_edits.md
-Last modified: 2023-12-03 11:21
+Last modified: 2024-02-11 23:03
 
 # Second round edits
 Edits to pick up in second full pass through the book
@@ -470,12 +470,13 @@ Edits to pick up in second full pass through the book
 * [-] Contrast the sound and smoke and roughness of the diesels running with the quiet and elegance of the electrics motors on batteries
 * [-] And the relationship between the black smoke pouring off the diesels and the cigarillo/cigarette smoke
 * [-] Add a scene where they quick-fix a leak with a Power Actuated Tool?
-* [-] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
+* [X] You might have to reconsider shutters open, "stacks blowing flame" --- diesel subs exhausted below the surface
 	* (see notes in research files)
 	* Maybe. There's an argument that a cargo sub might trade off a quieter under-water exhaust system for the fact that a diesel plume would be pretty hard to detect at night --- which is when they would do most of their surface-diesel running
 		* This is the kind of thing that might be different about a cargo sub --- which presumably has less chance of being forced to the surface to run during the day.
 		* yeah, but WHY bother? just because it's cool?
 	* This is referenced first right at about 1000k words
+    * I saw a picture on Reddit of a modern nuclear sub coming into dry dock on its auxiliary diesel engine. It had smoke pouring from the top of the sail. So there's SOME kind of logic that could be applied to having the diesel vent from the top of the sail. (Though I'm not sure what.)
 * [-] Could the cursing be more along these lines:
 	* You're a fucking dried-out turd Percy. Not laying on the ground, but stuck up deep in your colon. One that you struggle to birth out into the world, its dessicated husk catching and grabbing with every thrust against your hemorrhoidal and sore sphincter like it doesn't want to be released into the world, like it wants to stay up inside your sick body and continue to gestate
 * [-] Can't hurt for driving plot forward to have two characters with no fear of death. 
