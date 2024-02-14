@@ -1,15 +1,14 @@
 By-Sound-Alone_notes-for-Jack.md
-Last modified: 2024-02-06 18:37
+Last modified: 2024-02-13 22:55
 
 # By Sound Alone --- Notes for Jack
 
 ## General notes
-* **Aesthetics:** When I first thought about writing this book, I was literally asking myself: "What would a novel be like if it resembled the aesthetics of Motörhead?" I wanted to write a book that was loud, fast, gritty, and smelled bad. I don't think I achieved that, but something to consider is that an audiobook version might be an opportunity to put a bit more of that aesthetic back in. So, say you have a bad cold and you get a serious gravelly frog in your throat. Record it! I say. Assuming you aren't going to get sick any time soon, the Motörhead aesthetic is just something to keep in mind. The book is about people who live inside great greasy machines. There's no reason the audio should be perfect. Ideally it would be full of grit and life.
+* **Aesthetics:** When I first thought about writing this book, I was asking myself: "What would a novel be like if it resembled the aesthetics of Motörhead?" I wanted to write a book that was loud, fast, gritty, and smelled bad. I don't think I achieved that, but something to consider is that an audiobook version might be an opportunity to put a bit more of that aesthetic back in. So, say you have a bad cold and you get a serious gravelly frog in your throat. Record it! But assuming you aren't going to get sick any time soon, the Motörhead aesthetic is just something to keep in mind. The book is about people who live inside great greasy machines. There's no reason the audio should be perfect. Ideally both the it and the book itself would be full of grit and life.
 * sections you can skip: diagrams, preface, License
 * add: this book is released for free under a Creative Commons blah blah. For more information visit bysoundalone.net.
     * Read by Jack Hope (for more information, visit...?)
 * can I get flac or other non-lossy format?
-
 
 
 ## Character notes
