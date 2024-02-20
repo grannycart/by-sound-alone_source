@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2024-01-01 17:00
+Last modified: 2024-02-20 14:16
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -70,6 +70,10 @@ Last modified: 2024-01-01 17:00
 	* AUR on Arch
 
 ## For a potential future full-book revision:
+* [ ] Make it clear in the first chapter that the ramming does most damage to the _ballast_ tanks, and only slightly damages the pressure hull
+    * It needs some more clarification on this to be very accurate. The book does say the ballast blow pipes are pinched shut, and they can't refill the tanks with air.
+    * But it also needs to make clear that the ballast tanks took most of the brunt of the ramming
+    * And then it needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
 * [ ] From Julia at Hagfish:
 	* [ ] See her notes about blocking and description from her email
 * [ ] From Becci:
