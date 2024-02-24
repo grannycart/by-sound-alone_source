@@ -99,7 +99,7 @@ Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and careful
 
 "That's why they call it fuckin' Stilt City," said Percy.
 
-[//]: # (This world does not deviate so much from the history of the real world that influence and names of Europe are not spread all around the globe from the impacts of the European colonial period and continued colonialism. As cool as it would be to write that book, I am not sure I could do it. See also the name of Sir Piero --- Italian, named after the captain of the Andrea Doria.)
+[//]: # (This world does not deviate so much from the history of the real world that influence and names of Europe are not spread all around the globe from the impacts of the European colonial period and continued colonialism. As cool as it would be to write that book, I am not sure I could do it. See also the note about the name of Sir Piero below, which is Italian.)
 
 "Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land. Many cities around the world are built on swamps because that is where the large rivers meet the sea, and that is where major ports come together. In richer places, they drain the swamps to get to dry land under them. Here, they found it more economical to just build above the water line on stilts, at least in recent years."
 
@@ -115,7 +115,7 @@ The channel began to narrow, pushing the sea craft using it together. Hemi steer
 
 Every so often, the masses of huts were broken up by a large access channel running off the main channel. Around these access channels had risen most of the commercial trade, which had led to the building of long docks and piers, more substantial warehouses, and larger buildings --- always sitting on stilts above the water. The fancier buildings had paid extra to ship out and install steel roofs. Big steel cargo and transport ships would make their way into these access channels and dock against the flimsy, leaning piers of crunching wood that barely seemed able to keep the big ships immobile, and perhaps would not have at all if the waters were not so still. The cargo was unloaded onto these docks and from there moved off to its destination by local labor: either into the warehouses, onto other cargo ships, or dispersed around Stilt City --- sometimes up onto the mainland and ground-based logistical connections.
 
-[//]: # (### They hire Sir Piero, the pilot)
+[//]: # (### They hire Sir Piero, the pilot.)
 
 As they pushed their way slowly up the main channel and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the fuckin' dock we are supposed to unload at in all this fuckin' mess?"
 
@@ -133,7 +133,7 @@ Hemi waved him up the sail, and he climbed quickly and nimbly up and over the fa
 
 "Name's Sir Piero --- pee-ahr-oh, at least that's how most off-shore folks pronounce it."
 
-[//]: # (I renamed this dude like 4 times, and I no longer can remember how I landed on Piero -- maybe it is in the detailed notes?. I do not hate it though.)
+[//]: # (I renamed this dude like 4 times and finally settled on Piero. The name comes from the captain of the Andrea Doria. --- And, almost unbelievably since I had forgotten and this was not intentional: it is the contact name in the Bruce-Partington submarine plans Sherlock Holmes story, though spelled Pierrot and presumably French?)
 
 "_Sir_ Piero?" Percy asked.
 
