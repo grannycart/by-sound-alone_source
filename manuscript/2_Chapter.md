@@ -597,7 +597,7 @@ Owen nodded. "And how're the docking clamps going to be activated? They're elect
 
 "Hey, offer all the advice you want, but I'm the one who puts the fuckin' torch to my boat, got it?"
 
-"Good by me. I'll leave ya stupid fuckers too it. I got my own welding to do." Chips gave them a casual salute and made her way along the gangway to the _Prospect_.
+"Good by me. I'll leave ya stupid fuckers to it. I got my own welding to do." Chips gave them a casual salute and made her way along the gangway to the _Prospect_.
 
 "I'll get Gregory digging through that scrap steel, see if he can find that tube she was talkin' about," Owen said.
 
