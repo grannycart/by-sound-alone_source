@@ -338,7 +338,7 @@ Hemi stepped under the hatch up to the control room and looked up at Percy throu
 
 "Yes, I think we should dump the diesel. Even if we get to the surface, we could lose the boat if the cargo hold keeps flooding and we cannot figure out how to empty it. That is a bigger risk than not having enough fuel oil to get to a port --- if we do manage to keep the boat on the surface."
 
-Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. The situation she now faced was reduced to a single aim: to get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel fuel in the ocean --- was one she without so much as a pause for consideration.
+Percy considered. But sometimes considerations are meaningless. They had passed the point of developing a strategy to evade their pursuers. The situation she now faced was reduced to a single aim: to get to the surface at any cost. Knowing that, the decision to blow out the fuel ballast tanks --- to dump all their diesel fuel in the ocean --- was one she made without so much as a pause for consideration.
 
 "OK, Hemi. Come up here. Keep her under control. I'll blow the fuel ballast myself."
 
