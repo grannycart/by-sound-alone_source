@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2024-02-20 14:16
+Last modified: 2024-03-09 13:44
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,6 +32,18 @@ Last modified: 2024-02-20 14:16
 
 ## Final production todos
 --------------------------------------------------------------------------------
+* [ ] 2024-03-09: update with errata revisions to February version.
+    * Then push to online epubs:
+        * [ ] grannycart.net
+        * [ ] Amazon
+        * [ ] B&N
+        * [ ] Kobo
+        * [ ] google play
+        * [ ] fix on royal road
+    * Publish new paper versions:
+        * [ ] redo back cover blurbs?
+        * [ ] Amazon
+        * [ ] B&N
 * [X] try adding xelatex engine to tex generation make line (if it works, add texlive-xetex to requirements for software in README, I think?)
     * See note in latex compiling notes
 * [ ] Remove date line from Makefile? (and lines that mention it in README)
