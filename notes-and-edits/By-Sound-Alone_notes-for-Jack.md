@@ -1,5 +1,5 @@
 By-Sound-Alone_notes-for-Jack.md
-Last modified: 2024-02-22 10:26
+Last modified: 2024-03-13 11:49
 
 # By Sound Alone --- Notes for Jack
 
@@ -69,7 +69,8 @@ Last modified: 2024-02-22 10:26
 
 ### Sir Piero
 * Sir Piero is a small dude with a lot of hustle.
-* Uniquely among the characters, he is from a specific place and culture "Stilt City" (though I did not specify where that actually is). Somewhere in Southeast Asia probably, though maybe also a coastal part of South America. Somewhere with a colonial history (hence the "Sir" and the vaguely European surname). Though also a major international city with many cultures influencing it, in addition to the strong influence of the local indigenous culture. 
+* Uniquely among the characters, he is from a specific place and culture: "Stilt City". Though I did not specify where that actually is. Somewhere in Southeast Asia probably, though maybe also a coastal part of South America. Somewhere with a colonial history (hence the "Sir" and the vaguely European surname). Though also a major international city with many cultures influencing it, in addition to the strong influence of the local indigenous culture. 
+* Sir Piero is (I think) the only character who definitely has SOME kind of accent --- it's in the dialog. But there's no rule about what exactly it is.
 
 
 
