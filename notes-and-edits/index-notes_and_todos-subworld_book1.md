@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2024-03-13 11:25
+Last modified: 2024-03-13 17:04
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -51,6 +51,8 @@ Last modified: 2024-03-13 11:25
     * [ ] You write that the fresh outside air smells great! It doesn't to submariners, they think the fresh air smells at first due too their brain getting used to the submarine smells. 
         * I've read this for subs that are under for months, but is it true for a sub that's under for 24 hours?
     * [ ] A star fix can't be taken in the middle of the night. You can't sea the horizon and thus can't determin the angle. Normally a star fix is taken during the nautical twilight. 
+        * This was totally a land-lubber mistake: I assumed the horizon was lit in the sky, like it is where I live, but in the middle of the ocean it is completely black
+        * Though what about a moonlit night?
     * [ ] Also, 3 on 3 off is the worst scedule i've ever heard. That would break me. Normally 6 on 6 off is used on submarines sometimes 5 on 7 off 7 on 5 off but that's the most cursed off them all lol. Cassandra being on the sonar for 20 hours could happen though. 
     * [-] ~~You write the sub is faster on the surface then underwater. In real life you don't generate a bow wave underwater and are significantly faster under water.~~ 
         * Addressed this in response on Reddit, the WWII style hulls were faster on the surface
