@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2024-03-09 13:44
+Last modified: 2024-03-13 11:25
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -44,6 +44,20 @@ Last modified: 2024-03-09 13:44
         * [ ] redo back cover blurbs?
         * [ ] Amazon
         * [ ] B&N
+* [ ] Pick up corrections from LuukTheSlayer on Reddit:
+    * https://www.reddit.com/r/submarine/comments/1aroxoh/comment/ku6l2lb/
+    * [ ] When you increase your speed by 2 you use 4 times as much power, coming from the formula 1/2*mass*speed^2. 
+        * I really should fix this!
+    * [ ] You write that the fresh outside air smells great! It doesn't to submariners, they think the fresh air smells at first due too their brain getting used to the submarine smells. 
+        * I've read this for subs that are under for months, but is it true for a sub that's under for 24 hours?
+    * [ ] A star fix can't be taken in the middle of the night. You can't sea the horizon and thus can't determin the angle. Normally a star fix is taken during the nautical twilight. 
+    * [ ] Also, 3 on 3 off is the worst scedule i've ever heard. That would break me. Normally 6 on 6 off is used on submarines sometimes 5 on 7 off 7 on 5 off but that's the most cursed off them all lol. Cassandra being on the sonar for 20 hours could happen though. 
+    * [-] ~~You write the sub is faster on the surface then underwater. In real life you don't generate a bow wave underwater and are significantly faster under water.~~ 
+        * Addressed this in response on Reddit, the WWII style hulls were faster on the surface
+    * [ ] Fog doesn't do much to radar. 
+    * [ ] You say black diesel smoke a lot, thats ok when they start but did you mean they do that continuesly? Because if so those engines need to be tuned lol. 
+        * This might be justified by simple stylistic choice to be "like a truck"
+    * [ ] "As the big diesels spun their turbines" this sencence confuses me you have a tubine on board? do you mean the turbocharger?
 * [X] try adding xelatex engine to tex generation make line (if it works, add texlive-xetex to requirements for software in README, I think?)
     * See note in latex compiling notes
 * [ ] Remove date line from Makefile? (and lines that mention it in README)
