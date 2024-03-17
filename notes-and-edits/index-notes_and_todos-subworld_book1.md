@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2024-03-13 17:04
+Last modified: 2024-03-17 17:56
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -53,13 +53,18 @@ Last modified: 2024-03-13 17:04
     * [ ] A star fix can't be taken in the middle of the night. You can't sea the horizon and thus can't determin the angle. Normally a star fix is taken during the nautical twilight. 
         * This was totally a land-lubber mistake: I assumed the horizon was lit in the sky, like it is where I live, but in the middle of the ocean it is completely black
         * Though what about a moonlit night?
+        * Fix it, around this line: "Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that it occurred far more often than seemed statistically probable that the Prospect surfaced and he came out on deck to find a low, blanketing cloud cover. He could hardly recall the last time they surfaced to a clear sky, and his deeply rational self was challenged by the sense that being on the open surface was in fact nature’s opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them."
     * [ ] Also, 3 on 3 off is the worst scedule i've ever heard. That would break me. Normally 6 on 6 off is used on submarines sometimes 5 on 7 off 7 on 5 off but that's the most cursed off them all lol. Cassandra being on the sonar for 20 hours could happen though. 
     * [-] ~~You write the sub is faster on the surface then underwater. In real life you don't generate a bow wave underwater and are significantly faster under water.~~ 
         * Addressed this in response on Reddit, the WWII style hulls were faster on the surface
     * [ ] Fog doesn't do much to radar. 
+        * This might be in the category of 1960s-era radar vs today's
     * [ ] You say black diesel smoke a lot, thats ok when they start but did you mean they do that continuesly? Because if so those engines need to be tuned lol. 
         * This might be justified by simple stylistic choice to be "like a truck"
     * [ ] "As the big diesels spun their turbines" this sencence confuses me you have a tubine on board? do you mean the turbocharger?
+* [ ] Add retcon: lower hatch near the batteries was a mistake
+    * Need to keep those hatches to the battery rooms closed at all times
+    * from comment on royal road
 * [X] try adding xelatex engine to tex generation make line (if it works, add texlive-xetex to requirements for software in README, I think?)
     * See note in latex compiling notes
 * [ ] Remove date line from Makefile? (and lines that mention it in README)
