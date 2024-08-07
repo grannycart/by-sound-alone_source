@@ -1,7 +1,7 @@
-By-Sound-Alone_notes-for-Jack.md
-Last modified: 2024-03-13 11:49
+By-Sound-Alone_notes-for-audio.md
+Last modified: 2024-08-06 16:26
 
-# By Sound Alone --- Notes for Jack
+# By Sound Alone --- Notes for potential audio book
 
 ## General notes
 * **Aesthetics:** When I first thought about writing this book, I was asking myself: "What would a novel be like if it resembled the aesthetics of Motörhead?" I wanted to write a book that was loud, fast, gritty, and smelled bad. I don't think I achieved that, but, you know High on Fire also set out to make Motörhead, and I don't think they got there either. But the stuff is still good. Something to consider is that an audiobook version might be an opportunity to put a bit more of the Motörhead aesthetic back in. So, say you have a bad cold and you get a serious gravelly frog in your throat. Record it! But assuming you aren't going to get sick any time soon, the Motörhead aesthetic is just something to keep in mind. The book is about people who live inside great greasy machines. There's no reason the audio should be perfect. Ideally both the it and the book itself would be full of grit and life.
