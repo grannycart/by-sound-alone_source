@@ -337,7 +337,7 @@ Percy popped the hatch and climbed up to the bridge under a still-dark sky that 
 
 In the pre-dawn light, Percy scanned around with a pair of binoculars. Not seeing anything of note on the first pass, she circled the horizon a second time. There was nothing out there to see except the gray gradient field of the sky meeting the black field of the water.
 
-She called below and a minute later came the familiar whine of the compressed air turning over the diesels. The engines fired and a chugging black smoke rose above the sail behind her. As the big diesels spun their turbines, she could almost feel the power flooding back into all the systems of her boat that depended on it. 
+She called below and a minute later came the familiar whine of the compressed air turning over the diesels. The engines fired and a chugging black smoke rose above the sail behind her. As the big diesels spun, she could almost feel the power flooding back into all the systems of her boat that depended on it. 
 
 The _Prospect_ picked up speed, and the low-pressure air system soon had pumped enough into the ballast tanks to fully surface the boat, stranding pieces of refuse on the now-dry deck.
 
