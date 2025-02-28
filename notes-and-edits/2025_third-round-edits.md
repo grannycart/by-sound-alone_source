@@ -1,10 +1,14 @@
 2025_third-round-edits.md
-Last modified: 2025-02-26 20:08
+Last modified: 2025-02-27 21:20
 
 
 # Third round edits
 Edits to pick up in third full pass through the book (early, 2025)
 
+* [X] Make it clear in the first chapter that the ramming does most damage to the _ballast_ tank on the rammed side, and only slightly damages the pressure hull
+    * [X] It needs some more clarification on this to be very accurate. The book does say the ballast blow pipes are pinched shut, and they can't refill the tanks with air.
+    * [X] But it also needs to make clear that the ballast tanks took most of the brunt of the ramming
+    * [ ] And then it needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
 * [ ] Pick up corrections from LuukTheSlayer on Reddit:
     * https://www.reddit.com/r/submarine/comments/1aroxoh/comment/ku6l2lb/
     * [ ] When you increase your speed by 2 you use 4 times as much power, coming from the formula 1/2*mass*speed^2. 
@@ -28,10 +32,6 @@ Edits to pick up in third full pass through the book (early, 2025)
 * [ ] Add retcon: lower hatch near the batteries was a mistake
     * Need to keep those hatches to the battery rooms closed at all times
     * from comment on royal road
-* [ ] Make it clear in the first chapter that the ramming does most damage to the _ballast_ tanks, and only slightly damages the pressure hull
-    * It needs some more clarification on this to be very accurate. The book does say the ballast blow pipes are pinched shut, and they can't refill the tanks with air.
-    * But it also needs to make clear that the ballast tanks took most of the brunt of the ramming
-    * And then it needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
 * [ ] From Julia at Hagfish:
     * [ ] well, maybe there are a few too many F-bombs.
     * [ ] At first it mostly struck me that most characters (minus Hemi) just seemed to speak quite similarly, though of course this does make some sense, given their close quarters and unique culture.
