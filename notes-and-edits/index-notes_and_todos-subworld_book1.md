@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2025-02-23 18:38
+Last modified: 2025-03-01 17:07
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,6 +32,8 @@ Last modified: 2025-02-23 18:38
 
 ## Final production todos
 --------------------------------------------------------------------------------
+* [ ] Amazon is getting rid of MOBI format, so you can can switch to JUST supplying epubs:
+    * https://kdp.amazon.com/en_US/help/topic/GULSQMHU5MNH4EZM
 * [ ] add quote from ChatGPT to back cover
 * [ ] do _another_ revision to the back cover text, update on cover art
 * [ ] 2024-03-09: update with errata revisions to February version.
