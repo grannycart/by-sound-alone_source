@@ -376,15 +376,13 @@ Percy scanned her eyes back and forth over the gauges, dials, and the settings o
 
 "We _are_ sinking, aren't we?" said Bastian. "Small fucking comfort that they know it too."
 
-[//]: # (------ FEB 2025 EDITED TO HERE (use :WF and pablo ------)
-
-Owen, the youngest of the crew, stuck his head up through the hatch. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks in the hull wider. The flooding in the cargo hold is getting worse. No, wait, she said to tell you this part exactly: 'The cargo hold of your shitty fucking tub is flooding like a horny bitch dog in her first season of heat' ...was what she said."
+Owen, the youngest of the crew, stuck his head up through the hatch. "Captain Percy, Chips wants me to tell you that all the movement of the boat has split the cracks in the hull wider. The flooding in the cargo hold is getting worse. No, wait, she said I have to tell you this part exactly: 'The cargo hold of your sliding shit-heap of a boat is flooding like a piss trough at last call' ...was what she said."
 
 "Her words exactly?"
 
 "The darkest part of the pit is where they put the poison spikes," said Gregory.
 
-Owen looked at Gregory with a specific question on his face, but asked a different one. "Can't we surface, Captain?"
+Owen looked at Gregory with a specific question on his face, but asked a different one. "Can't we surface, Captain Percy?"
 
 "Go back and help Chips. Do anything she asks of you. Get the cargo hold patched and the flooding stopped."
 
@@ -394,6 +392,8 @@ Owen looked at Gregory with a specific question on his face, but asked a differe
  
 
 [//]: # (### Percy decides to head for the bottom)
+
+[//]: # (------ FEB 2025 EDITED TO HER; use :WF and pablo in console, shine and moria in gvim ------)
 
 Percy was running out of ideas. It was easy to make the decision to get to the surface at any cost while there still remained some levers to pull and options to choose between. But now there was nothing she could think of that could move them upward. 
 
