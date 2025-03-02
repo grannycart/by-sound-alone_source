@@ -577,8 +577,6 @@ Their situation was dire, but she was feeling better. If being flooded and botto
 
 [//]: # (### Percy talks to Hemi about surviving their immediate futures)
 
-[//]: # (------ FEB 2025 EDITED TO HER; use :WF and pablo in console, shine and moria in gvim ------)
- 
 Percy found another relatively clean tin cup behind the rails of the dish cabinet and filled it with coffee. She brought it to Hemi at the navigation station.
 
 Hemi took the cup and held it to his lips, blowing the acid smell off the surface. His glasses steamed up. "Does Chips have a handle on the leak?"

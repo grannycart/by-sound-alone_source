@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-02-27 21:20
+Last modified: 2025-03-02 15:55
 
 
 # Third round edits
@@ -12,7 +12,7 @@ Edits to pick up in third full pass through the book (early, 2025)
 * [ ] Pick up corrections from LuukTheSlayer on Reddit:
     * https://www.reddit.com/r/submarine/comments/1aroxoh/comment/ku6l2lb/
     * [ ] When you increase your speed by 2 you use 4 times as much power, coming from the formula 1/2*mass*speed^2. 
-        * I really should fix this!
+        * fixed in one spot so far: on line 135 of chap 2
     * [ ] You write that the fresh outside air smells great! It doesn't to submariners, they think the fresh air smells at first due too their brain getting used to the submarine smells. 
         * I've read this for subs that are under for months, but is it true for a sub that's under for 24 hours?
     * [ ] A star fix can't be taken in the middle of the night. You can't sea the horizon and thus can't determin the angle. Normally a star fix is taken during the nautical twilight. 
