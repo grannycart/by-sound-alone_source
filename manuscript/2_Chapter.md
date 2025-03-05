@@ -493,8 +493,6 @@ Percy was grinding her teeth. "Alright, Fuck. Hemi, go see if you can rehire Chi
 
 [//]: # (### They reconcile with Chips and talk about fitting mating collar to the Gnat)
 
-[//]: # (------ FEB 2025 EDITED TO HER; use :WF and pablo in console, shine and moria or paper in gvim ------)
- 
 Hemi loaded up another bowl of rice from the galley and led Shakes to the crew quarters, where they found Chips in her rack with the curtains drawn. 
 
 "Chips," Hemi addressed the curtain. "I brought you some food."
@@ -569,9 +567,9 @@ Percy ignored that. "What's next?"
 
 [//]: # (### Back on deck, with the cargo hold hatch open, lifting the welding rig and welding the Gnat mating collar)
 
-On the forward deck of the _Prospect_, Owen had opened the watertight doors of the big cargo hatch. This left a wide hole down into the cavernous space of the cargo hold, which was the only way to get the heavy welding rig out of the boat. He had assembled a small tripod gantry over the hole, from which he had hung a hefty chain hoist. Gregory was down in the cargo hold, securing the end of the chain to the welding rig. When he had it ready, he gave Owen the thumbs up.
+On the forward deck of the _Prospect_, Owen had opened the watertight doors of the big cargo hatch. This left a wide hole down into the cavernous space of the cargo hold, which was the only way to get the heavy welding rig out of the boat. He had assembled a small tripod gantry over the hole, from which he had hung a hefty chain hoist. Gregory was down in the cargo hold, securing the end of the chain to the welding rig. When he had it ready, he held a thumb up to Owen.
 
-"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up, take a look around: we still need the material for the mating collar. And get the gangway into position --- I'll need it to wheel this fucking thing across to the _Gnat_. Also get the long power cables for the welding rig, some heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_, where the chop washed over while Chips and Shakes drew lines on the top of the sail with a grease pencil. "Uh...better get those fucking rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be easy," he said to himself through the cigarette hanging from his lips. Each long pull on the chain only eased the welding rig below upward by a matter of centimeters, as the lifting capabilities of the chain were both augmented and slowed by the wheels it looped through.
+"Hey Gregory," Owen called down to him, "while I'm hauling the welding rig up, take a look around: we still need the material for the mating collar. And get the gangway into position --- I'll need it to wheel this fucking thing across to the _Gnat_. Also get the long power cables for the welding rig, some heavy clamps, and a welding mask." Owen looked across at the deck of the _Gnat_, where the chop washed over while Chips and Shakes drew lines on the top of the sail with a grease pencil. "Uh...better get those fucking rubber waders too." He lit a cigarette and started hauling the welding rig up, hand-over-hand. "This isn't going to be easy," he said to himself through the cigarette hanging from his lips. Each long pull on the chain only eased the welding rig upward by a matter of centimeters, as the lifting capabilities of the chain were both augmented and slowed by the wheels it looped through.
 
 When he finally got the welding rig suspended over the deck, he gave it a little kick, and when it swung back, he let the chain out and grabbed the rig as it touched the deck and tilted back toward the hole. This was actually a two-person job: a mistake would mean a ten-meter drop into the cargo hold, and probably being maimed or killed.
 
@@ -608,6 +606,8 @@ Owen nodded. "And how're the docking clamps going to be activated? They're elect
 
 [//]: # (### They weld the mating collar)
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
+ 
 This was going to be an extremely tough job. Not as tough, Owen reminded himself, as welding the pressure hull back together under water, like Chips was currently doing, but nobody would do this job on the _Gnat_ if they did not have to. Owen had wheeled the welding rig across the gangway, and that had only been modestly harrowing. Connecting it to the _Gnat_'s questionable electrical system and lashing it to the sloshing hull had been somewhat more so. Owen set Shakes up with everything he needed, handing him tools one by one like a nurse supporting a surgeon opening a consumptive rib cage.
 
 The ocean chop was not horrendous, but it was enough that the _Gnat_ rolled back and forth under them. Owen had locked huge iron clamps in place that held the work material to the sail. The water washing over the deck sometimes smacked against the sail and shot up right where Shakes was welding.
