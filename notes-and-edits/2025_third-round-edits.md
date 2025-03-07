@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-02 15:55
+Last modified: 2025-03-06 19:42
 
 
 # Third round edits
@@ -8,6 +8,13 @@ Edits to pick up in third full pass through the book (early, 2025)
 * [X] Make it clear in the first chapter that the ramming does most damage to the _ballast_ tank on the rammed side, and only slightly damages the pressure hull
     * [X] It needs some more clarification on this to be very accurate. The book does say the ballast blow pipes are pinched shut, and they can't refill the tanks with air.
     * [X] But it also needs to make clear that the ballast tanks took most of the brunt of the ramming
+    * [ ] Do they dive _before_ they get to the depot?
+        * Seems like they wouldn't take this risk without repairing the pinched blow pipes at least, if not the left side main ballast.
+        * So maybe they need to at least do cursory repairs on the pinched line while still at sea/before the Gnat goes under the Prospect?
+        * See line 668 (commit: 3519986233e -- I deleted it after that) where Chips is cursing out Percy for risking lowering the boat with the high pressure system depleted --- she SHOULD be pointing out here that the blow pipe is pinched (if they haven't tried to repair it)
+        * Though we could say it's only the _emergency_ blow pipes that are pinched... so maybe at least they are willing to dive at the depot?
+        * Possibly they need to do repairs BEFORE diving at the depot?
+    * [ ] review lines 648-742 again, after editing out Chips cursing them off
     * [ ] And then it needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
 * [ ] Pick up corrections from LuukTheSlayer on Reddit:
     * https://www.reddit.com/r/submarine/comments/1aroxoh/comment/ku6l2lb/
