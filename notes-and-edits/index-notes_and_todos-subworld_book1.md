@@ -26,9 +26,9 @@ Last modified: 2025-03-01 17:07
 	* Notes on sub diagrams and edits to make
 * hagfish-APA-review/
 	* Contains files for Hagfish's APA review.
-	* Generated .docx for them with pandoc: ```pandoc -s --from=markdown ./By-Sound-Alone.md --to=docx -o By-Sound-Alone.docx```
+	* Generated .docx for them with pandoc: `pandoc -s --from=markdown ./By-Sound-Alone.md --to=docx -o By-Sound-Alone.docx`
 		* Opened in Libreoffice, did a select-all and applied Arial as typeface to make it more system agnostic.
-		* ```By-Sound-Alone_20231001.docx``` version I sent to them (so no track changes edits)
+		* `By-Sound-Alone_20231001.docx` version I sent to them (so no track changes edits)
 
 ## Final production todos
 --------------------------------------------------------------------------------
