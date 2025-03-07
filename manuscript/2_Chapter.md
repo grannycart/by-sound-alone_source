@@ -645,9 +645,9 @@ Owen orienteered his way up and down following the thread of that logic, and eve
 
 [//]: # (### They lower the boat)
 
-Getting all the gear from the welding operation stowed back in the cargo hold took longer than expected. The chop was building a bit, which made doing anything aboard the _Gnat_ more difficult. Once Hemi saw all the odds and ends stowed below and checked the main cargo hatch seal, he went to the forward end of the cargo hold to see how Chips was coming along on her work. She was welding yet more scraps of metal patches over the still-leaking wound in the pressure hull. Thankfully, the water level had at least receded enough that Chips was wading instead of swimming. 
+Getting all the gear from the welding operation stowed back in the cargo hold took longer than expected. The chop was building a bit, which made doing anything aboard the _Gnat_ more difficult. Once Hemi saw all the odds and ends stowed below and checked the main cargo hatch seal, he went to the forward end of the cargo hold to see how Chips was coming along on her work. She was welding yet more scrap-metal patches over the still-leaking wound in the pressure hull. Thankfully, the water level had at least receded enough that Chips was wading instead of swimming. 
 
-Percy came walking down the cargo hold and met up with Hemi at the water's edge in the forward end. Chips looked up and glared at her but immediately went back to her welding.
+Percy came walking down the cargo hold and met up with Hemi at the edge of the water. Chips looked up and glared at her but immediately went back to her welding.
 
 "We are ready to try this connecting up the _Gnat_ move," Hemi said to Percy.
 
@@ -661,9 +661,9 @@ Chips looked up from her work again when she heard this and glared, but did not 
 
 "Perhaps ten minutes at a creep speed. I believe we can just manage it. I am more worried about whether we have enough fine control over the buoyancy to lower the boat just a few meters like that. And with the emergency blow lines pinched, we're taking some rather large risks."
 
-"You're going to get us all fucking killed!" Chips shouted from where she stood in the water, pointing the welding torch at Percy.
+"You're going to get us all fucking killed!" Chips shouted from where she stood in the water, arm extended, pointing the welding torch at Percy.
 
-Percy ignored her and continued on with Hemi. "There's risks and there's fucking risks. If we run at sail-up depth, we'll be a much harder to spot target as we head for the depot. If we run fully up on the surface, we'll be a giant fucking radar target. We need the advantage lowering the boat down will give us."
+Percy ignored her and continued on with Hemi. "There's risks and there's _fucking_ risks. Fully-up on the surface, we're a giant fucking radar target. But if we run at sail-only depth, we'll have the additional advantage of being much harder to spot visually as we head for the depot. We need to take the advantages lowering the boat down will give us even if it's dangerous. So after we get the _Gnat_ attached, let's keep the hull under."
 
 [//]: # (----- invisible character break)
  
@@ -674,11 +674,11 @@ Ten minutes later, Hemi was checking over the state of the batteries and other s
 
 Shakes appeared on the bridge at the top of the _Prospect_'s sail. He looked down at Hemi through the open hatch into the control room and called to him,  "Ya fuckin' ready Hemi?"
 
-"Almost. I need you to take the _Gnat_ off a hundred meters or so. We are going to bring the _Prospect_ down to just sail-out, and creep at two knots. We will hold it steady. Then it is all you: dive the _Gnat_, come up underneath, you should see the mating collar just about under where the sail would be on the bottom --- about one-third of the way forward from the stern. Bring the _Gnat_ up under, and _gently_ pop your mating collar into ours, and if you boys did not miss on the location of the docking clamps by too much, you should be able to lock into the hull of the _Prospect_...like a male angler fish."
+"Almost. I need you to take the _Gnat_ off a hundred meters or so. We are going to bring the _Prospect_ down to just sail-out, and creep at two knots. We will hold it steady. Then it is all you: dive the _Gnat_, come up underneath. You should see the mating collar just about under where the sail would be on the bottom --- about one-third of the way forward from the stern. Bring the _Gnat_ up under, and _gently_ pop your mating collar into ours. And if you boys did not miss on the location of the docking clamps by too much, you should be able to lock into the hull of the _Prospect_...like a male angler fish."
 
-Shakes raised his middle finger and held it out in front of him, toward Hemi.
+Shakes raised his middle finger and held it out toward Hemi.
 
-"...When you are clamped on, bang on your hatch with one of those wrenches of yours. I will have Gregory down there waiting to hear from you. Do _not_ open the hatch until Gregory bangs back, OK? Even in its current condition, the _Prospect_ will do a lot better if your welds leak than the _Gnat_ will. Keep in touch over the ship-to-ship."
+"...When you are clamped on, bang on the _Gnat_'s hatch with one of those wrenches of yours. I will have Gregory down there waiting to hear from you. Do _not_ open the hatch until Gregory bangs back, OK? Even in its current condition, the _Prospect_ will do a lot better if your welds leak than the _Gnat_ will. Keep in touch over the ship-to-ship."
 
 Shakes pounded his acknowledgment on the side of the sail, and his head disappeared from the bridge. It remained so quiet aboard the _Prospect_, with no engines and few systems running, that they could hear the _Gnat_'s diesels fire up, and inarticulate shouts from Shakes to Gregory on the deck as Shakes cast off the lines and Gregory retrieved them and pulled up the fenders.
 
@@ -686,17 +686,17 @@ Shakes pounded his acknowledgment on the side of the sail, and his head disappea
 
 Hemi pulled down the ship-to-ship mic. "I understand, Captain Shakes. Remember, _gentle_ is the word."
 
-"I'm allllways fuckin' genteel."
+"I yam allllways fuckin' genteel."
 
 "We are going to take the _Prospect_ down to sail-out depth now. Hold tight until I give you the go."
 
 [//]: # (### they dive to sail-out depth)
 
-Hemi got on the ship PA and flipped the switch for both internal and external speakers. "Gregory, lock down all the external hatches as you come back inside. Owen and Bastian, come up to the control room --- we are going to dive the boat to sail-out depth."
+Hemi got on the ship PA and flipped the switches for both internal and external speakers. "Gregory, lock down all the external hatches as you come back inside. Owen and Bastian, come up to the control room --- we are going to dive the boat to sail-out depth."
 
 Moments later the entire crew converged on the control room. 
 
-Percy looked at Chips, knowing the question she wanted to ask was obvious and unnecessary, but she asked it anyway. "Why the fuck are you here?"
+Percy looked at Chips, knowing the question she wanted to ask was obvious and unnecessary, but she asked it anyway: "Why the fuck are you here?"
 
 "If we fuckin' go down, I want to be right next to you when you know death is on you, Captain Percy. I want to be able to look you in the eye when tell you: I fuckin' told ya so," said Chips.
 
@@ -708,7 +708,7 @@ Percy waited for Gregory to clear the ladder from the control room on his way to
 
 Bastian nudged the throttle forward, and they heard the hum of the electric motors rise from the depths of the boat as the propeller came under torque. 
 
-Percy pulled the ship-to-ship mic. "Shakes, we are going to try submerging the hull now. If you see the sail disappear, this boat is never coming back up."
+Percy pulled the ship-to-ship mic to her lips. "Shakes, we are going to try submerging the hull now. If you see the sail disappear, this boat is never coming back up."
 
 "Right," Shakes' voice crackled. "I won't wait around for another meal then."
 

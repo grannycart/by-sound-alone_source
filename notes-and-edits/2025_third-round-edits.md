@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-06 19:42
+Last modified: 2025-03-07 11:52
 
 
 # Third round edits
@@ -15,6 +15,8 @@ Edits to pick up in third full pass through the book (early, 2025)
         * Though we could say it's only the _emergency_ blow pipes that are pinched... so maybe at least they are willing to dive at the depot?
         * Possibly they need to do repairs BEFORE diving at the depot?
     * [ ] review lines 648-742 again, after editing out Chips cursing them off
+        * Consider cutting out this whole maneuver; it's mostly focused on the main ballast tanks, and it isn't clear to me how those tanks got refilled (presumably, they were partially filled by the regular control system when they were on the bottom?)
+        * might be wholle replaced with a line like "Despite Chips's condemnation, they got the boat down to sail-out depth without incident." or something.
     * [ ] And then it needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
 * [ ] Pick up corrections from LuukTheSlayer on Reddit:
     * https://www.reddit.com/r/submarine/comments/1aroxoh/comment/ku6l2lb/
