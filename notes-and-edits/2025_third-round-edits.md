@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-07 21:33
+Last modified: 2025-03-08 12:58
 
 
 # Third round edits
@@ -40,6 +40,9 @@ Edits to pick up in third full pass through the book (early, 2025)
     * [X] "As the big diesels spun their turbines" this sencence confuses me you have a tubine on board? do you mean the turbocharger?
         * It was in chapter 7. I just removed 'their turbines'
 * [ ] do a find-and-replace on s's and s' for Chips' and Shakes'. Decide which you want to use and stick to it.
+    * Looks like Julia suggested s's for shakes's and chips's, ...so I guess I need to do that for every chap:
+        * use: :%s/s'\ /s's\ /gc
+        * [X] 1_Chapter.md  [X] 2_Chapter.md  [ ] 3_Chapter.md  [ ] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
 * [X] Add retcon: lower hatch near the batteries was a mistake
     * Need to keep those hatches to the battery rooms closed at all times
     * from comment on royal road

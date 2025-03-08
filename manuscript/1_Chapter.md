@@ -14,7 +14,7 @@
 [//]: # (### Hemi deals with the pursuing sub in the control room)
 [//]: # (### Percy goes to recruit Chips to help fix the leak)
 [//]: # (### Percy looks at the situation in the conn)
-[//]: # (### Percy goes to check on Chips' progress)
+[//]: # (### Percy goes to check on Chips's progress)
 [//]: # (### Hemi blows the tanks)
 [//]: # (### Percy blows the fuel ballast)
 [//]: # (### Percy decides to head for the bottom)
@@ -278,13 +278,13 @@ Percy knew it was worse than that. The sharp list after the delay was the weight
 [//]: # (----- invisible character break)
  
 
-[//]: # (### Percy goes to check on Chips' progress)
+[//]: # (### Percy goes to check on Chips's progress)
 
 A short while later, Percy had finished her cigarillo. "I... need to go check on Chips." She slid down the ladder from the control room, passed Hemi listening to the headphones at the sonar station, and continued forward until she got to the steep metal stairs down into the cargo hold. 
 
-Chips and Owen were working at the far end where, they had rigged bright work lamps. Owen was dragging one end of a fat, gray, grimy hose for an old mobile bilge pump from the pool of black water in the bow up the middle of the cargo hold toward the fixture set in the wall where a hose could be fed to the trim tanks. Chips had pulled out and stacked a whole set of the deck grates to expose the pond of scummy black water underneath. She was wearing thick rubber waders and standing directly on the inside of the pressure hull, in the fetid water which had risen above the grating level almost to Chips' chest --- a distressing sight, tempered in Percy's mind only by the knowledge that Chips was not a tall woman. Chips wore heavy rubber welding gloves and a swim mask so she could see what she was doing under the water. Above the swim mask she wore another dark-lensed welding mask that could flip up or down as the work required. 
+Chips and Owen were working at the far end where, they had rigged bright work lamps. Owen was dragging one end of a fat, gray, grimy hose for an old mobile bilge pump from the pool of black water in the bow up the middle of the cargo hold toward the fixture set in the wall where a hose could be fed to the trim tanks. Chips had pulled out and stacked a whole set of the deck grates to expose the pond of scummy black water underneath. She was wearing thick rubber waders and standing directly on the inside of the pressure hull, in the fetid water which had risen above the grating level almost to Chips's chest --- a distressing sight, tempered in Percy's mind only by the knowledge that Chips was not a tall woman. Chips wore heavy rubber welding gloves and a swim mask so she could see what she was doing under the water. Above the swim mask she wore another dark-lensed welding mask that could flip up or down as the work required. 
 
-As Percy walked down the cargo hold, Chips' head disappeared under the surface. Percy stood on the grating above, watching. The welding rig next to her revved up with a hiss and a groan, and a stream of bubbles and flashing blue light pierced through the turbid water. When Chips lifted her head for air, water ran down her mask in rivulets and drained in a greasy gray stream from her matted hair. Percy asked for her report.
+As Percy walked down the cargo hold, Chips's head disappeared under the surface. Percy stood on the grating above, watching. The welding rig next to her revved up with a hiss and a groan, and a stream of bubbles and flashing blue light pierced through the turbid water. When Chips lifted her head for air, water ran down her mask in rivulets and drained in a greasy gray stream from her matted hair. Percy asked for her report.
 
 "Fuck you, ya dominating fuckin' cow. This is delicate fuckin' work here and you're up on there in the control room sloshing the whole fuckin' boat back and forth. And it needs fucking time. The hull's got hundreds of tiny cracks. It's split open the way ya might break off a piece of cheese --- tiny cracks all the fuckin' way along. If it were one big crack it would be much fucking simpler. Hand me that fuckin' patch piece by your feet."
 
@@ -608,7 +608,7 @@ In the cargo hold, Bastian and Gregory were laying out heavy cloth-covered hoses
 
 Owen had his own electric pump --- a smaller one that pumped air --- down at the edge of the black lake, and he was feeding an air hose to Chips, who was wearing a diving mask connected to the hose. She was kicking to keep her head above water while holding up a welding stick with one hand that was connected by yet more cables to a welding rig chocked into place next to the pump.
 
-Chips dove down, and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips' head broke back through the surface. She ripped off the diving mask. "Owen! I need another fuckin' piece of steel plate, and --- fuck it --- another brace too."
+Chips dove down, and there was a quiet moment before a hot blue light lit up the surface of the water from below, wavered for a moment, and then died away. This repeated a few times before Chips's head broke back through the surface. She ripped off the diving mask. "Owen! I need another fuckin' piece of steel plate, and --- fuck it --- another brace too."
 
 "Alright!" called the kid from the shore, where the water lapped at the toes of his boots. Owen was wearing the same greasy-slick rubber waders Chips had had on earlier. He selected some metal bits from a pile of scraps on the grating next to the welding rig and waded into the cloying bilge to hand them to Chips.
 
@@ -627,7 +627,7 @@ The next time Chips came to find a patch piece from the scrap pile, Percy took t
 
 Plunging her head through the opaque boundary of the water's surface, Percy could see the damage was bad. As Chips had said earlier: it was not one big split in the metal, it was a long string of short side-by-side cracks running in a line up a massive convex dent where the hull had been rammed. The thick steel of the hull had been bent to an astonishing degree, deformed without massive failure in a way that only high-tensile steel could be. But even steel could only be pushed so far without splitting.
 
-She put her hand out in front of her mask, holding it over the cracks, and she could feel the onrush of the icy water against her warm flesh. Much welding was still required. Chips' patches were pieces of curved steel that she would weld into place over the cracks. Chips was no expert at underwater welding, the welds were globulous and imprecise. It was starting to look like a mess, but nobody else aboard could do better. 
+She put her hand out in front of her mask, holding it over the cracks, and she could feel the onrush of the icy water against her warm flesh. Much welding was still required. Chips's patches were pieces of curved steel that she would weld into place over the cracks. Chips was no expert at underwater welding, the welds were globulous and imprecise. It was starting to look like a mess, but nobody else aboard could do better. 
 
 Back out of the water, she stood shivering and dripping oily droplets that clung together in fatty globs on the floor grating. Percy always thought of herself as pretty tough. But in many ways Chips, with her foul language and bad attitude, was a lot tougher. Chips had never even mentioned the temperature of the water.
 
@@ -697,7 +697,7 @@ Percy did not even look at Chips, instead keeping her eyes on the depth gauge, w
 
 Chips snapped. She rushed at Percy, swinging the piece of pipe in a long arc across the control room, just missing Hemi's head but connecting with Percy's stomach. Percy doubled over immediately and fell to the cold metal of the deck.
 
-Hemi was out of his seat a second later and had Chips' forearms taut in his huge fists.
+Hemi was out of his seat a second later and had Chips's forearms taut in his huge fists.
 
 Percy was not down long. She got up to one knee before she fired Chips. "You're off the boat," she said quietly, between gasping breaths. "We get to a port, you take your gear with you when you get off, and never again befoul my fucking boat."
 
