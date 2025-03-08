@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-07 11:52
+Last modified: 2025-03-07 21:33
 
 
 # Third round edits
@@ -14,9 +14,9 @@ Edits to pick up in third full pass through the book (early, 2025)
         * See line 668 (commit: 3519986233e -- I deleted it after that) where Chips is cursing out Percy for risking lowering the boat with the high pressure system depleted --- she SHOULD be pointing out here that the blow pipe is pinched (if they haven't tried to repair it)
         * Though we could say it's only the _emergency_ blow pipes that are pinched... so maybe at least they are willing to dive at the depot?
         * Possibly they need to do repairs BEFORE diving at the depot?
-    * [ ] review lines 648-742 again, after editing out Chips cursing them off
+    * [X] review lines 648-742 again, after editing out Chips cursing them off
         * Consider cutting out this whole maneuver; it's mostly focused on the main ballast tanks, and it isn't clear to me how those tanks got refilled (presumably, they were partially filled by the regular control system when they were on the bottom?)
-        * might be wholle replaced with a line like "Despite Chips's condemnation, they got the boat down to sail-out depth without incident." or something.
+        * might be whole replaced with a line like "Despite Chips's condemnation, they got the boat down to sail-out depth without incident." or something.
     * [ ] And then it needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
 * [ ] Pick up corrections from LuukTheSlayer on Reddit:
     * https://www.reddit.com/r/submarine/comments/1aroxoh/comment/ku6l2lb/
@@ -24,6 +24,7 @@ Edits to pick up in third full pass through the book (early, 2025)
         * fixed in one spot so far: on line 135 of chap 2
     * [ ] You write that the fresh outside air smells great! It doesn't to submariners, they think the fresh air smells at first due too their brain getting used to the submarine smells. 
         * I've read this for subs that are under for months, but is it true for a sub that's under for 24 hours?
+        * I changed this on one place early on, when they re-surface from the tablemount the wording non-specifically refers to the the stench of fresh air.
     * [ ] A star fix can't be taken in the middle of the night. You can't sea the horizon and thus can't determin the angle. Normally a star fix is taken during the nautical twilight. 
         * This was totally a land-lubber mistake: I assumed the horizon was lit in the sky, like it is where I live, but in the middle of the ocean it is completely black
         * Though what about a moonlit night?
@@ -38,9 +39,11 @@ Edits to pick up in third full pass through the book (early, 2025)
         * This might be justified by simple stylistic choice to be "like a truck"
     * [X] "As the big diesels spun their turbines" this sencence confuses me you have a tubine on board? do you mean the turbocharger?
         * It was in chapter 7. I just removed 'their turbines'
-* [ ] Add retcon: lower hatch near the batteries was a mistake
+* [ ] do a find-and-replace on s's and s' for Chips' and Shakes'. Decide which you want to use and stick to it.
+* [X] Add retcon: lower hatch near the batteries was a mistake
     * Need to keep those hatches to the battery rooms closed at all times
     * from comment on royal road
+    * addressed, around line 760
 * [ ] From Julia at Hagfish:
     * [ ] well, maybe there are a few too many F-bombs.
     * [ ] At first it mostly struck me that most characters (minus Hemi) just seemed to speak quite similarly, though of course this does make some sense, given their close quarters and unique culture.
