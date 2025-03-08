@@ -647,7 +647,7 @@ Percy patted him on the arm like a grandmother pleased with the works of a young
 
 It did not take too long for Hemi to seal Shakes into the _Gnat_ and get it disconnected from the _Prospect_, though Hemi wanted some help coiling and stowing the heavy jumper wires that were no longer needed, and it took a while to find one of the deck crew to help him.
 
-Shakes steered the _Gnat_ further down the docking bay and got it mated up to slip fifteen. After popping the _Gnat_'s hatch at that slip, he started the process of negotiating with the dock workers for finishing the job of getting the batteries charged, and for refueling the fuel ballast tanks. Pretty soon, the _Gnat_ was gorging on its own set of umbilicals running down through its sail hatch and into its belly.
+Shakes steered the _Gnat_ further down the docking bay and got it mated up to slip fifteen. After popping the _Gnat_'s hatch at that slip, he started the process of negotiating with the dock workers for finishing the job of getting the batteries charged, and for refueling the fuel ballast tanks. Pretty soon, the _Gnat_ was gorging on its own set of supply lines running down through its sail hatch and into its belly.
 
 [//]: # (----- invisible character break)
  

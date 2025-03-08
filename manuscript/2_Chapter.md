@@ -769,21 +769,21 @@ Gregory nodded.
 
 [//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
  
-They could feel the shuddering vibrations of the _Gnat_'s motor through the hull of the _Prospect_ for a few minutes, and then that died away when Shakes shut it down. A few moments later the _Prospect_'s motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut with one of his wrenches on the top hatch of the _Gnat_, below the still-closed bottom hatch of the _Prospect_. Then it was quite silent until Hemi came crackling over the ship PA. "OK Chips, open it up."
+They could feel the shuddering vibrations of the _Gnat_'s motor through the hull of the _Prospect_ for a few minutes, and then that died away when Shakes shut it down. A few moments later the _Prospect_'s motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut with one of his wrenches on the top hatch of the _Gnat_. Gregory responded by banging a piece of old pipe on the still-closed bottom hatch of the _Prospect_, below his feet. Then it was quite silent until Hemi came crackling over the ship PA. "OK Chips, open it up."
 
-Chips nodded to Gregory and he reached down into the hatch well and cranked open the sealing wheel. He pulled up the hatch and water steadily flooded up around their boots. Gregory jumped up, as if bitten, and in a matter of seconds was on the other side of the bulkhead, ready to seal the hatch. 
+Chips nodded to Gregory and he reached down into the hatch well and cranked open the sealing wheel. He pulled up the hatch and water steadily flooded up around their boots. Gregory jumped up, as if bitten, and in a matter of seconds was on the other side of the bulkhead, ready to seal the watertight door. 
 
-But Chips lay out flat on the grating and reached her hand down into the pool of water. She felt along the welds until she knew where the water was pushing in. "The welds are _mostly_ --- but not totally --- fucking failing. You can see it's leaking," said Chips. "Get the pump hooked up Gregory, and let's get as much of this fuckin' water out of here as fast as fuckin' possible. Then I'll see if I can weld it decent-like."
+But Chips lay out flat on the grating and reached her hand down into the pool of water. She felt along the welds until she knew where the water was pushing in. "His shitty welds are _mostly_ --- but not totally --- fucking failing. You can see it's leaking," said Chips. "Get the pump hooked up Gregory, and let's get as much of this fuckin' water out of here as fast as fuckin' possible. Then I'll see if I can weld it decent-like."
 
-While Gregory got the hoses for the bilge pump connected, Chips got on the PA with Hemi. "We gotta fix these shitty fuckin' welds or it'll flood the _Gnat_ when we open its hatch, Hemi. Tell Shakes to sit tight, and not to do a fuckin' thing." Hemi acknowledged, and she started putting her welding gear on.
+While Gregory got the hoses for the bilge pump connected, Chips got on the PA with Hemi. "We gotta fix these fuckin' welds or it'll flood the _Gnat_ when we open its hatch, Hemi. Tell Shakes to sit tight, and not to do a fuckin' thing." Hemi acknowledged, and she started putting her welding gear on.
 
-It was cold, frustrating, cramped work. But such had been all of Chips's work on this trip --- maybe her whole life, she reflected. She let out a never-slowing stream of curses, attempting to damn down to a permanent watery hell not just all materials and work processes, but all the societal systems and turns of fate that had conspired to bring her to this particular misery. 
+It was cold, frustrating, cramped work. But such had been all of Chips's work on this trip --- maybe her whole life, she reflected. She let out a never-slowing stream of curses, attempting to damn down to a permanent watery hell not just all materials and work procedures, but also all the societal systems and turns of fate that had conspired to bring her to this particular misery. 
 
-Shakes's welds were horrifically ugly, like stitch work on a revivified cadaver from a Gothic novel. As with the hull of the _Prospect_, she had to hammer metal sheet patches into place, and weld them until they no longer leaked. Chips felt nothing but lucky when the leaking started to slow without her having made the situation worse by cutting through the mating ring or the hull of the _Gnat_.
+Shakes's welds were horrifically ugly, like stitch work on a revivified cadaver from a Gothic novel. As with the hull of the _Prospect_, she had to hammer small metal sheet patches into place, and weld them until they no longer leaked. Chips felt nothing but lucky when the leaking started to slow without her having made the situation worse by cutting through the mating ring or the hull of the _Gnat_.
 
 Eventually enough patching material had been welded into place that the leak slowed to a seep, and then finally stopped altogether. The pump sucked the last of the water out the well, leaving them looking at the domed top hatch of the _Gnat_ down in the recess. The whole mess was holding, though Chips hoped she would never have to test it at any greater depth.
 
-Chips tapped on the hatch with the end of the welding stick. "Eh, Shakes, ya fucker. You can open this fuckin' thing up now," she yelled into the empty metal well, her voice bouncing the curses back at her. There was the sound of the rusty sealing gears squeaking open and the hatch lifted up. 
+Chips tapped on the hatch with the end of the welding stick. "Eh, Shakes, ya fucker. You can open this fuckin' thing up now," she yelled into the empty metal well, her voice bouncing the oaths back at her. There was the sound of the rusty sealing gears squeaking open and the hatch lifted up. 
 
 Shakes was grinning up at them as residual water rained down on him. "Who's a fuckin' angle-fish now, eh?"
 
@@ -827,9 +827,9 @@ Percy looked down at the mess of patches and foul blackened welds that lined the
 
 [//]: # (### Rigged up and running)
 
-In a couple of hours, they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power was wired into the _Prospect_'s battery hold so that the _Gnat_'s batteries were now no more than an extra battery bank for the _Prospect_ --- conveniently, with a nearly-full charge. And the _Prospect'_ fuel pumps were also engaged and tuned to gently suck the fuel oil up from the _Gnat_'s fuel ballast tanks through the thick fuel lines running between the two boats.
+In a couple of hours, they had a series of umbilicals running through the _Prospect_ and down into the _Gnat_. The big submarine was parasitically sucking the small supply of nutrients the little sub had in reserve: the power was wired into the _Prospect_'s battery hold so that the _Gnat_'s batteries were now no more than an extra battery bank for the _Prospect_ --- conveniently, with a nearly-full charge. And the _Prospect_'s fuel pumps were also engaged and tuned to gently suck the fuel oil up from the _Gnat_'s fuel ballast tanks through the thick fuel lines running between the two boats.
 
-To conserve fuel, they started only one of the _Prospect_'s two diesel engines, along with a single electric motor, driving only one of the _Prospect_'s two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance compared with the task of compensating for the drag of the _Gnat_. Normally they would also be charging the battery banks while running on diesel, but they needed to put all the fuel they had into forward motion. 
+To conserve fuel, they started only one of the _Prospect_'s two diesel engines, along with a single electric motor driving only one of the _Prospect_'s two propellers. This continually pushed them to one side and they had to compensate with some angle on the rudder, but that was a minor annoyance compared with the task of compensating for the drag of the _Gnat_. Normally they would also be charging the battery banks while running on diesel, but they needed to put all the fuel they had into forward motion. 
 
 The whole setup was a filthy inelegant mess, but they were making headway.
 
@@ -841,13 +841,13 @@ Percy made everyone in the control room take a pep pill and drink a cup of coffe
 
 After a few hours of running like this --- the ship humming and vibrating under them, the hull frame groaning with the stress of dragging along the _Gnat_, and the continual course correction necessitated by running on a single propeller --- Percy was feeling the urge to calculate how far they had managed to travel. At the navigation table, she measured with the calipers and laid down a string of hashes from the x that marked the spot where they had mated the _Gnat_. 
 
-Their process was terrifyingly slow. With the calipers, Percy spun out the remaining distance to the line she had drawn that marked where they would move into the territory of a different --- hopefully safer ---  Authority. She estimated they still had something like eight hours to go. And that was assuming the demarcation line was at all accurate. In addition to just being a rough mark she had laid down from memory, for all she knew, the Authorities might have battled or treatied the line into a totally different part of the ocean. They would not be truly safe until they were docked at the depot. And even then, who knew what the depot folks would be like? Somewhat friendlier to commerce, was about all one could hope for with any confidence.
+Their process was agonizingly slow. With the calipers, Percy spun out the remaining distance to the line she had drawn that marked where they would move into the territory of a different --- hopefully safer ---  Authority. She estimated they still had something like eight hours to go. And that was assuming the demarcation line was at all accurate. In addition to just being a rough mark she had laid down from memory, for all she knew, the Authorities might have battled or treatied the line into a totally different part of the ocean. They would not be truly safe until they were docked at the depot. And even then, who knew what the depot folks would be like? Somewhat friendlier to commerce, was about all one could hope for with any confidence.
 
 After six hours listening to the uninterrupted engine-drone in the darkness, Percy made another pot of coffee and brought it down to the crew quarters along with a few tin cups tied together with a small bit of wire. She used her flashlight to hunt her relief crew out of their respective racks and forced coffee into them. Chips strung curses at her, but as red as Chips's eyes were, they were not even close to the bloodshot droop that Percy was swinging around in her own eyeballs.
 
 "Chips, go up and relieve Owen at radar. Hemi, you're with me at the controls." Shakes had pulled the blackout curtain aside and was peering blearily down at them and their coffee from a top rack. "Shakes, you can go back to sleep."
 
-"_Captain_ Shakes. And no fucking way. My boat's on the fucking line here too. I can help y'all drive this fucking conglomeration of scrap."
+"_Captain_ Shakes. And no fucking way. My boat's on the line here too. I can help y'all drive this fucking conglomeration of scrap."
 
 "I won't insist otherwise. Have a cup of coffee, we'll put you on throttle-rudder. With some luck, we can be at the depot in a few more hours, and maybe still with a few whiffs of fuel left to pump from the _Gnat_. We're gonna owe you something large for this _Captain_ Shakes." 
 
@@ -860,11 +860,11 @@ After six hours listening to the uninterrupted engine-drone in the darkness, Per
 [//]: # (----- invisible character break)
  
 
-When Percy felt more or less sure they had finally passed over where the Authority Control line might vaguely be, she climbed up to the bridge of the sail. Up in the light breeze, she scanned around the horizon with a pair of binoculars. She saw some aircraft off in the distance, but they were not coming towards the _Prospect_. She felt like the _Prospect_ must surely be in the new Authority's waters now. But there was no way to tell with any certainty.
+When Percy felt they were more likely than not to have finally passed over where the Authority Control line might vaguely be, she climbed up to the bridge of the sail. Up in the light breeze, she scanned around the horizon with a pair of binoculars. She saw some aircraft off in the distance, but they were not coming towards the _Prospect_. She felt like the _Prospect_ must surely be in the new Authority's waters now. But there was no way to tell with any certainty.
 
 They cruised easily on the surface with the diesel running for the next few hours. Hemi repeatedly made the trek down through the _Prospect_ and into the _Gnat_ to check the remaining fuel oil. Each time he diligently pulled the dipstick and, gripping it with an oily rag, noted the fuel level remaining by the light of his flashlight. 
 
-On one of these trips through the boat he found Chips asleep in her rack and woke her up. "Chips, I need you to tune that engine to absolutely maximize efficient fuel consumption," he told her. She groggily got on her feet and marked the passage of the next several hours by keeping up a steady beat of oaths from deep in the ship while she carefully and continually trimmed the diesel engine's fuel intake.
+On one of these trips through the boat he found Chips asleep in her rack and woke her up. "Chips, I need you to tune that engine to absolutely maximize efficient fuel consumption," he told her. She groggily got on her feet and marked the passage of the next several hours by keeping up a steady beat of swears from deep in the ship while she carefully and continually trimmed the diesel engine's fuel intake.
 
 No matter how parsimonious they were with the power usage and fuel consumption though, the _Prospect_ was so much bigger that it was eating through the _Gnat_'s remaining fuel oil at an insatiable rate. Back in the control room of the _Prospect_, Hemi calculated how quickly they were burning fuel oil by hand, and measured it against how far they had to go. He could not promise Percy that they would not be rowing the _Prospect_ the last few miles.
 
@@ -883,7 +883,7 @@ Hemi finally broke the bleary, hazy silence. "Something bothers me, Sylvia."
 
 "Well, what the fuck is it that's eatin' ya, my man-mountain?"
 
-"The sub with the ram. It is such an unusual weapon for a modern submarine. Are you sure about it?
+"The sub with the ram. It is such an unusual weapon for a modern submarine. Are you sure that is what you saw?
 
 "Abso-fucking-certain. Lotta subs look the same, and that ram is something else under the sun. Some kinda custom job, without the sleek, expensive quality of gear ya see on military machines usually. Looks like it was worked up as some ancient siege engine, for storming a stone fortress or something. And then some crazy motherfucker bought it as scrap and welded the whole fucking heavy water-dragging thing onto the front of their submarine."
 
@@ -893,7 +893,7 @@ Hemi nodded. "Then my primary question is: why did they ram _us_? I have no reco
 
 "It does seem odd. We're just a cargo sub," Percy said, looking steadily at Shakes. "Of course, we're always being harassed by various Authorities in general-like ways --- that's just part of the business. But usually it's more of an ask-questions-first kind of interaction. And we're fuckin' small potatoes by any measure you care to put to it. They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, business."
 
-"And we are the commerce," Shakes said.
+"Recognizing that we are the fucking commerce," Shakes said.
 
 "Even if that sub with the ram was trying to hit us particularly," continued Percy, "seems most likely they won't follow us across fuckin' Authority lines, and we won't be seeing them again. We'll just avoid coming back this way any time soon."
 

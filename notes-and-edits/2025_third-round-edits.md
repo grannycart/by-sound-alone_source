@@ -1,10 +1,14 @@
 2025_third-round-edits.md
-Last modified: 2025-03-08 12:58
+Last modified: 2025-03-08 13:29
 
 
 # Third round edits
 Edits to pick up in third full pass through the book (early, 2025)
 
+* [ ] do a find-and-replace on s's and s' for Chips' and Shakes'. Decide which you want to use and stick to it.
+    * Looks like Julia suggested s's for shakes's and chips's, ...so I guess I need to do that for every chap:
+        * use: :%s/s'\ /s's\ /gc
+        * [X] 1_Chapter.md  [X] 2_Chapter.md  [ ] 3_Chapter.md  [ ] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
 * [X] Make it clear in the first chapter that the ramming does most damage to the _ballast_ tank on the rammed side, and only slightly damages the pressure hull
     * [X] It needs some more clarification on this to be very accurate. The book does say the ballast blow pipes are pinched shut, and they can't refill the tanks with air.
     * [X] But it also needs to make clear that the ballast tanks took most of the brunt of the ramming
@@ -14,10 +18,9 @@ Edits to pick up in third full pass through the book (early, 2025)
         * See line 668 (commit: 3519986233e -- I deleted it after that) where Chips is cursing out Percy for risking lowering the boat with the high pressure system depleted --- she SHOULD be pointing out here that the blow pipe is pinched (if they haven't tried to repair it)
         * Though we could say it's only the _emergency_ blow pipes that are pinched... so maybe at least they are willing to dive at the depot?
         * Possibly they need to do repairs BEFORE diving at the depot?
+    * [ ] It needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
     * [X] review lines 648-742 again, after editing out Chips cursing them off
-        * Consider cutting out this whole maneuver; it's mostly focused on the main ballast tanks, and it isn't clear to me how those tanks got refilled (presumably, they were partially filled by the regular control system when they were on the bottom?)
-        * might be whole replaced with a line like "Despite Chips's condemnation, they got the boat down to sail-out depth without incident." or something.
-    * [ ] And then it needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
+        * Ended up cutting out this whole maneuver; it's mostly focused on the main ballast tanks, and it isn't clear to me how those tanks got refilled (presumably, they were partially filled by the regular control system when they were on the bottom?)
 * [ ] Pick up corrections from LuukTheSlayer on Reddit:
     * https://www.reddit.com/r/submarine/comments/1aroxoh/comment/ku6l2lb/
     * [ ] When you increase your speed by 2 you use 4 times as much power, coming from the formula 1/2*mass*speed^2. 
@@ -31,6 +34,7 @@ Edits to pick up in third full pass through the book (early, 2025)
         * Fix it, around this line: "Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that it occurred far more often than seemed statistically probable that the Prospect surfaced and he came out on deck to find a low, blanketing cloud cover. He could hardly recall the last time they surfaced to a clear sky, and his deeply rational self was challenged by the sense that being on the open surface was in fact nature’s opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them."
 		* There's another reference in the first sentence of chapter 7. maybe do a search for 'siting' too.
     * [ ] Also, 3 on 3 off is the worst scedule i've ever heard. That would break me. Normally 6 on 6 off is used on submarines sometimes 5 on 7 off 7 on 5 off but that's the most cursed off them all lol. Cassandra being on the sonar for 20 hours could happen though. 
+        * Possibly, this is explained by the much smaller crew size. Possibly, it should just be fixed.
     * [-] ~~You write the sub is faster on the surface then underwater. In real life you don't generate a bow wave underwater and are significantly faster under water.~~ 
         * Addressed this in response on Reddit, the WWII style hulls were faster on the surface
     * [ ] Fog doesn't do much to radar. 
@@ -39,10 +43,6 @@ Edits to pick up in third full pass through the book (early, 2025)
         * This might be justified by simple stylistic choice to be "like a truck"
     * [X] "As the big diesels spun their turbines" this sencence confuses me you have a tubine on board? do you mean the turbocharger?
         * It was in chapter 7. I just removed 'their turbines'
-* [ ] do a find-and-replace on s's and s' for Chips' and Shakes'. Decide which you want to use and stick to it.
-    * Looks like Julia suggested s's for shakes's and chips's, ...so I guess I need to do that for every chap:
-        * use: :%s/s'\ /s's\ /gc
-        * [X] 1_Chapter.md  [X] 2_Chapter.md  [ ] 3_Chapter.md  [ ] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
 * [X] Add retcon: lower hatch near the batteries was a mistake
     * Need to keep those hatches to the battery rooms closed at all times
     * from comment on royal road
