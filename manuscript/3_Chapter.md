@@ -24,7 +24,9 @@
 
 [//]: # (### They approach the depot island, are inspected)
 
-"About fuckin' time," said Percy. She planned to climb up to the bridge and check with Owen in a minute, but first she wanted to look through the periscope. Since it would be higher up above the surface, she would potentially be able to see farther. The bearing was obviously straight ahead, so she swung the barrel of the periscope around while looking through the viewfinder. The cigarillo still hung from her lips, with smoke rising up to her nostrils. "Aye. Fuckin' dawn's cracking...and I see a blot of an island ahead of us." She watched it for a while. It slowly, slowly came towards her and details resolved themselves. It was a rocky, slightly-cliffed shore with some sparse vegetation on top.
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
+ 
+"About fuckin' time," said Percy. She planned to climb up to the bridge for the view, but first she wanted to look through the periscope. Since it would be higher up above the surface, she would potentially be able to see farther. The bearing was obviously straight ahead, so she swung the barrel of the periscope around while looking through the viewfinder. The cigarillo still hung from her lips, with smoke rising to her nostrils. "Aye. Fuckin' dawn's cracking...and I see a blot of an island ahead of us." She watched it for a while. Details slowly came into focus. It was a rocky, slightly-cliffed shore with some sparse vegetation on top.
 
 "Mind if I look?" Shakes asked.
 
@@ -40,7 +42,7 @@ It was fairly common for a depot that handled sensitive cargo to be built partly
 
 "So, how the fuck do we..." Shakes started to ask.
 
-The ship-to-ship radio lit up over their heads. _"To approaching submarine: stop your motors and prepare to be boarded."_
+The ship-to-ship radio lit up over their heads. *"To approaching submarine: stop your motors and prepare to be boarded."*
 
 "That's how," said Percy.
 

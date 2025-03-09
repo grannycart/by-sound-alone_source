@@ -158,23 +158,23 @@ Percy took down the mic from the radio and brought it to her lips. She pushed th
 
 Then she repeated the transmission of the tones. Another minute passed.
 
-Then a crackly male voice came over the radio, "I see you over there, you hulking ugly gray fuckin' whale carcass. And I guess you know I'm here. Why are ya sittin' on the surface, and what do ya want with me?"
+Then a crackly male voice came over the radio, *"I see you over there, you hulking ugly gray fuckin' whale carcass. And I guess you know I'm here. Why are ya sittin' on the surface, and what do ya want with me?"*
 
 Percy hesitated, and then transmitted back, "Well, first let me state flat out that we're nothing but a cargo sub --- and let me emphasize: un-fucking-armed. _No_ weapons, got me? Second, we've been severely damaged, and swam through some kind of icy hell to get back to the surface. We're out of fuel and extremely low on power. Long and short is that we're in some desperate need of help, and you are the only contact we've seen in these fucking desolate waters."
 
-Another moment passed. "Yeah. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered class-A-holes who seem more interested in shooting down transports than letting any commerce commence. It's a fucking bad place to be not moving and on the surface."
+Another moment passed. *"Yeah. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered class-A-holes who seem more interested in shooting down transports than letting any commerce commence. It's a fucking bad place to be not moving and on the surface."*
 
 "Not moving is hardly typical for us. What are you sitting on there? We don't see any ship in the scope. Any assistance you can offer would be much appreciated."
 
-"Ehh, I'm not one who is much for offering assistance, so I don't think I'm gonna show ya what I'm riding, at least not just yet. But if yer telling the truth, I don't envy your dire-ass situation."
+*"Ehh, I'm not one who is much for offering assistance, so I don't think I'm gonna show ya what I'm riding, at least not just yet. But if yer telling the truth, I don't envy your dire-ass situation."*
 
 "I absolutely understand your unwillingness to not tip your hand. Anything I can do to reassure you we aren't anything other than what we say we are?"
 
-"The territorial Authority motherfuckers around here generally just shoot first, check papers later. They're not much for mind games. So the fact that you haven't already shot at me says a lot." 
+*"The territorial Authority motherfuckers around here generally just shoot first, check papers later. They're not much for mind games. So the fact that you haven't already shot at me says a lot."*
 
 There was a long pause of radio silence. Percy held the mic off-angle in her hand while listening. She began to worry that she had lost their only chance for help.
 
-The ship-to-ship crackled back to life. "Alright. I think I can risk pulling alongside ya, and poppin' the hatch. Don't send nobody onto my boat without my say-so, or I'll dive straight out from under ya. Fucking' got it?"
+The ship-to-ship crackled back to life. *"Alright. I think I can risk pulling alongside ya, and poppin' the hatch. Don't send nobody onto my boat without my say-so, or I'll dive straight out from under ya. Fucking' got it?"*
 
 "We'll look for you --- for something --- off the port side. Out."
 
@@ -682,11 +682,11 @@ Shakes pounded his acknowledgment on the side of the sail, and his head disappea
 
 Hemi got on the ship PA and flipped the switches for both internal and external speakers. "Gregory, lock down all the external hatches after you see the _Gnat_ off. Owen and Bastian, come up to the control room --- we are going to dive the boat to sail-out depth."
 
-"Hey-fucking-ho!" Shakes's voice came crackling over the ship-to-ship a moment later. "I'm fired up, buttoned up, and off fuckin' motoring."
+*"Hey-fucking-ho!"* Shakes's voice came crackling over the ship-to-ship a moment later. *"I'm fired up, buttoned up, and off fuckin' motoring."*
 
 Hemi swapped the PA mic for the ship-to-ship mic. "I understand, Captain Shakes. Remember, _gentle_ is the word."
 
-"I yam allllways fuckin' genteel."
+*"I yam allllways fuckin' genteel."*
 
 "We are going to take the _Prospect_ down to sail-out depth now. Hold tight until I give you the go."
 
@@ -699,7 +699,7 @@ Hemi swapped the PA mic for the ship-to-ship mic. "I understand, Captain Shakes.
 
 Getting the hull below the surface was a delicate operation that required Hemi to spend quite a bit of time iterating over the trim tank controls until the boat sat relatively level with just the sail remaining above the surface. When Hemi was finally confident they weren't gaining depth, he got on the ship-to-ship. "Captain Shakes, we are holding at sail-out depth, and moving at a two-knot forward creep. I think you can begin your dive now."
 
-"Fuckin' righto," came Shakes's crackling reply.
+*"Fuckin' righto,"* came Shakes's crackling reply.
 
 Percy raised the periscope and swiveled around until she could see the tiny, nearly-invisible gray sail of the _Gnat_ bobbing in the gray water off their port side. It picked up speed, and a little wake formed behind it. Then it shrank down and disappeared under the surface like a sun winking out at the horizon. She lowered the periscope back down.
 
@@ -716,7 +716,7 @@ On board the _Gnat_, Shakes leaned his head down at a painful angle, looking up 
 
 "Fuuuuuck. They shoulda mentioned that this would be stupidly fuckin' dangerous," Shakes said to himself. "I walked right into this, I guess. Or maybe they are like a backyard bully in a pool, tormenting me --- the scrawny kid --- by holding my head underwater... Though I suppose some people must be into that sort of thing." He glanced at the stacks of porn at his feet.
 
-"Captain Shakes." Hemi's voice came over the ship-to-ship with all the bass notes stripped out of it. "Do not forget that since we are moving, you are going to have to give your boat a little more motor when you get within a meter of the _Prospect_ or so. We are going slow enough that it should not be too dramatic, but you also do not want to get sucked back into the _Prospect_'s propellers."
+*"Captain Shakes."* Hemi's voice came over the ship-to-ship with all the bass notes stripped out of it. *"Do not forget that since we are moving, you are going to have to give your boat a little more motor when you get within a meter of the _Prospect_ or so. We are going slow enough that it should not be too dramatic, but you also do not want to get sucked back into the _Prospect_'s propellers."*
 
 "Aye, fuck you all," he did not bother to respond on the radio, his hands too busy with the controls of the _Gnat_. "This little boat weren't built for this shit. Handles like a fucking beach ball underwater."
 
@@ -740,7 +740,7 @@ The way to know for sure if the two rings were mated properly was by using the d
 
 He pulled up the ship-to-ship mic toward his mouth, "Hemi, I think I'm fuckin' on."
 
-"Yes. We can feel the drag up here. We are going to trim our tanks to adjust for the pull of the _Gnat_, and then shut down our engines to save our batteries. I think you can give a bang on your hatch now, and see if Chips can open up the junction between us."
+*"Yes. We can feel the drag up here. We are going to trim our tanks to adjust for the pull of the _Gnat_, and then shut down our engines to save our batteries. I think you can give a bang on your hatch now, and see if Chips can open up the junction between us."*
 
 [//]: # (----- invisible character break)
  
@@ -767,9 +767,7 @@ At this point they could hear the _Gnat_ grinding against the mating collar of t
 
 Gregory nodded.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
- 
-They could feel the shuddering vibrations of the _Gnat_'s motor through the hull of the _Prospect_ for a few minutes, and then that died away when Shakes shut it down. A few moments later the _Prospect_'s motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut with one of his wrenches on the top hatch of the _Gnat_. Gregory responded by banging a piece of old pipe on the still-closed bottom hatch of the _Prospect_, below his feet. Then it was quite silent until Hemi came crackling over the ship PA. "OK Chips, open it up."
+They could feel the shuddering vibrations of the _Gnat_'s motor through the hull of the _Prospect_ for a few minutes, and then that died away when Shakes shut it down. A few moments later the _Prospect_'s motors shut down too. They heard Shakes bang out a ringing shave-and-a-haircut with one of his wrenches on the top hatch of the _Gnat_. Gregory responded by banging a piece of old pipe on the still-closed bottom hatch of the _Prospect_, below his feet. Then it was quite silent until Hemi came crackling over the ship PA. *"OK Chips, open it up."*
 
 Chips nodded to Gregory and he reached down into the hatch well and cranked open the sealing wheel. He pulled up the hatch and water steadily flooded up around their boots. Gregory jumped up, as if bitten, and in a matter of seconds was on the other side of the bulkhead, ready to seal the watertight door. 
 
