@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-09 19:31
+Last modified: 2025-03-10 22:59
 
 
 # Third round edits
@@ -12,18 +12,19 @@ Edits to pick up in third full pass through the book (early, 2025)
 * [ ] Should _all_ transmissions over ship-to-ship be in italics?
     * I did this for the depot mini-sub transmitting to the Prospect for the first time. But I think it's a nice effect.
     * Then I should also italicize everything that comes over the PA...
-    * tough to check on everything though, it's not as simple as just searching, though for chap 2 I did try to cover it by searching for /ship-to/ and /PA/
-    * And (here's the style call): it has to be *italicize* with astericks because boat names are sometimes in those dialog bits with underscores.
+    * tough to check on everything though, it's not as simple as just searching, though for chap 2 I did try to cover it by searching for /ship-to/ and /PA/ and /radio/
+    * And (here's the style call): it has to be *italicize* with astericks because boat names are sometimes in those dialog bits with underscores. Style-wise, the italics will also include the quotes for these radio transmissions
         * [X] 1_Chapter.md  [X] 2_Chapter.md  [ ] 3_Chapter.md  [ ] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
 * [X] Make it clear in the first chapter that the ramming does most damage to the _ballast_ tank on the rammed side, and only slightly damages the pressure hull
     * [X] It needs some more clarification on this to be very accurate. The book does say the ballast blow pipes are pinched shut, and they can't refill the tanks with air.
     * [X] But it also needs to make clear that the ballast tanks took most of the brunt of the ramming
-    * [ ] Do they dive _before_ they get to the depot?
+    * [X] Do they dive _before_ they get to the depot?
         * Seems like they wouldn't take this risk without repairing the pinched blow pipes at least, if not the left side main ballast.
         * So maybe they need to at least do cursory repairs on the pinched line while still at sea/before the Gnat goes under the Prospect?
         * See line 668 (commit: 3519986233e -- I deleted it after that) where Chips is cursing out Percy for risking lowering the boat with the high pressure system depleted --- she SHOULD be pointing out here that the blow pipe is pinched (if they haven't tried to repair it)
         * Though we could say it's only the _emergency_ blow pipes that are pinched... so maybe at least they are willing to dive at the depot?
         * Possibly they need to do repairs BEFORE diving at the depot?
+        * They do not dive until the depot, so I just put in an aside about how they took the risk of diving at the depot (chap 3, line 78)
     * [ ] It needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
     * [X] review lines 648-742 again, after editing out Chips cursing them off
         * Ended up cutting out this whole maneuver; it's mostly focused on the main ballast tanks, and it isn't clear to me how those tanks got refilled (presumably, they were partially filled by the regular control system when they were on the bottom?)
