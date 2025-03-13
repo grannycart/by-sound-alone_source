@@ -177,17 +177,15 @@ About a third of the way up the hall, her eye was caught by one of the bigger sh
 
 [//]: # (### In the hardware store; Percy meets Miss Mai)
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
- 
 Percy turned into the shop. It sold hardware. A wide array of tools and parts lay in a semi-organized fashion among the hay and batting used as packing material in the crates. Some of the packing material had inevitably escaped the crates and was crushed into the grime on the floor. 
 
 Larger items were displayed towards the front of the store, probably because they were harder to steal. The crates at the front of the shop were left open at the top, and looking down into them she could see large motors, piping, valves, and other bigger elements that went into making a submarine work. 
 
-Toward the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks. 
+Toward the back of the shop, the crates tended to be laid on their side and opened. Many of the crates had dozens of hooks nailed into them and smaller tools and parts for sale hung from the hooks above stacks of small boxes of tiny hardware bits. 
 
 The shopkeeper somehow managed to show little interest in the few customers poking around in the crates, and yet never stopped watching them.
 
-Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit. Clamps were not currently on her hardware list, so she regrettably would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the "to" list and waiting to be purchased on at the next stop.
+Percy had a perennial list of hardware she needed for the _Prospect_. It was one of those lists that only ever seemed to grow, and rarely got things crossed off it. She almost immediately found a box with a range of sizes of screw-tightened clamps that were being sold as a single unit. Clamps were not currently on her hardware list, so she regrettably would not get to cross anything off. On the other hand, she would already have the clamps aboard the _Prospect_ when they needed them, rather than going onto the "have to fucking buy" list and waiting to be purchased on at the next stop.
 
 Percy picked up the box of clamps and moved to browse some of the larger parts. In one open crate there was a beautiful pump motor, in factory-new condition, a rarity these days when most machines --- even excellent ones --- had been rebuilt a dozen times over. It was the kind of motor used in dozens of places and applications on the _Prospect_. It was another item that was not actually on her list of needed parts, but potentially so useful that she could not imagine not buying it. In this condition, however, it would not be cheap.
 
@@ -219,7 +217,7 @@ Percy remembered the dock boss had said she would send word ahead to Miss Mai. "
 
 "Oh, I believe in the chaos," said Percy, "I just don't believe it comes up in my fucking favor."
 
-Miss Mai grinned a gapped-toothed smile. "I think I can work with such a person. Can I encourage you to join me in my office to discuss the details of the offer I have for you? It's...not really fit for public spaces."
+Miss Mai grinned a smile that included only a limited number of mangled teeth. "I think I can work with such a person. Can I encourage you to join me in my office to discuss the details of the offer I have for you? It is...not really fit for public spaces."
 
 "Miss Mai, nothing would please me more than to learn about this fucking opportunity." Percy put down the box of clamps and noticed that the shopkeeper watched her do so.
 
@@ -228,6 +226,8 @@ Miss Mai grinned a gapped-toothed smile. "I think I can work with such a person.
 
 [//]: # (### Negotiation with Miss Mai for the explosives shipping job)
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
+ 
 In the open space of the hall, Miss Mai hobbled next to Percy.  Percy took her arm to help her along. It was a thin little stick of bone in Percy's strong hand.
 
 "So, the dock boss told you all about me already?" Percy asked, hoping to assess the levelness of the playing field.
