@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-10 22:59
+Last modified: 2025-03-14 22:05
 
 
 # Third round edits
@@ -8,7 +8,7 @@ Edits to pick up in third full pass through the book (early, 2025)
 * [ ] do a find-and-replace on s's and s' for Chips' and Shakes'. Decide which you want to use and stick to it.
     * Looks like Julia suggested s's for shakes's and chips's, ...so I guess I need to do that for every chap:
         * use: :%s/s'\ /s's\ /gc
-        * [X] 1_Chapter.md  [X] 2_Chapter.md  [ ] 3_Chapter.md  [ ] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
+        * [X] 1_Chapter.md  [X] 2_Chapter.md  [X] 3_Chapter.md  [ ] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
 * [ ] Should _all_ transmissions over ship-to-ship be in italics?
     * I did this for the depot mini-sub transmitting to the Prospect for the first time. But I think it's a nice effect.
     * Then I should also italicize everything that comes over the PA...
@@ -78,6 +78,7 @@ Edits to pick up in third full pass through the book (early, 2025)
     * [ ] The biggest thing I'd like to see is some more reaction to Hershel when he first joins the Prospect. I kept wondering why no one was affected by a pigeon flapping around the ship. I think at minimum you could move the bit about him taking up residence in the galley to an earlier part. Though I'd also like a bit more, eg who loves him and develops a relationship vs who is just annoyed.
         * I made a half-assed attempt to address this: chapter for line ~935 -- 2023-12-30 13:30
     * [ ] I also felt like there could be a little more reaction to the loss of Owen and departure of Chips...  what does Cassandra think about all that?
+* [ ] When finished with third pass: do a par formatting on all md files? Ideally, the md would be very legible for reading.
 
 ## production edits still to make
 * See "Final production todos" in index_notes-and-todos
