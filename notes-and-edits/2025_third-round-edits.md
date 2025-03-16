@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-14 22:05
+Last modified: 2025-03-16 19:03
 
 
 # Third round edits
@@ -25,7 +25,8 @@ Edits to pick up in third full pass through the book (early, 2025)
         * Though we could say it's only the _emergency_ blow pipes that are pinched... so maybe at least they are willing to dive at the depot?
         * Possibly they need to do repairs BEFORE diving at the depot?
         * They do not dive until the depot, so I just put in an aside about how they took the risk of diving at the depot (chap 3, line 78)
-    * [ ] It needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
+    * [X] It needs to be clear the ballast tanks get repaired at some point (I fear I may also have forgotten to have the pinched pipes repaired)
+        * added a graf, line 661 chap 3
     * [X] review lines 648-742 again, after editing out Chips cursing them off
         * Ended up cutting out this whole maneuver; it's mostly focused on the main ballast tanks, and it isn't clear to me how those tanks got refilled (presumably, they were partially filled by the regular control system when they were on the bottom?)
 * [ ] Pick up corrections from LuukTheSlayer on Reddit:
