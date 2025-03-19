@@ -650,8 +650,6 @@ It did not take too long for Hemi to seal Shakes into the _Gnat_ and get it disc
 
 [//]: # (### Hemi and Percy have dinner)
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
- 
 Refueling, recharging, and repairs were busily carried out over the next six hours. Percy was uncomfortable with how many people were coming and going --- and crawling around --- inside her boat. In the long expanses of time that she had lived in this steel tube, the vast majority of the time she knew exactly who was aboard her submarine. But in dock there was unusual and discomforting open access to her boat. Just another reason to move out as quickly as possible, as far as she was concerned.
 
 All of the activity meant that Hemi was probably spending heavily to get things done quickly. In normal circumstances, in the condition the _Prospect_ had come in, they would have planned to stay in dock for a week or two. The damage to the hull meant the boat should really have been put into dry dock for serious repairs. But dry dock required a monetary flushness that was far beyond a single well-paid job, even if they had no limitations on their time at all, and even if there had been facilities for it on the island.
@@ -774,7 +772,7 @@ Hemi did not fail to notice, either. "Maybe..." was all he said before looking b
 
 The loading was finished that evening. Hemi had Bastian, Gregory, and Owen go over every crate and make sure it was lashed securely enough that it could not shift once the _Prospect_ started moving. 
 
-After that, most of the crew headed up to the canteen on the exchange floor to indulge in the kind of heavy drinking rarely on offer to a submarine crew, though Cassandra excused herself from this opportunity to get to know her new crew mates better, suggesting politely that she had seen quite enough of that canteen. Hemi and Percy also skipped the drinking and were up late in the galley, going over the state of their supplies and discussing some questions Hemi had about the details of the job contract that he wanted to be sure Percy had considered. It was long after midnight before they crawled into their respective racks.
+After that, most of the crew headed up to the canteen on the exchange floor to indulge in the kind of heavy drinking rarely on offer to a submarine crew, though Cassandra excused herself from this opportunity to get to know her new crew mates better, suggesting politely that she had seen quite enough of that canteen. Hemi and Percy also skipped the drinking and were up late in the galley, going over the state of their supplies and discussing some questions Hemi had about the details in the job contract that he wanted to be sure Percy had considered. It was long after midnight before they crawled into their respective racks.
 
 
 

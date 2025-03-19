@@ -30,6 +30,8 @@
 [//]: # (Morning: day 1, run to Stilt City)
 The next morning, Hemi was up first, and dragged a bleary and aching Bastian out of the rack to help him track down some dock workers who knew how to use the rig that would recharge the compressed air tanks on the _Prospect_. Setting this up would involve running a length of expandable rigid pipes down the docking bay, through the cargo hatch, and connecting those to pipe fittings mounted to the ceiling of the _Prospect_'s cargo hold. It had to be rigid pipe the whole way because Hemi wanted to recharge the high-pressure tanks in the _Prospect_, and that air was under such immense pressure it would blow apart any kind of flexible pipe material. Once they had the high-pressure tanks filled, Hemi could recharge the low-pressure tanks as well via some valves on the tank ballast panel in the control room that would allow him to bleed off air from the high-pressure system to the low-pressure tanks.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, shine and moria or paper in gvim ------)
+ 
 The docking bay had high-pressure pipes that were fed down from compressors located in some equipment space up above the exchange floor. The docking bay high-pressure system was mostly just kept ready for a flooding emergency where water might have to be blown out. Most subs at the dock already had their high-pressure tanks fully charged, since they had to be ready for their own emergencies at any time. Refilling a docked submarine's high-pressure tanks was an unusual operation. The docking bay had the equipment, but only a handful of people knew how to use it. So Hemi spent the first few hours of the morning wandering around the docking bay and the exchange floor with Bastian and a bag full of money looking for those people.
 
 By the time they got back, the rest of the crew had managed to crawl slowly and painfully out of their racks, get themselves fed and coffeed, and busy themselves with odd jobs around the boat while waiting for Hemi to return with instructions about what actually needed to get done. Hemi sent Gregory and Cassandra up to the exchange floor with a stack of coins to track down enough food and consumable supplies to get the crew through the run ahead of them. He figured Cassandra had been in this depot long enough that she might be able to help Gregory acquire some better-than-average submarine grub. Chips had Owen down in the engine room carefully going over the diesels and the motors. Hemi was neither going to disrupt Chips in that process, nor take Owen from her for something else.
@@ -132,13 +134,13 @@ Bastian nodded, the other sonar headset still on his ears.
 
 The messenger was off with an energy one would never have suspected by the lethargy that had engulfed his sitting form just a few moments before.
 
-Hemi's voice came over the PA. "Everyone be ready to toss lines. Gregory, get the cargo hatch buttoned up, and let me know when you are ready. Owen, come up to the control room."
+Hemi's voice came over the PA. *"Everyone be ready to toss lines. Gregory, get the cargo hatch buttoned up, and let me know when you are ready. Owen, come up to the control room."*
 
 "I hope we didn't fuckin' forget anything," Bastian said.
 
 "I'd rather leave some stuff behind than be sucked onto a slip when whoever fired that torpedo arrives here," said Percy.
 
-Gregory's voice came over the ship PA. "Hemi, the cargo hatch is sealed and flooded. You can let go the docking clamps whenever you're ready. Cassandra and I are headed towards the sonar compartment."
+Gregory's voice came over the ship PA. *"Hemi, the cargo hatch is sealed and flooded. You can let go the docking clamps whenever you're ready. Cassandra and I are headed towards the sonar compartment."*
 
 Percy could hear Hemi's voice take on a soft professional tone as he got on the ship-to-ship radio and notified the docking control office they intended to depart.
 
@@ -237,7 +239,7 @@ Hemi looked at Percy. He was not going to level off the dive until she said so.
 
 "Two hundred and ten meters. Still descending," said Gregory.
 
-"Ah, ya fucking fuckturds!" Chips' voice came up from the sonar compartment, where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
+"Ah, ya fucking fuckturds!" Chips's voice came up from the sonar compartment, where she had just entered. "Is your fuckin' goal to see if you can split open that fucking weak-ass seam those fucking dock beasts welded in the cargo hold? Because that's what it fucking looks like to me. The very first fuckin' thing you do off the dock is push the boat into the fuckin' hole!"
 
 "For fuck's sake Chips! If it's a choice between going deep or being fucking torpedoed, we're going deep," Percy replied. After a short pause, she said to herself, "I need a fuckin' smoke." She suddenly realized she had not smoked since the last time the _Prospect_ was moving. 
 
@@ -689,19 +691,19 @@ Hemi listened closely. "OK, the contact is running on electric motor now. And I 
 
 [//]: # (### Rendezvous with the Gnat)
 
-Within an hour, Shakes's voice lit up the ship-to-ship radio in the control room. "Break. Break. This is the mighty _Gnat_. Were those fuckin' ear-splitting pings coming from the folks I'm looking for?"
+Within an hour, Shakes's voice lit up the ship-to-ship radio in the control room. *"Break. Break. This is the mighty _Gnat_. Were those fuckin' ear-splitting pings coming from the folks I'm looking for?"*
 
 Hemi climbed the ladder to the control room and took the mic from the overhead radio. "Indeed, _Gnat_. This is the _Prospect_ and we are glad to know now that we were not pinging an Authority battleship."
 
-"Ah," said Shakes, "so my subterfugal modifications were effective? Wait till you see what I fuckin' did, Hemi. You're going to love it."
+*"Ah,"* said Shakes, *"so my subterfugal modifications were effective? Wait till you see what I fuckin' did, Hemi. You're going to love it."*
 
 Hemi smiled into the mic. "Sounds good, Captain Shakes. You did not break off your mating collar while making those modifications, did you?"
 
-"Nope. It's still riding with fucking pride atop the _Gnat_'s sail. Mating with the _Prospect_ should be at least as smooth as last time."
+*"Nope. It's still riding with fucking pride atop the _Gnat_'s sail. Mating with the _Prospect_ should be at least as smooth as last time."*
 
 "I hope it does not go that badly," said Hemi. "OK, we will put the _Prospect_ in gear, and drive forward slowly. Just like last time, you can come up underneath, and put the _Gnat_ on the mating collar."
 
-"Roger that. But...you're going to have to come up shallower. I might have more confidence than I used to, but I still don't want to push the _Gnat_ as deep as you are now if I don't fuckin' hafta."
+*"Roger that. But...you're going to have to come up shallower. I might have more confidence than I used to, but I still don't want to push the _Gnat_ as deep as you are now if I don't fuckin' hafta."*
 
 Percy had been listening to the conversation from below at the navigation station. Now she climbed up to the control room to sort out the details of this maneuver with Hemi. 
 
@@ -709,13 +711,13 @@ Hemi caught her eye while she was still on the ladder. "Shakes needs us to come 
 
 "How shallow? I'd prefer to keep her as deep as possible."
 
-"I believe the _Gnat_'s maximum depth was around thirty meters --- according to Shakes' estimate, which was unchallenged by anything like an engineering background."
+"I believe the _Gnat_'s maximum depth was around thirty meters --- according to Shakes's estimate, which was unchallenged by anything like an engineering background."
 
 "Can we do it with the _Prospect_ at twenty meters?" she asked.
 
 "I suspect so, that's about how deep we had it at the depot." Hemi thumbed the mic on the ship-to-ship. "Captain Shakes, what if we make the _Prospect_'s keel twenty meters down. Can you do the mating at that depth?"
 
-"Surely," Shakes voice crackled in reply. "But remember that while the _Gnat_ is attached, you can _not_ go any fucking deeper. Beyond 30 meters or so and you'll crush the _Gnat_ and, you know, probably flood the fuckin' _Prospect_ as well --- not that I'll be giving two shits about your ugly barge after you beer-canned my baby."
+*"Surely,"* Shakes voice crackled in reply. *"But remember that while the _Gnat_ is attached, you can _not_ go any fucking deeper. Beyond 30 meters or so and you'll crush the _Gnat_ and, you know, probably flood the fuckin' _Prospect_ as well --- not that I'll be giving two shits about your ugly barge after you beer-canned my baby."*
 
 "I got you, Captain Shakes. Twenty meters maximum depth it is."
 
@@ -888,7 +890,7 @@ Shakes nodded sleepily as Hemi and Percy headed up to the navigation and sonar c
 [//]: # (Midday: day 2, run to Stilt City)
 Shakes joined Hemi and Percy at the navigation table a short while later, somewhat revived by Gregory's coffee, and carrying two more tin mugs for Hemi and Percy, which they received gratefully.
 
-"Here's what we're thinking, Captain Shakes," said Percy. "We're well fucking into Consolidated States' waters now. I think trouble from them is unlikely."
+"Here's what we're thinking, Captain Shakes," said Percy. "We're well fucking into Consolidated States's waters now. I think trouble from them is unlikely."
 
 Shakes nodded.
 
