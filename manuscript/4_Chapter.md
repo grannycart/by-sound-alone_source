@@ -269,8 +269,6 @@ From sonar, Bastian reported that he thought he could hear some disturbing sound
 [//]: # (Mid-afternoon: day 1, run to Stilt City)
 The _Prospect_ continued on its course, slowly, silently, and steadily, through the blackness, under more than two hundred meters of water. After a couple of hours of creeping, Percy flipped the white lights back on, which everyone understood to mean that the situation had returned to something like normal, even though it remained nothing like safe to continue running beyond the edge of their normal operating depth.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "Hemi, join me at the navigation station. It's time for us to figure out where we're going," said Percy.
 
 They climbed down the ladder and turned the lights on over the navigation table. Hemi unsealed and unrolled a new chart and laid it down under the glass. He wiped the old grease pencil marks off with a rag.
@@ -279,7 +277,7 @@ They climbed down the ladder and turned the lights on over the navigation table.
 
 Percy pointed to a hashed arc printed on the chart that ran past one side of the depot island. "Is that the actual current Authority demarcation line?"
 
-"Yes," said Hemi. "Western Federated Socialists on the east side of it, Consolidated States of the Archipelago Islands on the west side of it." He looked at the date printed in the corner of the chart. "At least as of the printing of this chart, eight months ago."
+"Yes it is," said Hemi. "Western Federated Socialists on the east side of it, Consolidated States of the Archipelago Islands on the west side of it." He looked at the date printed in the corner of the chart. "At least as of the printing of this chart, eight months ago."
 
 "We need to head toward Stilt City. But I think we should take a slightly less than direct course." Percy drew an arcing route on the chart with the tip of her finger. She indicated a point on the arc. "I asked Shakes to rendezvous with us here. I hired him to help us out on this run."
 
@@ -313,17 +311,17 @@ Percy considered. "I think so. Take us up to six knots. Only top sonar people de
 [//]: # (Late-afternoon: day 1, run to Stilt City)
 Six knots was still slow, but twice the speed at which they had crawled away from the depot. With three more hours of cruising, they were out of range of all but the very best sonar gear and ears in the world. Percy had them come up to one hundred meters to take some of the strain off the hull.
 
-When the boat reached this shallower depth, Hemi worked the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said as she stood behind him, smoking, "I think we can certainly do better with the trim if we move some of the cargo around down in the hold."
+When the boat reached this shallower depth, Hemi stationed himsefl in front of the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said as she stood behind him, smoking, "I'm working the trim here, but I think we can certainly do better if we move some of the cargo around down in the hold."
 
-"OK. Take Owen and Bastian down there with you. I'll watch the trim with Gregory in case she starts to lean or something. Keep in mind that it might be bad if you drop any of those fucking crates."
+"OK. Take Owen and Bastian down there with you. I'll watch the trim with Gregory in case she starts to lean or something... And keep in mind that trim could be the least of our problems if you drop any of those fucking crates."
 
 Hemi tapped Owen on the shoulder, and they climbed down to the sonar compartment, where Bastian joined them on the trip down to the cargo hold.
 
-When they stuck their noses into the cargo hold and Hemi brought the lights up, it still smelled damp. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was continuing to seep. They might never have a completely dry cargo hold again. That was OK; that was what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
+It still smelled damp when they stuck their noses into the cargo hold and Hemi brought the lights up. Hemi was certain the quilted patchwork of steel and frozen slag that covered the split seam of the hull was continuing to seep. They might never have a completely dry cargo hold again. That was OK; that was what bilge pumps were for. But the accumulating bilge water was another good reason to shift the cargo and get some play in the boat trim.
 
-Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the necessary skill. The crates had been initially laid down all the way up and down the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly toward the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front toward the rear of the cargo hold while still leaving enough room for the crew to get through.
+Gregory had stacked the wooden crates into the hold inexpertly. There was a bit of an art to it, and Gregory had only the beginnings of the necessary skill. The crates had been initially laid down all the way up the length of the hull along the sides. This was a good start, forming the base for putting the rest of the crates on the top. But then Gregory had gotten lazy and stacked the additional layers of crates mostly toward the bow. That was easier to do and kept the crates out of the way for crew moving in and out of the cargo hold, but put more weight in the bow than Hemi wanted. They needed to move some of the upper layers of the crates in the front toward the rear of the cargo hold while still leaving enough room for the crew to get through.
 
-Hemi had Owen rig a hoist and chain to sliding fixtures on the roof of the cargo hold. Then Owen could climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain while Owen guided it off the stack. The individual crates were only modestly sized but surprisingly heavy, requiring Hemi and Bastian's full combined power to lift them, even with the mechanical advantage of the hoist. The three of them would then drag the airborne crate up the length of the cargo hold with the hoist sliding along the rails, and Owen and Bastian would push it with poles while Hemi lowered it to its new place.
+Hemi had Owen rig a hoist and chain to sliding fixtures on the roof of the cargo hold. Then Owen could climb up on the stack and throw straps around each crate they wanted to move. Hemi and Bastian would pull the chain while Owen guided it off the stack. The individual crates were only modestly sized but surprisingly heavy, requiring Hemi and Bastian's full combined power to lift them, even with the mechanical advantage of the hoist. The three of them would then drag the airborne crate up the length of the cargo hold with the hoist sliding along the rails. Then Owen and Bastian would push it with poles while Hemi lowered it to its new place.
 
 Every so often they would come across one of the food crates that had not been stowed in the galley earlier, and they would have to interrupt their re-arranging work to unpack the food and move it up to the galley.
 
@@ -383,7 +381,7 @@ Cassandra listened, her eyes watching the signal strength indicator needle waver
 
 "Correct! There is a small atoll a few miles in that direction and waves are breaking on its shore. Let's see what else is out there." Around the directional needle went, and Hemi slowed it, and stopped with the strength indicator needle throbbing slightly, like it had a pulse.
 
-[//]: # (Julia from Hagfish caught the contraction Hemi uses in the above paragraph. I think this one has to say, it just sounds too awkward to write out Let us in this instance.)
+[//]: # (Julia from Hagfish caught the contraction Hemi uses in the above paragraph. I think this one has to stay, it just sounds too awkward to write out Let us in this instance.)
 
 Cassandra closed her eyes. In her headphones she could hear a distant clicking, slow and regular. The clicks had a strange kind of richness to them. They bounced around the underwater landscape, and she could hear not just the clicks but also the echoes of the clicks. The dark world out there lit up in her mind, and she remembered storybooks about sea life from not so long ago when she was a child. "Is that the sound dolphins make?"
 
@@ -417,9 +415,11 @@ A few hours later the clocks and sun charts coordinated to tell them that it was
 
 Percy's standard strategy for a cargo run was to stay underwater and run slow on the batteries during the day, and surface to run on the diesels at night. Running on the diesels meant moving much faster and recharging the ship's batteries at the same time. Even with all the shipping traffic these days, the oceans were still mostly huge open spaces. A submarine running with no lights on the surface at night was a dark and tiny target, unlikely to be spotted by anyone. The main risk was being tracked by radar --- on the surface they created a fairly strong radar signature. But at the same time, they ran their own radar receiver. If anyone else was tracking the _Prospect_ with radar, the _Prospect_'s crew would see the signal and know they were there, usually with plenty of time for the _Prospect_ to disappear underwater and change course.
 
+[//]: # (Modern teardrop subs are faster under water, but WWII subs had a hull design that made them faster on the surface. The Prospect is somewhere inbetween, but without a snorkel, the designers would have planned it to be faster on the surface, where it had to be to recharge batteries.)
+
 The only other way they might be found is if an Authority ship heard the _Prospect_'s rumbling diesels on sonar. But to do that they would have to be within ten or twenty nautical miles of the _Prospect_. Not an impossible scenario, but somewhat unlikely on any normal night of a cargo run.
 
-Percy also always kept one more ancient backup system for spotting trouble early: she put someone up in the lookout ring with binoculars. As soon as the deck was above the surface of the water, Percy and Hemi went up through the hatch in the control room and climbed to the bridge at the top of the sail. Percy had the radar mast raised, which had two lookout rings mounted to it, one on either side, and called Owen up. As he came up onto the bridge she handed him binoculars and pointed to the lookout rings. Owen kept climbing.
+Percy also always kept one more ancient backup system for spotting trouble early: she put someone up in the lookout ring with binoculars. As soon as the deck was above the surface of the water, Percy and Hemi went up through the hatch in the control room and climbed to the bridge at the top of the sail. Percy had the radar mast raised, which had two lookout rings mounted to it, one on either side, and called Owen up. As he came onto the bridge she handed him binoculars and pointed to the lookout rings. Owen kept climbing.
 
 Percy looked at Hemi. "Be glad you don't have to do fucking lookout duty anymore."
 
@@ -455,6 +455,8 @@ Percy lit a cheroot. Hemi looked up at the dark gray sky, mostly obscured by clo
 
 "How's the navigation going?" Percy exhaled a long stream of smoke that was caught up by the wind and braided into the diesel exhaust behind them.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "I have been keeping very close track of our time, direction, and speed, as usual. But you know my track is only as good as guesswork can be. If these clouds break up tonight, and we get some stars, I would like to fix our position on the chart. When is the rendezvous with Shakes?"
 
 "At dawn. It will certainly be easier if we know where we are with some precision."
