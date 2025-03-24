@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-23 18:29
+Last modified: 2025-03-24 19:10
 
 
 # Third round edits
@@ -41,10 +41,13 @@ Edits to pick up in third full pass through the book (early, 2025)
         * This was totally a land-lubber mistake: I assumed the horizon was lit in the sky, like it is where I live, but in the middle of the ocean it is completely black
         * Though what about a moonlit night?
         * There is a mention about the sky clearing on line 460 of chap 4. 
-        * Fix it, around this line, 541 of chap 4: "Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that it occurred far more often than seemed statistically probable that the Prospect surfaced and he came out on deck to find a low, blanketing cloud cover. He could hardly recall the last time they surfaced to a clear sky, and his deeply rational self was challenged by the sense that being on the open surface was in fact nature’s opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them."
+            * Changed this minor reference to "before morning"
+        * Around this line, 541 of chap 4: "Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that it occurred far more often than seemed statistically probable that the Prospect surfaced and he came out on deck to find a low, blanketing cloud cover. He could hardly recall the last time they surfaced to a clear sky, and his deeply rational self was challenged by the sense that being on the open surface was in fact nature’s opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them."
+            * Fixed this by making the sighting done at just before dawn.
 		* There's another reference in the first sentence of chapter 7. maybe do a search for 'siting' too.
     * [ ] Also, 3 on 3 off is the worst scedule i've ever heard. That would break me. Normally 6 on 6 off is used on submarines sometimes 5 on 7 off 7 on 5 off but that's the most cursed off them all lol. Cassandra being on the sonar for 20 hours could happen though. 
         * Possibly, this is explained by the much smaller crew size. Possibly, it should just be fixed.
+        * removed reference to exact number of hours, and just called it "rest rotations" at night. --- make sure it works throughout the rest of the book.
     * [-] ~~You write the sub is faster on the surface then underwater. In real life you don't generate a bow wave underwater and are significantly faster under water.~~ 
         * Addressed this in response on Reddit, the WWII style hulls were faster on the surface
     * [ ] Fog doesn't do much to radar. 
