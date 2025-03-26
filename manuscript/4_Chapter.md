@@ -476,9 +476,9 @@ She put the crew on rest rotations, leaving two people in the control room at al
 [//]: # (### Hemi and Cassandra in navigation talking about what it takes to be a submariner)
 
 [//]: # (5 am: night 1, run to Stilt City)
-In the very early hours of the morning, Hemi found Cassandra in the navigation and sonar compartment, listening intently to the sonar with the headphones on and her eyes closed.
+In the very early hours of the morning, Hemi found Cassandra in the navigation and sonar compartment, listening intently to the headphones with her eyes closed.
 
-Hemi tapped her on the shoulder, and she jumped a little before smiling when she saw it was him and pulling back a headphone.
+Hemi tapped her on the shoulder, and she jumped a little before smiling when she saw it was him and pulling back an earpiece.
 
 "Aren't you supposed to be in your rack?" Hemi said.
 
@@ -488,7 +488,7 @@ Hemi tapped her on the shoulder, and she jumped a little before smiling when she
 
 "No. I try to imagine my mind going out into the water to listen to what's around us, but I can't get past the sound of the diesels."
 
-"Sonar is extremely limited with the engines running. But..." Hemi flipped some filter switches on the sonar control board, and adjusted some tone dials, his big hands moving easily over the instruments. These were familiar settings he used when he was on sonar while the engines were running. "Try it like that."
+"Sonar is extremely limited with the engines running. But..." Hemi flipped some filter switches on the sonar control board, and adjusted some tone dials, his big hands moving easily over the instruments. These were familiar settings he often used when he was on sonar while the engines were running. "Try it like that."
 
 Cassandra set the headphones back into their comfortable position on her ears and listened for a minute. "That's much better. It's like the engines are at least not distracting my attention." She made some notes on a pad of the settings Hemi had made.
 
