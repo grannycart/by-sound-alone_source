@@ -476,7 +476,7 @@ She put the crew on rest rotations, leaving two people in the control room at al
 [//]: # (### Hemi and Cassandra in navigation talking about what it takes to be a submariner)
 
 [//]: # (5 am: night 1, run to Stilt City)
-In the very early hours of the morning, Hemi found Cassandra in the navigation and sonar compartment, listening intently to the headphones with her eyes closed.
+In the early hours of the morning, Hemi found Cassandra in the navigation and sonar compartment, listening intently to the headphones with her eyes closed.
 
 Hemi tapped her on the shoulder, and she jumped a little before smiling when she saw it was him and pulling back an earpiece.
 
@@ -536,15 +536,15 @@ Cassandra hung the sonar headphones on the hook and joined Hemi at the navigatio
 
 "Just for a few minutes. Make sure to check it as soon as you come back down."
 
-They climbed up through the control room and up the interior ladders of the sail to the bridge. Owen was back in the lookout ring above them and greeted them when their heads shadowed the red light coming up from the open hatch, happy to have something to break the monotony of being on lookout.
+They climbed through the control room and up the interior ladders of the sail to the bridge. Owen was back in the lookout ring above them and greeted them when their heads shadowed the red light coming up from the open hatch, happy to have something to break the monotony of being on lookout.
 
-Overhead the clouds had blown off leaving a clear sky that was just beginning to brighten at the horizon. But the stars above still glowed, peppering the dark field in a way that suggested forces of chaos and random malevolence far beyond human knowing, but rendered into flat plane for the comprehension of the pitiful viewer.
+Overhead the clouds had blown off leaving a clear sky that was just beginning to brighten at the horizon. But the stars above still glowed, peppering the dark field in a way that suggested forces of chaos and random malevolence far beyond human knowing, but compressed into flat plane of simplicity for the easy comprehension and enjoyment of the pitiful mortals below.
 
 "Wow," said Cassandra.
 
 "Yes, that's the mariner's privilege," said Hemi. "And the lucky submariner occasionally gets to dip in as well."
 
-Hemi took out his sextant, clipboard, star charts, and graphs. He took sightings on three or four known stars, measuring their precise height above the horizon. He scratched a number of notes onto the clipboard with a pencil.
+Hemi unpacked his sextant, clipboard, star charts, and graphs. He took sightings on three or four known stars, measuring their precise height above the horizon. He scratched a number of notes onto the clipboard with a pencil while awkwardly holding a small red penlight for illumination.
 
 [//]: # (It suddenly occurs to me that a sextant is both used for a sighting of a celestial object, and giving you a siting of where you are.)
 
@@ -574,9 +574,9 @@ Bastian had taken over the lookout ring from Owen by the time the sky lightened 
 
 Percy climbed up to join Bastian on the bridge and looked around for a few minutes. She took some long breaths --- the last of the fresh air before the next twelve hours or so below deck --- and then told Bastian to follow her back down into the sub.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
-They buttoned up the _Prospect_ and, when all the hatches showed green lights on the board in the control room, they shut down the diesels and dove the boat to fifty meters. After fixing their position earlier in the evening, Hemi slept his three hours, and then returned immediately to the control room. Now that they were submerged again, he wanted to take the boat in a new direction as a precaution against the small chance that anyone had been tracking their course on the surface without their awareness. With the cargo they were hauling, Hemi felt there was no reason not to use every stealth maneuver they had.
+They buttoned up the _Prospect_ and, when all the hatches showed green lights on the board in the control room, they shut down the diesels and dove the boat to fifty meters. 
+
+Now that they were submerged again, Hemi wanted to take the boat in a new direction as a precaution against the small chance that anyone had been tracking their course on the surface without their awareness. With the cargo they were hauling, he wanted to take advantage of every stealth maneuver they had.
 
 After they had leveled off, he had them bring the boat hard about to starboard. This was backtracking a bit, but they were now aimed directly at the rendezvous point for the _Gnat_, which they would reach in another two hours at their current speed.
 
@@ -584,18 +584,18 @@ Those two hours remained nearly silent and uneventful. Everyone had low early-mo
 
 They cruised to the rendezvous point, and then came up to thirty meters of depth. They shut down the electric motors entirely, and Hemi trimmed the boat until it sat hovering perfectly still and silent in the water.
 
-Cassandra was just waking up from her sleep rotation, and groggily making her way from the crew quarters to the sonar compartment where she found Hemi. He handed her a tin cup full of sweetened black coffee.
+Cassandra was just waking up from the curtailed break she had earned by volunteering for double shifts. She groggily made her way from the crew quarters to the sonar compartment where she found Hemi. He handed her a tin cup full of sweetened black coffee.
 
 [//]: # (Early morning: day 2, run to Stilt City)
 "Time to get back on sonar Cassandra. We have reached the spot where we are supposed to rendezvous with Shakes. I need you to listen for his boat. It is quite a small boat, so it may be challenging to hear. But since we have got the _Prospect_ completely shut down you will have total silence. If you hear Shakes --- or anything else in the water --- come get me. I will be in the galley. The rest of the crew is going on break while there is nothing to do, so it is all you right now."
 
-"That makes this sound important... You trust me with this?"
+"That makes this seem important... You trust me with this?"
 
 "It is good practice for you, and the worst that could happen is you miss him and we are a little delayed in the rendezvous. I would be happier if we got moving again soon though, so...try not to miss him if he goes past."
 
 "OK, Hemi." Cassandra sat down at the sonar rig, put the headphones on, and took a sip of her coffee before passing the mics around in a full circle to get settled and oriented.
 
-Hemi went off to the galley with his clipboard and notes, and the rest of the crew hit the racks to catch up on much-needed sleep. The _Prospect_ was left dark and absolutely silent.
+Hemi went off to the galley with his clipboard and notes, and the rest of the crew hit the racks to catch up on sleep. The _Prospect_ was left dark and absolutely silent.
 
 Cassandra turned the directional control of the mics slowly around. She completed another full circle, and then came back the other way. Her eyes closed and she could see the sounds in the water coming towards the _Prospect_. The water had slightly different qualities in different directions, so after a few times around she could tell generally which way the microphones were pointing without looking at the directional indicator. When they were forward towards the bow, she could hear the bilge water sloshing in the lowest parts of the ship. Towards the stern, she could hear clearly without the annoying interruption of the propeller sound that was always in that direction while the electric motors were running.
 
@@ -618,7 +618,7 @@ Percy slid down the ladder and picked up the second sonar headset and put it on.
 
 "That can't be fucking Shakes. It sounds like a supertanker or an aircraft carrier or something. Go get Hemi. I think he should hear this."
 
-Cassandra went off to the galley, leaving Percy listening to the contact. She came back with Hemi, who held a tin cup with the dregs of cold coffee in the bottom. He slipped the headphones on and stood there, his coffee cup tilting around his fingers, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on and listened again.
+Cassandra went off to the galley, leaving Percy listening to the contact. She came back with Hemi, who held his tin cup with the dregs of cold coffee in the bottom. He slipped the headphones on and stood there, his coffee cup tilting around his fingers, staring at the gauges on the sonar and watching them bobble up and down. He flipped some filters on and listened again.
 
 "Well," Hemi said, "that is strange. It does sound like a tanker or something big just from sheer volume. But it is moving very fast, too fast for a big ship..." He paused listening again. "It is closer now, and I can hear the prop revolutions... The frequencies are all wrong. The prop is spinning too fast, and sounds small, not like a big ship screw."
 
@@ -699,7 +699,7 @@ Within an hour, Shakes's voice lit up the ship-to-ship radio in the control room
 
 Hemi climbed the ladder to the control room and took the mic from the overhead radio. "Indeed, _Gnat_. This is the _Prospect_ and we are glad to know now that we were not pinging an Authority battleship."
 
-*"Ah,"* said Shakes, *"so my subterfugal modifications were effective? Wait till you see what I fuckin' did, Hemi. You're going to love it."*
+*"Ah,"* said Shakes, *"so my subterfugal modifications were effective? Wait till you see what I fuckin' did, Hem'. You're going to love it."*
 
 Hemi smiled into the mic. "Sounds good, Captain Shakes. You did not break off your mating collar while making those modifications, did you?"
 
@@ -729,7 +729,7 @@ Hemi caught her eye while she was still on the ladder. "Shakes needs us to come 
 
 They carried out the maneuver without incident. Shakes brought the _Gnat_ up under the _Prospect_ and connected to the mating collar. When he popped the hatch, Chips was there waiting for him, just like last time.
 
-"Ah, fuck-ya, Captain Shakes. At least I didn't have to weld your fuckin' boat back together to get ya on board this fuckin' time."
+"Ah, fuck-ya, Captain Shakes. At least I didn't have to weld your fuckin' boat back together to get ya on board this time."
 
 "Good to see you again too, Chips. I'll have you know my boat has been adjusted and tuned to an absolute precision-meister's peak of fuckin' performance. The _Gnat_ is now faster, more maneuverable, and louder than any other boat of its size and displacement."
 
@@ -755,7 +755,7 @@ Hemi and Percy joined Shakes in the galley as soon as they had the _Prospect_ se
 
 "That's what the dock workers told me. How did you know that?"
 
-"Miss Mai, who gave us this job, suggested that might be the identity of the sub with the ram."
+"Miss Mai, who gave us the job, suggested that might be the identity of the sub with the ram."
 
 "What did you do to the Northern Points that would send them after you?"
 
@@ -777,7 +777,7 @@ Hemi and Percy joined Shakes in the galley as soon as they had the _Prospect_ se
 
 "They asked you about our fucking cargo too, eh?" said Percy.
 
-"Ya. Fortunately, they didn't seem to know anything about me coming in with you. I guess the other sub crews were afraid enough of Authority goons with guns to give up someone who isn't around, but aren't such cowards as to go so far as pointing at someone they can actually fuckin' see in the same space."
+"Ya. Fortunately, they didn't seem to know anything about me coming in with you. I guess the other sub crews were afraid enough of Authority goons with guns to give up someone who isn't around, but aren't such cowards as to go so far as pointing at someone they can actually fuckin' look at just down the dock."
 
 Hemi picked up a spoon and stirred his coffee. 
 
@@ -803,7 +803,7 @@ Percy lit a cheroot. "Shit," she said, "if they know we've got what-could-be-con
 
 "Which brings up another thing I wanted to ask you about, Captain Shakes," said Hemi. "That boat of yours is now certainly...loud."
 
-"Fuck yeah! I told you I put in a new exhaust. Straight pipe. Wedged it right up against the hull so the sound goes direct out into the fuckin' water. I also tuned it for power and made some adjustments to the gearbox. The _Gnat_'s diesel now puts out far more torque than just about any other boat of its fuckin' size, I'd say. And that torque is converted to unbelievably fast prop speeds."
+"Fuck yeah! I told you I put in a new exhaust. Straight pipe. Wedged it right up against the fuckin' hull so the sound goes direct out into the fuckin' water. I also tuned it for power and made some adjustments to the gearbox. The _Gnat_'s diesel now puts out far more torque than just about any other boat of its fuckin' size, I'd say. And that torque is converted to unbelievably fast prop speeds."
 
 "And a fast prop and new exhaust mean exceptional noise," said Hemi.
 
@@ -819,11 +819,11 @@ Percy lit a cheroot. "Shit," she said, "if they know we've got what-could-be-con
 
 "Oh, so you got a pet..." said Percy, "to keep you company during those long hours alone aboard the _Gnat_. To keep you from going crazy...er?"
 
-"Naw, Herschel's not a pet, I told ya --- he's a fuckin' upgrade to the _Gnat_! See I got him from a guy on the dock. He's specially trained to look for his home roost on a submarine on the surface of the ocean. His roost is on the _Gnat_ now, and I've been taking care of him. Soon he'll realize the _Gnat_ is his home. Then I just give him to you guys, and when you need me, you can send Herschel out to find the _Gnat_ with a message tied to his leg."
+"Naw, Herschel's not a pet, I told ya --- he's a fuckin' upgrade to the _Gnat_! See I got him from a guy on the dock. The bird's specially trained to look for his home roost on a submarine on the surface of the ocean. His roost is on the _Gnat_ now, and I've been taking care of him. Soon he'll realize the _Gnat_ is his home. Then I just give him to you guys, and when you need me, you can send Herschel out to find the _Gnat_ with a message tied to his fuckin' leg."
 
 "Umm. Why would we use a pigeon instead of, say, the radio?"
 
-"Well, I realized that with the modifications I was making to the engine, the _Gnat_ is now so loud inside that I can't hear the radio while the diesel is running. I needed another way to communicate with you guys, and Herschel seemed perfect. Messages by pigeon are also more secure than radio."
+"Well, I realized that with the modifications I was making to the engine, the _Gnat_ is now so loud inside that I can't hear the radio while the diesel is running. I needed another way to communicate with you guys, and Herschel seemed perfect. Messages by pigeon are also more fuckin' secure than radio."
 
 "A pigeon..." said Percy. "Seems fuckin' ridiculous to me."
 
@@ -831,11 +831,11 @@ Percy lit a cheroot. "Shit," she said, "if they know we've got what-could-be-con
 
 Percy rolled her eyes. "Whatever. Don't ever say I'm a captain who isn't willing to give new technology a fucking try. We'll take the pigeon aboard as our eighth crew member on a trial basis. Captain Shakes: how about a meal?"
 
-"Sounds good. But I need to take a shit first. Where's the head on this boat?"
+"Sounds good. But I need to take a shit first. Where's the fuckin' head on this boat?"
 
 "You haven't used the _Prospect_'s head yet?"
 
-"Naw. I prefer to waft my bum in the fortifying fresh air of the surface, if that's an option. But seeing as we're under right now..."
+"Naw. I prefer to waft my bum in the fortifying fresh fuckin' air of the surface, if that's an option. But seeing as we're under right now..."
 
 "It's on the middle deck, aft of the crew quarters. Be careful. Make sure you read all the instructions. It's fucking complicated."
 
@@ -850,6 +850,8 @@ Percy decided to assume he was joking.
 
 Percy called Gregory down from the control room and sent Owen up to relieve him. Shakes soon joined them in the galley and scrubbed his grimy hands with salt-water soap and water from the sink's sea-water tap. 
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 Gregory fired up the cooking range and soon had canned salmon simmering in a slightly sweet dark sauce with bits of ginger in it. He put a big pot of rice on to steam.
 
 "That smells fuckin' astonishing, Gregory," Shakes said. "I eat that canned salmon all the time when I'm on the _Gnat_ --- usually just cold and straight from the can, though."
