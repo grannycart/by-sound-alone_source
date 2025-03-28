@@ -854,7 +854,7 @@ Percy called Gregory down from the control room and sent Owen up to relieve him.
  
 Gregory fired up the cooking range and soon had canned salmon simmering in a slightly sweet dark sauce with bits of ginger in it. He put a big pot of rice on to steam.
 
-"That smells fuckin' astonishing, Gregory," Shakes said. "I eat that canned salmon all the time when I'm on the _Gnat_ --- usually just cold and straight from the can, though."
+"That smells fuckin' astonishin', Gregory," Shakes said. "I eat that canned salmon all the time when I'm on the _Gnat_ --- usually just cold and straight from the can, though."
 
 "That's...pretty fucking foul, Captain Shakes," said Gregory from the range, stirring his bits of fish around.
 
@@ -874,7 +874,7 @@ Hemi chuckled. "If you want to know the real reason, it is because the salmon ca
 
 In another twenty minutes or so Gregory had steaming piles of rice on their plates smothered in bits of fish and ginger. He stir-fried a couple of boxes of frozen spinach and scooped them onto their plates to supplement the black and white mush with some dark green.
 
-Percy called the rest of the crew in to eat in rotations that always kept one person in the control room and another listening to sonar. Shakes, as usual, ate twice again as much as anyone else. 
+Percy called the rest of the crew in to eat in staggered shifts that always kept one person in the control room and another listening to sonar. Shakes, as usual, ate twice again as much as anyone else. 
 
 "Sweet fuck," he said, "if you keep feeding me food I want to eat instead of forcing myself to eat cold shit from cans, I'm going to get fucking fat." He reclined in his chair, unbuckled his belt, and closed his eyes.
 
@@ -884,7 +884,7 @@ Shakes waved his hand in Gregory's direction lazily without opening his eyes.
 
 "Shakes, when you regain yourself from your crapulence," said Hemi, "join me at the navigation station. I want to make sure you understand our plan for this run."
 
-Shakes nodded sleepily as Hemi and Percy headed up to the navigation and sonar compartment.
+Shakes nodded sleepily as Hemi and Percy left in direction of the navigation and sonar compartment.
 
 "It's probably time for more coffee," said Gregory, reaching for the pot where the dregs of the previous batch slowly embalmed a permanent black-brown stain on the bottom.
 
@@ -900,7 +900,7 @@ Shakes joined Hemi and Percy at the navigation table a short while later, somewh
 
 Shakes nodded.
 
-Percy placed a steel straight-edge dappled with rust patches down on the chart, which showed their proposed course in a hashed line of grease-pencil marks. "Barring any unforeseen distractions, this is our planned course. We will be heading into an area that a number of Territorial Authorities claim control over."
+Percy placed a rust-dappled straight-edge down on the chart which showed their proposed course drawn in a hashed line of grease-pencil marks. "Barring any unforeseen distractions, this is our planned course. We will be moving into an area that a number of Territorial Authorities claim control over."
 
 Shakes reached into his denim vest and withdrew a small pencil and a notebook covered with black and smudged fingerprints. He began to scratch down notes in a fast, unreadable scribble.
 
@@ -924,13 +924,13 @@ Percy waved him off. "We estimate it will take three or four days and nights to 
 
 Shakes grinned at the thought of hot meals. "What happens if someone comes the fuck up on us in the night?"
 
-"Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive. I hate the delay getting the _Gnat_ disconnected will cause, but I'd hate to deprive you of your fuckin' precious hot meals."
+"Well, we'll emergency dive to periscope depth, drag you out of your bunk and throw you into your boat, and make sure the _Gnat_ is off before we do a further evasive deep dive. I hate the delay getting the _Gnat_ disconnected will cause, but I'd hate to deprive you of your fuckin' precious hot food."
 
 Shakes grinned. "No fucking doubt! Just don't panic in the heat of the moment and forget that if you dive too deep with the _Gnat_ attached, I'll have a bunch of wet scrap metal instead of a boat hanging off the bottom of this rusting fat cigar." He scribbled a few notes. "What about the _Grackle_ and those fuckin' guys who were after you? What if they are still following you?"
 
 "I figure since we're well into another Authority's territory now, it's unlikely they are still coming after us. It's one thing to raid a depot just on the other side of an Authority line. It's another to pursue an unarmed cargo sub across the middle of another Authority's area of control. Having said that, did you get any sense while you were at the depot that they knew our destination?"
 
-"I have no idea," said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to see any of that."
+"I have no fuckin' idea," said Shakes. "It entirely depends on who they talked to while they were up on the exchange level. I didn't get to see any of that."
 
 Percy nodded.
 
@@ -944,7 +944,7 @@ Percy nodded.
 
 Shakes gave a fake salute and went rearward toward the galley to take a refill of coffee with him. He then climbed downward to the deepest part of the _Prospect_, and then even lower to get back aboard the _Gnat_. 
 
-With the _Gnat_ off and surfaced, the _Prospect_ dove down to one hundred meters. Percy was more comfortable with a heavier cover of ocean above her.
+With the _Gnat_ off and surfaced, the _Prospect_ dove down to one hundred meters. Percy felt more comfortable as soon as she had a heavier cover of ocean above her.
 
 [//]: # (----- invisible character break)
  
@@ -953,13 +953,13 @@ With the _Gnat_ off and surfaced, the _Prospect_ dove down to one hundred meters
 
 The rest of the day went as planned. The _Prospect_ moved slowly and silently through the deep, while the _Gnat_ ran just at the surface, its diesel emitting a long brown shit-string of exhaust into the clear ocean air. Shakes had to keep the throttle back on the _Gnat_ to keep pace with the much slower _Prospect_. At that slower speed, the _Gnat_ was not obtrusively loud, about the same as an average surface cargo ship. That was to their benefit because Authority enforcement craft were less likely to pursue a target that sounded like a cargo ship --- at least during the day --- since anything on the surface was likely to be moving with the full blessing of the Authority.
 
-Shakes shut down the _Gnat_'s diesel once every hour or so and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky, and the two boats droned their way across the curve of the globe. The only thing that changed with the passing time was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun swell up all orange and bloated as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
+Shakes shut down the _Gnat_'s diesel once every hour or so and checked in over the ship-to-ship. He had nothing to report but clear weather, modest swells, and open ocean. A white ball of sun pushed its way slowly across a flat white sky, and the two boats droned their way across the curve of the globe. The only thing that changed with the passing time was the sun's slow fall to the horizon. Shakes had the hatch of the _Gnat_ open and he watched the sun bloat up until it was all orange as it bounced on the perfectly flat table-top off in the west, like it was going to expel a flatulent burst of world-ending fire over the surface of the planet before it was snuffed out by the force of night pressing down on it.
 
 [//]: # (night 2, run to Stilt City)
 
 The dark spread slowly from behind, catching up to and overtaking the _Gnat_. When it did, Percy raised the _Prospect_ to the surface and began night crew rotations, with someone always on the radar and someone always in the lookout ring. A filet knife of a moon came up behind a thick, oppressive haze, its sharp points dulled as if they had been poked one too many times through a heavy fabric or leather. 
 
-Shakes ran the _Gnat_ off at some distance for the first half of the night, and then dove and brought it under to mate with the _Prospect_. This dramatically slowed the _Prospect_'s speed, but Percy figured this was worth the trade-off of keeping Shakes alert and relatively sane during the day by giving him a chance to sleep while they kept moving. He came on board and ate a couple of large bowls of a hot brown soup Gregory had left simmering on the range, accompanied by thick slices of a stale and grainy bread which Shakes would cover in butter and soak in the soup until each bite softened. He slept for a few hours in one of the _Prospect_'s padded racks. As the sky lightened in the east, Percy woke him and told him it was time to get the _Gnat_ off.
+Shakes ran the _Gnat_ off at some distance for the first half of the night, and then dove and brought it under to mate with the _Prospect_. This dramatically slowed the _Prospect_'s speed, but Percy figured this was worth the trade-off of keeping Shakes alert and relatively sane during the day by giving him a chance to sleep while they kept moving. He came on board and ate a couple of large bowls of a hot watery-brown soup Gregory had left simmering on the range, accompanied by thick slices of a stale and grainy black bread which Shakes would cover in butter and soak in the soup until each bite softened. He slept for a few hours in one of the _Prospect_'s padded racks. As the sky lightened in the east, Percy woke him and told him it was time to get the _Gnat_ off.
 
 [//]: # (----- invisible character break)
  
@@ -977,7 +977,7 @@ Hemi poked a thick finger between the bars and rubbed Herschel's head gently. "C
 
 "Is this cage not too small for him?"
 
-"That's just his travel cage. I have a nice comfy roost installed for him down in the _Gnat_. You don't want him to forget where his home is, otherwise he won't return there when you release him."
+"That's just his travel cage. I have a nice comfy roost installed for him down in the _Gnat_. You don't want him to forget where his home is, otherwise he won't want ta fuckin' return there when you release 'im."
 
 "Can I let him out of this cage?"
 

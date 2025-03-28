@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-24 19:10
+Last modified: 2025-03-27 21:29
 
 
 # Third round edits
@@ -82,7 +82,7 @@ Edits to pick up in third full pass through the book (early, 2025)
     * [ ] The language and the characters' movement can be streamlined, easing the flow of the story and speeding things along.
 * [ ] From Becci:
     * [ ] The biggest thing I'd like to see is some more reaction to Hershel when he first joins the Prospect. I kept wondering why no one was affected by a pigeon flapping around the ship. I think at minimum you could move the bit about him taking up residence in the galley to an earlier part. Though I'd also like a bit more, eg who loves him and develops a relationship vs who is just annoyed.
-        * I made a half-assed attempt to address this: chapter for line ~935 -- 2023-12-30 13:30
+        * I made a half-assed attempt to address this: chapter 4 line ~943 -- 2023-12-30 13:30
     * [ ] I also felt like there could be a little more reaction to the loss of Owen and departure of Chips...  what does Cassandra think about all that?
 * [ ] When finished with third pass: do a par formatting on all md files? Ideally, the md would be very legible for reading.
 
