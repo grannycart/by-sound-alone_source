@@ -850,8 +850,6 @@ Percy decided to assume he was joking.
 
 Percy called Gregory down from the control room and sent Owen up to relieve him. Shakes soon joined them in the galley and scrubbed his grimy hands with salt-water soap and water from the sink's sea-water tap. 
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 Gregory fired up the cooking range and soon had canned salmon simmering in a slightly sweet dark sauce with bits of ginger in it. He put a big pot of rice on to steam.
 
 "That smells fuckin' astonishin', Gregory," Shakes said. "I eat that canned salmon all the time when I'm on the _Gnat_ --- usually just cold and straight from the can, though."

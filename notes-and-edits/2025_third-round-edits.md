@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-27 21:29
+Last modified: 2025-03-28 21:30
 
 
 # Third round edits
@@ -8,14 +8,14 @@ Edits to pick up in third full pass through the book (early, 2025)
 * [ ] do a find-and-replace on s's and s' for Chips' and Shakes'. Decide which you want to use and stick to it.
     * Looks like Julia suggested s's for shakes's and chips's, ...so I guess I need to do that for every chap:
         * use: :%s/s'\ /s's\ /gc
-        * [X] 1_Chapter.md  [X] 2_Chapter.md  [X] 3_Chapter.md  [X] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
+        * [X] 1_Chapter.md  [X] 2_Chapter.md  [X] 3_Chapter.md  [X] 4_Chapter.md  [X] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
 * [ ] Should _all_ transmissions over ship-to-ship be in italics?
     * I did this for the depot mini-sub transmitting to the Prospect for the first time. But I think it's a nice effect.
     * Then I should also italicize everything that comes over the PA...
     * tough to check on everything though, it's not as simple as just searching, though for chap 2 I did try to cover it by searching for:
         * /ship-to/ and /PA/ and /radio/
     * And (here's the style call): it has to be *italicize* with astericks because boat names are sometimes in those dialog bits with underscores. Style-wise, the italics will also include the quotes for these radio transmissions
-        * [X] 1_Chapter.md  [X] 2_Chapter.md  [X] 3_Chapter.md  [X] 4_Chapter.md  [ ] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
+        * [X] 1_Chapter.md  [X] 2_Chapter.md  [X] 3_Chapter.md  [X] 4_Chapter.md  [X] 5_Chapter.md  [ ] 6_Chapter.md  [ ] 7_Chapter.md  [ ] one_diagrams.md [ ]  two_preface.md  [ ] what-to-do-if-you-enjoyed-the-book.md
 * [X] Make it clear in the first chapter that the ramming does most damage to the _ballast_ tank on the rammed side, and only slightly damages the pressure hull
     * [X] It needs some more clarification on this to be very accurate. The book does say the ballast blow pipes are pinched shut, and they can't refill the tanks with air.
     * [X] But it also needs to make clear that the ballast tanks took most of the brunt of the ramming
