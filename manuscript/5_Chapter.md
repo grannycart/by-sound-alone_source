@@ -591,10 +591,8 @@ Bastian knew better than to ask, but Gregory did not. "What's our plan, Captain?
 
 "Fuck, Gregory! Let me think." She stared at the depth gauge, unblinking.
 
-Bastian opened a valve on the tank trim control panel slightly further to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out toward the palm-sized control wheel.
+Bastian opened a valve on the tank trim control panel slightly farther to make a minor adjustment to the level of the boat. Percy noticed his hand shaking as he reached out toward the palm-sized control wheel.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 Percy placed a cheroot between her lips and lit it. "Do not make any moves." she said to Gregory and Bastian. She slowly climbed down the ladder to the sonar compartment. Halfway down, another ping from the _Grackle_ bounced off the _Prospect_'s hull and rang in the crew's ears.
 
 "They are 734 meters behind us, rear port quarter; 150 meters deep," Hemi told Percy, reading off the ranging equipment. "Do you think they will fire another torpedo?"
@@ -635,7 +633,7 @@ Hemi looked grim.
 
 "We need to get something between us and those fuckers up there, whether it's Shakes, other Authority craft, or some feature of the seascape. I just need something to hide my boat," said Percy, wracking her mind for options. "Gregory! Give us three knots."
 
-The soft hum of the electric motors rose up through the silence.
+The soft hum of the electric motors rose through the silence.
 
 "Hemi, can you stay on sonar?" Percy jerked a thumb towards Cassandra. "Let the kid get in the rack for a few hours."
 
@@ -649,47 +647,49 @@ The ping prompted Gregory to speak up again. "Captain Percy, don't you think we 
 
 "The best-case scenario if we can convince them not to shoot is we have to let them aboard for an inspection," said Percy. "We aren't going to pass any inspections with our current cargo. And something tells me those guys aren't going to be open to a bribe either..." She trailed off. "Besides, they are out of ship-to-ship range now --- probably trying to keep enough distance to fire a torpedo at us if we come back up above two hundred meters.
 
-They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along under 230 meters of water --- beyond the depth at which it was designed to operate. The _Grackle_ stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motors it did not take long for their fears to subside, to be replaced with sleepy routine.
+They settled into an extremely low-speed chase. The _Prospect_ quietly hummed along under 230 meters of water --- beyond the depth at which it was designed to operate. The _Grackle_ stayed closer to the surface but maintained the same distance behind them. The night was dragging on. With the glow of the red lights and the pervading and unchanging hum from the electric motors it did not take long for their fears to subside, replaced with sleepy routine.
 
 But every fifteen minutes, like a grating and persistent alarm, another reverberating ping broke through the silence. Each ping was always followed immediately after by Hemi's report from the sonar compartment that the pursuing submarine was maintaining nearly the exact same distance behind them. This he could, and did, tell Percy with great precision.
 
 Each new ping reset their anxiety. The eyes of the men at the controls would tear up and their hands would start shaking. The only relief was the passing of time, but that led inevitably towards the next alarm-ringing ping, and the cycle would start all over again.
+
+[//]: # (----- invisible character break)
+ 
 
 [//]: # (middle of night: night 3, run to Stilt City)
 And the cycle repeated itself without change for hours. The storm continued to spin above them, and their ears rang from the pings and from the silence between them. 
 
 Cassandra showed back up in the sonar compartment, unable to sleep for the pings, and offered to sit at the sonar station again. When Hemi climbed into the control room, Percy had him relieve Gregory at the throttle controls and sent Gregory to make them a late dinner.
 
-[//]: # (----- invisible character break)
- 
-
 [//]: # (### late dinner; some more speculation as the reason behind their pursuers)
 
 Half an hour later, Gregory's voice came over the PA saying food was ready. Percy suggested Bastian and Cassandra should eat first, but Cassandra preferred to stay at sonar. Bastian offered to bring a bowl of food up to her and sit at the sub controls while he ate. He was back from the galley in a matter of minutes with heaping bowls of steaming food for Cassandra and himself.
 
-Percy held Bastian's bowl of food while he climbed the ladder to the control room. She realized how hungry she was as the smell wafted up to her nostrils.
+Percy held Bastian's bowl of food while he climbed the ladder to the control room. She realized how hungry she was as the smell wafted up to her.
 
 "Bastian, sit at the planes controls and keep her at this depth and going the way we're going. If anything fucking changes, I'll be in the galley. Hemi, want to join me for food? Maybe we can come up with some kind of plan."
 
 "I am certainly ready to eat," said Hemi. 
 
-Dinner was a white mush of crushed-up hard biscuit mixed with water and fried with butter. Gregory had stirred in bits of dried salted meat and was making a pan of scrambled eggs to accompany the mush with at least a little nutrition. He kept making more eggs --- in small batches, so at least they would be hot for the crew coming to eat.
+Dinner was a white mush of crushed-up hard biscuit mixed with water and fried with butter. Gregory had stirred in bits of dried salted meat and was making a pan of scrambled eggs to accompany the mush with at least a little actual nutrition. He kept making more eggs --- in small batches, so they would be hot for the crew coming to eat.
 
 Hemi and Percy loaded up bowls of the hot glop --- Hemi with twice as much as Percy --- and, with two tin cups of coffee, sat down at the galley table. They ate in silence for a few minutes.
 
 Hemi had let Herschel out of his cage as soon as the bird had come aboard, and Herschel had made his primary home in the _Prospect_'s galley, claiming any crumbs that made it to the deck. He wandered among their feet as they ate.
 
+"Not so sure it's the most fuckin' sanitary thing in the world, that bird taking up residence in the galley," said Gregory, watching a bit of biscuit escape a plate to the deck directly in front of Herschel.
+
 Another ping rang through the boat.
 
 "Fuck!" said Percy.
 
-"Hmm," said Hemi. "I am extremely curious as to why this particular boat is so persistent in pursuing us. Authorities often aggressively patrol their own waters, but the tension between them means they do not cross each other's lines. Almost always the reason any Authority craft might follow us over a long distance is simply because they have claimed new territory from another Authority, and we did not know it. In this case...I am fairly certain they have chased us from one Authority territory into another, yet they continue on."
+"Hmm," said Hemi. "I am extremely curious as to why this particular boat is so persistent in pursuing us. Authorities often aggressively patrol their own waters, but the tension between them means they do not cross each other's lines. An Authority craft following us over a surprisingly long distance would normally mean they have claimed new territory from another Authority, and we were not aware of it. In this case...I am fairly certain they have chased us from one Authority territory into another, yet they continue on."
 
 "And it looks like they have every fucking intention of pursuing us into a third..."
 
 "Do you think it is because they want to take this cargo we are hauling? Perhaps it is a strategic move for them: if we deliver, it undermines their position with another Authority somehow."
 
-"No, I think it more likely that it is along the lines of something Miss Mai said to me: it's possible someone put us on the prize list for privateers. And the Commander of the _Grackle_ --- with a privateer's warrant from some powerful Authority in his fist --- believes he is empowered to pursue us as a prize regardless of Authority borders."
+"I'm thinking it is more along the lines of something Miss Mai said to me: possibly someone put us on the prize list for privateers. And the Commander of the _Grackle_ --- with a privateer's warrant from some powerful Authority in his fist --- believes he is empowered to pursue us as a prize regardless of Authority borders."
 
 "But surely whatever the warrant may _say_, other Authorities are not going to respect the rights of privateers to hunt us in their waters... Seems like the _Grackle_ is taking an awfully large risk."
 
@@ -711,8 +711,10 @@ With a brief, noisy flutter of wings, Herschel flapped his way to the tabletop. 
 
 [//]: # (### Chips comes in to tell them the bilge pump is broken)
 
-Chips appeared in the hatchway to the galley. She caught Hemi's eye and ignored Percy. "Hemi, the fucking welds along the fucking crack in the cargo hold are weeping pretty fucking aggressively."
+Chips appeared in the hatchway to the galley. She gave Herschel a puzzled look, but had to move on to the business at hand. She caught Hemi's eye and ignored Percy. "Hemi, the fucking welds along the fucking crack in the cargo hold are weeping pretty fucking aggressively."
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 Percy's eyes followed Herschel.
 
 "I am not surprised," Hemi replied. "Running this deep is putting a lot more pressure on the hull, so I would expect more water coming in. Those welds were never going to be perfect. How bad is it?"
