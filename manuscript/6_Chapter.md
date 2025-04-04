@@ -419,7 +419,7 @@ With a last-second hope that he was in fact charging the _Grackle_, and not some
 
 He sucked in a deep breath, and from his diaphragm put all he could into his battle cry: "Ramming speed!" He stuck the cigarette back between his lips. Staring intently out the viewport and with his mouth half-closed, he said, "I always wanted to fucking say that."
 
-The electric motor whined with a pitch that pierced right to the center of Shakes' head. With its last burst of speed, the bow of the _Gnat_ smashed into the looming black underwater wall.
+The electric motor whined with a pitch that pierced right to the center of Shakes's head. With its last burst of speed, the bow of the _Gnat_ smashed into the looming black underwater wall.
 
 [//]: # (----- invisible character break)
  
@@ -428,7 +428,7 @@ From the sail of the _Prospect_, Percy had watched the _Gnat_ back behind her bo
 
 "Fuck!" Percy called down to the control room. "Hemi, Shakes just drove the _Gnat_ into our fuckin' pursuers! See if you can get him on ship-to-ship." 
 
-But she did not have to wait for Hemi's report. The _Gnat_ rose to the surface out in the channel, its bow heavily dented, but clearly still afloat. A moment later from the top of the sail came Shakes' familiar spiky-haired form waving to the _Prospect_.
+But she did not have to wait for Hemi's report. The _Gnat_ rose to the surface out in the channel, its bow heavily dented, but clearly still afloat. A moment later from the top of the sail came Shakes's familiar spiky-haired form waving to the _Prospect_.
 
 [//]: # (### Running back to the main channel in pursuit)
 
@@ -462,7 +462,7 @@ With the _Prospect_ successfully underway, Hemi climbed up to the bridge to cons
 
 [//]: # (Shakes is still running on battery here, so he has no problem hearing Hemi.)
 
-"Alright," said Hemi again, and climbed over the fairing of the sail and down to the deck. Percy watched him shout for Shakes' attention, and when Shakes heard him, he pulled the _Gnat_ alongside the _Prospect_ and he and Hemi ironed out the details of the plan by yelling across the gap between the two boats. When he was done, Hemi climbed up to the sail and back down into the control room.
+"Alright," said Hemi again, and climbed over the fairing of the sail and down to the deck. Percy watched him shout for Shakes's attention, and when Shakes heard him, he pulled the _Gnat_ alongside the _Prospect_ and he and Hemi ironed out the details of the plan by yelling across the gap between the two boats. When he was done, Hemi climbed up to the sail and back down into the control room.
 
 "How much further do we have to go to the shortcut?" Percy asked Sir Piero.
 
@@ -474,7 +474,7 @@ A few minutes later Sir Piero called down to Bastian to slow the _Prospect_ to f
 
 She nodded. "None too fucking soon," she said with another glance behind. Still there was no pursuing sub. She put two fingers in her mouth and let out a loud, short whistle that rose in pitch. Shakes looked up at her from the sail of the _Gnat_ following behind the _Prospect_. She waved to him and pointed to the wider channel. He waved back to show he understood, cigarette in hand.
 
-As Sir Piero brought the _Prospect_ into the narrow way of the shortcut, Percy could hear the cough and sputter of the _Gnat_'s diesel starting even above the significant rumble of the _Prospect_'s own engines. As Sir Piero began his careful navigation of the shortcut pass, Percy kept looking back to make sure the _Grackle_ had not come into sight.  Carbonous black soot shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes' head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
+As Sir Piero brought the _Prospect_ into the narrow way of the shortcut, Percy could hear the cough and sputter of the _Gnat_'s diesel starting even above the significant rumble of the _Prospect_'s own engines. As Sir Piero began his careful navigation of the shortcut pass, Percy kept looking back to make sure the _Grackle_ had not come into sight.  Carbonous black soot shot up in a long stream from the _Gnat_ as if the small boat were aflame. Shakes's head disappeared for a few seconds from the sail as he went below to connect the diesel engine to the prop drive. A moment later he reappeared and put the engine in gear. The _Gnat_ cruised quickly and noisily off up the channel.
 
 [//]: # (### The pursuing sub after the Prospect in the shortcut)
 
