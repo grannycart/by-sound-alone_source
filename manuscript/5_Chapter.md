@@ -890,8 +890,6 @@ The gaps between the pings started coming in an irregular pattern, every few sec
 
 "Percy," Hemi called up to the control room as the latest ping showed their pursuers at nearly five nautical miles away. "It looks like they are at the apogee of their search arc. Now might be a good time to move."
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 [//]: # (### They run under the scattering layer)
 
 "Thanks, Hemi. Keep plotting them. Can you also give me a random course in some direction away from them? True fuckin' random, if you can."
@@ -906,7 +904,7 @@ Bastian shifted the throttle slightly forward and the speed needle raised slowly
 
 Gregory gave a gentle nudge to the bow plane control wheel so the boat would come up just a hair with the new forward momentum on it.
 
-They cruised slowly and silently away from the spot where they had crossed the deep scattering layer. The pings from the sub with the ram quickly became more and more faint, though they could still hear them bouncing softly off the _Prospect_ long after Cassandra reported that she could not hear the _Grackle_'s motors any more.
+They cruised slowly and silently away from the spot where they had crossed the deep scattering layer. The pings from the sub with the ram quickly became more faint, though they could still hear them bouncing softly off the _Prospect_ long after Cassandra reported that she could not hear the _Grackle_'s motors any more.
 
 Percy stood directly behind Gregory, carefully double-checking his every move to make sure they did not accidentally sink below the boat's crush depth. After an hour, she personally relieved Gregory in the dive plane control seat and sent him to his rack for a break.
 
@@ -921,7 +919,7 @@ When Gregory came back from his break, Percy stepped down the ladder to the sona
 
 "The next challenge we face," said Hemi as she stepped up to the lighted chart, "is how long the batteries will last."
 
-"Don't think for a second that isn't front of my mind," said Percy. "Coupla hours left, at best. Then we have to surface. And it's fucking daylight now --- barring another storm, we'll be bright targets --- both visual _and_ radar --- for those fuckers with the ram. They'll be back on us before we can get the ballast tanks fully emptied."
+"Don't think for a second that isn't front of my fuckin' mind," said Percy. "Coupla hours left, at best. Then we have to surface. And it's fucking daylight now --- barring another storm, we'll be bright targets --- both visual _and_ radar --- for those fuckers with the ram. They'll be back on us before we can get the ballast tanks fully emptied."
 
 "We could wait it out until nightfall without moving. We have enough power to keep the lights on at least."
 
@@ -931,7 +929,7 @@ When Gregory came back from his break, Percy stepped down the ladder to the sona
 
 "That maneuver depended far too much on luck and a dangerous roll of the dice, Hemi. Luck and gambling is no way to run a submarine. The odds are never in our favor. What I want is a fucking plan that is reliable and executable." She paused, feeling tired. "Fuck me," said Percy. "I'm going to lay down for a minute. Run the batteries down and get me when we have only emergency reserves left."
 
-Percy climbed down a deck and disappeared forward into the Captain's cabin. She was out almost as soon as she fell into her rack. The ability to fall asleep instantly was a talent she had gained from long years of working with short sleep on subs.
+Percy climbed down a deck and disappeared forward into the captain's cabin. She was out almost as soon as she fell into her rack. The ability to fall asleep instantly was a talent she had gained from long years of working with short sleep on subs.
 
 [//]: # (----- invisible character break)
  
@@ -945,15 +943,15 @@ Not wanting to waste battery power driving up to the surface, they opened the hi
 
 Hemi smiled. "Makes sense --- it was likely a big warm wall of air pushing that storm, and now all that hot air is sitting on the surface of the cold ocean, turning into cloud."
 
-"Alright! So much for needing a fucking plan! Start up the low-pressure compressors, and put us on the surface."
+"Alright! So much for needing a fucking plan! Start up the low-pressure compressors, and bring us up to sail-out. Keep our radar signature minimal."
 
-Hemi flipped switches on the ballast control panel and the buzz of compressors vibrated up from far below deck. The _Prospect_ rose in place until the deck of the boat pushed through the tightly-bound tension of the surface, and water washed off and over the curved sides.
+Hemi flipped switches on the ballast control panel and the buzz of compressors vibrated up from far below deck. The _Prospect_ rose in slowly place until the sail of the boat pushed through the tightly-bound tension of the surface, and water washed off and down the sides.
 
-Hemi opened the hatch of the control room and climbed up to the bridge, followed closely behind by Percy. The air on the bridge was warm and wet. It sat on the surface of the water without moving, and left droplets forming rapidly on the wooly fabric of Hemi and Percy's clothes. The fog was the color of purgatory, lit from somewhere far off above to a flat dim nothingness. At some moments it was so thick they could not see beyond the top of the sail, and at others it pushed back just enough to see down to the bow.
+Hemi opened the hatch of the control room and climbed up to the bridge, followed closely behind by Percy. The air on the bridge was warm and wet. It sat on the surface of the water without moving, and left droplets forming rapidly on the woolly fabric of Hemi and Percy's clothes. The fog was the color of purgatory, lit from somewhere far off above to a flat dim nothingness. At some moments it was so thick they could not see beyond the top of the sail, and at others it pushed back just enough to see down to where the bow cut under the water.
 
-A blinding fog was not a challenge for a submarine, though --- which spent much of its time moving sightlessly through the pits of the world anyway --- but a useful resource, transforming the surface into a similar dense covering medium as the deep ocean.
+A blinding fog was not a challenge for a submarine, though --- which spent much of its time moving sightless through the pits of the world anyway --- but a useful resource, transforming the surface into a similar dense covering medium as the deep ocean.
 
-Percy called down to Bastian to start the engines, push the boat up to its maximum surface speed of fifteen knots, and come around to a direct course for Stilt City. A moment later came the loud hiss and roll of the high-pressure air system turning over the diesel engines until they were firing on their own. The exhaust shutters lifted and let out a stream of black froth into the gray fog. A minute later Bastian engaged the motors and Percy felt a jolt as the _Prospect_ picked up speed.
+Percy called down to Bastian to start the engines, push the boat up to the best speed it could do partially submerged, and come around to a direct course for Stilt City. A moment later came the loud hiss and roll of the high-pressure air system turning over the diesel engines until they were firing on their own. The exhaust shutters lifted and let out a stream of black froth into the gray fog. A minute later Bastian engaged the motors and Percy felt a jolt as the _Prospect_ picked up speed.
 
 [//]: # (### They launch Herschel)
 
@@ -973,7 +971,7 @@ Percy called down to Bastian to start the engines, push the boat up to its maxim
 
 "If I thought that, I would not send Herschel out. The other thing I have heard about homing pigeons is they are capable of flying extraordinary distances. I am confident Herschel will eventually find some place to land. I am just not convinced we will ever see him again. Of course, I am not entirely convinced we will ever see Shakes again either."
 
-"OK, Hemi, if you think the bird will be alright, and there's a chance it will help us reconnect with Shakes, let's launch him."
+"OK, Hemi, if you think the bird will be alright, and there's at least a chance it will help us reconnect with Shakes, let's launch him."
 
 "What shall the message say?"
 

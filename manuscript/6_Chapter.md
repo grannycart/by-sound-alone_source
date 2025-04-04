@@ -27,6 +27,8 @@
 [//]: # (### Daytime running in the fog)
 
 [//]: # (~Midday: day 4, run to Stilt City)
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 They ran at full speed on the surface for the rest of the day. The fog held out, covering them with a varying but unbroken thickness for all the daylight hours. Percy put the crew on six-hour daytime rotations, despite the fact that they were moving on the surface, and they all finally managed to get some meaningful sleep. Down a crew member and with limited visibility due to the fog, Percy skipped posting a lookout. It was somewhat risky to charge ahead on the surface at full speed with no lookout, especially since the fog also played havoc with the radar. But the limitations of radar were also useful, since it would foul up anyone searching for them with radar as well. Percy kept either Cassandra or Hemi on sonar at all times, counting on them to hear another vessel above the sound of the _Prospect_'s diesels soon enough that they would be able to take action if necessary.
 
 Even with no official lookout posted in the ring, there was almost always someone on the bridge anyway. Since the crew were free to spend their off-hours on deck, most of them chose to while away at least part of it in the open air.

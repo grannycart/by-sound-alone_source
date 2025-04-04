@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-03-28 21:30
+Last modified: 2025-04-03 21:54
 
 
 # Third round edits
@@ -52,6 +52,7 @@ Edits to pick up in third full pass through the book (early, 2025)
         * Addressed this in response on Reddit, the WWII style hulls were faster on the surface
     * [ ] Fog doesn't do much to radar. 
         * This might be in the category of 1960s-era radar vs today's
+        * edited the text so they are aware of their radar risk
     * [ ] You say black diesel smoke a lot, thats ok when they start but did you mean they do that continuesly? Because if so those engines need to be tuned lol. 
         * This might be justified by simple stylistic choice to be "like a truck"
     * [X] "As the big diesels spun their turbines" this sencence confuses me you have a tubine on board? do you mean the turbocharger?
