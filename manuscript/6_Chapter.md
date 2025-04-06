@@ -27,51 +27,51 @@
 [//]: # (### Daytime running in the fog)
 
 [//]: # (~Midday: day 4, run to Stilt City)
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
-They ran at full speed on the surface for the rest of the day. The fog held out, covering them with a varying but unbroken thickness for all the daylight hours. Percy put the crew on six-hour daytime rotations, despite the fact that they were moving on the surface, and they all finally managed to get some meaningful sleep. Down a crew member and with limited visibility due to the fog, Percy skipped posting a lookout. It was somewhat risky to charge ahead on the surface at full speed with no lookout, especially since the fog also played havoc with the radar. But the limitations of radar were also useful, since it would foul up anyone searching for them with radar as well. Percy kept either Cassandra or Hemi on sonar at all times, counting on them to hear another vessel above the sound of the _Prospect_'s diesels soon enough that they would be able to take action if necessary.
+They ran at the best speed they could make at sail-out depth for the rest of the day. The fog held out, covering them with a varying but unbroken thickness for all the daylight hours. Percy put the crew on rest rotations, and they all finally managed to get some meaningful sleep. Down a crew member and with limited visibility due to the fog, Percy skipped posting a lookout. It was somewhat risky to charge ahead on the surface with no lookout and avoiding the use of radar for fear of giving themselves away. But Percy kept either Cassandra or Hemi on sonar at all times, counting on them to hear another vessel above the sound of the _Prospect_'s diesels soon enough that they would be able to take action if necessary.
 
-Even with no official lookout posted in the ring, there was almost always someone on the bridge anyway. Since the crew were free to spend their off-hours on deck, most of them chose to while away at least part of it in the open air.
+Even with no official lookout posted in the ring, there was almost always someone on the bridge anyway. Since most of the crew wanted to spend at least part of their off-hours in the open air.
 
 [//]: # (Early-evening: night 4, run to Stilt City)
-The fog lasted until dark, which was all they needed. The boat plunged into the settling darkness with the exhaust stacks streaking flames above. The fog gave way to the cooler air of night, and the _Prospect_ came out under a dome of stars. They cut their way across the surface of the planet and left behind a gash of white wake through the black water.
+The fog lasted until dark, which was all they needed. At this point, Percy decided the extra speed they would gain by fully surfacing was worth trading off for the additional radar exposure. She asked Hemi to blow some air into the ballast until the deck had fully cleared the surface. 
+
+The boat plunged into the settling darkness with the exhaust stacks streaking flames above. The fog gave way to the cooler air of night, and the _Prospect_ came out under a dome of stars. They cut their way across the surface of the planet and left behind a gash of white wake through the black water.
 
 [//]: # (### Hemi and Chips conversation about Owen)
 
-Hemi kept the chart accurate with their position, the dashed line straight and true and rapidly growing in the direction of the continental coast, where the chart was marred with the large black dot showing the location of Stilt City. Around nightfall they crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area contested by a number of different Authorities. With the fog lifted and a higher risk of Authority interference, Percy put them back on three-hour nighttime shifts and kept someone on lookout again.
+Hemi kept the chart accurate with their position, the dashed line straight and true and rapidly growing in the direction of the continental coast, where the chart was marred with the large black dot showing the location of Stilt City. Around nightfall they crossed out of the waters unquestionably controlled by the Consolidated States of the Archipelago Islands into the area contested by a number of different Authorities. With the fog lifted and a higher risk of Authority interference, Percy adjusted the rotations so she could always have someone in the lookout ring again.
 
 [//]: # (middle-night: night 4, run to Stilt City)
-Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn in the lookout ring. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived in the control room on her way to the bridge a few minutes later. She climbed upwards with binoculars in hand and without a word. 
+Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn outside. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived in the control room on her way to the bridge. She climbed upward with binoculars in hand and without a word. 
 
-It was the darkest part of the night, so Hemi appeared on the bridge a few minutes into her watch with his sextant, intending to take star sightings and get a solid fix on their course.
+When Hemi came due for a rest period on the middle of the night, he made his way to the bridge to get some air. On the bridge, he looked up at Chips, a shadow in the lookout ring framed by specks of stars above. 
 
-Hemi looked up at Chips from the bridge. "I was not entirely sure you would show for your lookout shift."
+"I was not entirely sure you would show for your lookout shift," said Hemi.
 
-"Have you ever known me to be anything but a fuckin' professional, Hemi? I may not be fucking happy about working on this fucking demon-driven boat, but I'm going to do the fuckin' job I was fuckin' hired to do until we hit the fuckin' dock."
+"Have you ever known me to be anything but a fuckin' professional? I may not be fucking happy about working on this fucking demon-driven boat, but I'm going to do the fuckin' job I was fuckin' hired to do until we hit the fuckin' dock."
 
 "And then what?"
 
-"As soon as this fuckin' bitch of a boat bumps, I'm stepping the fuck off. And not looking the fuck back. If you had any fuckin' sense you'd be fuckin' leaving with me. The whole fuckin' crew should be leaving with me. How many fuckin' times do I have to be fuckin' pushed right up to the fuckin' edge of the abyss for my job? How many fuckin' times do I have to look fuckin' death in his cold and ugly fuckin' face? How many times do I have to watch people I fuckin' care about fall off that abyss, Hemi?"
+"As soon as this fuckin' bitch of a boat bumps, I'm stepping the fuck off. And not looking the fuck back. If you had any fuckin' sense you'd be fuckin' leaving with me. The whole fuckin' crew should be leaving with me. How many fuckin' times do I have to be fuckin' pushed right up to the fuckin' edge of the abyss for my job? How many fuckin' times do I have to look fuckin' death in his cold and ugly fuckin' face? How many times do I have to watch people I fuckin' care about fall off, Hemi?"
 
-"What happened with Owen could not be helped, Chips. I was there. Sylvia had to make a tough choice without a clearly correct course of action, and she did. I regret what happened to Owen. I really do. But this job is dangerous, he knew that."
+"What happened with Owen could not be helped, Chips. I was there. Sylvia had to make a tough choice without a clearly correct course of action, and she did. I regret what happened to Owen. I really do. But this job is dangerous, we know that. He knew that."
 
-"Don't you fuckin' defend her with your fuckin' burden-of-command bullshit Hemi. This isn't a fuckin' war boat, it's a commercial fuckin' cargo sub. She had plenty of fuckin' choices that could have ended with Owen alive. I'm all for moving cargo under the fuckin' attention of Authorities, but not at the fuckin' cost of people's lives!
+"Don't you fuckin' defend her with fuckin' burden-of-command bullshit excuses Hemi. This isn't a fuckin' war boat, it's a goddamn commercial operation. It's not life-or-death, it's just fuckin' money. She had plenty of choices that could have ended with Owen alive. I'm all for moving cargo under the fuckin' attention of Authorities, but not at the fuckin' cost of people's lives!
 
 "She could have turned this fuckin' boat over to them. It's not like they would fuckin' execute us. We'd just be fucked back to land for a while. Eventually we could go the fuck back out on some other fuckin' boat --- no fuckin' shortage of need for skilled submariners. There was no fuckin' reason for anyone to die!"
 
 "They fired at us first, Chips. Owen was probably hit in the first barrage."
 
-"But he wasn't fuckin' dead, was he, Hemi? He was not fuckin' dead. And she fuckin' knew it --- we _all_ knew it Hemi. And as soon as we knew it, we should have aborted the fuckin' dive and saved fuckin' Owen!"
+"But he wasn't fuckin' dead, was he, Hemi? He was not. fucking. dead. And she fuckin' knew it --- we _all_ knew it Hemi. And as soon as we knew it, we should have aborted the fuckin' dive and saved the man!"
 
-"You know she could never turn over this boat like that."
+"You know she could never turn this boat over like that."
 
-"_That_ is why that's the fuckin' _hard_ call Hemi. That's the actual fucking burden of command." Chips was breathing hard through her nostrils, barely able to keep the binoculars raised, and repeatedly interrupting her scanning arc of the horizon and beginning again. "You're guilty too, Hemi Howell. Don't fuckin' think this is all on fuckin' Percy. You could have easily aborted the dive."
+"_That_ is why that's the fuckin' _hard_ call Hemi. That's the actual fucking burden of command." Hemi could hear Chips breathing hard through her nostrils. "You're guilty too, Hemi Howell. Don't fuckin' think this is all on fuckin' Percy. You could have easily aborted the dive."
 
 Hemi looked off at the ocean. "But I did not. I made the decision I did in the moment. Aborting the dive did not even occur to me. I did what I was supposed to do as deck boss."
 
 "And that right fuckin' there is why I'm leaving this fuckin' boat. I respect you, Hemi, and I like workin' with you. But this boat is hers, from fuckin' bridge to fuckin' keel, and she's a fuckin' stubborn piece of fuckin' dried shit the odor of which is foulin' the fuckin' air of my whole fucking life right now. Yours, too...fuck."
 
-Hemi looked through the sextant and adjusted it with slow, smooth motions, watching the bright star in the finder fall from the sky to meet the rising black pool of the horizon line. He noted their position on his clipboard and climbed silently down off the bridge.
+Hemi suddenly felt exhaustion lowering onto his big frame. He watched the stars above and the darkness in front of him for a few more minutes, and then made his way below, heading toward his rack.
 
 [//]: # (----- invisible character break)
  
@@ -79,8 +79,10 @@ Hemi looked through the sextant and adjusted it with slow, smooth motions, watch
 [//]: # (### They enter Stilt City)
 
 [//]: # (day: day 5, run to Stilt City)
-They continued to run at high speed on the surface for the rest of the night. At dawn the _Prospect_ dove, and they moved slowly under the remaining contested territory, tracing the gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led in the last twenty years to the rapid growth of what had come to be known worldwide as Stilt City. This policing was also the root cause of the heavy contesting of the waters farther out from the Collective's control.
+They continued to run at high speed on the surface for the rest of the night. Just before dawn, Hemi rose and took a sighting with the sextant. Then the _Prospect_ dove, and they moved slowly under the remaining contested territory, tracing the gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led in the last twenty years to the rapid growth of what had come to be known worldwide as Stilt City. This policing was also the root cause of the heavy contesting of the waters farther out from the Collective's control.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
 
 They passed a number of Collective enforcement ships holding station in an array around the protected waters as cargo vessels made the run into the city. But, as was customary, those ships did not interfere with anyone who was not interfering with another ship. They were there to stop other Authorities from delaying or preventing cargo from moving into or out of their port. The policy here was that policing the contents of cargo boats was a matter for the Authority forces on land.

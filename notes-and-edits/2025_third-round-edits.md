@@ -1,5 +1,5 @@
 2025_third-round-edits.md
-Last modified: 2025-04-04 19:32
+Last modified: 2025-04-06 10:47
 
 
 # Third round edits
@@ -44,7 +44,8 @@ Edits to pick up in third full pass through the book (early, 2025)
             * Changed this minor reference to "before morning"
         * Around this line, 541 of chap 4: "Overhead the clouds had blown off leaving a clear night sky with no moon. Hemi often remarked that it occurred far more often than seemed statistically probable that the Prospect surfaced and he came out on deck to find a low, blanketing cloud cover. He could hardly recall the last time they surfaced to a clear sky, and his deeply rational self was challenged by the sense that being on the open surface was in fact nature’s opportunity to oppress them. He had begun to prefer being submerged, where instead they had control over the pressure and depth of the atmospheres laying upon them."
             * Fixed this by making the sighting done at just before dawn.
-		* There's another reference in the first sentence of chapter 7. maybe do a search for 'siting' too.
+            * Removed references to sextant from Hemi-Chips convo, starting line 41, chap 6
+		* There's another reference in the first sentence of chapter 7. maybe do a search for 'sighting' too.
     * [ ] Also, 3 on 3 off is the worst scedule i've ever heard. That would break me. Normally 6 on 6 off is used on submarines sometimes 5 on 7 off 7 on 5 off but that's the most cursed off them all lol. Cassandra being on the sonar for 20 hours could happen though. 
         * Possibly, this is explained by the much smaller crew size. Possibly, it should just be fixed.
         * removed reference to exact number of hours, and just called it "rest rotations" at night. --- make sure it works throughout the rest of the book.
