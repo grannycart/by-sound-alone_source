@@ -71,7 +71,7 @@ Hemi looked off at the ocean. "But I did not. I made the decision I did in the m
 
 "And that right fuckin' there is why I'm leaving this fuckin' boat. I respect you, Hemi, and I like workin' with you. But this boat is hers, from fuckin' bridge to fuckin' keel, and she's a fuckin' stubborn piece of fuckin' dried shit the odor of which is foulin' the fuckin' air of my whole fucking life right now. Yours, too...fuck."
 
-Hemi suddenly felt exhaustion lowering onto his big frame. He watched the stars above and the darkness in front of him for a few more minutes, and then made his way below, heading toward his rack.
+Hemi suddenly felt exhaustion lowering onto his big frame. He watched the stars above and the darkness in front of him for a few more minutes, and then made his way below to his rack.
 
 [//]: # (----- invisible character break)
  
@@ -79,33 +79,31 @@ Hemi suddenly felt exhaustion lowering onto his big frame. He watched the stars 
 [//]: # (### They enter Stilt City)
 
 [//]: # (day: day 5, run to Stilt City)
-They continued to run at high speed on the surface for the rest of the night. Just before dawn, Hemi rose and took a sighting with the sextant. Then the _Prospect_ dove, and they moved slowly under the remaining contested territory, tracing the gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led in the last twenty years to the rapid growth of what had come to be known worldwide as Stilt City. This policing was also the root cause of the heavy contesting of the waters farther out from the Collective's control.
+They continued to run at high speed on the surface for the rest of the night. Just before dawn, Hemi rose and took a sighting with the sextant. Then the _Prospect_ dove, and they crawled slowly under the remaining contested territory, tracing the gradual rise of the continental shelf as it approached the shore. They surfaced about midday well inside the area controlled by the Eastern Coastal Collective. That Authority aggressively defended open commerce in the waters leading into Stilt City. This police protection of free trade had led in the last twenty years to the rapid growth of what had come to be known worldwide as Stilt City. This policing was also the root cause of the aggressive contesting of the waters farther out from the Collective's control.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 The _Prospect_ moved into Stilt City under a high gray sky. The seas were calm and the air was warm. Percy had Hemi open the big cargo hatch on the deck and fresh air blew through it and down into even the deepest and most stagnant bilge wells of the ship.
 
 They passed a number of Collective enforcement ships holding station in an array around the protected waters as cargo vessels made the run into the city. But, as was customary, those ships did not interfere with anyone who was not interfering with another ship. They were there to stop other Authorities from delaying or preventing cargo from moving into or out of their port. The policy here was that policing the contents of cargo boats was a matter for the Authority forces on land.
 
-The moniker "Stilt City" might have been somewhat pejorative, but it was accurate. It was built on a vast river delta which rapidly attenuated the big ocean rollers down to calm, flat, and brown water. The structures built on pylons began to appear relatively far out into the ocean --- some in places where the water was dozens of meters deep. The buildings teetered high above the larger waves they needed to clear in those deeper waters. They stood atop artificial underwater forests of rigidly spaced trees, placed by the work of human hands. The structures farthest out from the mainland popped up in clumps in the distance on both sides of the _Prospect_. It was hard not to see them as circus performers striding around on tall stilts.
+The moniker "Stilt City" might have been somewhat pejorative, but it was accurate. It sat on a vast river delta which rapidly attenuated the big ocean rollers down to calm, flat, and brown water. The structures built on pylons began to appear relatively far out into the ocean --- some in places where the water was dozens of meters deep. The buildings there teetered high above the larger waves they needed to clear in those deeper waters, perched atop artificial underwater forests of rigidly spaced trees placed by the work of human hands. The structures farthest out from the mainland popped up in clumps in the distance on both sides of the _Prospect_. It was hard not to imagine them as circus performers striding around on tall stilts.
 
-The _Prospect_ floated into the main channel that led into the city. It was nearly a mile wide for much of its passage, forming an artificial equivalent to the large river that bisects so many coastal cities. 
+The _Prospect_ floated into the main channel that led into the city. It was nearly a mile wide for much of its passage, the muck of the bottom laboriously carved out to be deep enough to easily accomodate the very largest ships on the ocean, but otherwise equivalent to the large rivers that bisects so many coastal cities. 
 
 The rapid growth of Stilt City and large volume of trade had brought wealth in, but the wealth did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of fire and ax blade. The most common craft, of which there must have been thousands, was an angular home-built wooden boat, driven either by singular canvas sails bound taught on rough wood masts and booms, or by long thin oars that were used to row the boats in deep waters and pole the boats through shallower waters.
 
 Virtually all the trade of Stilt City was done on the open water or on the docks. In many places, boats of all sizes were rafted up, and people traded goods across the networks of hulls.
 
-As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. Speed was reduced to three knots and they crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current that carried massive amounts of freshwater far out to sea, down in the depths. 
+As the _Prospect_ made its way up the main channel, more and more sea craft moved about them. Speed was reduced to three knots and they crawled along through the still murky water leaving no wake. The stillness of the surface belied the powerful slow current down in the depths that carried massive amounts of freshwater far out to sea. 
 
 Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and carefully piloted the steel bulk of the _Prospect_ among the dense traffic of small wooden craft that swarmed around them. He called maneuvers down through the hatch to Gregory and Bastian, who sat at the controls.
 
 "So this entire place is built on stilts?" asked Cassandra.
 
-"That's why they call it fuckin' Stilt City," said Percy.
+"That's why they call it Stilt fuckin' City," said Percy.
 
-[//]: # (This world does not deviate so much from the history of the real world that influence and names of Europe are not spread all around the globe from the impacts of the European colonial period and continued colonialism. As cool as it would be to write that book, I am not sure I could do it. See also the note about the name of Sir Piero below, which is Italian.)
+[//]: # (This world does not deviate so much from the history of the real world that the influence and names of Europe are not spread all around the globe from the impacts of the European colonial period and continued colonialism. As cool as it would be to write the book that does not include European colonialism, I am not sure I could do it. See also the note about the name of Sir Piero below, which is Italian.)
 
-"Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land. Many cities around the world are built on swamps because that is where the large rivers meet the sea, and that is where major ports come together. In richer places, they drain the swamps to get to dry land under them. Here, they found it more economical to just build above the water line on stilts, at least in recent years."
+"Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on pylons above the delta waters, except for the old part of the city that clings to the dry land. Many cities around the world are built on swamps because that is where the large rivers meet the sea, and that is where major ports come together. In richer places, they drain the swamps to get to dry land under them. Here, they found it more economical to just build above the water line on stilts, at least in recent years."
 
 "All these structures don't get washed away in storms?" Cassandra asked.
 
@@ -115,7 +113,7 @@ Percy, Cassandra, and Hemi stood on the bridge. Hemi held binoculars and careful
 
 "Mostly trees are cut down on shore and then floated out. That is why nearly everything is made of wood. I think they do sometimes pull sunken waterlogged trees up from the bottom, though."
 
-The channel began to narrow, pushing the sea craft using it together. Hemi steered the _Prospect_ to take advantage of a path carved through the smaller boats by a huge oiler making its way slowly up the channel ahead of them. On either side of the channel, the structures raised on pylons above the water grew denser. In places there were masses of small thatched-roof huts, with walls made of thin rotting wood panels and the roofs of cut and dried shore grasses. There were dozens of huts clumped together, as if they gained strength to stand on their wobbling stilts by leaning against each other. Between the clumps ran narrow channels of dark water, in many places only passable by the smallest of the vessels that traversed back and forth across Stilt City. Those narrow channels fed into slightly larger winding passages, which gave access to buildings and homes buried deep in the dense clumps of development.
+The channel began to narrow, pushing the sea craft using it together. Hemi steered the _Prospect_ to take advantage of a path carved through the smaller boats by a huge oiler making its way slowly up the channel ahead of them. On either side of the channel, the structures raised on pylons above the water grew denser. In places there were masses of small thatched-roof huts, with walls made of thin rotting wood panels and the roofs of cut and dried shore grasses. There were dozens of huts clumped together, as if they gained strength to cling to their wobbling perches by leaning against each other. Between the clumps of homes ran narrow channels of dark water, in many places only passable by the smallest of the vessels that traversed back and forth across Stilt City. Those narrow channels fed into slightly larger winding passages, which gave access to buildings and homes buried deep in the dense clumps of development.
 
 Every so often, the masses of huts were broken up by a large access channel running off the main channel. Around these access channels had risen most of the commercial trade, which had led to the building of long docks and piers, more substantial warehouses, and larger buildings --- always sitting on stilts above the water. The fancier buildings had paid extra to ship out and install steel roofs. Big steel cargo and transport ships would make their way into these access channels and dock against the flimsy, leaning piers of crunching wood that barely seemed able to keep the big ships immobile, and perhaps would not have at all if the waters were not so still. The cargo was unloaded onto these docks and from there moved off to its destination by local labor: either into the warehouses, onto other cargo ships, or dispersed around Stilt City --- sometimes up onto the mainland and ground-based logistical connections.
 
@@ -123,6 +121,8 @@ Every so often, the masses of huts were broken up by a large access channel runn
 
 As they pushed their way slowly up the main channel and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the fuckin' dock we are supposed to unload at in all this fuckin' mess?"
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "There is a system to the dock numbers," said Hemi. "I am fairly certain that we are moving in the right direction. However, the system is complex and poorly maintained. We shall have to ask for guidance at some point."
 
 Percy asked Cassandra to use the binoculars to scout out the hand-painted signs that indicated the dock numbers accessible from each access channel they passed, and report them to Hemi. The descending order of the dock numbers reassured Percy somewhat, but she would have been much more satisfied with a quality chart of Stilt City's many passages and byways.
