@@ -121,15 +121,13 @@ Every so often, the masses of huts were broken up by a large access channel runn
 
 As they pushed their way slowly up the main channel and deeper into Stilt City, Percy became a little concerned. "Hemi, do you know how to find the fuckin' dock we are supposed to unload at in all this fuckin' mess?"
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "There is a system to the dock numbers," said Hemi. "I am fairly certain that we are moving in the right direction. However, the system is complex and poorly maintained. We shall have to ask for guidance at some point."
 
 Percy asked Cassandra to use the binoculars to scout out the hand-painted signs that indicated the dock numbers accessible from each access channel they passed, and report them to Hemi. The descending order of the dock numbers reassured Percy somewhat, but she would have been much more satisfied with a quality chart of Stilt City's many passages and byways.
 
-The open lane of the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships, knowing that the big ships were far less maneuverable and took much longer to stop. But a ship making its way up the channel still had a bit of a job clearing a path, whereas few local boats would try to cut between two ships moving up the channel. 
+The open lane left behind the oiler in front of them made navigating much easier. The local boats generally tried to stay out of the way of the bigger ships, knowing that the massive ocean-going vessels were far less maneuverable and took much longer to stop. Few local boats would take the risk of cutting between two ships moving up the channel in a line. 
 
-One did though. A small flat-bottomed boat, a kind of a wherry, that moved slowly into the lane between the oiler and the _Prospect_, at such a speed that there was no chance it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man paddling the wherry kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down through the hatch to Bastian to reverse thrust and bring the _Prospect_ to a stop. The man in the wherry angled his tiny tree of a craft alongside the huge gray metal cylinder and bumped up against the _Prospect_'s hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a rung while holding his boat still with the other. He looped a painter from the wherry around one of the step rungs so it could not get away and then shimmied up the handholds to the deck.
+One did though. A small flat-bottomed boat, a kind of a wherry, that moved into the lane between the oiler and the _Prospect_ at such a speed that there was no chance it would make its way across the lane before the _Prospect_ was on top of the tiny craft. The man paddling the wherry kept pausing and raising one arm. At first Hemi thought he was trying to make sure the people guiding the _Prospect_ saw him, but then Hemi realized he was actually hailing them. Hemi called down through the hatch to Bastian to reverse thrust and bring the _Prospect_ to a stop. The man in the wherry angled his tiny bobbing craft and bumped it alongside the huge gray metal cylinder of the _Prospect_'s hull. He deftly grabbed the handholds on the hull as they swept past and stepped one foot up onto a rung while holding his boat still with the other. He looped a painter from the wherry around one of the step rungs so it could not get away and then shimmied up the handholds to the deck.
 
 "'Hoy there! Do you need a pilot?" he shouted up to the bridge of the sail as he continued to move towards them. "I can bring your sub marine in to where-the-fuck-ever. I know all the ways and docks around here. I can make sure you don't ground --- the water is very suddenly shallow in many places."
 
@@ -159,11 +157,11 @@ The man looked it over. "Surely. That's no great fuckin' way from here."
 
 "Ten coin. Both in and out. If you go back out today."
 
-Hemi agreed and paid him an advance. Sir Piero made a move to go retrieve his boat, but Hemi asked Cassandra to do it while he showed Sir Piero the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
+Percy agreed and paid him an advance. Sir Piero made a move to go retrieve his boat, but Hemi asked Cassandra to do it while he showed Sir Piero the control room. Even though Bastian and Gregory would continue to execute the actual maneuvering operations, Hemi always thought it was good practice for a pilot to know what the control room of a boat looked like.
 
-Sir Piero took over command of the _Prospect_. He stood on the bridge and lit a cigar that resembled a root vegetable. Chomping the torpedo between his teeth, he read the numbers of the channels and water lanes they passed by through borrowed binoculars. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed --- and with a great deal of confidence --- he plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
+After the cursory tour, Sir Piero took over command of the _Prospect_. He stood on the bridge and lit a cigar that resembled a root vegetable. Chomping the torpedo between his teeth, he read the numbers of the channels and water lanes they passed by through borrowed binoculars. After a quarter mile or so he had Bastian bring the bow around, and without slowing speed --- and with a great deal of confidence --- he plunged the _Prospect_ into a narrow way that was barely wider than the beam of the ship. 
 
-They passed along this channel for a long way, through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed up under and smacked against the floorboards of the huts. In some places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
+They passed along this channel for a long way, through a more residential area with densely clustered huts on either side. The gentle wake from the passing submarine washed under and smacked against the floorboards of the huts. In some places children played, jumping from platforms in front of the huts into the thick brown water. Percy was concerned one of the children might get it into their heads that they wanted to jump onto the _Prospect_ as it passed, and certainly they were close enough that it could be done. But huge steel ships passing close by their tiny wooden homes was a daily and dull occurrence here, and none of the children showed any exceptional interest in her submarine.
 
 Percy was beginning to find it hard to imagine how there could be a dock that could handle a ship as large as the _Prospect_ in a residential part of the city like this, and she expressed her doubts to Sir Piero.
 
@@ -173,8 +171,10 @@ The _Prospect_, which so often felt like a small, cramped place, suddenly seemed
 
 [//]: # (### The Prospect gets stuck in shallow water)
 
-Bastian suddenly called up from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow --- two meters."
+Bastian suddenly called from the control room with a sense of urgency. "Up on the bridge: the depth-under-keel has a warning light and is showing very shallow --- two meters."
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "Umm, Sir Piero...are you sure there's enough fuckin' water here?" Percy asked him.
 
 "Plenty of water. I have taken many ships through here."
