@@ -298,17 +298,15 @@ Then Percy asked, "So Chips is fucking gone?"
 
 [//]: # (### Shakes arrives)
 
-Into the middle of their conversation crept the roll of heavy diesels from a large ship moving up the channel. When a horn sounded, they turned to find there was no ship coming from the direction of the engine sound. Hemi lifted his binoculars and scanned the channel until he saw the familiar low outline of the _Gnat_'s sail with a spiky-haired head sticking out of it, and a stream of diesel exhaust flowing out behind.
+Into the middle of their conversation crept the roll of heavy diesels from a large ship moving up the channel. When a horn sounded, they turned to find there was no ship coming from the direction of the engine sound. Hemi lifted his binoculars and scanned the channel until he saw the familiar low outline of the _Gnat_'s sail with a spiky-haired head sticking out of it, and a stream of hot diesel exhaust flowing upward and distorting the view behind.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "Sylvia," said Hemi, "it is the _Gnat_."
 
 "Fuckin' Shakes!" Percy shouted to him and waved her arm in the air.
 
 Shakes waved one arm back at them.
 
-Hemi and Percy made their way down to the dock as Shakes was bringing the _Gnat_ in carefully along the opposite side from the _Prospect_. He put the engine in neutral and hopped out of the sail to catch a dock line tossed to him from Hemi which he secured to the deck cleats.
+Hemi and Percy made their way down to the dock as Shakes was bringing the _Gnat_ in carefully along the opposite side from the _Prospect_. He put the engine in neutral and hopped out of the sail to catch a dock line tossed to him from Hemi which he tied off on the deck cleats.
 
 "How y'all be fuckin' doing?" he asked, while still standing on the deck of the _Gnat_.
 
@@ -318,7 +316,7 @@ Hemi and Percy made their way down to the dock as Shakes was bringing the _Gnat_
 
 "So the bird actually fucking worked?" Percy asked, unable to totally get the skepticism out of her voice as her eyes continued to follow the bird above.
 
-"Herschel was a total fucking champ! Found me cruising out in the middle of fucking endless expanse of green water. He gave me your message with the dock number...but Herschel was the easy part. The hard part was finding the dock on the way into Stilt City here. Had to stop and ask people probably a dozen fuckin' times --- and folks around here speak a strange fuckin' mix of languages I don't fuckin' understand, mostly."
+"Herschel was a total fucking champ! Found me cruising out in the middle of fucking endless expanse of green water. He gave me your message with the dock number...but Herschel was the easy part. The hard part was finding the dock on the way into Stilt City here. Had to stop and ask people probably a dozen fuckin' times --- and folks around here talk a strange fuckin' mix of languages I don't fuckin' understand, mostly."
 
 "It is good to see you, Captain Shakes," said Hemi, "and Herschel. What happened after you left us?"
 
@@ -326,7 +324,7 @@ Hemi and Percy made their way down to the dock as Shakes was bringing the _Gnat_
 
 "Ah," Hemi interrupted, "so the _Gnat_ does have an active sonar system?"
 
-"Say again? I seem to fuckin' be harder of hearing these days."
+"Say again? I seem to be harder of fuckin' hearing these days."
 
 Hemi repeated his question.
 
@@ -334,7 +332,7 @@ Hemi repeated his question.
 
 "Hemi brought the _Prospect_ up to the surface in the ditch of a ten-meter wave, rolled her right the fuck over. She was completely on her side for a bit, but eventually came upright again," said Percy.
 
-Shakes whistled. "Shit, I never saw weather that fuckin' big on this trip. You must have been much more toward the center of the storm."
+Shakes whistled. "Shit, I never saw weather that fuckin' big on this trip. You must have been much more toward the center of the shit."
 
 Percy went on to fill Shakes in on running into the _Grackle_ on the surface during the storm, and the loss of Owen. Hemi also added that Chips had quit the boat.
 
@@ -342,7 +340,7 @@ Percy went on to fill Shakes in on running into the _Grackle_ on the surface dur
 
 "It looks like the dockworkers have finished unloading." Hemi noticed that small groups of them had begun to clump up in various places around the platform, idly smoking. "Let's go find that dock boss and settle up."
 
-"You two go on," said Percy. "I'm going to check my cargo hold and make sure they didn't fuck any shit up when they were swinging that iron hook around down there."
+"You two go on," said Percy. "I'm going to check my cargo hold and make sure they didn't fuckin' bash shit to pieces when they were swinging that iron hook around down there."
 
 [//]: # (----- invisible character break)
  
@@ -351,6 +349,8 @@ Percy went on to fill Shakes in on running into the _Grackle_ on the surface dur
 
 Hemi and Shakes found the dock boss stomping around the dock on a crude prosthetic foot, counting the crates that had come off the _Prospect_ and checking them against a list on a greasy clipboard.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "Hmm. Mr. Howell, the manifest says 215 crates, but I only count 212." The dock boss gestured towards the stacks of crates.
 
 "I do not know what to tell you. Logistics is not an exact science," said Hemi.
