@@ -592,8 +592,6 @@ She focused the periscope forward and spoke without pulling back from the viewfi
 
 "That's why I need you on sonar. Their speed is pretty slow --- that will make it a bit safer."
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "Alright," said Hemi. "I will get on sonar with Cassandra, it will be good training for her to listen to this." Hemi climbed down to the sonar station and had Cassandra move into the second sonar seat so he could more easily manage the controls and filters himself. They both put on the headsets and concentrated on the sounds coming in as Hemi rotated the sonar directional control around 360 degrees for a full picture of the surrounding traffic.
 
 With Hemi settled on sonar, Percy brought the _Prospect_ down to twenty meters below the surface. In some ways this made Hemi's job simpler, because all the traffic was now above them --- there should be no other submerged submarines in the channel. But with only fifty meters of depth to play with, the sounds of the traffic above reflected off the bottom of the channel, back up, and then off in every direction, making the space they were moving through feel very compressed to Hemi.
@@ -682,7 +680,7 @@ Percy moved down to the sonar station, and for the next hour or so, Hemi reporte
 
 "The Stilt City Authority boats destroying the _Grackle_ would surely be a blessing from hell. If we had a way to _confirm_ their sinking, we could sleep easy for the first time in a long time. That would be the greatest fuckin' blessing of 'em all."
 
-As much as Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect_'s position. They crawled at a painfully slow, but discreet, three knots on the more or less random northerly course Bastian had chosen for the rest of the daylight hours. By dark they had left the noise of the depth charges far behind, along with any kind of contact or signal that they might still be pursued.
+As much as Percy wanted to cruise out of the area at high speed, she still did not want to risk giving away the _Prospect_'s position. They crawled at a painfully slow, but discreet, three knots on the more or less random northerly course Bastian had chosen for the rest of the daylight hours. By the time dark was coming on they had left the noise of the depth charges far behind, along with any kind of contact or signal that they might still be pursued.
 
 
 

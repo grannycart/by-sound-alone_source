@@ -35,12 +35,14 @@
 
 [//]: # (### Rendezvous with Shakes)
 
-With darkness, Hemi was able to take a sighting from a star, and he calculated they had made about twenty nautical miles from the point where they had last heard the faintest echo of the depth charges. Percy felt that was enough of a cushion that they could start the diesels, and the engines were soon roaring below decks. Percy had them throttle up to fifteen knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
+With darkness spreading above, Hemi was able to take a sighting from a star, and he calculated they had made about twenty nautical miles from the point where they had last heard the faintest echo of the depth charges. Percy felt that was enough of a cushion that they could start the diesels, and the engines were soon roaring below decks. Percy had them throttle up to fifteen knots, and Hemi calculated a precise easterly course that would bring them to the rendezvous point with Shakes. Percy kept a lookout in the ring throughout the night and gambled on not using the radar, feeling that it was too likely to give them away.
 
 They ran through the night on too much coffee and not enough sleep. But they saw no other vessels, and there was no sign of the _Grackle_.
 
-Even as the sun rose before them, Percy kept the boat on the surface, hoping to make the rendezvous with Shakes more or less on time. The sun was well above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had high confidence that Hemi would navigate them with his usual high precision to the correct spot.
+Even as the sun rose before them, Percy kept the boat on the surface, hoping to make the rendezvous with Shakes more or less on time. The sun was well above the horizon and they had clear visibility for something like ten miles from the lookout ring before Percy finally called for the submarine to submerge. There were only a few more miles more to the rendezvous point with Shakes, and Percy had confidence that Hemi would navigate them with his usual high precision to the correct spot.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 A few hours later, Hemi announced they had arrived at the rendezvous point. They leveled the boat at twenty meters of depth and shut down the motors to wait. Everyone except Cassandra passed the midday and afternoon hours in lazy recuperation, catching up on sleep. Cassandra was stuck listening to sonar, trying to detect Shakes's approach. In the late afternoon she caught the far-off sound of a loud diesel engine, and by the time ten minutes had passed she was sure it was the _Gnat_, approaching the rendezvous at a high speed on the surface.
 
 At a few miles off, the sound of the diesel disappeared. Cassandra assumed Shakes was diving before approaching the rendezvous point. Percy called Hemi up to the control room. An hour later Shakes's voice came in over the ship-to-ship. Hemi arranged with Shakes to mate the _Gnat_ to the underside of the _Prospect_. It took another hour to execute the delicate maneuver.
@@ -116,13 +118,13 @@ Percy flipped off the radar. "Let's not give away our position more than we alre
 
 "For fuck's sake. Ping him," Percy ordered. "We need Shakes to shut down, and he might respond to a ping."
 
-Hemi reached over Cassandra and pressed the ping button on the active sonar. A second later the unit lit up.
+Hemi reached over Cassandra and pressed the ping button on the active sonar. The unit lit up.
 
 "The active unit is showing dozens of contacts _underwater_ as well as on the surface." Cassandra kept one hand against the sonar earpiece. "Shakes did shut down --- but I still don't hear anything. It's completely silent now."
 
 "It is extremely unlikely that there is a fleet of dozens of ships and subs just floating without engines running," said Hemi. "Something else is going on here..."
 
-In the sonar compartment they could hear Shakes's voice crackling questions over the ship-to-ship in the control room and Bastian responding to him.
+From the sonar compartment they could hear Shakes's voice crackling questions over the ship-to-ship in the control room and Bastian responding to him.
 
 "I suggest we make use of our friend Shakes as a resource," Hemi said.
 
@@ -132,7 +134,7 @@ Fifteen minutes later, the _Gnat_ was coming up on the first of the radar contac
 
 At this range Cassandra was now able to hear the object on the sonar --- water slapping against a steel void with the random regularity of ocean chop. She was convinced it was a ship. 
 
-Only a few minutes later, Shakes confirmed her guess over radio. "Yeah, _Prospect_, the object is a big empty cargo vessel. Rusting away and half sunk, it looks like. You think all those contacts are abandoned ships?"
+Only a few minutes later, Shakes confirmed her guess over radio. *"Yeah, _Prospect_, the object is a big empty cargo vessel. Rusting away and half sunk, it looks like. You think all those contacts are abandoned ships?"*
 
 Percy looked away from the periscope viewfinder at Hemi, who was holding the ship-to-ship radio mic. "What do you think, Hemi?"
 
@@ -140,7 +142,7 @@ Percy looked away from the periscope viewfinder at Hemi, who was holding the shi
 
 "Like a fucking ship graveyard," said Bastian.
 
-[//]: # (Is the garbage gyre the Zone from Stalker? Abso-fucking-lutely! But is not everything the Zone?)
+[//]: # (Is the garbage gyre the Zone from Stalker? Abso-fucking-lutely! But is not everything the Zone in one way or another?)
 
 "A walk among those lost souls might be a fucking opportunity for a pair of boats that don't want to be found," said Percy. "Hemi, see if you can work out a way with Shakes that we might traverse this graveyard without physically encountering one of these ghosts."
 
@@ -289,7 +291,7 @@ Bastian was coming through the hatch into the sonar compartment when Gregory rep
 
 Percy looked down and saw Bastian standing at the foot of the ladder to the control room. "Bastian, get up here. Gregory, before you hit the rack, go down to the fucking cargo hold and check on our welded split in the pressure hull --- fucking money is that it has opened up yet again, with that last little boneshaker."
 
-A few minutes later Gregory's voice came crackling over the PA speaker above Percy's head in the control room. "Fuck, Captain Percy, you're right. Those welds are failing. There's already about a foot of fucking water in the bilge."
+A few minutes later Gregory's voice came crackling over the PA speaker above Percy's head in the control room. *"Fuck, Captain Percy, you're right. Those welds are failing. There's already about a foot of fucking water in the bilge."*
 
 "Fuck me again!" said Percy. She leaned over the trim control panel and flipped on the forward bilge pumps and slid the power controllers up to maximum. As the bilges ramped up, the higher-pitched hum of their small but powerful electric motors passed through the hull and lay down on top of the bass hum of the main drive motors. Bastian looked up at Percy with a dubious look, but did not voice his doubt.
 
@@ -369,11 +371,11 @@ She pulled on her cheroot and stared blankly for a minute.
 
 Percy pulled the ship-to-ship mic to her, stretching the tangles out of the cord. "Captain Shakes, are you still out there?"
 
-"Captain Percy," Shakes' voice came crackling back, "nice to hear from you. I heard that fuckin' explosion and I thought for a second you were on your way down the hole."
+*"Captain Percy,"* Shakes's voice came crackling back, *"nice to hear from you. I heard that fuckin' explosion and I thought for a second you were on your way down the hole."*
 
 "They put a fuckin' torpedo in the water, but all they got was one of the derelicts. Listen, we're going to make like a derelict ourselves and shut everything down over here. I need you to try to confuse the situation, or they'll just fucking come right to the point where they last heard us. Make some noise, would ya?"
 
-"That's what I fucking do best these days," said Shakes. "I'll totally throw some fucking chaos and confusion into the water. Right?"
+*"That's what I fucking do best these days,"* said Shakes. *"I'll totally throw some fucking chaos and confusion into the water. Right?"*
 
 "Fuckin' right. Out."
 
@@ -455,7 +457,7 @@ He made three more doubled-up units like this. With two magnetic warheads strapp
 
 He had gathered most of the parts he needed when he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Gregory to help him move all his parts and equipment down to the _Prospect_'s battery compartment near the hatch to the _Gnat_.
 
-As Gregory opened the hatch to see Shakes's greasy-haired visage grinning up at them, Percy's voice came back on the _Prospect_'s PA. "Hemi, Bastian is telling me that he is tracking the _Grackle_ closing on us. He thinks they picked up the _Gnat_ and followed Shakes in."
+As Gregory opened the hatch to see Shakes's greasy-haired visage grinning up at them, Percy's voice came back on the _Prospect_'s PA. *"Hemi, Bastian is telling me that he is tracking the _Grackle_ closing on us. He thinks they picked up the _Gnat_ and followed Shakes in."*
 
 Still down in the _Gnat_'s control seat, Shakes could hear the PA message. "Tell Percy there's no fuckin' way, man --- I was ultra fucking slow and quiet on my approach. I could have passed through a sleeping baby's bedroom without fuckin' waking it."
 
@@ -491,19 +493,19 @@ Hemi was still wedged into the small space next to the control chair. "If you're
 
 Shakes had left the _Gnat_ a little over-buoyant while it was attached to the _Prospect_, so even with the docking clamps disengaged, the boat's mating collar was still pressed firmly against the _Prospect_'s. Hemi twisted open a valve and they could hear water pouring into the _Gnat_. Only seconds later, the boat dropped a meter or two. Shakes gave the electric motor some throttle. Most of the dials in front of the two men suddenly came to life, their little fingers of fate wagging at them.
 
-"_Gnat_, _Gnat_. You boys fuckin' listening?" Percy's voice lit up the ship-to-ship radio.
+*"_Gnat_, _Gnat_. You boys fuckin' listening?"* Percy's voice lit up the ship-to-ship radio.
 
 Hemi closed the trim tank valves and picked up the ship-to-ship mic from where it hung in front of Shakes. "We have you, Sylvia."
 
-"I couldn't let you two shitheads just go off and try this dumb-ass fuckin' idea of yours without a proper send-off, Hemi."
+*"I couldn't let you two shitheads just go off and try this dumb-ass fuckin' idea of yours without a proper send-off, Hemi."*
 
 "Uh, Hemi," Shakes put in, "when are you going to fill _me_ in on the details of your 'dumb-ass fucking idea' here? I'm not so sure I'm likin' the fuckin' vibe I'm gettin' from the rest of yer crew."
 
-Percy's voice came back over the ship-to-ship. "How does your inhumanly calculating mind put the odds that this plan will actually fuckin' work?" 
+Percy's voice came back over the ship-to-ship. *"How does your inhumanly calculating mind put the odds that this plan will actually fuckin' work?"*
 
 Hemi held up a finger to Shakes. "Frankly, I give it about one chance in five," Hemi said into the mic.
 
-"And what are the chances that you will blow up either the _Gnat_ or the _Prospect_ or both?" asked Percy.
+*"And what are the chances that you will blow up either the _Gnat_ or the _Prospect_ or both?"* asked Percy.
 
 "At least one of the two boats? I would say one chance in four."
 
@@ -511,23 +513,23 @@ Hemi held up a finger to Shakes. "Frankly, I give it about one chance in five," 
 
 "But I also think it is very likely that one way or another the plan will bring this pursuit to an end," Hemi continued, still talking to the _Prospect_.
 
-"Counting blowing us up as one way the pursuit could end?" asked Percy.
+*"Counting blowing us up as one way the pursuit could end?"* asked Percy.
 
 "That is right." Hemi paused for a second before continuing. "I would like to also point out that this plan has a better chance of succeeding if you put Cassandra on sonar again."
 
-"No fucking way Hemi. I'll grant you that she has learned fast enough to be perfectly capable of doing the sittin' sonar watch job I hired her for --- I was the first to see her fuckin' potential, you know --- but in this situation where we live or die, depending on what the sonar operator hears...nope. That little fucking shit stays in her rack."
+*"No fucking way Hemi. I'll grant you that she has learned fast enough to be perfectly capable of doing the sittin' sonar watch job I hired her for --- I was the first to see her fuckin' potential, you know --- but in this situation where we live or die, depending on what the sonar operator hears...nope. That little shit stays in her fucking rack."*
 
 "Have you not noticed that with me on the _Gnat_ you are down yet another crew member? You are running a full-sized hundred-meter cargo sub with a crew of four --- and that is including Cassandra. During the wars, a boat the size of the _Prospect_ would have had a crew of seventy."
 
-"I'll put Bastian on sonar. It will be fucking fine."
+*"I'll put Bastian on sonar. It will be fucking fine."*
 
 "You need Bastian to run the trim tanks and Gregory to steer the boat. You need to keep yourself free to think about tactics --- tactics are what will make this plan successful, or not." Hemi paused. "Besides, Cassandra can do this."
 
-There was silence from the radio for a minute. Then: "Alright Hemi. It's your fuckin' plan, I fuckin' defer to you. I'll put her back on sonar. If she kills us all, just know my last thought will be that you were fucking wrong."
+There was silence from the radio for a minute. Then: *"Alright Hemi. It's your fuckin' plan, I fuckin' defer to you. I'll put her back on sonar. If she kills us all, just know my last thought will be that you were fucking wrong."*
 
 "I can die with that."
 
-"Seriously. Do your fuckin' best _not_ to die if you fuckin' please. Out."
+*"Seriously. Do your fuckin' best _not_ to die if you fuckin' please. Out."*
 
 Hemi hung the mic back on the hook.
 
@@ -832,23 +834,23 @@ Then she heard the faintest rhythmic pumping noise, off to the starboard side. I
 
 "Excellent. They might hear us on ship-to-ship." Percy pulled down the mic and called out into the water for Shakes.
 
-"_Prospect_! Captain Shakes here. I read you. Nice to hear you didn't go down with that last torp."
+*"_Prospect_! Captain Shakes here. I read you. Nice to hear you didn't go down with that last torp."*
 
 "Indeed. Unfortunately, Gregory here has a theory that now the _Grackle_ is after us for another ramming. Based on the speed they've put on, I'm inclined to agree with him. So...what's the plan now?"
 
-"Aye. Well, Hemi says he still thinks he can take them down. He just needs to deliver one of his devices to a weaker part of their sub than the ram --- which is what they detonated the last one with."
+*"Aye. Well, Hemi says he still thinks he can take them down. He just needs to deliver one of his devices to a weaker part of their sub than the ram --- which is what they detonated the last one with."*
 
 "And how is he going to do that?"
 
-"No idea. I'm just steering the boat the way the boss says. Hang on..." A few seconds of static came across the radio, and then Shakes picked up again. "Hemi says you should just keep running --- make evasive moves if you can. He's going to maneuver us into position to deliver a second device."
+*"No idea. I'm just steering the boat the way the boss says. Hang on..."* A few seconds of static came across the radio, and then Shakes picked up again. *"Hemi says you should just keep running --- make evasive moves if you can. He's going to maneuver us into position to deliver a second device."*
 
 "OK. But keep in mind we're down to maybe fifteen minutes on the battery here. As soon as that's gone, we're a dead-in-the-water target for a boat with an intention to ram."
 
-Another second passed. "Hemi says --- get this --- he will 'take your remaining battery into his calculations.'"
+Another second passed. *"Hemi says --- get this --- he will 'take your remaining battery into his calculations.'"*
 
 "If anyone beside Hemi had said that to me, I wouldn't be able to take it as any kind of reassurance. Don't sink, Captain Shakes --- I need Hemi back."
 
-"Don't you sink either, Captain Percy --- I've gotten used to the hot meals on your boat! Out."
+*"Don't you sink either, Captain Percy --- I've gotten used to the hot meals on your boat! Out."*
 
 As Percy hung the mic back up above her head, Bastian reached one long finger out and fruitlessly tapped the battery gauge.
 
@@ -905,7 +907,7 @@ They gained depth quickly, and almost immediately the hull of the _Gnat_ began t
 
 Crackling sounds snapped and echoed from somewhere in the forward compartment.
 
-"_Captain_ Shakes. And tell the boat, not me, man." Shakes' hands were sweating. He put a cigarette to his lips but forgot to light it.
+"_Captain_ Shakes. And tell the boat, not me, man." Shakes's hands were sweating. He put a cigarette to his lips but forgot to light it.
 
 Hemi stared at his ticking watch.
 
@@ -988,27 +990,27 @@ The explosion of the second device had rocked the _Prospect_. Just a sway, but e
 
 Percy grinned. "I can't believe Hemi and Shakes pulled that off! One chance in five indeed." She lit a cheroot. "Cassandra! Your top priority now is to find the _Gnat_ again."
 
-Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Percy's Head. "Sylvia..."
+Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Percy's Head. *"Sylvia..."*
 
 Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Shakes.
 
-"Sylvia...are you leaving me to die a second time?" The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
+*"Sylvia Percy...are you leaving me to die a second time?"* The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
 
 Sylvia slowly reached a hand up to take the mic. She thumbed the transmitter. "...Owen? ...But how?"
 
-"How? You mean: _how_ am I still alive? You _left_ me alive, remember?" The radio went silent for a few seconds, then the transmission resumed. "You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me on the sail of the _Prospect_, and you dove out from under me --- thinking there was no way I could survive.
+*"How? You mean: _how_ am I still alive? You _left_ me alive, remember?"* The radio went silent for a few seconds, then the transmission resumed. *"You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me on the sail of the _Prospect_, and you dove out from under me --- thinking there was no way I could survive.*
 
-"And I would have died in that storm, just as you expected. Probably within a matter of minutes --- except by sheer luck I washed aboard the deck of the _Grackle_... Unlike you, they opened the hatch when they heard banging."
+*"And I would have died in that storm, just as you expected. Probably within a matter of minutes --- except by sheer luck I washed aboard the deck of the _Grackle_... Unlike you, they opened the hatch when they heard banging."*
 
 Percy could hear Owen breathing heavily into the mic. She squeezed the mic in her hand. "Owen, why didn't you just say something? Why didn't you raise us on the ship-to-ship earlier? We could have done something to get you off the _Grackle_."
 
-"Get me _off_ the _Grackle_? The _Grackle_ was a blessing! When the hatch opened, I felt I was given a second chance. A chance I would use to clear the world of your callous ego, Sylvia, your selfish disregard. I made the _Grackle_ my tool. I'm the reason the _Grackle_ continued after you! I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make for the fattest of prizes. I told them anything they needed to hear to keep them in pursuit."
+*"Get me _off_ the _Grackle_? The _Grackle_ was a blessing! When the hatch opened, I felt I was given a second chance. A chance I would use to clear the world of your callous ego, Sylvia, your selfish disregard. I made the _Grackle_ my tool. I'm the reason the _Grackle_ continued after you! I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make for the fattest of prizes. I told them anything they needed to hear to keep them in pursuit."*
 
 "Owen... I didn't know..." Her thumb fell off the transmitter. The radio remained dead for a few seconds.
 
-The radio dial re-lit. "...The worst thing now isn't you leaving me to die a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down, Sylvia. But now...now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually. 
+The radio dial re-lit. *"...The worst thing now isn't you leaving me to die a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down, Sylvia. But now...now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually.*
 
-"...Everyone eventually. But for me, the pit is only a few seconds away now. Know this, Sylvia: even now if I had one last chance, one last torpedo or any weapon I could reach you with at all, I would take that shot. I'd make firing on you my last act, if that was an option given to me. But I've got nothing now. No options at all."
+*"...Everyone eventually. But for me, the pit is only a few seconds away now. Know this, Sylvia: even now if I had one last chance, one last torpedo or any weapon I could reach you with at all, I would take that shot. I'd make firing on you my last act, if that was an option given to me. But I've got nothing now. No options at all."*
 
 The ship-to-ship radio went dark. It did not light again. Percy hung the mic up. She dropped the butt of her cheroot to the deck and crushed it under her boot heel.
 
@@ -1033,7 +1035,7 @@ The water Shakes sat in was rising quickly. Water was pissing in through cracks 
 
 He let the lighter go out.
 
-His whole life he had been able to make these machines --- all machines --- do what he wanted them to. But this particular one was failing him now. Shakes' resignation seemed to be the only appropriate response left. In the darkness he listened the water streaming into the submarine. It sounded like babbling brooks he had known long ago in his youth, on land. With no visual sensory input in the darkness, his mind instead saw the bright sunny brooks that brought fresh water down to the sea on the island where he had grown up. All his years on rusting and leaking submarines, and running water --- a sound of death on submarines --- still remained firstly the sound of life and his youth. 
+His whole life he had been able to make these machines --- all machines --- do what he wanted them to. But this particular one was failing him now. Shakes's resignation seemed to be the only appropriate response left. In the darkness he listened the water streaming into the submarine. It sounded like babbling brooks he had known long ago in his youth, on land. With no visual sensory input in the darkness, his mind instead saw the bright sunny brooks that brought fresh water down to the sea on the island where he had grown up. All his years on rusting and leaking submarines, and running water --- a sound of death on submarines --- still remained firstly the sound of life and his youth. 
 
 [//]: # (### Rescued by the Prospect, lifted from underneath)
 
@@ -1055,15 +1057,15 @@ He knew immediately that it did work because the radio panel lit up and the rapi
 
 Hemi picked up the mic from the front of the glowing box and squeezed the transmitter. The transmit power needle snapped to the right, just as it should. "_Prospect_, this is Hemi Howell, aboard the _Gnat_, do you copy?"
 
-"I sure do Hemi!" Percy's voice came back through the box. "We were worried that you were already flattened, and we'd just be bringing up your corpses in a squashed metal coffin! It's good to hear from you. Shakes there?"
+*"I sure do Hemi!"* Percy's voice came back through the box. *"We were worried that you were already flattened, and we'd just be bringing up your corpses in a squashed metal coffin! It's good to hear from you. Shakes there?"*
 
 "Captain Shakes is here, though wet. How did you find us?"
 
-"Cassandra of course! She managed to pick Shakes's little sinking craft out from all the noise of the _Grackle_ going down, and then she navigated us down with dead-on precision until we were under you. Just in the nick, too! Our batteries flatlined just after we picked you up. We're rising on a gentle ballast blow right now."
+*"Cassandra of course! She managed to pick Shakes's little sinking craft out from all the noise of the _Grackle_ going down, and then she navigated us down with dead-on precision until we were under you. Just in the nick, too! Our batteries flatlined just after we picked you up. We're rising on a gentle ballast blow right now."*
 
-"The _Grackle_?"
+"And the _Grackle_?"
 
-"They are on their way down the hole, Hemi, dragged by their ram first, I hope. Cassandra said she heard the boat split, and the bulkheads failing, and then the two biggest pieces went down."
+*"They are on their way down the hole, Hemi, dragged by their ram first, I hope. Cassandra said she heard the boat split, and the bulkheads failing, and then the two biggest pieces went down."*
 
 There was now light coming through the viewport around the streams of water coming from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect_'s sail out in the gloom.
 
