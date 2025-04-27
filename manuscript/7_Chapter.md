@@ -388,21 +388,21 @@ Hemi returned and reported that he successfully got a stumbling and groggy Grego
 
 [//]: # (### The Prospect hangs out silently on the surface while the sub with the ram searches)
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 Percy spent the next few hours in the control room, sitting in the dive planes control chair and smoking one cheroot lit off another as sea water once again seeped into the cargo hold, and the bow of her boat slipped slowly farther down into the water.
 
-Hemi called up a report from sonar every ten minutes or so. The first hour passed quickly, with Hemi's reports describing their pursuer's continued plodding movements towards the _Prospect_'s location. But Shakes's slow, noisy run off to the southeast eventually seemed to work, and the _Grackle_ adjusted its course to follow. The _Grackle_ began moving steadily away from the _Prospect_.
+Hemi called up a report from sonar every ten minutes or so. The first hour passed quickly, with Hemi's reports describing their pursuer's continued plodding movements towards the _Prospect_'s location. But Shakes's slow, noisy run off to the southeast eventually seemed to work, and the _Grackle_ adjusted its course to follow. The _Grackle_ moved steadily away from the _Prospect_.
 
 At least, at first. But in another hour, Hemi's reports made it clear that their pursuers were now familiar with the tactic of using the _Gnat_ to draw them off. The _Grackle_ gave up the chase to the southeast and started to move in large, slowly searching circles. They returned to using active sonar. The pings once again unnervingly echoed through the hull of the _Prospect_ every ten minutes or so.
 
-By the third hour, the fear of being found started to convert into the somewhat safer feeling that came with monotony. It was clear that the active sonar pinging was not helping the _Grackle_ sort through the mass of contacts that echoed back to find the _Prospect_. The _Grackle_ gave no sign that it would leave off its diligent search, but Percy began to feel more and more confident that unless they were spotted visually, the _Prospect_ could continue to play the part of the proverbial needle while the _Grackle_ dug through the haystack.
+By the third hour, the fear of being found started to convert into the somewhat safer feeling that came with monotony. It was clear that the active sonar pinging was not helping the _Grackle_ sort through the mass of contacts that echoed back to find the _Prospect_. The _Grackle_ gave no sign that it would leave off its diligent search, but Percy began to feel more and more confident that unless they were spotted visually, the _Prospect_ could continue to play the part of the proverbial needle while the _Grackle_ sifted through the haystack.
 
-After hours alone in the empty cargo hold, standing in reeking bilge water, Gregory finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the most substantial part of the leaking. She reached over and patted his head, and then wiped her palm on her pants. By now the bow of the _Prospect_ leaned down about five degrees. She opened a couple of valves on the trim tank control panel and let water flow into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was nothing but another derelict.
+After hours alone in the empty cargo hold, standing in reeking bilge water, Gregory finally put his dripping and stinking head into the control room to report to Percy that he had successfully stanched the most substantial part of the leaking. She reached over and patted his head, and then wiped her palm on her pants. 
+
+By now the bow of the _Prospect_ leaned down about five degrees. She opened a couple of valves on the trim tank control panel and let water flow into the rear trim tanks. The stern sank slowly down until the boat was level. This left the _Prospect_ at a depth where the deck was under water, but most of the sail was still dry. Percy figured floating the boat slightly deeper could only enhance the perception that it was nothing but another derelict.
 
 [//]: # (5 degree slope on a 100 meter ship puts the bow... 6 meters under water, I believe. Good thing the sail on the Prospect is located well back on the deck.)
 
-Long hours of this stagnant situation turned into even longer hours. While Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was the thing a submarine was best at --- and in this world of discreet shipping, this was the reason so much cargo now crawled across the globe underwater. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that while they were safe for the moment, it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the _Grackle_ would intuit the same conclusion.
+Long hours of this stagnant situation turned into even longer hours. While Percy believed that the most important quality in a submariner was the ability to put patience above all else, she also knew that not taking action was a kind of action. In many cases the right move for a submarine was to simply hide and wait. It was, after all, the thing a submarine was best at. But the success of using hiding as a technique obviously depended entirely on having a reasonable chance of not being found. Percy's intuition told her that they were safe for the moment, but it was only a matter of time before their chances of not being found decreased to virtually nothing. She was confident the commander of the _Grackle_ would intuit the same conclusion.
 
 [//]: # (### Hemi comes up with a plan)
 
@@ -414,7 +414,7 @@ She heard Hemi's heavy step from the ladder onto the bridge, but she did not loo
 
 "Having charted their search pattern, I agree. They are following an extremely systematic course, and that suggests to me that sub commander has high confidence that he will find us eventually --- and is willing to take the time to do it."
 
-"We need to end this. We can't run and hide forever. That fucker might be under the delusion he's fighting an entrenched battle, and will go on fighting with all the deep-pocketed resources of an Authority. But we have got to get back to work. We have no margin to cover constantly operating in this fucked-up prey condition."
+"We need to end this. We can't run and hide forever. That fucker might be under the delusion he's fighting an entrenched battle, and will continue the effort with all the deep-pocketed resources of an Authority. But we have got to get back to work. We have no margin to cover constantly operating in this fucked-up prey condition."
 
 "I have had the same thought. And I have an idea we could try --- though I warn you that it is extremely unlikely to work."
 
@@ -426,7 +426,7 @@ At this, Percy lowered the lenses and looked at him. "You have another option an
 
 "The only weapon we have."
 
-"Indeed. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon --- as Miss Mai was so fond of pointing out to me. We can't just underhand one over the water at them."
+"Surely. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon --- as Miss Mai took such pains to make clear to me. We can't just underhand one over the water at them."
 
 "That where is the part of my idea that might get us killed comes in --- I propose we use the _Gnat_."
 
@@ -447,15 +447,17 @@ Hemi proceeded to lay out a plan for her that, though it had a good chance of en
 
 Hemi got Herschel launched, carrying instructions to Shakes to return to the _Prospect_ submerged and running slowly on battery power. It was going to take a while for Herschel to find Shakes, and then a while longer for Shakes to motor quietly back. Hemi figured he had a couple of hours at least to gather the things he needed.
 
-The magnetic warheads were in the crates he had left in the cargo hold. He selected a half dozen of the least-rusty ones and hauled them to a work-table in the engine room. Each weighed about twenty-five kilograms and consisted of a cylinder containing high explosives that was about three hundred millimeters in diameter. Attached to one end of the cylinder was a small-diameter device with the switching mechanism in it, and on top of that was a big plate with a magnet that was strong enough to activate the switching mechanism, but weak enough that it was not likely to actually adhere itself to the target. The magnet was intended to be a trigger, not an attaching component.
+The magnetic warheads were in the crates he had left in the cargo hold. He selected a half dozen of the least-rusty ones and hauled them to a work table in the engine room. Each weighed about twenty-five kilograms and consisted of a cylinder containing high explosives that was about thirty centimeters in diameter. Attached to one end of the cylinder was a narrower device with the switching mechanism in it, and on top of that was a big plate with a magnet that was strong enough to activate the switching mechanism, but weak enough that it was not likely to actually adhere itself to the target. The magnet was intended to be a trigger, not an attaching component.
 
-The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device could be understood and thus handled safely by any idiotic naval deckhand. Details were printed right on the side of the explosives cylinder. 
+The devices were designed to be as simple as possible, with the idea that while a complex device could have more safety features, a simpler device could be understood and thus handled safely by any idiot naval deckhand. Details were printed right on the side of the explosives cylinder. 
 
 Adjusting his glasses and reading this block of text, Hemi learned that the particular mix of high explosives the cylinder contained was held very stable by a cake of exoskeletons from extinct microscopic sea creatures. It could not be set off without providing power to the detonation switch and closing the arming circuit. At the same time, the explosive did not seem so finicky that it would not go off in the close presence of another high explosive. A fortunate thing, because Hemi estimated he needed to chain at least two of these devices to detonate if he wanted to blow a hole through the pressure hull of a military submarine.
 
-He used large steel straps to join two of the cylinders together, orienting them so the magnetic trigger plates faced outwards on both ends. He tracked down some batteries in waterproof cases and wired them in as the power supplies for the triggers. In a forgotten storage compartment for parts in the engine room, he found a pile of old mechanical timed switches that could be wound up and the timer set for when they would close the circuit. He wired these into the arming circuit on each warhead.
+He ratcheted steel straps around two cylinders to join them together, orienting them so the magnetic trigger plates faced outwards on both ends. He tracked down some batteries in waterproof cases and wired them in as the power supplies for the triggers. In a forgotten storage compartment for parts in the engine room, he found a pile of old mechanical timed switches that could be wound up and the timer set for when they would close the circuit. He wired these into the arming circuit on each warhead.
 
-He made three more doubled-up units like this. With two magnetic warheads strapped together, each weighed more than fifty kilograms. Then he plundered the many storage compartments throughout the boat, looking for the rest of the parts he needed: some old boat fenders, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips. So a screwdriver went on his list of things to find too.
+He made three more doubled-up units like this. With two magnetic warheads strapped together, each weighed more than fifty kilograms.
+
+Then he plundered the many storage compartments throughout the boat, looking for the rest of the parts he needed: some old boat fenders, heavy line, air hoses and chucks, and his slide rule and clipboard. He wished he had some small clamps, but those were not to be found anywhere. He would have to make do with screw-tightened steel clips.
 
 He had gathered most of the parts he needed when he heard the bump of the _Gnat_ attaching to the bottom of the _Prospect_. By the time Percy's voice came over the PA a few minutes later to let him know Shakes was aboard, Hemi had recruited Gregory to help him move all his parts and equipment down to the _Prospect_'s battery compartment near the hatch to the _Gnat_.
 
@@ -473,7 +475,7 @@ Hemi had Shakes swap places with him, and standing down in the _Gnat_ he receive
 
 With everything aboard, Shakes climbed down and joined Hemi in the _Gnat_.
 
-"I hope you didn't fuckin' forget anything," Shakes said, looking at the pile of what appeared to be fundamentally garbage in the middle of his boat's cargo space.
+"I hope you didn't fuckin' forget anything," Shakes said, looking at the pile of what fundamentally appeared to be garbage in the middle of his boat's cargo space.
 
 "If we need anything else, I am sure the copious bounty of the _Gnat_'s hold will provide," Hemi replied.
 
@@ -487,13 +489,13 @@ Gregory reached out his hand, and Hemi lifted one meaty mitt to meet it. Shakes 
 
 "Don't fuckin' die down there, Captain Shakes," Gregory said, angling his head so his voice reached back to where Shakes was standing.
 
-"If I do, take care of fuckin' Herschel!" Shakes called back as Gregory seated and sealed the _Gnat_'s hatch.
+"Well, that's not _my_ plan," said Shakes, beginning to sound nervous. "But if I do, take care of fuckin' Herschel!" Gregory seated and sealed the _Gnat_'s hatch.
 
 Shakes shimmied forward and slithered into the _Gnat_'s control seat. He unclipped one of the bigger wrenches from his hip and gave the hatch above his head a ringing double-tap to let Gregory know they were about to disconnect. As his hand with the wrench came down, he put out a finger and snapped open the switch that connected the circuit to the docking clamps. It was immediately followed by a low thump from the outside of the _Gnat_'s hull.
 
-Hemi was still wedged into the small space next to the control chair. "If you're going to take up that space there, big guy, would you mind workin' the fuckin' trim? Give us a bit o' flood if you don't mind."
+Hemi was still wedged into the small space next to the control chair. "If you're going to take up that space there, big guy, would you mind workin' the trim? Give us a bit o' fuckin' flood if you don't mind."
 
-Shakes had left the _Gnat_ a little over-buoyant while it was attached to the _Prospect_, so even with the docking clamps disengaged, the boat's mating collar was still pressed firmly against the _Prospect_'s. Hemi twisted open a valve and they could hear water pouring into the _Gnat_. Only seconds later, the boat dropped a meter or two. Shakes gave the electric motor some throttle. Most of the dials in front of the two men suddenly came to life, their little fingers of fate wagging at them.
+Shakes had left the _Gnat_ a little over-buoyant while it was attached to the _Prospect_, so even with the docking clamps disengaged, the boat's mating collar was still pressed firmly against the _Prospect_'s. Hemi twisted open a valve and they could hear water pouring into the _Gnat_, and the boat dropped a meter or two. Shakes gave the electric motor some throttle. Most of the dials in front of the two men suddenly came to life, their little fingers of fate wagging at them.
 
 *"_Gnat_, _Gnat_. You boys fuckin' listening?"* Percy's voice lit up the ship-to-ship radio.
 
@@ -541,6 +543,8 @@ Hemi hung the mic back on the hook.
 
 "The _Prospect_ is going to be the fuckin' bait for the _Grackle_? What kind of fuckin' plan is that?" 
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "Bear with me. We need to get the _Gnat_ into position, and I need to prepare some things. Then we will go over the plan."
 
 "OK. To the surface and running on diesel it is." Shakes gave the _Gnat_ a little more throttle while peering through the small viewport in front of him. He turned the steering yoke and drove the _Gnat_ silently out from under the _Prospect_ for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
