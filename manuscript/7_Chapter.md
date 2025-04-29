@@ -543,8 +543,6 @@ Hemi hung the mic back on the hook.
 
 "The _Prospect_ is going to be the fuckin' bait for the _Grackle_? What kind of fuckin' plan is that?" 
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "Bear with me. We need to get the _Gnat_ into position, and I need to prepare some things. Then we will go over the plan."
 
 "OK. To the surface and running on diesel it is." Shakes gave the _Gnat_ a little more throttle while peering through the small viewport in front of him. He turned the steering yoke and drove the _Gnat_ silently out from under the _Prospect_ for a few hundred meters, then pulled back and the little submarine rose until the bow poked softly through the oily ocean surface.
@@ -569,11 +567,11 @@ Shakes joined him a second later. "I almost fuckin' forgot! After the diesel sta
 
 Hemi nodded as Shakes grinned at him and slammed his thumb down on the starter.
 
-Hemi knew it would be loud. But he was not prepared for the sheer penetrating amplitude of the over-powered engine, which had no muffler to speak of. It rolled and roared its way to life, and the pressure of the sound swamped the entire interior of the small craft from bow to stern.
+Hemi knew it would be loud. But he was not prepared for the sheer biting penetration of the over-powered engine, which had no muffler to speak of. It rolled and roared its way to life, and the pressure of the sound swamped the entire interior of the small craft from bow to stern.
 
-Being direct drive, unlike the _Prospect_, the _Gnat_'s engine also shook the boat a lot more. Also unlike the _Prospect_, the _Gnat_'s diesel changed pitch and volume as the boat gained speed and the engine had to work harder. Shakes pushed the throttle forward and the already all-consuming sound grew, clawing its way into the deepest folds of Hemi's tweed clothing until the bass notes vibrated his clothes against his skin, resonated in the huge void of his chest, and shook every last tiny screw holding the _Gnat_ together.
+Being direct drive, unlike the _Prospect_, the _Gnat_'s engine also shook the boat a lot more. Also unlike the _Prospect_, the _Gnat_'s diesel changed pitch and volume as the boat gained speed and the engine had to work harder. Shakes pushed the throttle forward and the already all-consuming sound grew, clawing its way into the deepest folds of Hemi's thick clothing until the bass notes vibrated the fabric against his skin and resonated in the huge void of his chest. The _Gnat_ shook down to the tiniest screws holding it together.
 
-Hemi squeezed himself into the small space next to the pilot's seat where Shakes was guiding the boat. In that space he could reach the sonar controls, which Shakes had set up close enough to the pilot's seat so that normally he could work the sonar himself while driving the boat. With Hemi aboard, he was happy to let someone else keep an eye on the sonar.
+Hemi squeezed himself into the small space next to the pilot's seat where Shakes was guiding the boat. In that space he could operate the sonar controls, which Shakes had set up close enough to the pilot's seat so that normally he could work the sonar himself while driving the boat. With Hemi aboard, he was happy to let someone else keep an eye on the sonar.
 
 Hemi did not even bother with the headset. There was no way they would hear anything on passive sonar above the raucous engine noise of the _Gnat_'s diesel. But he punched the active sonar ping button and it was loud enough to get a response. The sonar sweep laid out a speckled ground plan of contacts in the ten nautical miles or so around the _Gnat_. Hemi waited five minutes and then fired off another ping. Only one dot had changed position, and that was the _Grackle_. It had moved from its intercept course with the _Prospect_ and swung around to follow the engine noise of the _Gnat_.
 
@@ -581,7 +579,7 @@ Hemi did not even bother with the headset. There was no way they would hear anyt
 
 A few minutes later Hemi let go one more ping just to be sure the _Grackle_ was still following the _Gnat_, which it was. Then he powered down the sonar unit. Any further pings would run the risk of giving away the position of the _Prospect_ to the _Grackle_ after Percy started maneuvering her boat. For the time being, with the _Gnat_'s engine overwhelming everything else in the water, Hemi would have to just guess the status of the other boats by dead reckoning.
 
-Hemi caught Shakes's eye and pointed up to the hatch. Shakes nodded and squeezed off the other side of the pilot's seat. Hemi passed through the space of the vacated pilot's chair to climb up and open the hatch above. He stepped out into the shallow stream that washed over the deck of the _Gnat_.
+Hemi caught Shakes's eye and pointed up to the hatch. Shakes nodded and squeezed to one side to allow Hemi to climb up and open the hatch above. He stepped out into the shallow stream that washed over the deck of the _Gnat_.
 
 The surface was mostly calm, with a light breeze under a bright gray sky. With the hatch open, Shakes piloted the boat standing. With his head up out of the sail, he kept a fierce eye forward for large pieces of debris or sunken hulks. Hemi shaded his eyes and scanned the horizon behind. They had only made a couple of miles from the _Prospect_, and Hemi could still see its gray sail rolling slowly from side to side, outlined dimly against the cloudy sky. But it was just one of a half dozen other large inert masses bobbing on the ocean surface within eyesight, not to mention the hundreds of smaller bits slowly churning through the scummy black water and occasionally clacking against each other. 
 
@@ -611,7 +609,7 @@ The silence only lasted a second before Shakes's suddenly nasally-sounding voice
 
 Hemi pulled the levers in reverse order from before to disengage the drive from the diesel and re-engage the electric motor. Unlike the diesel, the electric motor did not have to be started, of course. Shakes just pushed the throttle forward and the much softer hum of the electric drive motor increased in pitch along with the slight sense of acceleration.
 
-Hemi stepped forward and powered up the passive sonar unit. He lifted the headset from the welded steel peg from which it hung and put it on. He listened to the quiet ocean around them. He could not hear the _Prospect_ at all --- Percy must be running very slowly. But swinging the mics around, he found the _Grackle_ easily --- a few nautical miles off to the west of the _Gnat_. Even though the pursuing sub had to be much further away than the _Prospect_, and even though they were running submerged on electric motors, the _Grackle_ was running fast enough to be easily tracked. They did not care who knew where they were.
+Hemi stepped forward and powered up the passive sonar unit as he slipped the headset from the welded steel peg it hung on. He listened to the quiet ocean around them. He could not hear the _Prospect_ at all --- Percy must be running very slowly. But swinging the mics around, he found the _Grackle_ easily --- a few nautical miles off to the west of the _Gnat_. Even though the pursuing sub had to be much further away than the _Prospect_, and even though they were running submerged on electric motors, the _Grackle_ was running fast enough to be easily tracked. Apparently they did not care who knew where they were.
 
 It took Hemi about fifteen minutes of listening to get a grasp on the situation. The _Grackle_ had given up the pursuit of the _Gnat_, probably not long after Shakes and Hemi had started the engines. Hemi assumed they had quickly realized the _Gnat_ was once again playing a decoy. But the _Gnat_'s run had apparently thrown just enough confusion into the water for the _Grackle_ to have lost their bead on the _Prospect_. They had taken up a search pattern again, and Hemi tracked them turning through a multi-mile diameter circle as they looked for the _Prospect_. They were pinging regularly, so if Percy was moving, there was a good chance they would find the _Prospect_ soon.
 
@@ -637,6 +635,8 @@ Hemi pulled back one earpiece and turned to Shakes. "There is not much time. Giv
 
 Hemi put the headset earpieces back over his ears and listened closely as he slowly spun the sonar in an arc across the direction of the bow of the _Gnat_. He slowed when the microphones were pointed a little off the starboard side, and then stopped.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "Sylvia is on the move," Hemi said quietly.
 
 "Really? Seems stupid, with that sub looking for her."
