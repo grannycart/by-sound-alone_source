@@ -633,10 +633,8 @@ Hemi pulled back one earpiece and turned to Shakes. "There is not much time. Giv
 
 [//]: # (### Getting the boats and the devices into position)
 
-Hemi put the headset earpieces back over his ears and listened closely as he slowly spun the sonar in an arc across the direction of the bow of the _Gnat_. He slowed when the microphones were pointed a little off the starboard side, and then stopped.
+Hemi put the headset earpieces back over his ears and listened closely as he slowly spun the sonar in an arc across the bow of the _Gnat_. He slowed when the microphones were pointed a little off the starboard side, and then stopped.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "Sylvia is on the move," Hemi said quietly.
 
 "Really? Seems stupid, with that sub looking for her."
@@ -653,7 +651,7 @@ Shakes leaned his hand on the throttle, but it was already pushed all the way to
 
 "Down. Thirty meters. The _Grackle_ has clearly heard the _Prospect_'s run and matched its depth. They are lined up in pursuit a little less than five miles behind. We need to intercept their course in the next ten minutes or so, if we possibly can." Hemi lifted a stopwatch that hung from the same peg the sonar headset was stowed on and clicked it once to reset it to zero. He counted for a few seconds while listening, and then clicked it a second time to start the stopwatch. He made a note on the clipboard.
 
-"If your plan doesn't work, Hemi, the _Prospect_ is done for. Honestly, I'm not even sure why they haven't already fired a torp."
+"If your plan doesn't work, Hemi, the _Prospect_ is done for. Honestly, I'm not even sure why the _Grackle_ hasn't already fired a torp."
 
 "There are still a number of derelicts around. A torpedo is a precious thing. At the moment it is still too likely they would hit one of those garbage hulls rather than their target." Hemi looked down at the stopwatch, ticking away loudly and quickly. "I have to get ready. Do not change speed or course."
 
@@ -661,15 +659,15 @@ Shakes leaned his hand on the throttle, but it was already pushed all the way to
 
 Hemi left the headset behind on its peg, now relying entirely on the stopwatch and the unvarying speed and course of the _Gnat_ to know where he was in the water. He gingerly moved toward the stern, stepping over and around the detritus Shakes felt was perfectly reasonable to cast about in his only living space. 
 
-He picked up one of the explosive devices. It was heavy enough that even Hemi struggled a little to lift it. In addition to the sheer weight of the two warheads strapped together, he had to manage the awkward fenders and lines that tangled themselves repeatedly around the myriad protrusions that plague the interiors of all submarines.
+He picked up one of the explosive devices. It weighed enough that even Hemi struggled somewhat to lift it. In addition to the sheer weight of the two warheads strapped together, he had to manage the awkward fenders and lines that tangled themselves repeatedly around the myriad protrusions that plague the interiors of all submarines.
 
-The escape trunk was located behind the engine and motor, so it took some effort on Hemi's part to pass one of the heavy devices through the narrow space and push it back until it was underneath the cylinder of the escape trunk that hung down from above. The escape trunk had a heavy hand-screw-sealed hatch on the bottom of the cylinder. Hemi opened the hatch and hefted the device up into the narrow interior space. 
+The escape trunk was located behind the engine and motor, so it took some effort on Hemi's part to pass one of the unwieldy devices through the narrow space and push it back until it was underneath the cylinder of the escape trunk that hung down from above. The escape trunk had a thick hand-screw-sealed hatch on the bottom of the cylinder. Hemi opened the hatch and hefted the device up into the narrow interior space. 
 
-His intention was to get the device to sit on a narrow ledge that circled the lower inside rim of the hatch, which was intended as a foothold for the person who wanted to escape to stand on while sealing the hatch from the inside. It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuffed the fenders in. The fenders were even more of a challenge to position so they would stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the fenders to stay in the trunk by propping them on the ledge and leaning the two fenders against each other.
+His intention was to get the device to sit on a narrow ledge that circled the lower inside rim of the hatch, which was intended as a foothold for the escaping person to stand on while sealing the hatch from the inside. It was difficult to get the heavy warhead package to balance on it, but he did manage eventually to arrange it so it no longer tried to tilt back into the empty space over the hatch. Then he piled the excess line on top of the warhead package and stuffed the fenders in. The fenders were even more of a challenge to position so they would stay up in the escape trunk, but at least they hardly weighed anything and had no chance of exploding if dropped. He finally got the fenders to stay in the trunk by propping them on the ledge and leaning the two fenders against each other.
 
 Finally, Hemi reached back up into the escape trunk and wound the mechanical timers that would close the circuit to arm the warheads when the timer reached zero. He set them to a frighteningly-short five minutes --- hardly enough time for the _Gnat_ to drive clear of the amount of explosive the combined warheads packed. But he could not risk the devices being unarmed when the _Grackle_ came within range of them. 
 
-Time was compressing down on Hemi. The little mechanical timers buzzed away, their sound reverberating around inside the circular steel walls of the escape trunk. The rickety little devices strove desperately to count out their five minutes with some precision. Hemi gingerly lowered the escape trunk hatch down and spun the sealing wheel closed, which cut off the quick ticking of the timers and left him in silence.
+Time was compressing down on Hemi. The little mechanical timers buzzed away, their sound reverberating around inside the circular steel walls of the escape trunk. Hemi gingerly lowered the escape trunk hatch down and spun the sealing wheel closed, which cut off the quick ticking of the timers and left him in silence.
 
 [//]: # (### Releasing the devices; breaching the Gnat)
 
@@ -685,11 +683,11 @@ Hemi looked around the outside of the escape trunk for a control that would floo
 
 "Alright. It will have to do. Be ready, I will open the escape trunk in another minute or so."
 
-Hemi held the stopwatch up in front of his eyes and the second hand rapidly screwed itself across the face. In his head, Hemi could see their position in the water, see where the _Prospect_ should be off to their port side, and see the _Grackle_ --- all black and fiercely toothy in the front in its way that was entirely unnatural for a submarine --- charging towards Shakes's rickety little craft from starboard. The boats all moved relative to each other in his head, driven into position by the second hand on the stopwatch. He put his hand up to the heavy iron lever covered with flecks of rust above his head.
+Hemi held the stopwatch up in front of his eyes and the second hand rapidly screwed itself across the face. In his head, Hemi could see their position in the water, see where the _Prospect_ should be off to their port side, and see the _Grackle_ --- all black and fiercely toothy in front in its way that was entirely unnatural for a submarine --- charging towards Shakes's rickety little craft from starboard. The boats all moved relative to each other in his head, driven into position by the second hand on the stopwatch. He closed his hand over the end of the heavy iron lever covered with flecks of rust.
 
-The second hand curled around and came up level. In Hemi's head, the boats were all in the exact position. His thick fingers tightened on the lever, and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
+The second hand curled around and came up level. Now, in Hemi's head, the boats were all in the exact position. His thick fingers tightened on the lever, and then the muscles all the way down his arm to his shoulder tightened --- the lever had been resting and rusting peacefully for years.
 
-But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and flapped back against the deck of the _Gnat_. Hemi could almost feel the intense weight of the water under the pressure of three atmospheres dropping into the escape trunk almost instantaneously. He put his ear against the trunk. Through the cold, damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
+But it budged, then gave, then swung back. From above his head came a loud clang as the escape trunk hatch snapped open and flapped back against the deck of the _Gnat_. Hemi could almost feel the weight of the water under the pressure of three atmospheres dropping into the escape trunk in the matter of an instant. He put his ear against the trunk. Through the cold, damp steel he could hear the gentle bumping as his device lifted up and clear of the trunk.
 
 "The device is away, Captain Shakes!"
 
@@ -711,7 +709,7 @@ Shakes cut the throttle to the motor and caught Hemi's eye. He pointed to the ha
 
 Nothing moved under that silent dome of sky as one minute passed, then another. Shakes shaded his eyes against the brightness and scanned the water between him and the horizon line, looking for any surface manifestation of the movements going on below.
 
-Another minute passed. And then, much closer than Shakes had anticipated, the heavy thud of an underwater explosion broke through the surface, and a plume of water, driven up and forward by explosive momentum shot upwards and dropped a gray oily rain onto the deck of the _Gnat_. The rain passed up in a rapid squall line from stern to bow, soaking Shakes where he sat on the sail.
+Another minute passed. And then, much closer than Shakes had anticipated, the heavy thud of an underwater explosion broke through the surface, and a plume of water, driven up and forward by explosive momentum, shot upwards and dropped a gray oily rain onto the deck of the _Gnat_. The rain passed up in a rapid squall line from stern to bow, soaking Shakes where he sat on the sail.
 
 "Ha ha! Hemi! It worked!"
 
@@ -725,7 +723,7 @@ Shakes's initial feeling of excitement that such a claptrap device actually func
 
 "They hit my explosive with their ram, which is probably a very well-reinforced part of the sub." Hemi hesitated. "We need to figure out how to deliver a charge to a weaker point."
 
-"Yeah, and while you are pondering that tiny challenge, they are closing in for a shot on the _Prospect_."
+"Yeah, and while you are pondering that minuscule challenge, they are closing in for a shot on the _Prospect_."
 
 "Hopefully Captain Percy can manage one close pass by the _Grackle_ and give us time to get another device into position. We need to get the _Gnat_ back under water."
 
@@ -750,6 +748,8 @@ Shakes stepped out of the sail and leaned over the now empty escape trunk where 
 
 In the control room of the _Prospect_, Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through her boat's hull.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "Cassandra!" Percy shouted down to the sonar compartment. "Tell me what just happened!"
 
 Cassandra nervously fumbled with the directional control wheel for the sonar mics and flipped filter switches on and off. "There was an explosion..."
