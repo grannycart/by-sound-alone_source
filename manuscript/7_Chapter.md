@@ -748,8 +748,6 @@ Shakes stepped out of the sail and leaned over the now empty escape trunk where 
 
 In the control room of the _Prospect_, Percy heard the detonation of Hemi's device, stripped of all but the lowest frequencies as the sound passed through miles of water and refracted through her boat's hull.
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "Cassandra!" Percy shouted down to the sonar compartment. "Tell me what just happened!"
 
 Cassandra nervously fumbled with the directional control wheel for the sonar mics and flipped filter switches on and off. "There was an explosion..."
@@ -766,7 +764,7 @@ A full minute passed.
 
 "But what, Cassandra? I need to know what's happening!"
 
-Cassandra sighed. "I can hear them now. The _Grackle_ is still after us. It is definitely not sinking. As far as I can tell, it isn't even damaged."
+Cassandra sighed. "I can hear them now. The _Grackle_ is still moving. Still behind us. It is definitely not sinking. As far as I can tell, it isn't even damaged."
 
 Percy spat and lit a cheroot. "It sounded so good. I thought we'd at least have taken a bit of wind out of their sails." This, mostly to herself.
 
@@ -780,7 +778,7 @@ Percy spat and lit a cheroot. "It sounded so good. I thought we'd at least have 
 
 "You have to work this out, Cassandra. You know what a pinging torpedo sounds like. Listen until you can see what's happening in your head. Then tell me what I need to do."
 
-Cassandra slowly closed her eyes. The sonar earphones pumped sound into her head, and her mind passed out of the _Prospect_ and into the water. She searched around with it, looking to port, then to starboard behind the _Prospect_, passing over the dead zone where the prop wash made her deaf. She homed in on the torpedo --- a high whining electric motor just off their rear port side. She wrapped her head around it, and in her mind she could see the machine: a long, slick steel tube slipping through the water at a speed that was far faster than anything else she'd ever seen in her mind's eye through sonar. It was coming directly toward her.
+Cassandra slowly closed her eyes. The sonar earphones pumped sound into her head, and her mind once again passed out into the water. She searched around with it, looking to port, then to starboard behind the _Prospect_, passing over the dead zone where the prop wash made her deaf. She homed in on the torpedo --- a high whining electric motor just off their rear port side. She wrapped her head around it, and in her mind she could see the machine: a long, slick steel tube slipping through the water at a speed that far exceeded anything else she'd ever seen in her mind's eye through sonar. It was coming directly toward her.
 
 It started pinging. The round ringing echo of it almost hurt her ears.
 
@@ -842,7 +840,7 @@ Then she heard the faintest rhythmic pumping noise, off to the starboard side. I
 
 *"_Prospect_! Captain Shakes here. I read you. Nice to hear you didn't go down with that last torp."*
 
-"Indeed. Unfortunately, Gregory here has a theory that now the _Grackle_ is after us for another ramming. Based on the speed they've put on, I'm inclined to agree with him. So...what's the plan now?"
+"Indeed. Unfortunately, Gregory here has a theory that now the _Grackle_ is lining us up for another ramming. Based on the speed they've put on, I'm inclined to agree with him. So...what's the plan now?"
 
 *"Aye. Well, Hemi says he still thinks he can take them down. He just needs to deliver one of his devices to a weaker part of their sub than the ram --- which is what they detonated the last one with."*
 
@@ -867,6 +865,8 @@ As Percy hung the mic back up above her head, Bastian reached one long finger ou
 
 "Captain Shakes, we have to go deeper. Fifty meters."
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 "Ain't gonna happen, Hemi. The _Gnat_ was built at altitude! The heart of the boat is in the sky, not underwater."
 
 "That's a somewhat odd sentiment for a submarine."
