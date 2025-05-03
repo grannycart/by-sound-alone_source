@@ -865,15 +865,13 @@ As Percy hung the mic back up above her head, Bastian reached one long finger ou
 
 "Captain Shakes, we have to go deeper. Fifty meters."
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 "Ain't gonna happen, Hemi. The _Gnat_ was built at altitude! The heart of the boat is in the sky, not underwater."
 
 "That's a somewhat odd sentiment for a submarine."
 
 "Below thirty and the seams start splitting. Fifty is out of the question."
 
-"If we lay the mines shallow, the _Grackle_ hits them head on. As you could see from the first device, the ram essentially acts as heavy plated armor. We are not going to do any damage if their boat hits the mine with the ram. If we can get the device _under_ their boat, though --- if we can get it to detonate right in the middle of their sub --- the upward force of the explosion will blow through the middle and break the sub's back. Snap it in half. And all the watertight compartments in the world will not help them at that point. At least, in theory."
+"If we lay the mines shallow, the _Grackle_ hits them head on. As you could see from the first device, the ram essentially acts as heavy plated armor. We are not going to do any damage if their boat hits the mine with the ram. But if we can get the device _under_ their boat --- if we can get it to detonate right in the middle of their sub --- the upward force of the explosion will blow through the middle and break the sub's back. Snap it in half. And all the watertight compartments in the world will not help them at that point. At least, in theory."
 
 "That sounds to me like the _Gnat_ would have to be directly under them, release the mine, and have it go off almost immediately. How are we surviving that, Hemi?"
 
@@ -893,7 +891,7 @@ Hemi pounded on one of the roughly welded thwarts. "It is a good boat. I think i
 
 "I'd have more faith in that statement if it came at a time when you were not trying to convince me to do something incredibly, suicidally stupid with the _Gnat_."
 
-Hemi grinned and patted Shakes on the shoulder. He picked up the sonar headset and put one earpiece over his ear. After a second of listening, he gave Shakes a new course. "Come left to 330. That will put us on an intercept with the _Grackle_ again." Hemi started his stopwatch.
+Hemi patted Shakes heavily on the shoulder. He picked up the sonar headset and put one earpiece over his ear. After a second of listening, he gave Shakes a new course. "Come left to 330. That will put us on an intercept with the _Grackle_ again." Hemi started his stopwatch.
 
 It was natural that any person piloting the _Gnat_ could not help but look out the small viewport set into the sail at eye level. After aligning the bow of the boat to 330, and pushing the throttle control all the way forward, Shakes's eyes peered out into the murky water, and scanned upwards. There was nothing to see, but Shakes could never resist the temptation to try.
 
@@ -903,6 +901,8 @@ It was natural that any person piloting the _Gnat_ could not help but look out t
 
 "More than a thousand meters. All we are asking the _Gnat_ to do is swim a bit deeper in the very top layer of all that water. No big deal."
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 Shakes patted the cold rusting steel of the hull closest to his head. "Boat, you're the only thing that can keep us from being sucked into that hole under us. It wants us, I can feel it --- but you're a good little boat, even Hemi says so. You're just the tool to keep us above that pit." With this clandestine blessing, he pushed the yoke forward and the _Gnat_'s little dive planes responded by angling downward.
 
 They gained depth quickly, and almost immediately the hull of the _Gnat_ began to groan with the stress of it.
