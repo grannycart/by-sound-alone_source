@@ -951,14 +951,10 @@ Shakes pulled the throttle back to the zero mark, and the boat drifted. Hemi pic
 
 Hemi gave one final smack against the release lever with the wrench.
 
-He heard a pop, and water falling into the escape trunk. Hemi quickly leaned over and slapped his ear against the damp steel of the escape trunk. He could hear the mine bumping as it lifted away out of it. "It opened! Full throttle! Any direction! Get us away from here!"
+He heard a pop, and water falling into the escape trunk. Hemi quickly leaned over and slapped his ear against the damp steel of the escape trunk. He could hear the mine bumping as it lifted away out of it. "It opened! Full throttle! Any direction! Get us away from here!" The electric motor behind Hemi wound up, and the sudden acceleration almost rolled him off his feet.
 
 [//]: # (### The _Grackle_ is exploded; the Gnat is sinking)
 
-The electric motor behind Hemi wound up, and the sudden acceleration almost rolled him off his feet.
-
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 Shakes lowered his head and tried to see up through the tiny viewport. Above the _Gnat_, the water was lighter. He saw a dark shadow pass through the light. 
 
 "Blow the tanks!" Hemi yelled from the rear of the sub.
@@ -971,9 +967,11 @@ Shakes tapped the gauge. He pushed the lever down, and pulled it up again, hard.
 
 Nothing happened.
 
-"No-go, Hemi," Shakes said with some kind of doomed resolve reflecting in his voice. "We must have cracked the ballast tanks. The blow ain't doin' crap. I think we're done here."
+"No-go, Hemi," Shakes said with some kind of doomed resolve reflecting in his voice. "We must have cracked the ballast tanks. The blow ain't doin' nothing. I think we're done here."
 
-That was when the mine detonated. Far too close to the _Gnat_ for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the _Gnat_'s small sail and yanked on it. The sound was so loud that it rang Shakes's and Hemi's ears. Whatever small cracks had opened in the seams before now split wide, and freezing black water poured in. The power blinked and went out. 
+That was when the mine detonated. Far too close to the _Gnat_ for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the _Gnat_'s small sail and yanked on it. The sound was so loud that it rang Hemi and Shakes's ears. Whatever small cracks had opened in the seams before now split wide, and freezing black water poured in.
+
+The power blinked and went out. 
 
 Hemi felt his way forward in the blackness, climbing over the engine. He found Shakes by feel. Shakes was laying against the sonar equipment on the side wall that was now the floor, in half a meter of water that was rising quickly.
 
@@ -988,7 +986,7 @@ The _Gnat_ was sinking.
 
 [//]: # (### In the Prospect, the big reveal.)
 
-The explosion of the second device had rocked the _Prospect_. Just a sway, but enough force for Percy to start worrying about the strength of the seam in the cargo hold once again.
+The explosion of the second device had rocked the _Prospect_. Just a sway, but enough force for Percy to start worrying about the strength of the welded crack in the cargo hold once again.
 
 "Cassandra! The second detonation: I need to know the results. Now."
 
@@ -1000,15 +998,15 @@ Before Cassandra could reply, the dial on the ship-to-ship unit lit up above Per
 
 Percy's eyes snapped up to the ship-to-ship. It was not the voice of Hemi or Shakes.
 
-*"Sylvia Percy...are you leaving me to die a second time?"* The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
+*"Sylvia Percy...can you hear me? Are you really leaving me to die a second time?"* The voice came riding on a background of wailing klaxons, creaking metal, and shouting men.
 
-Sylvia slowly reached a hand up to take the mic. She thumbed the transmitter. "...Owen? ...But how?"
+Percy slowly reached a hand up to take the mic. She thumbed the transmitter. "...Owen? ...But how?"
 
-*"How? You mean: _how_ am I still alive? You _left_ me alive, remember?"* The radio went silent for a few seconds, then the transmission resumed. *"You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me on the sail of the _Prospect_, and you dove out from under me --- thinking there was no way I could survive.*
+*"How? You mean: _how_ am I still alive? You _left_ me alive, remember?"* The radio went silent for a few seconds, then the transmission resumed. *"You _knew_ I was alive. You heard me banging on the hull, I'm sure of it. You left me on the sail of the _Prospect_, and you dove out from under me --- thinking there was no way I could survive. Thinking that I wasn't worth the trouble of saving.*
 
-*"And I would have died in that storm, just as you expected. Probably within a matter of minutes --- except by sheer luck I washed aboard the deck of the _Grackle_... Unlike you, they opened the hatch when they heard banging."*
+*"And I would have died in that storm, just as you expected. Probably within a matter of minutes --- except by sheer luck I washed aboard the deck of the _Grackle_... Unlike you, they opened the hatch when they heard banging."* 
 
-Percy could hear Owen breathing heavily into the mic. She squeezed the mic in her hand. "Owen, why didn't you just say something? Why didn't you raise us on the ship-to-ship earlier? We could have done something to get you off the _Grackle_."
+Percy could hear Owen breathing heavily into the mic for a moment. When the radio went silent, she squeezed the mic in her hand. "Owen, why didn't you just say something? Why didn't you raise us on the ship-to-ship earlier? We could have done something to get you off the _Grackle_."
 
 *"Get me _off_ the _Grackle_? The _Grackle_ was a blessing! When the hatch opened, I felt I was given a second chance. A chance I would use to clear the world of your callous ego, Sylvia, your selfish disregard. I made the _Grackle_ my tool. I'm the reason the _Grackle_ continued after you! I told them all about you: that your hold was full of weapons --- even after your delivery in Stilt City; that you were supplying rebels up and down the coast on this side of the ocean; that you were a crazy idealist who would stop at nothing to support the overthrow of Authority power; that you had a shipment of valuable metals aboard and would make for the fattest of prizes. I told them anything they needed to hear to keep them in pursuit."*
 
@@ -1016,7 +1014,7 @@ Percy could hear Owen breathing heavily into the mic. She squeezed the mic in he
 
 The radio dial re-lit. *"...The worst thing now isn't you leaving me to die a second time. I made my peace with death when you murdered me the first time. No, the worst thing is that there turned out to be no purpose to my second chance. There was no purpose to anything. Redeemed from drowning, I knew what my life was for: my story was to be left for dead, and then rise again to take you down, Sylvia. But now...now you've shown me there is no narrative. No plot. No arc. The world is nothing. Nothing but random chance, and long odds. And all of us are balanced precariously over a pit of ever-deeper nothingness that we all fall into eventually.*
 
-*"...Everyone eventually. But for me, the pit is only a few seconds away now. Know this, Sylvia: even now if I had one last chance, one last torpedo or any weapon I could reach you with at all, I would take that shot. I'd make firing on you my last act, if that was an option given to me. But I've got nothing now. No options at all."*
+*"...Everyone eventually. But for me, the pit is only a few seconds away now. Know this, Sylvia: even if I had one last chance now, one last torpedo or any weapon at all that I could reach you with, I would take that shot. I'd make firing on you my last act, if that was an option given to me. But I've got nothing now."* More heavy breathing. *"No options at all."*
 
 The ship-to-ship radio went dark. It did not light again. Percy hung the mic up. She dropped the butt of her cheroot to the deck and crushed it under her boot heel.
 
@@ -1031,21 +1029,23 @@ Cassandra kept the sonar tracking what was left of the _Grackle_. What had been 
 
 The _Gnat_ was not sinking so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn, and the sail rolled back up to where it was supposed to be. 
 
-Shakes was almost ecstatic. He started laughing. "Hemi! This is certainly _it_. But at least the _Gnat_ is going down upright! With some dignity!" He found his lighter and tried to ignite the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter showed them how dire their situation was.
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
+Shakes was almost ecstatic. He started laughing. "Hemi! This is certainly _it_. But at least the _Gnat_ is going down upright! With some dignity!" He found his lighter and tried to ignite the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter revealed how dire their situation was.
 
 "Give me that." Hemi took the lighter from Shakes and snapped it aflame. He used it to look over the _Gnat_'s controls, passing the small, flickering light slowly in front of each dial and gauge. For good measure he pulled the emergency blow lever again. He opened all the tank trim valves. None of those things required electricity to function --- they were purely mechanical devices on all submarines as a safety precaution for a situation just like this. If there was no power, the sub should still be able to make it to the surface. 
 
-But not if the ballast tanks had split and let the reserve air out. The bubble they needed to ride up had made its own way to the surface, leaving uselessly without them.
+But not if the ballast tanks had split and let the reserve air out. The bubble they needed to ride up had made its own way to the surface, uselessly leaving them behind.
 
 The water Shakes sat in was rising quickly. Water was pissing in through cracks in the viewport. Hemi looked at the depth gauge --- pegged at one hundred meters, which was the maximum reading for the gauge. 
 
 He let the lighter go out.
 
-His whole life he had been able to make these machines --- all machines --- do what he wanted them to. But this particular one was failing him now. Shakes's resignation seemed to be the only appropriate response left. In the darkness he listened the water streaming into the submarine. It sounded like babbling brooks he had known long ago in his youth, on land. With no visual sensory input in the darkness, his mind instead saw the bright sunny brooks that brought fresh water down to the sea on the island where he had grown up. All his years on rusting and leaking submarines, and running water --- a sound of death on submarines --- still remained firstly the sound of life and his youth. 
+His whole life he had been able to make these machines --- all machines --- do what he wanted them to. But this particular one was failing him now. Shakes's resignation seemed to be the only appropriate response left. In the darkness he listened to the water streaming into the submarine. It sounded like babbling brooks he had known long ago in his youth, on land. With no visual sensory input in the darkness, his mind instead saw the bright sunny streams that brought fresh water down to the sea on the island where he had grown up. All his years on rusting and leaking submarines, and running water --- a sound of death on submarines --- still remained firstly the sound of life and his youth. 
 
 [//]: # (### Rescued by the Prospect, lifted from underneath)
 
-Then a clang in the darkness, like a church bell in the night. Hemi had expected something like this. The pressure hull would be collapsing in on itself. The steel snapping together like the jaws of some beast. He braced himself for the rush of water that should follow it.
+Then a clang in the darkness, like a church bell in the night. Hemi had expected something like this. The pressure hull would be collapsing in on itself. The steel snapping together like the jaws of some huge metal beast. He braced himself for the rush of water that would follow it.
 
 Instead the _Gnat_ settled flat, and the descending sensation suddenly jolted to a stop. Hemi lit the lighter again. Shakes was staring at him with a puzzled look on his face. Hemi looked at the depth gauge: rising.
 
@@ -1053,11 +1053,11 @@ Instead the _Gnat_ settled flat, and the descending sensation suddenly jolted to
 
 "...The _Prospect_. They must have gotten under us."
 
-"And now they're raising us to the surface? Like some newborn whale?"
+"And now they're raising us to the surface? Like some baby whale?"
 
 "I certainly find myself overcome with awe."
 
-Shakes stood up and took the lighter back from Hemi. He lit it and with a renewed hope for life, he crawled forward. He pushed Herschel's empty and guano-covered roost aside and pulled open a fuse box panel that lay behind it. He rummaged through a pile of old and corroded fuses that lay at the bottom of the fuse box to find one that looked like it was still at least partially conductive. He ran his finger down the rows of blown fuses till he found the one he wanted and yanked it out. The hopefully-working replacement went into the fuse box in its place.
+Shakes stood up and took the lighter back from Hemi. He lit it and, with the energy of new hope, he crawled forward. He pushed Herschel's empty and guano-covered roost aside and pulled open a fuse box panel that lay behind it. He rummaged through a pile of old and corroded fuses that lay at the bottom of the fuse box to find one that looked like it was still at least partially conductive. He ran his finger down the rows of blown fuses till he found the one he wanted and yanked it out. The hopefully-working replacement went into the fuse box in its place.
 
 He knew immediately that it did work because the radio panel lit up and the rapidly dwindling space of air in the sub was filled with the sound of radio static. "Try ship-to-ship!" he called back to Hemi.
 
@@ -1073,7 +1073,7 @@ Hemi picked up the mic from the front of the glowing box and squeezed the transm
 
 *"They are on their way down the hole, Hemi, dragged by their ram first, I hope. Cassandra said she heard the boat split, and the bulkheads failing, and then the two biggest pieces went down."*
 
-There was now light coming through the viewport around the streams of water coming from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect_'s sail out in the gloom.
+There was now light coming through the viewport, illuminating the streams of water spraying from the cracks. Shakes stuck his head between the lines of water and could just see the shadow of the _Prospect_'s sail out in the gloom.
 
 
 ## Epilogue
