@@ -901,9 +901,7 @@ It was natural that any person piloting the _Gnat_ could not help but look out t
 
 "More than a thousand meters. All we are asking the _Gnat_ to do is swim a bit deeper in the very top layer of all that water. No big deal."
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
-Shakes patted the cold rusting steel of the hull closest to his head. "Boat, you're the only thing that can keep us from being sucked into that hole under us. It wants us, I can feel it --- but you're a good little boat, even Hemi says so. You're just the tool to keep us above that pit." With this clandestine blessing, he pushed the yoke forward and the _Gnat_'s little dive planes responded by angling downward.
+Shakes patted the cold rusted steel of the hull closest to his head. "Boat, you're the only thing that can keep us from being sucked into that hole under us. It wants us, I can feel it --- but you're a good little boat, even Hemi says so. You're just the tool to keep us above that pit." With this clandestine blessing, he pushed the yoke forward and the _Gnat_'s little dive planes responded by angling downward.
 
 They gained depth quickly, and almost immediately the hull of the _Gnat_ began to groan with the stress of it.
 
@@ -923,17 +921,17 @@ Hemi stared at his ticking watch.
 
 The _Gnat_ clearly did not like being this deep. It moaned and snapped and gave every impression of being on the verge of imploding. Hemi reassured himself that he had been in lots of boats that were just "noisy" when they went deep --- though apparently perfectly sound. Some boats just liked to be vocal, letting their operators know the stress they were suffering like whiny children. On the other hand, those were professionally-built boats designed by engineers. Those boats just happened to have a few idiosyncrasies. Hemi could not shake off the knowledge that this boat was built by...Shakes. It was _all_ idiosyncrasies.
 
-Only a minute later, both Hemi and Shakes knew it was not just the _Gnat_ being vocal. There was water in the bilge and it was rising. They could hear it sloshing around. Somewhere in the _Gnat_, the seams were leaking.
+Only a minute later, both Hemi and Shakes knew the _Gnat_ was not just being vocal. There was water in the bilge and it was rising. They could hear it sloshing around forward. Somewhere in the _Gnat_, the seams were leaking.
 
 "Better hurry Hemi. I'm not sure how much longer we can stay this deep."
 
 Hemi looked at the stopwatch. "Three minutes. Just hold the boat right at the level and speed you have --- do not let anything change."
 
-Hemi had stuffed the explosive cylinders, fenders, and lines of the second device up into the still-wet escape trunk. He quickly scribbled calculations on his pad, made adjustments to his slide-rule, looked at the stopwatch, and came to a solution. He reached up and set the timers on the explosive cylinders. "I hope that is correct," he said to himself, and sealed the device into the escape trunk.
+Hemi had stuffed the explosive cylinders, fenders, and lines of the second device up through the dripping escape trunk hatch. He quickly scribbled calculations on his pad, made adjustments to his slide-rule, looked at the stopwatch, and came to a solution. He reached up and set the timers on the explosive cylinders. "I hope that is correct," he said to himself, and sealed the device into the escape trunk.
 
 "Thirty seconds!" Hemi called forward. He put his hand on the lever. The hand of the stopwatch ticked around, climbing upwards. It hit the zero mark. Hemi hefted the lever that released the escape trunk hatch. It slid easily back this time. 
 
-It took a second for Hemi to realize that was because the hatch above him did not open.
+It took a second for Hemi to realize that it was easy to pull the lever because because the hatch itself had not opened.
 
 "That hatch is not open!" Hemi yelled forward, true panic slipping into the baritone of his voice.
 
@@ -943,7 +941,7 @@ Hemi smacked a heavy fist against the hull above him.
 
 Shakes could hear the pounding in the pilot's seat. "Hemi. You have to get that open. We can't have that weapon arm itself in the trunk..."
 
-"I am aware of that!" Hemi pressed his lips together, concentrating on revising his estimates of where the boats were in relation to each other, and at the same time trying to figure out a way to release the hatch. "Come shallow by a few meters," Hemi shouted forward, "that might be all we need." A second went by, and Hemi knew they were getting out of position. "You also need to come port to two-two-two. Hard! Now!"
+"I am aware of that!" Hemi pressed his lips together, concentrating on revising his estimates of where the boats were in relation to each other, and at the same time trying to figure out a way to release the hatch. "Come shallow by a few meters," Hemi shouted forward, "that might be all we need." A few seconds went by, and Hemi knew they were getting out of position. "You also need to come port to two-two-two. Hard! Now!"
 
 The boat leaned over dramatically as Shakes turned the yoke left all the way to its stop. At the same time the bow rose slowly in response to his gentle backwards pull on the yoke.
 
@@ -957,8 +955,10 @@ He heard a pop, and water falling into the escape trunk. Hemi quickly leaned ove
 
 [//]: # (### The _Grackle_ is exploded; the Gnat is sinking)
 
-The electric motor behind Hemi wound up to speed, and the sudden acceleration almost rolled him off his feet.
+The electric motor behind Hemi wound up, and the sudden acceleration almost rolled him off his feet.
 
+[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
+ 
 Shakes lowered his head and tried to see up through the tiny viewport. Above the _Gnat_, the water was lighter. He saw a dark shadow pass through the light. 
 
 "Blow the tanks!" Hemi yelled from the rear of the sub.
