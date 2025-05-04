@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2024-01-12 18:40
+Last modified: 2025-05-04 15:27
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -31,7 +31,7 @@ Last modified: 2024-01-12 18:40
 	\small
 	\clearpage
 	\emph{By Sound Alone}\\
-	© 2024 Mark Torrey, CC BY-NC-SA (See license at end of book.)
+	© 2025 Mark Torrey, CC BY-NC-SA (See license at end of book.)
 
 	(Version-date: January 1, 2024)
 

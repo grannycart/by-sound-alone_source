@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2025-05-04 11:02
+Last modified: 2025-05-04 15:40
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -35,18 +35,20 @@ Last modified: 2025-05-04 11:02
 * [ ] When finished with third pass: do a par formatting on all md files? Ideally, the md would be very legible for reading.
 * [ ] Amazon is getting rid of MOBI format, so you can can switch to JUST supplying epubs:
     * https://kdp.amazon.com/en_US/help/topic/GULSQMHU5MNH4EZM
+* [ ] remove Amazon paper version --- it's better to just have epub for amazon, and force people to B&N for paper version. You don't need more than a single paper version.
 * [ ] add quote from ChatGPT to back cover
 * [ ] do _another_ revision to the back cover text, update on cover art
-* [ ] 2024-03-09: update with errata revisions to February version.
+* [X] 2024-03-09: update with errata revisions to February version.
+    * [ ] remove Feb 8 errata items (no longer relevant with 2025 version) from errata page
+* [ ] output new epub/latex files:
     * Then push to online epubs:
         * [ ] grannycart.net
         * [ ] Amazon
         * [ ] B&N
         * [ ] Kobo
         * [ ] google play
-        * [ ] fix on royal road (or just make sure Royal Road notes that it is the Feb 8 2024 version)
+        * [ ] remove royal road version (it's not getting me anything)
     * Publish new paper versions:
-        * [ ] Amazon
         * [ ] B&N
 * [ ] for book generation, this page might have useful tips about managing the css configuration:
 	* https://shkspr.mobi/blog/2023/04/using-pandoc-to-format-a-dissertation-from-markdown-to-html-pdf-and-epub/

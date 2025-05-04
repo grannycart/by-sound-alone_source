@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-12-18 13:12
+# Last modified: 2025-05-04 15:26
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -33,7 +33,7 @@ CSS = css/clean-html.css
 # This line uses the -M switch to override the 'rights' field in metadata.yaml and puts a version date into the compiled pandoc file. 
 # (has to go here to run on the command line so it can use the 'date' command from Linux)
 # The default setup puts in today's date automatically:
-RIGHTS = "(Version-date: `date "+%B %e, %Y"`) © 2024 Mark Torrey, CC BY-NC-SA" 
+RIGHTS = "(Version-date: `date "+%B %e, %Y"`) © 2025 Mark Torrey, CC BY-NC-SA" 
 
 all: book
 
