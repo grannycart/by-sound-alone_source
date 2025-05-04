@@ -1029,8 +1029,6 @@ Cassandra kept the sonar tracking what was left of the _Grackle_. What had been 
 
 The _Gnat_ was not sinking so fast that it did not right itself first. The sucking hole under them pulled harder on the lead weights at the bottom of the boat than the rest of it. Slowly the keel was drawn, and the sail rolled back up to where it was supposed to be. 
 
-[//]: # (------ FEB 2025 EDITED TO HERE; use :WF and pablo in console, desert, shine and moria, or paper in gvim ------)
- 
 Shakes was almost ecstatic. He started laughing. "Hemi! This is certainly _it_. But at least the _Gnat_ is going down upright! With some dignity!" He found his lighter and tried to ignite the cigarette that was somehow still hanging unlit from his lips. The cigarette was soaked and refused to light, but the glow of the flame from the lighter revealed how dire their situation was.
 
 "Give me that." Hemi took the lighter from Shakes and snapped it aflame. He used it to look over the _Gnat_'s controls, passing the small, flickering light slowly in front of each dial and gauge. For good measure he pulled the emergency blow lever again. He opened all the tank trim valves. None of those things required electricity to function --- they were purely mechanical devices on all submarines as a safety precaution for a situation just like this. If there was no power, the sub should still be able to make it to the surface. 
@@ -1081,27 +1079,27 @@ There was now light coming through the viewport, illuminating the streams of wat
 
 [//]: # (### Fishing and grilling)
 
-The next morning they managed to motor out of the garbage gyre to find a patch of clear sea stretching around them in an enormous circle all the way to the horizon. By the time the sun achieved a mid-morning altitude that sent the shadow of the _Prospect_'s sail charging out over the water at an angle from the boat, the sea had turned a bright shade of slate blue. A long slow deep-ocean swell rose and fell all around, giving the impression of passing through a landscape of low hills --- though in a queasy way where the traveler feels they might be standing still and the landscape instead moves around her.
+The next morning they motored out of the garbage gyre to find a patch of clear sea stretching around them all the way to the horizon in an enormous circle. By the time the sun achieved a mid-morning altitude that sent the shadow of the _Prospect_'s sail charging out over the water at an angle from the boat, the sea had turned a bright shade of slate blue. A long slow deep-ocean swell rose and fell all around, giving the impression of passing through a landscape of low hills --- though in a queasy way where the traveler feels they might be standing still and the landscape instead moves around her.
 
-Even though it was bright daylight, they could not submerge, for the _Gnat_ lay on the deck of the _Prospect_, angled to one side by the rounded bottom and the weight of the water still in the bilge. Gregory and Bastian had secured it to the deck with heavy rusted chains and thick grimy straps of webbed cotton, winched tight as piano wires. And indeed, when the wind blew through the straps and chains, they hummed with droning tones cut up by the quick staccato of the twisting straps. On top of the drone from the straps came a number of high whistles as the wind found its way through the numerous holes in the split hull of the _Gnat_.
+Even though it was bright daylight, they could not submerge, for the _Gnat_ lay leaning at an angle on the deck of the _Prospect_. Gregory and Bastian had secured it to the deck with heavy rusted chains and thick grimy straps of webbed cotton, winched tight as piano wires. And indeed, when the wind blew through the straps and chains, they hummed with droning tones cut up by the quick staccato of the twisting straps. On top of the drone from the straps came a number of high whistles as the wind found its way through the numerous holes in the split hull of the _Gnat_.
 
-All those whistling splits in the _Gnat_'s hull were the reason they could not submerge. The _Gnat_ was far too damaged from its brief dip below its crush depth for them to repair it at sea. And so it rode on top of the _Prospect_ until they could put in somewhere where repairs could be attempted.
+All those whistling splits were the reason they could not submerge. The _Gnat_ was far too damaged from its brief dip below its crush depth for them to repair it at sea. And so it rode on top of the _Prospect_ until they could put in somewhere where repairs could be attempted.
 
-Shakes spent quite a while on the _Prospect_'s deck that morning, cataloging the damage to his boat. It was beginning to look like the _Gnat_ might end up being more weld than plate --- if it could be repaired at all. Even now, as the _Prospect_ rolled on a larger swell, water from the bilge came streaming out of the _Gnat_ in long greasy lines where the hull was split. It was enough to bring tears to Shakes's eyes.
+Shakes spent quite a while on the _Prospect_'s deck that morning, cataloging the damage to his boat. It was looking like the _Gnat_ might end up being more weld than plate --- if it could be repaired at all. Even now, as the _Prospect_ rolled on a larger swell, oily water from the bilge came streaming out of the _Gnat_ from the places where the hull was split. It was enough to bring tears to Shakes's eyes.
 
 Hemi was far less upset about the damage to the _Gnat_, and instead found himself unusually jubilant. He had been through close calls before, but never had he given up and been ready to die. He was glad to be out of the _Gnat_. And he was glad to be outside on the deck of the _Prospect_. 
 
-Since they could not submerge without doing further damage to the _Gnat_, and since they were going to be running on the surface through all the lovely warm daylight hours, Hemi decided some grilling was in order. He opened up the hatch to the cargo hold and winched up the soot-covered black grill that had been made by welding legs onto a steel barrel, cutting it in half, and installing hinges to make the top a lid.
+Since they could not submerge without doing further damage to the _Gnat_, and since they were going to be running on the surface through all the lovely warm daylight hours, Hemi decided some grilling was in order. He opened up the hatch to the cargo hold and winched up the soot-covered grill that had been made by welding legs onto a steel barrel, cutting it in half, and installing hinges to make the top a lid.
 
-From the cargo hold he also hauled up a rusting platform made of welded deck grating and cut tubes. Gregory bolted this platform to the deck next to the sail. It allowed the crew to get out past the curve of the _Prospect_'s hull and stand over the water. From it hung a swim ladder that dipped down into the water below.
+From the cargo hold he also hauled up a platform made of welded deck grating and cut tubes, all of it thoroughly coated in rust. Gregory bolted this platform to the deck next to the sail. It allowed the crew to get out past the curve of the _Prospect_'s hull and stand over the water. From it hung a swim ladder that dipped down into the water below, offering the temptation of open-ocean swimming under a warm sun.
 
 Hemi lashed the grill to the deck of the _Prospect_ and spent the first hours of the morning burning down some old and damp wood he found stashed in a crate in the cargo hold. Fortunately the breeze kept the fire hot enough that the moisture was quickly driven from the wood, and in a not-unreasonable amount of time Hemi had the grill bottom glowing with coals.
 
-Below deck, Percy stopped the _Prospect_'s motors and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines into the sea. They baited the lines with sardines from a can they split open. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
+Below deck, Percy stopped the _Prospect_'s motors and let the boat drift. Gregory, Cassandra, and Bastian stood on the platform and ran out some long poles to drop lines baited with old hunks of canned fish into the sea. It was not long before they had a violent mahi-mahi tearing at one of the lines, which Gregory and Cassandra together managed to haul in close enough for Hemi to heft the huge fish onto the deck from below and club it senseless with a wrench borrowed from Shakes.
 
 Hemi cleaned the fish, leaving a sparkling trail of sticky scales across the deck of the _Prospect_, and threw the spine, tail, and various viscera back over the side. Big steaks of the meat went onto the grill and Hemi spread a rub of salt, lime juice, and red pepper flakes across it. The flesh browned and burned a little at the edges. Hemi took the smoking steaks off and dropped them into bowls of rice that Gregory brought up from the galley.
 
-The crew sat on the deck or with legs dangling from the platform, poking at their late breakfast with old bent forks and watching the rising and falling landscape of water surrounding them. Herschel waddled among the feet of those on the deck, pecking dropped bits of rice from the steel grating. 
+The crew sat on the deck or with legs dangling from the platform, poking at their late breakfast with old bent forks and watching the rising and falling landscape of water surrounding them. Herschel waddled among their feet, pecking dropped bits of rice from the steel grating. 
 
 When Percy finished her food, she climbed the side of the sail. On the bridge, she lit a cheroot and watched the horizon as she instinctively adjusted her weight to balance against the roll of her boat. Hemi soon joined her and they both looked out over the sunlit water. 
 
@@ -1115,7 +1113,7 @@ Hemi broke the silence. "So it was Owen all along?"
 
 "Do you feel that was a mistake?"
 
-"Fuck no, Hemi. I mean, that's not what I told  Owen when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision, Hemi. I would make the same choice again. And even if I hadn't --- he swears himself to wreak vengeance on me? Repeatedly tries to kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I'll say it again: fuck Owen. And fuck his ghost."
+"Fuck no, Hemi. I mean, that's not what I told  Owen when I had him on the ship-to-ship and he was falling down the hole. Let the man believe whatever he wants with the literal fucking abyss approaching. But, really, fuck him. I made the rational decision, Hemi. I would make the same choice again. And even if I hadn't --- he swears himself to wreak vengeance on me? Repeatedly tries to sink my boat and kill me? And all of you in my crew along with me? No, Hemi. I have no regrets. I'll say it again: fuck Owen. And fuck his ghost."
 
 "I do not believe it possible for souls to wander uneasily, except in the minds of the living. I simply wanted to be sure the events with Owen will not keep you awake nights."
 
@@ -1127,4 +1125,4 @@ He nodded and slipped down the hatch to the control room.
 
 Percy tracked the incoming waves, trying to get a feel for the pattern. She closed one eye and aimed for a particular crest before throwing the remainder of her cheroot at it. The smoking butt gave off a small hiss on impact and then disappeared silently below the surface. 
 
-
+ 

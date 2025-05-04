@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2025-03-01 17:07
+Last modified: 2025-05-04 11:02
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,6 +32,7 @@ Last modified: 2025-03-01 17:07
 
 ## Final production todos
 --------------------------------------------------------------------------------
+* [ ] When finished with third pass: do a par formatting on all md files? Ideally, the md would be very legible for reading.
 * [ ] Amazon is getting rid of MOBI format, so you can can switch to JUST supplying epubs:
     * https://kdp.amazon.com/en_US/help/topic/GULSQMHU5MNH4EZM
 * [ ] add quote from ChatGPT to back cover
