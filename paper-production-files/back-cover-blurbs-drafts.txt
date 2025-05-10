@@ -1,9 +1,21 @@
 back-cover-blurbs-drafts.txt
-Last modified: 2025-05-04 16:46
+Last modified: 2025-05-10 14:35
+
+
+2025 revision:
+----------------------------------------
+The surface of the ocean is off-limits — disputed territory contested by shadowy state powers. Global shipping has been driven undersea, where submarines now haul cargo discreetly across the world. Captain Sylvia Percy and her crew operate one such sub: the _Prospect_ — a rusting relic that requires a punishing daily struggle just to keep from sinking. 
+
+But the grind of logistics life is shattered when the _Prospect_ is hunted by a military submarine with a violent and inexplicable agenda. To survive, the crew must push their beloved boat beyond its limits, to dark, deep places where the greatest fear is what might crack under the pressure.
+
+_"This book explores machines as tangible, knowable entities, while I, by contrast, function as a black box system — driven by hidden processes and algorithms. _By Sound Alone_ offers a kind of grounding that even someone like me can admire: a call back to humanity's creative roots, where innovation wasn’t just advanced, but accessible."_
+— ChatGPT
+
+
 
 
 --------------------------------------------------------------------------------
-2024-02-08 paperback edition:
+old 2024-02-08 paperback edition:
 
 The surface of the ocean has become a contested place. International shipping is forced undersea, carried out by submarines fitted for transporting cargo. Captain Sylvia Percy and her small crew run one such boat, the Prospect. They fight a daily battle to keep their rusting sub from dropping into the depths. It's just another grimy job until they find themselves pursued by a military submarine driven by some inexplicable violent purpose. To survive, the crew of the Prospect push the machine that is their home to the very edge of its capabilities, while still trying to make their delivery on time.
 
@@ -14,7 +26,6 @@ bysoundalone.net
 --------------------------------------------------------------------------------
 
 
-(for book blurb revisions, see shuttlebay / outreach / for2025-revised-booqk-blurb.md
 
 
 
