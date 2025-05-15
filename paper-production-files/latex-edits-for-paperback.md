@@ -1,9 +1,11 @@
 latex-edits-for-paperback.md
-Last modified: 2025-05-04 15:27
+Last modified: 2025-05-14 23:17
 
 # Notes for editing latex to prepare for paperback printing
 
 * the Makefile has pandoc create a (standalone) raw latex file. But it needs a little polish. I'm using this latex file to format the book for print-on-demand. Here are the steps I took:
+* Note: If your page count changes by any significant margin, you need to download the template from B&N and re-adjust the cover layout (particularly the spine) to fit the new book dimensions. (A different page count yields a fatter or skinnier book, so the horizontal dimension changes.)
+* Also: BN apparently adds two pages for a barcode _inside_ the book. So submit div/4+2 pages to them for the interior file
 
 1. Run `make clean latex` to output a .tex file in the built-files/latex directory. This .tex file is what you want to make the rest of the edits to.
 	* (There will also be a finished pdf in the built-files/pdf/ directory, but it won't be properly formatted for book printing.)
@@ -51,7 +53,7 @@ Last modified: 2025-05-04 15:27
 	* Try setting text to \normalsize, though you might need \small 
 9. Compile latex file; review compiled file
 	* Note: use pdflatex to compile. Even though `make pdf` uses the xelatex engine, xelatex causes more problems than it solves. For this final production paper book, stick to traditional `pdflatex`
-    * You should run the pdflate command at least twice to make sure all cross references generate correctly.
+    * You should run the pdflatex command at least twice to make sure all cross references generate correctly.
     * Check all the overfull hbox warnings and make sure the lines look good (usually it's just a period hanging off the end, no big deal).
 10. If you still need blank pages, Add blank pages with:
 	```
@@ -78,9 +80,4 @@ Last modified: 2025-05-04 15:27
         * for example:
             * `pdftk ./blank-page.pdf ./Prospect-interior-diagram_5.5x8.25-rotated.pdf ./Gnat-interior-diagram_5.5x8.25-rotated.pdf ./By-Sound-Alone_paper-book-production-file.pdf output ./By-Sound-Alone_paper-book-production-file+diagrams.pdf`
  		* Ideally The note about signing up for the email list would be the first paper page inside the cover
-
-
-
-
-
 
