@@ -164,7 +164,7 @@ Percy hesitated, and then transmitted back, "Well, first let me state flat out t
 
 Another moment passed. *"Yeah. Well. These waters are empty because the Authorities running this territory right now are a bunch of tight-sphinctered class-A-holes who seem more interested in shooting down transports than letting any commerce commence. It's a fucking bad place to be not moving and on the surface."*
 
-"Not moving is hardly typical for us. What are you sitting on there? We don't see any ship in the scope. Any assistance you can offer would be much appreciated."
+"Not moving is hardly typical for us. What are you sitting on there? We don't see any ship on the scope. Any assistance you can offer would be much appreciated."
 
 *"Ehh, I'm not one who is much for offering assistance, so I don't think I'm gonna show ya what I'm riding, at least not just yet. But if yer telling the truth, I don't envy your dire-ass situation."*
 
@@ -209,7 +209,7 @@ Hemi nodded toward Percy. She stuck out a grimy hand. "Captain Percy. Hemi here 
 
 "Few more below." Percy was still staring at the mini-sub. "That's a hell of a fucked-up craft ya got there."
 
-"Like it? I built it my self. Welded it together on a mountaintop coffee farm from rotted-all-to-fuck scraps of metal. They had a bunch of land higher up where the coffee don't grow, and it seemed like a good place to build a boat. It was. 'Cept it wasn't a good place to launch a boat from. Getting it down to the water was way fuckin' harder than the buildin' of it."
+"Like it? I built it myself. Welded it together on a mountaintop coffee farm from rotted-all-to-fuck scraps of metal. They had a bunch of land higher up where the coffee don't grow, and it seemed like a good place to build a boat. It was. 'Cept it wasn't a good place to launch a boat from. Getting it down to the water was way fuckin' harder than the buildin' of it."
 
 "I would imagine," said Hemi.
 
@@ -233,7 +233,7 @@ Percy frowned. "Welp, that's an impressive submersible hobby you got there. But 
 
 "Captain Shakes, if you fuckin' please. And I certainly ain't got fuel to spare. And I can't say what I _am_ carrying, ceptin' that I can't see how any of it could help you. Still, if I can do anything to assist, I'm game --- at least if there's a little something in it for me. I'm pretty convinced y'all ain't some Authority ruse, at least, and we smugglers gotta stick together, I fucking say."
 
-"We're not smugglers," said Percy, her eye firmly locked on Shakes. "We're independent logistics operators."
+"We're not smugglers," said Percy, her eyes firmly locked on Shakes. "We're independent logistics operators."
 
 "Ain't we fucking all!" said Shakes. "Honestly, I ain't got much in the way of ideas for ya. I was thinking maybe you were the smart ones. From what I can see y'all are fuckin' fucked. Best I can say is I could run into my destination port and send some friendly bigger ship back out for you. But that'll probably take a couple days at least."
 
@@ -332,7 +332,7 @@ Hemi winced as he caught an acrid whiff of petrochemicals. "You buy decent quali
 
 Hemi made a sound in his throat while he scribbled some calculations. He pointed to a gauge in front of the control yoke. "Is that the battery charge?"
 
-"Such as it is. That's salvaged from tractor parts too. It shows me roughly how much charge is left on the battery, but mostly it's just got a little frickin' red light that comes on when the batteries are about to kick off. If ya want any fuckin' precision, you gotta get down under those deck panels with the meter and take readings off each of the battery banks." Shakes kicked a small steel door that opened to a recessed cabinet in the wall. He pulled from the space a short pry bar and a small metal box with a dial gauge and a pair of electrical leads dangling from it. "Check this shit out." He levered the teeth of the prybar under the steel deck panel. Hemi positioned himself on the other side, and they lifted the panel together and propped it up.
+"Such as it is. That's salvaged from tractor parts too. It shows me roughly how much charge is left on the battery, but mostly it's just got a little frickin' red light that comes on when the batteries are about to kick off. If ya want any fuckin' precision, you gotta get down under those deck panels with the meter and take readings off each of the battery banks." Shakes kicked a small steel door that opened to a recessed cabinet in the wall. He pulled from the space a short pry bar and a small metal box with a dial gauge and a pair of electrical leads dangling from it. "Check this shit out." He levered the teeth of the pry bar under the steel deck panel. Hemi positioned himself on the other side, and they lifted the panel together and propped it up.
 
 Below were rows and rows of what Hemi was almost certain were lead-acid truck or tractor batteries. A rat's nest of greasy black cables ran back and forth between them.
 
@@ -416,7 +416,7 @@ Hemi put his pencil down. "Perhaps in your time on the sea some of you have beco
 
 "How far do you want to go Sylvia?"
 
-"Hold the fuck on a second," Shakes cut in. "what exactly do I get out of your little biology lesson, Hemi? The fundamental pin of this here plan of yours is really me casting my lot in with you loser a-holes. Basically, you're turning my boat into a reserve tank, and I'm donating all my fuel to you. And maybe even more fuckin' 'gregiously than that: I'd be giving up the independent operator's _sacred_ right to self-determination. Suddenly I'm demoted from captain of my own boat to rank-and-file in some backwater freight-trucking crew. What's the payoff for me? And it better be a whole lot more than a couple of bowls of fried rice, or I'm just going to roll on with my boat. I mean, I thought I could just sell you some batteries or something and be on my way. But yer talkin' about something quite above and beyond my fuckin' baseline generosity."
+"Hold the fuck on a second," Shakes cut in. "What exactly do I get out of your little biology lesson, Hemi? The fundamental pin of this here plan of yours is really me casting my lot in with you loser a-holes. Basically, you're turning my boat into a reserve tank, and I'm donating all my fuel to you. And maybe even more fuckin' 'gregiously than that: I'd be giving up the independent operator's _sacred_ right to self-determination. Suddenly I'm demoted from captain of my own boat to rank-and-file in some backwater freight-trucking crew. What's the payoff for me? And it better be a whole lot more than a couple of bowls of fried rice, or I'm just going to roll on with my boat. I mean, I thought I could just sell you some batteries or something and be on my way. But yer talkin' about something quite above and beyond my fuckin' baseline generosity."
 
 Percy blew out her cheeks. "OK, look. First: you are not going to be crew, you are our _guest_, Shakes."
 
@@ -763,7 +763,7 @@ In the deepest part of the _Prospect_, in the narrow hall between the forward an
 
 At this point they could hear the _Gnat_ grinding against the mating collar of the _Prospect_, screeching metal-on-metal as it moved back and forth trying to find the docked position. And then there was the loud crunch of the two boats coming together.
 
-"Sound's like he's on," said Chips. "We wait till we get the fuckin' OK from Hemi though."
+"Sounds like he's on," said Chips. "We wait till we get the fuckin' OK from Hemi though."
 
 Gregory nodded.
 
