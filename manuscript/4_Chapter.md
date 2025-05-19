@@ -170,7 +170,7 @@ It was time for Percy to get her boat out from under the docking bay. "So we're 
 
 "Correct," Hemi replied, "I have been keeping the tanks trimmed with just a bit of positive buoyancy while we have been docked to keep us pressed firmly up against the mating collar of the slip, so we will have to take on some water after we release."
 
-Percy nodded. It was a standard maneuver for a docking situation like this one. "OK, let go the docking clamps." 
+Percy nodded. It was a standard maneuver for a docking situation like this one. "OK, release the docking clamps." 
 
 Hemi picked up the ship-to-ship mic and told the docking control office they were leaving. He did not wait for them to reply before reaching over and flipping the switch that operated the electro-magnets in the docking clamps. The clamps reversed with a loud clunk that echoed up the length of the _Prospect_'s hull.
 
@@ -311,7 +311,7 @@ Percy considered. "I think so. Take us up to six knots. Only top sonar people de
 [//]: # (Late-afternoon: day 1, run to Stilt City)
 Six knots was still slow, but twice the speed at which they had crawled away from the depot. With three more hours of cruising, they were out of range of all but the very best sonar gear and ears in the world. Percy had them come up to one hundred meters to take some of the strain off the hull.
 
-When the boat reached this shallower depth, Hemi stationed himsefl in front of the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said as she stood behind him, smoking, "I'm working the trim here, but I think we can certainly do better if we move some of the cargo around down in the hold."
+When the boat reached this shallower depth, Hemi stationed himself in front of the tank trim control panel and made adjustments, pushing water back and forth across the boat. "Sylvia," he said as she stood behind him, smoking, "I'm working the trim here, but I think we can certainly do better if we move some of the cargo around down in the hold."
 
 "OK. Take Owen and Bastian down there with you. I'll watch the trim with Gregory in case she starts to lean or something... And keep in mind that trim could be the least of our problems if you drop any of those fucking crates."
 
@@ -538,7 +538,7 @@ Cassandra hung the sonar headphones on the hook and joined Hemi at the navigatio
 
 They climbed through the control room and up the interior ladders of the sail to the bridge. Owen was back in the lookout ring above them and greeted them when their heads shadowed the red light coming up from the open hatch, happy to have something to break the monotony of being on lookout.
 
-Overhead the clouds had blown off leaving a clear sky that was just beginning to brighten at the horizon. But the stars above still glowed, peppering the dark field in a way that suggested forces of chaos and random malevolence far beyond human knowing, but compressed into flat plane of simplicity for the easy comprehension and enjoyment of the pitiful mortals below.
+Overhead the clouds had blown off leaving a clear sky that was just beginning to brighten at the horizon. But the stars above still glowed, peppering the dark field in a way that suggested forces of chaos and random malevolence far beyond human knowing, but compressed into a flat plane of simplicity for the easy comprehension and enjoyment of the pitiful mortals below.
 
 "Wow," said Cassandra.
 
@@ -628,7 +628,7 @@ Cassandra went off to the galley, leaving Percy listening to the contact. She ca
 
 "Really? You think it's fuckin' possible _Shakes_ overdid it, do you?" Percy rolled her eyes. "Maybe instead of the sound of the _Gnat_ masquerading for the _Prospect_, the _Gnat_ will just drown out _everything_ in a ten-mile radius."
 
-"I just..." Hemi started, "just cannot believe that such a small boat could..." he paused listening again. "No, I am more sure of it now. The more detail I can hear, the more it makes sense that it is a very, _very_ loud, small boat, not a big ship. Though he does have it tuned so low that from a distance anyone who is not skilled on sonar might easily be fooled into thinking the contact is displacing an enormous amount of water. Good job with the identification, Cassandra."
+"I just..." Hemi started, "I just cannot believe that such a small boat could..." he paused listening again. "No, I am more sure of it now. The more detail I can hear, the more it makes sense that it is a very, _very_ loud, small boat, not a big ship. Though he does have it tuned so low that from a distance anyone who is not skilled on sonar might easily be fooled into thinking the contact is displacing an enormous amount of water. Good job with the identification, Cassandra."
 
 Cassandra held onto a large and genuine smile.
 
@@ -721,7 +721,7 @@ Hemi caught her eye while she was still on the ladder. "Shakes needs us to come 
 
 "I suspect so, that's about how deep we had it at the depot." Hemi thumbed the mic on the ship-to-ship. "Captain Shakes, what if we make the _Prospect_'s keel twenty meters down. Can you do the mating at that depth?"
 
-*"Surely,"* Shakes voice crackled in reply. *"But remember that while the _Gnat_ is attached, you can _not_ go any fucking deeper. Beyond 30 meters or so and you'll crush the _Gnat_ and, you know, probably flood the fuckin' _Prospect_ as well --- not that I'll be giving two shits about your ugly barge after you beer-canned my baby."*
+*"Surely,"* Shakes's voice crackled in reply. *"But remember that while the _Gnat_ is attached, you can _not_ go any fucking deeper. Beyond 30 meters or so and you'll crush the _Gnat_ and, you know, probably flood the fuckin' _Prospect_ as well --- not that I'll be giving two shits about your ugly barge after you beer-canned my baby."*
 
 "I got you, Captain Shakes. Twenty meters maximum depth it is."
 

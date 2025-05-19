@@ -43,7 +43,7 @@ Hemi kept the chart accurate with their position, the dashed line straight and t
 [//]: # (middle-night: night 4, run to Stilt City)
 Chips had spent the entire day in the deepest parts of the engine room, refusing to come up even for meals. Nobody had seen her since the late meal the night before. But with everyone taking a shift on lookout, she was now required to do her turn outside. Hemi called for her on the PA when her shift came up in the middle part of the night, and she duly arrived in the control room on her way to the bridge. She climbed upward with binoculars in hand and without a word. 
 
-When Hemi came due for a rest period on the middle of the night, he made his way to the bridge to get some air. On the bridge, he looked up at Chips, a shadow in the lookout ring framed by specks of stars above. 
+When Hemi came due for a rest period in the middle of the night, he made his way to the bridge to get some air. On the bridge, he looked up at Chips, a shadow in the lookout ring framed by specks of stars above. 
 
 "I was not entirely sure you would show for your lookout shift," said Hemi.
 
@@ -87,7 +87,7 @@ They passed a number of Collective enforcement ships holding station in an array
 
 The moniker "Stilt City" might have been somewhat pejorative, but it was accurate. It sat on a vast river delta which rapidly attenuated the big ocean rollers down to calm, flat, and brown water. The structures built on pylons began to appear relatively far out into the ocean --- some in places where the water was dozens of meters deep. The buildings there teetered high above the larger waves they needed to clear in those deeper waters, perched atop artificial underwater forests of rigidly spaced trees placed by the work of human hands. The structures farthest out from the mainland popped up in clumps in the distance on both sides of the _Prospect_. It was hard not to imagine them as circus performers striding around on tall stilts.
 
-The _Prospect_ floated into the main channel that led into the city. It was nearly a mile wide for much of its passage, the muck of the bottom laboriously carved out to be deep enough to easily accomodate the very largest ships on the ocean, but otherwise equivalent to the large rivers that bisects so many coastal cities. 
+The _Prospect_ floated into the main channel that led into the city. It was nearly a mile wide for much of its passage, the muck of the bottom laboriously carved out to be deep enough to easily accommodate the very largest ships on the ocean, but otherwise equivalent to the large rivers that bisects so many coastal cities. 
 
 The rapid growth of Stilt City and large volume of trade had brought wealth in, but the wealth did not flow down to all residents. The channel was thus filled with all manner of sea craft, from enormous steel cargo ships under the flags of various Authorities to tiny canoes from which the marrow of the boat had been scraped by the application of fire and ax blade. The most common craft, of which there must have been thousands, was an angular home-built wooden boat, driven either by singular canvas sails bound taught on rough wood masts and booms, or by long thin oars that were used to row the boats in deep waters and pole the boats through shallower waters.
 
@@ -535,7 +535,7 @@ The _Prospect_ was now gaining crucial ground on their pursuers, quickly finding
 
 The _Prospect_ turned out into the main channel and Percy took over command. She immediately had Bastian throttle up to the _Prospect_'s full surface speed of fifteen knots. 
 
-"Careful, Captain Percy," said Sir Piero. "I cannot recommend all this speed in the channel full of big heavy ships and small wobbly boats. If any Authority vessels spots the _Prospect_, they will intervene to try to keep order in the channel."
+"Careful, Captain Percy," said Sir Piero. "I cannot recommend all this speed in the channel full of big heavy ships and small wobbly boats. If any Authority vessel spots the _Prospect_, they will intervene to try to keep order in the channel."
 
 "I fucking know it. But those fuckers behind us are certainly not going to take it easy in the channel --- maybe the Authority will intervene with them instead!"
 

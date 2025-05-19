@@ -202,7 +202,7 @@ In this complete silence, Cassandra swung the sonar mics slowly in a full circle
 
 Suddenly all her doubts came flooding back, and Cassandra felt her ears go warm inside the headphones. She instinctively knew that motor off in the water was _Grackle_. Still behind them, still pursuing, perhaps never having left. She also knew that she should have known it was their pursuers when she heard the first faint wavering contact hours ago in the early part of the day. She realized she had made a mistake, potentially a large one, and that made her afraid to say anything.
 
-She listened to the sound for a few minutes, only just barely easing the directional wheel back and forth across the signal with the tip of a shaking finger, trying to lock in on the strongest bearing. It was only when Hemi put his heavy hand on her shoulder that she realized that he had been standing behind her, watching. Even without hearing, it was possible for him to read the gauges and knew she was on something. Cassandra looked up at him. She wrestled down her fear about the mistake she had made.
+She listened to the sound for a few minutes, only just barely easing the directional wheel back and forth across the signal with the tip of a shaking finger, trying to lock in on the strongest bearing. It was only when Hemi put his heavy hand on her shoulder that she realized that he had been standing behind her, watching. Even without hearing, it was possible for him to read the gauges and know she was on something. Cassandra looked up at him. She wrestled down her fear about the mistake she had made.
 
 She slipped a headphone off one ear. "Something's there, Hemi."
 
@@ -269,7 +269,7 @@ While he was on the ladder, the crunching sound of an impact --- a recapitulatio
 
 As the boat slowed, Percy's next thought was that they had in fact been rammed again --- that Cassandra had not heard the _Grackle_ charging at them. "Cassandra you little shit! You let them hit us!"
 
-"No, Captain Percy!" Cassandra wailed with the deep-grained panic of someone who knows they had made a mistake. "It definitely wasn't them! They're still miles and miles off."
+"No, Captain Percy!" Cassandra wailed with the deep-grained panic of someone who knew they had made a mistake. "It definitely wasn't them! They're still miles and miles off."
 
 Percy looked down at Hemi, who still clung to the ladder, his huge stony form held by hard, tensed muscles. "Hemi, you get that little fucking whore off my sonar immediately and tell me what the fuck is going on with my boat!" 
 
@@ -428,7 +428,7 @@ At this, Percy lowered the lenses and looked at him. "You have another option an
 
 "Surely. But how do you deliver a fucking warhead to the sub? They are just _part_ of a weapon --- as Miss Mai took such pains to make clear to me. We can't just underhand one over the water at them."
 
-"That where is the part of my idea that might get us killed comes in --- I propose we use the _Gnat_."
+"That is where the part of my idea that might get us killed comes in --- I propose we use the _Gnat_."
 
 "I don't think Shakes is going to appreciate you turning his boat into a fuckin' torpedo. As small and shittily made as it is."
 
@@ -931,7 +931,7 @@ Hemi had stuffed the explosive cylinders, fenders, and lines of the second devic
 
 "Thirty seconds!" Hemi called forward. He put his hand on the lever. The hand of the stopwatch ticked around, climbing upwards. It hit the zero mark. Hemi hefted the lever that released the escape trunk hatch. It slid easily back this time. 
 
-It took a second for Hemi to realize that it was easy to pull the lever because because the hatch itself had not opened.
+It took a second for Hemi to realize that it was easy to pull the lever because the hatch itself had not opened.
 
 "That hatch is not open!" Hemi yelled forward, true panic slipping into the baritone of his voice.
 
