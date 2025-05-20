@@ -410,7 +410,7 @@ Owen made a motion to pull out the binoculars from under his slicker, but as he 
 
 Owen cupped one hand to his mouth and stretched his arm out to point in a gesture that dated back to the dawn of humans venturing out onto water. "Hemi!" And with the foreboding sense that they might be the last words he ever spoke, Owen could not keep the note of mortal terror from his voice. "They're on us! Through the waves!"
 
-Hemi turned and looked, and instantly knew the _Prospect_'s only course of action. "Dive!" he shouted downward as he smashed the button for the alarm. He looked up at Owen in the lookout ring. "We have to dive Owen! Get below!" The alarm klaxon sounded from the control room.
+Hemi turned and looked, and instantly knew the _Prospect_'s only course of action. "Dive!" he shouted downward as he smashed the button for the alarm. He looked up at Owen in the lookout ring. "We have to dive, Owen! Get below!" The alarm klaxon sounded from the control room.
 
 Thin fingers of flame reached out from the submarine behind and split the darkness between. This was followed instantaneously by the low, fast crackling sound of heavy automatic weapons fire and the sickening thud of lead slamming into the thick steel of the _Prospect_'s sail. The sound rang with a clanging echo through the hull.
 
