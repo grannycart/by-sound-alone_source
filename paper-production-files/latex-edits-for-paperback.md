@@ -1,5 +1,5 @@
 latex-edits-for-paperback.md
-Last modified: 2025-05-15 22:36
+Last modified: 2025-05-24 20:40
 
 # Notes for editing latex to prepare for paperback printing
 
@@ -45,8 +45,9 @@ Last modified: 2025-05-15 22:36
 	```
 	* Take the date info from the \date line, and leave the \date{} with no content so it prints blank on the title page.
 8. Set up Three things to do if you enjoy this book page:
-    * You might have to play with various things to get it to all fit on one page. You really want it to all fit on one page.
+    * This page gets pulled in from the manuscript folder when you run `make latex`, but you might have to play with various things to get it to all fit on one page. You really want it to all fit on one page.
     * Set new margins: After \newpage, add: `\newgeometry{margin=1cm}`
+    * Add: `\thispagestyle{empty}` to suppress page number and section header
     * remove any \bigskips from the beginning and end of this page (Though there shouldn't be any now after I removed those characters from the markdown)
     * Try changing \section to \subsection to make the title of the page smaller
 	* Try setting text to \normalsize, though you might need \small 
