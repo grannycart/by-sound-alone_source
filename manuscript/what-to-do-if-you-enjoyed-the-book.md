@@ -19,7 +19,7 @@ This book is free and will always remain so. But maybe you enjoyed it enough tha
     You can request to be added to the mailing list here:  
     [https://grannycart.net/contact](https://grannycart.net/contact)
 
-Getting on the email list is one of the most important things you can do to support creative work you admire. It is the only way creators can stay in touch that doesn't depend on some corporate platform that could be taken over by a megalomaniacal billionaire and driven into the ground at any time. You should sign up for the email list of anyone whose work you value. By doing so you are giving them the gift of empowerment. That's actually more important than money.
+    Getting on the email list is one of the most important things you can do to support creative work you admire. It is the only way creators can stay in touch that doesn't depend on some corporate platform that could be taken over by a megalomaniacal billionaire and driven into the ground at any time. You should sign up for the email list of anyone whose work you value. By doing so you are giving them the gift of empowerment. That's actually more important than money.
 
 3. If money is your thing, consider supporting folks who do delivery work in our own timeline. I can recommend [Los Deliveristas Unidos](https://www.workersjustice.org/en/ldu), a group working toward giving delivery workers who work through apps like GrubHub, DoorDash, and Uber Eats access to basic labor rights. Los Deliveristas Unidos is a project of the [Worker's Justice Project](http://www.workersjustice.org/workers-justice-project), which organizes to win better living and working conditions for gig workers and migrants in New York City. 
 
