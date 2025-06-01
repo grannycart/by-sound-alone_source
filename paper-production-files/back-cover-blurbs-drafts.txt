@@ -1,8 +1,9 @@
 back-cover-blurbs-drafts.txt
-Last modified: 2025-05-10 18:47
+Last modified: 2025-06-01 13:53
 
 
 2025 revision:
+(First two grafs identical to back-of-book blurb in Revised draft 2025-06-01 13:36 in shuttlebay/promotion/outreach/ for2025-revised-book-blurb.md)
 ----------------------------------------
 The surface of the ocean is off-limits — disputed territory contested by shadowy state powers. Global shipping has been driven undersea, where submarines now haul cargo discreetly across the world. Captain Sylvia Percy and her crew operate one such sub: the _Prospect_ — a rusting relic that requires a punishing daily struggle just to keep from sinking. 
 
