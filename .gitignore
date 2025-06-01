@@ -16,4 +16,6 @@ built-files
 *.epub
 *.html
 *.pdf
+# ignore this specific production notes file:
+README-files-in-this-directory.md
 
