@@ -82,6 +82,7 @@
 	* xala
 	* Threespeed
     * Becci Torrey
+    * https://github.com/KyleMarMc (contributed the one set of edits I ever got by PR!)
 
 [//]: # (* Cover from covervault: * https://covervault.com/)
 
