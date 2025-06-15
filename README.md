@@ -31,10 +31,16 @@
 		* Note: for draft versions I've added -M date="Version date - `date "+%B %e, %Y"`" to the pandoc compile lines in the Makefile so the compiled files have a reference date included in the title blocks. (Requires date command on the computer. -M adds the content to the metadata. This line should be removed from final published version.)
 	4. These files can be cleaned up a bit by hand. See notes below.
 * epub:
-	* formatting notes to come
+    * run `epubcheck` on the output file (epubcheck is included with calibre)
+        * 2025-06-15: epubcheck was throwing errors about the cover:
+        ```
+        ERROR(OPF-027): By-Sound-Alone.epub/EPUB/content.opf(12,69): Undefined property: "cover".
+        ```
+        * This can be fixed by manually editing the outputted epub file. Within the zipped epub file, edit the `content.opf` file. Remove the line `<meta property="cover" content="final-front-cover-layout_png" />` and save. (You can make this edit with vim without manually unzipping the epub file.)
+        * This meta line is apparently held over by pandoc from epub version 2 and is no longer valid.
 	* Calibre has a tool to convert epub to mobi. See comments in Makefile.
 * html:
-	* more or less works as compiled by pandoc, but it's not pretty
+	* more or less works as compiled by pandoc
 * pdf:
 	* more or less works as compiled by pandoc
 * txt:
