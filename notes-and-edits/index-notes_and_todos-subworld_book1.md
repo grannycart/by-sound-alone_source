@@ -1,5 +1,5 @@
 index-notes_and_todos-subworld_book1.md
-Last modified: 2025-05-04 15:40
+Last modified: 2025-06-15 15:34
 
 # Subworld Book 1 --- Index, general notes, editing notes, and todos
 * notes and todos -- moved to shuttlebay
@@ -32,7 +32,9 @@ Last modified: 2025-05-04 15:40
 
 ## Final production todos
 --------------------------------------------------------------------------------
-* [ ] When finished with third pass: do a par formatting on all md files? Ideally, the md would be very legible for reading.
+* [-] When finished with third pass: do a par formatting on all md files? Ideally, the md would be very legible for reading.
+    * This is unecessary because markdown is one of the built-files outputs and it is formatted for reading.
+* [ ] on final publication, move remaining notes and stuff in this dir to shuttlebay.
 * [ ] Amazon is getting rid of MOBI format, so you can can switch to JUST supplying epubs:
     * https://kdp.amazon.com/en_US/help/topic/GULSQMHU5MNH4EZM
 * [ ] remove Amazon paper version --- it's better to just have epub for amazon, and force people to B&N for paper version. You don't need more than a single paper version.

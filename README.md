@@ -5,7 +5,7 @@
 
 ## How to read it:
 * Available to read on github pages here:
-	* [By Sound Alone](https://bysoundalone.net/)
+	* [By Sound Alone](https://bysoundalone.net/) (Includes more information about the book)
 * Or, compile from this source code using pandoc.
 	* (Or just read the straight markdown, available in source.)
 
@@ -13,8 +13,10 @@
 ## Repo contents:
 * **cover/**: The cover graphic files.
 * **notes-and-edits/**: Todo lists and other documentation.
-* **manuscript/**: Current version of book in markdown. broken out into separate files for each chapter.
+* **manuscript/**: Markdown files that are the source for the book text. Broken out into separate files for each chapter.
+    * Any edits to the book would be done in these files.
 * **sub-diagrams/**: Digrams of protaganist submarines in book.
+* **final-formatted-output-files/**: Formatted output files of final version of the book.
 
 
 ## Compilation notes:
@@ -38,7 +40,7 @@
 * txt:
 	* more or less works as compiled by pandoc
 * latex:
-	* This is good for getting a raw latex file that can be edited for making a nice paperback version. See [notes here](latex-edits-for-paperback.md).
+	* This is good for getting a raw latex file that can be edited for making a nice paperback version. See `latex-edits-for-paperback.md` file.
 * Diagrams:
 	* There is a quick layout in an Inkscape .svg file in the sub-diagrams/ directory. Just open that in Inkscape, save it as a pdf, and then do what you like with it.
 	* For .epub the diagrams have to go into the file, so there is an extra file in the Makefile pandoc compilation list for the epub target: full-draft-manuscript/one_diagrams.md that includes the diagrams. 
@@ -51,13 +53,13 @@
     * git and make (obviously) 
     * pandoc
     * at least a basix latex install if you want to make pdfs 
-        * on Arch Linux: 
+        * on Arch Linux (what I use, so this is a note to myself): 
             * you need to add the otf-latin-modern package to get the font lmroman10-regular
             * and texlive-fontsrecommended to get lmodern.sty
         * Xetex (on Arch Linux, the texlive-xetex package) --- xelatex engine is used for the pdf generation.
         * (probably some other specific packages, likely to vary depending on distro.)
     * date (virtually all unix machines have this by default)
-    * calibre --- if you want to create .mobi files. (See comments in Makefile)
+    * calibre --- for testing your epub, and if you want to create .mobi files. (See comments in Makefile)
     * Inkscape --- if you want to edit the diagrams
 
 
@@ -74,16 +76,8 @@
 	* xala
 	* Threespeed
     * Becci Torrey
-	* Your name here!
-	* Or your name here!
-	* Or your name here!
 
 [//]: # (* Cover from covervault: * https://covervault.com/)
-
-## Documentation:
-* [Notes and todos](notes-and-edits/index-notes_and_todos-subworld_book1)
-	* See this file for detailed list of notes files
-
 
 ## License:
 * This book is under a CC license:
