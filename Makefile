@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2025-06-15 18:38
+# Last modified: 2025-07-21 20:57
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -28,8 +28,6 @@ COVER_IMAGE = cover/final-front-cover-layout.png
 # 'report' puts in annoying chapter numbers that I can't figure out how to get rid of with pandoc.
 # This document is fairly simple, so 'article' works well --- though see notes in README.md on compiling.
 LATEX_CLASS = article
-# This corresponds to the --css switch in the pandoc command:
-CSS = css/clean-html.css
 # This line uses the -M switch to override the 'rights' field in metadata.yaml and puts a version date into the compiled pandoc file. 
 # (has to go here to run on the command line so it can use the 'date' command from Linux)
 # The default setup puts in today's date automatically:
@@ -73,11 +71,11 @@ $(BUILD)/epub/$(BOOKNAME)_chap1-sample.epub: $(METADATA) $(DIAGRAMS) manuscript/
 
 $(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/html
-#	The html is formatted by css to be a clean web page. See file in css/
+#	--css formats the html with css to be a clean web page without being the plainest of plain web pages. See file: css/clean-html.css
 #	--embed-resources requires at least pandoc 2.19
-#	"rights" is set as date for htmlso it gets printed on first page as part of title block 
+#	"rights" is set as date for html so it gets printed on first page as part of title block 
 #	-s, --standalone is set automatically for epub and pdf/latex, but not for html:
-	pandoc --toc --toc-depth=2 --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
+	pandoc --toc --toc-depth=2 --css=css/clean-html.css --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/pdf
